@@ -7,7 +7,7 @@ High Level
 - Complete Asset summary pages (custom summaries)
 - Polish to Moves and Asset sections. Typos, formatting and layout adjustments.
 - Created "Aspect" and "Gameplay Role" categories to help categorize Moves and Assets.
-- First pass on import of gameplay rules
+- First pass on import of gameplay guidelines
 
 
 Detailed
@@ -52,9 +52,3 @@ Detailed
 	- Oracles
 	- Optional
 		- Clocks
-	
-
-# [[_Assets Index|Assets]]
-### Categories: [[_Vehicle Assets|Vehicle]]
-
- & !contains(PageType, "Index")
