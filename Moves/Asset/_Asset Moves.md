@@ -8,7 +8,7 @@ PageCategory: Asset
 
 ```dataview
 TABLE without ID
-	link(file.link, title) As "Move Name",
+	link(file.link, alias) As "Move Name",
 	"[[" + AssociatedAsset + "]] " + AssociatedAssetAbility As "Asset Ability",
 	RollType As "Roll Type"
 WHERE contains(PageType, "Move") & contains(PageCategory, "Asset") & !contains(PageType, "Index")
@@ -17,7 +17,7 @@ SORT file.name asc
 
 The Asset moves are created from the associated assets to make the presentation of abilities in-line with the moves documentation style.  
 
-*Look for any source material to put here if needed*
+#consider *Look for any source material to put here if needed*
 
 #Pedia/Moves/Asset 
 

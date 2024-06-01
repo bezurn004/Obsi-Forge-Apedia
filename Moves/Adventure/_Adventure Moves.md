@@ -8,7 +8,7 @@ PageCategory: Adventure
 
 ```dataview
 TABLE without ID
-	link(file.link, title) As "Move Name",
+	link(file.link, alias) As "Move Name",
 	InlineCmd As "Inline Command",
 	RollType As "Roll Type"
 WHERE contains(PageType, "Move") & contains(PageCategory, "Adventure") & !contains(PageType, "Index")

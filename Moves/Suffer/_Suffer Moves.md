@@ -7,7 +7,7 @@ PageCategory: Suffer
 # [[_Moves Index|Moves]] Summary: Suffer
 ```dataview
 TABLE without ID
-	link(file.link, title) As "Move Name",
+	link(file.link, alias) As "Move Name",
 	InlineCmd As "Inline Command",
 	RollType As "Roll Type"
 WHERE contains(PageType, "Move") & contains(PageCategory, "Suffer") & !contains(PageType, "Index")
@@ -15,7 +15,7 @@ SORT file.name asc
 ```
 
 
-When you bear the brunt of a failed action or make a concession, the suffer moves help resolve the cost. These moves are typically made when you must Pay the Price and face a hardship that directly impacts your well-being and readiness, or as prompted by a move or asset.
+When you bear the brunt of a failed action or make a concession, the suffer moves help resolve the cost. These moves are typically made when you must [[MV_Pay the Price|Pay the Price (move)]] and face a hardship that directly impacts your well-being and readiness, or as prompted by a move or asset.
 
 The suffer moves are tied to a mechanical result, reducing the value of an associated resource (momentum, health, spirit, supply, a companion’s health, or a vehicle’s integrity) by an amount appropriate to the severity of the incident or nature of a foe. But when you apply the mechanical cost of a suffer move, don’t just move numbers around. Take a moment to envision the details in the fiction. How does the situation change? What happens next? 
 

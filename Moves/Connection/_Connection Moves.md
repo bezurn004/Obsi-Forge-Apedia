@@ -8,7 +8,7 @@ PageCategory: Connection
 
 ```dataview
 TABLE without ID
-	link(file.link, title) As "Move Name",
+	link(file.link, alias) As "Move Name",
 	InlineCmd As "Inline Command",
 	RollType As "Roll Type"
 WHERE contains(PageType, "Move") & contains(PageCategory, "Connection") & !contains(PageType, "Index")
@@ -19,7 +19,7 @@ Connections are NPCs (non-player characters) who represent a deep, vital, or int
 
 Make these connection moves when you introduce connections and as you build influence or understanding with them.
 
-Connections are not your allies (protagonists portrayed by other players), nor are they companions (robots, creatures, or people who accompany you on your adventures, represented by companion assets). Instead, connections are characters who are independent of you, but whose lives occasionally intersect with your own. You begin your campaign with one established connection (123). Others are developed through the course of your adventures. Some examples of connections include: 
+Connections are not your allies (protagonists portrayed by other players), nor are they companions (robots, creatures, or people who accompany you on your adventures, represented by companion assets). Instead, connections are characters who are independent of you, but whose lives occasionally intersect with your own. You begin your campaign with one [[CSG_Create Local Connection|established connection]]. Others are developed through the course of your adventures. Some examples of connections include: 
 * A faction representative who tasks you with missions 
 * A ship mechanic at a remote facility you rely on for crucial repairs 
 * A fence who helps you unload or acquire goods of dubious origin 

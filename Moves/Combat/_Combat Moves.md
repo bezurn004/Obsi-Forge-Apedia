@@ -7,7 +7,7 @@ PageCategory: Combat
 
 ```dataview
 TABLE without ID
-	link(file.link, title) As "Move Name",
+	link(file.link, alias) As "Move Name",
 	InlineCmd As "Inline Command",
 	RollType As "Roll Type"
 WHERE contains(PageType, "Move") & contains(PageCategory, "Combat") & !contains(PageType, "Index")
@@ -17,11 +17,9 @@ SORT file.name asc
 
 The Forge is a perilous galaxy. Factions fight for control. Pirates hunt the spaceways. Raiders prey on vulnerable settlements. Dangerous creatures and chaotic terrors stalk the unwary. Dreaded foes and powerful forces will oppose your sworn quests. Eventually, you’ll be forced to fight. 
 
-When you face one or more foes in high-stakes, action-oriented conflict, use the combat moves. These moves encompass on-foot action and vehicle sorties—or both as part of the same challenge.
+When you face one or more foes in high-stakes, action-oriented conflict, use the combat moves. These moves encompass on-foot action and vehicle sorties, or both as part of the same challenge.
 
 Before we dive into the combat moves, there are a few terms and concepts to keep in mind for managing combat challenges. See the following pages for details.
-
-*roll this into a mechanics article*
 
 ## Combat Objectives
 Most combat challenges are driven by something other than simply inflicting physical violence against your foes. What are you trying to achieve? These are your objectives. For example: 
@@ -31,9 +29,9 @@ Most combat challenges are driven by something other than simply inflicting phys
 - Cover the evacuation of the settlement 
 - Shut down the main reactor 
 
-Much like quests, connections, and expeditions, combat is managed through progress tracks and resolved with a progress move. You’ll set one or more objectives when you Enter the Fray by naming them and giving them a rank. Then, you accrue progress toward those objectives by making combat moves. When you are ready to resolve an objective, [[Take Decisive Action]]. 
+Much like quests, connections, and expeditions, combat is managed through progress tracks and resolved with a progress move. You’ll set one or more objectives when you [[MV_Enter the Fray|Enter The Fray (move)]] by naming them and giving them a rank. Then, you accrue progress toward those objectives by making combat moves. When you are ready to resolve an objective, [[MV_Take Decisive Action|Take Decisive Action (move)]]. 
 
-A combat challenge involves action-oriented conflict, but it is not necessarily lethal. You should envision the actions of your character and your foes as appropriate to their intent and capabilities. For example, a [Strike](z_Obsi-Forge-Apedia/Moves/Combat/Strike.md) can be framed as a bruising punch, a shot from a stun gun, or a hail of deadly gunfire. But if you have an objective and neither side is willing or in a position to fight for it, that challenge is probably best represented through other moves. Combat is dangerous, messy, and chaotic. It’s often a last resort.
+A combat challenge involves action-oriented conflict, but it is not necessarily lethal. You should envision the actions of your character and your foes as appropriate to their intent and capabilities. For example, a [[MV_Strike|Strike (move)]] can be framed as a bruising punch, a shot from a stun gun, or a hail of deadly gunfire. But if you have an objective and neither side is willing or in a position to fight for it, that challenge is probably best represented through other moves. Combat is dangerous, messy, and chaotic. It’s often a last resort.
 
 ## Combat Position
 In a fight, your position is defined as one of two states: 
@@ -42,7 +40,7 @@ In a fight, your position is defined as one of two states:
 
 Some combat moves are inherently proactive or offensive and can only be made when you are in control. Others are reactive or defensive and are made when you are in a bad spot. The text of each combat move will describe the requirements (phrased as “when you are in control” or “when you are in a bad spot”), and the outcome for those moves will set your new position.
 
-You may also make moves that aren’t specific to combat, such as when you [[Endure Harm]] to resist injury or [Repair](z_Obsi-Forge-Apedia/Moves/Recover/Repair.md) your vehicle in the midst of a fight. To determine whether a move puts you in control or in a bad spot, follow these guidelines (unless a move tells you otherwise): 
+You may also make moves that aren’t specific to combat, such as when you [[MV_Endure Harm|Endure Harm (move)]] to resist injury or [[MV_Repair|Repair (move)]] your vehicle in the midst of a fight. To determine whether a move puts you in control or in a bad spot, follow these guidelines (unless a move tells you otherwise): 
 - When you score a strong hit, you are in control. 
 - When you score a weak hit or miss, you are in a bad spot.
 
@@ -54,10 +52,10 @@ Combat is a fluid situation. Talk out what happens as if moving a virtual camera
 ### Position and Foes
 You do not track a position or make moves for your opponents. When you are in a bad spot, NPCs take actions in the fiction of the scene that force you to react. When you are in control, you make proactive moves to achieve your objectives and envision how your foes try to thwart you. 
 
-When you’re not sure what an enemy does next, particularly when they have you in a bad spot, [[Ask the Oracle]]. The foes in Chapter 4 (page 250) include traits and tactics to help envision their actions. The Combat Action oracle (page 383) offers prompts you can interpret as appropriate to the nature of the enemy and your objective.
+When you’re not sure what an enemy does next, particularly when they have you in a bad spot, [[MV_Ask the Oracle|Ask the Oracle (move)]]. The foes in [[GNPC_Forging NPCs|Forging NPCs]] include traits and tactics to help envision their actions. The [[OCL_Combat Action|Combat Action Oracle]] offers prompts you can interpret as appropriate to the nature of the enemy and your objective.
 
 ## Combat Range
-When you [Strike](z_Obsi-Forge-Apedia/Moves/Combat/Strike.md) or [Clash](z_Obsi-Forge-Apedia/Moves/Combat/Clash.md) the stat you roll is determined by your range relative to your foes: close quarters (+iron) or at a distance (+edge). This applies to vehicle and personal combat. Most exchanges of gunfire or vehicle-to-vehicle barrages are at a distance. When you are on foot at close quarters, you fight hand-to-hand or use ranged weapons at a brutally close range. In a vehicle, close quarters can mean point-blank strafing runs, short-range volleys, and ramming.
+When you [[MV_Strike|Strike (move)]] or [[MV_Clash|Clash (move)]] the stat you roll is determined by your range relative to your foes: close quarters (+iron) or at a distance (+edge). This applies to vehicle and personal combat. Most exchanges of gunfire or vehicle-to-vehicle barrages are at a distance. When you are on foot at close quarters, you fight hand-to-hand or use ranged weapons at a brutally close range. In a vehicle, close quarters can mean point-blank strafing runs, short-range volleys, and ramming.
 
 Changing your range might require a move to overcome obstacles, or is simply woven into the narrative of other actions. Enemy maneuvers can also change the range. For example, if you Strike a charging creature with gunfire and roll a miss, you’ll likely find yourself at close quarters.
 
@@ -67,14 +65,14 @@ Apart from that, there’s no need to track the geography of combatants in comba
 The gear, companions, and vehicles you bring to bear provide narrative detail for a combat challenge and frame your ability to make moves. When you act to achieve your objectives, take these resources into account. Some of your combat capabilities might be represented by assets. But most are simply an aspect of your character and the situation. How are you armed and armored? Who stands beside you? What tools of war or natural abilities does your foe wield? What hazards or advantages does the environment present? Weave these elements into the fiction of the scene to create a dramatic, dynamic challenge. 
 
 ## Combat Scale and Difficulty
-Take the relative scale and power of the combatants into account when setting the rank of objectives. If you are well-prepared and in a strong position to achieve an objective, set its rank appropriately low. If you are outmatched, make it higher. A rank of formidable is a good default. When you Enter the Fray, adjust it from there to reflect situational advantages or drawbacks. Or use multiple objectives to ramp up the complexity and danger of the fight, especially when playing with allies. Then, when you must [[Pay the Price]] during combat, the cost should reinforce the danger of the situation and the relative power of your foes. 
+Take the relative scale and power of the combatants into account when setting the rank of objectives. If you are well-prepared and in a strong position to achieve an objective, set its rank appropriately low. If you are outmatched, make it higher. A rank of formidable is a good default. When you [[MV_Enter the Fray|Enter The Fray (move)]], adjust it from there to reflect situational advantages or drawbacks. Or use multiple objectives to ramp up the complexity and danger of the fight, especially when playing with allies. Then, when you must [[MV_Pay the Price|Pay the Price (move)]] during combat, the cost should reinforce the danger of the situation and the relative power of your foes. 
 
-In some cases, the scale of a foe will make direct assaults or defenses impossible. Your pistol is harmless against a titanic beast. Your SNUB FIGHTER is a minor nuisance against a massive dreadnought. Remember: fiction first. If you aren’t in a position to take an action, envision another approach. If all else fails, you may need to [[Face Defeat]].
+In some cases, the scale of a foe will make direct assaults or defenses impossible. Your pistol is harmless against a titanic beast. Your [[AST_Snub Fighter|Snub Fighter (asset)]] is a minor nuisance against a massive dreadnought. Remember: fiction first. If you aren’t in a position to take an action, envision another approach. If all else fails, you may need to [[MV_Face Defeat|Face Defeat (move)]].
 
 ## Battle Stations!
-The combat moves can depict any scale of action-oriented conflict—even the clash of mighty starships. If you are playing solo and at the helm of your STARSHIP or a support vehicle, you fly and fight independently. In co-op and guided play, you and your allies work together to survive. 
+The combat moves can depict any scale of action-oriented conflict—even the clash of mighty starships. If you are playing solo and at the helm of your [[AST_Starship|Starship (asset)]] or a support vehicle, you fly and fight independently. In co-op and guided play, you and your allies work together to survive. 
 
-There are no strict shipboard combat roles in Starforged. You’ll react to threats and take action as appropriate to your character’s nature and capabilities. But this doesn’t mean a character who serves as a HEALER is stuck waiting for a patient in the medical bay. On a ship with a small crew, everyone is expected to lend a hand in a crisis. Get in a gun turret. Operate the sensor console. Rush through smoke-filled corridors to put out a fire. You are broadly capable and can assist outside your specialties. 
+There are no strict shipboard combat roles in Starforged. You’ll react to threats and take action as appropriate to your character’s nature and capabilities. But this doesn’t mean a character who serves as a [[AST_Healer|Healer (asset)]] is stuck waiting for a patient in the medical bay. On a ship with a small crew, everyone is expected to lend a hand in a crisis. Get in a gun turret. Operate the sensor console. Rush through smoke-filled corridors to put out a fire. You are broadly capable and can assist outside your specialties. 
 
 To create a more exciting and involving shipboard combat challenge, let the narrative twists and turns of the fight create predicaments and opportunities for the crew. Here are some examples of shipboard combat tasks for co-op and guided play. In solo play, you may need to jump between or prioritize actions. 
 - Command: Coordinate, make plans, provide motivation or comfort 
@@ -89,7 +87,7 @@ To create a more exciting and involving shipboard combat challenge, let the narr
 - Sensors: Survey surroundings, scan foes, track and identify targets, plot navigation paths 
 - Systems: Manage communications, jam or hack enemy systems, defend against electronic threats 
  
-Characters who are in control will envision their actions through proactive moves such as [[Gain Ground]] or [Strike](z_Obsi-Forge-Apedia/Moves/Combat/Strike.md) . Characters in a bad spot need to get in position, overcome obstacles, avoid threats, and fight back using moves such as [[React Under Fire]] and [Clash](z_Obsi-Forge-Apedia/Moves/Combat/Clash.md). If you are in control and directly supporting another character, you can [[Aid Your Ally]]. In addition, [[_Suffer Moves|Suffer Moves]] and [[_Recover Moves|Recover Moves]] will come into play as the crew deals with harm, stress, and damage.
+Characters who are in control will envision their actions through proactive moves such as [[MV_Gain Ground|Gain Ground (move)]] or [[MV_Strike|Strike (move)]]. Characters in a bad spot need to get in position, overcome obstacles, avoid threats, and fight back using moves such as [[MV_React Under Fire|React Under Fire (move)]] and [[MV_Clash|Clash (move)]]. If you are in control and directly supporting another character, you can [[MV_Aid Your Ally|Aid Your Ally (move)]]. In addition, [[_Suffer Moves|Suffer Moves]] and [[_Recover Moves|Recover Moves]] will come into play as the crew deals with harm, stress, and damage.
 
 > [!quote]- Narrative example
 > Archer and Luna are playing Starforged in co-op mode. They are aboard their STARSHIP, flying through an asteroid field, on the run from a pack of pirate ships. Their objective: escape the pirates. 

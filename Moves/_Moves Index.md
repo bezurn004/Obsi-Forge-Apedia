@@ -1,8 +1,8 @@
 ---
 Alias: "Moves Index"
 ---
-# Moves [[_INDEX|Index]]
-In Starforged players make Moves for their characters to interact with the narrative enabling action rolls to determine the mechanical and narrative outcomes.  [[_Assets Index|Assets]] also reference moves through abilities that provide narrative prompts that provide benefits to the move action rolls.
+# [[_INDEX|Index]]: Moves 
+In Starforged players make Moves for their characters to interact with the narrative enabling action rolls to determine the mechanical and narrative outcomes.  [[_Assets Index|Assets]] also enhance or trigger moves through their granted abilities.
 
 Don’t read this section completely. Instead, if you have a question about a specific move, activity, or best-practice, go to that section. Also remember that the moves are available as printable handouts in the Starforged Playkit. Refer to those handouts during your session, and come back to this chapter if you need guidance or want more detail.
 
@@ -20,10 +20,10 @@ Depending on the nature of your character and the assets you bring to bear, you 
 Non-combat moves that are made as the player faces challenges through the story.
 ### [[_Asset Moves|Asset Moves]]
 Abilities derived from Assets to streamline the documentation and make clear how the ability should be used.
-### [[_Connection Moves|Connection Moves]]
-Foster relationship with NPC's and mark progress in hope of creating a bond.
 ### [[_Combat Moves|Combat Moves]]
 Take action in combat encounters to mark progress on objectives.
+### [[_Connection Moves|Connection Moves]]
+Foster relationship with NPC's and mark progress in hope of creating a bond.
 ### [[_Exploration Moves|Exploration Moves]]
 Traverse space, planets, and mysterious sites to mark progress on expeditions.
 ### [[_Fate Moves|Fate Moves]]
@@ -46,9 +46,10 @@ When dire circumstances might end a character's continuation in the narrative.
 ## Moves by Category
 ```dataview
 TABLE without ID
-	link(file.link, title) As "Move Name",
+	link(file.link, alias) As "Move Name",
 	InlineCmd As "Inline Command",
-	PageCategory As "Move Category"
+	PageCategory As "Move Category",
+	RollType As "Roll Type"
 WHERE contains(PageType, "Move") & !contains(PageType, "Index") & !contains(file.path, "Template")
 SORT PageCategory asc, file.name asc
 ```
