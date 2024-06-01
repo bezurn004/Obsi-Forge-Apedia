@@ -6,11 +6,12 @@ PageCategory: Companion
 # [[_Assets Index|Assets]]: Companion Summary
 ```dataview
 TABLE without ID
-	link(file.link, title) As "Asset Name",
+	link(file.link, alias) As "Asset Name",
 	GameplayRole As "[[Gameplay Role]]",
 	TrackMax As "Max Health",
 	Aspect As "Companion [[Aspect]]"
 WHERE contains(PageType, "Asset") & contains(PageCategory, "Companion") & !contains(PageType, "Index")
+SORT PageCategory asc, file.name asc
 ```
 
 #Pedia/Assets/Companion 

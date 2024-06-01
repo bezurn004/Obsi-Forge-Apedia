@@ -7,10 +7,11 @@ PageCategory: Companion
 
 ```dataview
 TABLE without ID
-	link(file.link, title) As "Asset Name",
+	link(file.link, alias) As "Asset Name",
 	GameplayRole As "[[Gameplay Role]]",
 	Aspect As "Character [[Aspect]]"
 WHERE contains(PageType, "Asset") & contains(PageCategory, "Path") & !contains(PageType, "Index")
+SORT PageCategory asc, file.name asc
 ```
 
 

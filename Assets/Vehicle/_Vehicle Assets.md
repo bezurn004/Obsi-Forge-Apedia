@@ -4,13 +4,15 @@ PageType: AssetIndex
 PageCategory: Vehicle
 ---
 # [[_Assets Index|Assets]]: Vehicle Summary
+For more information, see the gameplay rules for [[GP_Assets#Support Vehicles|Vehicle Assets]] Vehicle Assets.
 ```dataview
 TABLE without ID
-	link(file.link, title) As "Asset Name",
+	link(file.link, alias) As "Asset Name",
 	GameplayRole As "[[Gameplay Role]]",
 	TrackMax As "Integrity (Max)",
 	Aspect As "Vehicle [[Aspect]]"
 WHERE contains(PageType, "Asset") & contains(PageCategory, "Vehicle") & !contains(PageType, "Index")
+SORT PageCategory asc, file.name asc
 ```
 
 #Pedia/Assets/SupportVehicle 

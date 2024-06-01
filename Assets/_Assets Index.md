@@ -2,7 +2,7 @@
 Alias: "Assets"
 ---
 
-# Asset [[_INDEX|Index]]
+# [[_INDEX|Index]]: Assets
 ## Asset Categories
 
 ### [[_Companion Assets|Companion Assets]]
@@ -23,7 +23,7 @@ Provide transportation, saftey, and abilities while undertaking explorations in 
 ## All Assets by Category
 ```dataview
 TABLE without ID
-	link(file.link, title) As "Asset Name",
+	link(file.link, alias) As "Asset Name",
 	PageCategory As "Asset Category"
 WHERE contains(PageType, "Asset") & !contains(PageType, "Index") & !contains(file.path, "Template")
 SORT PageCategory asc, file.name asc

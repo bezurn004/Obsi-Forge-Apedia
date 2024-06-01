@@ -6,10 +6,11 @@ PageCategory: Deed
 # [[_Assets Index|Assets]]: Deed Summary
 ```dataview
 TABLE without ID
-	link(file.link, title) As "Asset Name",
+	link(file.link, alias) As "Asset Name",
 	GameplayRole As "[[Gameplay Role]]",
 	PreReqCondition As "Asset PreReq"
 WHERE contains(PageType, "Asset") & contains(PageCategory, "Deed") & !contains(PageType, "Index")
+SORT PageCategory asc, file.name asc
 ```
 
 #Pedia/Assets/Deeds 

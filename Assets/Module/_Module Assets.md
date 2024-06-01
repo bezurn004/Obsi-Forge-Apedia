@@ -4,13 +4,16 @@ PageType: AssetIndex
 PageCategory: Module
 ---
 # [[_Assets Index|Assets]]: Module Summary
+For more information, see the rules related to [[GP_Assets#Modules|Module Assets]].
+
 ```dataview
 TABLE without ID
-	link(file.link, title) As "Asset Name",
+	link(file.link, alias) As "Asset Name",
 	GameplayRole As "Gameplay Role",
 	TrackLabels + " (" + TrackMax + ")"  As "Track (Amount)",
 	Aspect As "Module Aspect"
 WHERE contains(PageType, "Asset") & contains(PageCategory, "Module") & !contains(PageType, "Index")
+SORT PageCategory asc, file.name asc
 ```
 
 #Pedia/Assets/Module 
