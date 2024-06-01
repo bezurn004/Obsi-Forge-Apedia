@@ -27,11 +27,11 @@ It’s not an exact science, but you can equate segments of a clock to the numbe
 
 ## Advancing a Campaign Clock
 
-When you [[Begin a Session]], make a check against any active campaign clocks. If advancing a clock is not in doubt—enough time has passed or the pieces are in place to make it inevitable—simply fill in the next segment. If circumstances or time conspire to push the clock forward more rapidly, fill two segments.
+When you [[MV_Begin a Session]], make a check against any active campaign clocks. If advancing a clock is not in doubt—enough time has passed or the pieces are in place to make it inevitable—simply fill in the next segment. If circumstances or time conspire to push the clock forward more rapidly, fill two segments.
 
-If there are factors or forces that create uncertainty, you can [[Ask the Oracle]] using the yes/no table.
+If there are factors or forces that create uncertainty, you can [[MV_Ask the Oracle]] using the yes/no table.
 
-To make the check, [[Ask the Oracle]], “does the clock advance?” Set the outcome to likely as your default, and adjust up or down one row if other factors or forces (including your own aid or interference) have a strong influence on the clock. If it is more likely, make it almost certain. If it is less likely, make it 50/50. In exceptional circumstances, you can push the chance as low as unlikely.
+To make the check, [[MV_Ask the Oracle]], “does the clock advance?” Set the outcome to likely as your default, and adjust up or down one row if other factors or forces (including your own aid or interference) have a strong influence on the clock. If it is more likely, make it almost certain. If it is less likely, make it 50/50. In exceptional circumstances, you can push the chance as low as unlikely.
 
 **If the answer is yes**, fill a clock segment. If you also roll a match on your oracle dice, envision how this situation or project gains dramatic support or inertia, and fill two segments instead of one.
 

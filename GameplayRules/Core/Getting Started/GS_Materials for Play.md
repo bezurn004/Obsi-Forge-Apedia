@@ -16,7 +16,6 @@ You’ll need some dice to play Starforged:
 ## Schedule Your Starforged Sessions
 If you’re playing solo, a session can be as long as you like, from a few minutes to a few hours. If you’re playing with others, you probably want to dedicate enough time to make some progress in your quests; plan on a couple of hours or more.
 
-> [!note]
 > If you prefer to use digital platforms such as a virtual tabletop to play Starforged, or some combination of digital and analogue tools, check ironswornrpg.com for links to the most popular resources.
 
 ## Next Topic: [[GS_Tone and Setting|Tone and Setting]]

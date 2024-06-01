@@ -10,7 +10,7 @@ You use a character sheet (shown on the opposite page, and available as part of 
 
 The character sheet also includes your stats. These are core to your character’s capabilities, nature, and approach. In the next chapter, you’ll create your character and assign each stat a value from 1 to 3. Then, when things get risky or uncertain, you roll dice and use one of your stats as a bonus. 
 
-*Break these stats into micro pages, that then link back to this page for reference. Do leave this enumeration here, or expand on it to summarize all aspects of a character.* #consider 
+%% #consider Break these stats into micro pages, that then link back to this page for reference. Do leave this enumeration here, or expand on it to summarize all aspects of a character.%% 
 The stats are: 
 - Edge: quickness, agility, and prowess when fighting at a distance. 
 - Heart: courage, willpower, empathy, sociability, and loyalty. 
@@ -18,12 +18,13 @@ The stats are:
 - Shadow: sneakiness, deceptiveness, and cunning. 
 - Wits: expertise, knowledge, and observation. 
 
-Another key aspect of your character is your assets, an example of which is shown below. They are formatted as poker-sized cards. Assets provide abilities that can improve or modify your actions. They are acquired when you create your character and as you gain experience. In this rulebook, asset names are shown in ALL CAPS. You can learn more about assets on page 54.
-#consider *Lump this into the above summary*
+Another key aspect of your character is your assets, an example of which is shown below. They are formatted as poker-sized cards. Assets provide abilities that can improve or modify your actions. They are acquired when you create your character and as you gain experience. In this rulebook, asset names are shown with **"(asset)"** after their name. You can learn more about [[GP_Assets|Assets (gameplay)]] here.
+%% #consider Lump this into the above summary %%
 
 ### Character Sheet
-#consider Do we need this here, or define micro-page link on the character sheet?
-Character sheet
+%% #consider Do we need this here, or define micro-page link on the character sheet? %%
+%% #migration to different character sheet template
+[[Character_Template|Character Sheet]] %%
 Your five stats are given a value from 1 to 3. A stat is often added as a bonus when you take action
 
 As you fulfill vows, form bonds, and explore the galaxy, you gain experience on legacy tracks.
@@ -39,7 +40,7 @@ Vows are sacred oaths to complete perilous quests. You decide a background vow w
 ### You Are Ironsworn
 Your character is not just an array of mechanical bits and bobs. They are a person, grounded in the fiction of your setting. They have hopes and fears, virtues and failings. In the exercises in the next chapter, you’ll create your character and define their nature and background. For now, here are some default assumptions:
 - You are driven: Many live out their lives barely venturing beyond the shelter of their orbital station or planetside outpost, but you are different. Your sworn vows lead to a life of danger, heroism, and sacrifice at the edge of known space—and beyond. 
-- You are a spacer: For most, space is lonely, cold, incomprehensibly vast, and full of peril. For you—at least for now—it is home. You have a starship, and the depths of this largely uncharted galaxy call to you. 
+- You are a spacer: For most, space is lonely, cold, incomprehensibly vast, and full of peril. For you, at least for now, it is home. You have a starship, and the depths of this largely uncharted galaxy call to you. 
 - You are competent: You might specialize in a particular career or set of skills, but you are broadly self-reliant and capable. 
 - You are imperfect: You are not without your limitations. You’ll make bad decisions. You will fail. Fate will conspire against you. Overcoming those hardships, pushing on, is what makes you heroic. 
 - You are unbound: The default setting is human-centric, and Starforged does not include specific options to play aliens, robots, or other non-human science fiction archetypes. Aside from that consideration, envision your character as you like. There are no gameplay or setting restrictions that constrain your character’s race, culture, disabilities, sexual orientation, or gender identity.
@@ -48,13 +49,13 @@ For the people of the Forge, an iron vow is sacred. When you hold a piece of iro
 
 ### Other Characters
 The mechanics and fiction of Starforged are almost entirely focused on the actions and intent of your character. But you are not alone in the Forge; there are other characters who will take a role in your story. 
-#consider *Break down these definitions into microsheets to be linked within the Pedia*
-*Leave this enumeration here?*
+%% #consider Break down these definitions into microsheets to be linked within the Pedia
+Leave this enumeration here? %%
 
 - If you are playing a co-op or guided game with other players, their characters are referred to in these rules as your allies. 
 - A companion is a special type of asset. They are a person, creature, or robotic helper who accompanies you on your adventures. 
 - NPCs (non-player characters and creatures) are the other characters who inhabit your universe. They can have a single mechanical attribute, their rank, to help set their relative scale and abilities. But you do not roll dice for them. When you attempt to influence them, oppose them, or aid them, take action from your character’s perspective. 
-- As you explore the Forge and undertake quests, you establish deeper relationships with NPCs—called connections—who become a more vital part of your campaign
+- As you explore the Forge and undertake quests, you establish deeper relationships with NPCs, called connections, who become a more vital part of your campaign
 
 ## Next Topic: [[GP_Making Moves|Making Moves]]
 

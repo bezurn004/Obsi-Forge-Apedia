@@ -13,11 +13,11 @@ That said, situations within the fiction may put you and an ally at odds. Your c
 So how do you deal with the situation when allies clash?
 
 ## Conflict Without Moves
-Disagreements between characters can usually be handled through roleplaying. Talk it out, as your characters. But take care to not let this fictional conflict carry over into the real world. If things get heated or uncomfortable, Take a Break. When you return to the game, discuss your approaches out-of-character, agree on next steps, and transition back into the fiction to resolve the situation from the perspective of your characters.
+Disagreements between characters can usually be handled through roleplaying. Talk it out, as your characters. But take care to not let this fictional conflict carry over into the real world. If things get heated or uncomfortable, [[MV_Take a Break|Take a Break (move)]]. When you return to the game, discuss your approaches out-of-character, agree on next steps, and transition back into the fiction to resolve the situation from the perspective of your characters.
 
 ## Conflict Using Moves
-If you want to resolve a conflict among allies through moves, make opposed [[Face Danger]] rolls to decide the outcome in a single exchange. 
-- Both describe what you are doing to persuade, act against, or resist your ally, and [[Face Danger]] using an appropriate stat. 
+If you want to resolve a conflict among allies through moves, make opposed [[MV_Face Danger|Face Danger]] rolls to decide the outcome in a single exchange. 
+- Both describe what you are doing to persuade, act against, or resist your ally, and [[MV_Face Danger|Face Danger]] using an appropriate stat. 
 - If at least one of you scores a hit, determine who gains control of the outcome by comparing your level of success in the order below:
 	- strong hit with a match
 	- strong hit
@@ -27,7 +27,7 @@ If you want to resolve a conflict among allies through moves, make opposed [[Fac
 	- If you both have the same level of success, use your action score (your action die + stat + any adds) as a tie-breaker.
 	- If you are still tied, envision how your actions lead to a complete stalemate. 
 - Whoever gains control of the outcome decides which of the two moves should be resolved and works with the other player to depict that result in the fiction. The result of the other move is ignored. 
-- If neither of you scored a hit, resolve the miss for both moves. Each of you must [[Pay the Price]]. Use this procedure sparingly for unusual circumstances, taking care to not take control of another player’s character. Work together to interpret the framing and outcome of the scene, with each of you describing your character’s intent and reaction.
+- If neither of you scored a hit, resolve the miss for both moves. Each of you must [[MV_Pay the Price|Pay the Price]]. Use this procedure sparingly for unusual circumstances, taking care to not take control of another player’s character. Work together to interpret the framing and outcome of the scene, with each of you describing your character’s intent and reaction.
 
 > [!quote] Narrative example
 > Archer and Luna, stranded on the surface of a fungus-encrusted world, travel to a planetside industrial facility. They are in desperate need of help, but this remote outpost bears the markings of Clan Thorn, a powerful faction that is hunting for them both. Archer wants to give the facility a wide berth, but Luna is insistent on taking a closer look.

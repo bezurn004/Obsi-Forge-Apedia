@@ -15,7 +15,7 @@ Inspiration comes from the quest-driven stories of The Mandalorian, the lived-in
 You can bend the tone to your liking. You’ll make a unique version of the setting as you define aspects such as its history, technology, communities, lifeforms, supernatural abilities, and more
 
 ## The Setting
-Your adventures are set within the Forge. This is a globular cluster in orbit around your people’s home galaxy. It is 1,700 light years above the galactic plane—a bright island in a dark void.
+Your adventures are set within the Forge. This is a globular cluster in orbit around your people’s home galaxy. It is 1,700 light years above the galactic plane, a bright island in a dark void.
 
 Interstellar nebula span the depths of the Forge, interspersed with denser clouds of vibrant interplanetary dust and strange energies. It is a chaotic galaxy wracked by fiery stellar storms and unpredictable gravitational currents. The planets and stars of this place are born of that chaos.
 
@@ -28,8 +28,7 @@ Your people divide the Forge broadly into four regions:
 - Expanse: A few bold pioneers have delved the far-flung reaches of the Forge. Isolated settlements have been built among these distant domains, but they are usually lost and disconnected from the settled regions. 
 - Void: Beyond the Forge, there are only a few isolated stars and vast gulfs of nothing. Travel beyond the periphery of the Forge is difficult or impossible.
 
-> [!note]
-> You’ll learn more about the setting and decide the nature of your version of the Forge using the guided exercise in [[Starting Your Campaign]]
+> You’ll learn more about the setting and decide the nature of your version of the Forge using the guided exercise in [[_Campaign Index|Campaign Creation]]
 
 ## Next Topic: [[GS_Mechanics and Fiction|Mechanics and the Fiction]]
 

@@ -18,9 +18,9 @@ Impacts also reduce your momentum reset.
 
 
 ## Misfortunes
-- Wounded may be marked when you are at 0 health and fail to Endure Harm. You are severely injured.
-- Shaken may be marked when you are at 0 spirit and fail to Endure Stress. You are despairing or distraught. 
-- Unprepared is marked when you Sacrifice Resources and are reduced to 0 supply. You are not properly equipped for the dangers of the Forge. Because you and your allies share the same supply value, you mark unprepared together.
+- Wounded may be marked when you are at 0 health and fail to [[MV_Endure Harm|Endure Harm]]. You are severely injured.
+- Shaken may be marked when you are at 0 spirit and fail to [[MV_Endure Stress|Endure Stress]]. You are despairing or distraught. 
+- Unprepared is marked when you [[MV_Sacrifice Resources|Sacrifice Resources]] and are reduced to 0 supply. You are not properly equipped for the dangers of the Forge. Because you and your allies share the same supply value, you mark unprepared together.
 
 As with all impacts, misfortunes affect your max momentum and momentum reset. In addition, if you are wounded, shaken, or unprepared, you cannot increase the associated condition meter. 
 - If you are wounded, you cannot increase health. 
@@ -29,33 +29,32 @@ As with all impacts, misfortunes affect your max momentum and momentum reset. In
  
 If a move gives you an opportunity to raise your health, spirit, or supply while the associated misfortune is marked, you can’t take that option. You must clear the impact before improving the related condition meter.
 
-Wounded, shaken, and unprepared can be cleared when you succeed on an appropriate recover move. For example, scoring a hit on the Heal move can clear the wounded impact. Once you clear the misfortune, you restore your max momentum and momentum reset, and you can once again increase the associated meter through moves.
+Wounded, shaken, and unprepared can be cleared when you succeed on an appropriate recover move. For example, scoring a hit on the [[MV_Heal|Heal]] move can clear the wounded impact. Once you clear the misfortune, you restore your max momentum and momentum reset, and you can once again increase the associated meter through moves.
 
 ## Vehicle Troubles
-- Battered may be marked when your vehicle is at 0 integrity and you fail to Withstand Damage. The vehicle is barely holding together. 
-- Cursed may be marked when your command vehicle (STARSHIP asset) is at 0 integrity and you fail to Withstand Damage. This is a permanent impact. Your ship will never be quite right again.
+- Battered may be marked when your vehicle is at 0 integrity and you fail to [[MV_Withstand Damage|Withstand Damage]]. The vehicle is barely holding together. 
+- Cursed may be marked when your command vehicle ([[AST_Starship|Starship (asset)]]) is at 0 integrity and you fail to [[MV_Withstand Damage|Withstand Damage]]. This is a permanent impact. Your ship will never be quite right again.
 
 Vehicle troubles are linked to a specific vehicle, either your command vehicle asset or a support vehicle asset. These impacts are only a factor when you are piloting or aboard that vehicle. Otherwise, they do not count as an impact and do not affect your maximum momentum and momentum reset.
 
-Battered can be overcome when you successfully Repair that vehicle and clear the trouble. Until you do so, you cannot raise the vehicle’s integrity. Cursed is a permanent impact and will forever plague your STARSHIP. To learn more about ==vehicle assets, see page 54==. To learn more about vehicles in general in your ==Starforged campaign, see page 65==
+Battered can be overcome when you successfully [[MV_Repair|Repair]] that vehicle and clear the trouble. Until you do so, you cannot raise the vehicle’s integrity. Cursed is a permanent impact and will forever plague your [[AST_Starship|Starship (asset)]]. To learn more about [[_Vehicle Assets|Vehicle Assets]]. To learn more about [[GP_Vehicles|Vehicles (gameplay)]] in general in your Starforged campaign, see the linked page.
 
-> [!note]
 > If playing with allies, a vehicle trouble affects anyone on the vehicle, regardless of who owns or manages the vehicle asset.
 
 ## Burdens
-- Doomed is marked when you Face Death and return from death’s door with a soul-bound quest.
-- Tormented is marked when you Face Desolation, gain visions of a distressing future, and undertake a quest to prevent that dire fate. 
-- Indebted is marked when you Overcome Destruction. To replace what was lost and repay the debt, you will take on a duty-bound quest.
+- Doomed is marked when you [[MV_Face Death|Face Death]] and return from death’s door with a soul-bound quest.
+- Tormented is marked when you [[MV_Face Desolution|Face Desolution]], gain visions of a distressing future, and undertake a quest to prevent that dire fate. 
+- Indebted is marked when you [[MV_Overcome Destruction|Overcome Destruction]]. To replace what was lost and repay the debt, you will take on a duty-bound quest.
  
 Burdens are a result of life-changing experiences that leave you bound to new vows. Clearing a burden can only be accomplished by resolving the quest.
 
 While you are doomed, tormented, or indebted, you should envision the physical and emotional manifestations of these impacts. You have seen what lies beyond death, suffered visions of your greatest fears, or barely escaped the destruction of your prized starship. How do these events change you? What will you do to set things right? 
 
 ## Lasting Effects
-- Permanently harmed may be marked when you are at 0 health and fail to Endure Harm. You have suffered a wound that you must reckon with, such as the loss of an eye or hand. Or you bear physical scars that are a constant reminder of a harrowing incident. 
-- Traumatized may be marked when you are at 0 spirit and fail to Endure Stress. Your experiences have left you emotionally or mentally scarred.
+- Permanently harmed may be marked when you are at 0 health and fail to [[MV_Endure Harm|Endure Harm]]. You have suffered a wound that you must reckon with, such as the loss of an eye or hand. Or you bear physical scars that are a constant reminder of a harrowing incident. 
+- Traumatized may be marked when you are at 0 spirit and fail to [[MV_Endure Stress|Endure Stress]]. Your experiences have left you emotionally or mentally scarred.
 
-Lasting effects are permanent. They forever impact your character through the momentum adjustment and—more importantly—the narrative impact of being permanently harmed or traumatized. You should factor this impact into how you perform moves and how you interact with the world.
+Lasting effects are permanent. They forever impact your character through the momentum adjustment and, more importantly, the narrative impact of being permanently harmed or traumatized. You should factor this impact into how you perform moves and how you interact with the world.
 
 Envision the nature of the lasting effect. You may have physical, emotional, or mental factors you must take into account. Your outlook may change. Your goals and methods may change. How others behave toward you may change.
 
@@ -68,12 +67,12 @@ To mark an impact on your character sheet, fill in the appropriate bubble. Once 
 Battered or cursed might apply to multiple vehicles, but are only relevant when you are aboard a vehicle with an impact (including a support vehicle managed by an ally). If a vehicle is battered or cursed, mark that impact on the asset card. When you go aboard, mark it on your character sheet under vehicle troubles as a reminder.
 
 ### Adjusting Momentum
-Once you mark an impact, adjust your ==max momentum and momentum reset as detailed on page 37.== 
+Once you mark an impact, adjust your [[GP_Momentum#Max Momentum|max momentum]] and [[GP_Momentum#Resetting Momentum|momentum reset]]  as detailed on the linked pages.
 - If you have one impact marked, your momentum reset is +1. 
 - If you have more than one impact marked, your momentum reset is 0.
 
 ## Other Impacts
-Certain assets offer abilities at the cost of counting as an impact for your character. For example, the OATHBREAKER asset strengthens your resolve as you pursue a quest of redemption, but counts as an impact until you fulfill that vow. You can mark these in the “Other Impacts” section of your character sheet. They contribute as normal to your max momentum and momentum reset penalties
+Certain assets offer abilities at the cost of counting as an impact for your character. For example, the [[AST_Oathbreaker|Oathbreaker (asset)]] asset strengthens your resolve as you pursue a quest of redemption, but counts as an impact until you fulfill that vow. You can mark these in the “Other Impacts” section of your character sheet. They contribute as normal to your max momentum and momentum reset penalties
 
 ## Next Topic: [[GP_Assets|Assets (gameplay)]]
 

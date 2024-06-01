@@ -6,7 +6,7 @@ PageCategory: GettingStarted
 CategoryOrder: 1
 ---
 # [[_Gameplay Guidelines Index|Gameplay Rules]]: The Basics
-In Ironsworn: Starforged (hereafter referred to as Starforged), you are a spaceborne hero sworn to undertake perilous quests. You will explore uncharted space, unravel the secrets of a mysterious galaxy, and build bonds with those you meet on your travels. Most importantly, you will swear iron vows and see them fulfilled—no matter the cost.
+In Ironsworn: Starforged (hereafter referred to as Starforged), you are a spaceborne hero sworn to undertake perilous quests. You will explore uncharted space, unravel the secrets of a mysterious galaxy, and build bonds with those you meet on your travels. Most importantly, you will swear iron vows and see them fulfilled, no matter the cost.
 
 To play Starforged, you make some decisions about the setting and your character, and set your story in motion. When you encounter something dangerous or uncertain, your choices and the dice determine the outcome. 
 
@@ -19,10 +19,11 @@ Starforged offers three ways to play:
 - Cooperative (Co-op): You and one or more friends play together to overcome challenges and complete quests. A guide is not required. The Starforged game system will help reveal the nature of locations, characters, and situations you encounter. 
 - Solo: As with cooperative play, no guide is necessary. You portray a lone heroic character, using the Starforged game system to explore the dramatic story of your character and their fateful vows
 
-> [!note]
 > Starforged is intended for solo and small group play. One to three players (plus a guide if playing in that mode) is ideal. This rulebook is often written to the perspective of a solo player, but the basic approaches and rules are the same for co-op and guided play.
 
 ## Next Topic: [[GS_Materials for Play|What You Need To Play]]
+
+### Sub Topic: [[GS_Prioritizing Player Saftey|Prioritizing Player Safety]]
 
 ## Tags
 #Pedia/Gameplay 

@@ -16,7 +16,7 @@ Here are a few examples of tension clocks in action:
 To create a tension clock, name it and decide the number of segments. If the danger or deadline is imminent, make it four or six segments. If it represents a longer-term threat, make it eight or ten segments. 
 
 ### Advancing a Tension Clock
-As you [[Pay the Price]] or encounter a complication in a situation where a tension clock is active, you can resolve the cost or concession by filling a segment on the clock. The looming threat or deadline is getting closer. If it is a dramatic failure, such as a miss with a match, make it two segments.
+As you [[MV_Pay the Price]] or encounter a complication in a situation where a tension clock is active, you can resolve the cost or concession by filling a segment on the clock. The looming threat or deadline is getting closer. If it is a dramatic failure, such as a miss with a match, make it two segments.
 
 ### Completing a Tension Clock
 Once the clock is filled, the threat or deadline triggers. This should result in harrowing problems for your character. It may even force you to abandon an expedition, fight, vow, or other challenge. 

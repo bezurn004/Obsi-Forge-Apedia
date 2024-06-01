@@ -6,34 +6,50 @@ PageCategory: Fundamental
 CategoryOrder: 80
 ---
 # [[_Gameplay Guidelines Index|Gameplay Rules]]: Assets
-Assets are a key component of your character. They represent your background, skills, traits, companions, and resources. They have abilities that give you additional options and bonuses when making a move—or sometimes act as their own self-contained moves. When you create your character (page 100), you select your starting assets. As you fill boxes on your legacy tracks, you Earn Experience. This experience is spent to gain new assets or upgrade current assets. Starforged assets are formatted as printable or preprinted cards. Put them alongside your character sheet for easy reference.
+Assets are a key component of your character. They represent your background, skills, traits, companions, and resources. They have abilities that give you additional options and bonuses when making a move, or sometimes act as their own self-contained moves. When you [[_CRG_Create Your Character|Create Your Character Summary]] create your character (page 100), you select your starting assets. As you fill boxes on your legacy tracks, you Earn Experience. This experience is spent to gain new assets or upgrade current assets. Starforged assets are formatted as printable or preprinted cards. Put them alongside your character sheet for easy reference.
 
-#missingArt *Asset field description*
-This is the asset name. In this rulebook, asset names are shown in ALL CAPS. 
+![[AST_Starship|Starship (asset)]]
+
+This is the asset name. In this rulebook, asset names are shown with "(asset)" after their name. 
 This is the asset type.
 Assets include a default ability, represented by the filled-in marker.
 You spend experience, to acquire new abilities. When you purchase an upgrade, fill in the marker to show you now have that ability.
 
-> [!note]
 > Some assets abilities apply to a variety of moves. This is usually phrased as “when you make a move to [blank].” However, this flexibility does not include progress moves. Unless an asset specifically defines a benefit for a progress move, you cannot use an ability when making a progress roll.
 
 ## Asset Types
-There are six types of assets: ==command vehicle, modules, support vehicles, paths, companions, and deeds.==
+There are six types of assets: command vehicle, modules, support vehicles, paths, companions, and deeds.
 
-#missingArt *List of asset cards (not necessary I feel)*
+### Command Vehicle
+The command vehicle is your interstellar [[AST_Starship|Starship (asset)]]. It is a default asset for your character, taken when you begin your campaign. If you are playing with others, this is a shared asset; each of you may use the [[AST_Starship|Starship's (asset)]] abilities while aboard the craft. The command vehicle has an [[GP_Condition Meters#Asset Condition Meters|integrity meter]] and starts at 5 integrity. When your [[AST_Starship|Starship (asset)]] takes a hit, make the [[MV_Withstand Damage|Withstand Damage]] to see what happens.
+
+### Modules
+[[_Module Assets|Modules]] are linked to your [[AST_Starship|Starship (asset)]] and offer additional options and advantages when aboard that vehicle. These assets are earned and managed by a single character. They can be shared with allies, but only if it’s practical for them to make use of it (not everyone may know how to use a [[AST_Research Lab (asset)]]). When you [[MV_Withstand Damage|Withstand Damage]] and score a miss, you can mark a module as broken to offset further danger for your [[AST_Starship|Starship (asset)]]. Flip the card over to indicate its broken state. A broken module cannot be used until you successfully [[MV_Repair|Repair]] it.
+
+### Support Vehicles
+[[_Vehicle Assets|Support Vehicles]]  [[GP_Vehicles|Vehicles (gameplay)]] complement your command vehicle for planetside or short-range operations. If you are playing with others, one of you might serve as the pilot or owner of a support vehicle, but anyone on board can use its abilities as appropriate to the situation. As with the command vehicle, your support vehicles have integrity meters. The maximum integrity varies based on the type of vehicle. When a support vehicle faces a damaging situation or environment, you must [[MV_Withstand Damage|Withstand Damage]] to see how it fares.
+
+### Paths
+Paths are your background, interests, training, skills, powers, and key equipment. They provide mechanical and narrative advantages, but also reflect who you are and how you interact with the world. When you create your character in the next chapter, you’ll select at least two paths to get started. Some paths represent your skill with a signature weapon style or piece of equipment. If you see a requirement at the top of the asset card, such as “If you wield a bladed weapon…,” the asset is only usable when taking action using that item.
+
+### Companions
+Companions are NPC helpers. When you gain a companion, give them a name and envision their look and personality. Companions utilize a [[GP_Condition Meters#Health|health meter]] that can be reduced if an outcome puts them in harm’s way. When your companion faces harm, make the [[MV_Companion Takes a Hit|Companion Takes a Hit]]. When their health is at 0, they are in danger of being killed or destroyed.
+
+### Deeds
+Deeds represent the notable achievement and situations of your story, and how those events change your character. Deeds have a requirement listed at the top of the card, phrased as “Once you \[blank\].” You may not spend experience to acquire a deed until you fulfill the requirement, and you cannot choose a deed when creating your character.
 
 ## Assets and the Fiction
-Assets offer both mechanical and narrative advantages. For example, if you have the HEALER path, you benefit from that asset’s abilities as you make moves to treat others, diagnose illnesses, and study biological remains. It also provides justification to take actions other characters would not be capable of, such as advanced treatment techniques.
+Assets offer both mechanical and narrative advantages. For example, if you have the [[AST_Healer|Healer (asset)]] path, you benefit from that asset’s abilities as you make moves to treat others, diagnose illnesses, and study biological remains. It also provides justification to take actions other characters would not be capable of, such as advanced treatment techniques.
 
-But even when you aren’t making moves, the HEALER path influences your character’s interests, manner, and opportunities. In a perilous galaxy where technology has limitations and resources are scarce, how does this valued expertise affect your relationships and the nature of your quests? How is it reflected in your personality and ambitions?
+But even when you aren’t making moves, the [[AST_Healer|Healer (asset)]] path influences your character’s interests, manner, and opportunities. In a perilous galaxy where technology has limitations and resources are scarce, how does this valued expertise affect your relationships and the nature of your quests? How is it reflected in your personality and ambitions?
 
 Some assets will be more influential than others in your character concept, but all of them contribute to how you envision your approaches and the situations you encounter.
 
 ## Acquiring and Upgrading Assets
-When you create your character in the next chapter, you will take your STARSHIP and choose three other assets. Then, as you successfully overcome challenges and mark progress on your legacy tracks (page 44), you Earn Experience. This experience is spent to purchase or upgrade assets through the Advance move.
+When you create your character in the next chapter, you will take your [[AST_Starship|Starship (asset)]] and choose three other assets. Then, as you successfully overcome challenges and mark progress on your [[GP_Tracks#Legacy Tracks|Legacy Tracks]], you [[MV_Earn Experience|Earn Experience]]. This experience is spent to purchase or upgrade assets through the [[MV_Advance|Advance]].
 
 ### Buying an Asset
-Buying a new asset costs 3 experience. If you are playing with others, you should avoid picking the same asset as another player—this will help give each character their own capabilities and flavor.
+Buying a new asset costs 3 experience. If you are playing with others, you should avoid picking the same asset as another player, this will help give each character their own capabilities and flavor.
 
 ### Upgrading an Asset
 All assets include three abilities. The first will be filled in when you purchase the asset. Upgrading an asset to claim the second or third ability costs 2 experience each.
@@ -41,11 +57,11 @@ All assets include three abilities. The first will be filled in when you purchas
 When you spend experience to upgrade an asset, fill in the dot on your asset card to show you’ve acquired the ability. The second and third abilities may be selected in any order.
 
 ### Building a Story Through Assets
-You can Advance to spend experience when it is earned, or save it for future use. Either way, you should look to the fiction to give context and justification for your new abilities and resources. Let your selection of assets flow naturally from your character’s goals and the situations you encounter, or guide your story toward an asset you would like to purchase or upgrade.
+You can [[MV_Advance|Advance]] to spend experience when it is earned, or save it for future use. Either way, you should look to the fiction to give context and justification for your new abilities and resources. Let your selection of assets flow naturally from your character’s goals and the situations you encounter, or guide your story toward an asset you would like to purchase or upgrade.
 
-Assets can even serve as the focus of a new vow, giving you a tangible objective or reward for undertaking a quest. Perhaps you gain a new SNUB FIGHTER by completing a quest in the service of a shipbuilder, or earn membership as a sanctioned TRADER in the merchant’s guild.
+Assets can even serve as the focus of a new vow, giving you a tangible objective or reward for undertaking a quest. Perhaps you gain a new [[AST_Snub Fighter|Snub Fighter (asset)]] by completing a quest in the service of a shipbuilder, or earn membership as a sanctioned [[AST_Trader|Trader (asset)]] in the merchant’s guild.
 
-Envisioning how your new abilities connect to your sworn quests and experiences gives them additional significance and context. They will be a reminder of the paths taken and not taken, the challenges overcome, and the bonds formed
+Envisioning how your new abilities connect to your sworn quests and experiences gives them additional significance and context. They will be a reminder of the paths taken and not taken, the challenges overcome, and the bonds formed.
 
 ## Next Topic: [[GP_Oracles|Oracles (gameplay)]]
 

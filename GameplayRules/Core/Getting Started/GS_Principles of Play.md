@@ -7,7 +7,10 @@ CategoryOrder: 5
 ---
 # [[_Gameplay Guidelines Index|Gameplay Rules]]: Principles of Play
 These principles are your polestars for managing Starforged sessions. Start here, and find your path to awesome stories.  There are four sections for this article that align to each role a player of Starforged.
-[[#Universal Principles]] - [[#Principles For Solo Play]] - [[#Principles For Cooperative Play]] - [[#Principles for the Guide]]
+- **[[#Universal Principles]]**
+- **[[#Principles For Solo Play]]**
+- **[[#Principles For Cooperative Play]]**
+- **[[#Principles for the Guide]]**
 
 ## Universal Principles
 Whether playing solo, cooperative, or with a guide, use the Starforged [[_Session Moves|Session Moves]] to help foster gameplay that is safe, supportive, and fun.
@@ -25,7 +28,7 @@ Despite those sometimes grim realities, there is hope. There is beauty and wonde
 ### Begin and End with the Fiction
 Set every scene and action within the fiction. What is happening? What are you doing? What does it look like? If a move is triggered, make it. Then, look to the fiction as you resolve the move and decide what happens next. Keep things moving forward, bookending the mechanics of your moves with the fiction.
 
-Starforged rules, moves, and assets often use the term “envision.” This prompt is your reminder to visualize the scene or the action. Don’t rush through your moves with a focus on the mechanical outcomes. Let your story breathe. Go beyond the surface details. Ask questions (or [[Ask the Oracle]], and build on the answers. In co-op and guided modes, collaborate to create a shared understanding of the current situation. If something is unclear or at odds with the assumptions of another player, talk it out until everyone has a clear picture of the situation. When playing solo, take the time to imagine the scene and take note of important details.
+Starforged rules, moves, and assets often use the term “envision.” This prompt is your reminder to visualize the scene or the action. Don’t rush through your moves with a focus on the mechanical outcomes. Let your story breathe. Go beyond the surface details. Ask questions (or [[MV_Ask the Oracle|Ask the Oracle (move)]], and build on the answers. In co-op and guided modes, collaborate to create a shared understanding of the current situation. If something is unclear or at odds with the assumptions of another player, talk it out until everyone has a clear picture of the situation. When playing solo, take the time to imagine the scene and take note of important details.
 
 ## Principles For Solo Play
 
@@ -41,9 +44,9 @@ Oracles are a valuable tool for solo play, but don’t let them replace your own
 ### Be a Fan of Your Character (Stop Hitting Yourself)
 Here’s something unexpected: Solo players are hard on their characters. While a guide will moderate the severity of outcomes to keep everyone motivated and having fun, solo players often default to severe results when they suffer a cost or complication, grinding their character down through mechanical and narrative penalties. What’s more, they’ll envision these setbacks as inherent failings of the character, instead of factors out of their control.
 
-Perhaps this is born out of a desire not to “cheat.” But you are the ultimate arbiter of your story; it’s not possible to cheat. In fact, the [[Change Your Fate]] move offers explicit permission to alter, redo, or ignore any fictional or mechanical outcome that is unsafe or un-fun.
+Perhaps this is born out of a desire not to “cheat.” But you are the ultimate arbiter of your story; it’s not possible to cheat. In fact, the [[MV_Change Your Fate|Change Your Fate (move)]] offers explicit permission to alter, redo, or ignore any fictional or mechanical outcome that is unsafe or un-fun.
 
-The gameplay of Starforged is tuned to introduce complications and adversity, so don’t be reluctant to give your character a break. Use the techniques described in the [[Pay the Price]] summary to balance narrative and mechanical costs. Create a sense of rising tension by escalating the danger and risk of situation, instead of hitting your character hard out of the gate. Save the dire complications and major mechanical costs for key, dramatic moments. When it matters, make it hurt. Until then, give your character space to be awesome. They’ll thank you for it
+The gameplay of Starforged is tuned to introduce complications and adversity, so don’t be reluctant to give your character a break. Use the techniques described in the [[MV_Pay the Price|Pay the Price (move)]] summary to balance narrative and mechanical costs. Create a sense of rising tension by escalating the danger and risk of situation, instead of hitting your character hard out of the gate. Save the dire complications and major mechanical costs for key, dramatic moments. When it matters, make it hurt. Until then, give your character space to be awesome. They’ll thank you for it
 
 ## Principles For Cooperative Play
 
@@ -53,7 +56,7 @@ Roleplaying as a group is conversation. Use this conversation to build a shared 
 Ask questions of each other to help create a coherent, shared picture of what is happening in the fiction. Deepen your setting and your characters by adding evocative details. You’ll be surprised how often an offhand suggestion can snowball into exciting story possibilities.
 
 ### Build a Universe Together
-When playing without a guide, you each take part in filling that role— crafting elements of the setting, portraying other characters, introducing challenges, posing questions, and providing answers. The nature of Starforged mechanics and oracles means you can do this in the moment, without preparation, switching from the perspective of your character and back again. When something is uncertain or you want to leave it to the whims of fate, Ask the Oracle and work together to interpret the answer.
+When playing without a guide, you each take part in filling that role, crafting elements of the setting, portraying other characters, introducing challenges, posing questions, and providing answers. The nature of Starforged mechanics and oracles means you can do this in the moment, without preparation, switching from the perspective of your character and back again. When something is uncertain or you want to leave it to the whims of fate, [[MV_Ask the Oracle|Ask the Oracle (move)]] and work together to interpret the answer.
 
 ### Share the Spotlight
 Be a generous, collaborative player. Within scenes, work to keep each character visible and each player engaged. Use the conversation to give everyone input into the narrative. Share opportunities to roll on oracle tables and interpret the results.
@@ -70,19 +73,19 @@ But you are a guide with an unreliable compass heading into unknown realms. Let 
 ### Deliver Answers and Ask Questions
 The players will look to you to answer questions about the setting, portray the actions and reactions of other characters, and help determine the outcome of moves. When they do, answer their question, keeping in mind the fiction and truths you’ve established through play.
 
-You should also look for opportunities to motivate input from others at the table. Encourage them to add details and ground every move in the fiction. Work to create a shared world and narrative that everyone has stake in. Answer questions by asking questions. If a conversation hits a dead end or drags on, take the question back, deliver an answer (or [[Ask the Oracle]]), and move on.
+You should also look for opportunities to motivate input from others at the table. Encourage them to add details and ground every move in the fiction. Work to create a shared world and narrative that everyone has stake in. Answer questions by asking questions. If a conversation hits a dead end or drags on, take the question back, deliver an answer (or [[MV_Ask the Oracle|Ask the Oracle (move)]]), and move on.
 
 ### Embrace Chaos
 Don’t over-prepare for your session. Feel free to come to the table with nothing planned. The character-driven quests help you and the other players build a story together. Anything that is not a protagonist or move has very little mechanical detail, and can be introduced on the fly.
 
 Letting go of your plans leaves you open to the unexpected. Cheer for surprising successes. Seize the story possibilities of dramatic failures. Forge a galaxy of wonder and danger.
 
-You can also use the oracles for answers and inspiration. Ask a yes/no question through the Ask the Oracle move, or interpret a response from the oracle tables. You can even collaborate with your players to interpret an oracle’s answer.
+You can also use the oracles for answers and inspiration. Ask a yes/no question through the [[MV_Ask the Oracle|Ask the Oracle (move)]], or interpret a response from the oracle tables. You can even collaborate with your players to interpret an oracle’s answer.
 
 ## Next Topic: [[GP_Characters|Player Characters]]
 
 ## Tags
-#Pedia/Gameplay
+#Pedia/Gameplay - #GroupPlay  -  #TheGuide 
 
 <font size=-2>This work is based on Ironsworn: Starforged (found at [www.ironswornrpg.com](http://www.ironswornrpg.com)), created by Shawn Tomkin, and licensed for our use under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license  (creativecommons.org/licenses/by-nc-sa/4.0/).</font>
 
