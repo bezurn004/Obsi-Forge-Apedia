@@ -1,0 +1,22 @@
+{
+  "version": "0.24.12",
+  "prefix": ";;",
+  "suffix": "::",
+  "expansionPrefix": "",
+  "expansionLinePrefix": "> ",
+  "expansionSuffix": "\\n\\n",
+  "autocomplete": true,
+  "autocompleteHelp": true,
+  "devMode": false,
+  "allowExternal": false,
+  "shortcutFiles": [],
+  "shortcuts": "",
+  "buttonView": {
+    "visible": true,
+    "groups": {
+      "Group 01": {
+        "buttons": []
+      }
+    }
+  }
+}

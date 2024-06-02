@@ -1,0 +1,13 @@
+{
+  "accentColor": "#e4c425",
+  "enabledCssSnippets": [
+    "snippets",
+    "custom-admonitions.0c4cb5"
+  ],
+  "interfaceFontFamily": "Noto Sans",
+  "textFontFamily": "",
+  "theme": "obsidian",
+  "baseFontSize": 14,
+  "translucency": true,
+  "cssTheme": "ITS Theme"
+}
