@@ -10,5 +10,6 @@
   "spellcheck": true,
   "livePreview": false,
   "readableLineLength": false,
-  "propertiesInDocument": "hidden"
+  "propertiesInDocument": "hidden",
+  "defaultViewMode": "preview"
 }

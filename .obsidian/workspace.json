@@ -1,26 +1,14 @@
 {
   "main": {
-    "id": "cbe411dac23bd9c8",
+    "id": "295045d4fd65ca77",
     "type": "split",
     "children": [
       {
-        "id": "c7bedf2d658ce483",
+        "id": "a40e15202330a604",
         "type": "tabs",
         "children": [
           {
-            "id": "388a98bdc54496f7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "8ef9534b7767c19b",
+            "id": "66c88b03578b94a9",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -31,22 +19,21 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "25a8e53d28b7f836",
+    "id": "f6e827bcd7abd50b",
     "type": "split",
     "children": [
       {
-        "id": "0457e5a518360642",
+        "id": "1728e28f46f8f67f",
         "type": "tabs",
         "children": [
           {
-            "id": "02daf7eebe9d2b7a",
+            "id": "6bf71befee208caa",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -56,30 +43,22 @@
             }
           },
           {
-            "id": "6c0af646e3560921",
+            "id": "63a63bb516e58c46",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#consider",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": true,
-                "extraContext": true,
+                "collapseAll": false,
+                "extraContext": false,
                 "sortOrder": "alphabetical"
               }
             }
           },
           {
-            "id": "eaf013f3d720f87e",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
-          },
-          {
-            "id": "61207c0d7d11e17b",
+            "id": "d2a65f46e796f923",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -90,18 +69,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 232.5
+    "width": 300
   },
   "right": {
-    "id": "8e8501a4e4730d74",
+    "id": "c93a8c98dd665f2c",
     "type": "split",
     "children": [
       {
-        "id": "fabb42b332a97b06",
+        "id": "335d2a62cb3a3f80",
         "type": "tabs",
         "children": [
           {
-            "id": "c12385646d61f96d",
+            "id": "84b8fc9652c33130",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -118,7 +97,7 @@
             }
           },
           {
-            "id": "46dc5bfb5cc444d4",
+            "id": "1101052c42c10a66",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -130,18 +109,18 @@
             }
           },
           {
-            "id": "fcea82be1e664893",
+            "id": "7e57cad80da41b3d",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
-                "sortOrder": "alphabetical",
-                "useHierarchy": false
+                "sortOrder": "frequency",
+                "useHierarchy": true
               }
             }
           },
           {
-            "id": "3b9fef3c9398d92a",
+            "id": "e236ddf1258baa4d",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -151,27 +130,18 @@
             }
           },
           {
-            "id": "73236e5476555d71",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
-          },
-          {
-            "id": "c331998654dcf0f4",
+            "id": "f5617ce4904b934b",
             "type": "leaf",
             "state": {
               "type": "DICE_ROLLER_VIEW",
               "state": {}
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 411.5,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
@@ -186,9 +156,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8ef9534b7767c19b",
+  "active": "66c88b03578b94a9",
   "lastOpenFiles": [
     "README.md",
-    "_INDEX.md",
+    "_INDEX.md"
   ]
 }
