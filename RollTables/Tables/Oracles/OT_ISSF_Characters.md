@@ -847,4 +847,5 @@
 | 98 | Weary |
 | 99 | Wild |
 | 100 | Wise |
+
 ^OclCharacterRevealedAspect
