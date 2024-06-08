@@ -4,7 +4,7 @@ Alias: "Campaign Creation"
 PageType: Campaign
 PageCategory: Index
 ---
-# [[_INDEX|Index]]: Campaign Creation
+# [[index|Index]]: Campaign Creation
 Follow the guided exercises below to create a campaign and characters to embark on duty bound quests within the perilous galaxy of the Forge.  It is recommended to do these in the order listed below, though if you would prefer swapping [[_CRG_Create Your Character|Create Your Character]] with [[_CSG_Sector Creation Summary|Sector Creation]] is possible.
 
 ## Campaign Creation Topics

@@ -3,7 +3,7 @@ Alias: "Oracles Summary"
 PageType: Oracles
 PageCategory: Index
 ---
-# [[_INDEX|Index]]: Oracles Summary
+# [[index|Index]]: Oracles Summary
 See the **[[OCL_Using Oracles|Using Oracles]]** section for guidelines while playing Starforged.
 
 ## Browse Oracles By Topic
