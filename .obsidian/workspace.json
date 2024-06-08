@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_INDEX.md",
-                "mode": "preview",
-                "source": true
+                "file": "index.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_INDEX.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_INDEX.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_INDEX.md"
+                "file": "index.md"
               }
             }
           },
@@ -153,12 +153,38 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "templater-obsidian:Templater": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "webpage-html-export:Export Vault to HTML": false
     }
   },
   "active": "66c88b03578b94a9",
   "lastOpenFiles": [
     "README.md",
-    "_INDEX.md"
+    "LICENSE.md",
+    "index.md",
+    "RollTables/Tables/OT_ISSF_Truths.md",
+    "RollTables/Tables/OT_ISSF_Moves.md",
+    "RollTables/Tables/OT_ISSF_Campaign.md",
+    "RollTables/Tables/Oracles/OT_ISSF_Vaults.md",
+    "RollTables/Tables/Oracles/OT_ISSF_Starships.md",
+    "RollTables/Tables/Oracles/OT_ISSF_Space.md",
+    "RollTables/Tables/Oracles/OT_ISSF_Settlements.md",
+    "RollTables/Tables/Oracles/OT_ISSF_Planets.md",
+    "RollTables/Tables/Oracles/OT_ISSF_Location-Themes.md",
+    "RollTables/Tables/Oracles/OT_ISSF_Derelicts.md",
+    "RollTables/Tables/Oracles/OT_ISSF_Creatures.md",
+    "RollTables/Tables/Oracles/OT_ISSF_Core.md",
+    "RollTables/Tables/Oracles/OT_ISSF_Characters.md",
+    "RollTables/Rollers/Oracles/OR_Vaults.md",
+    "RollTables/Rollers/Oracles/OR_Starships.md",
+    "RollTables/Rollers/Oracles/OR_Space.md",
+    "RollTables/Rollers/Oracles/OR_Settlements.md",
+    "RollTables/Rollers/Oracles/OR_Planets.md",
+    "RollTables/Rollers/Oracles/OR_Misc.md",
+    "RollTables/Rollers/Oracles/OR_Location-Themes.md",
+    "RollTables/Rollers/Oracles/OR_Factions.md",
+    "RollTables/Rollers/Oracles/OR_Derelicts.md",
+    "RollTables/Rollers/Oracles/OR_Creatures.md",
+    "New folder"
   ]
 }

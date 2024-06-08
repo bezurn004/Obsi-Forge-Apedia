@@ -3,7 +3,7 @@ Alias: "Gameplay Rules"
 PageType: Index
 PageCategory: Gamplay
 ---
-# [[_INDEX|Index]]: Gameplay Rules 
+# [[index|Index]]: Gameplay Rules 
 The gameplay rules are divided into the below sections
 
 1. [[#Getting Started]]: The foundational knowledge and inspiration for the Starforged rules and setting.

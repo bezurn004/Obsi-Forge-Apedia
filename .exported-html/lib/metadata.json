@@ -1,0 +1,2770 @@
+{
+  "vaultName": "Obsi-Forge-Apedia",
+  "lastExport": 1717811039211,
+  "pluginVersion": "1.8.01",
+  "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon",
+  "useCustomHeadContent": false,
+  "useCustomFavicon": false,
+  "files": [
+    "Assets/Companion/_Companion Assets.md",
+    "Assets/Companion/AST_Banshee.md",
+    "Assets/Companion/AST_Combat Bot.md",
+    "Assets/Companion/AST_Glowcat.md",
+    "Assets/Companion/AST_Protocol Bot.md",
+    "Assets/Companion/AST_Rockhorn.md",
+    "Assets/Companion/AST_Sidekick.md",
+    "Assets/Companion/AST_Sprite.md",
+    "Assets/Companion/AST_Survey Bot.md",
+    "Assets/Companion/AST_Symbiote.md",
+    "Assets/Companion/AST_Utility Bot.md",
+    "Assets/Companion/AST_Voidglider.md",
+    "Assets/Deed/_Deed Assets.md",
+    "Assets/Deed/AST_Bonded.md",
+    "Assets/Deed/AST_Homesteader.md",
+    "Assets/Deed/AST_Marked.md",
+    "Assets/Deed/AST_Oathbreaker.md",
+    "Assets/Deed/AST_Revenant.md",
+    "Assets/Deed/AST_Survivor.md",
+    "Assets/Deed/AST_Vanguard.md",
+    "Assets/Module/_Module Assets.md",
+    "Assets/Module/AST_Engine Upgrade.md",
+    "Assets/Module/AST_Expanded Hold.md",
+    "Assets/Module/AST_Grappler.md",
+    "Assets/Module/AST_Heavy Cannons.md",
+    "Assets/Module/AST_Internal Refit.md",
+    "Assets/Module/AST_Medbay.md",
+    "Assets/Module/AST_Missile Array.md",
+    "Assets/Module/AST_Overseer.md",
+    "Assets/Module/AST_Reinforced Hull.md",
+    "Assets/Module/AST_Research Lab.md",
+    "Assets/Module/AST_Sensor Array.md",
+    "Assets/Module/AST_Shields.md",
+    "Assets/Module/AST_Stealth Tech.md",
+    "Assets/Module/AST_Vehiucle Bay.md",
+    "Assets/Module/AST_Workshop.md",
+    "Assets/Paths/_Path Assets.md",
+    "Assets/Paths/AST_Ace.md",
+    "Assets/Paths/AST_Archer.md",
+    "Assets/Paths/AST_Armored.md",
+    "Assets/Paths/AST_Artist.md",
+    "Assets/Paths/AST_Augmented.md",
+    "Assets/Paths/AST_Bannersworn.md",
+    "Assets/Paths/AST_Blademaster.md",
+    "Assets/Paths/AST_Bounty Hunter.md",
+    "Assets/Paths/AST_Brawler.md",
+    "Assets/Paths/AST_Courier.md",
+    "Assets/Paths/AST_Demolitionist.md",
+    "Assets/Paths/AST_Devotant.md",
+    "Assets/Paths/AST_Diplomat.md",
+    "Assets/Paths/AST_Empath.md",
+    "Assets/Paths/AST_Explorer.md",
+    "Assets/Paths/AST_Fated.md",
+    "Assets/Paths/AST_Firebrand.md",
+    "Assets/Paths/AST_Fugitive.md",
+    "Assets/Paths/AST_Gearhead.md",
+    "Assets/Paths/AST_Gunner.md",
+    "Assets/Paths/AST_Gunslinger.md",
+    "Assets/Paths/AST_Haunted.md",
+    "Assets/Paths/AST_Healer.md",
+    "Assets/Paths/AST_Infiltrator.md",
+    "Assets/Paths/AST_Kinetic.md",
+    "Assets/Paths/AST_Leader.md",
+    "Assets/Paths/AST_Looper.md",
+    "Assets/Paths/AST_Lore Hunter.md",
+    "Assets/Paths/AST_Loyalist.md",
+    "Assets/Paths/AST_Mercenary.md",
+    "Assets/Paths/AST_Naturalist.md",
+    "Assets/Paths/AST_Navigator.md",
+    "Assets/Paths/AST_Outcast.md",
+    "Assets/Paths/AST_Scavenger.md",
+    "Assets/Paths/AST_Scoundrel.md",
+    "Assets/Paths/AST_Seer.md",
+    "Assets/Paths/AST_Shade.md",
+    "Assets/Paths/AST_Slayer.md",
+    "Assets/Paths/AST_Sleuth.md",
+    "Assets/Paths/AST_Sniper.md",
+    "Assets/Paths/AST_Tech.md",
+    "Assets/Paths/AST_Trader.md",
+    "Assets/Paths/AST_Vestige.md",
+    "Assets/Paths/AST_Veteran.md",
+    "Assets/Paths/AST_Voidborn.md",
+    "Assets/Paths/AST_Weapons Master.md",
+    "Assets/Vehicle/_Vehicle Assets.md",
+    "Assets/Vehicle/AST_Exosuit.md",
+    "Assets/Vehicle/AST_Hoverbike.md",
+    "Assets/Vehicle/AST_Rover.md",
+    "Assets/Vehicle/AST_Service Pod.md",
+    "Assets/Vehicle/AST_Shuttle.md",
+    "Assets/Vehicle/AST_Skiff.md",
+    "Assets/Vehicle/AST_Snub Fighter.md",
+    "Assets/Vehicle/AST_Starship.md",
+    "Assets/_Assets Index.md",
+    "Denizens/DNZ_Chiton.md",
+    "Denizens/DNZ_Colossus.md",
+    "Denizens/DNZ_Crystallid.md",
+    "Denizens/DNZ_Drift Pirate.md",
+    "Denizens/DNZ_Ember Wisp.md",
+    "Denizens/DNZ_FIrestorm Trooper.md",
+    "Denizens/DNZ_Flarewing Shark.md",
+    "GameplayRules/CampaignCreation/Character/CharGenSteps/CRG_Background  Vow.md",
+    "GameplayRules/CampaignCreation/Character/CharGenSteps/CRG_Board Your Starship.md",
+    "GameplayRules/CampaignCreation/Character/CharGenSteps/CRG_Choose Your Assets.md",
+    "GameplayRules/CampaignCreation/Character/CharGenSteps/CRG_Create Your Backstory.md",
+    "GameplayRules/CampaignCreation/Character/CharGenSteps/CRG_Envision Your Character.md",
+    "GameplayRules/CampaignCreation/Character/CharGenSteps/CRG_Gear Up.md",
+    "GameplayRules/CampaignCreation/Character/CharGenSteps/CRG_Set Stats and Meters.md",
+    "GameplayRules/CampaignCreation/Character/Prompts/CRG_Chracter Background.md",
+    "GameplayRules/CampaignCreation/Character/Prompts/CRG_Quest Starters.md",
+    "GameplayRules/CampaignCreation/Character/_CRG_Create Your Character.md",
+    "GameplayRules/CampaignCreation/Sector/_CSG_Sector Creation Summary.md",
+    "GameplayRules/CampaignCreation/Sector/CSG_Create Local Connection.md",
+    "GameplayRules/CampaignCreation/Sector/CSG_Creating A Starting Sector.md",
+    "GameplayRules/CampaignCreation/Sector/CSG_Enhance A Starting Sector.md",
+    "GameplayRules/CampaignCreation/Sector/CSG_Pre-Generated Sector.md",
+    "GameplayRules/CampaignCreation/StartAdventure/_Starting Adventure Summary.md",
+    "GameplayRules/CampaignCreation/StartAdventure/CFG_First Vow.md",
+    "GameplayRules/CampaignCreation/StartAdventure/CFG_Inciiting Incident.md",
+    "GameplayRules/CampaignCreation/Truths/_Truths Index.md",
+    "GameplayRules/CampaignCreation/Truths/CTR_Choose Your Truths.md",
+    "GameplayRules/CampaignCreation/Truths/TR_Artificial Intelligence.md",
+    "GameplayRules/CampaignCreation/Truths/TR_Cataclysm.md",
+    "GameplayRules/CampaignCreation/Truths/TR_Communication and Data.md",
+    "GameplayRules/CampaignCreation/Truths/TR_Communities.md",
+    "GameplayRules/CampaignCreation/Truths/TR_Exodus.md",
+    "GameplayRules/CampaignCreation/Truths/TR_Horrors.md",
+    "GameplayRules/CampaignCreation/Truths/TR_Iron.md",
+    "GameplayRules/CampaignCreation/Truths/TR_Laws.md",
+    "GameplayRules/CampaignCreation/Truths/TR_Lifeforms.md",
+    "GameplayRules/CampaignCreation/Truths/TR_Magic.md",
+    "GameplayRules/CampaignCreation/Truths/TR_Medicine.md",
+    "GameplayRules/CampaignCreation/Truths/TR_Precursors.md",
+    "GameplayRules/CampaignCreation/Truths/TR_Religion.md",
+    "GameplayRules/CampaignCreation/Truths/TR_War.md",
+    "GameplayRules/CampaignCreation/_Campaign Index.md",
+    "GameplayRules/CampaignCreation/CPG_Prepare for Liftoff.md",
+    "GameplayRules/Core/Fundamentals/GP_Action Roll.md",
+    "GameplayRules/Core/Fundamentals/GP_Allies_Conflict.md",
+    "GameplayRules/Core/Fundamentals/GP_Assets.md",
+    "GameplayRules/Core/Fundamentals/GP_Characters.md",
+    "GameplayRules/Core/Fundamentals/GP_Condition Meters.md",
+    "GameplayRules/Core/Fundamentals/GP_Equipment.md",
+    "GameplayRules/Core/Fundamentals/GP_Impacts.md",
+    "GameplayRules/Core/Fundamentals/GP_Making Moves.md",
+    "GameplayRules/Core/Fundamentals/GP_Momentum.md",
+    "GameplayRules/Core/Fundamentals/GP_Navigating the Forge.md",
+    "GameplayRules/Core/Fundamentals/GP_Oracles.md",
+    "GameplayRules/Core/Fundamentals/GP_Tracks.md",
+    "GameplayRules/Core/Fundamentals/GP_Vehicles.md",
+    "GameplayRules/Core/Getting Started/GS_Materials for Play.md",
+    "GameplayRules/Core/Getting Started/GS_Mechanics and Fiction.md",
+    "GameplayRules/Core/Getting Started/GS_Principles of Play.md",
+    "GameplayRules/Core/Getting Started/GS_Prioritizing Player Saftey.md",
+    "GameplayRules/Core/Getting Started/GS_The Basics.md",
+    "GameplayRules/Core/Getting Started/GS_Tone and Setting.md",
+    "GameplayRules/Core/NPC/GNPC_Components Of NPCs.md",
+    "GameplayRules/Core/NPC/GNPC_Forging NPCs.md",
+    "GameplayRules/Core/NPC/GNPC_Joining Forces with NPCs.md",
+    "GameplayRules/Homebrew/Concepts/Aspect.md",
+    "GameplayRules/Homebrew/Concepts/Gameplay Role.md",
+    "GameplayRules/Optional/Clocks/_GP_Clocks.md",
+    "GameplayRules/Optional/Clocks/GP_Clocks_Campaign.md",
+    "GameplayRules/Optional/Clocks/GP_Clocks_Tension.md",
+    "GameplayRules/_Gameplay Guidelines Index.md",
+    "Moves/Adventure/_Adventure Moves.md",
+    "Moves/Adventure/MV_Aid Your Ally.md",
+    "Moves/Adventure/MV_Check Your Gear.md",
+    "Moves/Adventure/MV_Compel.md",
+    "Moves/Adventure/MV_Face Danger.md",
+    "Moves/Adventure/MV_Gather Information.md",
+    "Moves/Adventure/MV_Secure an Advantage.md",
+    "Moves/Asset/_Asset Moves.md",
+    "Moves/Asset/MV_Blazing Meditiation.md",
+    "Moves/Asset/MV_Commemorate.md",
+    "Moves/Asset/MV_Craft Projectiles.md",
+    "Moves/Asset/MV_Establish Haven.md",
+    "Moves/Asset/MV_Loop Back.md",
+    "Moves/Asset/MV_Pull heartstrings.md",
+    "Moves/Asset/MV_Raise Shields.md",
+    "Moves/Asset/MV_Read Heart.md",
+    "Moves/Asset/MV_Ready Grappler.md",
+    "Moves/Asset/MV_Shroud In Darkness.md",
+    "Moves/Combat/_Combat Moves.md",
+    "Moves/Combat/MV_Battle.md",
+    "Moves/Combat/MV_Clash.md",
+    "Moves/Combat/MV_Enter the Fray.md",
+    "Moves/Combat/MV_Face Defeat.md",
+    "Moves/Combat/MV_Gain Ground.md",
+    "Moves/Combat/MV_React Under Fire.md",
+    "Moves/Combat/MV_Strike.md",
+    "Moves/Combat/MV_Take Decisive Action.md",
+    "Moves/Connection/_Connection Moves.md",
+    "Moves/Connection/MV_Develop a Relationship.md",
+    "Moves/Connection/MV_Forge a Bond.md",
+    "Moves/Connection/MV_Make a Connection.md",
+    "Moves/Connection/MV_Test Your Relationship.md",
+    "Moves/Exploration/_Exploration Moves.md",
+    "Moves/Exploration/MV_Confront Chaos.md",
+    "Moves/Exploration/MV_Explore a Waypoint.md",
+    "Moves/Exploration/MV_Finish an Expedition.md",
+    "Moves/Exploration/MV_Make a Discovery.md",
+    "Moves/Exploration/MV_Set a Course.md",
+    "Moves/Exploration/MV_Undertake an Expedition.md",
+    "Moves/Fate/_Fate Moves.md",
+    "Moves/Fate/MV_Ask the Oracle.md",
+    "Moves/Fate/MV_Pay the Price.md",
+    "Moves/Legacy/_Legacy Moves.md",
+    "Moves/Legacy/MV_Advance.md",
+    "Moves/Legacy/MV_Continue a Legacy.md",
+    "Moves/Legacy/MV_Earn Experience.md",
+    "Moves/Quest/_Quest Moves.md",
+    "Moves/Quest/MV_Forsake Your Vow.md",
+    "Moves/Quest/MV_Fullfill Your Vow.md",
+    "Moves/Quest/MV_Reach a Milestone.md",
+    "Moves/Quest/MV_Swear an Iron Vow.md",
+    "Moves/Recover/_Recover Moves.md",
+    "Moves/Recover/MV_Heal.md",
+    "Moves/Recover/MV_Hearten.md",
+    "Moves/Recover/MV_Repair.md",
+    "Moves/Recover/MV_Resupply.md",
+    "Moves/Recover/MV_Sojourn.md",
+    "Moves/Scene/_Scene Moves.md",
+    "Moves/Scene/MV_Begin the Scene.md",
+    "Moves/Scene/MV_Finish the Scene.md",
+    "Moves/Session/_Session Moves.md",
+    "Moves/Session/MV_Begin a Session.md",
+    "Moves/Session/MV_Change Your Fate.md",
+    "Moves/Session/MV_End a Session.md",
+    "Moves/Session/MV_Set a Flag.md",
+    "Moves/Session/MV_Take a Break.md",
+    "Moves/Suffer/_Suffer Moves.md",
+    "Moves/Suffer/MV_Companion Takes a Hit.md",
+    "Moves/Suffer/MV_Endure Harm.md",
+    "Moves/Suffer/MV_Endure Stress.md",
+    "Moves/Suffer/MV_Lose Momentum.md",
+    "Moves/Suffer/MV_Sacrifice Resources.md",
+    "Moves/Suffer/MV_Withstand Damage.md",
+    "Moves/Threshold/_Threshold Moves.md",
+    "Moves/Threshold/MV_Face Death.md",
+    "Moves/Threshold/MV_Face Desolution.md",
+    "Moves/Threshold/MV_Overcome Destruction.md",
+    "Moves/_Moves Index.md",
+    "Moves/MV_Triggers.md",
+    "Oracles/Characcter/_OCL_Characters.md",
+    "Oracles/Characcter/OCL_Character-Approach.md",
+    "Oracles/Characcter/OCL_Character-Drives.md",
+    "Oracles/Characcter/OCL_Character-Names.md",
+    "Oracles/Creatures/_OCL_Creatures.md",
+    "Oracles/Creatures/OCL_Creature-Approach.md",
+    "Oracles/Creatures/OCL_Creature-Basic Form.md",
+    "Oracles/Creatures/OCL_Creature-Location-Size.md",
+    "Oracles/Derelicts/_OCL_Derelicts.md",
+    "Oracles/Derelicts/OCL_Derelict_Create.md",
+    "Oracles/Derelicts/OCL_Derelict_Looks.md",
+    "Oracles/Derelicts/OCL_Derelict_Zones.md",
+    "Oracles/Derelicts/OCL_Derelict-Zone-Access.md",
+    "Oracles/Derelicts/OCL_Derelict-Zone-Community.md",
+    "Oracles/Derelicts/OCL_Derelict-Zone-Engineering.md",
+    "Oracles/Derelicts/OCL_Derelict-Zone-Living.md",
+    "Oracles/Derelicts/OCL_Derelict-Zone-Medical.md",
+    "Oracles/Derelicts/OCL_Derelict-Zone-Operations.md",
+    "Oracles/Derelicts/OCL_Derelict-Zone-Production.md",
+    "Oracles/Derelicts/OLC_Derelict-Zone-Research.md",
+    "Oracles/Factions/_OCL_Factions.md",
+    "Oracles/Factions/OCL_Faction-Motives.md",
+    "Oracles/Factions/OCL_Faction-Name.md",
+    "Oracles/Factions/OCL_Faction-Relations.md",
+    "Oracles/Factions/OCL_Faction-Types.md",
+    "Oracles/Location Theme/_OCL_LocationThemes.md",
+    "Oracles/Location Theme/OCL_LocationTheme-Chaotic.md",
+    "Oracles/Location Theme/OCL_LocationTheme-Fortified.md",
+    "Oracles/Location Theme/OCL_LocationTheme-Haunted.md",
+    "Oracles/Location Theme/OCL_LocationTheme-Infested.md",
+    "Oracles/Location Theme/OCL_LocationTheme-Inhabited.md",
+    "Oracles/Location Theme/OCL_LocationTheme-Mechanical.md",
+    "Oracles/Location Theme/OCL_LocationTheme-Ruined.md",
+    "Oracles/Location Theme/OCL_LocationTheme-Sacred.md",
+    "Oracles/Miscellaneous/_OCL_Miscellaneous.md",
+    "Oracles/Miscellaneous/OCL_Anomaly Effect.md",
+    "Oracles/Miscellaneous/OCL_Combat Action.md",
+    "Oracles/Miscellaneous/OCL_Story Clue.md",
+    "Oracles/Miscellaneous/OCL_Story Complication.md",
+    "Oracles/Planets/_OCL_Planets.md",
+    "Oracles/Planets/OCL_Planet_Opportunity.md",
+    "Oracles/Planets/OCL_Planet_Peril.md",
+    "Oracles/Planets/OCL_Planet-Desert.md",
+    "Oracles/Planets/OCL_Planet-Furnace.md",
+    "Oracles/Planets/OCL_Planet-Grave.md",
+    "Oracles/Planets/OCL_Planet-Ice.md",
+    "Oracles/Planets/OCL_Planet-Jovian.md",
+    "Oracles/Planets/OCL_Planet-Jungle.md",
+    "Oracles/Planets/OCL_Planet-Ocean.md",
+    "Oracles/Planets/OCL_Planet-Rocky.md",
+    "Oracles/Planets/OCL_Planet-Shattered.md",
+    "Oracles/Planets/OCL_Planet-Tainted.md",
+    "Oracles/Planets/OCL_Planet-Vital.md",
+    "Oracles/Precursor Vaults/_OCL_PrecursorVaults.md",
+    "Oracles/Precursor Vaults/OCL_Vault-Create.md",
+    "Oracles/Precursor Vaults/OCL_Vault-Interior.md",
+    "Oracles/Precursor Vaults/OCL_Vault-Purpose.md",
+    "Oracles/Precursor Vaults/OCL_Vault-Sanctum.md",
+    "Oracles/Settlements/_OCL_Settlements.md",
+    "Oracles/Settlements/OCL_Settle_Approach.md",
+    "Oracles/Settlements/OCL_Settle-Concerns.md",
+    "Oracles/Settlements/OCL_Settle-Creation.md",
+    "Oracles/Settlements/OCL_Settle-Name.md",
+    "Oracles/Space/_OCL_Space.md",
+    "Oracles/Space/_OCL_Space Encounters.md",
+    "Oracles/Space/OCL_Sector Name.md",
+    "Oracles/Space/OCL_Spaceborne Opportunity.md",
+    "Oracles/Space/OCL_Spaceborne Peril.md",
+    "Oracles/Space/OCL_Stellar Object.md",
+    "Oracles/Starship/_OCL_Starships.md",
+    "Oracles/Starship/OCL_Starship-Approach.md",
+    "Oracles/Starship/OCL_Starship-Mission.md",
+    "Oracles/Starship/OCL_Starship-Name.md",
+    "Oracles/Starship/OCL_Starship-Type-Fleet.md",
+    "Oracles/_OCL_Index.md",
+    "Oracles/OCL_Core.md",
+    "Oracles/OCL_Using Oracles.md",
+    "RollTables/Rollers/Gameplay/GR_All.md",
+    "RollTables/Rollers/Gameplay/GR_Creation.md",
+    "RollTables/Rollers/Gameplay/GR_Moves.md",
+    "RollTables/Rollers/Gameplay/GR_Truths.md",
+    "RollTables/Rollers/Oracles/OR_All.md",
+    "RollTables/Rollers/Oracles/OR_Characters.md",
+    "RollTables/Rollers/Oracles/OR_Creatures.md",
+    "RollTables/Rollers/Oracles/OR_Derelicts.md",
+    "RollTables/Rollers/Oracles/OR_Factions.md",
+    "RollTables/Rollers/Oracles/OR_Location-Themes.md",
+    "RollTables/Rollers/Oracles/OR_Misc.md",
+    "RollTables/Rollers/Oracles/OR_Planets.md",
+    "RollTables/Rollers/Oracles/OR_Settlements.md",
+    "RollTables/Rollers/Oracles/OR_Space.md",
+    "RollTables/Rollers/Oracles/OR_Starships.md",
+    "RollTables/Rollers/Oracles/OR_Vaults.md",
+    "RollTables/Rollers/_Rollers_Index.md",
+    "RollTables/Tables/Oracles/OT_ISSF_Characters.md",
+    "RollTables/Tables/Oracles/OT_ISSF_Core.md",
+    "RollTables/Tables/Oracles/OT_ISSF_Creatures.md",
+    "RollTables/Tables/Oracles/OT_ISSF_Derelicts.md",
+    "RollTables/Tables/Oracles/OT_ISSF_Factions.md",
+    "RollTables/Tables/Oracles/OT_ISSF_Location-Themes.md",
+    "RollTables/Tables/Oracles/OT_ISSF_Misc.md",
+    "RollTables/Tables/Oracles/OT_ISSF_Planets.md",
+    "RollTables/Tables/Oracles/OT_ISSF_Settlements.md",
+    "RollTables/Tables/Oracles/OT_ISSF_Space.md",
+    "RollTables/Tables/Oracles/OT_ISSF_Starships.md",
+    "RollTables/Tables/Oracles/OT_ISSF_Vaults.md",
+    "RollTables/Tables/OT_ISSF_Campaign.md",
+    "RollTables/Tables/OT_ISSF_Moves.md",
+    "RollTables/Tables/OT_ISSF_Truths.md",
+    "index.md",
+    "LICENSE.md",
+    "OFA_ChangeLog.md",
+    "README.md",
+    "lib/scripts/graph-wasm.wasm",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg",
+    "lib/media/3d6c1bdc4d87cde4de67.svg",
+    "lib/html/file-tree.html",
+    "lib/scripts/webpage.js",
+    "lib/scripts/graph-view.js",
+    "lib/scripts/graph-wasm.js",
+    "lib/scripts/graph-render-worker.js",
+    "lib/scripts/tinycolor.js",
+    "lib/scripts/pixi.js",
+    "lib/scripts/minisearch.js",
+    "lib/media/favicon.png",
+    "lib/scripts/graph-data.js",
+    "lib/styles/obsidian.css",
+    "lib/styles/other-plugins.css",
+    "lib/styles/theme.css",
+    "lib/styles/global-variable-styles.css",
+    "lib/styles/supported-plugins.css",
+    "lib/styles/main-styles.css",
+    "lib/styles/snippets.css"
+  ],
+  "mainDependencies": [
+    "lib/scripts/graph-wasm.wasm",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg",
+    "lib/media/3d6c1bdc4d87cde4de67.svg",
+    "lib/html/file-tree.html",
+    "lib/scripts/webpage.js",
+    "lib/scripts/graph-view.js",
+    "lib/scripts/graph-wasm.js",
+    "lib/scripts/graph-render-worker.js",
+    "lib/scripts/tinycolor.js",
+    "lib/scripts/pixi.js",
+    "lib/scripts/minisearch.js",
+    "lib/media/favicon.png",
+    "lib/scripts/graph-data.js",
+    "lib/styles/obsidian.css",
+    "lib/styles/other-plugins.css",
+    "lib/styles/theme.css",
+    "lib/styles/global-variable-styles.css",
+    "lib/styles/supported-plugins.css",
+    "lib/styles/main-styles.css",
+    "lib/styles/snippets.css"
+  ],
+  "fileInfo": {
+    "Assets/Companion/_Companion Assets.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 782,
+      "exportedPath": "assets/companion/_companion-assets.html",
+      "dependencies": []
+    },
+    "Assets/Companion/AST_Banshee.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 2499,
+      "exportedPath": "assets/companion/ast_banshee.html",
+      "dependencies": []
+    },
+    "Assets/Companion/AST_Combat Bot.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 2372,
+      "exportedPath": "assets/companion/ast_combat-bot.html",
+      "dependencies": []
+    },
+    "Assets/Companion/AST_Glowcat.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 2313,
+      "exportedPath": "assets/companion/ast_glowcat.html",
+      "dependencies": []
+    },
+    "Assets/Companion/AST_Protocol Bot.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 2409,
+      "exportedPath": "assets/companion/ast_protocol-bot.html",
+      "dependencies": []
+    },
+    "Assets/Companion/AST_Rockhorn.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 2578,
+      "exportedPath": "assets/companion/ast_rockhorn.html",
+      "dependencies": []
+    },
+    "Assets/Companion/AST_Sidekick.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 2859,
+      "exportedPath": "assets/companion/ast_sidekick.html",
+      "dependencies": []
+    },
+    "Assets/Companion/AST_Sprite.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 2464,
+      "exportedPath": "assets/companion/ast_sprite.html",
+      "dependencies": []
+    },
+    "Assets/Companion/AST_Survey Bot.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 2235,
+      "exportedPath": "assets/companion/ast_survey-bot.html",
+      "dependencies": []
+    },
+    "Assets/Companion/AST_Symbiote.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 2996,
+      "exportedPath": "assets/companion/ast_symbiote.html",
+      "dependencies": []
+    },
+    "Assets/Companion/AST_Utility Bot.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 2569,
+      "exportedPath": "assets/companion/ast_utility-bot.html",
+      "dependencies": []
+    },
+    "Assets/Companion/AST_Voidglider.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 2581,
+      "exportedPath": "assets/companion/ast_voidglider.html",
+      "dependencies": []
+    },
+    "Assets/Deed/_Deed Assets.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 732,
+      "exportedPath": "assets/deed/_deed-assets.html",
+      "dependencies": []
+    },
+    "Assets/Deed/AST_Bonded.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 2635,
+      "exportedPath": "assets/deed/ast_bonded.html",
+      "dependencies": []
+    },
+    "Assets/Deed/AST_Homesteader.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 1942,
+      "exportedPath": "assets/deed/ast_homesteader.html",
+      "dependencies": []
+    },
+    "Assets/Deed/AST_Marked.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 2982,
+      "exportedPath": "assets/deed/ast_marked.html",
+      "dependencies": []
+    },
+    "Assets/Deed/AST_Oathbreaker.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 2212,
+      "exportedPath": "assets/deed/ast_oathbreaker.html",
+      "dependencies": []
+    },
+    "Assets/Deed/AST_Revenant.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 2033,
+      "exportedPath": "assets/deed/ast_revenant.html",
+      "dependencies": []
+    },
+    "Assets/Deed/AST_Survivor.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 2500,
+      "exportedPath": "assets/deed/ast_survivor.html",
+      "dependencies": []
+    },
+    "Assets/Deed/AST_Vanguard.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 1806,
+      "exportedPath": "assets/deed/ast_vanguard.html",
+      "dependencies": []
+    },
+    "Assets/Module/_Module Assets.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 873,
+      "exportedPath": "assets/module/_module-assets.html",
+      "dependencies": []
+    },
+    "Assets/Module/AST_Engine Upgrade.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 2101,
+      "exportedPath": "assets/module/ast_engine-upgrade.html",
+      "dependencies": []
+    },
+    "Assets/Module/AST_Expanded Hold.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 2510,
+      "exportedPath": "assets/module/ast_expanded-hold.html",
+      "dependencies": []
+    },
+    "Assets/Module/AST_Grappler.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 2365,
+      "exportedPath": "assets/module/ast_grappler.html",
+      "dependencies": []
+    },
+    "Assets/Module/AST_Heavy Cannons.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 2011,
+      "exportedPath": "assets/module/ast_heavy-cannons.html",
+      "dependencies": []
+    },
+    "Assets/Module/AST_Internal Refit.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 2217,
+      "exportedPath": "assets/module/ast_internal-refit.html",
+      "dependencies": []
+    },
+    "Assets/Module/AST_Medbay.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 1984,
+      "exportedPath": "assets/module/ast_medbay.html",
+      "dependencies": []
+    },
+    "Assets/Module/AST_Missile Array.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 2193,
+      "exportedPath": "assets/module/ast_missile-array.html",
+      "dependencies": []
+    },
+    "Assets/Module/AST_Overseer.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 2111,
+      "exportedPath": "assets/module/ast_overseer.html",
+      "dependencies": []
+    },
+    "Assets/Module/AST_Reinforced Hull.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 2178,
+      "exportedPath": "assets/module/ast_reinforced-hull.html",
+      "dependencies": []
+    },
+    "Assets/Module/AST_Research Lab.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 2137,
+      "exportedPath": "assets/module/ast_research-lab.html",
+      "dependencies": []
+    },
+    "Assets/Module/AST_Sensor Array.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 2094,
+      "exportedPath": "assets/module/ast_sensor-array.html",
+      "dependencies": []
+    },
+    "Assets/Module/AST_Shields.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 2057,
+      "exportedPath": "assets/module/ast_shields.html",
+      "dependencies": []
+    },
+    "Assets/Module/AST_Stealth Tech.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 2264,
+      "exportedPath": "assets/module/ast_stealth-tech.html",
+      "dependencies": []
+    },
+    "Assets/Module/AST_Vehiucle Bay.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 2273,
+      "exportedPath": "assets/module/ast_vehiucle-bay.html",
+      "dependencies": []
+    },
+    "Assets/Module/AST_Workshop.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 2167,
+      "exportedPath": "assets/module/ast_workshop.html",
+      "dependencies": []
+    },
+    "Assets/Paths/_Path Assets.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 738,
+      "exportedPath": "assets/paths/_path-assets.html",
+      "dependencies": []
+    },
+    "Assets/Paths/AST_Ace.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 2499,
+      "exportedPath": "assets/paths/ast_ace.html",
+      "dependencies": []
+    },
+    "Assets/Paths/AST_Archer.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 2363,
+      "exportedPath": "assets/paths/ast_archer.html",
+      "dependencies": []
+    },
+    "Assets/Paths/AST_Armored.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 2208,
+      "exportedPath": "assets/paths/ast_armored.html",
+      "dependencies": []
+    },
+    "Assets/Paths/AST_Artist.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 2067,
+      "exportedPath": "assets/paths/ast_artist.html",
+      "dependencies": []
+    },
+    "Assets/Paths/AST_Augmented.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 2605,
+      "exportedPath": "assets/paths/ast_augmented.html",
+      "dependencies": []
+    },
+    "Assets/Paths/AST_Bannersworn.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 2134,
+      "exportedPath": "assets/paths/ast_bannersworn.html",
+      "dependencies": []
+    },
+    "Assets/Paths/AST_Blademaster.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 2051,
+      "exportedPath": "assets/paths/ast_blademaster.html",
+      "dependencies": []
+    },
+    "Assets/Paths/AST_Bounty Hunter.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 2170,
+      "exportedPath": "assets/paths/ast_bounty-hunter.html",
+      "dependencies": []
+    },
+    "Assets/Paths/AST_Brawler.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 1987,
+      "exportedPath": "assets/paths/ast_brawler.html",
+      "dependencies": []
+    },
+    "Assets/Paths/AST_Courier.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 2213,
+      "exportedPath": "assets/paths/ast_courier.html",
+      "dependencies": []
+    },
+    "Assets/Paths/AST_Demolitionist.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 2546,
+      "exportedPath": "assets/paths/ast_demolitionist.html",
+      "dependencies": []
+    },
+    "Assets/Paths/AST_Devotant.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 2284,
+      "exportedPath": "assets/paths/ast_devotant.html",
+      "dependencies": []
+    },
+    "Assets/Paths/AST_Diplomat.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 2214,
+      "exportedPath": "assets/paths/ast_diplomat.html",
+      "dependencies": []
+    },
+    "Assets/Paths/AST_Empath.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 1559,
+      "exportedPath": "assets/paths/ast_empath.html",
+      "dependencies": []
+    },
+    "Assets/Paths/AST_Explorer.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 1949,
+      "exportedPath": "assets/paths/ast_explorer.html",
+      "dependencies": []
+    },
+    "Assets/Paths/AST_Fated.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 2076,
+      "exportedPath": "assets/paths/ast_fated.html",
+      "dependencies": []
+    },
+    "Assets/Paths/AST_Firebrand.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 2301,
+      "exportedPath": "assets/paths/ast_firebrand.html",
+      "dependencies": []
+    },
+    "Assets/Paths/AST_Fugitive.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 2862,
+      "exportedPath": "assets/paths/ast_fugitive.html",
+      "dependencies": []
+    },
+    "Assets/Paths/AST_Gearhead.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 2181,
+      "exportedPath": "assets/paths/ast_gearhead.html",
+      "dependencies": []
+    },
+    "Assets/Paths/AST_Gunner.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 2062,
+      "exportedPath": "assets/paths/ast_gunner.html",
+      "dependencies": []
+    },
+    "Assets/Paths/AST_Gunslinger.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 2136,
+      "exportedPath": "assets/paths/ast_gunslinger.html",
+      "dependencies": []
+    },
+    "Assets/Paths/AST_Haunted.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 2559,
+      "exportedPath": "assets/paths/ast_haunted.html",
+      "dependencies": []
+    },
+    "Assets/Paths/AST_Healer.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 2020,
+      "exportedPath": "assets/paths/ast_healer.html",
+      "dependencies": []
+    },
+    "Assets/Paths/AST_Infiltrator.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 2155,
+      "exportedPath": "assets/paths/ast_infiltrator.html",
+      "dependencies": []
+    },
+    "Assets/Paths/AST_Kinetic.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 3008,
+      "exportedPath": "assets/paths/ast_kinetic.html",
+      "dependencies": []
+    },
+    "Assets/Paths/AST_Leader.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 2247,
+      "exportedPath": "assets/paths/ast_leader.html",
+      "dependencies": []
+    },
+    "Assets/Paths/AST_Looper.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 2077,
+      "exportedPath": "assets/paths/ast_looper.html",
+      "dependencies": []
+    },
+    "Assets/Paths/AST_Lore Hunter.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 2215,
+      "exportedPath": "assets/paths/ast_lore-hunter.html",
+      "dependencies": []
+    },
+    "Assets/Paths/AST_Loyalist.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 2298,
+      "exportedPath": "assets/paths/ast_loyalist.html",
+      "dependencies": []
+    },
+    "Assets/Paths/AST_Mercenary.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 2053,
+      "exportedPath": "assets/paths/ast_mercenary.html",
+      "dependencies": []
+    },
+    "Assets/Paths/AST_Naturalist.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 2309,
+      "exportedPath": "assets/paths/ast_naturalist.html",
+      "dependencies": []
+    },
+    "Assets/Paths/AST_Navigator.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 2048,
+      "exportedPath": "assets/paths/ast_navigator.html",
+      "dependencies": []
+    },
+    "Assets/Paths/AST_Outcast.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 2032,
+      "exportedPath": "assets/paths/ast_outcast.html",
+      "dependencies": []
+    },
+    "Assets/Paths/AST_Scavenger.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 2022,
+      "exportedPath": "assets/paths/ast_scavenger.html",
+      "dependencies": []
+    },
+    "Assets/Paths/AST_Scoundrel.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 2432,
+      "exportedPath": "assets/paths/ast_scoundrel.html",
+      "dependencies": []
+    },
+    "Assets/Paths/AST_Seer.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 2487,
+      "exportedPath": "assets/paths/ast_seer.html",
+      "dependencies": []
+    },
+    "Assets/Paths/AST_Shade.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 2145,
+      "exportedPath": "assets/paths/ast_shade.html",
+      "dependencies": []
+    },
+    "Assets/Paths/AST_Slayer.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 2170,
+      "exportedPath": "assets/paths/ast_slayer.html",
+      "dependencies": []
+    },
+    "Assets/Paths/AST_Sleuth.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 2142,
+      "exportedPath": "assets/paths/ast_sleuth.html",
+      "dependencies": []
+    },
+    "Assets/Paths/AST_Sniper.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 2142,
+      "exportedPath": "assets/paths/ast_sniper.html",
+      "dependencies": []
+    },
+    "Assets/Paths/AST_Tech.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 2235,
+      "exportedPath": "assets/paths/ast_tech.html",
+      "dependencies": []
+    },
+    "Assets/Paths/AST_Trader.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 2127,
+      "exportedPath": "assets/paths/ast_trader.html",
+      "dependencies": []
+    },
+    "Assets/Paths/AST_Vestige.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 2449,
+      "exportedPath": "assets/paths/ast_vestige.html",
+      "dependencies": []
+    },
+    "Assets/Paths/AST_Veteran.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 1944,
+      "exportedPath": "assets/paths/ast_veteran.html",
+      "dependencies": []
+    },
+    "Assets/Paths/AST_Voidborn.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 2180,
+      "exportedPath": "assets/paths/ast_voidborn.html",
+      "dependencies": []
+    },
+    "Assets/Paths/AST_Weapons Master.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 2231,
+      "exportedPath": "assets/paths/ast_weapons-master.html",
+      "dependencies": []
+    },
+    "Assets/Vehicle/_Vehicle Assets.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 893,
+      "exportedPath": "assets/vehicle/_vehicle-assets.html",
+      "dependencies": []
+    },
+    "Assets/Vehicle/AST_Exosuit.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 2793,
+      "exportedPath": "assets/vehicle/ast_exosuit.html",
+      "dependencies": []
+    },
+    "Assets/Vehicle/AST_Hoverbike.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 2631,
+      "exportedPath": "assets/vehicle/ast_hoverbike.html",
+      "dependencies": []
+    },
+    "Assets/Vehicle/AST_Rover.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 2329,
+      "exportedPath": "assets/vehicle/ast_rover.html",
+      "dependencies": []
+    },
+    "Assets/Vehicle/AST_Service Pod.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 2950,
+      "exportedPath": "assets/vehicle/ast_service-pod.html",
+      "dependencies": []
+    },
+    "Assets/Vehicle/AST_Shuttle.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 2262,
+      "exportedPath": "assets/vehicle/ast_shuttle.html",
+      "dependencies": []
+    },
+    "Assets/Vehicle/AST_Skiff.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 2248,
+      "exportedPath": "assets/vehicle/ast_skiff.html",
+      "dependencies": []
+    },
+    "Assets/Vehicle/AST_Snub Fighter.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 2260,
+      "exportedPath": "assets/vehicle/ast_snub-fighter.html",
+      "dependencies": []
+    },
+    "Assets/Vehicle/AST_Starship.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 2408,
+      "exportedPath": "assets/vehicle/ast_starship.html",
+      "dependencies": []
+    },
+    "Assets/_Assets Index.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 1241,
+      "exportedPath": "assets/_assets-index.html",
+      "dependencies": []
+    },
+    "Denizens/DNZ_Chiton.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 2529,
+      "exportedPath": "denizens/dnz_chiton.html",
+      "dependencies": []
+    },
+    "Denizens/DNZ_Colossus.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 2679,
+      "exportedPath": "denizens/dnz_colossus.html",
+      "dependencies": []
+    },
+    "Denizens/DNZ_Crystallid.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 2766,
+      "exportedPath": "denizens/dnz_crystallid.html",
+      "dependencies": []
+    },
+    "Denizens/DNZ_Drift Pirate.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 2767,
+      "exportedPath": "denizens/dnz_drift-pirate.html",
+      "dependencies": []
+    },
+    "Denizens/DNZ_Ember Wisp.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 2267,
+      "exportedPath": "denizens/dnz_ember-wisp.html",
+      "dependencies": []
+    },
+    "Denizens/DNZ_FIrestorm Trooper.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 2522,
+      "exportedPath": "denizens/dnz_firestorm-trooper.html",
+      "dependencies": []
+    },
+    "Denizens/DNZ_Flarewing Shark.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 2735,
+      "exportedPath": "denizens/dnz_flarewing-shark.html",
+      "dependencies": []
+    },
+    "GameplayRules/CampaignCreation/Character/CharGenSteps/CRG_Background  Vow.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 2759,
+      "exportedPath": "gameplayrules/campaigncreation/character/chargensteps/crg_background-vow.html",
+      "dependencies": []
+    },
+    "GameplayRules/CampaignCreation/Character/CharGenSteps/CRG_Board Your Starship.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 5330,
+      "exportedPath": "gameplayrules/campaigncreation/character/chargensteps/crg_board-your-starship.html",
+      "dependencies": []
+    },
+    "GameplayRules/CampaignCreation/Character/CharGenSteps/CRG_Choose Your Assets.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 4898,
+      "exportedPath": "gameplayrules/campaigncreation/character/chargensteps/crg_choose-your-assets.html",
+      "dependencies": []
+    },
+    "GameplayRules/CampaignCreation/Character/CharGenSteps/CRG_Create Your Backstory.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 3029,
+      "exportedPath": "gameplayrules/campaigncreation/character/chargensteps/crg_create-your-backstory.html",
+      "dependencies": []
+    },
+    "GameplayRules/CampaignCreation/Character/CharGenSteps/CRG_Envision Your Character.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 2133,
+      "exportedPath": "gameplayrules/campaigncreation/character/chargensteps/crg_envision-your-character.html",
+      "dependencies": []
+    },
+    "GameplayRules/CampaignCreation/Character/CharGenSteps/CRG_Gear Up.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 2512,
+      "exportedPath": "gameplayrules/campaigncreation/character/chargensteps/crg_gear-up.html",
+      "dependencies": []
+    },
+    "GameplayRules/CampaignCreation/Character/CharGenSteps/CRG_Set Stats and Meters.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 2719,
+      "exportedPath": "gameplayrules/campaigncreation/character/chargensteps/crg_set-stats-and-meters.html",
+      "dependencies": []
+    },
+    "GameplayRules/CampaignCreation/Character/Prompts/CRG_Chracter Background.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 1930,
+      "exportedPath": "gameplayrules/campaigncreation/character/prompts/crg_chracter-background.html",
+      "dependencies": []
+    },
+    "GameplayRules/CampaignCreation/Character/Prompts/CRG_Quest Starters.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 11826,
+      "exportedPath": "gameplayrules/campaigncreation/character/prompts/crg_quest-starters.html",
+      "dependencies": []
+    },
+    "GameplayRules/CampaignCreation/Character/_CRG_Create Your Character.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 4477,
+      "exportedPath": "gameplayrules/campaigncreation/character/_crg_create-your-character.html",
+      "dependencies": []
+    },
+    "GameplayRules/CampaignCreation/Sector/_CSG_Sector Creation Summary.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 2984,
+      "exportedPath": "gameplayrules/campaigncreation/sector/_csg_sector-creation-summary.html",
+      "dependencies": []
+    },
+    "GameplayRules/CampaignCreation/Sector/CSG_Create Local Connection.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 6730,
+      "exportedPath": "gameplayrules/campaigncreation/sector/csg_create-local-connection.html",
+      "dependencies": []
+    },
+    "GameplayRules/CampaignCreation/Sector/CSG_Creating A Starting Sector.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 5270,
+      "exportedPath": "gameplayrules/campaigncreation/sector/csg_creating-a-starting-sector.html",
+      "dependencies": []
+    },
+    "GameplayRules/CampaignCreation/Sector/CSG_Enhance A Starting Sector.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 8465,
+      "exportedPath": "gameplayrules/campaigncreation/sector/csg_enhance-a-starting-sector.html",
+      "dependencies": []
+    },
+    "GameplayRules/CampaignCreation/Sector/CSG_Pre-Generated Sector.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 2479,
+      "exportedPath": "gameplayrules/campaigncreation/sector/csg_pre-generated-sector.html",
+      "dependencies": []
+    },
+    "GameplayRules/CampaignCreation/StartAdventure/_Starting Adventure Summary.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 1338,
+      "exportedPath": "gameplayrules/campaigncreation/startadventure/_starting-adventure-summary.html",
+      "dependencies": []
+    },
+    "GameplayRules/CampaignCreation/StartAdventure/CFG_First Vow.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 6589,
+      "exportedPath": "gameplayrules/campaigncreation/startadventure/cfg_first-vow.html",
+      "dependencies": []
+    },
+    "GameplayRules/CampaignCreation/StartAdventure/CFG_Inciiting Incident.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 5474,
+      "exportedPath": "gameplayrules/campaigncreation/startadventure/cfg_inciiting-incident.html",
+      "dependencies": []
+    },
+    "GameplayRules/CampaignCreation/Truths/_Truths Index.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 1431,
+      "exportedPath": "gameplayrules/campaigncreation/truths/_truths-index.html",
+      "dependencies": []
+    },
+    "GameplayRules/CampaignCreation/Truths/CTR_Choose Your Truths.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 5729,
+      "exportedPath": "gameplayrules/campaigncreation/truths/ctr_choose-your-truths.html",
+      "dependencies": []
+    },
+    "GameplayRules/CampaignCreation/Truths/TR_Artificial Intelligence.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 3046,
+      "exportedPath": "gameplayrules/campaigncreation/truths/tr_artificial-intelligence.html",
+      "dependencies": []
+    },
+    "GameplayRules/CampaignCreation/Truths/TR_Cataclysm.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 3180,
+      "exportedPath": "gameplayrules/campaigncreation/truths/tr_cataclysm.html",
+      "dependencies": []
+    },
+    "GameplayRules/CampaignCreation/Truths/TR_Communication and Data.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 2593,
+      "exportedPath": "gameplayrules/campaigncreation/truths/tr_communication-and-data.html",
+      "dependencies": []
+    },
+    "GameplayRules/CampaignCreation/Truths/TR_Communities.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 2609,
+      "exportedPath": "gameplayrules/campaigncreation/truths/tr_communities.html",
+      "dependencies": []
+    },
+    "GameplayRules/CampaignCreation/Truths/TR_Exodus.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 2849,
+      "exportedPath": "gameplayrules/campaigncreation/truths/tr_exodus.html",
+      "dependencies": []
+    },
+    "GameplayRules/CampaignCreation/Truths/TR_Horrors.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 2523,
+      "exportedPath": "gameplayrules/campaigncreation/truths/tr_horrors.html",
+      "dependencies": []
+    },
+    "GameplayRules/CampaignCreation/Truths/TR_Iron.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 2564,
+      "exportedPath": "gameplayrules/campaigncreation/truths/tr_iron.html",
+      "dependencies": []
+    },
+    "GameplayRules/CampaignCreation/Truths/TR_Laws.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 2681,
+      "exportedPath": "gameplayrules/campaigncreation/truths/tr_laws.html",
+      "dependencies": []
+    },
+    "GameplayRules/CampaignCreation/Truths/TR_Lifeforms.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 2701,
+      "exportedPath": "gameplayrules/campaigncreation/truths/tr_lifeforms.html",
+      "dependencies": []
+    },
+    "GameplayRules/CampaignCreation/Truths/TR_Magic.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 2523,
+      "exportedPath": "gameplayrules/campaigncreation/truths/tr_magic.html",
+      "dependencies": []
+    },
+    "GameplayRules/CampaignCreation/Truths/TR_Medicine.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 2359,
+      "exportedPath": "gameplayrules/campaigncreation/truths/tr_medicine.html",
+      "dependencies": []
+    },
+    "GameplayRules/CampaignCreation/Truths/TR_Precursors.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 2688,
+      "exportedPath": "gameplayrules/campaigncreation/truths/tr_precursors.html",
+      "dependencies": []
+    },
+    "GameplayRules/CampaignCreation/Truths/TR_Religion.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 2517,
+      "exportedPath": "gameplayrules/campaigncreation/truths/tr_religion.html",
+      "dependencies": []
+    },
+    "GameplayRules/CampaignCreation/Truths/TR_War.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 2669,
+      "exportedPath": "gameplayrules/campaigncreation/truths/tr_war.html",
+      "dependencies": []
+    },
+    "GameplayRules/CampaignCreation/_Campaign Index.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 2201,
+      "exportedPath": "gameplayrules/campaigncreation/_campaign-index.html",
+      "dependencies": []
+    },
+    "GameplayRules/CampaignCreation/CPG_Prepare for Liftoff.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 2946,
+      "exportedPath": "gameplayrules/campaigncreation/cpg_prepare-for-liftoff.html",
+      "dependencies": []
+    },
+    "GameplayRules/Core/Fundamentals/GP_Action Roll.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 6359,
+      "exportedPath": "gameplayrules/core/fundamentals/gp_action-roll.html",
+      "dependencies": []
+    },
+    "GameplayRules/Core/Fundamentals/GP_Allies_Conflict.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 4950,
+      "exportedPath": "gameplayrules/core/fundamentals/gp_allies_conflict.html",
+      "dependencies": []
+    },
+    "GameplayRules/Core/Fundamentals/GP_Assets.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 8181,
+      "exportedPath": "gameplayrules/core/fundamentals/gp_assets.html",
+      "dependencies": []
+    },
+    "GameplayRules/Core/Fundamentals/GP_Characters.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 6414,
+      "exportedPath": "gameplayrules/core/fundamentals/gp_characters.html",
+      "dependencies": []
+    },
+    "GameplayRules/Core/Fundamentals/GP_Condition Meters.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 4856,
+      "exportedPath": "gameplayrules/core/fundamentals/gp_condition-meters.html",
+      "dependencies": []
+    },
+    "GameplayRules/Core/Fundamentals/GP_Equipment.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 3138,
+      "exportedPath": "gameplayrules/core/fundamentals/gp_equipment.html",
+      "dependencies": []
+    },
+    "GameplayRules/Core/Fundamentals/GP_Impacts.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 7481,
+      "exportedPath": "gameplayrules/core/fundamentals/gp_impacts.html",
+      "dependencies": []
+    },
+    "GameplayRules/Core/Fundamentals/GP_Making Moves.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 10972,
+      "exportedPath": "gameplayrules/core/fundamentals/gp_making-moves.html",
+      "dependencies": []
+    },
+    "GameplayRules/Core/Fundamentals/GP_Momentum.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 7179,
+      "exportedPath": "gameplayrules/core/fundamentals/gp_momentum.html",
+      "dependencies": []
+    },
+    "GameplayRules/Core/Fundamentals/GP_Navigating the Forge.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 5978,
+      "exportedPath": "gameplayrules/core/fundamentals/gp_navigating-the-forge.html",
+      "dependencies": []
+    },
+    "GameplayRules/Core/Fundamentals/GP_Oracles.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 6598,
+      "exportedPath": "gameplayrules/core/fundamentals/gp_oracles.html",
+      "dependencies": []
+    },
+    "GameplayRules/Core/Fundamentals/GP_Tracks.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 13452,
+      "exportedPath": "gameplayrules/core/fundamentals/gp_tracks.html",
+      "dependencies": []
+    },
+    "GameplayRules/Core/Fundamentals/GP_Vehicles.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 2802,
+      "exportedPath": "gameplayrules/core/fundamentals/gp_vehicles.html",
+      "dependencies": []
+    },
+    "GameplayRules/Core/Getting Started/GS_Materials for Play.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 1667,
+      "exportedPath": "gameplayrules/core/getting-started/gs_materials-for-play.html",
+      "dependencies": []
+    },
+    "GameplayRules/Core/Getting Started/GS_Mechanics and Fiction.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 2832,
+      "exportedPath": "gameplayrules/core/getting-started/gs_mechanics-and-fiction.html",
+      "dependencies": []
+    },
+    "GameplayRules/Core/Getting Started/GS_Principles of Play.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 9827,
+      "exportedPath": "gameplayrules/core/getting-started/gs_principles-of-play.html",
+      "dependencies": []
+    },
+    "GameplayRules/Core/Getting Started/GS_Prioritizing Player Saftey.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 4179,
+      "exportedPath": "gameplayrules/core/getting-started/gs_prioritizing-player-saftey.html",
+      "dependencies": []
+    },
+    "GameplayRules/Core/Getting Started/GS_The Basics.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 2849,
+      "exportedPath": "gameplayrules/core/getting-started/gs_the-basics.html",
+      "dependencies": []
+    },
+    "GameplayRules/Core/Getting Started/GS_Tone and Setting.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 3871,
+      "exportedPath": "gameplayrules/core/getting-started/gs_tone-and-setting.html",
+      "dependencies": []
+    },
+    "GameplayRules/Core/NPC/GNPC_Components Of NPCs.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 4930,
+      "exportedPath": "gameplayrules/core/npc/gnpc_components-of-npcs.html",
+      "dependencies": []
+    },
+    "GameplayRules/Core/NPC/GNPC_Forging NPCs.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 3203,
+      "exportedPath": "gameplayrules/core/npc/gnpc_forging-npcs.html",
+      "dependencies": []
+    },
+    "GameplayRules/Core/NPC/GNPC_Joining Forces with NPCs.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 3024,
+      "exportedPath": "gameplayrules/core/npc/gnpc_joining-forces-with-npcs.html",
+      "dependencies": []
+    },
+    "GameplayRules/Homebrew/Concepts/Aspect.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 335,
+      "exportedPath": "gameplayrules/homebrew/concepts/aspect.html",
+      "dependencies": []
+    },
+    "GameplayRules/Homebrew/Concepts/Gameplay Role.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 1211,
+      "exportedPath": "gameplayrules/homebrew/concepts/gameplay-role.html",
+      "dependencies": []
+    },
+    "GameplayRules/Optional/Clocks/_GP_Clocks.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 2220,
+      "exportedPath": "gameplayrules/optional/clocks/_gp_clocks.html",
+      "dependencies": []
+    },
+    "GameplayRules/Optional/Clocks/GP_Clocks_Campaign.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 5202,
+      "exportedPath": "gameplayrules/optional/clocks/gp_clocks_campaign.html",
+      "dependencies": []
+    },
+    "GameplayRules/Optional/Clocks/GP_Clocks_Tension.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 2318,
+      "exportedPath": "gameplayrules/optional/clocks/gp_clocks_tension.html",
+      "dependencies": []
+    },
+    "GameplayRules/_Gameplay Guidelines Index.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 1515,
+      "exportedPath": "gameplayrules/_gameplay-guidelines-index.html",
+      "dependencies": []
+    },
+    "Moves/Adventure/_Adventure Moves.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 1039,
+      "exportedPath": "moves/adventure/_adventure-moves.html",
+      "dependencies": []
+    },
+    "Moves/Adventure/MV_Aid Your Ally.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 4394,
+      "exportedPath": "moves/adventure/mv_aid-your-ally.html",
+      "dependencies": []
+    },
+    "Moves/Adventure/MV_Check Your Gear.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 3299,
+      "exportedPath": "moves/adventure/mv_check-your-gear.html",
+      "dependencies": []
+    },
+    "Moves/Adventure/MV_Compel.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 4468,
+      "exportedPath": "moves/adventure/mv_compel.html",
+      "dependencies": []
+    },
+    "Moves/Adventure/MV_Face Danger.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 4437,
+      "exportedPath": "moves/adventure/mv_face-danger.html",
+      "dependencies": []
+    },
+    "Moves/Adventure/MV_Gather Information.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 3692,
+      "exportedPath": "moves/adventure/mv_gather-information.html",
+      "dependencies": []
+    },
+    "Moves/Adventure/MV_Secure an Advantage.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 4477,
+      "exportedPath": "moves/adventure/mv_secure-an-advantage.html",
+      "dependencies": []
+    },
+    "Moves/Asset/_Asset Moves.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 946,
+      "exportedPath": "moves/asset/_asset-moves.html",
+      "dependencies": []
+    },
+    "Moves/Asset/MV_Blazing Meditiation.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 1479,
+      "exportedPath": "moves/asset/mv_blazing-meditiation.html",
+      "dependencies": []
+    },
+    "Moves/Asset/MV_Commemorate.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 1931,
+      "exportedPath": "moves/asset/mv_commemorate.html",
+      "dependencies": []
+    },
+    "Moves/Asset/MV_Craft Projectiles.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 1739,
+      "exportedPath": "moves/asset/mv_craft-projectiles.html",
+      "dependencies": []
+    },
+    "Moves/Asset/MV_Establish Haven.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 2312,
+      "exportedPath": "moves/asset/mv_establish-haven.html",
+      "dependencies": []
+    },
+    "Moves/Asset/MV_Loop Back.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 2447,
+      "exportedPath": "moves/asset/mv_loop-back.html",
+      "dependencies": []
+    },
+    "Moves/Asset/MV_Pull heartstrings.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 2483,
+      "exportedPath": "moves/asset/mv_pull-heartstrings.html",
+      "dependencies": []
+    },
+    "Moves/Asset/MV_Raise Shields.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 1558,
+      "exportedPath": "moves/asset/mv_raise-shields.html",
+      "dependencies": []
+    },
+    "Moves/Asset/MV_Read Heart.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 2003,
+      "exportedPath": "moves/asset/mv_read-heart.html",
+      "dependencies": []
+    },
+    "Moves/Asset/MV_Ready Grappler.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 1771,
+      "exportedPath": "moves/asset/mv_ready-grappler.html",
+      "dependencies": []
+    },
+    "Moves/Asset/MV_Shroud In Darkness.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 1630,
+      "exportedPath": "moves/asset/mv_shroud-in-darkness.html",
+      "dependencies": []
+    },
+    "Moves/Combat/_Combat Moves.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 13034,
+      "exportedPath": "moves/combat/_combat-moves.html",
+      "dependencies": []
+    },
+    "Moves/Combat/MV_Battle.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 4324,
+      "exportedPath": "moves/combat/mv_battle.html",
+      "dependencies": []
+    },
+    "Moves/Combat/MV_Clash.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 3899,
+      "exportedPath": "moves/combat/mv_clash.html",
+      "dependencies": []
+    },
+    "Moves/Combat/MV_Enter the Fray.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 4475,
+      "exportedPath": "moves/combat/mv_enter-the-fray.html",
+      "dependencies": []
+    },
+    "Moves/Combat/MV_Face Defeat.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 3459,
+      "exportedPath": "moves/combat/mv_face-defeat.html",
+      "dependencies": []
+    },
+    "Moves/Combat/MV_Gain Ground.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 4456,
+      "exportedPath": "moves/combat/mv_gain-ground.html",
+      "dependencies": []
+    },
+    "Moves/Combat/MV_React Under Fire.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 4416,
+      "exportedPath": "moves/combat/mv_react-under-fire.html",
+      "dependencies": []
+    },
+    "Moves/Combat/MV_Strike.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 4092,
+      "exportedPath": "moves/combat/mv_strike.html",
+      "dependencies": []
+    },
+    "Moves/Combat/MV_Take Decisive Action.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 6210,
+      "exportedPath": "moves/combat/mv_take-decisive-action.html",
+      "dependencies": []
+    },
+    "Moves/Connection/_Connection Moves.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 2267,
+      "exportedPath": "moves/connection/_connection-moves.html",
+      "dependencies": []
+    },
+    "Moves/Connection/MV_Develop a Relationship.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 4555,
+      "exportedPath": "moves/connection/mv_develop-a-relationship.html",
+      "dependencies": []
+    },
+    "Moves/Connection/MV_Forge a Bond.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 5659,
+      "exportedPath": "moves/connection/mv_forge-a-bond.html",
+      "dependencies": []
+    },
+    "Moves/Connection/MV_Make a Connection.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 3847,
+      "exportedPath": "moves/connection/mv_make-a-connection.html",
+      "dependencies": []
+    },
+    "Moves/Connection/MV_Test Your Relationship.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 3410,
+      "exportedPath": "moves/connection/mv_test-your-relationship.html",
+      "dependencies": []
+    },
+    "Moves/Exploration/_Exploration Moves.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 3700,
+      "exportedPath": "moves/exploration/_exploration-moves.html",
+      "dependencies": []
+    },
+    "Moves/Exploration/MV_Confront Chaos.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 3511,
+      "exportedPath": "moves/exploration/mv_confront-chaos.html",
+      "dependencies": []
+    },
+    "Moves/Exploration/MV_Explore a Waypoint.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 6489,
+      "exportedPath": "moves/exploration/mv_explore-a-waypoint.html",
+      "dependencies": []
+    },
+    "Moves/Exploration/MV_Finish an Expedition.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 4693,
+      "exportedPath": "moves/exploration/mv_finish-an-expedition.html",
+      "dependencies": []
+    },
+    "Moves/Exploration/MV_Make a Discovery.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 3878,
+      "exportedPath": "moves/exploration/mv_make-a-discovery.html",
+      "dependencies": []
+    },
+    "Moves/Exploration/MV_Set a Course.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 4051,
+      "exportedPath": "moves/exploration/mv_set-a-course.html",
+      "dependencies": []
+    },
+    "Moves/Exploration/MV_Undertake an Expedition.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 11821,
+      "exportedPath": "moves/exploration/mv_undertake-an-expedition.html",
+      "dependencies": []
+    },
+    "Moves/Fate/_Fate Moves.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 1783,
+      "exportedPath": "moves/fate/_fate-moves.html",
+      "dependencies": []
+    },
+    "Moves/Fate/MV_Ask the Oracle.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 6775,
+      "exportedPath": "moves/fate/mv_ask-the-oracle.html",
+      "dependencies": []
+    },
+    "Moves/Fate/MV_Pay the Price.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 5822,
+      "exportedPath": "moves/fate/mv_pay-the-price.html",
+      "dependencies": []
+    },
+    "Moves/Legacy/_Legacy Moves.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 1247,
+      "exportedPath": "moves/legacy/_legacy-moves.html",
+      "dependencies": []
+    },
+    "Moves/Legacy/MV_Advance.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 3675,
+      "exportedPath": "moves/legacy/mv_advance.html",
+      "dependencies": []
+    },
+    "Moves/Legacy/MV_Continue a Legacy.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 5051,
+      "exportedPath": "moves/legacy/mv_continue-a-legacy.html",
+      "dependencies": []
+    },
+    "Moves/Legacy/MV_Earn Experience.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 3306,
+      "exportedPath": "moves/legacy/mv_earn-experience.html",
+      "dependencies": []
+    },
+    "Moves/Quest/_Quest Moves.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 6268,
+      "exportedPath": "moves/quest/_quest-moves.html",
+      "dependencies": []
+    },
+    "Moves/Quest/MV_Forsake Your Vow.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 3556,
+      "exportedPath": "moves/quest/mv_forsake-your-vow.html",
+      "dependencies": []
+    },
+    "Moves/Quest/MV_Fullfill Your Vow.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 4139,
+      "exportedPath": "moves/quest/mv_fullfill-your-vow.html",
+      "dependencies": []
+    },
+    "Moves/Quest/MV_Reach a Milestone.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 3766,
+      "exportedPath": "moves/quest/mv_reach-a-milestone.html",
+      "dependencies": []
+    },
+    "Moves/Quest/MV_Swear an Iron Vow.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 3635,
+      "exportedPath": "moves/quest/mv_swear-an-iron-vow.html",
+      "dependencies": []
+    },
+    "Moves/Recover/_Recover Moves.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 1389,
+      "exportedPath": "moves/recover/_recover-moves.html",
+      "dependencies": []
+    },
+    "Moves/Recover/MV_Heal.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 4093,
+      "exportedPath": "moves/recover/mv_heal.html",
+      "dependencies": []
+    },
+    "Moves/Recover/MV_Hearten.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 4031,
+      "exportedPath": "moves/recover/mv_hearten.html",
+      "dependencies": []
+    },
+    "Moves/Recover/MV_Repair.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 6958,
+      "exportedPath": "moves/recover/mv_repair.html",
+      "dependencies": []
+    },
+    "Moves/Recover/MV_Resupply.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 4392,
+      "exportedPath": "moves/recover/mv_resupply.html",
+      "dependencies": []
+    },
+    "Moves/Recover/MV_Sojourn.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 4400,
+      "exportedPath": "moves/recover/mv_sojourn.html",
+      "dependencies": []
+    },
+    "Moves/Scene/_Scene Moves.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 5178,
+      "exportedPath": "moves/scene/_scene-moves.html",
+      "dependencies": []
+    },
+    "Moves/Scene/MV_Begin the Scene.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 2929,
+      "exportedPath": "moves/scene/mv_begin-the-scene.html",
+      "dependencies": []
+    },
+    "Moves/Scene/MV_Finish the Scene.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 2689,
+      "exportedPath": "moves/scene/mv_finish-the-scene.html",
+      "dependencies": []
+    },
+    "Moves/Session/_Session Moves.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 1361,
+      "exportedPath": "moves/session/_session-moves.html",
+      "dependencies": []
+    },
+    "Moves/Session/MV_Begin a Session.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 3833,
+      "exportedPath": "moves/session/mv_begin-a-session.html",
+      "dependencies": []
+    },
+    "Moves/Session/MV_Change Your Fate.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 3375,
+      "exportedPath": "moves/session/mv_change-your-fate.html",
+      "dependencies": []
+    },
+    "Moves/Session/MV_End a Session.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 3390,
+      "exportedPath": "moves/session/mv_end-a-session.html",
+      "dependencies": []
+    },
+    "Moves/Session/MV_Set a Flag.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 2552,
+      "exportedPath": "moves/session/mv_set-a-flag.html",
+      "dependencies": []
+    },
+    "Moves/Session/MV_Take a Break.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 3219,
+      "exportedPath": "moves/session/mv_take-a-break.html",
+      "dependencies": []
+    },
+    "Moves/Suffer/_Suffer Moves.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 1833,
+      "exportedPath": "moves/suffer/_suffer-moves.html",
+      "dependencies": []
+    },
+    "Moves/Suffer/MV_Companion Takes a Hit.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 4516,
+      "exportedPath": "moves/suffer/mv_companion-takes-a-hit.html",
+      "dependencies": []
+    },
+    "Moves/Suffer/MV_Endure Harm.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 6098,
+      "exportedPath": "moves/suffer/mv_endure-harm.html",
+      "dependencies": []
+    },
+    "Moves/Suffer/MV_Endure Stress.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 6084,
+      "exportedPath": "moves/suffer/mv_endure-stress.html",
+      "dependencies": []
+    },
+    "Moves/Suffer/MV_Lose Momentum.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 3659,
+      "exportedPath": "moves/suffer/mv_lose-momentum.html",
+      "dependencies": []
+    },
+    "Moves/Suffer/MV_Sacrifice Resources.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 3942,
+      "exportedPath": "moves/suffer/mv_sacrifice-resources.html",
+      "dependencies": []
+    },
+    "Moves/Suffer/MV_Withstand Damage.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 6795,
+      "exportedPath": "moves/suffer/mv_withstand-damage.html",
+      "dependencies": []
+    },
+    "Moves/Threshold/_Threshold Moves.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 1366,
+      "exportedPath": "moves/threshold/_threshold-moves.html",
+      "dependencies": []
+    },
+    "Moves/Threshold/MV_Face Death.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 4682,
+      "exportedPath": "moves/threshold/mv_face-death.html",
+      "dependencies": []
+    },
+    "Moves/Threshold/MV_Face Desolution.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 4003,
+      "exportedPath": "moves/threshold/mv_face-desolution.html",
+      "dependencies": []
+    },
+    "Moves/Threshold/MV_Overcome Destruction.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 7015,
+      "exportedPath": "moves/threshold/mv_overcome-destruction.html",
+      "dependencies": []
+    },
+    "Moves/_Moves Index.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 3852,
+      "exportedPath": "moves/_moves-index.html",
+      "dependencies": []
+    },
+    "Moves/MV_Triggers.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 7722,
+      "exportedPath": "moves/mv_triggers.html",
+      "dependencies": []
+    },
+    "Oracles/Characcter/_OCL_Characters.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 2018,
+      "exportedPath": "oracles/characcter/_ocl_characters.html",
+      "dependencies": []
+    },
+    "Oracles/Characcter/OCL_Character-Approach.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 2223,
+      "exportedPath": "oracles/characcter/ocl_character-approach.html",
+      "dependencies": []
+    },
+    "Oracles/Characcter/OCL_Character-Drives.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 5901,
+      "exportedPath": "oracles/characcter/ocl_character-drives.html",
+      "dependencies": []
+    },
+    "Oracles/Characcter/OCL_Character-Names.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 6181,
+      "exportedPath": "oracles/characcter/ocl_character-names.html",
+      "dependencies": []
+    },
+    "Oracles/Creatures/_OCL_Creatures.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 918,
+      "exportedPath": "oracles/creatures/_ocl_creatures.html",
+      "dependencies": []
+    },
+    "Oracles/Creatures/OCL_Creature-Approach.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 5185,
+      "exportedPath": "oracles/creatures/ocl_creature-approach.html",
+      "dependencies": []
+    },
+    "Oracles/Creatures/OCL_Creature-Basic Form.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 4104,
+      "exportedPath": "oracles/creatures/ocl_creature-basic-form.html",
+      "dependencies": []
+    },
+    "Oracles/Creatures/OCL_Creature-Location-Size.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 1593,
+      "exportedPath": "oracles/creatures/ocl_creature-location-size.html",
+      "dependencies": []
+    },
+    "Oracles/Derelicts/_OCL_Derelicts.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 3456,
+      "exportedPath": "oracles/derelicts/_ocl_derelicts.html",
+      "dependencies": []
+    },
+    "Oracles/Derelicts/OCL_Derelict_Create.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 1865,
+      "exportedPath": "oracles/derelicts/ocl_derelict_create.html",
+      "dependencies": []
+    },
+    "Oracles/Derelicts/OCL_Derelict_Looks.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 2726,
+      "exportedPath": "oracles/derelicts/ocl_derelict_looks.html",
+      "dependencies": []
+    },
+    "Oracles/Derelicts/OCL_Derelict_Zones.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 2444,
+      "exportedPath": "oracles/derelicts/ocl_derelict_zones.html",
+      "dependencies": []
+    },
+    "Oracles/Derelicts/OCL_Derelict-Zone-Access.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 2742,
+      "exportedPath": "oracles/derelicts/ocl_derelict-zone-access.html",
+      "dependencies": []
+    },
+    "Oracles/Derelicts/OCL_Derelict-Zone-Community.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 2725,
+      "exportedPath": "oracles/derelicts/ocl_derelict-zone-community.html",
+      "dependencies": []
+    },
+    "Oracles/Derelicts/OCL_Derelict-Zone-Engineering.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 2700,
+      "exportedPath": "oracles/derelicts/ocl_derelict-zone-engineering.html",
+      "dependencies": []
+    },
+    "Oracles/Derelicts/OCL_Derelict-Zone-Living.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 2738,
+      "exportedPath": "oracles/derelicts/ocl_derelict-zone-living.html",
+      "dependencies": []
+    },
+    "Oracles/Derelicts/OCL_Derelict-Zone-Medical.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 2649,
+      "exportedPath": "oracles/derelicts/ocl_derelict-zone-medical.html",
+      "dependencies": []
+    },
+    "Oracles/Derelicts/OCL_Derelict-Zone-Operations.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 2744,
+      "exportedPath": "oracles/derelicts/ocl_derelict-zone-operations.html",
+      "dependencies": []
+    },
+    "Oracles/Derelicts/OCL_Derelict-Zone-Production.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 2682,
+      "exportedPath": "oracles/derelicts/ocl_derelict-zone-production.html",
+      "dependencies": []
+    },
+    "Oracles/Derelicts/OLC_Derelict-Zone-Research.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 2675,
+      "exportedPath": "oracles/derelicts/olc_derelict-zone-research.html",
+      "dependencies": []
+    },
+    "Oracles/Factions/_OCL_Factions.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 1045,
+      "exportedPath": "oracles/factions/_ocl_factions.html",
+      "dependencies": []
+    },
+    "Oracles/Factions/OCL_Faction-Motives.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 4905,
+      "exportedPath": "oracles/factions/ocl_faction-motives.html",
+      "dependencies": []
+    },
+    "Oracles/Factions/OCL_Faction-Name.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 5317,
+      "exportedPath": "oracles/factions/ocl_faction-name.html",
+      "dependencies": []
+    },
+    "Oracles/Factions/OCL_Faction-Relations.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 4497,
+      "exportedPath": "oracles/factions/ocl_faction-relations.html",
+      "dependencies": []
+    },
+    "Oracles/Factions/OCL_Faction-Types.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 2908,
+      "exportedPath": "oracles/factions/ocl_faction-types.html",
+      "dependencies": []
+    },
+    "Oracles/Location Theme/_OCL_LocationThemes.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 2631,
+      "exportedPath": "oracles/location-theme/_ocl_locationthemes.html",
+      "dependencies": []
+    },
+    "Oracles/Location Theme/OCL_LocationTheme-Chaotic.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 2700,
+      "exportedPath": "oracles/location-theme/ocl_locationtheme-chaotic.html",
+      "dependencies": []
+    },
+    "Oracles/Location Theme/OCL_LocationTheme-Fortified.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 2698,
+      "exportedPath": "oracles/location-theme/ocl_locationtheme-fortified.html",
+      "dependencies": []
+    },
+    "Oracles/Location Theme/OCL_LocationTheme-Haunted.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 2721,
+      "exportedPath": "oracles/location-theme/ocl_locationtheme-haunted.html",
+      "dependencies": []
+    },
+    "Oracles/Location Theme/OCL_LocationTheme-Infested.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 2679,
+      "exportedPath": "oracles/location-theme/ocl_locationtheme-infested.html",
+      "dependencies": []
+    },
+    "Oracles/Location Theme/OCL_LocationTheme-Inhabited.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 2743,
+      "exportedPath": "oracles/location-theme/ocl_locationtheme-inhabited.html",
+      "dependencies": []
+    },
+    "Oracles/Location Theme/OCL_LocationTheme-Mechanical.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 2705,
+      "exportedPath": "oracles/location-theme/ocl_locationtheme-mechanical.html",
+      "dependencies": []
+    },
+    "Oracles/Location Theme/OCL_LocationTheme-Ruined.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 2773,
+      "exportedPath": "oracles/location-theme/ocl_locationtheme-ruined.html",
+      "dependencies": []
+    },
+    "Oracles/Location Theme/OCL_LocationTheme-Sacred.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 2839,
+      "exportedPath": "oracles/location-theme/ocl_locationtheme-sacred.html",
+      "dependencies": []
+    },
+    "Oracles/Miscellaneous/_OCL_Miscellaneous.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 944,
+      "exportedPath": "oracles/miscellaneous/_ocl_miscellaneous.html",
+      "dependencies": []
+    },
+    "Oracles/Miscellaneous/OCL_Anomaly Effect.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 2648,
+      "exportedPath": "oracles/miscellaneous/ocl_anomaly-effect.html",
+      "dependencies": []
+    },
+    "Oracles/Miscellaneous/OCL_Combat Action.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 2413,
+      "exportedPath": "oracles/miscellaneous/ocl_combat-action.html",
+      "dependencies": []
+    },
+    "Oracles/Miscellaneous/OCL_Story Clue.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 2747,
+      "exportedPath": "oracles/miscellaneous/ocl_story-clue.html",
+      "dependencies": []
+    },
+    "Oracles/Miscellaneous/OCL_Story Complication.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 2590,
+      "exportedPath": "oracles/miscellaneous/ocl_story-complication.html",
+      "dependencies": []
+    },
+    "Oracles/Planets/_OCL_Planets.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 10616,
+      "exportedPath": "oracles/planets/_ocl_planets.html",
+      "dependencies": []
+    },
+    "Oracles/Planets/OCL_Planet_Opportunity.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 3463,
+      "exportedPath": "oracles/planets/ocl_planet_opportunity.html",
+      "dependencies": []
+    },
+    "Oracles/Planets/OCL_Planet_Peril.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 3464,
+      "exportedPath": "oracles/planets/ocl_planet_peril.html",
+      "dependencies": []
+    },
+    "Oracles/Planets/OCL_Planet-Desert.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 3974,
+      "exportedPath": "oracles/planets/ocl_planet-desert.html",
+      "dependencies": []
+    },
+    "Oracles/Planets/OCL_Planet-Furnace.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 3965,
+      "exportedPath": "oracles/planets/ocl_planet-furnace.html",
+      "dependencies": []
+    },
+    "Oracles/Planets/OCL_Planet-Grave.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 3603,
+      "exportedPath": "oracles/planets/ocl_planet-grave.html",
+      "dependencies": []
+    },
+    "Oracles/Planets/OCL_Planet-Ice.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 3933,
+      "exportedPath": "oracles/planets/ocl_planet-ice.html",
+      "dependencies": []
+    },
+    "Oracles/Planets/OCL_Planet-Jovian.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 3892,
+      "exportedPath": "oracles/planets/ocl_planet-jovian.html",
+      "dependencies": []
+    },
+    "Oracles/Planets/OCL_Planet-Jungle.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 3939,
+      "exportedPath": "oracles/planets/ocl_planet-jungle.html",
+      "dependencies": []
+    },
+    "Oracles/Planets/OCL_Planet-Ocean.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 3954,
+      "exportedPath": "oracles/planets/ocl_planet-ocean.html",
+      "dependencies": []
+    },
+    "Oracles/Planets/OCL_Planet-Rocky.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 3871,
+      "exportedPath": "oracles/planets/ocl_planet-rocky.html",
+      "dependencies": []
+    },
+    "Oracles/Planets/OCL_Planet-Shattered.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 3857,
+      "exportedPath": "oracles/planets/ocl_planet-shattered.html",
+      "dependencies": []
+    },
+    "Oracles/Planets/OCL_Planet-Tainted.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 3761,
+      "exportedPath": "oracles/planets/ocl_planet-tainted.html",
+      "dependencies": []
+    },
+    "Oracles/Planets/OCL_Planet-Vital.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 4770,
+      "exportedPath": "oracles/planets/ocl_planet-vital.html",
+      "dependencies": []
+    },
+    "Oracles/Precursor Vaults/_OCL_PrecursorVaults.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 3640,
+      "exportedPath": "oracles/precursor-vaults/_ocl_precursorvaults.html",
+      "dependencies": []
+    },
+    "Oracles/Precursor Vaults/OCL_Vault-Create.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 3705,
+      "exportedPath": "oracles/precursor-vaults/ocl_vault-create.html",
+      "dependencies": []
+    },
+    "Oracles/Precursor Vaults/OCL_Vault-Interior.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 5467,
+      "exportedPath": "oracles/precursor-vaults/ocl_vault-interior.html",
+      "dependencies": []
+    },
+    "Oracles/Precursor Vaults/OCL_Vault-Purpose.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 2421,
+      "exportedPath": "oracles/precursor-vaults/ocl_vault-purpose.html",
+      "dependencies": []
+    },
+    "Oracles/Precursor Vaults/OCL_Vault-Sanctum.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 4421,
+      "exportedPath": "oracles/precursor-vaults/ocl_vault-sanctum.html",
+      "dependencies": []
+    },
+    "Oracles/Settlements/_OCL_Settlements.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 927,
+      "exportedPath": "oracles/settlements/_ocl_settlements.html",
+      "dependencies": []
+    },
+    "Oracles/Settlements/OCL_Settle_Approach.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 2551,
+      "exportedPath": "oracles/settlements/ocl_settle_approach.html",
+      "dependencies": []
+    },
+    "Oracles/Settlements/OCL_Settle-Concerns.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 3267,
+      "exportedPath": "oracles/settlements/ocl_settle-concerns.html",
+      "dependencies": []
+    },
+    "Oracles/Settlements/OCL_Settle-Creation.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 1890,
+      "exportedPath": "oracles/settlements/ocl_settle-creation.html",
+      "dependencies": []
+    },
+    "Oracles/Settlements/OCL_Settle-Name.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 2869,
+      "exportedPath": "oracles/settlements/ocl_settle-name.html",
+      "dependencies": []
+    },
+    "Oracles/Space/_OCL_Space.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 2430,
+      "exportedPath": "oracles/space/_ocl_space.html",
+      "dependencies": []
+    },
+    "Oracles/Space/_OCL_Space Encounters.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 4952,
+      "exportedPath": "oracles/space/_ocl_space-encounters.html",
+      "dependencies": []
+    },
+    "Oracles/Space/OCL_Sector Name.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 4167,
+      "exportedPath": "oracles/space/ocl_sector-name.html",
+      "dependencies": []
+    },
+    "Oracles/Space/OCL_Spaceborne Opportunity.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 2419,
+      "exportedPath": "oracles/space/ocl_spaceborne-opportunity.html",
+      "dependencies": []
+    },
+    "Oracles/Space/OCL_Spaceborne Peril.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 2470,
+      "exportedPath": "oracles/space/ocl_spaceborne-peril.html",
+      "dependencies": []
+    },
+    "Oracles/Space/OCL_Stellar Object.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 1370,
+      "exportedPath": "oracles/space/ocl_stellar-object.html",
+      "dependencies": []
+    },
+    "Oracles/Starship/_OCL_Starships.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 872,
+      "exportedPath": "oracles/starship/_ocl_starships.html",
+      "dependencies": []
+    },
+    "Oracles/Starship/OCL_Starship-Approach.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 2194,
+      "exportedPath": "oracles/starship/ocl_starship-approach.html",
+      "dependencies": []
+    },
+    "Oracles/Starship/OCL_Starship-Mission.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 4660,
+      "exportedPath": "oracles/starship/ocl_starship-mission.html",
+      "dependencies": []
+    },
+    "Oracles/Starship/OCL_Starship-Name.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 3065,
+      "exportedPath": "oracles/starship/ocl_starship-name.html",
+      "dependencies": []
+    },
+    "Oracles/Starship/OCL_Starship-Type-Fleet.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 2540,
+      "exportedPath": "oracles/starship/ocl_starship-type-fleet.html",
+      "dependencies": []
+    },
+    "Oracles/_OCL_Index.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 1346,
+      "exportedPath": "oracles/_ocl_index.html",
+      "dependencies": []
+    },
+    "Oracles/OCL_Core.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 10178,
+      "exportedPath": "oracles/ocl_core.html",
+      "dependencies": []
+    },
+    "Oracles/OCL_Using Oracles.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 11656,
+      "exportedPath": "oracles/ocl_using-oracles.html",
+      "dependencies": []
+    },
+    "RollTables/Rollers/Gameplay/GR_All.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 7089,
+      "exportedPath": "rolltables/rollers/gameplay/gr_all.html",
+      "dependencies": []
+    },
+    "RollTables/Rollers/Gameplay/GR_Creation.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 361,
+      "exportedPath": "rolltables/rollers/gameplay/gr_creation.html",
+      "dependencies": []
+    },
+    "RollTables/Rollers/Gameplay/GR_Moves.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 339,
+      "exportedPath": "rolltables/rollers/gameplay/gr_moves.html",
+      "dependencies": []
+    },
+    "RollTables/Rollers/Gameplay/GR_Truths.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 636,
+      "exportedPath": "rolltables/rollers/gameplay/gr_truths.html",
+      "dependencies": []
+    },
+    "RollTables/Rollers/Oracles/OR_All.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 36514,
+      "exportedPath": "rolltables/rollers/oracles/or_all.html",
+      "dependencies": []
+    },
+    "RollTables/Rollers/Oracles/OR_Characters.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 152,
+      "exportedPath": "rolltables/rollers/oracles/or_characters.html",
+      "dependencies": []
+    },
+    "RollTables/Rollers/Oracles/OR_Creatures.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 151,
+      "exportedPath": "rolltables/rollers/oracles/or_creatures.html",
+      "dependencies": []
+    },
+    "RollTables/Rollers/Oracles/OR_Derelicts.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 151,
+      "exportedPath": "rolltables/rollers/oracles/or_derelicts.html",
+      "dependencies": []
+    },
+    "RollTables/Rollers/Oracles/OR_Factions.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 149,
+      "exportedPath": "rolltables/rollers/oracles/or_factions.html",
+      "dependencies": []
+    },
+    "RollTables/Rollers/Oracles/OR_Location-Themes.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 157,
+      "exportedPath": "rolltables/rollers/oracles/or_location-themes.html",
+      "dependencies": []
+    },
+    "RollTables/Rollers/Oracles/OR_Misc.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 143,
+      "exportedPath": "rolltables/rollers/oracles/or_misc.html",
+      "dependencies": []
+    },
+    "RollTables/Rollers/Oracles/OR_Planets.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 147,
+      "exportedPath": "rolltables/rollers/oracles/or_planets.html",
+      "dependencies": []
+    },
+    "RollTables/Rollers/Oracles/OR_Settlements.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 157,
+      "exportedPath": "rolltables/rollers/oracles/or_settlements.html",
+      "dependencies": []
+    },
+    "RollTables/Rollers/Oracles/OR_Space.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 145,
+      "exportedPath": "rolltables/rollers/oracles/or_space.html",
+      "dependencies": []
+    },
+    "RollTables/Rollers/Oracles/OR_Starships.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 153,
+      "exportedPath": "rolltables/rollers/oracles/or_starships.html",
+      "dependencies": []
+    },
+    "RollTables/Rollers/Oracles/OR_Vaults.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 155,
+      "exportedPath": "rolltables/rollers/oracles/or_vaults.html",
+      "dependencies": []
+    },
+    "RollTables/Rollers/_Rollers_Index.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 364,
+      "exportedPath": "rolltables/rollers/_rollers_index.html",
+      "dependencies": []
+    },
+    "RollTables/Tables/Oracles/OT_ISSF_Characters.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 17606,
+      "exportedPath": "rolltables/tables/oracles/ot_issf_characters.html",
+      "dependencies": []
+    },
+    "RollTables/Tables/Oracles/OT_ISSF_Core.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 10637,
+      "exportedPath": "rolltables/tables/oracles/ot_issf_core.html",
+      "dependencies": []
+    },
+    "RollTables/Tables/Oracles/OT_ISSF_Creatures.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 34677,
+      "exportedPath": "rolltables/tables/oracles/ot_issf_creatures.html",
+      "dependencies": []
+    },
+    "RollTables/Tables/Oracles/OT_ISSF_Derelicts.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 145117,
+      "exportedPath": "rolltables/tables/oracles/ot_issf_derelicts.html",
+      "dependencies": []
+    },
+    "RollTables/Tables/Oracles/OT_ISSF_Factions.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 57992,
+      "exportedPath": "rolltables/tables/oracles/ot_issf_factions.html",
+      "dependencies": []
+    },
+    "RollTables/Tables/Oracles/OT_ISSF_Location-Themes.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 125781,
+      "exportedPath": "rolltables/tables/oracles/ot_issf_location-themes.html",
+      "dependencies": []
+    },
+    "RollTables/Tables/Oracles/OT_ISSF_Misc.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 19520,
+      "exportedPath": "rolltables/tables/oracles/ot_issf_misc.html",
+      "dependencies": []
+    },
+    "RollTables/Tables/Oracles/OT_ISSF_Planets.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 212066,
+      "exportedPath": "rolltables/tables/oracles/ot_issf_planets.html",
+      "dependencies": []
+    },
+    "RollTables/Tables/Oracles/OT_ISSF_Settlements.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 22588,
+      "exportedPath": "rolltables/tables/oracles/ot_issf_settlements.html",
+      "dependencies": []
+    },
+    "RollTables/Tables/Oracles/OT_ISSF_Space.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 28095,
+      "exportedPath": "rolltables/tables/oracles/ot_issf_space.html",
+      "dependencies": []
+    },
+    "RollTables/Tables/Oracles/OT_ISSF_Starships.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 25664,
+      "exportedPath": "rolltables/tables/oracles/ot_issf_starships.html",
+      "dependencies": []
+    },
+    "RollTables/Tables/Oracles/OT_ISSF_Vaults.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 52928,
+      "exportedPath": "rolltables/tables/oracles/ot_issf_vaults.html",
+      "dependencies": []
+    },
+    "RollTables/Tables/OT_ISSF_Campaign.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 33202,
+      "exportedPath": "rolltables/tables/ot_issf_campaign.html",
+      "dependencies": []
+    },
+    "RollTables/Tables/OT_ISSF_Moves.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 43326,
+      "exportedPath": "rolltables/tables/ot_issf_moves.html",
+      "dependencies": []
+    },
+    "RollTables/Tables/OT_ISSF_Truths.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 10734,
+      "exportedPath": "rolltables/tables/ot_issf_truths.html",
+      "dependencies": []
+    },
+    "index.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 1842,
+      "exportedPath": "index.html",
+      "dependencies": []
+    },
+    "LICENSE.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 1707,
+      "exportedPath": "license.html",
+      "dependencies": []
+    },
+    "OFA_ChangeLog.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 2805,
+      "exportedPath": "ofa_changelog.html",
+      "dependencies": []
+    },
+    "README.md": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 4453,
+      "exportedPath": "readme.html",
+      "dependencies": []
+    },
+    "lib/scripts/graph-wasm.wasm": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 23377,
+      "exportedPath": "lib/scripts/graph-wasm.wasm",
+      "dependencies": []
+    },
+    "lib/fonts/94f2f163d4b698242fef.otf": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 66800,
+      "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
+      "dependencies": []
+    },
+    "lib/fonts/72505e6a122c6acd5471.woff2": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 104232,
+      "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/2d5198822ab091ce4305.woff2": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 104332,
+      "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 98868,
+      "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cb10ffd7684cd9836a05.woff2": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 106876,
+      "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/b5f0f109bc88052d4000.woff2": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 105804,
+      "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cbe0ae49c52c920fd563.woff2": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 106108,
+      "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/535a6cf662596b3bd6a6.woff2": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 111708,
+      "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/70cc7ff27245e82ad414.ttf": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 192740,
+      "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/454577c22304619db035.ttf": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 161376,
+      "exportedPath": "lib/fonts/454577c22304619db035.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/52ac8f3034507f1d9e53.ttf": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 191568,
+      "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/05b618077343fbbd92b7.ttf": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 155288,
+      "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 7876,
+      "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+      "dependencies": []
+    },
+    "lib/media/874d8b8e340f75575caa.svg": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 317,
+      "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
+      "dependencies": []
+    },
+    "lib/media/3d6c1bdc4d87cde4de67.svg": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 279,
+      "exportedPath": "lib/media/3d6c1bdc4d87cde4de67.svg",
+      "dependencies": []
+    },
+    "lib/html/file-tree.html": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 157896,
+      "exportedPath": "lib/html/file-tree.html",
+      "dependencies": []
+    },
+    "lib/scripts/webpage.js": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 47290,
+      "exportedPath": "lib/scripts/webpage.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-view.js": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 15519,
+      "exportedPath": "lib/scripts/graph-view.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-wasm.js": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 14021,
+      "exportedPath": "lib/scripts/graph-wasm.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-render-worker.js": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 5179,
+      "exportedPath": "lib/scripts/graph-render-worker.js",
+      "dependencies": []
+    },
+    "lib/scripts/tinycolor.js": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 29832,
+      "exportedPath": "lib/scripts/tinycolor.js",
+      "dependencies": []
+    },
+    "lib/scripts/pixi.js": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 449509,
+      "exportedPath": "lib/scripts/pixi.js",
+      "dependencies": []
+    },
+    "lib/scripts/minisearch.js": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 29422,
+      "exportedPath": "lib/scripts/minisearch.js",
+      "dependencies": []
+    },
+    "lib/media/favicon.png": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 1105,
+      "exportedPath": "lib/media/favicon.png",
+      "dependencies": []
+    },
+    "lib/scripts/graph-data.js": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 41315,
+      "exportedPath": "lib/scripts/graph-data.js",
+      "dependencies": []
+    },
+    "lib/styles/obsidian.css": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 130183,
+      "exportedPath": "lib/styles/obsidian.css",
+      "dependencies": []
+    },
+    "lib/styles/other-plugins.css": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 10633,
+      "exportedPath": "lib/styles/other-plugins.css",
+      "dependencies": []
+    },
+    "lib/styles/theme.css": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 778895,
+      "exportedPath": "lib/styles/theme.css",
+      "dependencies": []
+    },
+    "lib/styles/global-variable-styles.css": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 416,
+      "exportedPath": "lib/styles/global-variable-styles.css",
+      "dependencies": []
+    },
+    "lib/styles/supported-plugins.css": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 239,
+      "exportedPath": "lib/styles/supported-plugins.css",
+      "dependencies": []
+    },
+    "lib/styles/main-styles.css": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 23130,
+      "exportedPath": "lib/styles/main-styles.css",
+      "dependencies": []
+    },
+    "lib/styles/snippets.css": {
+      "modifiedTime": 1717811039211,
+      "sourceSize": 28324,
+      "exportedPath": "lib/styles/snippets.css",
+      "dependencies": []
+    }
+  }
+}

@@ -2,7 +2,7 @@
 Alias: "Assets"
 ---
 
-# [[_INDEX|Index]]: Assets
+# [[index|Index]]: Assets
 ## Asset Categories
 
 ### [[_Companion Assets|Companion Assets]]

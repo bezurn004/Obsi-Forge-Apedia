@@ -1,7 +1,7 @@
 ---
 Alias: "Moves Index"
 ---
-# [[_INDEX|Index]]: Moves 
+# [[index|Index]]: Moves 
 In Starforged players make Moves for their characters to interact with the narrative enabling action rolls to determine the mechanical and narrative outcomes.  [[_Assets Index|Assets]] also enhance or trigger moves through their granted abilities.
 
 Don’t read this section completely. Instead, if you have a question about a specific move, activity, or best-practice, go to that section. Also remember that the moves are available as printable handouts in the Starforged Playkit. Refer to those handouts during your session, and come back to this chapter if you need guidance or want more detail.
