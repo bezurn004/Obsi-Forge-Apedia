@@ -2,21 +2,27 @@
 ## Source
 SourceMaterial: "Ironsworn: Starforged"
 SourceAuthor: "Shawn Tompkin"
+SourceLink: 
 
 ## Page
-Alias: "Story Clue Oracle"
-PageType: "Oracle"
-PageCategory: "Story"
+aliases:
+  - "Story Clue Oracle"
+PageType: Oracle
+PageCategory: Story
+PageOrder: 3
 
 ## Oracle
-Oracle: "Misc"
+Oracle: Misc
 OracleFocus: "Story Clue"
 OracleDescriptor: "Generate story clues related to the Gather Information move."
 ---
 # [[_OCL_Index|Oracle]] - [[_OCL_Miscellaneous|Miscellaneous]]: Story Clue
-When you Gather Information to investigate a mystery, you might uncover clues in the form of messages, rumors, eyewitness reports, data, or physical evidence. You can use this oracle to help reveal what this evidence connects to or implicates. Then, use the outcome of the Gather Information roll, strong hit, weak hit, or miss, to guide whether the clue brings clarity or complications.
+Generate story clues related to the Gather Information move.
 
 ## Oracle: Story Clue
+> [!mechanics]- | Roll > %%GetDice%% | Guidance
+> When you [[MV_Gather Information|Gather Information (move)]]to investigate a mystery, you might uncover clues in the form of messages, rumors, eyewitness reports, data, or physical evidence. You can use this oracle to help reveal what this evidence connects to or implicates. Then, use the outcome of the [[MV_Gather Information|Gather Information (move)]]roll, strong hit, weak hit, or miss, to guide whether the clue brings clarity or complications. ^guidance-ISSF-Core1-0-OclStoryClue
+
 | 1d100 | Result |
 |:---:|:--- |
 | 1-3 | Affirms a previously understood fact or clue |
@@ -49,10 +55,12 @@ When you Gather Information to investigate a mystery, you might uncover clues in
 | 82-84 | Suggests a history of similar incidents |
 | 85-87 | Suggests a looming event or deadline |
 | 88-90 | Suggests an impostor or forgery |
-| 91-100 | ▶[[OCL_Core#Oracle Descriptor\|Descriptor]] + [[OCL_Core#Oracle Focus\|Focus]] |
+| 91-100 | ▶[[OCL_Core_Descriptor-Focus#Oracle Descriptor\|Descriptor]] + [[OCL_Core_Descriptor-Focus#Oracle Focus\|Focus]] |
 ^table-ISSF-Core1-0-OclStoryClue
 
 ## Tags
-#Pedia/Oracles 
+| Previous Page | Tags | Next Page |
+|:--- |:---:| ---:|
+| **[[OCL_Combat Action\|Combat Action Oracle]]** | #Pedia/Oracles | **[[OCL_Story Complication\|Story Complication Oracle]]** |
 
 <font size=-2>This work is based on Ironsworn: Starforged (found at [www.ironswornrpg.com](http://www.ironswornrpg.com)), created by Shawn Tomkin, and licensed for our use under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license  (creativecommons.org/licenses/by-nc-sa/4.0/).</font>

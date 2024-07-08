@@ -2,24 +2,30 @@
 ## Source
 SourceMaterial: "Ironsworn: Starforged"
 SourceAuthor: "Shawn Tompkin"
+SourceLink: 
 
 ## Page
-Alias: "Character Drives Oracle"
-PageType: "Oracle"
-PageCategory: "Character"
+aliases:
+  - "Character Drives Oracle"
+  - "Character Role Oracle"
+  - "Character Goal Oracle"
+  - "Character Revealed Aspect Oracle"
+PageType: Oracle
+PageCategory: Character
 PageOrder: 3
 
 ## Oracle
 Oracle: Character
 OracleFocus: Drives
+OracleDescriptor: "As more information is learned about a character use these oracles to flesh out their aspects."
 ---
  # [[_OCL_Index|Oracle]] - [[_OCL_Characters|Character]]: Drives
 As more information is learned about a character use these oracles to flesh out their aspects.
-- **[[OCL_Character-Drives#Oracle: Character Role|Character Role]]:** professions or occupation for a character.
-- **[[OCL_Character-Drives#Oracle: Character Goal|Chracter Goal]]:** goals a character holds close to their heart, used to motivate their interactions through their interactions.
-- **[[OCL_Character-Drives#Oracle: Character Revealed Aspect|Revealed Aspect]]:** once you have had sufficient interactions with a character to learn more about their personality or drives.
 
 ## Oracle: Character Role
+> [!mechanics]- | Roll > %%GetDice%% | Guidance
+> Professions or occupation for a character. Generally this can be learned in simple conversations with an NPC that has some knowledge. However, some Role's may be more secretive, especially ones with illegal dealings. ^guidance-ISSF-Core1-0-OclCharacterRole
+
 | 1d100 | Result |
 |:---:|:--- |
 | 1-2 | Agent |
@@ -68,13 +74,16 @@ As more information is learned about a character use these oracles to flesh out 
 | 87-88 | Spacer |
 | 89-90 | Technician |
 | 91-92 | Thief |
-| 93-95 | ▶[[OCL_Core#Oracle Action\|Action]] + [[OCL_Core#Oracle Theme\|Theme]] |
+| 93-95 | ▶[[OCL_Core_Action-Theme#Oracle Action\|Action]] + [[OCL_Core_Action-Theme#Oracle Theme\|Theme]] |
 | 96-100 | Roll Twice |
 ^table-ISSF-Core1-0-OclCharacterRole
 
 ## Oracle: Character Goal
- 1d100 | Result |
-| :----: | :------- |
+> [!mechanics]- | Roll > %%GetDice%% | Guidance
+> Goals a character holds close to their heart, used to motivate their interactions through their interactions. ^guidance-ISSF-Core1-0-OclCharacterGoal
+
+| 1d100 | Result |
+| :---: | --- |
 | 1-2 | Avenge a wrong |
 | 3-4 | Build a home |
 | 5-7 | Build a relationship |
@@ -113,15 +122,13 @@ As more information is learned about a character use these oracles to flesh out 
 | 75-76 | Spread faith |
 | 77-78 | Travel to a place |
 | 79-80 | Undermine a relationship |
-| 81-90 | ▶[[OCL_Core#Oracle Action\|Action]] + [[OCL_Core#Oracle Theme\|Theme]] |
+| 81-90 | ▶[[OCL_Core_Action-Theme#Oracle Action\|Action]] + [[OCL_Core_Action-Theme#Oracle Theme\|Theme]] |
 | 91-100 | Roll twice |
 ^table-ISSF-Core1-0-OclCharacterGoal
 
-## Oracle: Character Revealed Aspect
-> **Usage**
-> As you interact with a character and gain a deeper understanding of their nature and personality, roll on the character revealed aspect oracle to reveal new characteristics. You may ignore, reroll, or adjust contradictions. Or envision how those contradictions add interesting complexity to the character.
-
-Aspects per Entity: 1-3
+## Oracle: Character Revealed Aspect {1-3}
+> [!mechanics]- | Roll > %%GetDice%% | Guidance
+> As you interact with a character and gain a deeper understanding of their nature and personality, roll on the character revealed aspect oracle to reveal new characteristics. You may ignore, reroll, or adjust contradictions. Or envision how those contradictions add interesting complexity to the character. ^guidance-ISSF-Core1-0-OclCharacterRevealedAspect
 
 | 1d100 | Result |
 |:---:|:--- |
@@ -227,8 +234,11 @@ Aspects per Entity: 1-3
 | 100 | Wise |
 ^table-ISSF-Core1-0-OclCharacterRevealedAspect
 
-
 ## Tags
+| Previous Page | Tags | Next Section |
+|:--- |:---:| ---:|
+| **[[OCL_Character-Approach\|Character Approach Oracle]]** |  | **[[_OCL_Creatures\|Creatures Oracle]]** |
+
 #Pedia/Oracles/Characters 
 
 <font size=-2>This work is based on Ironsworn: Starforged (found at [www.ironswornrpg.com](http://www.ironswornrpg.com)), created by Shawn Tomkin, and licensed for our use under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license  (creativecommons.org/licenses/by-nc-sa/4.0/).</font>

@@ -2,21 +2,30 @@
 ## Source
 SourceMaterial: "Ironsworn: Starforged"
 SourceAuthor: "Shawn Tompkin"
+SourceLink: 
 
 ## Page
-Alias: "Location Theme:Haunted Oracle"
-PageType: "Oracle"
+aliases:
+  - "Location Theme: Haunted Oracles"
+  - "Location Theme: Haunted Feature Oracle"
+  - "Location Theme: Haunted Peril Oracle"
+  - "Location Theme: Haunted Opportunity Oracle"
+PageType: Oracle
 PageCategory: "Location Theme"
+PageOrder: 3
 
 ## Oracle
 Oracle: "Location Theme"
-OracleFocus: "Haunted"
-OracleDescriptor: "Restless spirits are bound to this place."
+OracleFocus: Haunted
+OracleDescriptor: "_Restless spirits are bound to this place._"
 ---
 # [[_OCL_Index|Oracle]] - [[_OCL_LocationThemes|Location Theme]]: Haunted
-*Restless spirits are bound to this place.*
+*_Restless spirits are bound to this place._*
 
-## Oracle: Location Theme: Haunted Feature
+## Oracle: Location Theme - Haunted Feature
+> [!mechanics]- | Roll > %%GetDice%% | Guidance
+> ![[GSRY_Definitions#^gsry-OclSite-Feature]] ^guidance-OclSite-Feature
+
 | 1d100 | Result |
 |:---:|:--- |
 | 1-8 | Disembodied voices |
@@ -31,10 +40,13 @@ OracleDescriptor: "Restless spirits are bound to this place."
 | 73-80 | Twisted or altered architecture or terrain |
 | 81-88 | Unnatural blight, decay, or ruin |
 | 89-96 | Unnatural mists or darkness |
-| 97-100 | ▶[[OCL_Core#Oracle Descriptor\|Descriptor]] + [[OCL_Core#Oracle Focus\|Focus]] |
+| 97-100 | ▶[[OCL_Core_Descriptor-Focus#Oracle Descriptor\|Descriptor]] + [[OCL_Core_Descriptor-Focus#Oracle Focus\|Focus]] |
 ^table-ISSF-Core1-0-OclLocationThemeHauntedFeature
 
-## Oracle: Location Theme: Haunted Peril
+## Oracle: Location Theme - Haunted Peril
+> [!mechanics]- | Roll > %%GetDice%% | Guidance
+> ![[GSRY_Definitions#^gsry-OclSite-Peril]] ^guidance-OclSite-Peril
+
 | 1d100 | Result |
 |:---:|:--- |
 | 1-9 | Assailed by an angry or vengeful being |
@@ -47,11 +59,14 @@ OracleDescriptor: "Restless spirits are bound to this place."
 | 64-72 | Sudden, shocking reveal of a ghostly manifestation or undead form |
 | 73-81 | Trickery leads you into danger |
 | 82-90 | Visions reveal a horrifying aspect of this place |
-| 91-98 | ▶[[OCL_Core#Oracle Action\|Action]] + [[OCL_Core#Oracle Theme\|Theme]] |
+| 91-98 | ▶[[OCL_Core_Action-Theme#Oracle Action\|Action]] + [[OCL_Core_Action-Theme#Oracle Theme\|Theme]] |
 | 99-100 | Roll twice |
 ^table-ISSF-Core1-0-OclLocationThemeHauntedPeril
 
-## Oracle: Location Theme: Haunted Opportunity
+## Oracle: Location Theme - Haunted Opportunity
+> [!mechanics]- | Roll > %%GetDice%% | Guidance
+> ![[GSRY_Definitions#^gsry-OclSite-Opportunity]] ^guidance-OclSite-Opportunity
+
 | 1d100 | Result |
 |:---:|:--- |
 | 1-20 | Encounter with a benign spirit or being |
@@ -62,6 +77,8 @@ OracleDescriptor: "Restless spirits are bound to this place."
 ^table-ISSF-Core1-0-OclLocationThemeHauntedOpportunity
 
 ## Tags
-#Pedia/Oracles/LocationThemes 
+| Previous Page | Tags | Next Page |
+|:--- |:---:| ---:|
+| **[[OCL_LocationTheme-Fortified\|Location Theme: Fortified Oracles]]** | #Pedia/Oracles/LocationThemes | **[[OCL_LocationTheme-Infested\|Location Theme: Infested Oracles]]** |
 
 <font size=-2>This work is based on Ironsworn: Starforged (found at [www.ironswornrpg.com](http://www.ironswornrpg.com)), created by Shawn Tomkin, and licensed for our use under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license  (creativecommons.org/licenses/by-nc-sa/4.0/).</font>

@@ -2,21 +2,28 @@
 ## Source
 SourceMaterial: "Ironsworn: Starforged"
 SourceAuthor: "Shawn Tompkin"
+SourceLink: 
 
 ## Page
-Alias: "Faction Motives Oracle"
-PageType: "Oracle"
-PageCategory: "Faction"
+aliases:
+  - "Faction Motives Oracle"
+  - "Faction Projects Oracle"
+  - "Faction Quirks Oracle"
+PageType: Oracle
+PageCategory: Faction
+PageOrder: 3
 
 ## Oracle
 Oracle: Faction
 OracleFocus: Motives
-OracleOrdder: 4
+OracleDescriptor: "A Faction's broad generalization of their Projects and Quirks gleans insight onto their collective motives."
 ---
  # [[_OCL_Index|Oracle]] - [[_OCL_Factions|Faction]]: Motives
+ A Faction's broad generalization their Projects and Quirks.
 
 ## Oracle: Faction Projects
-Pick or roll on this table to reveal the current focus of a faction. Then, use the nature of the organization to help envision the meaning of the project. The result may introduce events that motivate your character to aid or resist the project, or can serve as background detail for your setting. If you would like to track the faction’s progress, set a clock for the project using the [[GP_Clocks_Campaign|Campaign Clocks]] guidelines.
+> [!mechanics]- | Roll > %%GetDice%% | Guidance
+> Pick or roll on this table to reveal the current focus of a faction. Then, use the nature of the organization to help envision the meaning of the project. The result may introduce events that motivate your character to aid or resist the project, or can serve as background detail for your setting. If you would like to track the faction’s progress, set a clock for the project using the [[GID_Clocks_Campaign|Campaign Clocks]] guidelines. ^guidance-OclFactionProjects
 
 | 1d100 | Result |
 |:---:|:--- |
@@ -27,7 +34,7 @@ Pick or roll on this table to reveal the current focus of a faction. Then, use t
 | 13-15 | Disrupt the operations of a rival |
 | 16-18 | Escape the control of another faction or power |
 | 19-21 | Establish a monument or memorial |
-| 22-24 | Establish a safe refuge or headquarters |
+| 22-[](GID_Clocks_Campaign.md)arters |
 | 25-27 | Expand operations to a new location or sector |
 | 28-30 | Form an alliance |
 | 31-33 | Fulfill a prophecy |
@@ -52,11 +59,12 @@ Pick or roll on this table to reveal the current focus of a faction. Then, use t
 | 88-90 | Subsume another faction |
 | 91-93 | Transport a valued asset |
 | 94-96 | Usurp leadership within a rival faction |
-| 97-100 | ▶[[OCL_Core#Oracle Action\|Action]] + [[OCL_Core#Oracle Theme\|Theme]] |
-^table-ISSF-Core1-0-OclFactionProjects
+| 97-100 | ▶[[OCL_Core_Action-Theme#Oracle Action\|Action]] + [[OCL_Core_Action-Theme#Oracle Theme\|Theme]] |
+^table-OclFactionProjects
 
 ## Oracle: Faction Quirks
-Roll or pick known characteristics of the faction and its members using this table. But keep in mind that even within a small or specialized faction, there are no absolutes. These quirks represent common attitudes, practices, or approaches, but are not universal to every member of that faction. Leave room in your portrayal for diversity and contradictions.
+> [!mechanics]- | Roll > %%GetDice%% | Guidance
+> Roll or pick known characteristics of the faction and its members using this table. But keep in mind that even within a small or specialized faction, there are no absolutes. These quirks represent common attitudes, practices, or approaches, but are not universal to every member of that faction. Leave room in your portrayal for diversity and contradictions. ^guidance-OclFactionQuirks
 
 | 1d100 | Result |
 |:---:|:--- |
@@ -92,10 +100,12 @@ Roll or pick known characteristics of the faction and its members using this tab
 | 88-90 | Trains in a demanding physical discipline or martial art |
 | 91-93 | Wields unnatural abilities or strange technologies |
 | 94-96 | Work or environment causes mutations |
-| 97-100 | ▶[[OCL_Core#Oracle Action\|Action]] + [[OCL_Core#Oracle Theme\|Theme]] |
-^table-ISSF-Core1-0-OclFactionQuirks
+| 97-100 | ▶[[OCL_Core_Action-Theme#Oracle Action\|Action]] + [[OCL_Core_Action-Theme#Oracle Theme\|Theme]] |
+^table-OclFactionQuirks
 
 ## Tags
-#Pedia/Oracles/Factions 
+| Previous Page | Tags | Next Page |
+|:--- |:---:| ---:|
+| **[[OCL_Faction-Name\|Faction Name Oracle]]** | #Pedia/Oracles/Factions | **[[OCL_Faction-Relations\|Faction Relations Oracle]]** |
 
 <font size=-2>This work is based on Ironsworn: Starforged (found at [www.ironswornrpg.com](http://www.ironswornrpg.com)), created by Shawn Tomkin, and licensed for our use under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license  (creativecommons.org/licenses/by-nc-sa/4.0/).</font>

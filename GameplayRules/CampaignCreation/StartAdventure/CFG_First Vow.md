@@ -1,18 +1,24 @@
 ---
-Name: "Swearing the First Vow"
-Alias: "Swearing the First Vow"
-PageType: Campaign
-PageCategory: Adventure
----
-# [[_Starting Adventure Summary|Starting Adventure]]: Swearing the First Vow
-## Set the Scene
+## Source
+SourceMaterial: "Ironsworn: Starforged"
+SourceAuthor: "Shawn Tompkin"
+SourceLink: 
 
+## Page
+aliases:
+  - "Swearing the First Vow (campaign)"
+PageType: Campaign
+PageCategory: "Begin Your Adventure"
+PageOrder: 3
+---
+# [[_CFG_Starting Adventure Summary|Starting Adventure]]: Swearing the First Vow
+## Set the Scene
 Based on the nature of your inciting incident, where will you begin your story? Are you in the depths of space, about to encounter some new mystery or danger? Are you at the settlement you detailed in the previous exercise, ready to take on an urgent sworn mission?
 
-Whatever the location, you have two options for starting play: You can begin with a prologue, or in medias res.
+Whatever the location, you have two options for starting play: You can begin with a ==prologue==, or ==in medias res==.
 
 ### Starting with a Prologue
-Jumping in with a prologue can help flesh out who you are and how you interact with your world. For example, imagine arriving at a settlement. Envision your starship settling onto a docking pad. See your character as they emerge. Why are you there? Where do you go? How do you interact with the inhabitants? Think of this as the sequence in a television show or movie before the credits roll. If you have a question about the location or the people there, Ask the Oracle.
+Jumping in with a prologue can help flesh out who you are and how you interact with your world. For example, imagine arriving at a settlement. Envision your starship settling onto a docking pad. See your character as they emerge. Why are you there? Where do you go? How do you interact with the inhabitants? Think of this as the sequence in a television show or movie before the credits roll. If you have a question about the location or the people there, [[MV_Ask the Oracle|Ask the Oracle (move)]].
 
 > [!tip] **Group Play**
 > If you are playing with allies the prologue is an opportunity to roleplay your relationships and introduce your personality and backgrounds. Play out a scene or two of your mundane day-to-day interactions. This is the calm before the storm.
@@ -29,7 +35,14 @@ You can begin with a tense, action-oriented scene as you encounter the problem. 
 Either way, when it’s time to [[MV_Swear an Iron Vow|Swear an Iron Vow (move)]] to the next heading.
 
 ## Make the Move
-To set your quest in motion, as a response to the inciting incident, make this move [[MV_Swear an Iron Vow|Swear an Iron Vow]]
+To set your quest in motion, as a response to the inciting incident, make this move.
+
+> [!example]  SWEAR AN IRON VOW
+> ![[MV_Swear an Iron Vow#^trigger]]
+> ![[MV_Swear an Iron Vow#^action-roll]]
+> ![[MV_Swear an Iron Vow#^strong-hit]]
+> ![[MV_Swear an Iron Vow#^weak-hit]]
+> ![[MV_Swear an Iron Vow#^miss]]
 
 ### Envision The Vow
 First, start with the fiction. This is an important moment for your character and your story. You stand at the threshold of new adventures and perils. You are about to bind yourself to a sacred promise. What iron totem do you hold? What do you say?
@@ -49,18 +62,18 @@ Add the value of your heart stat to the action die. If you are swearing this vow
 
 Compare the action score to the value of the challenge dice. 
 
-**If your action score beats both challenge dice,** you scored a strong hit. Take +2 momentum. You are confident. Your next steps are clear. Envision what this means in the context of the situation, and play to see what happens. 
+(+) (+) **If your action score beats both challenge dice,** you scored a strong hit. Take +2 momentum. You are confident. Your next steps are clear. Envision what this means in the context of the situation, and play to see what happens. 
 
-**If your action score beats only one of the challenge dice,** you scored a weak hit. Take +1 momentum. You are hesitant or anxious. Your next steps are unclear. This will typically lead to new scenes and new moves as you try to gain a foothold or uncover more about the situation.
+(+) (x) **If your action score beats only one of the challenge dice,** you scored a weak hit. Take +1 momentum. You are hesitant or anxious. Your next steps are unclear. This will typically lead to new scenes and new moves as you try to gain a foothold or uncover more about the situation.
 
-**If your action score doesn’t beat either challenge die,** you scored a miss. An unexpected danger or obstacle stands in your way. Envision what it is, or Ask the Oracle. Then, play to see what happens as you attempt to overcome this stumbling block.
+(x) (x) **If your action score doesn’t beat either challenge die,** you scored a miss. An unexpected danger or obstacle stands in your way. Envision what it is, or Ask the Oracle. Then, play to see what happens as you attempt to overcome this stumbling block.
 
 ## Next Steps
-Depending on the result of the Swear an Iron Vow move, you may have a clear path forward, more questions than answers, or may need to overcome an immediate obstacle or threat. Envision what the outcome means and how you respond.
+Depending on the result of the [[MV_Swear an Iron Vow|Swear an Iron Vow (move)]], you may have a clear path forward, more questions than answers, or may need to overcome an immediate obstacle or threat. Envision what the outcome means and how you respond.
 
-And then, play. Ask and answer questions about the situations, people, creatures, and places you encounter. When you’re unsure, Ask the Oracle. When you do something or encounter something within the scope of a move, make that move.
+And then, play. Ask and answer questions about the situations, people, creatures, and places you encounter. When you’re unsure, [[MV_Ask the Oracle|Ask the Oracle (move)]]. When you do something or encounter something within the scope of a move, make that move.
 
-At first, you might be a bit confused. You might make mistakes. That’s okay. You’ll find your footing soon enough. Keep your reference sheets handy. If you have a question about a specific term in a move or asset, check out the #incomplete  ==glossary on page 388==. If you have a more involved rules question, make a call and move on. You can look up the answer later using the details in the next chapter.
+At first, you might be a bit confused. You might make mistakes. That’s okay. You’ll find your footing soon enough. Keep your reference sheets handy. If you have a question about a specific term in a move or asset, check out the [[GSRY_Definitions]]. If you have a more involved rules question, make a call and move on. You can look up the answer later using the details in the next chapter.
 
 For now, you are Ironsworn.
 
@@ -68,9 +81,9 @@ You’ve forged a galaxy.
 
 Make your mark upon it.
 
-## Next Section: [[_Moves Index|Gameplay in Depth (Moves)]]
-
 ## Tags
-#Pedia/Campaign/Adventure - #GroupPlay 
+| Previous Page | Tags | Next Chapter |
+|:--- |:---:| ---:|
+| **[[CFG_Inciiting Incident\|The Inciting Incident (campaign)]]** | #Pedia/Campaign/Adventure - #GroupPlay | **[[_Moves Index\|Gameplay In Depth]]** |
 
 <font size=-2>This work is based on Ironsworn: Starforged (found at [www.ironswornrpg.com](http://www.ironswornrpg.com)), created by Shawn Tomkin, and licensed for our use under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license  (creativecommons.org/licenses/by-nc-sa/4.0/).</font>

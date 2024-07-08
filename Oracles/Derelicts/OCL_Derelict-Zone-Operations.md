@@ -2,20 +2,31 @@
 ## Source
 SourceMaterial: "Ironsworn: Starforged"
 SourceAuthor: "Shawn Tompkin"
+SourceLink: 
 
 ## Page
-Alias: "Derelict:Operations Oracle"
-PageType: "Oracle"
-PageCategory: "Derelict"
+aliases:
+  - "Derelict Zone: Operations Oracle"
+  - "Derelict Zone: Operations - Area Oracle"
+  - "Derelict Zone: Operations - Feature Oracle"
+  - "Derelict Zone: Operations - Peril Oracle"
+  - "Derelict Zone: Operations - Opportunity Oracle"
+PageType: Oracle
+PageCategory: Derelict
+PageOrder: 8
 
 ## Oracle
 Oracle: Derelict
-OracleFocus: Zone:Operations
+OracleFocus: "Zone: Operations"
+OracleDescriptor: "_Silent comm stations and disheveled offices._"
 ---
 # [[_OCL_Index|Oracle]] - [[_OCL_Derelicts|Derelict]] - [[OCL_Derelict_Zones|Zone]]: Operations
+_Silent comm stations and disheveled offices._
 
+## Oracle: Derelict Zone Operations - Area
+> [!mechanics]- | Roll > %%GetDice%% | Guidance
+> ![[GSRY_Definitions#^gsry-OclSite-Area]] ^guidance-OclSite-Area
 
-## Oracle: Derelict Zone Operations: Area
 | 1d100 | Result |
 |:---:|:--- |
 | 1-8 | Admin or command offices |
@@ -30,9 +41,12 @@ OracleFocus: Zone:Operations
 | 73-80 | Security |
 | 81-85 | New zone |
 | 86-100 | New zone via ⏵[[OCL_Derelict-Zone-Access\|Access]] |
-^table-ISSF-Core1-0-OclDerelictZoneOperationsArea
+^table-ISSF-Core1-0-OclDerelictZone-Operations-Area
 
-## Oracle: Derelict Zone Operations: Feature
+## Oracle: Derelict Zone Operations - Feature
+> [!mechanics]- | Roll > %%GetDice%% | Guidance
+> ![[GSRY_Definitions#^gsry-OclSite-Feature]] ^guidance-OclSite-Feature
+
 | 1d100 | Result |
 |:---:|:--- |
 | 1-8 | Automated warning |
@@ -46,10 +60,13 @@ OracleFocus: Zone:Operations
 | 65-72 | Recorded message |
 | 73-80 | Video surveillance monitors |
 | 81-88 | Written logs |
-| 89-100 | ⏵[[OCL_Core#Oracle Descriptor\|Descriptor]] + [[OCL_Core#Oracle Focus\|Focus]] |
-^table-ISSF-Core1-0-OclDerelictZoneOperationsFeature
+| 89-100 | ⏵[[OCL_Core_Descriptor-Focus#Oracle Descriptor\|Descriptor]] + [[OCL_Core_Descriptor-Focus#Oracle Focus\|Focus]] |
+^table-ISSF-Core1-0-OclDerelictZone-Operations-Feature
 
-## Oracle: Derelict Zone Operations: Peril
+## Oracle: Derelict Zone Operations - Peril
+> [!mechanics]- | Roll > %%GetDice%% | Guidance
+> ![[GSRY_Definitions#^gsry-OclSite-Peril]] ^guidance-OclSite-Peril
+
 | 1d100 | Result |
 |:---:|:--- |
 | 1-10 | Automated defenses target you |
@@ -61,11 +78,14 @@ OracleFocus: Zone:Operations
 | 61-70 | Hostile AI |
 | 71-80 | Sealed blast doors block access |
 | 81-90 | Sensors indicate the arrival of an external threat |
-| 91-98 | ⏵[[OCL_Core#Oracle Action\|Action]] + [[OCL_Core#Oracle Theme\|Theme]] |
+| 91-98 | ⏵[[OCL_Core_Action-Theme#Oracle Action\|Action]] + [[OCL_Core_Action-Theme#Oracle Theme\|Theme]] |
 | 99-100 | Roll twice |
-^table-ISSF-Core1-0-OclDerelictZoneOperationsPeril
+^table-ISSF-Core1-0-OclDerelictZone-Operations-Peril
 
-## Oracle: Derelict Zone Operations: Opportunity 
+## Oracle: Derelict Zone Operations - Opportunity
+> [!mechanics]- | Roll > %%GetDice%% | Guidance
+> ![[GSRY_Definitions#^gsry-OclSite-Opportunity]] ^guidance-OclSite-Opportunity
+
 | 1d100 | Result |
 |:---:|:--- |
 | 1-20 | Cache of weapons or ammo |
@@ -73,9 +93,11 @@ OracleFocus: Zone:Operations
 | 41-60 | Keycard or access code |
 | 61-80 | Log offers insight into this site's downfall |
 | 81-100 | Secure area offers a moment of peace |
-^table-ISSF-Core1-0-OclDerelictZoneOperationsOpportunity
+^table-ISSF-Core1-0-OclDerelictZone-Operations-Opportunity
 
 ## Tags
-#Pedia/Oracles/Derelicts 
+| Previous Page | Tags | Next Page |
+|:--- |:---:| ---:|
+| **[[OCL_Derelict-Zone-Living\|Derelict Zone: Living Oracle]]** | #Pedia/Oracles/Derelicts | **[[OCL_Derelict-Zone-Medical\|Derelict Zone: Medical Oracle]]** |
 
 <font size=-2>This work is based on Ironsworn: Starforged (found at [www.ironswornrpg.com](http://www.ironswornrpg.com)), created by Shawn Tomkin, and licensed for our use under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license  (creativecommons.org/licenses/by-nc-sa/4.0/).</font>

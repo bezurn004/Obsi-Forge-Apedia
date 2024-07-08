@@ -1,11 +1,18 @@
 ---
-Name: "The Inciting Incident"
-Alias: "The Inciting Incident"
+## Source
+SourceMaterial: "Ironsworn: Starforged"
+SourceAuthor: "Shawn Tompkin"
+SourceLink: 
+
+## Page
+aliases:
+  - "The Inciting Incident (campaign)"
 PageType: Campaign
-PageCategory: Adventure
+PageCategory: "Begin Your Adventure"
+PageOrder: 2
 ---
-# [[_Starting Adventure Summary|Starting Adventure]]: The Inciting Incident
-An inciting incident is the problem at the beginning of a story that propels the protagonists into action. Everything up to that point is backstory. It is the inciting incident that begins your campaign.
+# [[_CFG_Starting Adventure Summary|Begin Your Adventure]]: The Inciting Incident
+An ==inciting incident== is the problem at the beginning of a story that propels the protagonists into action. Everything up to that point is backstory. It is the inciting incident that begins your campaign.
 
 At this point, you may already have a problem or mission in mind for the start of your campaign. If so, jump to [[CFG_First Vow#Set the Scene|Setting the Scene]].
 
@@ -34,14 +41,14 @@ Consider these suggestions for a compelling initial quest:
 - **Limit the scope:** Don’t try to save the universe out of the gate. Envision a trouble or goal that seems manageable—something you can overcome in a session or two of play. 
 
 > [!tip] **Allies and the Inciting Incident**
-> If you are playing with others, you will undertake this quest together as a shared vow. Discuss your ideas for the incident, and consider how the quest fits the nature of your team. 
+> If you are playing with others, you will undertake this quest together as a ==shared vow==. Discuss your ideas for the incident, and consider how the quest fits the nature of your team. 
 
 ## Creating the Inciting Incident As the Guide
 If you are the guide, you can introduce an inciting incident based on the established setting and character aspects. Or you can moderate the creation of an inciting incident with your players to ensure everyone has a stake in this quest
 
 ## Still Stuck for An Idea?
 If you need inspiration, do any combination of the following: 
-- Roll the [[OCL_Core#Action and Theme|Action and Theme Oracles]]
+- Roll the [[OCL_Core_Action-Theme|Action/Theme Oracle]]
 - Roll the [[OCL_Character-Drives#Oracle: Character Goal|Character Goal Oracle]]
 - Pick or roll on the table below.
 
@@ -67,12 +74,15 @@ If you need inspiration, do any combination of the following:
 | 86–90 | Shield a wondrous lifeform from those who seek to destroy it |
 | 91–95 | Track and slay a marauding beast |
 | 96–100 | Transport a displaced people to their new home |
+^table-inciting-incident
 
 Embellish or adjust the result in the context of your established character and setting. Be mindful of the best practices on [[#What Make a Good Inciting Incident|the previous page]]. Make it relevant to your character and worthy of a sworn vow. Make it dramatic and interesting. But this will be a lower-ranked quest, so keep it relatively straightforward, things may very well spin out of control on their own soon enough.
 
 ## Next Step: [[CFG_First Vow|Swearing the First Vow]]
 
 ## Tags
-#Pedia/Campaign/Adventure - #GroupPlay  - #TheGuide 
+| Previous Page | Tags | Next Page |
+|:--- |:---:| ---:|
+| **[[_CFG_Starting Adventure Summary\|Begin Your Adventure (campaign)]]** | #Pedia/Campaign/Adventure - #GroupPlay  - #TheGuide | **[[CFG_First Vow\|Swearing the First Vow (campaign)]]** |
 
 <font size=-2>This work is based on Ironsworn: Starforged (found at [www.ironswornrpg.com](http://www.ironswornrpg.com)), created by Shawn Tomkin, and licensed for our use under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license  (creativecommons.org/licenses/by-nc-sa/4.0/).</font>

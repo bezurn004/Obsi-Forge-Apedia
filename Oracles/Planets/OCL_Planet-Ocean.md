@@ -2,20 +2,33 @@
 ## Source
 SourceMaterial: "Ironsworn: Starforged"
 SourceAuthor: "Shawn Tompkin"
+SourceLink: 
 
 ## Page
-Alias: "Planet:Ocean Oracle"
-PageType: "Oracle"
-PageCategory: "Planet"
+aliases:
+  - "Planet: Ocean Oracle"
+  - "Planet: Ocean Atmosphere Oracle"
+  - "Planet: Ocean Settlement Oracle"
+  - "Planet: Ocean Observed From Space Oracle"
+  - "Planet: Ocean Planetside Feature Oracle"
+  - "Planet: Ocean Life Oracle"
+  - "Planet: Ocean Sample Names Oracle"
+PageType: Oracle
+PageCategory: Planet
+PageOrder: 7
 
 ## Oracle
 Oracle: Planet
 OracleFocus: Ocean
+OracleDescriptor: "Ocean worlds may be an endless sea of water, but some are made up of other thalassogen such as ammonia, lava, or hydrocarbons. Other ocean worlds have their worlds contained between two icy spheres: a top layer protecting the water from solar radiation and a lower layer protecting the water from the planet’s core."
 ---
 # [[_OCL_Index|Oracle]] - [[_OCL_Planets|Planets]]: Ocean
-Ocean worlds may be an endless sea of water, but some are made up of other thalassogen such as ammonia, lava, or hydrocarbons.  Other ocean worlds have their worlds contained between two icy spheres: a top layer protecting the water from solar radiation and a lower layer protecting the water from the planet’s core.
+Ocean worlds may be an endless sea of water, but some are made up of other thalassogen such as ammonia, lava, or hydrocarbons. Other ocean worlds have their worlds contained between two icy spheres: a top layer protecting the water from solar radiation and a lower layer protecting the water from the planet’s core.
 
-## Oracle: Atmosphere
+## Oracle: Ocean Atmosphere
+> [!mechanics]- | Roll > %%GetDice%% | Guidance
+> The baseline for planet habitability, see [[_OCL_Planets#Planet Atmospheres|Planet Atmosphere]] for the effects of each atmosphere for human life. ^guidance-Atmosphere
+
 | 1d100 | Result |
 |:---:|:--- |
 | 1-5 | None / thin |
@@ -24,10 +37,13 @@ Ocean worlds may be an endless sea of water, but some are made up of other thala
 | 26-60 | Marginal |
 | 61-90 | Breathable |
 | 91-100 | Ideal |
-^table-ISSF-Core1-0-OclPlanetOceanAtmosphere
+^table-Atmosphere
 
 ## Oracle: Ocean: Settlements
-### Oracle: Settlements: Terminus
+### Oracle: Settlements - Terminus
+> [!mechanics]- | Roll > %%GetDice%% | Guidance
+> Choose or roll on possible settlements located on this planet. ^guidance-Settlement-Terminus
+
 | 1d100 | Result |
 |:---:|:--- |
 | 1-40 | None |
@@ -35,9 +51,14 @@ Ocean worlds may be an endless sea of water, but some are made up of other thala
 | 56-80 | Planetside settlement |
 | 81-92 | Multiple settlements |
 | 93-100 | Settlements in conflict |
-^table-ISSF-Core1-0-OclPlanetOceanSettlementTerminus
+^table-Settlement-Terminus
 
-### Oracle: Settlements: Outlands
+### Oracle: Settlements - Outlands
+> [!mechanics]- | Roll > %%GetDice%% | Guidance
+> Choose or roll on possible settlements located on this planet
+
+^guidance-Settlement-Terminus
+
 | 1d100 | Result |
 |:---:|:--- |
 | 1-65 | None |
@@ -45,9 +66,12 @@ Ocean worlds may be an endless sea of water, but some are made up of other thala
 | 76-92 | Planetside settlement |
 | 93-97 | Multiple settlements |
 | 98-100 | Settlements in conflict |
-^table-ISSF-Core1-0-OclPlanetOceanSettlementOutlands
+^table-Settlement-Outlands
 
-### Oracle: Settlements: Expanse
+### Oracle: Settlements - Expanse
+> [!mechanics]- | Roll > %%GetDice%% | Guidance
+> Choose or roll on possible settlements located on this planet. ^guidance-Settlement-Terminus
+
 | 1d100 | Result |
 |:---:|:--- |
 | 1-85 | None |
@@ -55,9 +79,12 @@ Ocean worlds may be an endless sea of water, but some are made up of other thala
 | 91-97 | Planetside settlement |
 | 98-99 | Multiple settlements |
 | 100-100 | Settlements in conflict |
-^table-ISSF-Core1-0-OclPlanetOceanSettlementExpanse
+^table-Settlement-Expanse
 
-## Oracle: Observed From Space
+## Oracle: Ocean Observed From Space {1-2}
+> [!mechanics]- | Roll > %%GetDice%% | Guidance
+> When first approaching a planet, envision at a board characteristic of the planet. ^guidance-ObservedFromSpace
+
 | 1d100 | Result |
 |:---:|:--- |
 | 1-11 | Complex reef systems |
@@ -68,11 +95,14 @@ Ocean worlds may be an endless sea of water, but some are made up of other thala
 | 56-66 | Scattered islands |
 | 67-77 | Semi-frozen oceans |
 | 78-88 | Unusual water color |
-| 89-98 | ▶[[OCL_Core#Oracle Descriptor\|Descriptor]] + [[OCL_Core#Oracle Focus\|Focus]] |
-| 99-100 | ▶[[OCL_Vault-Create#Oracle Precursor Vault Outer First Look\|Precursor Vault (orbital)]] |
-^table-ISSF-Core1-0-OclPlanetOceanObservedFromSpace
+| 89-98 | ▶[[OCL_Core_Descriptor-Focus#Oracle Descriptor\|Descriptor]] + [[OCL_Core_Descriptor-Focus#Oracle Focus\|Focus]] |
+| 99-100 | ▶[[OCL_Vault-Exterior#Oracle Precursor Vault Outer First Look\|Precursor Vault (orbital)]] |
+^table-ObservedFromSpace
 
-## Oracle: Planetside Feature
+## Oracle: Ocean Planetside Feature {1-2}
+> [!mechanics]- | Roll > %%GetDice%% | Guidance
+> To begin exploration on a planet, generate one or two dominate feature's. If your exploration is prolonged morph these features using the [[OCL_Core_Descriptor-Focus#Oracle Descriptor|Descriptor]] and [[OCL_Core_Descriptor-Focus#Oracle Focus|Focus]] oracles for prompts on variety. ^guidance-PlanetsideFeature
+
 | 1d100 | Result |
 |:---:|:--- |
 | 1-7 | Abyssal trenches |
@@ -88,11 +118,14 @@ Ocean worlds may be an endless sea of water, but some are made up of other thala
 | 71-77 | Unrelenting rainfall |
 | 78-84 | Violent currents |
 | 85-91 | Windborne waterspouts |
-| 92-98 | ▶[[OCL_Core#Oracle Descriptor\|Descriptor]] + [[OCL_Core#Oracle Focus\|Focus]] |
-| 99-100 | ▶[[OCL_Vault-Create#Oracle Precursor Vault Outer First Look\|Precursor Vault (planetside)]] |
-^table-ISSF-Core1-0-OclPlanetOceanFeature
+| 92-98 | ▶[[OCL_Core_Descriptor-Focus#Oracle Descriptor\|Descriptor]] + [[OCL_Core_Descriptor-Focus#Oracle Focus\|Focus]] |
+| 99-100 | ▶[[OCL_Vault-Exterior#Oracle Precursor Vault Outer First Look\|Precursor Vault (planetside)]] |
+^table-PlanetsideFeature
 
-## Oracle: Life
+## Oracle: Ocean Life
+> [!mechanics]- | Roll > %%GetDice%% | Guidance
+> The general state of life currently on this planet. There may be a hidden feature given enough exploration that could contradict this result. ^guidance-Life
+
 | 1d100 | Result |
 |:---:|:--- |
 | 1-5 | None |
@@ -101,9 +134,12 @@ Ocean worlds may be an endless sea of water, but some are made up of other thala
 | 31-60 | Diverse |
 | 61-90 | Bountiful |
 | 91-100 | Overrun |
-^table-ISSF-Core1-0-OclPlanetOceanLife
+^table-Life
 
-## Oracle: Sample Names
+## Oracle: Ocean Sample Names
+> [!mechanics]- | Roll > %%GetDice%% | Guidance
+> Sample names that are suited to this planet type. Feel free to mix and match or create your own. ^guidance-Names
+
 | 1d100 | Result |
 |:---:|:--- |
 | 1-5 | Aegir |
@@ -126,9 +162,11 @@ Ocean worlds may be an endless sea of water, but some are made up of other thala
 | 86-90 | Siren |
 | 91-95 | Thalassa |
 | 96-100 | Triton |
-^table-ISSF-Core1-0-OclPlanetOceanNames
+^table-Names
 
 ## Tags
-#Pedia/Oracles/Planet 
+| Previous Page | Tags | Next Page |
+|:--- |:---:| ---:|
+| **[[OCL_Planet-Jungle\|Planet: Jungle Oracle]]** | #Pedia/Oracles/Planet | **[[OCL_Planet-Rocky\|Planet: Rocky Oracle]]** |
 
 <font size=-2>This work is based on Ironsworn: Starforged (found at [www.ironswornrpg.com](http://www.ironswornrpg.com)), created by Shawn Tomkin, and licensed for our use under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license  (creativecommons.org/licenses/by-nc-sa/4.0/).</font>

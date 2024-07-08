@@ -2,20 +2,33 @@
 ## Source
 SourceMaterial: "Ironsworn: Starforged"
 SourceAuthor: "Shawn Tompkin"
+SourceLink: 
 
 ## Page
-Alias: "Planet:Shattered Oracle"
-PageType: "Oracle"
-PageCategory: "Planet"
+aliases:
+  - "Planet: Shattered Oracle"
+  - "Planet: Shattered Atmosphere Oracle"
+  - "Planet: Shattered Settlement Oracle"
+  - "Planet: Shattered Observed From Space Oracle"
+  - "Planet: Shattered Planetside Feature Oracle"
+  - "Planet: Shattered Life Oracle"
+  - "Planet: Shattered Sample Names Oracle"
+PageType: Oracle
+PageCategory: Planet
+PageOrder: 1
 
 ## Oracle
 Oracle: Planet
 OracleFocus: Shattered
+OracleDescriptor: "Destructive forces have torn this world to pieces. Chunks of earth and debris orbit around larger sections of the remaining partial planet. The planetary core is no longer in tact and bleeds out into space. What caused this destruction is unknown, but if it is still around, it is surely dangerous."
 ---
 # [[_OCL_Index|Oracle]] - [[_OCL_Planets|Planets]]: Shattered
-Destructive forces have torn this world to pieces.  Chunks of earth and debris orbit around larger sections of the remaining partial planet.  The planetary core is no longer in tact and bleeds out into space.  What caused this destruction is unknown, but if it is still around, it is surely dangerous.
+Destructive forces have torn this world to pieces. Chunks of earth and debris orbit around larger sections of the remaining partial planet. The planetary core is no longer in tact and bleeds out into space. What caused this destruction is unknown, but if it is still around, it is surely dangerous.
 
-## Oracle: Atmosphere
+## Oracle: Shattered Atmosphere
+> [!mechanics]- | Roll > %%GetDice%% | Guidance
+> The baseline for planet habitability, see [[_OCL_Planets#Planet Atmospheres|Planet Atmosphere]] for the effects of each atmosphere for human life.^guidance-Atmosphere
+
 | 1d100 | Result |
 |:---:|:--- |
 | 1-93 | None/Thin |
@@ -23,10 +36,13 @@ Destructive forces have torn this world to pieces.  Chunks of earth and debris 
 | 96-97 | Corrosive |
 | 98-99 | Marginal |
 | 100-100 | Breathable |
-^table-ISSF-Core1-0-OclPlanetShatteredAtmosphere
+^table-Atmosphere
 
 ## Oracle: Shattered: Settlements
-### Oracle: Settlements: Terminus
+### Oracle: Settlements - Terminus
+> [!mechanics]- | Roll > %%GetDice%% | Guidance
+> Choose or roll on possible settlements located on this planet. ^guidance-Settlement-Terminus
+
 | 1d100 | Result |
 |:---:|:--- |
 | 1-70 | None |
@@ -34,26 +50,35 @@ Destructive forces have torn this world to pieces.  Chunks of earth and debris 
 | 91-95 | Planetside settlement |
 | 96-98 | Multiple settlements |
 | 99-100 | Settlements in conflict |
-^table-ISSF-Core1-0-OclPlanetShatteredSettlementTerminus
+^table-Settlement-Terminus
 
-### Oracle: Settlements: Outlands
+### Oracle: Settlements - Outlands
+> [!mechanics]- | Roll > %%GetDice%% | Guidance
+> Choose or roll on possible settlements located on this planet. ^guidance-Settlement-Outlands
+
 | 1d100 | Result |
 |:---:|:--- |
 | 1-85 | None |
 | 86-96 | Orbital settlement |
 | 97-99 | Planetside settlement |
 | 100-100 | Multiple settlements |
-^table-ISSF-Core1-0-OclPlanetShatteredSettlementOutlands
+^table-Settlement-Outlands
 
-### Oracle: Settlements: Expanse
+### Oracle: Settlements - Expanse
+> [!mechanics]- | Roll > %%GetDice%% | Guidance
+> Choose or roll on possible settlements located on this planet. ^guidance-Settlement-Expanse
+
 | 1d100 | Result |
 |:---:|:--- |
 | 1-95 | None |
 | 96-99 | Orbital settlement |
 | 100-100 | Planetside settlement |
-^table-ISSF-Core1-0-OclPlanetShatteredSettlementExpanse
+^table-Settlement-Expanse
 
-## Oracle: Observed From Space
+## Oracle: Shattered Observed From Space {1-2}
+> [!mechanics]- | Roll > %%GetDice%% | Guidance
+> When first approaching a planet, envision at a board characteristic of the planet. ^guidance-ObservedFromSpace
+
 | 1d100 | Result |
 |:---:|:--- |
 | 1-11 | Demolished space fleet |
@@ -64,11 +89,14 @@ Destructive forces have torn this world to pieces.  Chunks of earth and debris 
 | 56-66 | Preserved planetary fragment |
 | 67-77 | Swirling debris field |
 | 78-88 | Unbroken moon |
-| 89-98 | ▶[[OCL_Core#Oracle Descriptor\|Descriptor]] + [[OCL_Core#Oracle Focus\|Focus]] |
-| 99-100 | ▶[[OCL_Vault-Create#Oracle Precursor Vault Outer First Look\|Precursor Vault (orbital)]] |
-^table-ISSF-Core1-0-OclPlanetShatteredObservedFromSpace
+| 89-98 | ▶[[OCL_Core_Descriptor-Focus#Oracle Descriptor\|Descriptor]] + [[OCL_Core_Descriptor-Focus#Oracle Focus\|Focus]] |
+| 99-100 | ▶[[OCL_Vault-Exterior#Oracle Precursor Vault Outer First Look\|Precursor Vault (orbital)]] |
+^table-ObservedFromSpace
 
-## Oracle: Planetside Feature
+## Oracle: Shattered Planetside Feature {1-2}
+> [!mechanics]- | Roll > %%GetDice%% | Guidance
+> To begin exploration on a planet, generate one or two dominate feature's. If your exploration is prolonged morph these features using the [[OCL_Core_Descriptor-Focus#Oracle Descriptor|Descriptor]] and [[OCL_Core_Descriptor-Focus#Oracle Focus|Focus]] oracles for prompts on variety. ^guidance-PlanetsideFeature
+
 | 1d100 | Result |
 |:---:|:--- |
 | 1-7 | Broken cities |
@@ -84,20 +112,26 @@ Destructive forces have torn this world to pieces.  Chunks of earth and debris 
 | 71-77 | Swirling corrosive gases |
 | 78-84 | Unstable and fracturing terrain |
 | 85-91 | Venting magma |
-| 92-98 | ▶[[OCL_Core#Oracle Descriptor\|Descriptor]] + [[OCL_Core#Oracle Focus\|Focus]] |
-| 99-100 | ▶[[OCL_Vault-Create#Oracle Precursor Vault Outer First Look\|Precursor Vault (planetside)]] |
-^table-ISSF-Core1-0-OclPlanetShatteredFeature
+| 92-98 | ▶[[OCL_Core_Descriptor-Focus#Oracle Descriptor\|Descriptor]] + [[OCL_Core_Descriptor-Focus#Oracle Focus\|Focus]] |
+| 99-100 | ▶[[OCL_Vault-Exterior#Oracle Precursor Vault Outer First Look\|Precursor Vault (planetside)]] |
+^table-PlanetsideFeature
 
-## Oracle: Life
+## Oracle: Shattered Life
+> [!mechanics]- | Roll > %%GetDice%% | Guidance
+> The general state of life currently on this planet. There may be a hidden feature given enough exploration that could contradict this result. ^guidance-Life
+
 | 1d100 | Result |
 |:---:|:--- |
 | 1-30 | None |
 | 31-85 | Extinct |
 | 86-95 | Scarce |
 | 96-100 | Diverse |
-^table-ISSF-Core1-0-OclPlanetShatteredLife
+^table-Life
 
-## Oracle: Sample Names
+## Oracle: Shattered Sample Names
+> [!mechanics]- | Roll > %%GetDice%% | Guidance
+> Sample names that are suited to this planet type. Feel free to mix and match or create your own. ^guidance-Names
+
 | 1d100 | Result |
 |:---:|:--- |
 | 1-5 | Cavus |
@@ -120,9 +154,11 @@ Destructive forces have torn this world to pieces.  Chunks of earth and debris 
 | 86-90 | Vortex |
 | 91-95 | Wrath |
 | 96-100 | Zix |
-^table-ISSF-Core1-0-OclPlanetShatteredNames
+^table-Names
 
 ## Tags
-#Pedia/Oracles/Planet 
+| Previous Page | Tags | Next Page |
+|:--- |:---:| ---:|
+| **[[OCL_Planet-Rocky\|Planet: Rocky Oracle]]** | #Pedia/Oracles/Planet | **[[OCL_Planet-Tainted\|Planet: Tainted Oracle]]** |
 
 <font size=-2>This work is based on Ironsworn: Starforged (found at [www.ironswornrpg.com](http://www.ironswornrpg.com)), created by Shawn Tomkin, and licensed for our use under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license  (creativecommons.org/licenses/by-nc-sa/4.0/).</font>

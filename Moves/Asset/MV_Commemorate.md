@@ -1,5 +1,12 @@
 ---
-Alias: "Commemorate (move)"
+## Source
+SourceMaterial: "Ironsworn: Starforged"
+SourceAuthor: "Shawn Tompkin"
+SourceLink: 
+
+## Page
+aliases:
+  - "Commemorate (move)"
 PageType: Move
 PageCategory: Asset
 RollType: Action
@@ -7,12 +14,14 @@ RollStat: Any
 Trigger: [""]
 AssociatedAsset: "Grappler"
 AssociatedAssetAbility: "Ability 3"
+ReferencedMoves: 
+  - INSERT
 ---
 # [[_Moves Index|Moves]] - [[_Asset Moves|Asset]]: Commemorate
 
 ## Move Card
 >[!abstract]  Trigger and Preparation
->This move is enabled by the [[AST_Artist|Artist (asset)]]. 
+>This move is enabled by the [[AST_Artist|ARTIST]]. 
 >When you create or perform a significant artistic work as a public memorial or tribute...
 
 > [!warning] Action Roll
@@ -39,13 +48,17 @@ On a miss, the work is ignored, misunderstood, or co-opted, and you must [[MV_Pa
 ## Related Assets
 ```dataview
 TABLE without ID
-	link(file.link, alias) As "Asset Name",
+	link(file.link, AssetName) As "Asset Name",
 	PageCategory As "Asset Category"
-WHERE contains(PageType, "Asset") & contains(this.file.inlinks, file.link)
+WHERE contains(PageType, "Asset") & contains(this.file.inlinks, file.link) & !contains(PageType, "Index") & !contains(PageCategory, "Index")
 SORT PageCategory asc, file.name asc
 ```
 
 ## Tags
+| Previous Page | Tags | Next Page |
+|:--- |:---:| ---:|
+| **LINK** |  | **LINK** |
+
 #Pedia/Moves/Asset 
 
 <font size=-2>This work is based on Ironsworn: Starforged (found at [www.ironswornrpg.com](http://www.ironswornrpg.com)), created by Shawn Tomkin, and licensed for our use under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license  (creativecommons.org/licenses/by-nc-sa/4.0/).</font>

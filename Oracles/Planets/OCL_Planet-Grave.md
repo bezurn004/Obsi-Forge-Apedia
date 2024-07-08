@@ -2,20 +2,32 @@
 ## Source
 SourceMaterial: "Ironsworn: Starforged"
 SourceAuthor: "Shawn Tompkin"
+SourceLink: 
 
 ## Page
-Alias: "Planet:Grave Oracle"
-PageType: "Oracle"
-PageCategory: "Planet"
+aliases:
+  - "Planet: Grave Oracle"
+  - "Planet: Grave Atmosphere Oracle"
+  - "Planet: Grave Settlement Oracle"
+  - "Planet: Grave Observed From Space Oracle"
+  - "Planet: Grave Planetside Feature Oracle"
+  - "Planet: Grave Life Oracle"
+  - "Planet: Grave Sample Names Oracle"
+PageType: Oracle
+PageCategory: Planet
+PageOrder: 3
 
 ## Oracle
 Oracle: Planet
 OracleFocus: Grave
+OracleDescriptor: "This world was once home to a robust civilization but is now nothing more than a desiccated husk.  Ruins, battlefields, and disconcerting silence cover the surface.  Did anyone make it off-world before the end?"
 ---
 # [[_OCL_Index|Oracle]] - [[_OCL_Planets|Planets]]: Grave
-This world was once home to a robust civilization but is now nothing more than a desiccated husk.  Ruins, battlefields, and disconcerting silence cover the surface.  Did anyone make it off-world before the end?
+This world was once home to a robust civilization but is now nothing more than a desiccated husk. Ruins, battlefields, and disconcerting silence cover the surface. Did anyone make it off-world before the end?
 
-## Oracle: Atmosphere
+## Oracle: Grave Atmosphere
+> [!mechanics]- | Roll > %%GetDice%% | Guidance
+> The baseline for planet habitability, see [[_OCL_Planets#Planet Atmospheres|Planet Atmosphere]] for the effects of each atmosphere for human life. ^guidance-Atmosphere
 
 | 1d100 | Result |
 |:---:|:--- |
@@ -24,10 +36,13 @@ This world was once home to a robust civilization but is now nothing more than a
 | 46-70 | Corrosive |
 | 71-90 | Marginal |
 | 91-100 | Breathable |
-^table-ISSF-Core1-0-OclPlanetGraveAtmosphere
+^table-Atmosphere
 
-## Oracle: Grave: Settlements
-### Oracle: Settlements: Terminus
+## Oracle: Grave Settlements
+### Oracle: Settlements -Terminus
+> [!mechanics]- | Roll > %%GetDice%% | Guidance
+> Choose or roll on possible settlements located on this planet. ^guidance-Settlement-Terminus
+
 | 1d100 | Result |
 |:---:|:--- |
 | 1-80 | None |
@@ -35,25 +50,34 @@ This world was once home to a robust civilization but is now nothing more than a
 | 91-95 | Planetside settlement |
 | 96-98 | Multiple settlements |
 | 99-100 | Settlements in conflict |
-^table-ISSF-Core1-0-OclPlanetGraveSettlementTerminus
+^table-Settlement-Terminus
 
-### Oracle: Settlements: Outlands
+### Oracle: Settlements - Outlands
+> [!mechanics]- | Roll > %%GetDice%% | Guidance
+> Choose or roll on possible settlements located on this planet. ^guidance-Settlement-Outlands
+
 | 1d100 | Result |
 |:---:|:--- |
 | 1-90 | None |
 | 91-97 | Orbital settlement |
 | 98-100 | Planetside settlement |
-^table-ISSF-Core1-0-OclPlanetGraveSettlementOutlands
+^table-Settlement-Outlands
 
-### Oracle: Settlements: Expanse
+### Oracle: Settlements - Expanse
+> [!mechanics]- | Roll > %%GetDice%% | Guidance
+> Choose or roll on possible settlements located on this planet. ^guidance-Settlement-Expanse
+
 | 1d100 | Result |
 |:---:|:--- |
 | 1-95 | None |
 | 96-98 | Orbital settlement |
 | 99-100 | Planetside settlement |
-^table-ISSF-Core1-0-OclPlanetGraveSettlementExpanse
+^table-Settlement-Expanse
 
-## Oracle: Observed From Space
+## Oracle: Grave Observed From Space {1-2}
+> [!mechanics]- | Roll > %%GetDice%% | Guidance
+> When first approaching a planet, envision at a board characteristic of the planet. ^guidance-ObservedFromSpace
+
 | 1d100 | Result |
 |:---:|:--- |
 | 1-11 | Broken moon |
@@ -64,11 +88,14 @@ This world was once home to a robust civilization but is now nothing more than a
 | 56-66 | Perpetual overcast |
 | 67-77 | Sky-breaching ruins |
 | 78-88 | Vast wastelands |
-| 89-98 | ▶[[OCL_Core#Oracle Descriptor\|Descriptor]] + [[OCL_Core#Oracle Focus\|Focus]] |
-| 99-100 | ▶[[OCL_Vault-Create#Oracle Precursor Vault Outer First Look\|Precursor Vault (orbital)]] |
-^table-ISSF-Core1-0-OclPlanetGraveObservedFromSpace
+| 89-98 | ▶[[OCL_Core_Descriptor-Focus#Oracle Descriptor\|Descriptor]] + [[OCL_Core_Descriptor-Focus#Oracle Focus\|Focus]] |
+| 99-100 | ▶[[OCL_Vault-Exterior#Oracle Precursor Vault Outer First Look\|Precursor Vault (orbital)]] |
+^table-ObservedFromSpace
 
-## Oracle: Planetside Feature
+## Oracle: Grave Planetside Feature {1-2}
+> [!mechanics]- | Roll > %%GetDice%% | Guidance
+> To begin exploration on a planet, generate one or two dominate feature's. If your exploration is prolonged morph these features using the [[OCL_Core_Descriptor-Focus#Oracle Descriptor|Descriptor]] and [[OCL_Core_Descriptor-Focus#Oracle Focus|Focus]] oracles for prompts on variety. ^guidance-PlanetsideFeature
+
 | 1d100 | Result |
 |:---:|:--- |
 | 1-7 | Acid pools |
@@ -84,20 +111,26 @@ This world was once home to a robust civilization but is now nothing more than a
 | 71-77 | Scarred battlefields |
 | 78-84 | Ship graveyards |
 | 85-91 | Whispers of the dead |
-| 92-98 | ▶[[OCL_Core#Oracle Descriptor\|Descriptor]] + [[OCL_Core#Oracle Focus\|Focus]] |
-| 99-100 | ▶[[OCL_Vault-Create#Oracle Precursor Vault Outer First Look\|Precursor Vault (planetside)]] |
-^table-ISSF-Core1-0-OclPlanetGraveFeature
+| 92-98 | ▶[[OCL_Core_Descriptor-Focus#Oracle Descriptor\|Descriptor]] + [[OCL_Core_Descriptor-Focus#Oracle Focus\|Focus]] |
+| 99-100 | ▶[[OCL_Vault-Exterior#Oracle Precursor Vault Outer First Look\|Precursor Vault (planetside)]] |
+^table-PlanetsideFeature
 
-## Oracle: Life
+## Oracle: Grave Life
+> [!mechanics]- | Roll > %%GetDice%% | Guidance
+> The general state of life currently on this planet. There may be a hidden feature given enough exploration that could contradict this result. ^guidance-Life
+
 | 1d100 | Result |
 |:---:|:--- |
 | 1-25 | None |
 | 26-75 | Extinct |
 | 76-95 | Scarce |
 | 96-100 | Diverse |
-^table-ISSF-Core1-0-OclPlanetGraveLife
+^table-Life
 
-## Oracle: Sample Names
+## Oracle: Grave Sample Names
+> [!mechanics]- | Roll > %%GetDice%% | Guidance
+> Sample names that are suited to this planet type. Feel free to mix and match or create your own. ^guidance-Names
+
 | 1d100 | Result |
 |:---:|:--- |
 | 1-5 | Anubis |
@@ -120,10 +153,11 @@ This world was once home to a robust civilization but is now nothing more than a
 | 86-90 | Stygia |
 | 91-95 | Tartarus |
 | 96-100 | Thrace |
-^table-ISSF-Core1-0-OclPlanetGraveNames
-
+^table-Names
 
 ## Tags
-#Pedia/Oracles/Planet 
+| Previous Page | Tags | Next Page |
+|:--- |:---:| ---:|
+| **[[OCL_Planet-Furnace\|Planet: Furnace Oracle]]** | #Pedia/Oracles/Planet | **[[OCL_Planet-Ice\|Planet: Ice Oracle]]** |
 
 <font size=-2>This work is based on Ironsworn: Starforged (found at [www.ironswornrpg.com](http://www.ironswornrpg.com)), created by Shawn Tomkin, and licensed for our use under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license  (creativecommons.org/licenses/by-nc-sa/4.0/).</font>

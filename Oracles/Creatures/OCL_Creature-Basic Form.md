@@ -2,21 +2,32 @@
 ## Source
 SourceMaterial: "Ironsworn: Starforged"
 SourceAuthor: "Shawn Tompkin"
+SourceLink: 
 
 ## Page
-Alias: "Creature Basic Form Oracle"
-PageType: "Oracle"
-PageCategory: "Creature"
+aliases:
+  - "Creature Basic Form Oracle"
+  - "Creature Basic Form - Space Oracle"
+  - "Creature Basic Form - Interior Oracle"
+  - "Creature Basic Form - Land Oracle"
+  - "Creature Basic Form - Liquid Oracle"
+  - "Creature Basic Form - Air Oracle"
+PageType: Oracle
+PageCategory: Creature
 PageOrder: 2
 
 ## Oracle
 Oracle: Creature
-OracleFocus: Basic Form
+OracleFocus: "Basic Form"
+OracleDescriptor: "After finding the environment and scale of a creature, roll on the appropriate oracle below to define their general characteristics."
 ---
  # [[_OCL_Index|Oracle]] - [[_OCL_Creatures|Creature]]: Basic Form
-After finding the location a creature inhabits, roll on the appropriate oracle below to define their general characteristics.
+After finding the [[OCL_Creature-Environment-Scale|environment and scale]] of a creature, roll on the appropriate oracle below to define their general characteristics.
 
-## Oracle: creature Basic Form: Space
+## Oracle: creature Basic Form - Space
+> [!mechanics]- | Roll > %%GetDice%% | Guidance
+> The form of a creature that lives in outer space. ^guidance-OclCreatureForm-Space
+
 | 1d100 | Result |
 |:---:|:--- |
 | 1-5 | Amoeba / pseudopods |
@@ -37,9 +48,12 @@ After finding the location a creature inhabits, roll on the appropriate oracle b
 | 87-88 | Starfish / symmetrical |
 | 89-90 | Worm / slug / larva |
 | 91-100 | Roll twice |
-^table-ISSF-Core1-0-OclCharacterFormSpace
+^table-ISSF-Core1-0-OcllCreatureForm-Space
 
-## Oracle: creature Basic Form: Interior
+## Oracle: creature Basic Form - Interior
+> [!mechanics]- | Roll > %%GetDice%% | Guidance
+> The form of a creature that lives under the surface or subterranean. ^guidance-OclCreatureForm-Interior
+
 | 1d100 | Result |
 |:---:|:--- |
 | 1-3 | Amoeba / pseudopods |
@@ -60,9 +74,12 @@ After finding the location a creature inhabits, roll on the appropriate oracle b
 | 84-85 | Starfish / symmetrical |
 | 86-90 | Worm / slug / larva |
 | 91-100 | Roll twice |
-^table-ISSF-Core1-0-OclCharacterFormInterior
+^table-ISSF-Core1-0-OclCreatureForm-Interior
 
-## Oracle: creature Basic Form: Land
+## Oracle: creature Basic Form - Land
+> [!mechanics]- | Roll > %%GetDice%% | Guidance
+> The form of a creature that lives upon land. ^guidance-OclCreatureForm-Land
+
 | 1d100 | Result |
 |:---:|:--- |
 | 1-2 | Amoeba / pseudopods |
@@ -83,9 +100,12 @@ After finding the location a creature inhabits, roll on the appropriate oracle b
 | 82-83 | Starfish / symmetrical |
 | 84-90 | Worm / slug / larva |
 | 91-100 | Roll twice |
-^table-ISSF-Core1-0-OclCharacterFormLand
+^table-ISSF-Core1-0-OcllCreatureForm-Land
 
 ## Oracle: creature Basic Form: Liquid
+> [!mechanics]- | Roll > %%GetDice%% | Guidance
+> The form of a creature that lives within liquid substance, commonly water. ^guidance-OcllCreatureForm-Liquid
+
 | 1d100 | Result |
 |:---:|:--- |
 | 1-5 | Amoeba / pseudopods |
@@ -106,9 +126,12 @@ After finding the location a creature inhabits, roll on the appropriate oracle b
 | 83-87 | Starfish / symmetrical |
 | 88-90 | Worm / slug / larva |
 | 91-100 | Roll twice |
-^table-ISSF-Core1-0-OclCharacterFormLiquid
+^table-ISSF-Core1-0-OcllCreatureForm-Liquid
 
 ## Oracle: creature Basic Form: Air
+> [!mechanics]- | Roll > %%GetDice%% | Guidance
+> The form of a creature that lives in the air or gaseous environment. ^guidance-OcllCreatureForm-Air
+
 | 1d100 | Result |
 |:---:|:--- |
 | 1-2 | Amoeba / pseudopods |
@@ -129,9 +152,11 @@ After finding the location a creature inhabits, roll on the appropriate oracle b
 | 87-88 | Starfish / symmetrical |
 | 89-90 | Worm / slug / larva |
 | 91-100 | Roll twice |
-^table-ISSF-Core1-0-OclCharacterFormAir
+^table-ISSF-Core1-0-OcllCreatureForm-Air
 
 ## Tags
-#Pedia/Oracles/Creatures 
+| Previous Page | Tags | Next Page |
+|:--- |:---:| ---:|
+| **[[OCL_Creature-Environment-Scale\|Creature Environment and Scale Oracle]]** | #Pedia/Oracles/Creatures | **[[OCL_Creature-Approach\|Creature Approach Oracle]]** |
 
 <font size=-2>This work is based on Ironsworn: Starforged (found at [www.ironswornrpg.com](http://www.ironswornrpg.com)), created by Shawn Tomkin, and licensed for our use under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license  (creativecommons.org/licenses/by-nc-sa/4.0/).</font>

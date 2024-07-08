@@ -2,21 +2,27 @@
 ## Source
 SourceMaterial: "Ironsworn: Starforged"
 SourceAuthor: "Shawn Tompkin"
+SourceLink: 
 
 ## Page
-Alias: "Combat Action Oracle"
-PageType: "Oracle"
-PageCategory: "Combat"
+aliases:
+  - "Combat Action Oracle"
+PageType: Oracle
+PageCategory: Combat
+PageOrder: 2
 
 ## Oracle
-Oracle: "Misc"
+Oracle: Misc
 OracleFocus: "Combat Action"
-OracleDescriptor: "Inspire an action for a foe in a fight, particuarllly when in a bad spot."
+OracleDescriptor: "Inspire an action for a foe in a fight, particularly when in a bad spot."
 ---
 # [[_OCL_Index|Oracle]] - [[_OCL_Miscellaneous|Miscellaneous]]: Combat Action
-Use this oracle to help inspire an action for a foe in a fight. When you’re not sure what an enemy does next, particularly when they have you in a bad spot, roll on this oracle and interpret the result as appropriate to the nature of the enemy and your objective.
+Inspire an action for a foe in a fight, particularly when in a bad spot.
 
 ## Oracle: Combat Action
+> [!mechanics]- | Roll > %%GetDice%% | Guidance
+> Use this oracle to help inspire an action for a foe in a fight. When you’re not sure what an enemy does next, particularly when they have you in a bad spot, roll on this oracle and interpret the result as appropriate to the nature of the enemy and your objective. ^guidance-ISSF-Core1-0-OclCombatAction
+
 | 1d100 | Result |
 |:---:|:--- |
 | 1-3 | Block a path or cut off an objective |
@@ -54,8 +60,9 @@ Use this oracle to help inspire an action for a foe in a fight. When you’re no
 | 97-100 | Roll twice |
 ^table-ISSF-Core1-0-OclCombatAction
 
-
 ## Tags
-#Pedia/Oracles 
+| Previous Page | Tags | Next Page |
+|:--- |:---:| ---:|
+| **[[OCL_Anomaly Effect\|Anomaly Effect Oracle]]** | #Pedia/Oracles | **[[OCL_Story Clue\|Story Clue Oracle]]** |
 
 <font size=-2>This work is based on Ironsworn: Starforged (found at [www.ironswornrpg.com](http://www.ironswornrpg.com)), created by Shawn Tomkin, and licensed for our use under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license  (creativecommons.org/licenses/by-nc-sa/4.0/).</font>

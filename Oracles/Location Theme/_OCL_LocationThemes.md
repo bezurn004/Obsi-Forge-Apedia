@@ -2,11 +2,20 @@
 ## Source
 SourceMaterial: "Ironsworn: Starforged"
 SourceAuthor: "Shawn Tompkin"
+SourceLink: 
 
 ## Page
-Alias: "Location Themes Oracle"
-PageType: "Oracle"
-PageCategory: "Index"
+aliases:
+  - "Location Theme Oracles"
+  - "Location Theme Type Oracle"
+PageType: Oracle
+PageCategory: "Location Theme Index"
+PageOrder: 0
+
+## Oracle
+Oracle: "Location Theme"
+OracleFocus: "Type"
+OracleDescriptor: "Choose a location theme for a site, typically used during an exploration."
 ---
 # [[_OCL_Index|Oracles Summary]]: Location Themes
 ## Summary: Exploring Location Theme Locations
@@ -19,10 +28,11 @@ Use these oracles to...
 
 You can answer questions about a place using only the tables provided for a theme, such as when delving into an Infested cave. Or pair a theme with other location oracles for more flavor and variety; for example, you might explore a Haunted Grave World, a Ruined Derelict, a Sacred Precursor Vault, or an Inhabited Settlement.
 
-When mixing-and-matching a theme with another set of tables, use the techniques described for an oracle array (page 384) to determine which oracle you reference for that question or phase of your exploration
+When mixing-and-matching a theme with another set of tables, use the techniques described for an oracle array (page 384) to determine which oracle you reference for that question or phase of your exploration.
 
 ## Oracle: Location Theme Type
-Choose a theme that supports what you know of that location’s nature. For a random theme, roll on this oracle.
+> [!mechanics]- | Roll > %%GetDice%% | Guidance
+> Choose a theme that supports what you know of that location’s nature. For a random theme, roll on this oracle. ^guidance-ISSF-Core1-0-OclLocationThemeTypes
 
 | 1d100 | Result |
 | --- | --- |
@@ -42,13 +52,14 @@ Choose a theme that supports what you know of that location’s nature. For a ra
 TABLE without ID
 	link(file.link, OracleFocus) As "Location Theme Oracle Focus",
 	OracleDescriptor As "Description",
-	SourceMaterial As "Source Material"
-WHERE contains(PageType, "Oracle") & contains(PageCategory, "Location Theme") & !contains(PageCategory, "Index") & !contains(file.path, "Template")
-SORT OracleFocus, asc
+	PageOrder As "PageOrder"
+WHERE contains(PageType, "Oracle") & contains(PageCategory, "Location Theme") & !contains(PageCategory, "Index") & !contains(file.path, "Template") & !contains(file.path, "template")
+SORT SourceMaterial, asc & OracleFocus, asc
 ```
 
 ## Tags
-#Pedia/Oracles/LocationThemes
-
+| Previous Section | Tags | Next Section | 
+| :--- | :---: | ---: |
+| **[[_OCL_PrecursorVaults\|Precursor Vaults Oracles]]** | #Pedia/Oracles/LocationThemes | **[[_OCL_Miscellaneous\|Miscellaneous Oracles]]** |
 
 <font size=-2>This work is based on Ironsworn: Starforged (found at [www.ironswornrpg.com](http://www.ironswornrpg.com)), created by Shawn Tomkin, and licensed for our use under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license  (creativecommons.org/licenses/by-nc-sa/4.0/).</font>

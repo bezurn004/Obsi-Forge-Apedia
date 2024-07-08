@@ -2,21 +2,27 @@
 ## Source
 SourceMaterial: "Ironsworn: Starforged"
 SourceAuthor: "Shawn Tompkin"
+SourceLink: 
 
 ## Page
-Alias: "Story Complication Oracle"
-PageType: "Oracle"
-PageCategory: "Story"
+aliases:
+  - "Story Complication Oracle"
+PageType: Oracle
+PageCategory: Story
+PageOrder: 4
 
 ## Oracle
-Oracle: "Misc"
+Oracle: Misc
 OracleFocus: "Story Complication"
 OracleDescriptor: "Used to introduce narrative turns, troubles and revelations."
 ---
 # [[_OCL_Index|Oracle]] - [[_OCL_Miscellaneous|Miscellaneous]]: Story Complication
-This oracle will introduce narrative turns, troubles, and revelations. It can be used as an alternative to the Pay the Price table when you encounter a negative outcome at a crucial moment. In particular, you might use this oracle after rolling matched 10s on the challenge dice.
+Used to introduce narrative turns, troubles and revelations.
 
 ## Oracle: Story Complication
+> [!mechanics]- | Roll > %%GetDice%% | Guidance
+> This oracle will introduce narrative turns, troubles, and revelations. It can be used as an alternative to the [[MV_Pay the Price|Pay the Price (move)]] table when you encounter a negative outcome at a crucial moment. In particular, you might use this oracle after rolling matched 10s on the challenge dice. ^guidance-ISSF-Core1-0-OclStoryComplication
+
 | 1d300 | Result |
 |:---:|:--- |
 | 1-4 | Crucial equipment or device fails |
@@ -51,6 +57,8 @@ This oracle will introduce narrative turns, troubles, and revelations. It can be
 ^table-ISSF-Core1-0-OclStoryComplication
 
 ## Tags
-#Pedia/Oracles 
+| Previous Page | Tags | Next Page |
+|:--- |:---:| ---:|
+| **[[OCL_Story Clue\|Story Clue Oracle]]** | #Pedia/Oracles | **[[GSRY_Definitions]]** |
 
 <font size=-2>This work is based on Ironsworn: Starforged (found at [www.ironswornrpg.com](http://www.ironswornrpg.com)), created by Shawn Tomkin, and licensed for our use under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license  (creativecommons.org/licenses/by-nc-sa/4.0/).</font>

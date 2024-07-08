@@ -1,16 +1,30 @@
 ---
-Alias: "Begin the Scene (move)"
+## Source
+SourceMaterial: "Ironsworn: Starforged"
+SourceAuthor: "Shawn Tompkin"
+SourceLink: 
+
+## Page
+aliases:
+  - "Begin the Scene (move)"
 PageType: Move
 PageCategory: "Scene Challenge"
+PageOrder: 0
+
+## Move
+MoveName: "Begin the Scene"
 InlineCMD:
 Trigger: "When you face an extended or complex challenge"
 RollType: None
+ReferencedMoves: 
+  - [[MV_Face Danger]]
+  - [[MV_Secure an Advantage]]
+  - [[MV_Aid Your Ally]]
 ---
 # [[_Moves Index|Moves]] - [[_Scene Moves|Scene Challenge]]: Begin the scene
-
 ## Begin The Scene: Move Card
 >[!abstract]  Trigger and Preparation
->When you face an extended or complex challenge.
+>**When you face an extended or complex challenge...**
 >
 >Creating a scene challenge
 >Name your objective and choose a rank as appropriate to the situation. 
@@ -18,10 +32,10 @@ RollType: None
 >- You are ready to act: Dangerous 
 >- You are unprepared or outmatched: Formidable 
 >
->Then, activate a 4-segment tension clock and [[MV_Face Danger|Face Danger]] or [[MV_Secure an Advantage|Secure an Advantage]] to take action.
+>Then, activate a 4-segment tension clock and [[MV_Face Danger|Face Danger]] or [[MV_Secure an Advantage|Secure an Advantage]] to take action. ^trigger
 
 > [!tip] Group play
-> The scene challenge progress track and tension clock are shared with your allies. Guided by the fiction, move the focus among the characters. Any allies involved in the scene can make the [[MV_Face Danger|Face Danger]] or [[MV_Secure an Advantage|Secure an Advantage]]. Any character can also [[MV_Aid Your Ally|Aid Your Ally]] to contribute to a move another character is about to make.
+> The scene challenge progress track and tension clock are shared with your allies. Guided by the fiction, move the focus among the characters. Any allies involved in the scene can make the [[MV_Face Danger|Face Danger]] or [[MV_Secure an Advantage|Secure an Advantage]]. Any character can also [[MV_Aid Your Ally|Aid Your Ally]] to contribute to a move another character is about to make. ^group-play
 
 ## Full Description
 A scene challenge is an optional structured approach for resolving an extended non-combat scene against a threat or other characters, particularly when a time limit or looming danger adds extra urgency. Examples of a scene challenge include disarming a timed explosive, hacking a system while evading digital countermeasures, participating in a formal debate, or competing in a hoverbike race. 
@@ -33,23 +47,25 @@ When choosing the rank of the objective, consider the scope of the situation and
 ## Related Assets
 ```dataview
 TABLE without ID
-	link(file.link, alias) As "Asset Name",
+	link(file.link, AssetName) As "Asset Name",
 	PageCategory As "Asset Category"
-WHERE contains(PageType, "Asset") & contains(this.file.inlinks, file.link)
+WHERE contains(PageType, "Asset") & contains(this.file.inlinks, file.link) & !contains(PageType, "Index") & !contains(PageCategory, "Index")
 SORT PageCategory asc, file.name asc
 ```
 
 ## Related Moves
 ```dataview
 TABLE without ID
-	link(file.link, alias) As "Move Name",
+	link(file.link, MoveName) As "Move Name",
 	PageCategory As "Move Category"
-WHERE contains(PageType, "Move") & contains(this.file.inlinks, file.link) & !contains(PageType, "Index")
+WHERE contains(PageType, "Move") & contains(ReferencedMoves, this.file.name) & !contains(PageType, "Index") & !contains(PageCategory, "Index")
 SORT PageCategory asc, file.name asc
 ```
 
 ## Tags
-#Pedia/Moves/Scene_Challenge 
+| Section Page | Tags | Next Page |
+|:--- |:---:| ---:|
+| **[[_Scene Moves\|Scene Challenge Moves]]** | #Pedia/Moves/Scene_Challenge | **[[MV_Finish the Scene\|Finish the Scene (move)]]** |
 
 <font size=-2>This work is based on Ironsworn: Starforged (found at [www.ironswornrpg.com](http://www.ironswornrpg.com)), created by Shawn Tomkin, and licensed for our use under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license  (creativecommons.org/licenses/by-nc-sa/4.0/).</font>
 

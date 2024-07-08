@@ -2,23 +2,35 @@
 ## Source
 SourceMaterial: "Ironsworn: Starforged"
 SourceAuthor: "Shawn Tompkin"
+SourceLink: 
 
 ## Page
-Alias: "Faction Name Oracle"
-PageType: "Oracle"
-PageCategory: "Faction"
+aliases:
+  - "Faction Name Oracle"
+  - "Faction Name Template Oracle"
+  - "Faction Name - Legacy Oracle"
+  - "Faction Name - Affiliation Oracle"
+  - "Faction Name - Identity Oracle"
+PageType: Oracle
+PageCategory: Faction
+PageOrder: 2
 
 ## Oracle
 Oracle: Faction
 OracleFocus: Name
-OracleSort: 1
+OracleDescriptor: "First roll on the Name Template table to find the pattern that the name takes and then roll the corresponding pieces to form the full name."
 ---
  # [[_OCL_Index|Oracle]] - [[_OCL_Factions|Faction]]: Name
+First roll on the Name Template table to find the pattern that the name takes and then roll the corresponding pieces to form the full name.
+
 To generate a faction name, first roll or choose the name template. Then, follow the structure of the template to build the name from individual tables. If you’ve already set the faction type, picking from the tables (instead of rolling) will likely provide a more appropriate result. For example, “Silver Jackals” is a fitting name for a criminal organization. The “Empire of the Undying Suns” is a less apt name for that gang, unless their leader is prone to delusions of grandeur. In short, choosing a name will give you more control. Rolling might give you a result that doesn’t square with known aspects, but those contradictions may prove inspiring.
 
 An alternative approach to generating a faction from scratch is to start with a random name. Then, consider what the name evokes and choose an appropriate faction type instead of rolling on those tables. For example, “Bloody Ravens” might suggest a mercenary guild, while the “Republic of the Radiant Servants” brings to mind a dominion built upon a religion, or one that idolizes a prophesied leader. If a result doesn’t inspire anything interesting, roll again or pick
 
-## Oracle: Faction Name: Template
+## Oracle: Faction Name Template
+> [!mechanics]- | Roll > %%GetDice%% | Guidance
+> To create a Faction, either first choose its name based on this template. Alternatively, determine the [[OCL_Faction-Types#Oracle Faction Type|Faction Type]] and then pick or roll for a name suitable to that organization. ^guidance-OclFactionNameTemplate
+
 | 1d100 | Result |
 |:---:|:--- |
 | 1-40 | [[OCL_Faction-Name#Oracle: Faction Name: Legacy\|▶Legacy]] + [[OCL_Faction-Name#Oracle: Faction Name: Affiliation\|▶Affiliation]] |
@@ -27,7 +39,10 @@ An alternative approach to generating a faction from scratch is to start with a 
 | 71-100 | [[OCL_Faction-Name#Oracle: Faction Name: Affiliation\|▶Affiliation]] of the [[OCL_Faction-Name#Oracle: Faction Name: Legacy\|▶Legacy]] |
 ^table-ISSF-Core1-0-OclFactionNameTemplate
 
-## Oracle: Faction Name: Legacy
+## Oracle: Faction Name - Legacy
+> [!mechanics]- | Roll > %%GetDice%% | Guidance
+> Pick or roll to create a faction name as part of the [[OCL_Faction-Name#Oracle Faction Name Template|Faction Name Template Oracle]]. ^guidance-OclFactionNameLegacy
+
 | 1d100 | Result |
 |:---:|:--- |
 | 1-2 | Ancient |
@@ -82,7 +97,10 @@ An alternative approach to generating a faction from scratch is to start with a 
 | 99-100 | Wandering |
 ^table-ISSF-Core1-0-OclFactionNameLegacy
 
-## Oracle: Faction Name: Affiliation
+## Oracle: Faction Name - Affiliation
+> [!mechanics]- | Roll > %%GetDice%% | Guidance
+> Pick or roll to create a faction name as part of the [[OCL_Faction-Name#Oracle Faction Name Template|Faction Name Template Oracle]]. ^guidance-OclFactionNameAlliance
+
 | 1d100 | Result |
 |:---:|:--- |
 | 1-4 | Accord |
@@ -112,7 +130,10 @@ An alternative approach to generating a faction from scratch is to start with a 
 | 97-100 | Union |
 ^table-ISSF-Core1-0-OclFactionNameAlliance
 
-## Oracle: Faction Name: Identity
+## Oracle: Faction Name - Identity
+> [!mechanics]- | Roll > %%GetDice%% | Guidance
+> Pick or roll to create a faction name as part of the [[OCL_Faction-Name#Oracle Faction Name Template|Faction Name Template Oracle]]. ^guidance-OclFactionNameIdentity
+
 | 1d100 | Result |
 |:---:|:--- |
 | 1-2 | Blades |
@@ -168,6 +189,8 @@ An alternative approach to generating a faction from scratch is to start with a 
 ^table-ISSF-Core1-0-OclFactionNameIdentity
 
 ## Tags
-#Pedia/Oracles/Factions 
+| Previous Page | Tags | Next Page |
+|:--- |:---:| ---:|
+| **[[OCL_Faction-Types\|Faction Types Oracle]]** | #Pedia/Oracles/Factions | **[[OCL_Faction-Motives\|Faction Motives Oracle]]** |
 
 <font size=-2>This work is based on Ironsworn: Starforged (found at [www.ironswornrpg.com](http://www.ironswornrpg.com)), created by Shawn Tomkin, and licensed for our use under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license  (creativecommons.org/licenses/by-nc-sa/4.0/).</font>

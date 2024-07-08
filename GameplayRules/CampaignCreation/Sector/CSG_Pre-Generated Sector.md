@@ -4,14 +4,16 @@ SourceMaterial: "Ironsworn: Starforged"
 SourceAuthor: "Shawn Tompkin"
 
 ## Page
-Alias: Pre-Generated Sector
+aliases:
+  - "Pre-Generated Sector"
 PageType: Campaign
-PageCategory: Sector
+PageCategory: "Sector Creation"
+PageOrder: 4
 ---
 # [[_CSG_Sector Creation Summary|Sector Creation]]: Pre-Generated Sector
 > [!tip] **Sector name:** Devil’s Maw
 > **Region:** Outlands 
-> **Sector trouble:** Notorious pirate clan preys on starships
+> **Sector trouble:** Notorious pirate clan preys on starships ^sector
 
 ## Settlements
 > [!attention] **Settlement:** Breakhold
@@ -21,40 +23,39 @@ PageCategory: Sector
  > **Projects:** Mining, black market
  > **Trouble:** Failing technology
  > **Features:** Repurposed derelict ship 
- > > Built within the decaying husk of an exodus ship, Bleakhold station serves as a launching platform for mining operations on the fiery world below. The miners must brave scorching temperatures and storms of superheated ash, all in the service of a cruel trade guild.
-
+ > > Built within the decaying husk of an exodus ship, Bleakhold station serves as a launching platform for mining operations on the fiery world below. The miners must brave scorching temperatures and storms of superheated ash, all in the service of a cruel trade guild. ^breakhold
 
 > [!attention] **Settlement:** Amity
 > **Location:** Planetside (Pelagic)
 > **Population:** Thousands
 > **Authority:** Ineffectual
-> **Projects:** Festival, subsistence
+> **Projects:** Festival, subsistence ^amity
 
 > [!attention]  **Settlement:** Osiris
 > **Location:** Deep space
 > **Population:** Dozens
 > **Authority:** Tolerant
-> **Projects:** Manufacturing, energy
+> **Projects:** Manufacturing, energy ^osiris
  
 ## Planets
 > [!oracle] **Planet:** Ember
 > **Planet Type:** Furnace World
 > Atmosphere: Toxic
 > Life: Extinct 
-> Features: Supervolcano, precursor vault, ash clouds
+> Features: Supervolcano, precursor vault, ash clouds ^ember
 
 
 > [!oracle] **Planet:** Pelagic
-> **Planet Type:** Ocean World
+> **Planet Type:** Ocean World ^Pelagic
 
 ## Contacts
-> [!summary] **Contact:** Gwen Solari 
+> [!summary] **Contact:** Gwen Solari
 > **Home location:** Bleakhold
 > **Rank:** Dangerous
 > **Role:** Artifact Smuggler
 > **Goal:** Obtain an object
 > **Features:** Flashy, Intelligent, Tough
-> > Gwen runs a smuggling operation out of Bleakhold Station, transporting illegal precursor artifacts to nearby sectors. She needs help reclaiming a dangerous artifact stolen by pirates
+> > Gwen runs a smuggling operation out of Bleakhold Station, transporting illegal precursor artifacts to nearby sectors. She needs help reclaiming a dangerous artifact stolen by pirates ^contact-1
 
 ## Map
 ```mermaid
@@ -72,9 +73,11 @@ flowchart TD
 	style 4 stroke:#6600aa,stroke-width:4px
 	end
 ```
-
+^map
 
 ## Tags
-#pedia/Campaign/Sector 
+| Previous Page | Tags | Next Section |
+|:--- |:---:| ---:|
+| **[[CSG_Enhance A Starting Sector\|Enhance a Starting Sector (campaign)]]** | #Pedia/Campaign/Sector | **[[_CFG_Starting Adventure Summary\|Starting Your Adventure]]** |
 
 <font size=-2>This work is based on Ironsworn: Starforged (found at [www.ironswornrpg.com](http://www.ironswornrpg.com)), created by Shawn Tomkin, and licensed for our use under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license  (creativecommons.org/licenses/by-nc-sa/4.0/).</font>

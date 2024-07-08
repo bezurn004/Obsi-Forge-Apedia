@@ -2,30 +2,46 @@
 ## Source
 SourceMaterial: "Ironsworn: Starforged"
 SourceAuthor: "Shawn Tompkin"
+SourceLink: 
 
 ## Page
-Alias: "Planet:Jovian Oracle"
-PageType: "Oracle"
-PageCategory: "Planet"
+aliases:
+  - "Planet: Jovian Oracle"
+  - "Planet: Jovian Atmosphere Oracle"
+  - "Planet: Jovian Settlement Oracle"
+  - "Planet: Jovian Observed From Space Oracle"
+  - "Planet: Jovian Planetside Feature Oracle"
+  - "Planet: Jovian Life Oracle"
+  - "Planet: Jovian Sample Names Oracle"
+PageType: Oracle
+PageCategory: Planet
+PageOrder: 5
 
 ## Oracle
 Oracle: Planet
 OracleFocus: Jovian
+OracleDescriptor: "Dense gases make up discernible and colorful layers on the way down to this planet’s tiny core of dense rock and magma. Storms perpetually rage in the Atmosphere with constant winds blowing at hurricane force or greater. It is said that some individual storms have lasted for centuries."
 ---
 # [[_OCL_Index|Oracle]] - [[_OCL_Planets|Planets]]: Jovian
-Dense gases make up discernible and colorful layers on the way down to this planet’s tiny core of dense rock and magma.  Storms perpetually rage in the Atmosphere with constant winds blowing at hurricane force or greater.  It is said that some individual storms have lasted for centuries.
+Dense gases make up discernible and colorful layers on the way down to this planet’s tiny core of dense rock and magma. Storms perpetually rage in the Atmosphere with constant winds blowing at hurricane force or greater. It is said that some individual storms have lasted for centuries.
 
-## Oracle: Atmosphere
+## Oracle: Jovian Atmosphere
+> [!mechanics]- | Roll > %%GetDice%% | Guidance
+> The baseline for planet habitability, see [[_OCL_Planets#Planet Atmospheres|Planet Atmosphere]] for the effects of each atmosphere for human life.^guidance-Atmosphere
+
 | 1d100 | Result |
 |:---:|:--- |
 | 1-50 | Toxic |
 | 51-65 | Corrosive |
 | 66-85 | Marginal |
 | 86-100 | Breathable |
-^table-ISSF-Core1-0-OclPlanetJovianAtmosphere
+^table-Atmosphere
 
-## Oracle: Jovian: Settlements
-### Oracle: Settlements: Terminus
+## Oracle: Jovian Settlements
+### Oracle: Settlements - Terminus
+> [!mechanics]- | Roll > %%GetDice%% | Guidance
+> Choose or roll on possible settlements located on this planet. ^guidance-Settlement-Terminus
+
 | 1d100 | Result |
 |:---:|:--- |
 | 1-50 | None |
@@ -33,9 +49,12 @@ Dense gases make up discernible and colorful layers on the way down to this plan
 | 71-85 | Planetside settlement |
 | 86-95 | Multiple settlements |
 | 96-100 | Settlements in conflict |
-^table-ISSF-Core1-0-OclPlanetJovianSettlementTerminus
+^table-Settlement-Terminus
 
-### Oracle: Settlements: Outlands
+### Oracle: Settlements - Outlands
+> [!mechanics]- | Roll > %%GetDice%% | Guidance
+> Choose or roll on possible settlements located on this planet. ^guidance-Settlement-Outlands
+
 | 1d100 | Result |
 |:---:|:--- |
 | 1-75 | None |
@@ -43,17 +62,23 @@ Dense gases make up discernible and colorful layers on the way down to this plan
 | 88-95 | Planetside settlement |
 | 96-98 | Multiple settlements |
 | 99-100 | Settlements in conflict |
-^table-ISSF-Core1-0-OclPlanetJovianSettlementOutlands
+^table-Settlement-Outlands
 
-### Oracle: Settlements: Expanse
+### Oracle: Settlements - Expanse
+> [!mechanics]- | Roll > %%GetDice%% | Guidance
+> Choose or roll on possible settlements located on this planet. ^guidance-Settlement-Expanse
+
 | 1d100 | Result |
 |:---:|:--- |
 | 1-90 | None |
 | 91-96 | Orbital settlement |
 | 97-100 | Planetside settlement |
-^table-ISSF-Core1-0-OclPlanetJovianSettlementExpanse
+^table-Settlement-Expanse
 
-## Oracle: Observed From Space
+## Oracle: Jovian Observed From Space {1-2}
+> [!mechanics]- | Roll > %%GetDice%% | Guidance
+> When first approaching a planet, envision at a board characteristic of the planet. ^guidance-ObservedFromSpace
+
 | 1d100 | Result |
 |:---:|:--- |
 | 1-11 | Complex ring system |
@@ -64,11 +89,14 @@ Dense gases make up discernible and colorful layers on the way down to this plan
 | 56-66 | Severe electrical storms |
 | 67-77 | Superheated Atmosphere |
 | 78-88 | Unusual atmospheric colors |
-| 89-98 | ▶[[OCL_Core#Oracle Descriptor\|Descriptor]] + [[OCL_Core#Oracle Focus\|Focus]] |
-| 99-100 | ▶[[OCL_Vault-Create#Oracle Precursor Vault Outer First Look\|Precursor Vault (orbital)]] |
-^table-ISSF-Core1-0-OclPlanetJovianObservedFromSpace
+| 89-98 | ▶[[OCL_Core_Descriptor-Focus#Oracle Descriptor\|Descriptor]] + [[OCL_Core_Descriptor-Focus#Oracle Focus\|Focus]] |
+| 99-100 | ▶[[OCL_Vault-Exterior#Oracle Precursor Vault Outer First Look\|Precursor Vault (orbital)]] |
+^table-ObservedFromSpace
 
-## Oracle: Planetside Feature
+## Oracle: Jovian Planetside Feature {1-2}
+> [!mechanics]- | Roll > %%GetDice%% | Guidance
+> To begin exploration on a planet, generate one or two dominate feature's. If your exploration is prolonged morph these features using the [[OCL_Core_Descriptor-Focus#Oracle Descriptor|Descriptor]] and [[OCL_Core_Descriptor-Focus#Oracle Focus|Focus]] oracles for prompts on variety. ^guidance-PlanetsideFeature
+
 | 1d100 | Result |
 |:---:|:--- |
 | 1-7 | Clouds of metal particles |
@@ -84,11 +112,14 @@ Dense gases make up discernible and colorful layers on the way down to this plan
 | 71-77 | Towering thunderheads |
 | 78-84 | Violent turbulence |
 | 85-91 | Zones of localized Atmosphere |
-| 92-98 | ▶[[OCL_Core#Oracle Descriptor\|Descriptor]] + [[OCL_Core#Oracle Focus\|Focus]] |
-| 99-100 | ▶[[OCL_Vault-Create#Oracle Precursor Vault Outer First Look\|Precursor Vault (planetside)]] |
-^table-ISSF-Core1-0-OclPlanetJovianFeature
+| 92-98 | ▶[[OCL_Core_Descriptor-Focus#Oracle Descriptor\|Descriptor]] + [[OCL_Core_Descriptor-Focus#Oracle Focus\|Focus]] |
+| 99-100 | ▶[[OCL_Vault-Exterior#Oracle Precursor Vault Outer First Look\|Precursor Vault (planetside)]] |
+^table-PlanetsideFeature
 
-## Oracle: Life
+## Oracle: Jovian Life
+> [!mechanics]- | Roll > %%GetDice%% | Guidance
+> The general state of life currently on this planet. There may be a hidden feature given enough exploration that could contradict this result. ^guidance-Life
+
 | 1d100 | Result |
 |:---:|:--- |
 | 1-50 | None |
@@ -97,9 +128,12 @@ Dense gases make up discernible and colorful layers on the way down to this plan
 | 76-90 | Diverse |
 | 91-97 | Bountiful |
 | 98-100 | Overrun |
-^table-ISSF-Core1-0-OclPlanetJovianLife
+^table-Life
 
-## Oracle: Sample Names
+## Oracle: Jovian Sample Names
+> [!mechanics]- | Roll > %%GetDice%% | Guidance
+> Sample names that are suited to this planet type. Feel free to mix and match or create your own. ^guidance-Names
+
 | 1d100 | Result |
 |:---:|:--- |
 | 1-5 | Aether |
@@ -122,10 +156,11 @@ Dense gases make up discernible and colorful layers on the way down to this plan
 | 86-90 | Veil |
 | 91-95 | Velum |
 | 96-100 | Zephyr |
-^table-ISSF-Core1-0-OclPlanetJovianNames
-
+^table-Names
 
 ## Tags
-#Pedia/Oracles/Planet 
+| Previous Page | Tags | Next Page |
+|:--- |:---:| ---:|
+| **[[OCL_Planet-Ice\|Planet: Ice Oracle]]** | #Pedia/Oracles/Planet | **[[OCL_Planet-Jungle\|Planet: Jungle Oracle]]** |
 
 <font size=-2>This work is based on Ironsworn: Starforged (found at [www.ironswornrpg.com](http://www.ironswornrpg.com)), created by Shawn Tomkin, and licensed for our use under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license  (creativecommons.org/licenses/by-nc-sa/4.0/).</font>

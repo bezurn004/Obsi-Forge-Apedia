@@ -2,23 +2,30 @@
 ## Source
 SourceMaterial: "Ironsworn: Starforged"
 SourceAuthor: "Shawn Tompkin"
+SourceLink: 
 
 ## Page
-Alias: "Creature Approach Oracle"
-PageType: "Oracle"
-PageCategory: "Creature"
+aliases:
+  - "Creature Approach Oracle"
+  - "Creature First Look Oracle"
+  - "Creature Encountered Behavior Oracle"
+  - "Creature Revealed Aspect Oracle"
+PageType: Oracle
+PageCategory: Creature
 PageOrder: 3
 
 ## Oracle
 Oracle: Creature
 OracleFocus: Approach
+OracleDescriptor: "As you spend time with a creature begin to apprach it, add layers to their appearance and behavior."
 ---
  # [[_OCL_Index|Oracle]] - [[_OCL_Creatures|Creature]]: Approach
-Roll for a [[OCL_Creature-Basic Form|Basic Form]], and flesh out the creature’s appearance using this [[OCL_Creature-Approach#Oracle: Creature First Look|Creature First Look]] oracle. Then, roll once on the [[OCL_Creature-Approach#Oracle: Creature Encountered Behavior|Encountered Behavior]] oracle to define this creature’s motivation and frame how the encounter begins.
+As you spend time with a creature begin to apprach it, add layers to their appearance and behavior.
 
-Roll on the [[OCL_Creature-Approach#Oracle: Creature Revealed Aspect|Revealed Aspect]] oracle as you interact with the creature to introduce new features or behaviors. Some results may contradict the established nature of a creature. For example, an amorphous creature that you envisioned as a mass of pure energy would not have typical physical features. If a result doesn’t fit, feel free to ignore, reroll, or adjust. Or envision how this contradiction signals a new understanding or unexpected transformation.
+## Oracle: Creature First Look {1-2}
+> [!mechanics]- | Roll > %%GetDice%% | Guidance
+> Roll for a [[OCL_Creature-Basic Form|Basic Form]], and flesh out the creature’s appearance with this oracle. ^guidance-OcllCreatureFirstLook
 
-## Oracle: Creature First Look
 | 1d100 | Result |
 |:---:|:--- |
 | 1-2 | Antennae or sensory organs |
@@ -71,9 +78,12 @@ Roll on the [[OCL_Creature-Approach#Oracle: Creature Revealed Aspect|Revealed As
 | 95-96 | Tentacles or tendrils |
 | 97-98 | Translucent |
 | 99-100 | Visible symbiote |
-^table-ISSF-Core1-0-OclCharacterFirstLook
+^table-ISSF-Core1-0-OclCreatureFirstLook
 
 ## Oracle: Creature Encountered Behavior
+> [!mechanics]- | Roll > %%GetDice%% | Guidance
+> Roll once on this oracle to define this creature’s motivation and frame how the encounter begins. ^guidance-OcllCreatureEncounteredBehavior
+
 | 1d100 | Result |
 |:---:|:--- |
 | 1-5 | Ambusher |
@@ -97,9 +107,12 @@ Roll on the [[OCL_Creature-Approach#Oracle: Creature Revealed Aspect|Revealed As
 | 86-90 | Tracker |
 | 91-95 | Trapper |
 | 96-100 | Roll twice |
-^table-ISSF-Core1-0-OclCharacterEncounteredBehavior
+^table-ISSF-Core1-0-OcllCreatureEncounteredBehavior
 
-## Oracle: Creature Revealed Aspect
+## Oracle: Creature Revealed Aspect {1-2}
+> [!mechanics]- | Roll > %%GetDice%% | Guidance
+> Roll on this oracle as you interact with the creature to introduce new features or behaviors. Some results may contradict the established nature of a creature. For example, an amorphous creature that you envisioned as a mass of pure energy would not have typical physical features. If a result doesn’t fit, feel free to ignore, reroll, or adjust. Or envision how this contradiction signals a new understanding or unexpected transformation. ^guidance-OcllCreatureRevealedAspect
+
 | 1d100 | Result |
 |:---:|:--- |
 | 1-2 | Alternative environment |
@@ -152,10 +165,11 @@ Roll on the [[OCL_Creature-Approach#Oracle: Creature Revealed Aspect|Revealed As
 | 95-96 | Teleportation |
 | 97-98 | Territorial |
 | 99-100 | Toxic spew |
-^table-ISSF-Core1-0-OclCharacterRevealedAspect
-
+^table-ISSF-Core1-0-OcllCreatureRevealedAspect
 
 ## Tags
-#Pedia/Oracles/Creatures 
+| Previous Page | Tags | Next Section |
+|:--- |:---:| ---:|
+| **[[OCL_Creature-Basic Form\|Creature Basic Form Oracle]]** | #Pedia/Oracles/Creatures | **[[_OCL_Factions\|Factions Oracle]]** |
 
 <font size=-2>This work is based on Ironsworn: Starforged (found at [www.ironswornrpg.com](http://www.ironswornrpg.com)), created by Shawn Tomkin, and licensed for our use under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license  (creativecommons.org/licenses/by-nc-sa/4.0/).</font>

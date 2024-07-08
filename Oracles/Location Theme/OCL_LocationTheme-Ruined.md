@@ -2,21 +2,30 @@
 ## Source
 SourceMaterial: "Ironsworn: Starforged"
 SourceAuthor: "Shawn Tompkin"
+SourceLink: 
 
 ## Page
-Alias: "Location Theme:Ruined Oracle"
-PageType: "Oracle"
+aliases:
+  - "Location Theme: Ruined Oracles"
+  - "Location Theme: Ruined Feature Oracle"
+  - "Location Theme: Ruined Peril Oracle"
+  - "Location Theme: Ruined Opportunity Oracle"
+PageType: Oracle
 PageCategory: "Location Theme"
+PageOrder: 7
 
 ## Oracle
 Oracle: "Location Theme"
-OracleFocus: "Ruined"
-OracleDescriptor: "Time, disaster, or war have ravaged this place."
+OracleFocus: Ruined
+OracleDescriptor: "_Time, disaster, or war have ravaged this place._"
 ---
 # [[_OCL_Index|Oracle]] - [[_OCL_LocationThemes|Location Theme]]: Ruined
-*Time, disaster, or war have ravaged this place.*
+_Time, disaster, or war have ravaged this place._
 
-## Oracle: Location Theme: Ruined Feature
+## Oracle: Location Theme - Ruined Feature
+> [!mechanics]- | Roll > %%GetDice%% | Guidance
+> ![[GSRY_Definitions#^gsry-OclSite-Feature]] ^guidance-OclSite-Feature
+
 | 1d100 | Result |
 |:---:|:--- |
 | 1-8 | Collapsed or broken structures or terrain |
@@ -31,10 +40,13 @@ OracleDescriptor: "Time, disaster, or war have ravaged this place."
 | 73-80 | Sights or sounds of structural instability |
 | 81-88 | Signs of looting or scavenging |
 | 89-96 | Survivors or guardians dwell among the ruins |
-| 97-100 | ▶[[OCL_Core#Oracle Descriptor\|Descriptor]] + [[OCL_Core#Oracle Focus\|Focus]] |
+| 97-100 | ▶[[OCL_Core_Descriptor-Focus#Oracle Descriptor\|Descriptor]] + [[OCL_Core_Descriptor-Focus#Oracle Focus\|Focus]] |
 ^table-ISSF-Core1-0-OclLocationThemeRuinedFeature
 
-## Oracle: Location Theme: Ruined Peril
+## Oracle: Location Theme - Ruined Peril
+> [!mechanics]- | Roll > %%GetDice%% | Guidance
+> ![[GSRY_Definitions#^gsry-OclSite-Peril]] ^guidance-OclSite-Peril
+
 | 1d100 | Result |
 |:---:|:--- |
 | 1-9 | Dreadful atmosphere of loss and destruction weighs upon you |
@@ -47,11 +59,14 @@ OracleDescriptor: "Time, disaster, or war have ravaged this place."
 | 64-72 | Unearthed secrets best left buried |
 | 73-81 | Unstable or broken path |
 | 82-90 | Volatile device or artifact |
-| 91-98 | ▶[[OCL_Core#Oracle Action\|Action]] + [[OCL_Core#Oracle Theme\|Theme]] |
+| 91-98 | ▶[[OCL_Core_Action-Theme#Oracle Action\|Action]] + [[OCL_Core_Action-Theme#Oracle Theme\|Theme]] |
 | 99-100 | Roll twice |
 ^table-ISSF-Core1-0-OclLocationThemeRuinedPeril
 
-## Oracle: Location Theme: Ruined Opportunity
+## Oracle: Location Theme - Ruined Opportunity
+> [!mechanics]- | Roll > %%GetDice%% | Guidance
+> ![[GSRY_Definitions#^gsry-OclSite-Opportunity]] ^guidance-OclSite-Opportunity
+
 | 1d100 | Result |
 |:---:|:--- |
 | 1-20 | Access to an untouched or preserved area |
@@ -62,6 +77,8 @@ OracleDescriptor: "Time, disaster, or war have ravaged this place."
 ^table-ISSF-Core1-0-OclLocationThemeRuinedOpportunity
 
 ## Tags
-#Pedia/Oracles/LocationThemes 
+| Previous Page | Tags | Next Page |
+|:--- |:---:| ---:|
+| **[[OCL_LocationTheme-Mechanical\|Location Theme: Mechanical Oracles]]** | #Pedia/Oracles/LocationThemes | **[[OCL_LocationTheme-Sacred\|Location Theme: Sacred Oracles]]** |
 
 <font size=-2>This work is based on Ironsworn: Starforged (found at [www.ironswornrpg.com](http://www.ironswornrpg.com)), created by Shawn Tomkin, and licensed for our use under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license  (creativecommons.org/licenses/by-nc-sa/4.0/).</font>

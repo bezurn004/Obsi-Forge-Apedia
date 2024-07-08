@@ -1,5 +1,12 @@
 ---
-Alias: "Craft Projectiles (move)"
+## Source
+SourceMaterial: "Ironsworn: Starforged"
+SourceAuthor: "Shawn Tompkin"
+SourceLink: 
+
+## Page
+aliases:
+  - "Craft Projectiles (move)"
 PageType: Move
 PageCategory: Asset
 RollType: Action
@@ -7,12 +14,14 @@ RollStat: Wits
 Trigger: [""]
 AssociatedAsset: "Archer"
 AssociatedAssetAbility: "Ability 1"
+ReferencedMoves: 
+  - INSERT
 ---
 # [[_Moves Index|Moves]] - [[_Asset Moves|Asset]]: Craft Projectiles
 ## Move Card
 
 >[!abstract]  Trigger and Preparation
->This move is enabled by the [[AST_Archer|Archer (asset)]].
+>This move is enabled by the [[AST_Archer|ARCHER]].
 >When you have time to craft projectiles to replenish spent Ammo...
 
 
@@ -44,12 +53,16 @@ On a miss, take +1 ammo and [[MV_Sacrifice Resources|Sacrifice Resources]] (-1).
 ## Related Assets
 ```dataview
 TABLE without ID
-	link(file.link, alias) As "Asset Name",
+	link(file.link, AssetName) As "Asset Name",
 	PageCategory As "Asset Category"
-WHERE contains(PageType, "Asset") & contains(this.file.inlinks, file.link)
+WHERE contains(PageType, "Asset") & contains(this.file.inlinks, file.link) & !contains(PageType, "Index") & !contains(PageCategory, "Index")
 SORT PageCategory asc, file.name asc
 ```
 ## Tags
+| Previous Page | Tags | Next Page |
+|:--- |:---:| ---:|
+| **LINK** |  | **LINK** |
+
 #Pedia/Moves/Asset
 
 <font size=-2>This work is based on Ironsworn: Starforged (found at [www.ironswornrpg.com](http://www.ironswornrpg.com)), created by Shawn Tomkin, and licensed for our use under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license  (creativecommons.org/licenses/by-nc-sa/4.0/).</font>

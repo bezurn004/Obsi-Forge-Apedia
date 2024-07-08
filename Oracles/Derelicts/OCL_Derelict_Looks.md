@@ -2,20 +2,29 @@
 ## Source
 SourceMaterial: "Ironsworn: Starforged"
 SourceAuthor: "Shawn Tompkin"
+SourceLink: 
 
 ## Page
-Alias: "Derelict Looks Oracle"
-PageType: "Oracle"
-PageCategory: "Derelict"
+aliases:
+  - "Derelict Looks Oracle"
+  - "Derelict First Look - Outer Oracle"
+  - "Derelict First Look - Inner Oracle"
+PageType: Oracle
+PageCategory: Derelict
+PageOrder: 2
 
 ## Oracle
 Oracle: Derelict
-OracleFocus: Looks
+OracleFocus: "First Looks"
+OracleDescriptor: "Derelicts are the forsaken relics of human endeavors. Use these First Look tables for your initial survey of the derelict."
 ---
  # [[_OCL_Index|Oracle]] - [[_OCL_Derelicts|Derelict]]: Looks
-Derelicts are the forsaken relics of human endeavors. Use these First Look tables for your initial survey of the derelict. To reveal more about the look and original function or nature of the site, roll on appropriate tables in the [[_OCL_Starships|Starship]]  or [[_OCL_Settlements|Settlement]] oracles. If you explore the depths of a derelict, you may use the zone oracles on the following pages to help envision what you find.
+Derelicts are the forsaken relics of human endeavors. Use these First Look tables for your initial survey of the derelict. To reveal more about the look and original function or nature of the site, roll on appropriate tables in the [[_OCL_Starships|Starship]]  or [[_OCL_Settlements|Settlement]] oracles. If you explore the depths of a derelict, you may use the [[OCL_Derelict_Zones|Derelict Zones Oracle]] on the following pages to help envision what you find.
 
-## Oracle: Derelict First Look: Outer
+## Oracle: Derelict First Look - Outer
+> [!mechanics]- | Roll > %%GetDice%% | Guidance
+> What you notice from an outside inspection or scan. ^guidance-OclDerelictFirstLookOuter
+
 | 1d100 | Result |
 |:---:|:--- |
 | 1-15 | Blocked access |
@@ -30,7 +39,10 @@ Derelicts are the forsaken relics of human endeavors. Use these First Look table
 | 96-100 | Time or reality distortion |
 ^table-ISSF-Core1-0-OclDerelictFirstLookOuter
 
-## Oracle: Derelict First Look: Inner
+## Oracle: Derelict First Look - Inner
+> [!mechanics]- | Roll > %%GetDice%% | Guidance
+> If you go inside the derelict, this is the first thing you notice. ^guidance-OclDerelictFirstLookInner
+
 | 1d100 | Result |
 |:---:|:--- |
 | 1-3 | Abnormal gravity |
@@ -64,10 +76,12 @@ Derelicts are the forsaken relics of human endeavors. Use these First Look table
 | 85-87 | Thick haze or smoke |
 | 88-90 | Unstable energy surges |
 | 91-93 | Watchful AI |
-| 94-100 | ▶[[OCL_Core#Oracle Descriptor\|Descriptor]] + [[OCL_Core#Oracle Focus\|Focus]] |
+| 94-100 | ▶[[OCL_Core_Descriptor-Focus#Oracle Descriptor\|Descriptor]] + [[OCL_Core_Descriptor-Focus#Oracle Focus\|Focus]] |
 ^table-ISSF-Core1-0-OclDerelictFirstLookInner
 
 ## Tags
-#Pedia/Oracles/Derelicts 
+| Previous Page | Tags | Next Page |
+|:--- |:---:| ---:|
+| **[[OCL_Derelict_Create\|Derelict Create Oracle]]** | #Pedia/Oracles/Derelicts | **[[OCL_Derelict_Zones\|Derelict Zones Oracle]]** |
 
 <font size=-2>This work is based on Ironsworn: Starforged (found at [www.ironswornrpg.com](http://www.ironswornrpg.com)), created by Shawn Tomkin, and licensed for our use under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license  (creativecommons.org/licenses/by-nc-sa/4.0/).</font>

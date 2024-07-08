@@ -2,20 +2,31 @@
 ## Source
 SourceMaterial: "Ironsworn: Starforged"
 SourceAuthor: "Shawn Tompkin"
+SourceLink: 
 
 ## Page
-Alias: "Derelict:Access Oracle"
-PageType: "Oracle"
-PageCategory: "Derelict"
+aliases:
+  - "Derelict Zone: Access Oracle"
+  - "Derelict Zone: Access - Area Oracle"
+  - "Derelict Zone: Access - Feature Oracle"
+  - "Derelict Zone: Access - Peril Oracle"
+  - "Derelict Zone: Access - Opportunity Oracle"
+PageType: Oracle
+PageCategory: Derelict
+PageOrder: 4
 
 ## Oracle
 Oracle: Derelict
-OracleFocus: Zone:Access
+OracleFocus: "Zone: Access"
+OracleDescriptor: "_Deserted passageways and broken entries._"
 ---
 # [[_OCL_Index|Oracle]] - [[_OCL_Derelicts|Derelict]] - [[OCL_Derelict_Zones|Zone]]: Access
+_Deserted passageways and broken entries_
 
+## Oracle: Derelict Zone Access - Area
+> [!mechanics]- | Roll > %%GetDice%% | Guidance
+> ![[GSRY_Definitions#^gsry-OclSite-Area]] ^guidance-OclSite-Area
 
-## Oracle: Derelict Zone Access: Area
 | 1d100 | Result |
 |:---:|:--- |
 | 1-50 | Corridor |
@@ -26,9 +37,12 @@ OracleFocus: Zone:Access
 | 86-90 | Hub or intersection |
 | 91-95 | Crawl space or duct |
 | 96-100 | Airlock or external |
-^table-ISSF-Core1-0-OclDerelictZoneAccessArea
+^table-ISSF-Core1-0-OclDerelictZone-Access-Area
 
-## Oracle: Derelict Zone Access: Feature
+## Oracle: Derelict Zone Access - Feature
+> [!mechanics]- | Roll > %%GetDice%% | Guidance
+> ![[GSRY_Definitions#^gsry-OclSite-Feature]] ^guidance-OclSite-Feature
+
 | 1d100 | Result |
 |:---:|:--- |
 | 1-5 | Abandoned gear |
@@ -50,10 +64,13 @@ OracleFocus: Zone:Access
 | 81-85 | Wandering bot |
 | 86-90 | Windows or viewports |
 | 91-95 | Wrecked passage or debris |
-| 96-100 | ⏵[[OCL_Core#Oracle Descriptor\|Descriptor]] + [[OCL_Core#Oracle Focus\|Focus]] |
-^table-ISSF-Core1-0-OclDerelictZoneAccessFeature
+| 96-100 | ⏵[[OCL_Core_Descriptor-Focus#Oracle Descriptor\|Descriptor]] + [[OCL_Core_Descriptor-Focus#Oracle Focus\|Focus]] |
+^table-ISSF-Core1-0-OclDerelictZone-Access-Feature
 
-## Oracle: Derelict Zone Access: Peril
+## Oracle: Derelict Zone Access - Peril
+> [!mechanics]- | Roll > %%GetDice%% | Guidance
+> ![[GSRY_Definitions#^gsry-OclSite-Peril]] ^guidance-OclSite-Peril
+
 | 1d100 | Result |
 |:---:|:--- |
 | 1-10 | Alarm or failsafe is triggered |
@@ -65,11 +82,14 @@ OracleFocus: Zone:Access
 | 61-70 | Hazardous environmental change |
 | 71-80 | Path is trapped |
 | 81-90 | Unsettling sound or disturbance |
-| 91-98 | ⏵[[OCL_Core#Oracle Action\|Action]] + [[OCL_Core#Oracle Theme\|Theme]] |
+| 91-98 | ⏵[[OCL_Core_Action-Theme#Oracle Action\|Action]] + [[OCL_Core_Action-Theme#Oracle Theme\|Theme]] |
 | 99-100 | Roll twice |
-^table-ISSF-Core1-0-OclDerelictZoneAccessPeril
+^table-ISSF-Core1-0-OclDerelictZone-Access-Peril
 
-## Oracle: Derelict Zone Access: Opportunity 
+## Oracle: Derelict Zone Access - Opportunity
+> [!mechanics]- | Roll > %%GetDice%% | Guidance
+> ![[GSRY_Definitions#^gsry-OclSite-Opportunity]] ^guidance-OclSite-Opportunity
+
 | 1d100 | Result |
 |:---:|:--- |
 | 1-20 | Directions, shortcut, or alternate path |
@@ -77,9 +97,11 @@ OracleFocus: Zone:Access
 | 41-60 | Hopeful signs of life |
 | 61-80 | Opening to outmaneuver or escape a threat or foe |
 | 81-100 | Useful equipment |
-^table-ISSF-Core1-0-OclDerelictZoneAccessOpportunity
+^table-ISSF-Core1-0-OclDerelictZone-Access-Opportunity
 
 ## Tags
-#Pedia/Oracles/Derelicts 
+| Previous Page | Tags | Next Page |
+|:--- |:---:| ---:|
+| **[[OCL_Derelict_Zones\|Derelict Zones Oracle]]** | #Pedia/Oracles/Derelicts | **[[OCL_Derelict-Zone-Community\|Derelict Zone: Community Oracle]]** |
 
 <font size=-2>This work is based on Ironsworn: Starforged (found at [www.ironswornrpg.com](http://www.ironswornrpg.com)), created by Shawn Tomkin, and licensed for our use under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license  (creativecommons.org/licenses/by-nc-sa/4.0/).</font>

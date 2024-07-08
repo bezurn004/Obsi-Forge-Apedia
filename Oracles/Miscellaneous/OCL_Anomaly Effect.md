@@ -2,21 +2,27 @@
 ## Source
 SourceMaterial: "Ironsworn: Starforged"
 SourceAuthor: "Shawn Tompkin"
+SourceLink: 
 
 ## Page
-Alias: "Anomaly Effect Oracle"
-PageType: "Oracle"
-PageCategory: "Story"
+aliases:
+  - "Anomaly Effect Oracle"
+PageType: Oracle
+PageCategory: Story
+PageOrder: 1
 
 ## Oracle
-Oracle: "Misc"
+Oracle: Misc
 OracleFocus: "Anomaly Effect"
 OracleDescriptor: "Use sparingly to resolve the effects of ancient tech, rituals, or other strange forces."
 ---
 # [[_OCL_Index|Oracle]] - [[_OCL_Miscellaneous|Miscellaneous]]: Anomaly Effect
-Meddling with alien artifacts or forbidden magic may put you at the mercy of chaos. Use this table to resolve the effects of ancient tech, rituals, or other strange forces. Results on this table may have devastating implications, so use it only in rare and dramatic moments.
+Use sparingly to resolve the effects of ancient tech, rituals, or other strange forces.
 
 ## Oracle: Anomaly Effect
+> [!mechanics]- | Roll > %%GetDice%% | Guidance
+> Meddling with alien artifacts or forbidden magic may put you at the mercy of chaos. Use this table to resolve the effects of ancient tech, rituals, or other strange forces. Results on this table may have devastating implications, so use it only in rare and dramatic moments. ^guidance-ISSF-Core1-0-OclAnomalyEffect
+
 | 1d100 | Result |
 |:---:|:--- |
 | 1-3 | Alters or focuses gravity |
@@ -54,8 +60,9 @@ Meddling with alien artifacts or forbidden magic may put you at the mercy of cha
 | 97-100 | Roll twice |
 ^table-ISSF-Core1-0-OclAnomalyEffect
 
-
 ## Tags
-#Pedia/Oracles 
+| Previous Page | Tags | Next Page |
+|:--- |:---:| ---:|
+| **[[_OCL_Miscellaneous\|Miscellaneous Oracles]]** | #Pedia/Oracles | **[[OCL_Combat Action\|Combat Action Oracle]]** |
 
 <font size=-2>This work is based on Ironsworn: Starforged (found at [www.ironswornrpg.com](http://www.ironswornrpg.com)), created by Shawn Tomkin, and licensed for our use under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license  (creativecommons.org/licenses/by-nc-sa/4.0/).</font>

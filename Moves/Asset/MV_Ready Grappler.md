@@ -1,5 +1,12 @@
 ---
-Alias: "Ready Grappler (move)"
+## Source
+SourceMaterial: "Ironsworn: Starforged"
+SourceAuthor: "Shawn Tompkin"
+SourceLink: 
+
+## Page
+aliases:
+  - "Ready Grappler (move)"
 PageType: Move
 PageCategory: Asset
 RollType: Action
@@ -7,12 +14,14 @@ RollStat: [Integrity, WIts]
 Trigger: [""]
 AssociatedAsset: "Grappler"
 AssociatedAssetAbility: "Ability 1"
+ReferencedMoves: 
+  - INSERT
 ---
 # [[_Moves Index|Moves]] - [[_Asset Moves|Asset]]: Ready Grappler
 
 ## Move Card
 >[!abstract]  Trigger and Preparation
->This move is enabled by the  [[AST_Grappler|Grappler (asset)]].
+>This move is enabled by the  [[AST_Grappler|GRAPPLER]].
 >When you take a minute or so to ready the grappler...
 
 > [!warning] Action Roll
@@ -40,12 +49,16 @@ On a miss, charging fails and you must [[MV_Withstand Damage|Withstand Damager]]
 ## Related Assets
 ```dataview
 TABLE without ID
-	link(file.link, alias) As "Asset Name",
+	link(file.link, AssetName) As "Asset Name",
 	Category As "Asset Category"
-WHERE contains(PageType, "Asset") & contains(this.file.inlinks, file.link)
+WHERE contains(PageType, "Asset") & contains(this.file.inlinks, file.link) & !contains(PageType, "Index") & !contains(PageCategory, "Index")
 SORT Category asc, file.name asc
 ```
 ## Tags
+| Previous Page | Tags | Next Page |
+|:--- |:---:| ---:|
+| **LINK** |  | **LINK** |
+
 #Pedia/Moves/Asset 
 
 <font size=-2>This work is based on Ironsworn: Starforged (found at [www.ironswornrpg.com](http://www.ironswornrpg.com)), created by Shawn Tomkin, and licensed for our use under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license  (creativecommons.org/licenses/by-nc-sa/4.0/).</font>

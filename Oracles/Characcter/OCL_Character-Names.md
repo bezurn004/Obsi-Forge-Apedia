@@ -2,25 +2,135 @@
 ## Source
 SourceMaterial: "Ironsworn: Starforged"
 SourceAuthor: "Shawn Tompkin"
+SourceLink: 
 
 ## Page
-Alias: "Character Names Oracle"
-PageType: "Oracle"
-PageCategory: "Character"
+aliases:
+  - "Character Names Oracle"
+PageType: Oracle
+PageCategory: Character
 PageOrder: 1
 
 ## Oracle
 Oracle: Character
 OracleFocus: Names
+OracleDescriptor: "Given and family names are presented as an intended pair, so you may roll once for both. If you’d like to give a character a callsign, which are the monikers used by spacers, you may roll separately or take the one provided for the selected name."
 ---
  # [[_OCL_Index|Oracle]] - [[_OCL_Characters|Character]]: Names
-Given and family names are presented as an intended pair, so you may roll once for both. If you’d like to give a character a callsign, which are the monikers used by spacers, you may roll separately or take the one provided for the selected name.
+**Given** and **Family** names are presented as an intended pair, so you may roll once for both. If you’d like to give a character a **Callsign**, which are the monikers used by spacers, you may roll separately or take the one provided for the selected name.
 
 Given and family names can often be reversed, or used independently as standalone names.
 
 Spacers are often known only by their callsigns, with their “dirtside names” reserved for family and close friends.
 
+| 1d100 | Given Name | Family Name | Callsign |
+| :---: | :--- | :--- | :--- |
+| 1 | Akim | Kuzmin | Albatross |
+| 2 | Alex | Durant | Angler |
+| 3 | Alexis | Jefferies | Anvil |
+| 4 | Alisa | Velez | Badger |
+| 5 | Althea | Lontoc | Bandit |
+| 6 | Amari | Wade | Bash |
+| 7 | Aparna | Kade | Basilisk |
+| 8 | Argus | Thorn | Bingo |
+| 9 | Arnav | Khosla | Blackbird |
+| 10 | Ash | Hendrix | Blade |
+| 11 | Asha | Okiro | Bloodshot |
+| 12 | Astrid | Ripley | Bluewing |
+| 13 | Aurora | Talin | Bonfire |
+| 14 | Ayako | Jin | Book |
+| 15 | Azriel | Finn | Breaker |
+| 16 | Blake | Solas | Brick |
+| 17 | Brennan | Quint | Buzz |
+| 18 | Brianna | Keelan | Buzzard |
+| 19 | Bruna | Silva | Centurion |
+| 20 | Bruno | Valk | Chimera |
+| 21 | Cassidy | O’Brien | Circuit |
+| 22 | Christa | Ruiz | Clank |
+| 23 | Cole | Stallard | Cleric |
+| 24 | Corey | Mackenson | Crash |
+| 25 | Creed | Jensen | Cutter |
+| 26 | Derya | Sakir | Cutthroat |
+| 27 | Dex | Tolari | Cypher |
+| 28 | Doran | Kain | Dagger |
+| 29 | Echo | Carr | Dancer |
+| 30 | Eren | Valenus | Dash |
+| 31 | Erim | Kaan | Deadeye |
+| 32 | Esana | Taylan | Deuce |
+| 33 | Eveline | Legrand | Failsafe |
+| 34 | Faye | Jemison | Farseer |
+| 35 | Fletcher | Arden | Fidget |
+| 36 | Flint | Sayer | Firestarter |
+| 37 | Florian | Kai | Fixer |
+| 38 | Gavin | Slater | Flatline |
+| 39 | Halia | Edris | Ghost |
+| 40 | Ike | Sutton | Grudge |
+| 41 | Isaac | Savarin | Gutshot |
+| 42 | James | Bridger | Harrow |
+| 43 | Janya | Mital | Havoc |
+| 44 | Jihun | Shin | Hellhound |
+| 45 | Jorunn | Nadir | Hellion |
+| 46 | Juliana | Santos | Hex |
+| 47 | Juro | Mihara | Hush |
+| 48 | Kaisa | Buhari | Ironclad |
+| 49 | Karthik | Salvi | Jackal |
+| 50 | Kayla | Adler | Jackpot |
+| 51 | Kei | Takara | Jester |
+| 52 | Kiana | Shelton | Link |
+| 53 | Kieran | Vandu | Longshot |
+| 54 | Kierra | Vega | Mainframe |
+| 55 | Kimora | Zhang | Mantis |
+| 56 | Kiri | Savela | Mimic |
+| 57 | Kirsa | Hawking | Mole |
+| 58 | Kwan | Jen | Monarch |
+| 59 | Kylar | Hobbs | Mongoose |
+| 60 | Landry | Holland | Nails |
+| 61 | Logan | Silvius | Ogre |
+| 62 | Lowell | Freeman | Omega |
+| 63 | Lucas | Barbosa | Overload |
+| 64 | Curtis | Winter | Packrat |
+| 65 | Luna | Hammond | Paladin |
+| 66 | Lux | Archer | Phantom |
+| 67 | Mae | Barlowe | Phoenix |
+| 68 | Magnus | Shepherd | Pyro |
+| 69 | Mave | Griffin | Quickdraw |
+| 70 | Merrick | Frost | Razor |
+| 71 | Mina | Quon | Rogue |
+| 72 | Nashida | Malek | Rook |
+| 73 | Nassar | Murad | Rover |
+| 74 | Ostara | Becker | Scout |
+| 75 | Qasira | Ammar | Shadow |
+| 76 | Quinn | Braddock | Shark |
+| 77 | Ragnar | Blackstone | Shutdown |
+| 78 | Raven | Hadley | Slack |
+| 79 | Ria | Farin | Slash |
+| 80 | Rokuro | Kobayashi | Snipe |
+| 81 | Roland | Duval | Spider |
+| 82 | Rowena | Hunter | Splinter |
+| 83 | Sage | Beckett | Static |
+| 84 | Saren | Dykstra | Stinger |
+| 85 | Annora | Gray | Straggler |
+| 86 | Severinus | Sedano | Swindle |
+| 87 | Shen | Bai | Tinker |
+| 88 | Talia | Booker | Touchdown |
+| 89 | Tomiko | Sato | Tycoon |
+| 90 | Ulan | Vayan | Vagabond |
+| 91 | Valda | Bond | Valkyrie |
+| 92 | Venri | Stark | Vanguard |
+| 93 | Vesper | Stirling | Vertigo |
+| 94 | Vuldar | Wolfe | Warden |
+| 95 | William | O’Niel | Watchdog |
+| 96 | Yelena | Petrov | Wayfinder |
+| 97 | Zakia | Nazari | Whisper |
+| 98 | Zari | Darwin | Wraith |
+| 99 | Zev | Pearson | Wrongway |
+| 100 | Zoya | Volkov | Zephyr |
+^table-ISSF-Core1-0-OclCharacterNames
+
 ## Oracle: Character Given Name
+> [!mechanics]- | Roll > %%GetDice%% | Guidance
+> **Given** and **Family** names are presented as an intended pair, so you may roll once for both if you choose. Given and family names can often be reversed, or used independently as standalone names. These “dirtside names” are usually reserved for family and close friends. ^guidance-OclCharacterGivenName
+
 | 1d100 | Result |
 |:---:|:--- |
 | 1 | Akim |
@@ -126,6 +236,8 @@ Spacers are often known only by their callsigns, with their “dirtside names”
 ^table-ISSF-Core1-0-OclCharacterGivenName
 
 ## Oracle: Character Family Name
+> [!mechanics]- | Roll > %%GetDice%% | Guidance
+>**Given** and **Family** names are presented as an intended pair, so you may roll once for both if you choose. Given and family names can often be reversed, or used independently as standalone names. These “dirtside names” are usually reserved for family and close friends. ^guidance-OclCharacterFamilyName
 
 | 1d100 | Result |
 |:----:|:-------|
@@ -229,11 +341,11 @@ Spacers are often known only by their callsigns, with their “dirtside names”
 | 98 | Darwin |
 | 99 | Pearson |
 | 100 | Volkov |
-
-^f641bc
-
 ^table-ISSF-Core1-0-OclCharacterFamilyName
+
 ## Oracle: Character Call Sign
+> [!mechanics]- | Roll > %%GetDice%% | Guidance
+>If you’d like to give a character a **Callsign**, which are the monikers used by spacers, you may roll separately or take the one provided for the selected name. Spacers are often known only by their callsigns. ^guidance-OclCharacterCallsign
 
 | 1d100 | Result |
 |:----:|:-------|
@@ -337,11 +449,11 @@ Spacers are often known only by their callsigns, with their “dirtside names”
 | 98 | Wraith |
 | 99 | Wrongway |
 | 100 | Zephyr |
-
-^d8dfdc
-
 ^table-ISSF-Core1-0-OclCharacterCallSign
+
 ## Tags
-#Pedia/Oracles/Characters 
+| Previous Page | Tags | Next Page |
+|:--- |:---:| ---:|
+| **[[_OCL_Characters\|Characters Oracle]]** | #Pedia/Oracles/Characters | **[[OCL_Character-Approach\|Character Approach Oracle]]** |
 
 <font size=-2>This work is based on Ironsworn: Starforged (found at [www.ironswornrpg.com](http://www.ironswornrpg.com)), created by Shawn Tomkin, and licensed for our use under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license  (creativecommons.org/licenses/by-nc-sa/4.0/).</font>

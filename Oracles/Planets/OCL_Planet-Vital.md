@@ -2,29 +2,47 @@
 ## Source
 SourceMaterial: "Ironsworn: Starforged"
 SourceAuthor: "Shawn Tompkin"
+SourceLink: 
 
 ## Page
-Alias: "Planet:Vital Oracle"
-PageType: "Oracle"
-PageCategory: "Planet"
+aliases:
+  - "Planet: Vital Oracle"
+  - "Planet: Vital Atmosphere Oracle"
+  - "Planet: Vital Settlement Oracle"
+  - "Planet: Vital Observed From Space Oracle"
+  - "Planet: Vital Diversity Oracle"
+  - "Planet: Vital Biomes Oracle"
+  - "Planet: Vital Planetside Feature Oracle"
+  - "Planet: Vital Life Oracle"
+  - "Planet: Vital Sample Names Oracle"
+PageType: Oracle
+PageCategory: Planet
+PageOrder: 11
 
 ## Oracle
 Oracle: Planet
 OracleFocus: Vital
+OracleDescriptor: "Against all odds, life finds a way. Even in the emptiness of space, tiny pockets of hope can be found, and this planet offers that. Liquid water exists here which has given a chance for both flora and fauna to flourish. If you can’t find exactly what you need here, you can at least find a moment of respite."
 ---
 # [[_OCL_Index|Oracle]] - [[_OCL_Planets|Planets]]: Vital
-Against all odds, life finds a way.  Even in the emptiness of space, tiny pockets of hope can be found, and this planet offers that.  Liquid water exists here which has given a chance for both flora and fauna to flourish.  If you can’t find exactly what you need here, you can at least find a moment of respite.
+Against all odds, life finds a way. Even in the emptiness of space, tiny pockets of hope can be found, and this planet offers that. Liquid water exists here which has given a chance for both flora and fauna to flourish. If you can’t find exactly what you need here, you can at least find a moment of respite.
 
-## Oracle: Atmosphere
+## Oracle: Vital Atmosphere
+> [!mechanics]- | Roll > %%GetDice%% | Guidance
+> The baseline for planet habitability, see [[_OCL_Planets#Planet Atmospheres|Planet Atmosphere]] for the effects of each atmosphere for human life. ^guidance-Atmosphere
+
  1d100 | Result |
 | :----: | :------- |
 | 1-20 | Marginal |
 | 21-50 | Breathable |
 | 51-100 | Ideal |
-^table-ISSF-Core1-0-OclPlanetVitalAtmosphere
+^table-Atmosphere
 
-## Oracle: Vital: Settlements
-### Oracle: Settlements: Terminus
+## Oracle: Vital Settlements
+### Oracle: Settlements - Terminus
+> [!mechanics]- | Roll > %%GetDice%% | Guidance
+> Choose or roll on possible settlements located on this planet. ^guidance-Settlement-Terminus
+
 | 1d100 | Result |
 |:---:|:--- |
 | 1-20 | None |
@@ -32,9 +50,12 @@ Against all odds, life finds a way.  Even in the emptiness of space, tiny pocke
 | 31-70 | Planetside settlement |
 | 71-90 | Multiple settlements |
 | 91-100 | Settlements in conflict |
-^table-ISSF-Core1-0-OclPlanetVitalSettlementTerminus
+^table-Settlement-Terminus
 
-### Oracle: Settlements: Outlands
+### Oracle: Settlements - Outlands
+> [!mechanics]- | Roll > %%GetDice%% | Guidance
+> Choose or roll on possible settlements located on this planet. ^guidance-Settlement-Outlands
+
 | 1d100 | Result |
 |:---:|:--- |
 | 1-50 | None |
@@ -42,9 +63,12 @@ Against all odds, life finds a way.  Even in the emptiness of space, tiny pocke
 | 56-85 | Planetside settlement |
 | 86-95 | Multiple settlements |
 | 96-100 | Settlements in conflict |
-^table-ISSF-Core1-0-OclPlanetVitalSettlementOutlands
+^table-Settlement-Outlands
 
-### Oracle: Settlements: Expanse
+### Oracle: Settlements - Expanse
+> [!mechanics]- | Roll > %%GetDice%% | Guidance
+> Choose or roll on possible settlements located on this planet. ^guidance-Settlement-Expanse
+
 | 1d100 | Result |
 |:---:|:--- |
 | 1-80 | None |
@@ -52,9 +76,12 @@ Against all odds, life finds a way.  Even in the emptiness of space, tiny pocke
 | 84-93 | Planetside settlement |
 | 94-98 | Multiple settlements |
 | 99-100 | Settlements in conflict |
-^table-ISSF-Core1-0-OclPlanetVitalSettlementExpanse
+^table-Settlement-Expanse
 
-## Oracle: Observed From Space
+## Oracle: Vital  Observed From Space {1-2}
+> [!mechanics]- | Roll > %%GetDice%% | Guidance
+> When first approaching a planet, envision at a board characteristic of the planet. ^guidance-ObservedFromSpace
+
 | 1d100 | Result |
 |:---:|:--- |
 | 1-11 | Complex ring system |
@@ -65,20 +92,26 @@ Against all odds, life finds a way.  Even in the emptiness of space, tiny pocke
 | 56-66 | Numerous small moons |
 | 67-77 | Unusual day or night cycle |
 | 78-88 | Vibrantly colored landscapes |
-| 89-98 | ▶[[OCL_Core#Oracle Descriptor\|Descriptor]] + [[OCL_Core#Oracle Focus\|Focus]] |
-| 99-100 | ▶[[OCL_Vault-Create#Oracle Precursor Vault Outer First Look\|Precursor Vault (orbital)]] |
-^table-ISSF-Core1-0-OclPlanetVitalObservedFromSpace
+| 89-98 | ▶[[OCL_Core_Descriptor-Focus#Oracle Descriptor\|Descriptor]] + [[OCL_Core_Descriptor-Focus#Oracle Focus\|Focus]] |
+| 99-100 | ▶[[OCL_Vault-Exterior#Oracle Precursor Vault Outer First Look\|Precursor Vault (orbital)]] |
+^table-ObservedFromSpace
 
-## Oracle: Diversity
+## Oracle: Vital Diversity
+> [!mechanics]- | Roll > %%GetDice%% | Guidance
+> Based on the level of diversity for this world, roll that number of times on the biomes table on the [[OCL_Planet-Vital#Oracle Biomes|Biomes Oracle]]. ^guidance-Diversity
+
 | 1d100 | Result |
 |:---:|:--- |
 | 1-20 | Simple (two biomes) |
 | 21-70 | Diverse (three biomes) |
 | 71-90 | Complex (four biomes) |
 | 91-100 | Garden world (five or more biomes) |
-^table-ISSF-Core1-0-OclPlanetVitalDiversity
+^table-Diversity
 
-## Oracle: Biomes
+## Oracle: Vital Biomes {Diversity}
+> [!mechanics]- | Roll > %%GetDice%% | Guidance
+>  Generate the number of Biomes based on the results from the results on [[OCL_Planet-Vital#Oracle Vital Diversity|Vital Diversity Oracle]]. ^guidance-Biomes
+
 | 1d100 | Result |
 |:---:|:--- |
 | 1-5 | Caves |
@@ -101,10 +134,12 @@ Against all odds, life finds a way.  Even in the emptiness of space, tiny pocke
 | 86-90 | Volcanic |
 | 91-95 | Waterways |
 | 96-100 | Wetlands |
-^table-ISSF-Core1-0-OclPlanetVitalBiome
+^table-Biome
 
+## Oracle: Vital  Planetside Feature {1-2}
+> [!mechanics]- | Roll > %%GetDice%% | Guidance
+> To begin exploration on a planet, generate one or two dominate feature's. If your exploration is prolonged morph these features using the [[OCL_Core_Descriptor-Focus#Oracle Descriptor|Descriptor]] and [[OCL_Core_Descriptor-Focus#Oracle Focus|Focus]] oracles for prompts on variety. ^guidance-PlanetsideFeature
 
-## Oracle: Planetside Feature
 | 1d100 | Result |
 |:---:|:--- |
 | 1-7 | Background radiation |
@@ -120,21 +155,26 @@ Against all odds, life finds a way.  Even in the emptiness of space, tiny pocke
 | 71-77 | Signs of an engineered biosphere |
 | 78-84 | Sudden weather fluctuations |
 | 85-91 | Towering geological formations |
-| 92-98 | ▶[[OCL_Core#Oracle Descriptor\|Descriptor]] + [[OCL_Core#Oracle Focus\|Focus]] |
-| 99-100 | ▶[[OCL_Vault-Create#Oracle Precursor Vault Outer First Look\|Precursor Vault (planetside)]] |
-^table-ISSF-Core1-0-OclPlanetVitalFeature
+| 92-98 | ▶[[OCL_Core_Descriptor-Focus#Oracle Descriptor\|Descriptor]] + [[OCL_Core_Descriptor-Focus#Oracle Focus\|Focus]] |
+| 99-100 | ▶[[OCL_Vault-Exterior#Oracle Precursor Vault Outer First Look\|Precursor Vault (planetside)]] |
+^table-PlanetsideFeature
 
+## Oracle: Vital Life
+> [!mechanics]- | Roll > %%GetDice%% | Guidance
+> The general state of life currently on this planet. There may be a hidden feature given enough exploration that could contradict this result. ^guidance-Life
 
-## Oracle: Life
 | 1d100 | Result |
 |:---:|:--- |
 | 1-10 | Scarce |
 | 11-35 | Diverse |
 | 36-65 | Bountiful |
 | 66-100 | Overrun |
-^table-ISSF-Core1-0-OclPlanetVitalLife
+^table-Life
 
-## Oracle: Sample Names
+## Oracle: Vital Sample Names
+> [!mechanics]- | Roll > %%GetDice%% | Guidance
+> Sample names that are suited to this planet type. Feel free to mix and match or create your own. ^guidance-Names
+
 | 1d100 | Result |
 |:---:|:--- |
 | 1-5 | Chiron |
@@ -157,9 +197,11 @@ Against all odds, life finds a way.  Even in the emptiness of space, tiny pocke
 | 86-90 | Solstice |
 | 91-95 | Vale |
 | 96-100 | Valinor |
-^table-ISSF-Core1-0-OclPlanetVitalNames
+^table-Names
 
 ## Tags
-#Pedia/Oracles/Planet 
+| Previous Page | Tags | Next Page |
+|:--- |:---:| ---:|
+| **[[OCL_Planet-Tainted\|Planet: Tainted Oracle]]** | #Pedia/Oracles/Planet | **[[OCL_Planetside_Fortune\|Planetside Fortune Oracle]]** |
 
 <font size=-2>This work is based on Ironsworn: Starforged (found at [www.ironswornrpg.com](http://www.ironswornrpg.com)), created by Shawn Tomkin, and licensed for our use under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license  (creativecommons.org/licenses/by-nc-sa/4.0/).</font>

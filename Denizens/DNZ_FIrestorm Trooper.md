@@ -2,16 +2,24 @@
 ## Source
 SourceMaterial: "Ironsworn: Starforged"
 SourceAuthor: "Shawn Tompkin"
+SourceLink: 
 
 ## Page
-Alias: Firestorm Trooper (denizen)
-PageType: Denizen
-PageCategory: Humanoid
+aliases:
+  - Firestorm Trooper (denizen)
+PageType: "Foes and Encounters"
+PageCategory: Denizen
+PageOrder: 10
 
 ## Denizen
 DenizenName: Firestorm Trooper
 DenizenRankNum: 3
+Summary: "Fanatical raiders"
+Nature: Human
 Disposition: Aggressive
+Features: ["Raiders with scarred flesh and polished armor","Powered exosuits and distinctive helms","Roaring jetpacks and fluttering banners"]
+Drives: ["Conquer the Forge","Reap the resources owed them","Venerate their leaders, creed, or gods"]
+Tactics: ["Strike sudden and swift","Attack flanks and weak points from above","Cull the weak, recruit the strong"]
 DenizenVarients:
 - Firestorm Raiding Team
 - Firestorm Dropship (Vehicle)
@@ -19,15 +27,19 @@ VarientRankNums:
 - 4
 - 2
 ---
-# [[_Denizen Index|Denizens Summary]]: Firestorm Trooper
+# [[_GNPC_Foes-Encounters|Foes and Encounters]] - [[_Denizen Index|Denizens]]: Firestorm Trooper
 ## Components
-**Rank: ** Formidable (3)
+| **Rank** | Nature | Summary | Disposition |
+| :---: | --- | --- | --- |
+| `=this.DenizenRankNum` | `=this.Nature` | `=this.Summary` | `=this.Disposition`  |
+^table-components
 
-| Features | Drives | Tactics |
-| --- | --- | --- |
-| Raiders with scarred flesh and polished armor | Conquer the Forge | Strike sudden and swift |
-| Powered exosuits and distinctive helms | Reap the resources owed them | Attack flanks and weak points from above |
-| Roaring jetpacks and fluttering banners | Venerate their leaders, creed, or gods | Cull the weak, recruit the strong |
+|  |  |
+| --- | --- |
+| **Features** | - Raiders with scarred flesh and polished armor<br>- Powered exosuits and distinctive helms<br>- Roaring jetpacks and fluttering banners |
+| **Drives** | - Conquer the Forge<br>- Reap the resources owed them<br>- Venerate their leaders, creed, or gods |
+| **Tactics** | - Strike sudden and swift<br>- Attack flanks and weak points from above<br>- Cull the weak, recruit the strong |
+^table-fdt
 
 ## Description
 The Forge is largely wild, uncharted territory, but armored firestorm troopers seek to plunder the whole of it in the name of their clans, their creed, or their inscrutable gods.
@@ -46,10 +58,11 @@ Feared throughout the Forge for their brutal tactics and destructive weaponry, c
 The bulky, ironclad dropships favored by firestorm clans are designed for a single purpose: deliver an overwhelming force of armored troopers into the fight
 
 ### Quest Starter
-> Despite conflicting creeds, several firestorm clans unite beneath the banner of Torren the Purifier to invade the Terminus. Their next target is a world at the nexus of trade lanes. What is this planet, and why is it important to you?
+> Despite conflicting creeds, several firestorm clans unite beneath the banner of Torren the Purifier to invade the Terminus. Their next target is a world at the nexus of trade lanes. What is this planet, and why is it important to you? ^QuestStarter
 
 ## Tags
-#Pedia/Denizens
-
+| Previous Page | Tags | Next Page |
+|:--- |:---:| ---:|
+| **[[DNZ_Ember Wisp\|Ember Wisp (denizen)]]** | #Pedia/Denizens | **[[DNZ_Flarewing Shark\|Flarewing Shark (denizen)]]** |
 
 <font size=-2>This work is based on Ironsworn: Starforged (found at [www.ironswornrpg.com](http://www.ironswornrpg.com)), created by Shawn Tomkin, and licensed for our use under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license  (creativecommons.org/licenses/by-nc-sa/4.0/).</font>

@@ -2,23 +2,30 @@
 ## Source
 SourceMaterial: "Ironsworn: Starforged"
 SourceAuthor: "Shawn Tompkin"
+SourceLink: 
 
 ## Page
-Alias: "Character Approach Oracle"
-PageType: "Oracle"
-PageCategory: "Character"
+aliases:
+  - "Character Approach Oracle"
+  - "Character First Look Oracle"
+  - "Character Initial Disposition Oracle"
+PageType: Oracle
+PageCategory: Character
 PageOrder: 2
 
 ## Oracle
 Oracle: Character
 OracleFocus: Approach
+OracleDescriptor: "Use the **First Look** and **Initial Disposition** to get the first impression of an NPC when they first meet your character."
 ---
  # [[_OCL_Index|Oracle]] - [[_OCL_Characters|Character]]: Approach
-Use the Character [[OCL_Character-Approach#Oracle: Character First Look|First Look]] and [[OCL_Character-Approach#Oracle: Character Initial Disposition| Initial Disposition]] to get the first impression of a new character as they enter your story.
+Use the **First Look** and **Initial Disposition** oracles to get the first impression of an NPC when they first meet your character.
 
-## Oracle: Character First Look
+## Oracle: Character First Look {1-2}
+> [!mechanics]- | Roll > %%GetDice%% | Guidance
+> The first characteristic you notice about this person. ^guidance-OclCharacterFirstLook
 
-| 1d100 | Result per (1-2) |
+| 1d100 | Result |
 |:---:|:--- |
 | 1-3 | Accented |
 | 4-6 | Accompanied |
@@ -62,6 +69,9 @@ Use the Character [[OCL_Character-Approach#Oracle: Character First Look|First Lo
 ^table-ISSF-Core1-0-OclCharacterFirstLook
 
 ## Oracle: Character Initial Disposition
+> [!mechanics]- | Roll > %%GetDice%% | Guidance
+>  Their attitude towards you, at least at first. I’m sure they’ll love you once they really get to know you.
+
 | 1d100 | Result |
 |:---:|:--- |
 | 1-6 | Helpful |
@@ -78,8 +88,9 @@ Use the Character [[OCL_Character-Approach#Oracle: Character First Look|First Lo
 | 95-100 | Hostile |
 ^table-ISSF-Core1-0-OclCharacterInitialDisposition
 
-
 ## Tags
-#Pedia/Oracles/Characters
+| Previous Page | Tags | Next Page |
+|:--- |:---:| ---:|
+| **[[OCL_Character-Names\|Character Names Oracle]]** | #Pedia/Oracles/Characters | **[[OCL_Character-Drives\|Character Drives Oracle]]** |
 
 <font size=-2>This work is based on Ironsworn: Starforged (found at [www.ironswornrpg.com](http://www.ironswornrpg.com)), created by Shawn Tomkin, and licensed for our use under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license  (creativecommons.org/licenses/by-nc-sa/4.0/).</font>

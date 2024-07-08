@@ -2,20 +2,26 @@
 ## Source
 SourceMaterial: "Ironsworn: Starforged"
 SourceAuthor: "Shawn Tompkin"
+SourceLink: 
 
 ## Page
-Alias: "Starship Name Oracle"
-PageType: "Oracle"
-PageCategory: "Starship"
+aliases:
+  - "Starship Name Oracle"
+PageType: Oracle
+PageCategory: Starship
+PageOrder: 3
 
 ## Oracle
 Oracle: Starship
 OracleFocus: Name
+OracleDescriptor: "Give a starship a name when it has an important role in your story."
 ---
  # [[_OCL_Index|Oracle]] - [[_OCL_Starships|Starship]]: Name
-
+Give a starship a name when it has an important role in your story.
+ 
 ## Oracle: Starship Name
-Give a starship a name when it has an important role in your story. Scan this table and select a name that fits what you know of the ship’s appearance and role. Or generate a random result and let any contradictions contribute to the ship’s history or nature.
+> [!mechanics]- | Roll > %%GetDice%% | Guidance
+> Give a starship a name when it has an important role in your story. Scan this table and select a name that fits what you know of the ship’s appearance and role. Or generate a random result and let any contradictions contribute to the ship’s history or nature. ^guidance-OclStarshipName
 
 | 1d100 | Result |
 |:---:|:--- |
@@ -119,9 +125,11 @@ Give a starship a name when it has an important role in your story. Scan this ta
 | 98 | Vigilant |
 | 99 | Voidtreader |
 | 100 | Vulture |
-^table-ISSF-Core1-0-OclStarshipNames
+^table-OclStarshipNames
 
 ## Tags
-#Pedia/Oracles/Starship 
+| Previous Page | Tags | Next Section |
+|:--- |:---:| ---:|
+| **[[OCL_Starship-Approach\|Starship Approach]]** | #Pedia/Oracles/Starship | **[[_OCL_Characters\|Characters Oracle]]** |
 
 <font size=-2>This work is based on Ironsworn: Starforged (found at [www.ironswornrpg.com](http://www.ironswornrpg.com)), created by Shawn Tomkin, and licensed for our use under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license  (creativecommons.org/licenses/by-nc-sa/4.0/).</font>

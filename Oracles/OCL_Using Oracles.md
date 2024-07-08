@@ -1,5 +1,12 @@
 ---
-Alias: "Using Oracles"
+## Source
+SourceMaterial: "Ironsworn: Starforged"
+SourceAuthor: "Shawn Tompkin"
+SourceLink: 
+
+## Page 
+aliases:
+  - "Using Oracles (gameplay)"
 PageType: Oracles
 PageCategory: Guidelines
 ---
@@ -16,7 +23,7 @@ Keep in mind that Starforged oracles don’t function as a scripted emulator to 
 If you follow your instincts while staying open to twists and turns, you will find your game offering many of the same narrative rewards as if you were playing with a guide. In fact, you’ll be surprised how often a seemingly random result feeds directly into your character’s story and the world you’ve established through play. This is the power of creative interpretation at work.
 
 ## Oracles in Guided Play
-Guides can use oracles for support during play and to supplement their narrative decision-making. Mundane oracles, such as a ==Character Name (pages 333–335)==, are helpful to quickly flesh out details. Interpretative oracles, such as the ==Action and Theme tables (pages 296–297)==, can be used to spark new ideas.
+Guides can use oracles for support during play and to supplement their narrative decision-making. Mundane oracles, such as a [[OCL_Character-Names|Character Names Oracle]], are helpful to quickly flesh out details. Interpretative oracles, such as the [[OCL_Core_Action-Theme|Action/Theme Oracle]], can be used to spark new ideas.
 
 You can also use oracles as a prompt for sharing control of the narrative with your players. Not sure what happens next? Don’t know how to answer a player’s question? Roll on an appropriate table, or have a player make.
 
@@ -37,16 +44,16 @@ You can also use oracles as a prompt for sharing control of the narrative with y
 
 ## Oracles Tips and Tricks
 ### Peeling the Onion
-The oracles in this chapter often provide layers of detail through multiple tables. For example, the Character oracles (page 330) include several tables to help envision someone’s role, look, nature, and name. It might be tempting to roll on every table at once to generate a more fully formed encounter, but that can slow down your game and work against the opportunity to gain insight through the course of your story.
+The oracles in this chapter often provide layers of detail through multiple tables. For example, the [[_OCL_Characters|Characters Oracle]] include several tables to help envision someone’s role, look, nature, and name. It might be tempting to roll on every table at once to generate a more fully formed encounter, but that can slow down your game and work against the opportunity to gain insight through the course of your story.
 
 Do this instead: When initially encountering a place, creature, or person, use the oracle tables only for details you would perceive as first impressions. Make a roll or two, envision the result as appropriate to the situation, make some assumptions to fill in the gaps, and move on with your story. You are playing to see what happens. Think of each roll as peeling a layer of the narrative onion to reveal a new detail.
 
-> [!quote] Narrative Example 
+> [!cite] Narrative Example 
 > You encounter another character while exploring a remote planet. To set the stage for the encounter, you use the Character generator and roll on the First Look table. The result tells you that this person is “Wounded” and “Ill-equipped.” You envision someone who was clearly not prepared for an expedition on this perilous planet, and was gravely wounded following an encounter with a native creature. Next you roll on the Initial Disposition table to help envision their reaction. The oracle responds, “Suspicious.”
 
 Over time, you can build on the starting knowledge and [[MV_Ask the Oracle]] to reveal additional aspects.
 
-> [!quote] Narrative Example 
+> [!cite] Narrative Example 
 > You manage to gain the trust of this unlucky fellow explorer, and patch them up enough to get them on their feet for a journey back to your ship. Through the course of your interaction, you envision asking questions to learn more about them and their predicament. You roll on the Name, Role, and Goal tables. Taking those responses and expanding on them with interpretation, you conclude that this person is a smuggler, abandoned here and left for dead by double-crossing crewmates. If you end up on a prolonged adventure with this character, you might roll on the Revealed Aspects table to learn more about their personality, quirks, and abilities.
 
 The oracles often include labels that help guide these staggered reveals. For example, planetary aspects are divided into separate tables for Observed from Space and Planetside Feature. With some experience, you’ll develop your own preferences for how and when to reveal new details.
@@ -64,7 +71,7 @@ The wide variety of oracles in this chapter provide a toolkit that you can use a
 
 ## Common Symbols 
 ### Multiple Results
-Some oracles provide a recommended range of results. This is shown as a looping arrow with the suggested number of rolls. For example: @1–2. Depending on the situation, you might make multiple rolls at once, or make them over time to “peel the onion” and reveal new aspects.
+Some oracles provide a recommended range of results. This is shown as a looping arrow with the suggested number of rolls. For example: #missingArt {1–2}. Depending on the situation, you might make multiple rolls at once, or make them over time to “peel the onion” and reveal new aspects.
 
 All other tables are assumed to default to a single roll, but some oracles include an embedded result that prompts you to make multiple rolls. This is typically shown as “Roll twice.” If you get this result, roll twice more on the table and combine those results. If you get “Roll twice” yet again, ignore it and redo the roll. 
 
@@ -73,7 +80,7 @@ Oracle answers will often prompt you to jump to another oracle. This is shown as
 
 ## More Oracle Options
 
-## Oracle Arrays
+### Oracle Arrays
 Starforged oracles offer many options for answering questions and generating locations and encounters. But these options can slow down your gameplay as you consider what table to use for a specific situation.
 
 Don’t get overwhelmed. You’ll soon develop your own preferences. Plus, using established facts and your intuition without needing to Ask the Oracle will keep things moving. But if you want to play with all the toys in the oracle toybox, while leaving some of the moment-to-moment decisions in the hands of fate, an oracle array is your answer.
@@ -83,6 +90,7 @@ An oracle array is a collection of oracles you assemble to help answer questions
 The key to an oracle array is your six-sided action die. To create an array, you’ll assign the values of that die (1–6) to two or more oracle tables. When you need inspiration for a situation or location associated with an array, roll your action die alongside your oracle dice. This magically transforms your action die into an array die for the purposes of this roll. Check the value of the array die to see what table you’ll reference.
 
 Arrays are an optional tool, but mixing and matching oracle tables within an array will arm you with a rich collection of possibilities. A simple ad-hoc array can be quickly created while making an oracle roll. More complex arrays for a site or situation can be outlined in your journal or on a note card for repeated use.
+
 
 | Action Die | Exploring the Haunted Derelict |
 | :---: | :--- |
@@ -98,10 +106,21 @@ Arrays are an optional tool, but mixing and matching oracle tables within an arr
 | 4-5 | Derelict Peril |
 | 6 | Story Complication |
 
-> [!quote] Narrative Example
+> [!cite] Narrative Example
 > You’ve traveled to an orbital outpost, and roll a weak hit as you Finish an Expedition. Per that move, you must suffer a complication at the end of the journey. You aren’t sure how to resolve this new trouble, so you consider what oracle table to use for inspiration. The Story Complication oracle would be a good fit. Or you could assign this settlement the Inhabited theme and roll on the Inhabited Peril table. You decide to leave it in the hands of fate with an impromptu oracle array. On a 1–4, you’ll use the Story Complication oracle. On a 5–6, it’ll be an Inhabited Peril. You roll the 6-sided array die alongside the oracle dice. It comes up as a 5, so you check the value of the oracle dice against the Inhabited Peril table.
 
+### Fill in the Blanks
+A final option for structuring oracle prompts is to construct sentences or phrases with blanks for oracle answers. Creating these mad libs and interpreting their meaning can be a fun creative exercise to help kickoff or energize a campaign.
+
+For example, here’s an oracle mad lib for a sworn quest.
+
+> <font size=4>I swear to ==[[OCL_Core_Action-Theme#Oracle Action|Action]]== a ==[[OCL_Core_Action-Theme#Oracle Theme|Theme]]==<br>of a ==[[OCL_Core_Descriptor-Focus#Oracle Descriptor|Descriptor]]== ==[[OCL_Core_Descriptor-Focus#Oracle Focus|Focus]]== <br>located in ==[[OCL_Sector-Name#Oracle Sector Name Prefix and Suffix|Sector Name]]==.<br>I am opposed by ==[[OCL_Character-Names|Character Name]]==,<br>a ==[[OCL_Character-Drives#Oracle Character Role|Character Role]]== who<br>wants to ==[[OCL_Character-Drives#Oracle Character Goal|Character Goal]]==.  </font>
+
 ## Tags
+| Previous Page | Tags | Next Page | 
+| :--- | :---: | ---: |
+| **[[_OCL_Index\|Oracles Summary]]** |  | **[[OCL_Core\|Core Oracles]]** |
+
 #Pedia/Oracles 
 
 <font size=-2>This work is based on Ironsworn: Starforged (found at [www.ironswornrpg.com](http://www.ironswornrpg.com)), created by Shawn Tomkin, and licensed for our use under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license  (creativecommons.org/licenses/by-nc-sa/4.0/).</font>

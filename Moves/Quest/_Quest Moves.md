@@ -1,21 +1,33 @@
 ---
-Alias: "Quest Moves"
+## Source
+SourceMaterial: "Ironsworn: Starforged"
+SourceAuthor: "Shawn Tompkin"
+SourceLink: 
+
+## Page
+aliases:
+  - "Quest Moves"
 PageType: MoveIndex
 PageCategory: Quest
+PageOrder: 0
 ---
 
 # [[_Moves Index|Moves]] Summary: Quest
-```dataview
-TABLE without ID
-	link(file.link, alias) As "Move Name",
-	InlineCmd As "Inline Command",
-	RollType As "Roll Type"
-WHERE contains(PageType, "Move") & contains(PageCategory, "Quest") & !contains(PageType, "Index")
-SORT file.name asc
-```
- 
+In the fiction of the _Starforged_ setting, those who swear vows are the Ironsworn, and their promises are binding. Vows can be made to yourself, as a solemn representation of your personal commitment, or as a promise to someone else. Some vows might be made grudgingly, out of duty, necessity, or tradition. Others will be made with your whole heart.
 
-In the fiction of the Starforged setting, those who swear vows are the Ironsworn, and their promises are binding. Vows can be made to yourself, as a solemn representation of your personal commitment, or as a promise to someone else. Some vows might be made grudgingly, out of duty, necessity, or tradition. Others will be made with your whole heart. Make these quest moves when you swear vows, make progress on your quests, and resolve vows.
+Make these ==quest moves== when you swear vows, make progress on your quests, and resolve vows.
+
+> **[[MV_Swear an Iron Vow|Swear an Iron Vow]]**
+> When you swear upon iron to complete a quest…
+
+> **[[MV_Reach a Milestone|Reach a Milestone]]**
+> When you make headway in your quest…
+
+> **[[MV_Fullfill Your Vow|Fullfill Your Vow]]**
+> When you reach the end of your quest…
+
+> **[[MV_Forsake Your Vow|Forsake Your Vow]]**
+> When you renounce your quest, betray your promise, or the goal is lost to you…
 
 These sworn quests are the narrative engine of your adventures. In pursuit of your vows, you will undertake perilous expeditions, uncover clues, gain the support of others, recover important items, and defeat powerful foes. Your character will struggle to overcome their own limitations and find their preconceptions and loyalties challenged. 
 
@@ -84,7 +96,18 @@ If you find it helpful, you can envision and write down the potential narrative 
 
 However, you should consider it a sketchy, unreliable plan. It is like an ancient map with “here there be monsters” written in blank spaces. Leave yourself open to surprises, new ideas, input from other players, and the whims of fate.
 
+```dataview
+TABLE without ID
+	link(file.link, MoveName) As "Move Name",
+	InlineCmd As "Inline Command",
+	RollType As "Roll Type"
+WHERE contains(PageType, "Move") & contains(PageCategory, "Quest") & !contains(PageType, "Index")
+SORT file.name asc
+```
+
 ## Tags
-#Pedia/Moves/Quest 
+| Previous Section | Tags | Next Section |
+|:--- |:---:| ---:|
+| **[[_Adventure Moves\|Adventure Moves]]** | #Pedia/Moves/Quest | **[[_Connection Moves\|Connection Moves]]** |
 
 <font size=-2>This work is based on Ironsworn: Starforged (found at [www.ironswornrpg.com](http://www.ironswornrpg.com)), created by Shawn Tomkin, and licensed for our use under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license  (creativecommons.org/licenses/by-nc-sa/4.0/).</font>

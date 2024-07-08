@@ -1,9 +1,18 @@
 ---
-Alias: "Rockhorn (asset)"
+## Source
+SourceMaterial: "Ironsworn: Starforged"
+SourceAuthor: "Shawn Tompkin"
+SourceLink: 
+
+## Page
+aliases:
+  - "Rockhorn (asset)"
+  - "ROCKHORN"
 PageType: Asset
 PageCategory: Companion
+PageOrder: 74
 
-Ability1:
+## Ability1
 Abil1_Aspect:
 Abil1_MovesTrigger:
 Abil1_MoveTriggerSE:
@@ -11,7 +20,8 @@ Abil1_MovesTake:
 Abil1_TriggerNarrative:
 Abil1_ActionResultSE:
 
-Ability2:
+
+## Ability2
 Abil2_Aspect:
 Abil2_MovesTrigger:
 Abil2_MoveTriggerSE:
@@ -19,7 +29,8 @@ Abil2_TriggerNarrative:
 Abil2_MovesTake:
 Abil2_ActionResultSE:
 
-Ability3:
+
+## Ability3
 Abil3_Aspect:
 Abil3_MovesTrigger:
 Abil3_MoveTriggerSE:
@@ -28,6 +39,9 @@ Abil3_MovesTake:
 Abil3_Narrative:
 Abil3_ActionResultSE:
 
+
+## Properties
+AssetName: "ROCKHORN"
 GameplayRole: [Combat, Survival]
 Aspect: "Your rockhorn companion uses its resilient, stone-like hide and brute strength to overcome threats."
 PreReqCondition: 
@@ -74,6 +88,9 @@ ___
 
 ___
 
-#Pedia/Assets/Companion 
+## Tags
+| Previous Asset| Tags | Next Asset |
+|:--- |:---:| ---:|
+| **[[AST_Protocol Bot\|PROTOCOL BOT]]** | #Pedia/Assets/Companion | **[[AST_Sidekick\|SIDEKICK]]** |
 
 <font size=-2>This work is based on Ironsworn: Starforged (found at [www.ironswornrpg.com](http://www.ironswornrpg.com)), created by Shawn Tomkin, and licensed for our use under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license  (creativecommons.org/licenses/by-nc-sa/4.0/).</font>

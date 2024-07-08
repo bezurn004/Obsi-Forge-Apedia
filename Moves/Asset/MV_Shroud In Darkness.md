@@ -1,5 +1,12 @@
 ---
-Alias: "Shroud In Darknes (move)"
+## Source
+SourceMaterial: "Ironsworn: Starforged"
+SourceAuthor: "Shawn Tompkin"
+SourceLink: 
+
+## Page
+aliases:
+  - "Shroud In Darknes (move)"
 PageType: Move
 PageCategory: Asset
 RollType: None
@@ -7,12 +14,14 @@ RollStat: Shadow
 Trigger: [""]
 AssociatedAsset: "Shade"
 AssociatedAssetAbility: "Ability 1"
+ReferencedMoves: 
+  - INSERT
 ---
 # [[_Moves Index|Moves]] - [[_Asset Moves|Asset]]: Shroud In Darkness
 
 ## Move Card
 >[!abstract]  Trigger and Preparation
->This move is enabled by the [[AST_Shade|Shade (asset)]].
+>This move is enabled by the [[AST_Shade|SHADE]].
 >When you expand your veil to immerse your surroundings in darkness...
 
 > [!warning] Action Roll
@@ -39,13 +48,17 @@ On a miss, you fail and draw unwanted attention.
 ## Related Assets
 ```dataview
 TABLE without ID
-	link(file.link, alias) As "Asset Name",
+	link(file.link, AssetName) As "Asset Name",
 	PageCategory As "Asset Category"
-WHERE contains(PageType, "Asset") & contains(this.file.inlinks, file.link)
+WHERE contains(PageType, "Asset") & contains(this.file.inlinks, file.link) & !contains(PageType, "Index") & !contains(PageCategory, "Index")
 SORT PageCategory asc, file.name asc
 ```
 
-## tags
+## Tags
+| Previous Page | Tags | Next Page |
+|:--- |:---:| ---:|
+| **LINK** |  | **LINK** |
+
 #Pedia/Moves/Asset 
 
 <font size=-2>This work is based on Ironsworn: Starforged (found at [www.ironswornrpg.com](http://www.ironswornrpg.com)), created by Shawn Tomkin, and licensed for our use under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license  (creativecommons.org/licenses/by-nc-sa/4.0/).</font>

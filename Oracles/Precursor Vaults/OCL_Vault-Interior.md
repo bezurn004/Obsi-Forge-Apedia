@@ -2,20 +2,31 @@
 ## Source
 SourceMaterial: "Ironsworn: Starforged"
 SourceAuthor: "Shawn Tompkin"
+SourceLink: 
 
 ## Page
-Alias: "Vault Interior Oracle"
-PageType: "Oracle"
-PageCategory: "Vault"
+aliases:
+  - "Precursor Vault Interior Oracles"
+  - "Precursor Vault Interior - First Look Oracle"
+  - "Precursor Vault Interior - Oracle"
+  - "Precursor Vault Interior - Oracle"
+  - "Precursor Vault Interior - Oracle"
+PageType: Oracle
+PageCategory: "Precursor Vault"
+PageOrder: 2
 
 ## Oracle
-Oracle: Vault
+Oracle: "Precursor Vault"
 OracleFocus: Interior
+OracleDescriptor: "When entering the precursor vault as part of an expedition use these Oracles to flesh out the narrative if you need inspiration."
 ---
  # [[_OCL_Index|Oracle]] - [[_OCL_PrecursorVaults|Precursor Vault]]: Interior
-Use the [[OCL_Vault-Interior#Oracle: Precursor Vault: Interior First Look|Interior First Look]] oracle to reveal what you see or encounter when first entering the site. These aspects, combined with the exterior features, will help you envision the nature and condition of the vault and provide context for the rest of your exploration.
+When entering the precursor vault as part of an expedition use these Oracles to flesh out the narrative if you need inspiration.
 
-## Oracle: Precursor Vault: Interior First Look
+## Oracle: Precursor Vault Interior - First Look
+> [!mechanics]- | Roll > %%GetDice%% | Guidance
+> Use this oracle to reveal what you see or encounter when first entering the site. These aspects, combined with the exterior features, will help you envision the nature and condition of the vault and provide context for the rest of your exploration. ^guidance-OclVaultInterior-FirstLook
+
 | 1d100 | Result |
 |:---:|:--- |
 | 1-3 | Abnormal gravity |
@@ -49,10 +60,13 @@ Use the [[OCL_Vault-Interior#Oracle: Precursor Vault: Interior First Look|Interi
 | 85-87 | Toxic residue |
 | 88-90 | Well-preserved |
 | 91-93 | Wet or humid |
-| 94-100 | ▶[[OCL_Core#Oracle Descriptor\|Descriptor]] + [[OCL_Core#Oracle Focus\|Focus]] |
-^table-ISSF-Core1-0-OclPrecursorVaultInteriorFirstLook
+| 94-100 | ▶[[OCL_Core_Descriptor-Focus#Oracle Descriptor\|Descriptor]] + [[OCL_Core_Descriptor-Focus#Oracle Focus\|Focus]] |
+^table-OclVaultInterior-FirstLook
 
-## Oracle: Precursor Vault: Interior Feature
+## Oracle: Precursor Vault Interior - Feature
+> [!mechanics]- | Roll > %%GetDice%% | Guidance
+> ![[GSRY_Definitions#^gsry-OclSite-Feature]] ^guidance-OclSite-Feature
+
 | 1d100 | Result |
 |:---:|:--- |
 | 1-3 | Ascending or descending path |
@@ -88,12 +102,14 @@ Use the [[OCL_Vault-Interior#Oracle: Precursor Vault: Interior First Look|Interi
 | 80-82 | Vaulted chamber |
 | 83-85 | Vertical shaft |
 | 86-90 | Transition into the ▶[[OCL_Vault-Sanctum#Oracle Precursor Vault Sanctum Feature\|Sanctum Feature]] |
-| 91-95 | ▶[[OCL_Core#Oracle Descriptor\|Descriptor]] + [[OCL_Core#Oracle Focus\|Focus]] |
+| 91-95 | ▶[[OCL_Core_Descriptor-Focus#Oracle Descriptor\|Descriptor]] + [[OCL_Core_Descriptor-Focus#Oracle Focus\|Focus]] |
 | 96-100 | Roll twice  |
-^table-ISSF-Core1-0-OclPrecursorVaultInteriorFeature
+^table-OclVaultInterior-Feature
 
+## Oracle: Precursor Vault Interior - Peril
+> [!mechanics]- | Roll > %%GetDice%% | Guidance
+> ![[GSRY_Definitions#^gsry-OclSite-Peril]] ^guidance-OclSite-Peril
 
-## Oracle: Precursor Vault: Interior Peril
 | 1d100 | Result |
 |:---:|:--- |
 | 1-5 | Broken path |
@@ -115,12 +131,14 @@ Use the [[OCL_Vault-Interior#Oracle: Precursor Vault: Interior First Look|Interi
 | 81-85 | Tempting location or object holds hidden dangers |
 | 86-90 | Toxic atmosphere |
 | 91-95 | Unnerving sound or sensation |
-| 96-99 | ▶[[OCL_Core#Oracle Action\|Action]] + [[OCL_Core#Oracle Theme\|Theme]] |
-| 100-100 | Roll twice |
-^table-ISSF-Core1-0-OclPrecursorVaultInteriorPeril
+| 96-99 | ▶[[OCL_Core_Action-Theme#Oracle Action\|Action]] + [[OCL_Core_Action-Theme#Oracle Theme\|Theme]] |
+| 100 | Roll twice |
+^table-OclVaultInterior-Peril
 
+## Oracle: Precursor Vault Interior - Opportunity
+> [!mechanics]- | Roll > %%GetDice%% | Guidance
+> ![[GSRY_Definitions#^gsry-OclSite-Opportunity]] ^guidance-OclSite-Opportunity
 
-## Oracle: Precursor Vault: Interior Opportunity
 | 1d100 | Result |
 |:---:|:--- |
 | 1-10 | Clue points the way to your destination or target |
@@ -133,10 +151,11 @@ Use the [[OCL_Vault-Interior#Oracle: Precursor Vault: Interior First Look|Interi
 | 71-80 | Salvageable resource |
 | 81-90 | Secure area offers a moment of peace |
 | 91-100 | Shortcut or less perilous path speeds your way |
-^table-ISSF-Core1-0-OclPrecursorVaultInteriorOpportunity
-
+^table-OclVaultInterior-Opportunity
 
 ## Tags
-#Pedia/Oracles/PrecursorVaults 
+| Previous Page | Tags | Next Page |
+|:--- |:---:| ---:|
+| **[[OCL_Vault-Exterior\|Precursor Vault Exterior Oracles]]** | #Pedia/Oracles/PrecursorVaults | **[[OCL_Vault-Sanctum\|Vault Sanctum Oracles]]** |
 
 <font size=-2>This work is based on Ironsworn: Starforged (found at [www.ironswornrpg.com](http://www.ironswornrpg.com)), created by Shawn Tomkin, and licensed for our use under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license  (creativecommons.org/licenses/by-nc-sa/4.0/).</font>

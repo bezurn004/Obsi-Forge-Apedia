@@ -1,19 +1,32 @@
 ---
-Name: "Board Your Starship (character)"
-Alias: "Board Your Starship (character)"
+## Source
+SourceMaterial: "Ironsworn: Starforged"
+SourceAuthor: "Shawn Tompkin"
+SourceLink: 
+
+## Page
+aliases:
+  - "Board Your Starship (character create)"
 PageType: Campaign
-PageCategory: Character
+PageCategory: "Character Creation"
+PageOrder: 5
 ---
 # [[_CRG_Create Your Character|Create Your Character]]: Board Your Starship
-Take the [[AST_Starship|Starship]] command vehicle asset card. This is your interstellar spacecraft. The default marked ability provides the basic functions of the ship. You can claim the other two abilities when you Advance. For now, leave them unmarked.
+Take the ==[[AST_Starship|Starship]] command vehicle== asset card. This is your interstellar spacecraft. The default marked ability provides the basic functions of the ship. You can claim the other two abilities when you Advance. For now, leave them unmarked.
 
 
 > [!tip] **Flying with Allies**
-> If you are playing with allies, you share the [[AST_Starship|Starship]]. You can put the asset in a place visible and accessible to everyone, or appoint one player to manage the card.
+> If you are playing with allies, you share the [[AST_Starship|STARSHIP]]. You can put the asset in a place visible and accessible to everyone, or appoint one player to manage the card.
 > If you are playing with others, discuss whether your characters are co-owners of the ship, or if one of you is the primary owner. Alternatively, the ship can belong to another person or faction, and you are its crew. This is just a narrative embellishment; it has no effect on how the asset is used in play. Anyone aboard can use the [[AST_Starship|Starship]] asset abilities.
 
 ## Flying Alone
 If you are playing Starforged solo, you are a lone spacer in a vast galaxy. Thanks to automation and centralized controls, your starship is fully capable of flying and fighting while operated by a single pilot.
+
+> [!example]- **STARSHIP** [command vehicle]
+> ![[AST_Starship#^Header]]
+> ![[AST_Starship#^Ability1]]
+> ![[AST_Starship#^Ability2]]
+> ![[AST_Starship#^Ability3]]
 
 ## Giving The Starship a History
 Envision how you obtained or earned this ship. You can come up with your own origin, or roll or pick from the table below. If you use a result from the table, take a moment to consider and elaborate on the suggestion.
@@ -32,7 +45,7 @@ Envision how you obtained or earned this ship. You can come up with your own ori
 | 76–84 | Stolen from a notorious crime boss or criminal organization | %% IS:Starforged %% |
 | 85–92 | Taken while fleeing an attack or disaster | %% IS:Starforged %% |
 | 93–100 | Won in a bet | %% IS:Starforged %% |
-
+^table-starship-history
 
 ## Envision The Starship
 Your ship is an important aspect of your character, and a character in its own right. What does it look like? What makes it interesting or uniquely yours? Does it have any particular quirks? If nothing occurs to you now, you can flesh it out in play, or roll once or twice on the table below.
@@ -59,13 +72,14 @@ Your ship is an important aspect of your character, and a character in its own r
 | 86–90 | Strange symbols are scrawled on the deck and bulkheads in the main corridor | %% IS:Starforged %% |
 | 91–95 | Things tend to go missing for no logical reason | %% IS:Starforged %% |
 | 96–100 | Timers and clocks are always just a bit off | %% IS:Starforged %% |
+^table-starship-quirks
 
 ## Name Your Starship
 Finally, give the ship a name, and write that name on the asset card. If you’re stuck for a name, roll on the [[OCL_Starship-Name|Starship Name Oracle]], or just save it for later.
 
-## [[_CRG_Create Your Character#Character Creation Checklist|Return To Checklist]]
-
-## Tags
-#Pedia/Campaign/Character 
+## Tags | [[_CRG_Create Your Character#Character Creation Summary|Return To Checklist]]
+| Previous Page | Tags | Next Page |
+|:--- |:---:| ---:|
+| **[[CRG_Background Vow\|Write Your Background Vow (character create)]]** | #Pedia/Campaign/Character | **[[CRG_Envision Your Character\|Envision Your Character (character create)]]** |
 
 <font size=-2>This work is based on Ironsworn: Starforged (found at [www.ironswornrpg.com](http://www.ironswornrpg.com)), created by Shawn Tomkin, and licensed for our use under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license  (creativecommons.org/licenses/by-nc-sa/4.0/).</font>

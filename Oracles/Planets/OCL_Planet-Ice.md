@@ -2,20 +2,33 @@
 ## Source
 SourceMaterial: "Ironsworn: Starforged"
 SourceAuthor: "Shawn Tompkin"
+SourceLink: 
 
 ## Page
-Alias: "Planet:Ice Oracle"
-PageType: "Oracle"
-PageCategory: "Planet"
+aliases:
+  - "Planet: Ice Oracle"
+  - "Planet: Ice Atmosphere Oracle"
+  - "Planet: Ice Settlement Oracle"
+  - "Planet: Ice Observed From Space Oracle"
+  - "Planet: Ice Planetside Feature Oracle"
+  - "Planet: Ice Life Oracle"
+  - "Planet: Ice Sample Names Oracle"
+PageType: Oracle
+PageCategory: Planet
+PageOrder: 4
 
 ## Oracle
 Oracle: Planet
 OracleFocus: Ice
+OracleDescriptor: "A world blanketed in snow, winter has come and never leaves. Vast tundras sprawl across the surface while continent-sized glaciers carve out whole mountain ranges. Even from orbit it is difficult to tell whether one area is a landmass or just a large snowstorm. Parts of the ocean flash froze leaving waves of ice behind."
 ---
 # [[_OCL_Index|Oracle]] - [[_OCL_Planets|Planets]]: Ice
-A world blanketed in snow, winter has come and never leaves.  Vast tundras sprawl across the surface while continent-sized glaciers carve out whole mountain ranges.  Even from orbit it is difficult to tell whether one area is a landmass or just a large snowstorm.  Parts of the ocean flash froze leaving waves of ice behind.
+A world blanketed in snow, winter has come and never leaves. Vast tundras sprawl across the surface while continent-sized glaciers carve out whole mountain ranges. Even from orbit it is difficult to tell whether one area is a landmass or just a large snowstorm. Parts of the ocean flash froze leaving waves of ice behind.
 
-## Oracle: Atmosphere
+## Oracle: Ice Atmosphere
+> [!mechanics]- | Roll > %%GetDice%% | Guidance
+> The baseline for planet habitability, see [[_OCL_Planets#Planet Atmospheres|Planet Atmosphere]] for the effects of each atmosphere for human life. ^guidance-Atmosphere
+
 | 1d100 | Result |
 |:---:|:--- |
 | 1-15 | None/Thin |
@@ -24,10 +37,13 @@ A world blanketed in snow, winter has come and never leaves.  Vast tundras spra
 | 41-70 | Marginal |
 | 71-95 | Breathable |
 | 96-100 | Ideal |
-^table-ISSF-Core1-0-OclPlanetIceAtmopshere
+^table-Atmopshere
 
-## Oracle: Ice: Settlements
-### Oracle: Settlements: Terminus
+## Oracle: Ice Settlements
+### Oracle: Settlements - Terminus
+> [!mechanics]- | Roll > %%GetDice%% | Guidance
+> Choose or roll on possible settlements located on this planet. ^guidance-Settlement-Terminus
+
 | 1d100 | Result |
 |:---:|:--- |
 | 1-50 | None |
@@ -35,9 +51,12 @@ A world blanketed in snow, winter has come and never leaves.  Vast tundras spra
 | 61-80 | Planetside settlement |
 | 81-92 | Multiple settlements |
 | 93-100 | Settlements in conflict |
-^table-ISSF-Core1-0-OclPlanetIceSettlementTerminus
+^table-Settlement-Terminus
 
-### Oracle: Settlements: Outlands
+### Oracle: Settlements - Outlands
+> [!mechanics]- | Roll > %%GetDice%% | Guidance
+> Choose or roll on possible settlements located on this planet. ^guidance-Settlement-Terminus
+
 | 1d100 | Result |
 |:---:|:--- |
 | 1-75 | None |
@@ -45,17 +64,23 @@ A world blanketed in snow, winter has come and never leaves.  Vast tundras spra
 | 84-95 | Planetside settlement |
 | 96-98 | Multiple settlements |
 | 99-100 | Settlements in conflict |
-^table-ISSF-Core1-0-OclPlanetIceSettlementOutlands
+^table-Settlement-Outlands
 
-### Oracle: Settlements: Expanse
+### Oracle: Settlements - Expanse
+> [!mechanics]- | Roll > %%GetDice%% | Guidance
+> Choose or roll on possible settlements located on this planet. ^guidance-Settlement-Terminus
+
 | 1d100 | Result |
 |:---:|:--- |
 | 1-90 | None |
 | 91-96 | Orbital settlement |
 | 97-100 | Planetside settlement |
-^table-ISSF-Core1-0-OclPlanetIceSettlementExpanse
+^table-Settlement-Expanse
 
-## Oracle: Observed From Space
+## Oracle: Ice Observed From Space {1-2}
+> [!mechanics]- | Roll > %%GetDice%% | Guidance
+> When first approaching a planet, envision at a board characteristic of the planet. ^guidance-ObservedFromSpace
+
 | 1d100 | Result |
 |:---:|:--- |
 | 1-11 | Feeble sunlight |
@@ -66,11 +91,14 @@ A world blanketed in snow, winter has come and never leaves.  Vast tundras spra
 | 56-66 | Supersized ice volcano |
 | 67-77 | Vibrantly colored ice |
 | 78-88 | World-spanning ice canyon |
-| 89-98 | ▶[[OCL_Core#Oracle Descriptor\|Descriptor]] + [[OCL_Core#Oracle Focus\|Focus]] |
-| 99-100 | ▶[[OCL_Vault-Create#Oracle Precursor Vault Outer First Look\|Precursor Vault (orbital)]] |
-^table-ISSF-Core1-0-OclPlanetIceObservedFromSpace
+| 89-98 | ▶[[OCL_Core_Descriptor-Focus#Oracle Descriptor\|Descriptor]] + [[OCL_Core_Descriptor-Focus#Oracle Focus\|Focus]] |
+| 99-100 | ▶[[OCL_Vault-Exterior#Oracle Precursor Vault Outer First Look\|Precursor Vault (orbital)]] |
+^table-ObservedFromSpace
 
-## Oracle: Planetside Feature
+## Oracle: Ice Planetside Feature {1-2}
+> [!mechanics]- | Roll > %%GetDice%% | Guidance
+> To begin exploration on a planet, generate one or two dominate feature's. If your exploration is prolonged morph these features using the [[OCL_Core_Descriptor-Focus#Oracle Descriptor|Descriptor]] and [[OCL_Core_Descriptor-Focus#Oracle Focus|Focus]] oracles for prompts on variety. ^guidance-PlanetsideFeature
+
 | 1d100 | Result |
 |:---:|:--- |
 | 1-7 | Abyssal ice fissures |
@@ -86,11 +114,14 @@ A world blanketed in snow, winter has come and never leaves.  Vast tundras spra
 | 71-77 | Subsurface liquid oceans |
 | 78-84 | Vibrant auroras |
 | 85-91 | Wind-carved ice formations |
-| 92-98 | ▶[[OCL_Core#Oracle Descriptor\|Descriptor]] + [[OCL_Core#Oracle Focus\|Focus]] |
-| 99-100 | ▶[[OCL_Vault-Create#Oracle Precursor Vault Outer First Look\|Precursor Vault (planetside)]] |
-^table-ISSF-Core1-0-OclPlanetIceFeature
+| 92-98 | ▶[[OCL_Core_Descriptor-Focus#Oracle Descriptor\|Descriptor]] + [[OCL_Core_Descriptor-Focus#Oracle Focus\|Focus]] |
+| 99-100 | ▶[[OCL_Vault-Exterior#Oracle Precursor Vault Outer First Look\|Precursor Vault (planetside)]] |
+^table-PlanetsideFeature
 
-## Oracle: Life
+## Oracle: Ice Life
+> [!mechanics]- | Roll > %%GetDice%% | Guidance
+> The general state of life currently on this planet. There may be a hidden feature given enough exploration that could contradict this result. ^guidance-Life
+
 | 1d100 | Result |
 |:---:|:--- |
 | 1-20 | None |
@@ -99,9 +130,12 @@ A world blanketed in snow, winter has come and never leaves.  Vast tundras spra
 | 71-90 | Diverse |
 | 91-97 | Bountiful |
 | 98-100 | Overrun |
-^table-ISSF-Core1-0-OclPlanetIceLife
+^table-Life
 
-## Oracle: Sample Names
+## Oracle: Ice Sample Names
+> [!mechanics]- | Roll > %%GetDice%% | Guidance
+> Sample names that are suited to this planet type. Feel free to mix and match or create your own. ^guidance-Names
+
 | 1d100 | Result |
 |:---:|:--- |
 | 1-5 | Beira |
@@ -124,10 +158,11 @@ A world blanketed in snow, winter has come and never leaves.  Vast tundras spra
 | 86-90 | Taiga |
 | 91-95 | Thule |
 | 96-100 | Varnholme |
-^table-ISSF-Core1-0-OclPlanetIceNames
-
+^table-Names
 
 ## Tags
-#Pedia/Oracles/Planet 
+| Previous Page | Tags | Next Page |
+|:--- |:---:| ---:|
+| **[[OCL_Planet-Grave\|Planet: Grave Oracle]]** | #Pedia/Oracles/Planet | **[[OCL_Planet-Jovian\|Planet: Jovian Oracle]]** |
 
 <font size=-2>This work is based on Ironsworn: Starforged (found at [www.ironswornrpg.com](http://www.ironswornrpg.com)), created by Shawn Tomkin, and licensed for our use under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license  (creativecommons.org/licenses/by-nc-sa/4.0/).</font>

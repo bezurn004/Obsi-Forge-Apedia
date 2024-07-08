@@ -1,25 +1,44 @@
 ---
-Alias: "Make a Discovery (move)"
+## Source
+SourceMaterial: "Ironsworn: Starforged"
+SourceAuthor: "Shawn Tompkin"
+SourceLink: 
+
+## Page
+aliases:
+  - "Make a Discovery (move)"
 PageType: Move
 PageCategory: Exploration
+PageOrder: 3
+
+## Oracle
+MoveName: "Make a Discovery"
 InlineCmd: MAD
 Trigger: "When your exploration of a waypoint uncovers something wondrous"
 RollType: Oracle
 RollTable: Oracle/MakeDiscovery
+ReferencedMoves: 
+  - [[MV_Explore a Waypoint]]
 ---
 # [[_Moves Index|Moves]] - [[_Exploration Moves|Exploration]]:  Make a Discovery
-
 ## Make A Discovery: Move Card
 >[!abstract]  Trigger and Preparation
 >When your exploration of a waypoint uncovers something wondrous.  
->This move can only be made after rolling a **Match on a Strong Hit** on the move [[MV_Explore a Waypoint|Explore a Waypoint]]...
+>This move can only be made after rolling a **Match on a Strong Hit** on the move [[MV_Explore a Waypoint|Explore a Waypoint]]... ^trigger
 
 > [!oracle] Create a positive encounter
-> 1. Roll or choose one from the [[MV_Make a Discovery#Make a Discovery Table|Make a Discovery Oracle]]
+> 1. Roll or choose one from the table below
 > 2. Envision its nature and interact with how it relates to the setting
 > 3. You and your allies mark +2 ticks on your discoveries legacy track
-> >[!quote] Narrative
-> Envision how this discovery deepen your understanding of the setting, introduce revelations that may contradict accepted truths, or reveal a rare and valuable treasure.
+> > ![[#^table-make-a-discovery]]
+>
+> >[!cite]- Narrative
+> Envision how this discovery deepen your understanding of the setting, introduce revelations that may contradict accepted truths, or reveal a rare and valuable treasure. ^oracle-roll
+
+## Full Description
+You may make this move only when you [[MV_Explore a Waypoint|Explore a Waypoint]] and roll a strong hit with a match. This represents uncovering something extraordinary, the nature of which you’ll define by choosing or rolling on the table. This is a dramatic, rare event, worthy of focus in your story. Take a moment to envision the result or talk it through with others at your table. The discovery should deepen your understanding of the setting, introduce revelations that may contradict accepted truths, or reveal a rare and valuable treasure. 
+
+Once you’ve established the nature of the discovery and interacted with it in the fiction, you and your allies may mark two ticks on your ==discoveries legacy track==.
 
 ### Make a Discovery Table
 | Roll | Result |
@@ -47,31 +66,29 @@ RollTable: Oracle/MakeDiscovery
 | 87-88 | Safeguarded or idyllic location |
 | 89-90 | Visions or prophesies of the future |
 | 91-100 | Roll twice |
-
-## Full Description
-You may make this move only when you [[MV_Explore a Waypoint|Explore a Waypoint]] and roll a strong hit with a match. This represents uncovering something extraordinary, the nature of which you’ll define by choosing or rolling on the table. This is a dramatic, rare event, worthy of focus in your story. Take a moment to envision the result or talk it through with others at your table. The discovery should deepen your understanding of the setting, introduce revelations that may contradict accepted truths, or reveal a rare and valuable treasure. 
-
-Once you’ve established the nature of the discovery and interacted with it in the fiction, you and your allies may mark two ticks on your discoveries legacy track.
+^table-make-a-discovery
 
 ## Related Assets
 ```dataview
 TABLE without ID
-	link(file.link, alias) As "Asset Name",
+	link(file.link, AssetName) As "Asset Name",
 	PageCategory As "Asset Category"
-WHERE contains(PageType, "Asset") & contains(this.file.inlinks, file.link)
+WHERE contains(PageType, "Asset") & contains(this.file.inlinks, file.link) & !contains(PageType, "Index") & !contains(PageCategory, "Index")
 SORT PageCategory asc, file.name asc
 ```
 
 ## Related Moves
 ```dataview
 TABLE without ID
-	link(file.link, alias) As "Move Name",
+	link(file.link, MoveName) As "Move Name",
 	PageCategory As "Move Category"
-WHERE contains(PageType, "Move") & contains(this.file.inlinks, file.link) & !contains(PageType, "Index")
+WHERE contains(PageType, "Move") & contains(ReferencedMoves, this.file.name) & !contains(PageType, "Index") & !contains(PageCategory, "Index")
 SORT PageCategory asc, file.name asc
 ```
 
 ## Tags
-#Pedia/Moves/Exploration 
+| Previous Page | Tags | Next Page |
+|:--- |:---:| ---:|
+| **[[MV_Explore a Waypoint\|Explore a Waypoint (move)]]** | #Pedia/Moves/Exploration | **[[MV_Confront Chaos\|Confront Chaos (move)]]** |
 
 <font size=-2>This work is based on Ironsworn: Starforged (found at [www.ironswornrpg.com](http://www.ironswornrpg.com)), created by Shawn Tomkin, and licensed for our use under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license  (creativecommons.org/licenses/by-nc-sa/4.0/).</font>

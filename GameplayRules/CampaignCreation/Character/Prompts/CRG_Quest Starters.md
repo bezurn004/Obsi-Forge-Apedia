@@ -1,8 +1,14 @@
 ---
-Name: "Quest Starters"
-Alias: "Quest Starters"
+## Source
+SourceMaterial: "Ironsworn: Starforged"
+SourceAuthor: "Shawn Tompkin"
+SourceLink: 
+
+## Page
+aliases:
+  - "Quest Starters"
 PageType: Campaign
-PageCategory: QuestStarters
+PageCategory: "Quest Starters"
 ---
 # [[_CRG_Create Your Character|Create Your Character Summary]]: Quest Starters
 
@@ -149,6 +155,10 @@ A group of settlers established a home in an abandoned orbital station under the
 Rumors persist of a fleet of ghost ships, bound for settled domains. Who is said to lead this corrupted armada? Why do they seek revenge against the living?
 
 ## Tags
+| Previous Page | Tags | Next Page |
+|:--- |:---:| ---:|
+| **LINK** |  | **LINK** |
+
 #Pedia/Campaign/Truths  -  #Pedia/Campaign/Character 
 
 <font size=-2>This work is based on Ironsworn: Starforged (found at [www.ironswornrpg.com](http://www.ironswornrpg.com)), created by Shawn Tomkin, and licensed for our use under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license  (creativecommons.org/licenses/by-nc-sa/4.0/).</font>

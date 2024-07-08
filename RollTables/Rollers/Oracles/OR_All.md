@@ -16,8 +16,7 @@ This page may be slow to load due to the number of dice formulas.  Please use th
 >
 >
 > | [[OCL_Core#Oracle Action\|Action]] | [[OCL_Core#Oracle Theme\|Theme]] | [[OCL_Core#Oracle Descriptor\|Descriptor]] | [[OCL_Core#Oracle Focus\|Focus]] |
-> | --- | --- | --- | --- |
-> | `dice: [[OT_ISSF_Core#^OclCoreAction]]` | `dice: [[OT_ISSF_Core#^OclCoreTheme]]` | `dice: [[OT_ISSF_Core#^OclCoreDescritpor]]` | `dice: [[OT_ISSF_Core#^OclCoreFocus]]` |
+> | [](OCL_Core.md#Oracle%20Action) [[[](OCL_Core.md#Oracle%20Theme) `d[](OCL_Core.md#Oracle%20Descriptor)ce:[](OCL_Core.md#Oracle%20Focus)or]]` | `dice: [[OT_ISSF_Core#^OclCoreFocus]]` |
 > 
 > ### [[MV_Ask the Oracle|Ask the Oracle (move)]]
 > 
@@ -60,11 +59,11 @@ This page may be slow to load due to the number of dice formulas.  Please use th
 > > 
 > > | | |
 > > | --- | --- |
-> > | **[[OCL_Creature-Location-Size#Oracle Creature Location\|Location]]** | `dice: [[OT_ISSF_Creatures#^OclCreatureLocation]]` |
-> > | **[[OCL_Creature-Location-Size#Oracle Creature Scale\|Scale]]** | `dice: [[OT_ISSF_Creatures#^OclCreatureScale]]` |
+> > | **[[OCL_Creature-Environment-Scale#Oracle Creature Location|Location]]** | `dice: [[OT_ISSF_Creatures#^OclCreatureLocation]]` |
+> > | **[[OCL_Creature-Environment-Scale#Oracle Creature Scale|Scale]]** | `dice: [[OT_ISSF_Creatures#^OclCreatureScale]]` |
 > > 
 > > > [!danger]- **Ultra-Scale**
-> > > **[[OCL_Creature-Location-Size#Oracle Creature Ultra Scale\|Ultra Scale]]** |  `dice: [[OT_ISSF_Creatures#^OclCreatureUltraScale]]`
+> > > **[[OCL_Creature-Environment-Scale#Oracle Creature Ultra Scale|Ultra Scale]]** |  `dice: [[OT_ISSF_Creatures#^OclCreatureUltraScale]]`
 > 
 > > [!success]- **Basic Form**
 > > 
@@ -532,7 +531,7 @@ This page may be slow to load due to the number of dice formulas.  Please use th
 > >
 > > **[[OCL_Stellar Object#Oracle Stellar Object\|Stellar Object]]** | `dice: [[OT_ISSF_Space#^OclSpaceStellarObject]]`
 > > 
-> > | [[_OCL_Space Encounters#Oracle Space Sighting Terminus\|Sighting - Terminus]] | [[_OCL_Space Encounters#Oracle Space Sighting Outlands\|Sighting - Outlands]] | [[_OCL_Space Encounters#Oracle Space Sighting Expanse\|Sighting - Expanse]] |
+> > | [](OCL_Stellar-Object.md#Oracle%20Stellar%20Object)ng - Terminus]] | [[_OCL_Space-Sightings#Oracle Space Sighting Outlands|Sighting - Outlands]] | [[_OCL_Space-Sightings#Oracle Space Sighting Expanse|Sighting - Expanse]] |
 > > | --- | --- | --- |
 > > | `dice: [[OT_ISSF_Space#^OclSpaceSighting-Terminus]]` | `dice: [[OT_ISSF_Space#^OclSpaceSighting-Outlands]]` | `dice: [[OT_ISSF_Space#^OclSpaceSighting-Expanse]]` |
 >
@@ -540,7 +539,7 @@ This page may be slow to load due to the number of dice formulas.  Please use th
 > >
 > > |  |  |
 > > | --- | --- |
-> > | **[[OCL_Spaceborne Peril#Oracle Spaceborne Peril\|Space Peril]]** | `dice: [[OT_ISSF_Space#^OclSpacePeril]]` |
+> > | **[[OCL_Spacee-Fortune#Oracle Spaceborne Peril|Space Peril]]** | `dice: [[OT_ISSF_Space#^OclSpacePeril]]` |
 > > | **[[OCL_Spaceborne Opportunity#Oracle Spaceborne Opportunity\|Space Opportunity]]** | `dice: [[OT_ISSF_Space#^OclSpaceOpportunity]]` |
 
 ^OR-Space-Callout
@@ -548,9 +547,7 @@ This page may be slow to load due to the number of dice formulas.  Please use th
 > [!oracle]- **Starships**
 > 
 > [[OCL_Starship-Name#Oracle Starship Name\|Starship Name]]: `dice: [[OT_ISSF_Starships#^OclStarshipNames]]`
-> > [!summary]- **Type and Fleet**
-> >
-> > | [[OCL_Starship-Type-Fleet#Oracle Starship Type\|Type]] | [[OCL_Starship-Type-Fleet#Oracle Starship Fleet\|Fleet]] |
+> [](OCL_Starship-Name.md#Oracle%20Starship%20Name)-Creation#Oracle Starship Type|Type]] | [[OCL_Starship-Creation#Oracle Starship Fleet|Fleet]] |
 > > | --- | --- |
 > > | `dice: [[OT_ISSF_Starships#^OclStarshipTypes]]` | `dice: [[OT_ISSF_Starships#^OclStarshipFleet]]`
 >
@@ -577,16 +574,12 @@ This page may be slow to load due to the number of dice formulas.  Please use th
 > > | --- | --- |
 > > | **[[OCL_Vault-Create#Oracle Precursor Vault Location\|Location]]** | `dice: [[OT_ISSF_Vaults#^OclVaultLocation]]` |
 > > | **[[OCL_Vault-Create#Oracle Precursor Vault Scale\|Scale]]** | `dice: [[OT_ISSF_Vaults#^OclVaultScale]]` |
-> > | **[[OCL_Vault-Create#Oracle Precursor Vault Form\|Form]]**  | `dice: [[OT_ISSF_Vaults#^OclVaultForm]]` |
-> > | **[[OCL_Vault-Create#Oracle Precursor Vault Shape\|Shape]]**  | `dice: [[OT_ISSF_Vaults#^OclVaultShape]]` |
-> > | **[[OCL_Vault-Create#Oracle Precursor Vault Material\|Materila]]** | `dice: [[OT_ISSF_Vaults#^OclVaultMaterial]]` |
-> > | **[[OCL_Vault-Create#Oracle Precursor Vault Outer First Look\|Outer First Look]]** | `dice: [[OT_ISSF_Vaults#^OclVaultOuterFirstLook]]` |
+> > | **[](OCL_Vault-Exterior.md#Oracle%20Precursor%20Vault%20Location)ice: [[OT_ISSF_Vaults#^OclVaultForm]]` |
+> > | **[[OCL_Vault-Exterior#Oracle Precursor Vault Scale|Shape]]**  | `dice: [[OT_ISSF_Vaults#^OclVaultShape]]` |
+> > | **[](OCL_Vault-Exterior.md#Oracle%20Precursor%20Vault%20Form)terila]]** | `dice: [[OT_ISSF_Vaults#^OclVaultMaterial]]` |
+> > | **[](OCL_Vault-Exterior.md#Oracle%20Precursor%20Vault%20Shape)ok\|Outer First Look]]** | `dice: [[OT_ISSF_Vaults#^OclVaultOuterFirstLook]]` |
 >
-> > [!success]- **Interior**
-> >
-> > |  |  |
-> > | --- | --- |
-> > | **[[OCL_Vault-Interior#Oracle Precursor Vault Interior First Look\|Inner First Look]]** | `dice: [[OT_ISSF_Vaults#^OclVaultInnerFirstLook]]` |
+> > [![](OCL_Vault-Exterior.md#Oracle%20Precursor%20Vault%20Material)0First%20Look)nterior#Oracle Precursor Vault Interior First Look\|Inner First Look]]** | `dice: [[OT_ISSF_Vaults#^OclVaultInnerFirstLook]]` |
 > > | **[[OCL_Vault-Interior#Oracle Precursor Vault Interior Feature\|Interior Feature]]** |  `dice: [[OT_ISSF_Vaults#^OclVaultInteriorFeature]]` |
 > > | **[[OCL_Vault-Interior#Oracle Precursor Vault Interior Peril\|Interior Peril]]** | `dice: [[OT_ISSF_Vaults#^OclVaultInteriorPeril]]` |
 > > | **[[OCL_Vault-Interior#Oracle Precursor Vault Interior Opportunity\|Interior Opportunity]]** | `dice: [[OT_ISSF_Vaults#^OclVaultInteriorOpportunity]]` |

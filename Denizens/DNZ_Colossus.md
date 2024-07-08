@@ -2,30 +2,42 @@
 ## Source
 SourceMaterial: "Ironsworn: Starforged"
 SourceAuthor: "Shawn Tompkin"
+SourceLink: 
 
 ## Page
-Alias: Colossus (denizen)
-PageType: Denizen
-PageCategory: Construct
+aliases:
+  - Colossus (denizen)
+PageType: "Foes and Encounters"
+PageCategory: Denizen
+PageOrder: 6
 
 ## Denizen
 DenizenName: Colossus
 DenizenRankNum: 5
+Summary: "Ancient mechanical giants"
+Nature: Machine
 Disposition: Neutral
+Features: ["Ancient, mechanical giants","Bipedal form","Etched with cryptic runes"]
+Drives: ["Slumber","When awakened, carry out inscrutable purpose"]
+Tactics: ["Ignore puny foes","Unleash destructive energy attack","Transform to reveal new capabilities"]
 DenizenVarients:
  - Devotant of the Colossus
 VarientRankNums:
  - 2
 ---
-# [[_Denizen Index|Denizens Summary]]: Colossus
+# [[_GNPC_Foes-Encounters|Foes and Encounters]] - [[_Denizen Index|Denizens]]: Colossus
 ## Components
-**Rank: ** Epic (5)
+| **Rank** | Nature | Summary | Disposition |
+| :---: | --- | --- | --- |
+| `=this.DenizenRankNum` | `=this.Nature` | `=this.Summary` | `=this.Disposition`  |
+^table-components
 
-| Features | Drives | Tactics |
-| --- | --- | --- |
-| Ancient, mechanical giants | Slumber | Ignore puny foes |
-| Bipedal form | When awakened, carry out inscrutable purpose | Unleash destructive energy attacks |
-| Etched with cryptic runes |  | Transform to reveal new capabilities |
+|  |  |
+| --- | --- |
+| **Features** | - Ancient, mechanical giants<br>- Bipedal form<br>- Etched with cryptic runes |
+| **Drives** | - Slumber<br>- When awakened, carry out inscrutable purpose |
+| **Tactics** | - Ignore puny foes<br>- Unleash destructive energy attack<br>- Transform to reveal new capabilities |
+^table-fdt
 
 ## Description
 The colossi are titanic humanoid machines created by a long-dead civilization. We do not know their original purpose. Perhaps they were weapons built for conquest in a ancient war, or mighty devices designed to explore new worlds.
@@ -41,10 +53,11 @@ Rarely, a colossus awakens to carry out its inscrutable purpose. They stride acr
 Those who now worship the colossi believe they are the mechanized embodiment of long-forgotten gods, and dedicate their lives to serving them. Many of these cultists are sworn guardians for dormant colossi. Others scour precursor lore, gather relics, and search vaults for the means of awakening them. If they succeed, our doom may be at hand.
 
 ### Quest Starter
-> A faction discovered a heavily damaged but dormant colossus, gaining access for the first time to the internal systems of one of these great machines. The researchers believe it can be controlled by a human through a neural connection, and are studying the means of awakening it with this new programming. What purpose do they have for it? Are you sworn to aid them or stop them?
+> A faction discovered a heavily damaged but dormant colossus, gaining access for the first time to the internal systems of one of these great machines. The researchers believe it can be controlled by a human through a neural connection, and are studying the means of awakening it with this new programming. What purpose do they have for it? Are you sworn to aid them or stop them? ^QuestStarter
 
 ## Tags
-#Pedia/Denizens
-
+| Previous Page | Tags | Next Page |
+|:--- |:---:| ---:|
+| **[[DNZ_Chiton\|Chiton (denizen)]]** | #Pedia/Denizens | **[[DNZ_Crystallid\|Crystallid (denizen)]]** |
 
 <font size=-2>This work is based on Ironsworn: Starforged (found at [www.ironswornrpg.com](http://www.ironswornrpg.com)), created by Shawn Tomkin, and licensed for our use under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license  (creativecommons.org/licenses/by-nc-sa/4.0/).</font>

@@ -2,30 +2,42 @@
 ## Source
 SourceMaterial: "Ironsworn: Starforged"
 SourceAuthor: "Shawn Tompkin"
+SourceLink: 
 
 ## Page
-Alias: "Faction Types Oracle"
-PageType: "Oracle"
-PageCategory: "Faction"
+aliases:
+  - "Faction Types Oracle"
+  - "Faction Type - Dominion Oracle"
+  - "Faction Dominion Leadership Oracle"
+  - "Faction Type - Guild Oracle"
+  - "Faction Type - Fringe Group"
+PageType: Oracle
+PageCategory: Faction
+PageOrder: 1
 
 ## Oracle
 Oracle: Faction
 OracleFocus: Types
-OracleSort: 2
+OracleDescriptor: "Create a faction by choosing the type of organization it is modeled after."
 ---
  # [[_OCL_Index|Oracle]] - [[_OCL_Factions|Faction]]: Types
-Text #incomplete
+Create a faction by choosing the type of organization it is modeled after.
 
 ## Oracle: Faction Type
+> [!mechanics]- | Roll > %%GetDice%% | Guidance
+> The Type tells you the general type of organization it is. After you know their type, you then roll on the corresponding oracles. Note that for the Dominion type, you roll on both the Dominion and Leadership oracles. ^guidance-OclFactionTypes
+
 | 1d100 | Result |
 |:---:|:--- |
 | 1-40 | ▶[[OCL_Faction-Types#Oracle Faction Dominion\|Dominion]] - Governing power |
 | 41-70 | ▶[[OCL_Faction-Types#Oracle Faction Guild\|Guild]] - Organization of specialists |
 | 71-100 | ▶[[OCL_Faction-Types#Oracle Faction Fringe Group\|Fringe Group]] - Band of outlaws, outcasts, or rogues |
-^table-ISSF-Core1-0-OclFactionType
-
+^table-OclFactionTypes
 
 ## Oracle: Faction Dominion
+> [!mechanics]- | Roll > %%GetDice%% | Guidance
+> The tenants and focus' for this Dominion faction. ^guidnace-OclFactionType-Dominion
+
 | 1d100 | Result |
 |:---:|:--- |
 | 1-5 | Agriculture |
@@ -52,9 +64,12 @@ Text #incomplete
 | 88-91 | Treachery |
 | 92-96 | Warface |
 | 97-100 | Wealth |
-^table-ISSF-Core1-0-OclFactionDominion
+^table-OclFactionType-Dominion
 
-## Oracle: Faction Dominion: Leadership
+## Oracle: Faction Dominion Leadership
+> [!mechanics]- | Roll > %%GetDice%% | Guidance
+> For Dominion type Factions generate a leadership structure. If you choose, you could add this to other Faction types. ^guidance-OclFactionLeadership
+
 | 1d100 | Result |
 |:---:|:--- |
 | 1-5 | Anarchist |
@@ -67,9 +82,12 @@ Text #incomplete
 | 81-90 | Elected representatives |
 | 91-95 | Machine intelligence |
 | 96-100 | Varied / decentralized |
-^table-ISSF-Core1-0-OclFactionLeadership
+^table-OclFactionDomionLeadership
 
 ## Oracle: Faction Guild
+> [!mechanics]- | Roll > %%GetDice%% | Guidance
+> The membership focus for this Guild faction. ^guidance-OclFactionType-Guild
+
 | 1d100 | Result |
 |:---:|:--- |
 | 1-5 | Assassins |
@@ -87,9 +105,12 @@ Text #incomplete
 | 81-85 | Researchers |
 | 86-90 | Spies |
 | 91-100 | Roll twice |
-^table-ISSF-Core1-0-OclFactionGuild
+^table-OclFactionType-Guild
 
 ## Oracle: Faction Fringe Group
+> [!mechanics]- | Roll > %%GetDice%% | Guidance
+> The reason this Fringe Group faction lives on the edges of structured society due to their aberrant or outlawed nature. ^guidance-OclFactionType-FringeGroup
+
 | 1d100 | Result |
 |:---:|:--- |
 | 1-5 | Cultists |
@@ -104,9 +125,11 @@ Text #incomplete
 | 76-85 | Scavengers |
 | 86-95 | Smugglers |
 | 96-100 | Roll twice |
-^table-ISSF-Core1-0-OclFactionFringeGroup
+^table-OclFactionType-FringeGroup
 
 ## Tags
-#Pedia/Oracles/Factions 
+| Previous Page | Tags | Next Page |
+|:--- |:---:| ---:|
+| **[[_OCL_Factions\|Factions Oracle]]** | #Pedia/Oracles/Factions | **[[OCL_Faction-Name\|Faction Name Oracle]]** |
 
 <font size=-2>This work is based on Ironsworn: Starforged (found at [www.ironswornrpg.com](http://www.ironswornrpg.com)), created by Shawn Tomkin, and licensed for our use under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license  (creativecommons.org/licenses/by-nc-sa/4.0/).</font>

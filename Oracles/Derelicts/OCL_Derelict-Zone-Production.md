@@ -2,20 +2,31 @@
 ## Source
 SourceMaterial: "Ironsworn: Starforged"
 SourceAuthor: "Shawn Tompkin"
+SourceLink: 
 
 ## Page
-Alias: "Derelict:Production Oracle"
-PageType: "Oracle"
-PageCategory: "Derelict"
+aliases:
+  - "Derelict Zone: Production Oracle"
+  - "Derelict Zone: Production - Area Oracle"
+  - "Derelict Zone: Production - Feature Oracle"
+  - "Derelict Zone: Production - Peril Oracle"
+  - "Derelict Zone: Production - Opportunity Oracle"
+PageType: Oracle
+PageCategory: Derelict
+PageOrder: 10
 
 ## Oracle
 Oracle: Derelict
-OracleFocus: Zone:Production
+OracleFocus: "Zone: Production"
+OracleDescriptor: "_Crates strewn about while still workshops lie unutilized._"
 ---
 # [[_OCL_Index|Oracle]] - [[_OCL_Derelicts|Derelict]] - [[OCL_Derelict_Zones|Zone]]: Production
+_Crates strewn about while still workshops lie unutilized._
 
+## Oracle: Derelict Zone Production - Area
+> [!mechanics]- | Roll > %%GetDice%% | Guidance
+> ![[GSRY_Definitions#^gsry-OclSite-Area]] ^guidance-OclSite-Area
 
-## Oracle: Derelict Zone Production: Area
 | 1d100 | Result |
 |:---:|:--- |
 | 1-8 | Airlock or staging area |
@@ -30,9 +41,12 @@ OracleFocus: Zone:Production
 | 73-80 | Scrapyard |
 | 81-85 | New zone |
 | 86-100 | New zone via ⏵[[OCL_Derelict-Zone-Access\|Access]] |
-^table-ISSF-Core1-0-OclDerelictZoneProductionArea
+^table-ISSF-Core1-0-OclDerelictZone-Production-Area
 
-## Oracle: Derelict Zone Production: Feature
+## Oracle: Derelict Zone Production - Feature
+> [!mechanics]- | Roll > %%GetDice%% | Guidance
+> ![[GSRY_Definitions#^gsry-OclSite-Feature]] ^guidance-OclSite-Feature
+
 | 1d100 | Result |
 |:---:|:--- |
 | 1-8 | Cargo lifts |
@@ -46,10 +60,13 @@ OracleFocus: Zone:Production
 | 65-72 | Tools |
 | 73-80 | Vats of chemicals or gas |
 | 81-88 | Written manifest |
-| 89-100 | ⏵[[OCL_Core#Oracle Descriptor\|Descriptor]] + [[OCL_Core#Oracle Focus\|Focus]] |
-^table-ISSF-Core1-0-OclDerelictZoneProductionFeature
+| 89-100 | ⏵[[OCL_Core_Descriptor-Focus#Oracle Descriptor\|Descriptor]] + [[OCL_Core_Descriptor-Focus#Oracle Focus\|Focus]] |
+^table-ISSF-Core1-0-OclDerelictZone-Production-Feature
 
-## Oracle: Derelict Zone Production: Peril
+## Oracle: Derelict Zone Production - Peril
+> [!mechanics]- | Roll > %%GetDice%% | Guidance
+> ![[GSRY_Definitions#^gsry-OclSite-Peril]] ^guidance-OclSite-Peril
+
 | 1d100 | Result |
 |:---:|:--- |
 | 1-10 | Claustrophobic spaces |
@@ -61,11 +78,14 @@ OracleFocus: Zone:Production
 | 61-70 | Malfunctioning automation |
 | 71-80 | Rivals seek to secure these resources |
 | 81-90 | Signs of an unearthed or manufactured threat |
-| 91-98 | ⏵[[OCL_Core#Oracle Action\|Action]] + [[OCL_Core#Oracle Theme\|Theme]] |
+| 91-98 | ⏵[[OCL_Core_Action-Theme#Oracle Action\|Action]] + [[OCL_Core_Action-Theme#Oracle Theme\|Theme]] |
 | 99-100 | Roll twice |
-^table-ISSF-Core1-0-OclDerelictZoneProductionPeril
+^table-ISSF-Core1-0-OclDerelictZone-Production-Peril
 
-## Oracle: Derelict Zone Production: Opportunity 
+## Oracle: Derelict Zone Production - Opportunity
+> [!mechanics]- | Roll > %%GetDice%% | Guidance
+![[GSRY_Definitions#^gsry-OclSite-Opportunity]] ^guidance-OclSite-Opportunity
+
 | 1d100 | Result |
 |:---:|:--- |
 | 1-20 | Helpful vehicle or transport |
@@ -73,9 +93,11 @@ OracleFocus: Zone:Production
 | 41-60 | Salvageable materials |
 | 61-80 | Useful equipment |
 | 81-100 | Valuable cargo |
-^table-ISSF-Core1-0-OclDerelictZoneProductionOpportunity
+^table-ISSF-Core1-0-OclDerelictZone-Production-Opportunity
 
 ## Tags
-#Pedia/Oracles/Derelicts 
+| Previous Page | Tags | Next Page |
+|:--- |:---:| ---:|
+| **[[OCL_Derelict-Zone-Medical\|Derelict Zone: Medical Oracle]]** | #Pedia/Oracles/Derelicts | **[[OLC_Derelict-Zone-Research\|Derelict Zone: Research Oracle]]** |
 
 <font size=-2>This work is based on Ironsworn: Starforged (found at [www.ironswornrpg.com](http://www.ironswornrpg.com)), created by Shawn Tomkin, and licensed for our use under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license  (creativecommons.org/licenses/by-nc-sa/4.0/).</font>

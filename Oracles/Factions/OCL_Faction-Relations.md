@@ -2,22 +2,29 @@
 ## Source
 SourceMaterial: "Ironsworn: Starforged"
 SourceAuthor: "Shawn Tompkin"
+SourceLink: 
 
 ## Page
-Alias: "Faction Relations Oracle"
-PageType: "Oracle"
-PageCategory: "Faction"
+aliases:
+  - "Faction Relations Oracle"
+  - "Faction Influence Oracle"
+  - "Faction Relationship Oracle"
+  - "Faction Rumors Oracle"
+PageType: Oracle
+PageCategory: Faction
+PageOrder: 4
 
 ## Oracle
 Oracle: Faction
 OracleFocus: Relations
-OracleSort: 3
+OracleDescriptor: "The overall influence of a Faction throughout the Forge. How a Faction relates to another in their Relationships and what Rumors have been heard through your adventures through the Forge."
 ---
  # [[_OCL_Index|Oracle]] - [[_OCL_Factions|Faction]]: Relations
-
+The overall influence of a Faction throughout the Forge. Also, how a Faction relates to another in their Relationships and what Rumors have been heard through your adventures through the Forge.
 
 ## Oracle: Faction Influence
-Text #incomplete
+> [!mechanics]- | Roll > %%GetDice%% | Guidance
+> How well known and how often you may encounter this Faction through your adventures in the Forge. ^guidance-OclFactionInfluence
 
 | 1d100 | Result |
 |:---:|:--- |
@@ -31,7 +38,8 @@ Text #incomplete
 ^table-ISSF-Core1-0-OclFactionInfluence
 
 ## Oracle: Faction Relationship
-Don’t overload your campaign with factions. Instead, focus on your interactions and entanglements with members of a few interesting factions. Then, when you have a question about the relationship of one faction to another, use this table. The result is the commonly understood connection between those factions. Further investigations or events may reveal a deeper or alternate truth.
+> [!mechanics]- | Roll > %%GetDice%% | Guidance
+> Don’t overload your campaign with factions. Instead, focus on your interactions and entanglements with members of a few interesting factions. Then, when you have a question about the relationship of one faction to another, use this table. The result is the commonly understood connection between those factions. Further investigations or events may reveal a deeper or alternate truth. ^guidance-OclFactionRelationship
 
 | 1d100 | Result |
 |:---:|:--- |
@@ -66,7 +74,8 @@ Don’t overload your campaign with factions. Instead, focus on your interaction
 ^table-ISSF-Core1-0-OclFactionRelationship
 
 ## Oracle: Faction Rumors
-Use this table when you are in a position to investigate a faction by uncovering secrets or fishing for gossip.
+> [!mechanics]- | Roll > %%GetDice%% | Guidance
+> Use this table when you are in a position to investigate a faction by uncovering secrets or fishing for gossip. ^guidance-OclFactionRumors
 
 | 1d100 | Result |
 |:---:|:--- |
@@ -102,10 +111,12 @@ Use this table when you are in a position to investigate a faction by uncovering
 | 88-90 | Suffering a shortage of key workers or personnel |
 | 91-93 | Uprising or revolt is brewing from within |
 | 94-96 | Vulnerable to attack or aggression |
-| 97-100 | ▶[[OCL_Core#Oracle Action\|Action]] + [[OCL_Core#Oracle Theme\|Theme]] |
+| 97-100 | ▶[[OCL_Core_Action-Theme#Oracle Action\|Action]] + [[OCL_Core_Action-Theme#Oracle Theme\|Theme]] |
 ^table-ISSF-Core1-0-OclFactionRumors
 
 ## Tags
-#Pedia/Oracles/Factions 
+| Previous Page | Tags | Next Section |
+|:--- |:---:| ---:|
+| **[[OCL_Faction-Motives\|Faction Motives Oracle]]** | #Pedia/Oracles/Factions | **[[_OCL_Derelicts\|Derelicts Oracle]]** |
 
 <font size=-2>This work is based on Ironsworn: Starforged (found at [www.ironswornrpg.com](http://www.ironswornrpg.com)), created by Shawn Tomkin, and licensed for our use under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license  (creativecommons.org/licenses/by-nc-sa/4.0/).</font>

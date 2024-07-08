@@ -2,20 +2,31 @@
 ## Source
 SourceMaterial: "Ironsworn: Starforged"
 SourceAuthor: "Shawn Tompkin"
+SourceLink: 
 
 ## Page
-Alias: "Vault Sanctum Oracle"
-PageType: "Oracle"
-PageCategory: "Vault"
+aliases:
+  - "Vault Sanctum Oracles"
+  - "Vault Sanctum - Feature Oracle"
+  - "Vault Purpose Oracle"
+  - "Vault Sanctum - Peril Oracle"
+  - "Vault Sanctum - Opportunity Oracle"
+PageType: Oracle
+PageCategory: "Precursor Vault"
+PageOrder: 3
 
 ## Oracle
-Oracle: Vault
+Oracle: "Precursor Vault"
 OracleFocus: Sanctum
+OracleDescriptor: "Reveal the final layer of the enigmatic alien precursor vault and it's original purpose."
 ---
  # [[_OCL_Index|Oracle]] - [[_OCL_PrecursorVaults|Precursor Vault]]: Sanctum
-Once your exploration of a precursor vault enters the sanctum, choose or roll on these oracles as your expedition reveals the final layer of the enigmatic precursor vault.
+Reveal the final layer of the enigmatic alien precursor vault and it's original purpose.
 
-## Oracle: Precursor Vault: Sanctum Feature
+## Oracle: Precursor Vault Sanctum Feature
+> [!mechanics]- | Roll > %%GetDice%% | Guidance
+> ![[GSRY_Definitions#^gsry-OclSite-Feature]] ^guidance-OclSite-Feature
+
 | 1d100 | Result |
 |:---:|:--- |
 | 1-2 | Abyssal pit or chasm |
@@ -51,11 +62,51 @@ Once your exploration of a precursor vault enters the sanctum, choose or roll on
 | 83-85 | Visions or reflections of another reality |
 | 86-88 | Warped or misshapen spaces |
 | 89-90 | Whispering voices speak to you |
-| 91-95 | ▶[[OCL_Core#Oracle Descriptor\|Descriptor]] + [[OCL_Core#Oracle Focus\|Focus]] |
+| 91-95 | ▶[[OCL_Core_Descriptor-Focus#Oracle Descriptor\|Descriptor]] + [[OCL_Core_Descriptor-Focus#Oracle Focus\|Focus]] |
 | 96-100 | Roll Twice |
-^table-ISSF-Core1-0-OclPrecursorVaultSanctumFeature
+^table-OclVaultSanctum-Feature
 
-## Oracle: Precursor Vault: Sanctum Peril
+## Oracle: Precursor Vault Purpose
+> [!mechanics]- | Roll > %%GetDice%% | Guidance
+> Because precursor vaults are alien and enigmatic, understanding their ultimate purpose requires investigation and exploration. Use this oracle to reveal the vault’s original function or role at an appropriate point in your survey. This can come as an outcome of completing an expedition, or when your story naturally leads you to a revelation of the site’s nature. ^guidance-OclVaultPurpose
+
+| 1d100 | Result |
+|:---:|:--- |
+| 1-3 | Capture or control of other beings |
+| 4-6 | Command or communication relay |
+| 7-9 | Commemoration of an event |
+| 10-12 | Conduit to mystical powers |
+| 13-16 | Conservation of living specimens |
+| 17-20 | Containment of a powerful being |
+| 21-24 | Containment of dangerous creatures |
+| 25-27 | Containment of weapons |
+| 28-31 | Control of a destructive weapon |
+| 32-34 | Generation of defenses or barriers |
+| 35-38 | Generation or transformation of energy |
+| 39-41 | Harvesting of resources |
+| 42-44 | Interment of the dead |
+| 45-47 | Manipulation of spacetime |
+| 48-50 | Manufacturing of lifeforms |
+| 51-53 | Manufacturing of machines or devices |
+| 54-56 | Passage to another location |
+| 57-59 | Preservation of an ancient intelligence |
+| 60-62 | Preservation of maps or navigational data |
+| 63-66 | Protection of a sacred artifact |
+| 67-69 | Researching science or technology |
+| 70-73 | Safekeeping of cultural records or memories |
+| 74-77 | Shelter for inhabitants |
+| 78-80 | Stockpiling of resources |
+| 81-83 | Surveying or monitoring of a location |
+| 84-87 | Transformation of terrain or environments |
+| 88-90 | Worship of a god or being |
+| 91-95 | ▶[[OCL_Core_Action-Theme#Oracle Action\|Action]] + [[OCL_Core_Action-Theme#Oracle Theme\|Theme]] |
+| 96-100 | Roll twice |
+^table-OclVaultPurpose
+
+## Oracle: Precursor Vault Sanctum Peril
+> [!mechanics]- | Roll > %%GetDice%% | Guidance
+> ![[GSRY_Definitions#^gsry-OclSite-Peril]] ^guidance-OclSite-Peril
+
 | 1d100 | Result |
 |:---:|:--- |
 | 1-5 | Camouflaged or transforming foe reveals itself |
@@ -77,12 +128,14 @@ Once your exploration of a precursor vault enters the sanctum, choose or roll on
 | 81-85 | Sudden structural collapse or failure |
 | 86-90 | Temptations to linger or remain in this site |
 | 91-95 | You are marked by physical corruption or mutation |
-| 96-99 | ▶[[OCL_Core#Oracle Action\|Action]] + [[OCL_Core#Oracle Theme\|Theme]] |
-| 100-100 | Roll twice |
-^table-ISSF-Core1-0-OclPrecursorVaultSanctumPeril
+| 96-99 | ▶[[OCL_Core_Action-Theme#Oracle Action\|Action]] + [[OCL_Core_Action-Theme#Oracle Theme\|Theme]] |
+| 100 | Roll twice |
+^table-OclVaultSanctum-Peril
 
+## Oracle: Precursor Vault Sanctum Opportunity
+> [!mechanics]- | Roll > %%GetDice%% | Guidance
+> ![[GSRY_Definitions#^gsry-OclSite-Opportunity]] ^guidance-OclSite-Opportunity
 
-## Oracle: Precursor Vault: Sanctum Opportunity
 | 1d100 | Result |
 |:---:|:--- |
 | 1-10 | Access to a secret or protected area |
@@ -95,9 +148,11 @@ Once your exploration of a precursor vault enters the sanctum, choose or roll on
 | 71-80 | Foes stand down or give way |
 | 81-90 | Key offers control of a function or aspect of this site |
 | 91-100 | Shortcut or less perilous path speeds your way |
-^table-ISSF-Core1-0-OclPrecursorVaultSanctumOpportunity
+^table-OclVaultSanctumOpportunity
 
 ## Tags
-#Pedia/Oracles/PrecursorVaults 
+| Previous Page | Tags | Next Section |
+|:--- |:---:| ---:|
+| **[[OCL_Vault-Interior\|Precursor Vault Interior Oracles]]** | #Pedia/Oracles/PrecursorVaults | **[[_OCL_LocationThemes\|Location Theme Oracles]]** |
 
-<font size=-2>This work is based on Ironsworn: Starforged (found at [www.ironswornrpg.com](http://www.ironswornrpg.com)), created by Shawn Tomkin, and licensed for our use under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license  (creativecommons.org/licenses/by-nc-sa/4.0/).</font>OCL_Vault
+<font size=-2>This work is based on Ironsworn: Starforged (found at [www.ironswornrpg.com](http://www.ironswornrpg.com)), created by Shawn Tomkin, and licensed for our use under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license  (creativecommons.org/licenses/by-nc-sa/4.0/).</font>

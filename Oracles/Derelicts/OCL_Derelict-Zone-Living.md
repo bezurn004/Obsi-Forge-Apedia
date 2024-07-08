@@ -2,20 +2,31 @@
 ## Source
 SourceMaterial: "Ironsworn: Starforged"
 SourceAuthor: "Shawn Tompkin"
+SourceLink: 
 
 ## Page
-Alias: "Derelict:Living Oracle"
-PageType: "Oracle"
-PageCategory: "Derelict"
+aliases:
+  - "Derelict Zone: Living Oracle"
+  - "Derelict Zone: Living - Area Oracle"
+  - "Derelict Zone: Living - Feature Oracle"
+  - "Derelict Zone: Living - Peril Oracle"
+  - "Derelict Zone: Living - Opportunity Oracle"
+PageType: Oracle
+PageCategory: Derelict
+PageOrder: 7
 
 ## Oracle
 Oracle: Derelict
-OracleFocus: Zone:Living
+OracleFocus: "Zone: Living"
+OracleDescriptor: "_Once places of rest and respite, now lie vacant._"
 ---
 # [[_OCL_Index|Oracle]] - [[_OCL_Derelicts|Derelict]] - [[OCL_Derelict_Zones|Zone]]: Living
+_Once places of rest and respite, now lie vacant._
 
+## Oracle: Derelict Zone Living - Area
+> [!mechanics]- | Roll > %%GetDice%% | Guidance
+> ![[GSRY_Definitions#^gsry-OclSite-Area]] ^guidance-OclSite-Area
 
-## Oracle: Derelict Zone Living: Area
 | 1d100 | Result |
 |:---:|:--- |
 | 1-8 | Food storage |
@@ -30,9 +41,12 @@ OracleFocus: Zone:Living
 | 73-80 | Sleeping pods |
 | 81-85 | New zone |
 | 86-100 | New zone via ⏵[[OCL_Derelict-Zone-Access\|Access]] |
-^table-ISSF-Core1-0-OclDerelictZoneLivingArea
+^table-ISSF-Core1-0-OclDerelictZone-Living-Area
 
 ## Oracle: Derelict Zone Living: Feature
+> [!mechanics]- | Roll > %%GetDice%% | Guidance
+> ![[GSRY_Definitions#^gsry-OclSite-Feature]] ^guidance-OclSite-Feature
+
 | 1d100 | Result |
 |:---:|:--- |
 | 1-8 | Abandoned pet |
@@ -46,10 +60,13 @@ OracleFocus: Zone:Living
 | 65-72 | Scuttling vermin |
 | 73-80 | Shrine or altar |
 | 81-88 | Unusual art |
-| 89-100 | ⏵[[OCL_Core#Oracle Descriptor\|Descriptor]] + [[OCL_Core#Oracle Focus\|Focus]] |
-^table-ISSF-Core1-0-OclDerelictZoneLivingFeature
+| 89-100 | ⏵[[OCL_Core_Descriptor-Focus#Oracle Descriptor\|Descriptor]] + [[OCL_Core_Descriptor-Focus#Oracle Focus\|Focus]] |
+^table-ISSF-Core1-0-OclDerelictZone-Living-Feature
 
 ## Oracle: Derelict Zone Living: Peril
+> [!mechanics]- | Roll > %%GetDice%% | Guidance
+> ![[GSRY_Definitions#^gsry-OclSite-Peril]] ^guidance-OclSite-Peril
+
 | 1d100 | Result |
 |:---:|:--- |
 | 1-10 | Booby trap |
@@ -61,11 +78,14 @@ OracleFocus: Zone:Living
 | 61-70 | Sealed door or hatch blocks access |
 | 71-80 | Signs of unwelcome invaders |
 | 81-90 | Unsettling sound or disturbance |
-| 91-98 | ⏵[[OCL_Core#Oracle Action\|Action]] + [[OCL_Core#Oracle Theme\|Theme]] |
+| 91-98 | ⏵[[OCL_Core_Action-Theme#Oracle Action\|Action]] + [[OCL_Core_Action-Theme#Oracle Theme\|Theme]] |
 | 99-100 | Roll twice |
-^table-ISSF-Core1-0-OclDerelictZoneLivingPeril
+^table-ISSF-Core1-0-OclDerelictZone-Living-Peril
 
-## Oracle: Derelict Zone Living: Opportunity 
+## Oracle: Derelict Zone Living - Opportunity
+> [!mechanics]- | Roll > %%GetDice%% | Guidance
+> ![[GSRY_Definitions#^gsry-OclSite-Opportunity]] ^guidance-OclSite-Opportunity
+
 | 1d100 | Result |
 |:---:|:--- |
 | 1-20 | Culturally significant object or artifact |
@@ -73,9 +93,11 @@ OracleFocus: Zone:Living
 | 41-60 | Intact barricade or protected area |
 | 61-80 | Recorded message reveals helpful aspects of this site |
 | 81-100 | Useful personal gear |
-^table-ISSF-Core1-0-OclDerelictZoneLivingOpportunity
+^table-ISSF-Core1-0-OclDerelictZone-Living-Opportunity
 
 ## Tags
-#Pedia/Oracles/Derelicts 
+| Previous Page | Tags | Next Page |
+|:--- |:---:| ---:|
+| **[[OCL_Derelict-Zone-Engineering\|Derelict Zone: Engineering Oracle]]** | #Pedia/Oracles/Derelicts | **[[OCL_Derelict-Zone-Operations\|Derelict Zone: Operations Oracle]]** |
 
 <font size=-2>This work is based on Ironsworn: Starforged (found at [www.ironswornrpg.com](http://www.ironswornrpg.com)), created by Shawn Tomkin, and licensed for our use under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license  (creativecommons.org/licenses/by-nc-sa/4.0/).</font>

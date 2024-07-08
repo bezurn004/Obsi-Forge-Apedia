@@ -1,12 +1,67 @@
 # OFA - Change Log
 
-### v0.3
+## V0.4
+- [x] Added community content folder along with the following source material
+	- [x] Starsmith Assets
+	- [x] Starsmith Oracles
+- [x] Chapter 1 - closer alignment with source material
+	- [x] Highlighted key terms, playing around with linking from Glossary
+	- [x] Added diagrams as substitutes for missing art in most cases
+	- [x] Corrected omissions and re-arrangement of pages to return to same order as the source
+- [x] Chapter 2 - closer alignment with source material
+	- [x] Truths
+		- [x] Re-added quest-starters under each heading
+		- [x] Added blocks to Truths for tables, heading, body, quesstarters
+	- [x] Character / Sector / Incident Creation
+		- [x] Added missing diagrams and art using native obsidian tools
+- [x] Chapter 3: Moves - closer alignment with source material
+	- [x] Added "PageOrder", "MoveName", and "ReferencedMoves" fields
+	- [x] Added block ID's for each section of the move
+	- [x] Altered "Related Moves" dataview query to use new fields
+- [x] Chapter 4 Foes and Encounter
+	- [x] Added an Index page for the chapter and each section
+	- [x] Merged Denizen's section into this chapter's meta-data fields. Will retain Denizen link on Index for quick access.
+	- [x] Transposed Sample NPC component table, added "this" meta-data inline scripts
+	- [x] Tweaked Denizen meta-data fields and values
+- [x] Chapter 5: Oracles pages to alignment with Starsmith additions
+	- [x] Added Guidance call outs and positioned them under all headings rather than above the headings
+	- [x] Added Oracle Description to meta data and the opening blurb before any sub-headings for combined oracles
+	- [x] Added number of rolls per Oracle in the sub-heading with "{#-#}" notation
+	- [x] For combined Oracle pages, each oracle on the page is now an alias to easily find when looking to link / import.
+- [x] Chapter 6: Asset pages to align with Starsmith addition)
+	- [x] Added AssetName to properties section of meta-data
+	- [x] Add all CAPS aliases to the assets to match styling of book, retained original (asset) alias
+	- [x] Reformat all references (may have missed some) of Assets in Guidelines / Moves to use ALL CAPS style
+- [x] Refactored the "Tags" headings on all pages to provide a consistent previous / next page, allowing a sequential navigation method
+- [x] Add or adjust missing core ruleset content from first pass of the PDF
+- [x] Initial work on building a glossary
+- [x] Tried to identify where # additions were made to elaborate. Most tags are hidden in comments, and the elaborated content is _itialisized_
+- [x] Various corrections to spelling, grammar, formatting
+
+###
+#### V0.4.1
+- [ ] Nail down templates prior to new content additions
+- [ ] Add Sundered Ilse material
+- [ ] Add community content
+	- [ ] Starsmith Mecha
+	- [ ] Starsmith Cultures
+
+#### V0.4.2
+- [ ] Oracle tables / rollers
+	- [ ] Build tables for community content
+	- [ ] Build tables for any non-oracle overlooked content
+	- [ ] Add rollers for new community content
+	- [ ] Add oracle rollers to Oracle pages within the "Guidance" call out
+	- [ ] Add oracle rollers to Moves and Source material tables
+
+
+## v0.3
 - Created roll tables as a hub for rolling oracles and linked to their source pages for reference.
 - Restructured Asset from headings to callouts so that each has a heading and ability 1-3 section that can be linked into a character sheet
 - Initial work on defining which moves are applicable to ambiguous assets
 - Fixed various typos and formatting errors throughout.
 
-### v0.2
+## v0.2
 - Completed import of core rules, campaign creation, denizens, and oracle sections
 - Created meta data templates for Asset abilities. The contents of the meta-data are not yet populated'
 - Graphs from the guide book were reimagined as Dolphin diagrams, where possible
@@ -14,7 +69,7 @@
 - Dataview queries added to newly added sections as sub menu sections.
 - Fixed various typos and formatting errors throughout.
 
-### v0.11
+## v0.11
 High Level
 - Added dataview tables to the Moves and Asset pages
 - Added previous parent page as link in H1 and H2 page titles
@@ -48,7 +103,7 @@ High Level
 > - Optional
 > 	- Clocks
 
-### v0.1
+## v0.1
 Initial import and layout for 
  * Moves
  * Assets

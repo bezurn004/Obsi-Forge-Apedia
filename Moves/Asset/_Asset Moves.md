@@ -1,5 +1,12 @@
 ---
-Alias: "Asset Moves"
+## Source
+SourceMaterial: "Ironsworn: Starforged"
+SourceAuthor: "Shawn Tompkin"
+SourceLink: 
+
+## Page
+aliases:
+  - "Asset Moves"
 PageType: MoveIndex
 PageCategory: Asset
 ---
