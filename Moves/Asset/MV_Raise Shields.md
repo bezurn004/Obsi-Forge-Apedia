@@ -9,34 +9,38 @@ aliases:
   - "Raise Shields (move)"
 PageType: Move
 PageCategory: Asset
+PageOrder: 
+
+## Move
+MoveName: Raise Sheilds
 RollType: Action
 RollStat: [Integrity, Wits]
-Trigger: [""]
-AssociatedAsset: "Shields"
+Trigger: ["At any time you feel the need to raise your shields"]
+AssetPage: AST_Sheilds
+AssociatedAsset: SHIELDS
 AssociatedAssetAbility: "Ability 1"
 ReferencedMoves: 
-  - INSERT
+  - [[MV_Lose Momentum]]
 ---
 # [[_Moves Index|Moves]] - [[_Asset Moves|Asset]]: Raise Shields
-
+## Raise Shields: Move Card
 >[!abstract]  Context and Preparation
 >This move is enabled by the [[AST_Shields|SHIELDS]].
->At any time you feel the need to raise your shields...
+>**At any time you feel the need to raise your shields...** ^trigger
 
 > [!warning] Action Roll
-> Roll +integrity or your +wits.
+> Roll +integrity or your +wits. ^action-roll
 
 > [!challenge-strong] On strong hit
-> On a strong hit, set your shields to 4.
+> On a strong hit, set your shields to 4. ^strong-hit
 
 
 > [!challenge-weak] On a weak hit
-> On a weak hit, make them 3.
+> On a weak hit, make them 3. ^weak-hit
 
 
 > [!challenge-miss] On a miss
-> On a miss, make them 2 but [[MV_Lose Momentum|Lose Momentum (move)]] (-1)
-
+> On a miss, make them 2 but [[MV_Lose Momentum|Lose Momentum]] (-1) ^miss
 
 ## Full Description
 When you raise your shields, roll +your vehicle’s integrity or +wits. 
@@ -45,7 +49,7 @@ On a strong hit, set your shields to 4.
 
 On a weak hit, make them 3. 
 
-On a miss, make them 2 but [[MV_Lose Momentum|Lose Momentum (move)]] (-1).
+On a miss, make them 2 but [[MV_Lose Momentum|Lose Momentum]] (-1).
 
 ## Related Assets
 ```dataview
@@ -59,8 +63,6 @@ SORT PageCategory asc, file.name asc
 ## Tags
 | Previous Page | Tags | Next Page |
 |:--- |:---:| ---:|
-| **LINK** |  | **LINK** |
-
-#Pedia/Moves/Asset 
+| **[[MV_Pull heartstrings\|Pull heartstrings (move)]]** | #Pedia/Moves/Asset | **[[MV_Read Heart\|Read Heart (move)]]** |
 
 <font size=-2>This work is based on Ironsworn: Starforged (found at [www.ironswornrpg.com](http://www.ironswornrpg.com)), created by Shawn Tomkin, and licensed for our use under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license  (creativecommons.org/licenses/by-nc-sa/4.0/).</font>

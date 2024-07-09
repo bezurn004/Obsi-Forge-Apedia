@@ -15,10 +15,10 @@ Click on the title of each section below to explore this fabulous game.
 > Campaign Creation provides checklists to begin playing _Starforged_, either solo or with a group.  These include Campaign **Truths**, Creating a **Character**, Creating Starting **Sector**, and Creating the **Inciting Incident** to launch your adventures. 
 
 > [!success] [[_Moves Index|Gameplay In Depth]] [Pages 139-253]
-> Contains the **Moves*** that are used to weave a narrative between the character's story and apply mechanics of the game. **More In Depth** guidelines are also located here.
+> Contains the **Moves** that are used to weave a narrative between the character's story and apply mechanics of the game. More **In Depth** guidelines are also located here.
 
 > [!error] [[_Denizen Index|Denizens]] [Pages 253-287]
-> **Foes and NPCs** to populate your adventures within the Forge.
+> Create **Foes and NPCs** to populate your adventures within the Forge.
 
 > [!oracle] **[[_OCL_Index|Oracles Reference]] | [[_Rollers_Index|Oracle Roll Sheets]]** [Pages 291-386]
 > - Oracles are tables players can choose or roll from the drive narrative prompts on many aspects of the story within the game.  The full details on how and when to use these tables is explained here.

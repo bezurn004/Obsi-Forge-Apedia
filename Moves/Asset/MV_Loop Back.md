@@ -9,21 +9,25 @@ aliases:
   - "Loop Back (move)"
 PageType: Move
 PageCategory: Asset
+PageOrder: 
+
+## Move
+MoveName: "Loop Back"
 RollType: Action
 RollStat: [LinkMinutes, LinkHours, LinkDays]
 StatValue: [4, 3, 2]
-Trigger: [""]
-AssociatedAsset: "Looper"
+Trigger: ["When you create a link to the current point in time"]
+AssetPage: AST_Looper
+AssociatedAsset: LOOPER
 AssociatedAssetAbility: "Ability 2"
 ReferencedMoves: 
-  - INSERT
+  - [[MV_Endure Stress]]
 ---
 # [[_Moves Index|Moves]] - [[_Asset Moves|Asset]]: Loop Back
-
-## Move Card
+## Loop Back: Move Card
 >[!abstract]  Trigger and Preparation
 > This move is enabled by the [[AST_Looper|LOOPER]]. 
-> When you create a link to the current point in time, note the value of condition meters for you and your allies. You can retain only one active link.
+> **When you create a link to the current point in time**, note the value of condition meters for you and your allies. You can retain only one active link. ^trigger
 
 > [!oracle] The Gap Roll
 >  If you later loop back to this moment, roll +the gap in time: 
@@ -33,16 +37,16 @@ ReferencedMoves:
 > 	 - +1 if weeks
 > 	 - +0 if months
 >  
->  You may not burn momentum on this roll.
+>  You may not burn momentum on this roll. ^the-gap
 
 > [!challenge-strong] On strong hit
-> Return to the linked point, retain any progress, and set condition meters (except for spirit) to their original values.
+> Return to the linked point, retain any progress, and set condition meters (except for spirit) to their original values. ^strong-hit
 
 > [!challenge-weak] On a weak hit
-> As with a strong hit, but [[MV_Endure Stress|Endure Stress]] (-2)
+> As with a strong hit, but [[MV_Endure Stress|Endure Stress]] (-2) ^weak-hit
 
 > [!challenge-miss] On a miss
->  On a miss, as with a strong hit, but you find the timeline corrupted; [[MV_Pay the Price|Pay the Price (move)]].
+>  On a miss, as with a strong hit, but you find the timeline corrupted; [[MV_Pay the Price|Pay the Price]]. ^miss
 
 ## Full Description
 When you create a link to the current point in time, note the value of condition meters for you and your allies. You can retain only one active link. If you later loop back to this moment, roll +the gap in time: +4 if minutes, +3 if hours, +2 if days, +1 if weeks, +0 if months. You may not burn momentum on this roll. 
@@ -65,8 +69,6 @@ SORT PageCategory asc, file.name asc
 ## Tags
 | Previous Page | Tags | Next Page |
 |:--- |:---:| ---:|
-| **LINK** |  | **LINK** |
-
-#Pedia/Moves/Asset 
+| **[[MV_Establish Haven\|Establish Haven (move)]]** | #Pedia/Moves/Asset | **[[MV_Pull heartstrings\|Pull heartstrings (move)]]** |
 
 <font size=-2>This work is based on Ironsworn: Starforged (found at [www.ironswornrpg.com](http://www.ironswornrpg.com)), created by Shawn Tomkin, and licensed for our use under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license  (creativecommons.org/licenses/by-nc-sa/4.0/).</font>

@@ -9,36 +9,40 @@ aliases:
   - "Craft Projectiles (move)"
 PageType: Move
 PageCategory: Asset
+PageOrder: 
+
+## Move
+MoveName: "Craft Projectiles"
 RollType: Action
 RollStat: Wits
-Trigger: [""]
-AssociatedAsset: "Archer"
+Trigger: ["When you have time to craft projectiles to replenish spent Ammo..."]
+AssetPage: AST_Archer
+AssociatedAsset: ARCHER
 AssociatedAssetAbility: "Ability 1"
 ReferencedMoves: 
-  - INSERT
+  - [[MV_Sacrifice Resources]]
 ---
 # [[_Moves Index|Moves]] - [[_Asset Moves|Asset]]: Craft Projectiles
-## Move Card
-
+## Craft Projectiles: Move Card
 >[!abstract]  Trigger and Preparation
 >This move is enabled by the [[AST_Archer|ARCHER]].
->When you have time to craft projectiles to replenish spent Ammo...
+>**When you have time to craft projectiles to replenish spent Ammo...** ^trigger
 
 
 > [!warning] Action Roll
-> Roll +wits
+> Roll +wits ^action-roll
 
 > [!challenge-strong] On strong hit
-> Take +6 ammo, but do not exceed the maximum.
+> Take +6 ammo, but do not exceed the maximum. ^strong-hit
 
 
 > [!challenge-weak] On a weak hit
 > Take +4 ammo, but do not exceed the maximum.
-> Make the move [[MV_Sacrifice Resources|Sacrifice Resources]] (-1).
+> Make the move [[MV_Sacrifice Resources|Sacrifice Resources]] (-1). ^weak-hit
 
 > [!challenge-miss] On a miss
 >Take +1 ammo, but do not exceed the maximum.
-> Make the move [[MV_Sacrifice Resources|Sacrifice Resources]] (-1).
+> Make the move [[MV_Sacrifice Resources|Sacrifice Resources]] (-1). ^miss
 
 
 ## Full Description
@@ -61,8 +65,6 @@ SORT PageCategory asc, file.name asc
 ## Tags
 | Previous Page | Tags | Next Page |
 |:--- |:---:| ---:|
-| **LINK** |  | **LINK** |
-
-#Pedia/Moves/Asset
+| **[[MV_Commemorate\|Commemorate (move)]]** | #Pedia/Moves/Asset | **[[MV_Establish Haven\|Establish Haven (move)]]** |
 
 <font size=-2>This work is based on Ironsworn: Starforged (found at [www.ironswornrpg.com](http://www.ironswornrpg.com)), created by Shawn Tomkin, and licensed for our use under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license  (creativecommons.org/licenses/by-nc-sa/4.0/).</font>

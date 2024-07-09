@@ -11,7 +11,7 @@ PageType: Move
 PageCategory: [Adventure, "Scene Challenge"]
 PageOrder: 1
 
-## Oracle
+## Move
 MoveName: "Face Danger"
 InlineCmd: FD
 RollType: Action
