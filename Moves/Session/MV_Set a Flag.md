@@ -11,7 +11,7 @@ PageType: Move
 PageCategory: Session
 PageOrder: 2
 
-## Oracle
+## Move
 MoveName: "Set a Flag"
 InlineCmd: SAF
 Trigger: "When you identify situations or topics you don’t want to include, don’t want to envision in detail, or otherwise may need mindfulness when approaching"

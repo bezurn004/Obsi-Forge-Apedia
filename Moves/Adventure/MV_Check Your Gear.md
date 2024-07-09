@@ -11,7 +11,7 @@ PageType: Move
 PageCategory: Adventure
 PageOrder: 6
 
-## Oracle
+## Move
 MoveName: "Check Your Gear"
 InlineCmd: CYG
 RollType: Action

@@ -11,7 +11,7 @@ PageType: Move
 PageCategory: Quest
 PageOrder: 2
 
-## Oracle
+## Move
 MoveName: "Reach a Milestone"
 InlineCmd: RAM
 Trigger: 

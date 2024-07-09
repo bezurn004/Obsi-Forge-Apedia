@@ -11,7 +11,7 @@ PageType: Move
 PageCategory: Exploration
 PageOrder: 1
 
-## Oracle
+## Move
 MoveName: "Undertake an Expedition"
 InlineCmd: UAE
 Trigger: ["When you initially trailblaze, or continue, on a journey or delve the unknown"]

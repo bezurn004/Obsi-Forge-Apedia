@@ -11,7 +11,7 @@ PageType: Move
 PageCategory: Suffer
 PageOrder: 4
 
-## Oracle
+## Move
 MoveName: "Companion Takes a Hit"
 InlineCmd: CTH
 RollType: Action

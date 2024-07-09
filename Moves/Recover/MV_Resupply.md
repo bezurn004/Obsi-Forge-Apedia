@@ -11,7 +11,7 @@ PageType: Move
 PageCategory: Recover
 PageOrder: 4
 
-## Oracle
+## Move
 MoveName: Resupply
 InlineCmd: RESUPPLY
 Trigger: "When you attempt to bolster your readiness"

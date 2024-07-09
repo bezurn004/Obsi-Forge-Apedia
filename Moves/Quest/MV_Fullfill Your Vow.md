@@ -11,7 +11,7 @@ PageType: Move
 PageCategory: Quest
 PageOrder: 3
 
-## Oracle
+## Move
 MoveName: "Fullfill Your Vow"
 InlineCmd: FULFILL
 Trigger: "When you reach the end of your quest" 

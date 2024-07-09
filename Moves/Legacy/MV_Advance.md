@@ -11,7 +11,7 @@ PageType: Move
 PageCategory: Legacy
 PageOrder: 2
 
-## Oracle
+## Move
 MoveName: Advance
 InlineCmd: ADVANCE
 Trigger: "When you develop your abilities, improve your resources, gain a reward, or boost your influence"

@@ -11,7 +11,7 @@ PageType: Move
 PageCategory: Fate
 PageOrder: 1
 
-## Oracle
+## Move
 MoveName: "Ask the Oracle"
 InlineCmd: ATO
 Trigger: "When you seek to resolve questions, discover details, reveal locations, determine how other characters respond, or trigger encounters or events"

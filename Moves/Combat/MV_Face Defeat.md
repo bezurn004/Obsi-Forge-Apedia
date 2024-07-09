@@ -11,7 +11,7 @@ PageType: Move
 PageCategory: Combat
 PageOrder: 7
 
-## Oracle
+## Move
 MoveName: Face Defeat
 InlineCmd: FDEFEAT
 Trigger: "When you abandon or are deprived of an objective"

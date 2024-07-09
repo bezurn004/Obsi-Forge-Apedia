@@ -11,7 +11,7 @@ PageType: Move
 PageCategory: Quest
 PageOrder: 4
 
-## Oracle
+## Move
 MoveName: "Forsake Your Vow"
 InlineCmd: FORSAKE
 Trigger: 

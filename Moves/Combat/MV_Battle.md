@@ -11,7 +11,7 @@ PageType: Move
 PageCategory: Combat
 PageOrder: 8
 
-## Oracle
+## Move
 MoveName: Battle
 InlineCmd: BATTLE
 RollType: Action

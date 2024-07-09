@@ -11,7 +11,7 @@ PageType: Move
 PageCategory: Combat
 PageOrder: 6
 
-## Oracle
+## Move
 MoveName: "Take Decisive Action"
 InlineCmd: TDA
 Trigger: "When you seize an objective in a fight"

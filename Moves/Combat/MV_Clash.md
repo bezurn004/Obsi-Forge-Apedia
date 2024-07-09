@@ -11,7 +11,7 @@ PageType: Move
 PageCategory: Combat
 PageOrder: 5
 
-## Oracle
+## Move
 MoveName: Clash
 InlineCmd: CLASH
 Trigger: "When you are in a bad spot and fight back against a foe"

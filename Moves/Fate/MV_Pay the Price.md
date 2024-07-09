@@ -11,7 +11,7 @@ PageType: Move
 PageCategory: Fate
 PageOrder: 2
 
-## Oracle
+## Move
 MoveName: "Pay the Price"
 InlineCmd: PTP
 Trigger: "When you suffer the outcome of an action"

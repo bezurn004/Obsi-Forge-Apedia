@@ -11,7 +11,7 @@ PageType: Move
 PageCategory: Session
 PageOrder: 3
 
-## Oracle
+## Move
 MoveName: "Change Your Fate"
 InlineCmd: CYF
 Trigger: ["When you encounter flagged content","When you encounter reject an oracle","When you resist a concequence","When you shift circumstances within the game for your comfort or enjoyment"]

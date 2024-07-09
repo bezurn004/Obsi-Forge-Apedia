@@ -11,7 +11,7 @@ PageType: Move
 PageCategory: Connection
 PageOrder: 1
 
-## Oracle
+## Move
 MoveName: "Make a Connection"
 InlineCmd: MAC
 Trigger: "When you search out a new relationship or give focus to an existing relationship (not an ally or companion)"

@@ -11,7 +11,7 @@ PageType: Move
 PageCategory: Connection
 PageOrder: 3
 
-## Oracle
+## Move
 MoveName: "Test Your Relationship"
 InlineCmd: TYR
 Trigger: "When your relationship with a connection is tested through conflict, betrayal, or circumstance"

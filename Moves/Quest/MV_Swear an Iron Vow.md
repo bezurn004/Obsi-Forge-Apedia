@@ -11,7 +11,7 @@ PageType: Move
 PageCategory: Quest
 PageOrder: 1
 
-## Oracle
+## Move
 MoveName: "Swear an Iron Vow"
 InlineCmd: SAIV
 Trigger: "When you swear upon iron to complete a quest"

@@ -11,7 +11,7 @@ PageType: Move
 PageCategory: Exploration
 PageOrder: 1
 
-## Oracle
+## Move
 MoveName: "Explore a Waypoint"
 InlineCmd: EAW
 Trigger: "When you divert from an expedition to examine a notable location"

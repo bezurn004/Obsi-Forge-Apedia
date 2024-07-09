@@ -11,7 +11,7 @@ PageType: Move
 PageCategory: Suffer
 PageOrder: 6
 
-## Oracle
+## Move
 MoveName: "Withstand Damage"
 InlineCmd: WD
 Trigger: ["When your vehicle faces a damaging situation","When your vehicle faces damaging environment"]

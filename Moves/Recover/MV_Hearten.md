@@ -11,7 +11,7 @@ PageType: Move
 PageCategory: Recover
 PageOrder: 3
 
-## Oracle
+## Move
 MoveName: Hearten
 InlineCmd: HEARTEN
 Trigger: ["When you socialize","When you share intimacy","When you find a moment of peace"]

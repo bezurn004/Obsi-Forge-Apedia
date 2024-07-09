@@ -11,7 +11,7 @@ PageType: Move
 PageCategory: Connection
 PageOrder: 4
 
-## Oracle
+## Move
 MoveName: Forge a Bond
 InlineCmd: FAB
 Trigger: "When your relationship with a connection is ready to evolve"

@@ -11,7 +11,7 @@ PageType: Move
 PageCategory: Combat
 PageOrder: 4
 
-## Oracle
+## Move
 MoveName: Strike
 InlineCmd: STRIKE
 Trigger: "When you are in control and assault a foe from"

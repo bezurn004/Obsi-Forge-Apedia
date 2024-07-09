@@ -11,7 +11,7 @@ PageType: Move
 PageCategory: Suffer
 PageOrder: 2
 
-## Oracle
+## Move
 MoveName: "Endure Harm"
 InlineCmd: EH
 Trigger: ["When you face physical injury","When you face fatigue","When you face illness"]

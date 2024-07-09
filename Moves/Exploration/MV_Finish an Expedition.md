@@ -11,7 +11,7 @@ PageType: Move
 PageCategory: Exploration
 PageOrder: 6
 
-## Oracle
+## Move
 MoveName: "Finish an Expedition"
 InlineCmd: FAE
 Trigger: "When your expedition comes to an end"

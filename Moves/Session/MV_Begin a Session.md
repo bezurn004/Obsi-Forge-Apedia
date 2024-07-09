@@ -11,7 +11,7 @@ PageType: Move
 PageCategory: Session
 PageOrder: 1
 
-## Oracle
+## Move
 MoveName: Begin a Session
 InlineCmd: BAS
 Trigger: "When you begin a significant session or chapter of play"

@@ -11,7 +11,7 @@ PageType: Move
 PageCategory: Suffer
 PageOrder: 1
 
-## Oracle
+## Move
 MoveName: "Lose Momentum"
 InlineCmd: LM
 Trigger: ["When you are delayed","When you are disadvantaged"]

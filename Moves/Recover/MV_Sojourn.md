@@ -11,7 +11,7 @@ PageType: Move
 PageCategory: Recover
 PageOrder: 1
 
-## Oracle
+## Move
 MoveName: Sojourn
 InlineCmd: SOJOURN
 Trigger: "When you spend time recovering within a community"

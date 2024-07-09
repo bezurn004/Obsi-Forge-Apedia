@@ -11,7 +11,7 @@ PageType: Move
 PageCategory: Combat
 PageOrder: 3
 
-## Oracle
+## Move
 MoveName: React Under Fire
 InlineCmd: RUF
 Trigger: 

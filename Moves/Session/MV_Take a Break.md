@@ -11,7 +11,7 @@ PageType: Move
 PageCategory: Session
 PageOrder: 4
 
-## Oracle
+## Move
 MoveName: "Take a Break"
 InlineCmd: TAB
 Trigger: "When you resolve a progress move or complete an intense scenario"

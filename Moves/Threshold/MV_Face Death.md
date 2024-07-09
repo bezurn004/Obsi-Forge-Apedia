@@ -11,7 +11,7 @@ PageType: Move
 PageCategory: Threshold
 PageOrder: 1
 
-## Oracle
+## Move
 MoveName: "Face Death"
 InlineCmd: FDEATH
 Trigger: ["When you encounter a situation where death is an immediate and unavoidable outcome","When you are instead brought to the brink of death with a chance for recovery or redemption"]

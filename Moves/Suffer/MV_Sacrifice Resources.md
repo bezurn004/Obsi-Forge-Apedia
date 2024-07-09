@@ -11,7 +11,7 @@ PageType: Move
 PageCategory: Suffer
 PageOrder: 5
 
-## Oracle
+## Move
 MoveName: "Sacrafice Resources"
 InlineCmd: SR
 Trigger: ["When you lose resources","When you consume resources"]

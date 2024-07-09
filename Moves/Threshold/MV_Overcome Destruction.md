@@ -11,7 +11,7 @@ PageType: Move
 PageCategory: Threshold
 PargeOrder: 3
 
-## Oracle
+## Move
 MoveName: "Overcome Destruction"
 InlineCmd: OD
 Trigger: "When your command vehicle is destroyed or irrevocably lost"

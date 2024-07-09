@@ -11,7 +11,7 @@ PageType: Move
 PageCategory: Combat
 PageOrder: 2
 
-## Oracle
+## Move
 MoveName: "Gain Ground"
 InlineCmd: GG
 Trigger: 

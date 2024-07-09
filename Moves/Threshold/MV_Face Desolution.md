@@ -11,7 +11,7 @@ PageType: Move
 PageCategory: Threshold
 PageOrder: 2
 
-## Oracle
+## Move
 MoveName: Face Desolution
 InlineCmd: FDESOLATION
 Trigger: "When you are brought to the brink of desolation"

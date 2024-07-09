@@ -11,7 +11,7 @@ PageType: Move
 PageCategory: Exploration
 PageOrder: 4
 
-## Oracle
+## Move
 MoveName: "Confront Chaos"
 InlineCmd: CC
 Trigger: "After a Miss with a Match on the move Explore a Waypoint"

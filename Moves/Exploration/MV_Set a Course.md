@@ -11,7 +11,7 @@ PageType: Move
 PageCategory: Exploration
 PageOrder: 6
 
-## Oracle
+## Move
 MoveName: "Set a Course"
 InlineCmd: SAC
 Trigger: "When you follow a known route through perilous space, across hazardous terrain, or within a mysterious site"

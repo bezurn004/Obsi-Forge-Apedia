@@ -11,7 +11,7 @@ PageType: Move
 PageCategory: Recover
 PageOrder: 5
 
-## Oracle
+## Move
 MoveName: Repair
 InlineCmd: REPAIR
 Trigger: ["When you make repairs to your vehicles, modules, mechanical companions, or other devices"]

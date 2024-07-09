@@ -11,7 +11,7 @@ PageType: Move
 PageCategory: Combat
 PageOrder: 1
 
-## Oracle
+## Move
 MoveName: "Enter The Fray"
 InlineCmd: ETF
 Trigger: ["initiate combat","Forced into a fight"]

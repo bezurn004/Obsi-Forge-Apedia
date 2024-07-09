@@ -11,7 +11,7 @@ PageType: Move
 PageCategory: Connection
 PageOrder: 2
 
-## Oracle
+## Move
 MoveName: Develop a Relationship
 InlineCmd: DYR
 Trigger: "When you reinforce your relationship with a connection by doing one of the following"

@@ -11,7 +11,7 @@ PageType: Move
 PageCategory: Legacy
 PageOrder: 1
 
-## Oracle
+## Move
 MoveName: "Earn Experience"
 InlineCmd: EE
 Trigger: "When you fill a box (four ticks) on any legacy track"

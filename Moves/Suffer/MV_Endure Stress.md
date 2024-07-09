@@ -11,7 +11,7 @@ PageType: Move
 PageCategory: Suffer
 PageOrder: 3
 
-## Oracle
+## Move
 MoveName: "Endure Stress"
 InlineCmd: ES
 Trigger: ["When you face mental strain","When you face mental shock","When you face mental despair"]

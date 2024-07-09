@@ -11,7 +11,7 @@ PageType: Move
 PageCategory: Session
 PageOrder: 5
 
-## Oracle
+## Move
 MoveName: End a Session
 InlineCmd: EAS
 Trigger: "When you end a significant session or chapter of play"

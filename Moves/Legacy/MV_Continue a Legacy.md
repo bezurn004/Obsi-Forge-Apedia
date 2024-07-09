@@ -11,7 +11,7 @@ PageType: Move
 PageCategory: Legacy
 PageOrder: 3
 
-## Oracle
+## Move
 MoveName: "Continue a Legacy"
 InlineCmd: CAL
 Trigger: "When you retire from your life as Ironsworn, or succumb to death or desolation, you may create a new character in your established setting"

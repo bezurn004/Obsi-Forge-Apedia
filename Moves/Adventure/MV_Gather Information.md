@@ -11,7 +11,7 @@ PageType: Move
 PageCategory: Adventure
 PageOrder: 3
 
-## Oracle
+## Move
 MoveName: "Gather Information"
 InlineCmd: GI
 Trigger: "When you search for clues, conduct an investigation, analyze evidence, or do research"

@@ -11,7 +11,7 @@ PageType: Move
 PageCategory: Recover
 PageOrder: 2
 
-## Oracle
+## Move
 MoveName: "Heal"
 InlineCmd: HEAL
 Trigger: ["When you receive medical care","When you provide medical treatment"]

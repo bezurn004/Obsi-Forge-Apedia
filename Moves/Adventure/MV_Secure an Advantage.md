@@ -13,7 +13,7 @@ PageCategory:
 - Scene Challenge
 PageOrder: 2
 
-## Oracle
+## Move
 MoveName: "Secure an Advantage"
 InlineCmd: SAA
 RollType: Action

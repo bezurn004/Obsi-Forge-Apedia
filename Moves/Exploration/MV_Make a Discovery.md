@@ -11,7 +11,7 @@ PageType: Move
 PageCategory: Exploration
 PageOrder: 3
 
-## Oracle
+## Move
 MoveName: "Make a Discovery"
 InlineCmd: MAD
 Trigger: "When your exploration of a waypoint uncovers something wondrous"

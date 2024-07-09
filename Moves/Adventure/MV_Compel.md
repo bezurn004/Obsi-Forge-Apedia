@@ -11,7 +11,7 @@ PageType: Move
 PageCategory: Adventure
 PageOrder: 4
 
-## Oracle
+## Move
 MoveName: Compel
 InlineCmd: COMPEL
 RollType: Action

@@ -11,7 +11,7 @@ PageType: Move
 PageCategory: [Adventure, Combat, Exploration, Recover, "Scene Challenge"]
 PageOrder: 5
 
-## Oracle
+## Move
 MoveName: "Aid Your Ally"
 InlineCmd: AYA
 RollType: Transferal
