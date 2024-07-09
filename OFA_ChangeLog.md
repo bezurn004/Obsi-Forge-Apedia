@@ -38,15 +38,19 @@
 - [x] Tried to identify where # additions were made to elaborate. Most tags are hidden in comments, and the elaborated content is _itialisized_
 - [x] Various corrections to spelling, grammar, formatting
 
-###
-#### V0.4.1
+##### Bug Fixes V0.4.0.x
+- [x] Fixed many errors on Oracle Roller page due to changes in Oracle headings / possible file corruption (I blame one-drive)
+- [x] Moved Starsmith Faction Influence Oracle to the Leadership page. Renamed page to "Sway"
+- [ ] Various typos, formatting, and style corrections
+
+#### V0.4.1 #incomplete 
 - [ ] Nail down templates prior to new content additions
 - [ ] Add Sundered Ilse material
 - [ ] Add community content
 	- [ ] Starsmith Mecha
 	- [ ] Starsmith Cultures
 
-#### V0.4.2
+#### V0.4.2 #incomplete 
 - [ ] Oracle tables / rollers
 	- [ ] Build tables for community content
 	- [ ] Build tables for any non-oracle overlooked content

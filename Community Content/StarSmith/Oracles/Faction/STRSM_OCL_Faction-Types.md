@@ -63,7 +63,7 @@ This oracle can be used to replace the one provided on [[OCL_Faction-Types#Oracl
 
 | 1d100 | 1-2 | 3-4 | 5-6 |
 | :---: | :--- | :--- | :--- |
- | 1-5 | Agriculture | Altruism | Authority |
+| 1-5 | Agriculture | Altruism | Authority |
 | 6-9 | Artistry | Belonging | Capitalism |
 | 10-14 | Commerce | Collectivism | Community |
 | 15-18 | Conquest | Consumption | Cooperation |

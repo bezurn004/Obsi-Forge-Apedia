@@ -82,7 +82,7 @@ _Half finished experiments and papers litter the shelves, untold knowledge possi
 | 99-100 | Roll twice |
 ^table-ISSF-Core1-0-OclDerelictZone-Research-Peril
 
-## Oracle: Derelict Zone Research: Opportunity
+## Oracle: Derelict Zone Research - Opportunity
 > [!mechanics]- | Roll > %%GetDice%% | Guidance
 > ![[GSRY_Definitions#^gsry-OclSite-Opportunity]] ^guidance-OclSite-Opportunity
 

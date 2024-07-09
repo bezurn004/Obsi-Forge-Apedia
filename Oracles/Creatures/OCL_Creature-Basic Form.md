@@ -102,7 +102,7 @@ After finding the [[OCL_Creature-Environment-Scale|environment and scale]] of a 
 | 91-100 | Roll twice |
 ^table-ISSF-Core1-0-OcllCreatureForm-Land
 
-## Oracle: creature Basic Form: Liquid
+## Oracle: creature Basic Form - Liquid
 > [!mechanics]- | Roll > %%GetDice%% | Guidance
 > The form of a creature that lives within liquid substance, commonly water. ^guidance-OcllCreatureForm-Liquid
 
@@ -128,7 +128,7 @@ After finding the [[OCL_Creature-Environment-Scale|environment and scale]] of a 
 | 91-100 | Roll twice |
 ^table-ISSF-Core1-0-OcllCreatureForm-Liquid
 
-## Oracle: creature Basic Form: Air
+## Oracle: creature Basic Form - Air
 > [!mechanics]- | Roll > %%GetDice%% | Guidance
 > The form of a creature that lives in the air or gaseous environment. ^guidance-OcllCreatureForm-Air
 

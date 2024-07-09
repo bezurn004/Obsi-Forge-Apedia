@@ -21,8 +21,6 @@ OracleDescriptor: "The overall influence of a Faction throughout the forge. Also
 # [[_STRSM Oracles Index|Starsmith Oracles]] - [[_STRSM_OCL_Factions Oracles|Faction]]: Relations
 The overall influence of a Faction throughout the forge. Also, how a Faction relates to another in their Relationships and what Rumors have been heard through your adventures through the Forge.
 
-![[OCL_Faction-Relations#Oracle Faction Influence]]
-
 ## Oracle: Faction Relationship
 This oracle can be used to replace the one provided on [[OCL_Faction-Relations#Oracle Faction Relationship|Faction Relationship Oracle]].
 

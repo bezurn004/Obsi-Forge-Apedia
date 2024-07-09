@@ -193,6 +193,6 @@ This oracle can be used to replace the one provided on [[OCL_Faction-Name#Oracle
 ## Tags
 | Previous Page | Tags | Next Page |
 |:--- |:---:| ---:|
-| **[[STRSM_OCL_Faction-Types\|Faction Types Oracles]]** | #Starsmith/Oracles/Factions - #Pedia/Oracles/Factions | **[[STRSM_OCL_Faction-Leadership\|Faction Leadership Oracle]]** |
+| **[[STRSM_OCL_Faction-Types\|Faction Types Oracles]]** | #Starsmith/Oracles/Factions - #Pedia/Oracles/Factions | **[[STRSM_OCL_Faction-Sway\|Faction Sway Oracle]]** |
 
 <font size=-2>Starsmith Oracles is created by Eric Bright and licensed for use under the Creative Commons Attribution 4.0 International License (CC-BY).</font>

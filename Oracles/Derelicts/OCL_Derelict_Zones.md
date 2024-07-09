@@ -33,7 +33,7 @@ Based on the derelict site type, begin to flesh out the zones and aspects of you
 | 56-65 | [[OCL_Derelict-Zone-Medical#Oracle: Derelict Zone Medical: Area\|▶Medical]] |
 | 66-85 | [[OCL_Derelict-Zone-Operations#Oracle: Derelict Zone Operations: Area\|▶Operations]] |
 | 86-90 | [[OCL_Derelict-Zone-Production#Oracle: Derelict Zone Production: Area\|▶Production]] |
-| 91-100 | [[OLC_Derelict-Zone-Research#Oracle: Derelict Zone Research: Area\|▶Research]] |
+| 91-100 | [[OCL_Derelict-Zone-Research#Oracle: Derelict Zone Research: Area\|▶Research]] |
 ^table-ISSF-Core1-0-OclDerelictZone-Starship
 
 ## Oracle: Derelict Zone - Settlement
@@ -48,7 +48,7 @@ Based on the derelict site type, begin to flesh out the zones and aspects of you
 | 56-65 | [[OCL_Derelict-Zone-Medical#Oracle: Derelict Zone Medical: Area\|▶Medical]] |
 | 66-75 | [[OCL_Derelict-Zone-Operations#Oracle: Derelict Zone Operations: Area\|▶Operations]] |
 | 76-90 | [[OCL_Derelict-Zone-Production#Oracle: Derelict Zone Production: Area\|▶Production]] |
-| 91-100 | [[OLC_Derelict-Zone-Research#Oracle: Derelict Zone Research: Area\|▶Research]] |
+| 91-100 | [[OCL_Derelict-Zone-Research#Oracle: Derelict Zone Research: Area\|▶Research]] |
 ^table-ISSF-Core1-0-OclDerelictZone-Settlement
 
 ## Tags

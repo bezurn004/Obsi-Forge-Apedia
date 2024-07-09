@@ -110,6 +110,6 @@ This oracle can be used to replace the one provided on [[OCL_Faction-Motives#Ora
 ## Tags
 | Previous Page | Tags | Next Page | 
 | :--- | :---: | ---: |
-| **[[STRSM_OCL_Faction-Leadership\|Faction Leadership Oracle]]** | #Starsmith/Oracles/Factions - #Pedia/Oracles/Factions | **[[STRSM_OCL_Faction-Relations\|Faction Relations Oracles]]** |
+| **[[STRSM_OCL_Faction-Sway\|Faction Sway Oracle]]** | #Starsmith/Oracles/Factions - #Pedia/Oracles/Factions | **[[STRSM_OCL_Faction-Relations\|Faction Relations Oracles]]** |
 
 <font size=-2>Starsmith Oracles is created by Eric Bright and licensed for use under the Creative Commons Attribution 4.0 International License (CC-BY).</font>

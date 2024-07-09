@@ -20,12 +20,12 @@ A faction is an organization that wields power or influence over a specific sect
 ## [[STRSM_OCL_Faction-Names|Names]]
 - **Name** - First roll on the Name Template table to find the pattern that the name takes and then roll the corresponding pieces to form the full name.
 
-## [[STRSM_OCL_Faction-Leadership|Leadership]]
+## [[STRSM_OCL_Faction-Sway|Sway]]
 - **Leadership** - For the Dominion type, you roll on both the **Dominion** and **Leadership** oracles, although I use the Leadership oracle for all factions.
 
-## [[STRSM_OCL_Faction-Motives|Motives]]
 - **Influence** - Tells the generally how far they are able to project their ideals throughout habitats of the Forge.
 
+## [[STRSM_OCL_Faction-Motives|Motives]]
 - **Projects** - This tells what the faction has been working on lately.
 
 - **Quirk** - This is some notable behavior that the faction partakes in.

@@ -43,7 +43,7 @@ _Once places of rest and respite, now lie vacant._
 | 86-100 | New zone via ⏵[[OCL_Derelict-Zone-Access\|Access]] |
 ^table-ISSF-Core1-0-OclDerelictZone-Living-Area
 
-## Oracle: Derelict Zone Living: Feature
+## Oracle: Derelict Zone Living - Feature
 > [!mechanics]- | Roll > %%GetDice%% | Guidance
 > ![[GSRY_Definitions#^gsry-OclSite-Feature]] ^guidance-OclSite-Feature
 
@@ -63,7 +63,7 @@ _Once places of rest and respite, now lie vacant._
 | 89-100 | ⏵[[OCL_Core_Descriptor-Focus#Oracle Descriptor\|Descriptor]] + [[OCL_Core_Descriptor-Focus#Oracle Focus\|Focus]] |
 ^table-ISSF-Core1-0-OclDerelictZone-Living-Feature
 
-## Oracle: Derelict Zone Living: Peril
+## Oracle: Derelict Zone Living - Peril
 > [!mechanics]- | Roll > %%GetDice%% | Guidance
 > ![[GSRY_Definitions#^gsry-OclSite-Peril]] ^guidance-OclSite-Peril
 

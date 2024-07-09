@@ -6,6 +6,7 @@ SourceLink:
 
 ## Page
 aliases:
+  - "Faction Sway (Starsmith Oracles)"
   - "Faction Leadership (Starsmith Oracles)"
 PageType: Oracle
 PageCategory: Faction
@@ -13,11 +14,11 @@ PageOrder: 39
 
 ## Page
 Oracle: Faction
-OracleFocus: Leadership
-OracleDescriptor: "Primarily for Dominion type Factions, determine the type of leadership that controls this faction. If you choose, other faction types can have this aspect."
+OracleFocus: Sway
+OracleDescriptor: "Who is the leader of a faction and how much Influence do they hold over the settlements of the Forge."
 ---
-# [[_STRSM Oracles Index|Starsmith Oracles]] - [[_STRSM_OCL_Factions Oracles|Faction]]: Leadership
-Primarily for Dominion type Factions, determine the type of leadership that controls this faction. If you choose, other faction types can have this aspect.
+# [[_STRSM Oracles Index|Starsmith Oracles]] - [[_STRSM_OCL_Factions Oracles|Faction]]: Sway
+Who is the **leader** of a Dominion faction and how much **Influence** do all faction types hold over the settlements of the Forge. If you choose, other faction types can have this aspect.
 
 ## Oracle: Faction Leadership
 This oracle can be used to replace the one provided on [[OCL_Faction-Types#Oracle Faction Dominion Leadership|Faction Dominion Leadership Oracle]].
@@ -38,6 +39,8 @@ This oracle can be used to replace the one provided on [[OCL_Faction-Types#Oracl
 | 91-95 | Machine intelligence | Embodied AI | Leader by lottery |
 | 96-100 | Varied / decentralized | Fractured states | Unknown intelligence | 
 ^table-STRSM-OCL-OclFactionLeadership
+
+![[OCL_Faction-Relations#Oracle Faction Influence]]
 
 ## Tags
 | Previous Page | Tags | Next Page | 
