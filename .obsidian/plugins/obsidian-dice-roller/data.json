@@ -9,7 +9,9 @@
   "escapeDiceMod": true,
   "signed": false,
   "displayLookupRoll": true,
-  "formulas": {},
+  "formulas": {
+    "CursedWeather": ""
+  },
   "defaultRoll": 1,
   "defaultFace": 100,
   "renderer": false,
@@ -73,7 +75,7 @@
   "showRenderNotice": true,
   "diceModTemplateFolders": {},
   "replaceDiceModInLivePreview": true,
-  "version": "11.0.3",
+  "version": "11.0.4",
   "viewResults": [
     {
       "result": 1,

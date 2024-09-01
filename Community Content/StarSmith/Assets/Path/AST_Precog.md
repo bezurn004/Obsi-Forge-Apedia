@@ -3,6 +3,7 @@
 SourceMaterial: "Starsmith Assets"
 SourceAuthor: "Eric Bright"
 SourceLink: 
+AssetDeck: "Starsmith Assets"
 
 ## Page
 aliases: 
@@ -91,6 +92,6 @@ The third ability is cool because it switches the values of the possible outcome
 
 | Previous Asset| Tags | Next Asset |
 | :--- | :---: | ---: |
-| **[[AST_Logistician\|LOGISTICISN]]** | #Starsmith/Assets/Path | **[[AST_Psionic\|PSIONIC]]** |
+| **[[AST_Logistician\|LOGISTICISN]]** | #Starsmith/Assets/Path - #AssetDeck/Starsmith-Assets | **[[AST_Psionic\|PSIONIC]]** |
 
 <font size=-2>Starsmith Assets is created by Eric Bright and licensed for use under the Creative Commons Attribution 4.0 International License (CC-BY).</font>

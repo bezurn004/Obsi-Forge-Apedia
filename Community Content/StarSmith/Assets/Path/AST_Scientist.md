@@ -3,6 +3,7 @@
 SourceMaterial: "Starsmith Assets"
 SourceAuthor: "Eric Bright"
 SourceLink: 
+AssetDeck: "Starsmith Assets"
 
 ## Page
 aliases: 
@@ -95,6 +96,6 @@ For the third ability, I was imagining the trope of trying out a sciency-type th
 
 | Previous Asset| Tags | Next Asset |
 | :--- | :---: | ---: |
-| **[[AST_Roketeer\|ROCKETEER]]** | #Starsmith/Assets/Path | **[[AST_Security Guard\|SECURITY GUARD]]** |
+| **[[AST_Roketeer\|ROCKETEER]]** | #Starsmith/Assets/Path - #AssetDeck/Starsmith-Assets | **[[AST_Security Guard\|SECURITY GUARD]]** |
 
 <font size=-2>Starsmith Assets is created by Eric Bright and licensed for use under the Creative Commons Attribution 4.0 International License (CC-BY).</font>

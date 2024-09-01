@@ -3,6 +3,7 @@
 SourceMaterial: "Starsmith Assets"
 SourceAuthor: "Eric Bright"
 SourceLink: 
+AssetDeck: "Starsmith Assets"
 
 ## Page
 aliases: 
@@ -89,6 +90,6 @@ The second ability represents the anti-hero’s willingness to cause suffering o
 
 | Previous Asset| Tags | Next Asset |
 | :--- | :---: | ---: |
-| **[[AST_Indefatigable\|INDEFATIGABLE]]** | #Starsmith/Assets/Deed | **[[AST_Traveler\|TRAVELER]]** |
+| **[[AST_Indefatigable\|INDEFATIGABLE]]** | #Starsmith/Assets/Deed - #AssetDeck/Starsmith-Assets | **[[AST_Traveler\|TRAVELER]]** |
 
 <font size=-2>Starsmith Assets is created by Eric Bright and licensed for use under the Creative Commons Attribution 4.0 International License (CC-BY).</font>

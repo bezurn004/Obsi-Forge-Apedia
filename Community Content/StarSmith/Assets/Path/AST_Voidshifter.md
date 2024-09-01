@@ -3,6 +3,7 @@
 SourceMaterial: "Starsmith Assets"
 SourceAuthor: "Eric Bright"
 SourceLink: 
+AssetDeck: "Starsmith Assets"
 
 ## Page
 aliases: 
@@ -106,6 +107,6 @@ The third ability is meant to be a bit more subtle. Like your lungs gaining bett
 
 | Previous Asset| Tags | Next Asset |
 | :--- | :---: | ---: |
-| **[[AST_Telepath\|TELEPATH]]** | #Starsmith/Assets/Path | **[[AST_Well Connected\|WELL CONNECTED]]** |
+| **[[AST_Telepath\|TELEPATH]]** | #Starsmith/Assets/Path - #AssetDeck/Starsmith-Assets | **[[AST_Well Connected\|WELL CONNECTED]]** |
 
 <font size=-2>Starsmith Assets is created by Eric Bright and licensed for use under the Creative Commons Attribution 4.0 International License (CC-BY).</font>

@@ -3,6 +3,8 @@
 SourceMaterial: "Starsmith Assets"
 SourceAuthor: "Eric Bright"
 SourceLink: 
+AssetDeck: "Starsmith Assets"
+AssetDeck: "Starsmith Assets"
 
 ## Page
 aliases: 
@@ -99,6 +101,6 @@ Notice that on most of these moves you only get narrative framing and rolling +i
 
 | Previous Asset| Tags | Next Asset |
 | :--- | :---: | ---: |
-| **[[AST_Nano-swarm\|NANO-SWARM]]** | #Starsmith/Assets/Companion | **[[AST_Immortal Coil\|IMMORTAL COIL]]** |
+| **[[AST_Nano-swarm\|NANO-SWARM]]** | #Starsmith/Assets/Companion - #AssetDeck/Starsmith-Assets | **[[AST_Immortal Coil\|IMMORTAL COIL]]** |
 
 <font size=-2>Starsmith Assets is created by Eric Bright and licensed for use under the Creative Commons Attribution 4.0 International License (CC-BY).</font>

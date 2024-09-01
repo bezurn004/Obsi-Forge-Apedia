@@ -3,6 +3,7 @@
 SourceMaterial: "Starsmith Assets"
 SourceAuthor: "Eric Bright"
 SourceLink: 
+AssetDeck: "Starsmith Assets"
 
 ## Page
 aliases: 
@@ -98,6 +99,6 @@ The third ability is meant to emulate Nightcrawler’s quick BAMF attacks. The f
 
 | Previous Asset| Tags | Next Asset |
 | :--- | :---: | ---: |
-| **[[AST_Crew Member\|CREW MEMBER]]** | #Starsmith/Assets/Companion | **[[AST_Furball\|FURBALL]]** |
+| **[[AST_Crew Member\|CREW MEMBER]]** | #Starsmith/Assets/Companion - #AssetDeck/Starsmith-Assets | **[[AST_Furball\|FURBALL]]** |
 
 <font size=-2>Starsmith Assets is created by Eric Bright and licensed for use under the Creative Commons Attribution 4.0 International License (CC-BY).</font>

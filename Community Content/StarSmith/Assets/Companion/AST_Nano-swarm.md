@@ -3,6 +3,7 @@
 SourceMaterial: "Starsmith Assets"
 SourceAuthor: "Eric Bright"
 SourceLink: 
+AssetDeck: "Starsmith Assets"
 
 ## Page
 aliases: 
@@ -102,6 +103,6 @@ The third ability is its attack mode which means you can get one add +2 and then
 
 | Previous Asset| Tags | Next Asset |
 | :--- | :---: | ---: |
-| **[[AST_Furball\|FURBALL]]** | #Starsmith/Assets/Companion | **[[AST_Waterwrym\|WATERWYRM]]** |
+| **[[AST_Furball\|FURBALL]]** | #Starsmith/Assets/Companion - #AssetDeck/Starsmith-Assets | **[[AST_Waterwrym\|WATERWYRM]]** |
 
 <font size=-2>Starsmith Assets is created by Eric Bright and licensed for use under the Creative Commons Attribution 4.0 International License (CC-BY).</font>

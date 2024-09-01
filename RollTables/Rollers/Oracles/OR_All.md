@@ -14,7 +14,7 @@ This page may be slow to load due to the number of dice formulas.  Please use th
 
 >[!oracle]- **Core**
 >
-> > | [[OCL_Core_Action-Theme#Oracle Action\|Action]] | [[OCL_Core_Action-Theme#Oracle Theme \|Theme]] | [[OCL_Core_descriptor-Focus#Oracle Descriptor\|Descriptor]] | [[OCL_Core_descriptor-Focus#Oracle Focus\|Focus]] |
+> > | [[OCL_Core_Action-Theme#Oracle Action\|Action]] | [[OCL_Core_Action-Theme#Oracle Theme \|Theme]] | [[OCL_Core_Descriptor-Focus#Oracle Descriptor\|Descriptor]] | [[OCL_Core_Descriptor-Focus#Oracle Focus\|Focus]] |
 > > | --- | --- | --- | --- |
 > > | `dice: [[OT_ISSF_Core#^OclCoreAction]]\|Action` | `dice: [[OT_ISSF_Core#^OclCoreTheme]]\|Theme` | `dice: [[OT_ISSF_Core#^OclCoreDescritpor]]\|Descriptor` | `dice: [[OT_ISSF_Core#^OclCoreFocus]]\|Focus` |
 > 

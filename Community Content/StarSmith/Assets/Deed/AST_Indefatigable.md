@@ -3,6 +3,7 @@
 SourceMaterial: "Starsmith Assets"
 SourceAuthor: "Eric Bright"
 SourceLink: 
+AssetDeck: "Starsmith Assets"
 
 ## Page
 aliases: 
@@ -91,6 +92,6 @@ The first ability grants your character some minor celebrity status that they ca
 
 | Previous Asset| Tags | Next Asset |
 | :--- | :---: | ---: |
-| **[[AST_Immortal Coil\|IMMORTAL COIL]]** | #Starsmith/Assets/Deed | **[[AST_Soulless\|SOULLESS]]** |
+| **[[AST_Immortal Coil\|IMMORTAL COIL]]** | #Starsmith/Assets/Deed - #AssetDeck/Starsmith-Assets | **[[AST_Soulless\|SOULLESS]]** |
 
 <font size=-2>Starsmith Assets is created by Eric Bright and licensed for use under the Creative Commons Attribution 4.0 International License (CC-BY).</font>

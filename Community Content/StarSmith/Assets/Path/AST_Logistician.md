@@ -3,6 +3,7 @@
 SourceMaterial: "Starsmith Assets"
 SourceAuthor: "Eric Bright"
 SourceLink: 
+AssetDeck: "Starsmith Assets"
 
 ## Page
 aliases: 
@@ -89,6 +90,6 @@ The third ability gives a new stat to Compel with. Normally, if you were reasoni
 
 | Previous Asset| Tags | Next Asset |
 | :--- | :---: | ---: |
-| **[[AST_Linguist\|LINGUIST]]** | #Starsmith/Assets/Path | **[[AST_Precog\|PRECOG]]** |
+| **[[AST_Linguist\|LINGUIST]]** | #Starsmith/Assets/Path - #AssetDeck/Starsmith-Assets | **[[AST_Precog\|PRECOG]]** |
 
 <font size=-2>Starsmith Assets is created by Eric Bright and licensed for use under the Creative Commons Attribution 4.0 International License (CC-BY).</font>

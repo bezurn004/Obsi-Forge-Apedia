@@ -3,6 +3,7 @@
 SourceMaterial: "Starsmith Assets"
 SourceAuthor: "Eric Bright"
 SourceLink: 
+AssetDeck: "Starsmith Assets"
 
 ## Page
 aliases: 
@@ -91,6 +92,6 @@ The third ability is about name-dropping, but if you miss, your name-dropped con
 
 | Previous Asset| Tags | Next Asset |
 | :--- | :---: | ---: |
-| **[[AST_Voidshifter\|VOIDSHIFTER]]** | #Starsmith/Assets/Path | **[[AST_Crew Member\|CREW MEMBER]]** |
+| **[[AST_Voidshifter\|VOIDSHIFTER]]** | #Starsmith/Assets/Path - #AssetDeck/Starsmith-Assets | **[[AST_Crew Member\|CREW MEMBER]]** |
 
 <font size=-2>Starsmith Assets is created by Eric Bright and licensed for use under the Creative Commons Attribution 4.0 International License (CC-BY).</font>

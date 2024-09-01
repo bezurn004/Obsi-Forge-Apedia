@@ -3,6 +3,7 @@
 SourceMaterial: "Starsmith Assets"
 SourceAuthor: "Eric Bright"
 SourceLink: 
+AssetDeck: "Starsmith Assets"
 
 ## Page
 aliases: 
@@ -99,6 +100,6 @@ Additionally, when you max out your training cycle to 4 and mark complete, you c
 
 | Previous Asset| Tags | Next Asset |
 | :--- | :---: | ---: |
-| **[[AST_External Refit\|EXTERNAL REFIT]]** | #Starsmith/Assets/Modules | **[[AST_Stabilizers\|STABILIZERS]]** |
+| **[[AST_External Refit\|EXTERNAL REFIT]]** | #Starsmith/Assets/Modules - #AssetDeck/Starsmith-Assets | **[[AST_Stabilizers\|STABILIZERS]]** |
 
 <font size=-2>Starsmith Assets is created by Eric Bright and licensed for use under the Creative Commons Attribution 4.0 International License (CC-BY).</font>

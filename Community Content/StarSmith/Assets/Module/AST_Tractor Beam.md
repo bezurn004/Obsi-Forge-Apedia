@@ -3,6 +3,7 @@
 SourceMaterial: "Starsmith Assets"
 SourceAuthor: "Eric Bright"
 SourceLink: 
+AssetDeck: "Starsmith Assets"
 
 ## Page
 aliases: 
@@ -98,6 +99,6 @@ In general, my intention was that the tractor beam could not be used on objects 
 
 | Previous Asset| Tags | Next Asset |
 | :--- | :---: | ---: |
-| **[[AST_Stabilizers\|STABILIZERS]]** | #Starsmith/Assets/Modules | **[[AST_Aquatic HOV\|AQUATIC HOV]]** |
+| **[[AST_Stabilizers\|STABILIZERS]]** | #Starsmith/Assets/Modules - #AssetDeck/Starsmith-Assets | **[[AST_Aquatic HOV\|AQUATIC HOV]]** |
 
 <font size=-2>Starsmith Assets is created by Eric Bright and licensed for use under the Creative Commons Attribution 4.0 International License (CC-BY).</font>

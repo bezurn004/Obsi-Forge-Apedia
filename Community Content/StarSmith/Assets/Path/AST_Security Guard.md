@@ -3,6 +3,7 @@
 SourceMaterial: "Starsmith Assets"
 SourceAuthor: "Eric Bright"
 SourceLink: 
+AssetDeck: "Starsmith Assets"
 
 ## Page
 aliases: 
@@ -96,6 +97,6 @@ The third ability gives you a method to Gather Information with heart rather tha
 
 | Previous Asset | Tags | Next Asset |
 |:--- |:---:| ---:|
-| **[[AST_Scientist\|SCIENTIST]]** | #Starsmith/Assets/Path | **[[AST_Telepath\|TELEPATH]]** |
+| **[[AST_Scientist\|SCIENTIST]]** | #Starsmith/Assets/Path - #AssetDeck/Starsmith-Assets | **[[AST_Telepath\|TELEPATH]]** |
 
 <font size=-2>Starsmith Assets is created by Eric Bright and licensed for use under the Creative Commons Attribution 4.0 International License (CC-BY).</font>

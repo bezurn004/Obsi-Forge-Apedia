@@ -3,6 +3,7 @@
 SourceMaterial: "Starsmith Assets"
 SourceAuthor: "Eric Bright"
 SourceLink: 
+AssetDeck: "Starsmith Assets"
 
 ## Page
 aliases: 
@@ -98,6 +99,6 @@ In my head, I was imagining things like making a giant wall of light to block a 
 
 | Previous Asset| Tags | Next Asset |
 | :--- | :---: | ---: |
-| **[[AST_Constable\|CONSTABLE]]** | #Starsmith/Assets/Path | **[[AST_Enhanced\|ENHANCED]]** |
+| **[[AST_Constable\|CONSTABLE]]** | #Starsmith/Assets/Path - #AssetDeck/Starsmith-Assets | **[[AST_Enhanced\|ENHANCED]]** |
 
 <font size=-2>Starsmith Assets is created by Eric Bright and licensed for use under the Creative Commons Attribution 4.0 International License (CC-BY).</font>

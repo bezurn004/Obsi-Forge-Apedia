@@ -3,6 +3,7 @@
 SourceMaterial: "Starsmith Assets"
 SourceAuthor: "Eric Bright"
 SourceLink: 
+AssetDeck: "Starsmith Assets"
 
 ## Page
 aliases: 
@@ -92,6 +93,6 @@ Note that what you don’t have are weapons. If you really want a weapon system 
 
 | Previous Asset| Tags | Next Asset |
 | :--- | :---: | ---: |
-| **[[AST_Tractor Beam\|TRACTOR BEAM]]** | #Starsmith/Assets/Vehicles | **[[AST_Constable\|CONSTABLE]]** |
+| **[[AST_Tractor Beam\|TRACTOR BEAM]]** | #Starsmith/Assets/Vehicles - #AssetDeck/Starsmith-Assets| **[[AST_Constable\|CONSTABLE]]** |
 
 <font size=-2>Starsmith Assets is created by Eric Bright and licensed for use under the Creative Commons Attribution 4.0 International License (CC-BY).</font>

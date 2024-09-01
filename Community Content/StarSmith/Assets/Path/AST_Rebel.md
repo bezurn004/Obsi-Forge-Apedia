@@ -3,6 +3,7 @@
 SourceMaterial: "Starsmith Assets"
 SourceAuthor: "Eric Bright"
 SourceLink: 
+AssetDeck: "Starsmith Assets"
 
 ## Page
 aliases: 
@@ -95,6 +96,6 @@ The third ability is obviously combat oriented. When you get fired up and are re
 
 | Previous Asset| Tags | Next Asset |
 | :--- | :---: | ---: |
-| **[[AST_Quantum Tunneler\|QUANTUM TUNNELER]]** | #Starsmith/Assets/Path | **[[AST_Roketeer\|ROCKETEER]]** |
+| **[[AST_Quantum Tunneler\|QUANTUM TUNNELER]]** | #Starsmith/Assets/Path - #AssetDeck/Starsmith-Assets | **[[AST_Roketeer\|ROCKETEER]]** |
 
 <font size=-2>Starsmith Assets is created by Eric Bright and licensed for use under the Creative Commons Attribution 4.0 International License (CC-BY).</font>

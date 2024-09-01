@@ -1,5 +1,21 @@
 # OFA - Change Log
 
+#### V0.4.1
+- [x] Add Sundered Ilse material
+      
+This revision adds the full source of Sundered Isles. While importing this content the aim was to retain a more pure of the content with only slight alterations for formatting purposes. Page numbers are retained, though not sure what their purpose will be besides being references to the full source material
+
+- [x] Assets - Adjusted dataview tables for 3 content types, SF, SI, Community Content
+	- [x] Added look up tables for asset decks for various sources
+- [x] Oracles
+	- [x] Added look up rollers for community content
+	- [x] Links to all source content in the page structure content
+- [x] Moves
+	- [x] Imported moves without braking the structure into component callouts.
+	- [x] Links to these moves point to the Move Card for more focused peek ahead.
+- [ ] Full Chapter content
+	- [ ] Complete linking for whole chapter pages
+
 ## V0.4
 - [x] Added community content folder along with the following source material
 	- [x] Starsmith Assets
@@ -41,22 +57,20 @@
 ##### Bug Fixes V0.4.0.x
 - [x] Fixed many errors on Oracle Roller page due to changes in Oracle headings / possible file corruption (I blame one-drive)
 - [x] Moved Starsmith Faction Influence Oracle to the Leadership page. Renamed page to "Sway"
-- [ ] Various typos, formatting, and style corrections
-
-#### V0.4.1 #incomplete 
-- [ ] Nail down templates prior to new content additions
-- [ ] Add Sundered Ilse material
-- [ ] Add community content
-	- [ ] Starsmith Mecha
-	- [ ] Starsmith Cultures
+- [x] Various typos, formatting, and style corrections
 
 #### V0.4.2 #incomplete 
-- [ ] Oracle tables / rollers
+- [ ] Nail down templates prior to new content additions
+- [ ] Oracle tables / rollers revamp
+	- [ ] Change for full 1 - 100 results to use look up rollers
 	- [ ] Build tables for community content
 	- [ ] Build tables for any non-oracle overlooked content
 	- [ ] Add rollers for new community content
 	- [ ] Add oracle rollers to Oracle pages within the "Guidance" call out
 	- [ ] Add oracle rollers to Moves and Source material tables
+- [ ] Add community content
+	- [ ] Starsmith Mecha
+	- [ ] Starsmith Cultures
 
 
 ## v0.3

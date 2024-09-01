@@ -3,6 +3,7 @@
 SourceMaterial: "Starsmith Assets"
 SourceAuthor: "Eric Bright"
 SourceLink: 
+AssetDeck: "Starsmith Assets"
 
 ## Page
 aliases: 
@@ -95,6 +96,6 @@ The furballs are basically born to love and be loved, so when you make a move in
 
 | Previous Asset| Tags | Next Asset |
 | :--- | :---: | ---: |
-| **[[AST_Flash Fox\|FLASH FOX]]** | #Starsmith/Assets/Companion | **[[AST_Nano-swarm\|NANO-SWARM]]** |
+| **[[AST_Flash Fox\|FLASH FOX]]** | #Starsmith/Assets/Companion - #AssetDeck/Starsmith-Assets | **[[AST_Nano-swarm\|NANO-SWARM]]** |
 
 <font size=-2>Starsmith Assets is created by Eric Bright and licensed for use under the Creative Commons Attribution 4.0 International License (CC-BY).</font>

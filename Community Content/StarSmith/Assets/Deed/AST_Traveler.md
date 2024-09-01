@@ -3,6 +3,7 @@
 SourceMaterial: "Starsmith Assets"
 SourceAuthor: "Eric Bright"
 SourceLink: 
+AssetDeck: "Starsmith Assets"
 
 ## Page
 aliases: 
@@ -97,6 +98,6 @@ While the second and third abilities don’t technically add to clock from the f
 
 | Previous Asset| Tags | Content Index |
 | :--- | :---: | ---: |
-| **[[AST_Soulless\|SOULLESS]]** | #Starsmith/Assets/Deed | **[[_STRSM Assets Index\|Starsmith Assets Index]]** |
+| **[[AST_Soulless\|SOULLESS]]** | #Starsmith/Assets/Deed - #AssetDeck/Starsmith-Assets | **[[_STRSM Assets Index\|Starsmith Assets Index]]** |
 
 <font size=-2>Starsmith Assets is created by Eric Bright and licensed for use under the Creative Commons Attribution 4.0 International License (CC-BY).</font>

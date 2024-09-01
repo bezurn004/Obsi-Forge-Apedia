@@ -3,6 +3,7 @@
 SourceMaterial: "Starsmith Assets"
 SourceAuthor: "Eric Bright"
 SourceLink: 
+AssetDeck: "Starsmith Assets"
 
 ## Page
 aliases: 
@@ -102,6 +103,6 @@ The third ability should be seen as the jet pack helping you on a journey, not n
 
 | Previous Asset| Tags | Next Asset |
 | :--- | :---: | ---: |
-| **[[AST_Rebel\|REBEL]]** | #Starsmith/Assets/Path | **[[AST_Scientist\|SCIENTIST]]** |
+| **[[AST_Rebel\|REBEL]]** | #Starsmith/Assets/Path - #AssetDeck/Starsmith-Assets | **[[AST_Scientist\|SCIENTIST]]** |
 
 <font size=-2>Starsmith Assets is created by Eric Bright and licensed for use under the Creative Commons Attribution 4.0 International License (CC-BY).</font>

@@ -3,6 +3,7 @@
 SourceMaterial: "Starsmith Assets"
 SourceAuthor: "Eric Bright"
 SourceLink: 
+AssetDeck: "Starsmith Assets"
 
 ## Page
 aliases: 
@@ -93,6 +94,6 @@ The third ability is meant to be defensive in nature only. Yes, you might be abl
 
 | Previous Asset| Tags | Next Asset |
 | :--- | :---: | ---: |
-| **[[AST_Holodeck\|HOLODECK]]** | #Starsmith/Assets/Modules | **[[AST_Tractor Beam\|TRACTOR BEAM]]** |
+| **[[AST_Holodeck\|HOLODECK]]** | #Starsmith/Assets/Modules - #AssetDeck/Starsmith-Assets | **[[AST_Tractor Beam\|TRACTOR BEAM]]** |
 
 <font size=-2>Starsmith Assets is created by Eric Bright and licensed for use under the Creative Commons Attribution 4.0 International License (CC-BY).</font>

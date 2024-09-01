@@ -3,6 +3,7 @@
 SourceMaterial: "Starsmith Assets"
 SourceAuthor: "Eric Bright"
 SourceLink: 
+AssetDeck: "Starsmith Assets"
 
 ## Page
 aliases:
@@ -100,6 +101,6 @@ For the third ability, I wanted something that would drive some story components
 
 | Section Page | Tags | Next Asset |
 | :--- | :---: | ---: |
-| **[[_STRSM_Module Assets\|Starsmith Assets Module Index]]** | #Starsmith/Assets/Modules | **[[AST_Armory\|ARMORY]]** |
+| **[[_STRSM_Module Assets\|Starsmith Assets Module Index]]** | #Starsmith/Assets/Modules - #AssetDeck/Starsmith-Assets | **[[AST_Armory\|ARMORY]]** |
 
 <font size=-2>Starsmith Assets is created by Eric Bright and licensed for use under the Creative Commons Attribution 4.0 International License (CC-BY).</font>

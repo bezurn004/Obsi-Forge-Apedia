@@ -3,6 +3,7 @@
 SourceMaterial: "Starsmith Assets"
 SourceAuthor: "Eric Bright"
 SourceLink: 
+AssetDeck: "Starsmith Assets"
 
 ## Page
 aliases: 
@@ -97,6 +98,6 @@ The third ability is meant to be the drones going out and leading enemies away o
 
 | Previous Asset| Tags | Next Asset |
 | :--- | :---: | ---: |
-| **[[AST_Armory\|ARMORY]]** | #Starsmith/Assets/Modules | **[[AST_External Refit\|EXTERNAL REFIT]]** |
+| **[[AST_Armory\|ARMORY]]** | #Starsmith/Assets/Modules - #AssetDeck/Starsmith-Assets | **[[AST_External Refit\|EXTERNAL REFIT]]** |
 
 <font size=-2>Starsmith Assets is created by Eric Bright and licensed for use under the Creative Commons Attribution 4.0 International License (CC-BY).</font>

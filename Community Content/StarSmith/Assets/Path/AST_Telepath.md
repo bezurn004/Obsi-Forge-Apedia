@@ -3,6 +3,7 @@
 SourceMaterial: "Starsmith Assets"
 SourceAuthor: "Eric Bright"
 SourceLink: 
+AssetDeck: "Starsmith Assets"
 
 ## Page
 aliases: 
@@ -98,6 +99,6 @@ The third ability was originally the old locate object spell just hĳacking some
 
 | Previous Asset| Tags | Next Asset |
 | :--- | :---: | ---: |
-| **[[AST_Security Guard\|SECURITY GUARD]]** | #Starsmith/Assets/Path | **[[AST_Voidshifter\|VOIDSHIFTER]]** |
+| **[[AST_Security Guard\|SECURITY GUARD]]** | #Starsmith/Assets/Path - #AssetDeck/Starsmith-Assets | **[[AST_Voidshifter\|VOIDSHIFTER]]** |
 
 <font size=-2>Starsmith Assets is created by Eric Bright and licensed for use under the Creative Commons Attribution 4.0 International License (CC-BY).</font>

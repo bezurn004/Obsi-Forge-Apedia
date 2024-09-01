@@ -3,6 +3,7 @@
 SourceMaterial: "Starsmith Assets"
 SourceAuthor: "Eric Bright"
 SourceLink: 
+AssetDeck: "Starsmith Assets"
 
 ## Page
 aliases: 
@@ -97,6 +98,6 @@ The third ability is meant to drive narrative. What if your DNA held the key hum
 
 | Previous Asset| Tags | Next Asset |
 | :--- | :---: | ---: |
-| **[[AST_Cosmic Constructor\|COSMIC CONSTRUCTOR]]** | #Starsmith/Assets/Path | **[[AST_Linguist\|LINGUIST]]** |
+| **[[AST_Cosmic Constructor\|COSMIC CONSTRUCTOR]]** | #Starsmith/Assets/Path - #AssetDeck/Starsmith-Assets | **[[AST_Linguist\|LINGUIST]]** |
 
 <font size=-2>Starsmith Assets is created by Eric Bright and licensed for use under the Creative Commons Attribution 4.0 International License (CC-BY).</font>

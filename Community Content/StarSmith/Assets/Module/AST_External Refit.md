@@ -3,6 +3,7 @@
 SourceMaterial: "Starsmith Assets"
 SourceAuthor: "Eric Bright"
 SourceLink: 
+AssetDeck: "Starsmith Assets"
 
 ## Page
 aliases: 
@@ -97,7 +98,7 @@ Inspired by Star Trek yet again, the third ability is modeled after the Promethe
 
 | Previous Asset | Tags | Next Asset |
 |:--- |:---:| ---:|
-| **[[AST_Drones\|DRONES]]** | #Starsmith/Assets/Modules | **[[AST_Holodeck\|HOLODECK]]** |
+| **[[AST_Drones\|DRONES]]** | #Starsmith/Assets/Modules - #AssetDeck/Starsmith-Assets | **[[AST_Holodeck\|HOLODECK]]** |
 
 <font size=-2>Starsmith Assets is created by Eric Bright and licensed for use under the Creative Commons Attribution 4.0 International License (CC-BY).</font>
 
