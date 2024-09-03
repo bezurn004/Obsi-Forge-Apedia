@@ -4,14 +4,14 @@
 
 | Subject | Page |
 | --- | --- |
-| PREPARE TO SET SAIL | [[#PREPARE TO SET SAIL\|66]] |
-| SELECT YOUR REALM | [[#SELECT YOUR REALM\|69]] |
-| CHOOSE YOUR TRUTHS | [[#CREATE YOUR CHARACTER\|76]] |
-| SET YOUR FACTIONS | [[#SET YOUR FACTIONS\|88]] |
-| CREATE YOUR CHARACTER | [[#CREATE YOUR CHARACTER\|90]] |
-| TAKE COMMAND | [[#TAKE COMMAND\|96]] |
-| CHART YOUR COURSE | [[#CHART YOUR COURSE\|100]] |
-| SET THE SCENE | [[#SET THE SCENE\|108]] |
+| PREPARE TO SET SAIL | [[#PREPARE TO SET SAIL\|Page 66]] |
+| SELECT YOUR REALM | [[#SELECT YOUR REALM\|Page 69]] |
+| CHOOSE YOUR TRUTHS | [[#CREATE YOUR CHARACTER\|Page 76]] |
+| SET YOUR FACTIONS | [[#SET YOUR FACTIONS\|Page 88]] |
+| CREATE YOUR CHARACTER | [[#CREATE YOUR CHARACTER\|Page 90]] |
+| TAKE COMMAND | [[#TAKE COMMAND\|Page 96]] |
+| CHART YOUR COURSE | [[#CHART YOUR COURSE\|Page 100]] |
+| SET THE SCENE | [[#SET THE SCENE\|Page 108]] |
  
 *64*
 
@@ -26,24 +26,23 @@ What sort of adventures do you want to undertake? Swashbuckling action? Treasure
 If you’re unsure, the decisions you make in these exercises set your course. But don’t let the exercises undermine your own preferences. This section gives you a true north, but you are at the helm. Steer the ship as you like.
 
 ## BUILD A WORLD MINDFULLY
-Depending on your choices in these exercises, your version of the Sundered Isles might feature aspects of the real-world age of sail. In popular media, this “age of discovery” is often romanticized. In reality, it was a time of brutal conquest, exploitation, and
-enslavement perpetrated by colonial powers. 
+Depending on your choices in these exercises, your version of the Sundered Isles might feature aspects of the real-world age of sail. In popular media, this “age of discovery” is often romanticized. In reality, it was a time of brutal conquest, exploitation, and enslavement perpetrated by colonial powers. 
 
 However, this is your world. You are encouraged to emphasize fun and adventure, but should do so in a way that doesn’t reinforce the harmful ideologies and stereotypes of our own history. Consider the following:
 
 - **Prioritize diversity.** There are no setting assumptions that constrain your depiction of race, culture, disability, sexual  orientation, or gender identity. Envision a world of vibrant possibilities.
 - **Reject the narratives used by colonizers to dehumanize indigenous people.** Do not depict any indigenous culture of the isles as monolithic in their values or as universally good or evil. Do not portray them as inherently primitive, strange, or magical compared to “default” identities.
 - **Resist injustice.** If imperial forces have a role in your setting, they build their wealth, strength, and influence through exploitation and oppression. In their arrogance, they claim discovery and dominion over lands long-known and long-inhabited. Make no mistake—they are the enemy. Your character is not another cog in the colonial machine. You are meant to break the machine.
-- **Carefully consider the representation of slavery in your campaign.** The slave trade was an abhorrent reality of the colonial age, but is not assumed to be an aspect of the Sundered Isles. For you or another player, any depiction of slavery may be harmful or unwanted content. Discuss this in the context of your worldbuilding and Set a Flag as needed. If slavery is a reality in your setting, do not trivialize or romanticize it.
+- **Carefully consider the representation of slavery in your campaign.** The slave trade was an abhorrent reality of the colonial age, but is not assumed to be an aspect of the _Sundered Isles_. For you or another player, any depiction of slavery may be harmful or unwanted content. Discuss this in the context of your worldbuilding and [[4 - Moves#SET A FLAG|Set a Flag]] as needed. If slavery is a reality in your setting, do not trivialize or romanticize it.
 - 
 *66 GETTING UNDERWAY*
 
 ## SUPPORT PLAYER SAFETY
-As you work through the campaign launch exercises and anytime during play, use the [[MV_Set a Flag|Set a Flag (move)]]to identify content boundaries and to prioritize player safety, comfort, and fun over the narrative. This can include content that will be omitted, modified, or addressed on a case-by-case basis if it is encountered in your game.
+As you work through the campaign launch exercises and anytime during play, use the [[4 - Moves#SET A FLAG|Set a Flag]] to identify content boundaries and to prioritize player safety, comfort, and fun over the narrative. This can include content that will be omitted, modified, or addressed on a case-by-case basis if it is encountered in your game.
 
-Work with other players to ensure a collaborative environment where everyone can [[MV_Set a Flag|Set a Flag (move)]]. But keep in mind that using this move should not force a discussion of a content boundary. Players do not need to provide details or justification. If that is their wish, note the flagged content and move on.
+Work with other players to ensure a collaborative environment where everyone can [[4 - Moves#SET A FLAG|Set a Flag]]. But keep in mind that using this move should not force a discussion of a content boundary. Players do not need to provide details or justification. If that is their wish, note the flagged content and move on.
 
-![[MV_Set a Flag#Set A Flag Move Card]]
+![[4 - Moves#SET A FLAG]]
 
 ### USING OTHER SAFETY TOOLS
 You might find that the Starforged session moves don’t fit the needs of your table. Each person is unique in what safety tools work for them, and many other safety tools address this variety of needs.
@@ -53,36 +52,36 @@ You can explore resources like the TTRPG Safety Toolkit to find safety tools tha
 > ## WANT A QUICK START? 
 > If you already have some idea of the setting, tone, and starting situations for your campaign, or if you are returning to an existing world, you can skip most of these exercises. Instead, do only the following:
 > 
-> - Create your character using the exercise [starting on page 90].
-> - Choose your command using the exercise [starting on page 96].
+> - Create your character using the exercise [[#CREATE YOUR CHARACTER|starting on page 90]].
+> - Choose your command using the exercise [[#CHOOSE YOUR COMMAND|starting on page 96]].
 > - Play! You can sort out the rest through the course of your story.
 > 
 > Otherwise, if you are starting with a clean slate and want to set the stage for your adventures, turn to the next page to get started.
 
-*PREPARE TO SET SAIL 67*
+*67 PREPARE TO SET SAIL*
 
 ## GETTING STARTED
 Work through the exercises below. This is a recommended order. If you’d prefer a different order, such as building your character before generating the details of your setting, adjust as you like.
 
-> [!cite] 1 | **Select Your Realm (page 69)**
+> [!cite] 1 | **[[#SELECT YOUR REALM|Select Your Realm]] (page 69)**
 > Pick the overall setting for your campaign.
 
-> [!cite] 2 | **Choose Your Truths (page 76)**
+> [!cite] 2 | **[[#CHOOSE YOUR TRUTHS|Choose Your Truths]] (page 76)**
 > Decide what is true for your version of the Sundered Isles.
 
-> [!cite] 3 | **[Set Your Factions (page 88)]**
+> [!cite] 3 | **[[[#SET YOUR FACTIONS|Set Your Factions]] (page 88)**
 > Envision the influential powers of your world.
 
-> [!cite] 4 | **[Create Your Character (page 90)]**
+> [!cite] 4 | **[[#CREATE YOUR CHARACTER|Create Your Character]] (page 90)**
 > Set your character’s background, abilities, and characteristics.
 
-> [!cite] 5 | **[Take Command (page 96)]**
+> [!cite] 5 | **[[#TAKE COMMAND|Take Command]] (page 96)**
 > Choose your role and decide the nature of your ship and crew.
 
-> [!cite] 6 | **[Chart Your Course (page 100)]**
+> [!cite] 6 | **[[#CHART YOUR COURSE|Chart Your Course]] (page 100)**
 > Create a map as a starting place for your adventures.
 
-> [!cite] 7 | **[Set the Scene (page 108)]**
+> [!cite] 7 | **[[#SET THE SCENE|Set the Scene]] (page 108)**
 > Get your story underway.
 
 A word of warning: You might find your creative batteries running low if you pack the exercises into a single session. Consider breaking them into two or three sessions—whatever works for your group.
@@ -98,17 +97,17 @@ The Seafaring Realm is the default. The setting truths, oracles, and character a
 
 However, much of this is narrative texture that can be reenvisioned to better fit your preferred realm. “Sea” becomes a colloquial term to describe airborne or starborne passages. “Islands” are floating remnants of a shattered continent—or entire planets. You can focus on using the abstract, interpretative oracles instead of those that are more specific to the default setting. No matter your choice, you undertake adventures of sail and saber in a perilous age.
 
-In short, for the most out-of-the-box Sundered Isles experience, choose the Seafaring Realm. If you are willing to make a creative leap of faith or have a specific setting in mind, the _Starforged_ system is flexible enough to accommodate other adventures.
+In short, for the most out-of-the-box _Sundered Isles_ experience, choose the Seafaring Realm. If you are willing to make a creative leap of faith or have a specific setting in mind, the _Starforged_ system is flexible enough to accommodate other adventures.
 
-Check the following pages for details on the realms. Scan or read those entries as you like to learn more about their features and default assumptions. Once you make your choice, continue to the [next exercise on page 76.]
+Check the following pages for details on the realms. Scan or read those entries as you like to learn more about their features and default assumptions. Once you make your choice, continue to the [[#CHOOSE YOUR TRUTHS|next exercise on page 76]].
 
-> [!summary] ### SEAFARING REALM | page 70
+> [!summary] ### [[#THE SEAFARING REALM|SEAFARING REALM]] | \page 70
 > The Sundered Isles lie within vast and perilous seas. 
 
-> [!progress] ### SKYFARING REALM | page 72 
+> [!progress] ### [[#THE SKYFARING REALM|SKYFARING REALM]] | page 72
 > The Sundered Isles are the lofty fragments of a shattered continent.
 
-> [!cite] ### STARFARING REALM | page 74
+> [!cite] ### [[#THE STARFARING REALM|STARFARING REALM]] | page 74
 > The Sundered Isles are untold worlds adrift on aetherial tides.  
 
 *69 SELECT YOUR REALM* 
@@ -184,8 +183,7 @@ For bold sailors who set off into this realm, the aether is life. Its starborne 
 *74 GETTING UNDERWAY*
 
 # CHOOSE YOUR TRUTHS
-In this exercise, you set the tone and background for your campaign by deciding the nature of your version of the Sundered Isles. These are your truths. When you’re done, you’ll have key aspects of your setting sketched out, and a backdrop of challenges to
-help fuel your adventures.
+In this exercise, you set the tone and background for your campaign by deciding the nature of your version of the Sundered Isles. These are your truths. When you’re done, you’ll have key aspects of your setting sketched out, and a backdrop of challenges to help fuel your adventures.
 > #missingArt Allow about 30–45 minutes for this exercise.
 
 ## THE TRUTH CATEGORIES
@@ -193,16 +191,16 @@ This section includes 11 categories to help envision your version of the _Sunder
 
 |  |  |  |  |
 | --- | --- | --- | --- |
-| Sundering | Page 77 | Piracy | Page 83 |
-| Relics | Page 78 | Religion | Page 84 |
-| Modern Era | Page 79 | Magic | Page 85 |
-| Iron Vows | Page 80 | Beasts | Page 86 |
-| Navigation | Page 81 | Horrors | Page 87 |
-| Empires | Page 82 |  |  |
+| Sundering | [[#SUNDERING\|Page 77]] | Piracy | [[#PIRACY\|Page 83]] |
+| Relics | [[#RELICS\|Page 78]] | Religion | [[#RELIGION\|Page 84]] |
+| Modern Era | [[#MODERN ERA\|Page 79]] | Magic | [[#MAGIC\|Page 85]] |
+| Iron Vows | [[#Iron Vows\|Page 80]] | Beasts | [[#BEASTS\|age 86]] |
+| Navigation | [[#NAVIGATION\|Page 81]] | Horrors | [[#HORRORS\|Page 87]] |
+| Empires | [[#EMPIRES\|Page 82]] |  |  |
 
-To keep things moving, read the bold text in each category as a rundown of your options. Use or ignore the expanded summaries and quest starters as you like. For more tips on choosing your truths, [see page 83] in the _Starforged_ rulebook.
+To keep things moving, read the bold text in each category as a rundown of your options. Use or ignore the expanded summaries and quest starters as you like. For more tips on choosing your truths, [[CTR_Choose Your Truths#Tips For Managing This Exercise|see page 83]] in the _Starforged_ rulebook.
 
-Each category also includes suggestions for character assets, marked with a person (![[character.svg|15]]) icon, and potential factions to add to the setting, marked with a flag (8) icon. If a recommended asset interests you, or a faction fits your vision for the world, make note of it. In the following two exercises, you introduce factions to the isles and choose your character assets.
+Each category also includes suggestions for character assets, marked with a person (![[character.svg|15]]) icon, and potential factions to add to the setting, marked with a flag (![[rectangular_flag_chevron_white.svg|20]]) icon. If a recommended asset interests you, or a faction fits your vision for the world, make note of it. In the following two exercises, you introduce factions to the isles and choose your character assets.
 
 ## HOW TO SELECT YOUR TRUTHS
 Select your truth for each category in one of three ways. Mix and match these techniques as you like..
@@ -247,9 +245,9 @@ How did the isles earn their name?
 
 > Quest Starter: An explorer brings news. They’ve located what they say is a nexus of chaotic energy. If it could be deactivated, the isles might find some measure of peace. Which power or foe seeks to harness this power to their own ends?
 ---
-![[character.svg|20]] If you are all that remains of a pre-Sundering people, culture, or tradition, you might be a [**VESTIGE**]. If the echoes of the cataclysm have left you with unnatural powers, you might be a [**SORCERER**]. If you embody the legacy of a deep-dwelling people, you might be [**WATERBORN**].
+![[character.svg|20]] If you are all that remains of a pre-Sundering people, culture, or tradition, you might be a **[[AST_Vestive|VESTIGE]]**. If the echoes of the cataclysm have left you with unnatural powers, you might be a **[[AST_Sorcerer|SORCERER]]**. If you embody the legacy of a deep-dwelling people, you might be **[[AST_Waterborn|WATERBORN]]**.
 
-[flag] A seafaring tribe seeks to locate and unite scattered people displaced during the Sundering. An order of sorcerers exploits the chaotic forces that caused the cataclysm.
+![[rectangular_flag_chevron_white.svg|20]] A seafaring tribe seeks to locate and unite scattered people displaced during the Sundering. An order of sorcerers exploits the chaotic forces that caused the cataclysm.
 
 *77 CHOOSE YOUR TRUTHS*
 
@@ -283,9 +281,9 @@ ___
 
 > Quest Starter: Dozens of ancient towers have flared to life, sending up beacons of light visible from leagues away. These lodestars form a marked path that stretches well beyond the far horizon. Why do you set out to see where this path leads?
 
-![[character.svg|20]] If you are dedicated to searching out mysteries or preserving the legacy of lost relics, you might be a [**SCHOLAR**]. If you deal in recovered or stolen relics, you might be a [**PEDDLER**]. If you delve wrecks and ruins to gather resources or riches, you might be a [**SCAVENGER**].
+![[character.svg|20]] If you are dedicated to searching out mysteries or preserving the legacy of lost relics, you might be a **[[AST_Scholar|SCHOLAR]]**. If you deal in recovered or stolen relics, you might be a **[[AST_Peddler|PEDDLER]]**. If you delve wrecks and ruins to gather resources or riches, you might be a **[[AST_Scavenger|SCAVENGER]]**.
 
-[flag] A society of researchers and archaeologists works to understand lost people and relics. A sacred order of caretakers protects age-old sites from trespassers and grave robbers. An underground ring of fortune seekers supplies a black market trade of stolen treasures.
+![[rectangular_flag_chevron_white.svg|20]] A society of researchers and archaeologists works to understand lost people and relics. A sacred order of caretakers protects age-old sites from trespassers and grave robbers. An underground ring of fortune seekers supplies a black market trade of stolen treasures.
 
 *78 GETTING UNDERWAY* 
 
@@ -319,11 +317,11 @@ What is the state of technology?
  
 > Quest Starter: An enemy faction is building a colossal machine of fantastic destructive potential. What is the nature of this machine, and why are you sworn to see it destroyed?
 
-![[character.svg|20]] If you hew to the traditions of shipbuilding and repair, you might be a **[SHIPWRIGHT]**. If you understand the intricacies of machines, you might be a **[GEARHEAD]**. If you are fitted with a mechanical enhancement, you might be **[AUGMENTED]**. If you are forged by ancient secrets or newfound technologies, you might be a **[CONSTRUCT]**.
+![[character.svg|20]] If you hew to the traditions of shipbuilding and repair, you might be a **[[AST_Shipwright|SHIPWRIGHT]]**. If you understand the intricacies of machines, you might be a **[[AST_Gearhead|GEARHEAD]]**. If you are fitted with a mechanical enhancement, you might be **[[AST_Augmented|AUGMENTED]]**. If you are forged by ancient secrets or newfound technologies, you might be a **[[AST_Construct|CONSTRUCT]]**.
 
-[flag] A shipwright’s guild honors and develops the age-old craft of shipbuilding. An industrialized trade company is ever-hungrier for raw materials. An order of artificers crafts extraordinary machines. A fellowship of outcast automatons must find their way in a world that largely sees them as tools or abominations.
+![[rectangular_flag_chevron_white.svg|20]] A shipwright’s guild honors and develops the age-old craft of shipbuilding. An industrialized trade company is ever-hungrier for raw materials. An order of artificers crafts extraordinary machines. A fellowship of outcast automatons must find their way in a world that largely sees them as tools or abominations.
 
-*CHOOSE YOUR TRUTHS 79*
+*79 CHOOSE YOUR TRUTHS*
 
 ## IRON VOWS  
 What is the significance of iron and sworn vows?
@@ -355,9 +353,9 @@ What is the significance of iron and sworn vows?
 
 > Quest Starter: A merciless and powerful raider wears the bondstones of their victims as trophies. One of those totems is rightfully yours. To whom did it previously belong?
 
-[char] If you are sworn to a cause, you might be [BANNERSWORN]. If you carry an honor-bound blade, you might be a [BLADEMASTER]. If you fight for personal honor, you might be a [DUELIST]. If your vows are shared with those in your charge, you might be a [CREW COMMANDER].
+![[character.svg|20]] If you are sworn to a cause, you might be **[[AST_Bannersworn|BANNERSWORN]]**. If you carry an honor-bound blade, you might be a **[[AST_Blademaster|BLADEMASTER]]**. If you fight for personal honor, you might be a **[[AST_Duelist|DUELIST]]**. If your vows are shared with those in your charge, you might be a **[[AST_Crew Commander|CREW COMMANDER]]**.
 
-[flag] An order of Ironsworn wardens is dedicated to protecting the people of the isles. A band of iron privateers sells their vows—and their loyalty—to the highest bidder.  
+![[rectangular_flag_chevron_white.svg|20]] An order of Ironsworn wardens is dedicated to protecting the people of the isles. A band of iron privateers sells their vows—and their loyalty—to the highest bidder.  
 
 *80 GETTING UNDERWAY*
 
@@ -391,9 +389,9 @@ How are people and places connected?
 
 > Quest Starter: Someone will pay well for passage through an everlasting bleakmist. What do they seek on the other side?
 
-[char] If you are skilled at finding your way among the isles, you might be a [NAVIGATOR]. If you trailblaze inland paths, you might be an [OVERLANDER]. If you carry precious items on your expeditions, you might be a [COURIER]. If you wield mystical powers over the wind to see a ship safely on its way, you might be a [WINDBINDER].  
+![[character.svg|20]] If you are skilled at finding your way among the isles, you might be a **[[AST_Navigator|NAVIGATOR]]**. If you trailblaze inland paths, you might be an **[[AST_Overlander|OVERLANDER]]**. If you carry precious items on your expeditions, you might be a **[[AST_Courier|COURIER]]**. If you wield mystical powers over the wind to see a ship safely on its way, you might be a **[[AST_Windbinder|WINDBINDER]]**.  
 
-[flag] A guild of navigators collects and safeguards charts of the isles. A coven of sea witches guides ships through cursed waters.
+![[rectangular_flag_chevron_white.svg|20]] A guild of navigators collects and safeguards charts of the isles. A coven of sea witches guides ships through cursed waters.
 
 *81 CHOOSE YOUR TRUTHS*
 
@@ -427,9 +425,9 @@ How great is the threat of colonization and conquest?
 
 > Quest Starter: A valuable prisoner is held in an imperial fortress. Who is this person, and why are they the best hope for rebellion?
 
-[char] If you resolve disputes and secure anti-imperial alliances, you might be a [DIPLOMAT]. If you battle empires with blades and daring, you might be a [SWASHBUCKLER]. If you work in the shadows, you might be a [SPY]. If you navigate court intrigues, you might be a [SOCIALITE]. If you are on the run from imperial forces, you might be a [FUGITIVE].
+![[character.svg|20]] If you resolve disputes and secure anti-imperial alliances, you might be a **[[AST_Diplomat|DIPLOMAT]]**. If you battle empires with blades and daring, you might be a **[[AST_Swashbuckler|SWASHBUCKLER]]**. If you work in the shadows, you might be a **[[AST_Spy|SPY]]**. If you navigate court intrigues, you might be a **[[AST_Socialite|SOCIALITE]]**. If you are on the run from imperial forces, you might be a **[[AST_Fugitive|FUGITIVE]]**.
 
-[flag] A tyrannical empire seeks to expand its domain. A secret network of insurgents fights an empire from within. A rebel alliance fans the flames of freedom.
+![[rectangular_flag_chevron_white.svg|20]] A tyrannical empire seeks to expand its domain. A secret network of insurgents fights an empire from within. A rebel alliance fans the flames of freedom.
 
 *82 GETTING UNDERWAY*
 
@@ -462,9 +460,9 @@ What influence do pirates wield?
 
 > Quest Starter: There are schisms within the Dread Court. An assassination has tipped the latest gathering into chaos and threatens the future of this burgeoning power. Will you work to restore the alliance, or use the mayhem to your own advantage?
 
-[char] If you hunt marauding pirates, you might be a [BOUNTY HUNTER]. If you serve among a band of pirates, you might be a [CUTTHROAT]. If you are a young greenhorn or stowaway among a pirate crew, you might be an [URCHIN]. If you stand in command of a pirate ship, you might be a [PIRATE CAPTAIN].
+![[character.svg|20]] If you hunt marauding pirates, you might be a **[[AST_Bounty Hunter|BOUNTY HUNTER]]**. If you serve among a band of pirates, you might be a **[[AST_Cutthroat|CUTTHROAT]]**. If you are a young greenhorn or stowaway among a pirate crew, you might be an **[[AST_Urchine|URCHIN]]**. If you stand in command of a pirate ship, you might be a **[[AST_Pirate Captain|PIRATE CAPTAIN]]**.
 
-[flag] An alliance of pirates unites against a common enemy. A guild of pirate hunters collects bounties on wanted marauders. An imperial navy seeks to scour the seas of pirates and other enemies.
+![[rectangular_flag_chevron_white.svg|20]] An alliance of pirates unites against a common enemy. A guild of pirate hunters collects bounties on wanted marauders. An imperial navy seeks to scour the seas of pirates and other enemies.
 
 *83 CHOOSE YOUR TRUTHS*
 
@@ -498,9 +496,9 @@ What is the role of faith?
 
 > Quest Starter: A cult seeks to take control of a site reputed to hold an artifact of the fallen gods. What holy object do they seek? Why are you sworn to stop them?  
 
-[char] If you are an ardent follower of a religion or creed, you might be a [DEVOTANT]. If you follow a prophesied path, you might be [FATED]. If you are cursed by the gods with foul luck, you might be a [JINX].
+![[character.svg|20]] If you are an ardent follower of a religion or creed, you might be a **[[AST_Devotant|DEVOTANT]]**. If you follow a prophesied path, you might be **[[AST_Fated|FATED]]**. If you are cursed by the gods with foul luck, you might be a **[[AST_Jinx|JINX]]**.
 
-[flag] A tribe of nature-worshipers is sworn to protect the Isles against despoilers. An order of zealous inquisitors hunts dissenters and heretics. A theocratic empire forces its oppressive beliefs upon others. An eldritch cult seeks to resurrect or awaken an ancient entity.
+![[rectangular_flag_chevron_white.svg|20]] A tribe of nature-worshipers is sworn to protect the Isles against despoilers. An order of zealous inquisitors hunts dissenters and heretics. A theocratic empire forces its oppressive beliefs upon others. An eldritch cult seeks to resurrect or awaken an ancient entity.
 
 *84 GETTING UNDERWAY*
 
@@ -534,9 +532,9 @@ What is the impact of supernatural forces?
 
 > Quest Starter: Someone you love is corrupted by cursed powers, and is set on a destructive course of vengeance. What caused their fall? Do you seek to save them or defeat them?
 
-[char] If you posses supernatural powers, you might be an [EMPATH], [KINETIC], [NECROMANCER], [SEER], [SHADE], [SORCERER], or [WINDBINDER]. If your unnatural abilities have made you a pariah, you might be an [OUTCAST].
+![[character.svg|20]] If you posses supernatural powers, you might be an **[[AST_Empath|EMPATH]]**, **[[AST_Kinetic|KINETIC]]**, **[[AST_Necromancer|NECROMANCER]]**, **[[AST_Seer|SEER]]**, **[[AST_Shade|SHADE]]**, **[[AST_Sorcerer|SORCERER]]**, or **[[AST_Windbinder|WINDBINDER]]**. If your unnatural abilities have made you a pariah, you might be an **[[AST_Outcast|OUTCAST]]**.
 
-[flag] A circle of mystics protects ancient secrets and trains promising initiates. A sorcerous imperial guard uses its uncanny abilities to hunt down enemies of the empire. An order of witch hunters persecutes those with magical talents.
+![[rectangular_flag_chevron_white.svg|20]] A circle of mystics protects ancient secrets and trains promising initiates. A sorcerous imperial guard uses its uncanny abilities to hunt down enemies of the empire. An order of witch hunters persecutes those with magical talents.
 
 *85 CHOOSE YOUR TRUTHS*
 
@@ -570,9 +568,9 @@ What is the nature of extraordinary creatures?
 
 > Quest Starter: Tales tell of the means of forming a bond with the mightiest of the world’s beasts, the Kraken. Many have undertaken this quest, but none have succeeded. What must you accomplish to gain an accord with the Kraken, and why would you face this trial?
 
-[char] If you are skilled at battling beasts, you might be a [SLAYER] or [HARPOONER]. If you are bound to a beast, you might ride a [DRAGON] or summon [THE KRAKEN]. If you transform into a beastly form, you might be a  [HAPECHANGER].
+![[character.svg|20]] If you are skilled at battling beasts, you might be a **[[AST_Slayer|SLAYER]]** or **[[AST_Harpooner|HARPOONER]]**. If you are bound to a beast, you might ride a **[[AST_Dragon|DRAGON]]** or summon **[[AST_The Kraken|THE KRAKEN]]**. If you transform into a beastly form, you might be a **[[AST_Shapechanger|SHAPECHANGER]]**.
 
-[flag] An order of beast slayers defends ships and settlements from beast attacks. A beast-hunting trade company deals in trophies and resources gathered from slain creatures. A clan of beast-bonded folk protects their sacred companions.
+![[rectangular_flag_chevron_white.svg|20]] An order of beast slayers defends ships and settlements from beast attacks. A beast-hunting trade company deals in trophies and resources gathered from slain creatures. A clan of beast-bonded folk protects their sacred companions.
 
 *86 GETTING UNDERWAY*
 
@@ -606,12 +604,11 @@ What dreadful forces haunt the Sundered Isles?
 
 > Quest Starter: For generations, an infamous ghost fleet has haunted these seas, sending countless mariners to their doom. Why do you now seek to form an alliance with the cursed commander of this fleet?
 
-[char] If you are plagued by a ghost, you might be [HAUNTED]. If you dedicate yourself to battling undead or monstrous forces, you might be a [SLAYER]. If you have unnatural powers over death, you might be a [NECROMANCER].
+![[character.svg|20]] If you are plagued by a ghost, you might be **[[AST_Haunted|HAUNTED]]**. If you dedicate yourself to battling undead or monstrous forces, you might be a **[[AST_Slayer|SLAYER]]**. If you have unnatural powers over death, you might be a **[[AST_Necromancer|NECROMANCER]]**.
 
-[flag] An order of ghost-hunting occultists is sworn to vanquish the woken dead. The vampire clans sail the islands in their dreaded nightships, preying upon ships and
-settlements. A cabal of necromancers commands an undead fleet.
+![[rectangular_flag_chevron_white.svg|20]] An order of ghost-hunting occultists is sworn to vanquish the woken dead. The vampire clans sail the islands in their dreaded nightships, preying upon ships and settlements. A cabal of necromancers commands an undead fleet.
 
-*CHOOSE YOUR TRUTHS 87*
+*87 CHOOSE YOUR TRUTHS*
 
 # SET YOUR FACTIONS
 What people and powers inhabit your version of the isles? In this exercise, taking inspiration from your truths, you choose or envision a handful of influential factions.
@@ -626,8 +623,7 @@ As part of this exercise, you’ll want to record some notes. Grab some index ca
 Consider the outcome of the truths exercise. What important or interesting powers come to mind? Is there a single, oppressive empire? Multiple empires? What people and organizations inhabit the isles? Do supernatural forces wield power or authority in your world? For the purposes of this exercise, make note of three or four factions. You’ll encounter other people and powers through the course of your story, but this is enough to get things rolling.
 
 > [!tip] Group Play
-> If you are playing with others, take turns suggesting a faction. Use this as an opportunity to discuss character concepts, what brought you together as allies, and
-how a suggested faction can tie into your character’s background or motivations.
+> If you are playing with others, take turns suggesting a faction. Use this as an opportunity to discuss character concepts, what brought you together as allies, and how a suggested faction can tie into your character’s background or motivations.
 
 ### RECORDING FACTION DETAILS
 Give each faction a name and a short summary with a few commonly understood details. Two to four bullet points are about right. 
@@ -639,11 +635,11 @@ Give each faction a name and a short summary with a few commonly understood deta
 > - Ships have black sails
 
 ### WANT INSPIRATION?
-If you’d prefer to keep it simple, start with a placeholder description—for example, “Tyrannical Empire” or “Undead Pirates.”  If you’d like suggestions for factions, [turn to pages 52–55]. You’ll find brief summaries for factions across four categories: societies, organizations, empires, and the cursed. You can roll for a random faction, pick  from any list, or customize and combine options. Elaborate on your choices as you like, and consider any unanswered questions implied by the descriptions.
+If you’d prefer to keep it simple, start with a placeholder description—for example, “Tyrannical Empire” or “Undead Pirates.”  If you’d like suggestions for factions, [[1 - Adevntures Among the Isles#^Faction-Societies|turn to pages 52–55]]. You’ll find brief summaries for factions across four categories: societies, organizations, empires, and the cursed. You can roll for a random faction, pick  from any list, or customize and combine options. Elaborate on your choices as you like, and consider any unanswered questions implied by the descriptions.
 
 Let your selections—even random ones—support your truths in the previous exercise and your preferences for the campaign. If colonial empires are not present in your version of the isles or hold no influence, ignore them. If supernatural forces do not exist, you can treat cursed factions as myths or rumors.
 
-You can also generate details with the [Faction Oracles (page 176)]. Or use real-world history, other games, or media for inspiration—adjust and reimagine as needed.
+You can also generate details with the [[3 - Oracles#FACTION ORACLES|Faction Oracles]] (page 176). Or use real-world history, other games, or media for inspiration—adjust and reimagine as needed.
 
 *88 GETTING UNDERWAY*
 
@@ -659,10 +655,9 @@ If the answer to any of those questions is “no,” rethink the faction or choo
 Now that you have a handful of factions to set loose in your world, you can brainstorm their relationships to help envision opportunities for conflict and drama in your story.
 
 ### CONNECT THE DOTS
-Take a moment to consider how the factions relate to each other. Are they at war? Allied against a mutual foe? Is one supporting the other—perhaps in secret? For some factions, this might be obvious. An empire is likely in conflict with factions that stand against them. Pirate clans undertake piracy, although they may use discretion when
-choosing targets. Other relationships might be more nuanced.
+Take a moment to consider how the factions relate to each other. Are they at war? Allied against a mutual foe? Is one supporting the other—perhaps in secret? For some factions, this might be obvious. An empire is likely in conflict with factions that stand against them. Pirate clans undertake piracy, although they may use discretion when choosing targets. Other relationships might be more nuanced.
 
-Give each faction a relationship with at least one other faction. If you’re unsure, choose two factions, and use the table below to help frame the relationship of one to another. Reroll or adjust any result that doesn’t fit, or consider how that result might signal an unexpected relationship. If you’d like more options, you can also use the expanded version of this table [on page 177].
+Give each faction a relationship with at least one other faction. If you’re unsure, choose two factions, and use the table below to help frame the relationship of one to another. Reroll or adjust any result that doesn’t fit, or consider how that result might signal an unexpected relationship. If you’d like more options, you can also use the expanded version of this table [[3 - Oracles#FACTION RELATIONSHIP| on page 177]].
 
 |  |  |
 | --- | --- |
@@ -678,13 +673,12 @@ Give each faction a relationship with at least one other faction. If you’re un
 | 91–100 | Trades resources or favors with |
   
 ### LINKING FACTIONS TO YOUR CHARACTER
-If any of the factions offer a potential backstory, origin, or opposition for your character, make note of it. Factions can help ground your character’s place in the world and
-motivate them into action. 
+If any of the factions offer a potential backstory, origin, or opposition for your character, make note of it. Factions can help ground your character’s place in the world and motivate them into action. 
 
 ### MARK IT DOWN
 Add important relationship details to your summary card. Keep in mind that you are only deciding the commonly understood connection between those factions, and that further investigation or events may reveal a deeper or alternate truth.
 
-If helpful, you can create a relationship map for factions as described on [page 51]. But it might be best to save that for later. Let the factions and their relationships deepen through a session or two, and take what you’ve learned to craft a relationship map.
+If helpful, you can create a relationship map for factions as described on [[1 - Adevntures Among the Isles#FACTION RELATIONSHIP MAPS|page 51]]. But it might be best to save that for later. Let the factions and their relationships deepen through a session or two, and take what you’ve learned to craft a relationship map.
 
 *89 SET YOUR FACTION*
 
@@ -692,14 +686,13 @@ If helpful, you can create a relationship map for factions as described on [page
 What sent you on a path of peril and adventure? What role will you play among the isles? Let’s find out. Work through the character creation steps below. Adjust the order of these steps as you like.
 > Allow about 20–30 minutes for this exercise.
 
-Have your character sheet handy for this exercise. A printable sheet is included in the _Sundered Isles Playkit_ (available for download at ironswornrpg.com), or use your
-preferred digital app or virtual tabletop (VTT).
+Have your character sheet handy for this exercise. A printable sheet is included in the _Sundered Isles Playkit_ (available for download at ironswornrpg.com), or use your preferred digital app or virtual tabletop (VTT).
 
 You also need your deck of asset cards, which includes a mix of original _Starforged_ assets and new _Sundered Isles_ assets. See the next page for details.
 
 > ## CHARACTER CREATION WALK-THROUGH
 ### STEP 1: FORGE YOUR CHARACTER CONCEPT
-Envision the broad strokes of your character concept. Who are you? What drives you? Keep in mind these pillars (see [page 10 for details]).
+Envision the broad strokes of your character concept. Who are you? What drives you? Keep in mind these pillars (see [[1 - Adevntures Among the Isles#YOUR CHARACTER|page 10 for details]]).
 - ==You are Ironsworn==. What incident, need, or responsibility sends you on your quest-bound adventures?
 - ==You are a seafarer==. What calls you or will send you to the sea? What skills or abilities set you apart?
 - ==You are a rebel==. What faction, circumstance, or obligation do you resist? Who are your allies?
@@ -710,72 +703,73 @@ Need inspiration? Proceed to step 2 to generate foundational details of your cha
 On [pages 92–93], you’ll find tables and prompts to flesh out your character with a backstory and characteristics. Use them to help envision your character. Make note of any interesting ideas or questions these tools evoke.
 
 ### STEP 3: CHOOSE TWO PATHS
-Select two path assets from your _Sundered Isles_ deck [(pages 14–15)]. Choose assets that support an interesting character concept, reflect the nature of your world, and foster the stories that you and other players want to explore.
+Select two path assets from your _Sundered Isles_ deck ([[1 - Adevntures Among the Isles#Asset Guide|pages 14–15]]). Choose assets that support an interesting character concept, reflect the nature of your world, and foster the stories that you and other players want to explore.
 
-For guidance or inspiration, check the Persona tables on [pages 94–95].
+For guidance or inspiration, check the Persona tables on [[#YOUR PERSONA|pages 94–95]].
 
 *90 GETTING UNDERWAY*
 
 ### YOUR SUNDERED ISLES ASSETS
-As you begin this exercise, ready your deck using the outline and suggestions on [pages 14–15].
+As you begin this exercise, ready your deck using the outline and suggestions on [[1 - Adevntures Among the Isles#Asset Guide|pages 14–15]].
 
-During the exercise, you select two paths from that deck to form a basic character concept. For example, you might be a **[SCOUNDREL]** and **[SOCIALITE]** or a **[SWASHBUCKLER]]** and **[PIRATE CAPTAIN]**. Then, in the next exercise, you choose one  additional asset. Plus, if you begin your adventures in command of a seagoing vessel, you start with an undistinguished **[SAILING SHIP]** or your **[FLAGSHIP]** command vehicle.
+During the exercise, you select two paths from that deck to form a basic character concept. For example, you might be a **[[AST_Scoundrel|SCOUNDREL]]** and **[[AST_Socialite|SOCIALITE]]** or a **[[AST_Swashbuckler|SWASHBUCKLER]]** and **[[AST_Pirate Captain|PIRATE CAPTAIN]]**. Then, in the next exercise, you choose one  additional asset. Plus, if you begin your adventures in command of a seagoing vessel, you start with an undistinguished **[[AST_Sailing Ship|SAILING SHIP]]** or your **[[AST_Flagship|FLAGSHIP]]** command vehicle.
 
 > [!tip] ### BUILDING A TEAM WITH ALLIES
 If you are working through this exercise with other players, take turns completing steps. Talk it through to create an interesting group with a reason to adventure together, but don’t get hung up on unnecessary details. Leave unanswered questions to figure out through the course of your story.
 
 ### STEP 4: NAME YOUR CHARACTER
-Give your character a name. For inspiration, check the [Names table on page 194]. If you are known by a moniker or title, note that as well. Then, mark down your character’s pronouns.
+Give your character a name. For inspiration, check the [[3 - Oracles#CHARACTER NAME|Names table on page 194]]. If you are known by a moniker or title, note that as well. Then, mark down your character’s pronouns.
 
 ### STEP 5: WRITE YOUR BACKGROUND VOW
-What ambition, need, or commitment drives you? This is your background vow. Mark the vow and give it an epic rank. If you’re not sure, save it for later—or look for inspiration on an oracle table such as [Character Goals (page 193)].
+What ambition, need, or commitment drives you? This is your background vow. Mark the vow and give it an epic rank. If you’re not sure, save it for later—or look for inspiration on an oracle table such as [[3 - Oracles#CHARACTER GOALS|Character Goals]] (page 193).
 
-To learn more about your background vow, see [page 107 of the _Starforged_ rulebook].
+To learn more about your background vow, [[CRG_Background Vow|see page 107]] of the _Starforged_ rulebook.
 
 ### STEP 6: SET YOUR STATS AND METERS
-Set your stats by arranging these values across edge, heart, iron, shadow, and wits in any order: 3, 2, 2, 1, 1. To learn more about your stats, see the _[Starforged_ rulebook (page 110)].
+Set your stats by arranging these values across edge, heart, iron, shadow, and wits in any order: 3, 2, 2, 1, 1. To learn more [[CRG_Set Stats and Meters#Set Your Stats|about your stats]], see the _Starforged_ rulebook (page 110).
 
 Next, set your condition meters and momentum to their starting values. Set your health, spirit, and supply to 5. Set your momentum to +2, your max momentum to +10, and your momentum reset to +2.
 
 ### STEP 7: PREPARE TO TAKE COMMAND
 In the next exercise, you decide if you begin your adventures with a ship of your own to command, as well as the nature of your ship and crew. You also choose a final asset to complete your character. Go to page 96 to take command.
 
-*CREATE YOUR CHARACTER 91*
+*91 CREATE YOUR CHARACTER*
 
 ## YOUR BACKSTORY
 What is your backstory? What events or compelling need put you on a path of adventure? If you’re not sure, roll or choose on this table for inspiration.
 
-This table uses an optional cursed die, as indicated by the skull icon: [skull]. This is an extra ten-sided die added to an oracle roll—one distinct from your oracle dice. If the cursed die rolls a 10, your answer is cursed—take the value of your oracle dice and check the cursed version of the table for your answer. The notation beside the cursed icon guides you to the location of that table. In this case, it’s on the next page. For details on the cursed die, see [page 114].
+This table uses an optional cursed die, as indicated by the skull icon: [skull]. This is an extra ten-sided die added to an oracle roll—one distinct from your oracle dice. If the cursed die rolls a 10, your answer is cursed—take the value of your oracle dice and check the cursed version of the table for your answer. The notation beside the cursed icon guides you to the location of that table. In this case, it’s on the next page. For details on [[3 - Oracles#THE CURSED DIE|the cursed die]], see page 114.
 
-|  |  |  |
-| --- | --- | --- |
-| 1–3 | Abandoned a life of privilege or power |  |
-| 4–7 | Betrayed by a close friend, lover, or family member |  |
-| 8–11 | Caught up in a forbidden or unlikely romance |  |
-| 12–14 | Deserted the military |  |
-| 15–18 | Entrusted with a valuable secret |  |
-| 19–22 | Escaped unjust captivity |  |
-| 23–26 | Fled a cruel upbringing |  |
-| 27–30 | Following in the footsteps of famous or notorious kin |  |
-| 31–34 | Forcefully exiled from your land or people |  |
-| 35–37 | Found adrift with no memory of your former life |  |
-| 38–40 | Framed for a crime you didn't commit |  |
-| 41–43 | Guided by a dream or prophecy |  |
-| 44–46 | Home destroyed by disaster or war | 47–49 Home occupied by an enemy faction |
-| 50–53 | Joined a mutiny, uprising, or rebellion |  |
-| 54–56 | Joined a secret society |  |
-| 57–59 | Living under a stolen or assumed identity |  |
-| 60–63 | Loved one gone missing |  |
-| 64–67 | Marooned by former shipmates |  |
-| 68–71 | On the run with a stolen object of great value |  |
-| 72–75 | Raised by or fell in with criminals or pirates |  |
-| 76–79 | Refugee from a distant land |  |
-| 80–83 | Survived a disaster or battle at sea |  |
-| 84–86 | Took up a vendetta against a powerful figure or faction |  |
-| 87–89 | Trained in a rare or secret craft by a skilled mentor |  |
-| 90–93 | Trying to forget a disastrous love affair |  |
-| 94–96 | Undone by a personal vice |  |
-| 97–100 | Wronged a powerful figure or faction that now seeks retribution |  |
+|  |  |
+| --- | --- |
+| 1–3 | Abandoned a life of privilege or power |
+| 4–7 | Betrayed by a close friend, lover, or family member |
+| 8–11 | Caught up in a forbidden or unlikely romance |
+| 12–14 | Deserted the military |
+| 15–18 | Entrusted with a valuable secret |
+| 19–22 | Escaped unjust captivity |
+| 23–26 | Fled a cruel upbringing |
+| 27–30 | Following in the footsteps of famous or notorious kin |
+| 31–34 | Forcefully exiled from your land or people |
+| 35–37 | Found adrift with no memory of your former life |
+| 38–40 | Framed for a crime you didn't commit |
+| 41–43 | Guided by a dream or prophecy |
+| 44–46 | Home destroyed by disaster or war |
+| 47–49 | Home occupied by an enemy faction |
+| 50–53 | Joined a mutiny, uprising, or rebellion |
+| 54–56 | Joined a secret society |
+| 57–59 | Living under a stolen or assumed identity |
+| 60–63 | Loved one gone missing |
+| 64–67 | Marooned by former shipmates |
+| 68–71 | On the run with a stolen object of great value |
+| 72–75 | Raised by or fell in with criminals or pirates |
+| 76–79 | Refugee from a distant land |
+| 80–83 | Survived a disaster or battle at sea |
+| 84–86 | Took up a vendetta against a powerful figure or faction |
+| 87–89 | Trained in a rare or secret craft by a skilled mentor |
+| 90–93 | Trying to forget a disastrous love affair |
+| 94–96 | Undone by a personal vice |
+| 97–100 | Wronged a powerful figure or faction that now seeks retribution |
 
 Note: The @1–2 symbol means you should roll or choose once or twice, as you like.
 
@@ -806,13 +800,13 @@ Note: The @1–2 symbol means you should roll or choose once or twice, as you li
 Use any of the prompts below that are helpful. Answer the question yourself or check the indicated table for an answer. If a response is  uninteresting or a poor fit, ignore it. In fact, rejecting what doesn’t work is part of sharpening the focus.
 
 Keep in mind that you can start with the sketchiest idea for your character and flesh them out through play. These prompts are optional.
-- **What aspects of your look or personality are obvious at first glance?** Roll or choose once or twice on the [Character First Look table (page 186)].
-- **What is your former or current profession?** Roll or choose once on the [Character Roles table (page 187)], then roll or choose on a [Character Role Details subtable (pages 188–189)].
-- **What accessory or piece of gear helps define your look?** Roll or choose once or twice on the [Trademark Accessories table (page 190)].
-- **If you are armed, what is your favored weapon?** Roll or choose once on the [Trademark Weapons table (page 191)].
-- **What are less-obvious or hidden aspects of your nature?** Roll or choose once or twice on the [Character Details table (page 192)].
-- **What drives you?** Roll or choose once or twice on the [Character Goals table (page 193)].
-- **You possess an object of personal significance. What is it?** Roll or choose once on the [Tokens table (page 223)].
+- **What aspects of your look or personality are obvious at first glance?** Roll or choose once or twice on the [[3 - Oracles#CHARACTER FIRST LOOK|Character First Look]] table (page 186).
+- **What is your former or current profession?** Roll or choose once on the [[3 - Oracles#CHARACTER ROLES|Character Roles]] table (page 187), then roll or choose on a [[3 - Oracles#CHARACTER ROLE DETAILS|Character Role Details]] subtable (pages 188–189).
+- **What accessory or piece of gear helps define your look?** Roll or choose once or twice on the [[3 - Oracles#TRADEMARK ACCESSORIES|Trademark Accessories]] table (page 190).
+- **If you are armed, what is your favored weapon?** Roll or choose once on the [[3 - Oracles#TRADEMARK WEAPONS|Trademark Weapons]] table (page 191).
+- **What are less-obvious or hidden aspects of your nature?** Roll or choose once or twice on the [[3 - Oracles#CHARACTER DETAILS|Character Details]] table (page 192).
+- **What drives you?** Roll or choose once or twice on the [[3 - Oracles#CHARACTER GOALS|Character Goals]] table (page 193).
+- **You possess an object of personal significance. What is it?** Roll or choose once on the [[3 - Oracles#TOKENS|Tokens]] table (page 223).
 - 
 *93 CREATE YOUR CHARACTER*
 
@@ -826,50 +820,50 @@ Keep in mind that you can start with the sketchiest idea for your character and 
 
 | Roll | 4/5/7 | Result | Starting Paths |
 | :---: | :---: | --- | --- |
-| 1–3 |  | Apothecary | [HEALER], [PEDDLER] |
-| 4–5 |  | Apprentice | [SHIPWRIGHT], [URCHIN] |
-| 6–7 |  | Assassin | [BLADEMASTER], [BOUNTY HUNTER] |
-| 8–9 |  | Beast Hunter | [HARPOONER], [SLAYER] |
-| 10–12 |  | Blockade Runner | [COURIER], [NAVIGATOR] |
-| 13–15 |  | Brigand | [PISTOLEER], [SCOUNDREL] |
-| 16–17 |  | Buccaneer | [SWASHBUCKLER], [PIRATE CAPTAIN] |
-| 18–20 | [7] | Bulwark | [BRAWLER], [LOYALIST] |
-| 21–23 |  | Castaway | [JINX], [SCAVENGER] |
-| 24–26 |  | Charlatan | [SCOUNDREL], [SOCIALITE] |
-| 27–28 |  | Cloak and Dagger | [CUTTHROAT], [SPY] |
-| 29–30 | [4] | Cultist | [DEVOTANT], [NECROMANCER] |
-| 31–32 | [4] | Deathbound | [FATED], [HAUNTED] |
-| 33–34 | [4] | Deep One | [VESTIGE], [WATERBORN] |
-| 35–37 | [4] | Elementalist | [FIREBRAND], [SORCERER] |
-| 38–40 |  | Emissary | [DIPLOMAT], [SPY] |
-| 41–42 |  | Gallant | [DUELIST], [SOCIALITE] |  |
-| 43–44 | [4] | Guild Mage | [BANNERSWORN], [SORCERER] |
-| 45–46 |  | Gunner | [CANNONEER], [VETERAN] |
-| 47–48 |  | Hired Gun | [MERCENARY], [MUSKETEER] |
-| 49–50 | [5] | Ironclad | [ARMORED], [BRAWLER] |
-| 51–52 | [5] | Jury-Rig | [CONSTRUCT], [SCAVENGER] |  |
-| 53–54 | [4] | Lycanthrope | [OUTCAST], [SHAPECHANGER] |
-| 55–57 | [4] | Monster Hunter | [BLADEMASTER], [SLAYER] |
-| 58–60 |  | Naturalist | [OVERLANDER], [SCHOLAR] (Natural history) |
-| 61–62 | [4] | Pilgrim | [DEVOTANT], [NAVIGATOR] |
-| 63–64 | [7] | Piper | [MUSICIAN], [LOYALIST] |
-| 65–67 |  | Renegade | [FUGITIVE], [VETERAN] |
-| 68–70 | [5] | Saboteur | [DEMOLITIONIST], [SPY] |
-| 71–72 | [4] | Sea Witch | [SEER], [WINDBINDER] |
-| 73–74 | [4] | Shadow Assassin | [CUTTHROAT], [SHADE] |
-| 75–76 | [4] | Shipbreaker | [KINETIC], [SCAVENGER] |
-| 77–78 | [4] | Siren | [EMPATH], [MUSICIAN] |
-| 79–80 | [7] | Skipper | [CREW COMMANDER], [LEADER] |
-| 81–83 |  | Smuggler | [FUGITIVE], [PEDDLER] |
-| 84–86 | [4] | Sole Survivor | [HAUNTED], [VESTIGE] |
-| 87–88 | [4] | Spiritualist | [SEER], [SLEUTH] |
-| 89–91 |  | Stowaway | [URCHIN], [OUTCAST] |
-| 92–94 |  | Surgeon | [HEALER], [SCHOLAR] (Medicine) |  |
-| 95–96 | [5] | Tinker | [AUGMENTED], [GEARHEAD] |
-| 97–98 |  | Vanguard | [BANNERSWORN], [SCATTERSHOT] |
-| 99–100 | [5] | War Machine | [CONSTRUCT], [MERCENARY] |
+| 1–3 |  | Apothecary | [[AST_Healer\|HEALER]], [PEDDLER] |
+| 4–5 |  | Apprentice | [[AST_Shipwright\|SHIPWRIGHT]], [[AST_Urchine\|URCHIN]] |
+| 6–7 |  | Assassin | [[AST_Blademaster\|BLADEMASTER]], [[AST_Bounty Hunter\|BOUNTY HUNTER]] |
+| 8–9 |  | Beast Hunter | [[AST_Harpooner\|HARPOONER]], [[AST_Slayer\|SLAYER]] |
+| 10–12 |  | Blockade Runner | [[AST_Courier\|COURIER], [NAVIGATOR] |
+| 13–15 |  | Brigand | [[AST_Pistoleer\|PISTOLEER]], [[AST_Scoundrel\|SCOUNDREL]] |
+| 16–17 |  | Buccaneer | [[AST_Swashbuckler\|SWASHBUCKLER]], [[AST_Pirate Captain\|PIRATE CAPTAIN]] |
+| 18–20 | [7] | Bulwark | [[AST_Brawler\|BRAWLER]], [[AST_Loyalist\|LOYALIST]] |
+| 21–23 |  | Castaway | [[AST_Jinx\|JINX]], [[AST_Scavenger\|SCAVENGER]] |
+| 24–26 |  | Charlatan | [[AST_Scoundrel\|SCOUNDREL]], [[AST_Socialite\|SOCIALITE]] |
+| 27–28 |  | Cloak and Dagger | [[AST_Cutthroat\|CUTTHROAT]], [[AST_Spy\|SPY]] |
+| 29–30 | [4] | Cultist | [[AST_Devotant\|DEVOTANT]], [[AST_Necromancer\|NECROMANCER]] |
+| 31–32 | [4] | Deathbound | [[AST_Fated\|FATED]], [[AST_\|Haunted|HAUNTED]] |
+| 33–34 | [4] | Deep One | [[AST_Vestive\|VESTIGE]], [[AST_Waterborn\|WATERBORN]] |
+| 35–37 | [4] | Elementalist | [[AST_Firebrand\|FIREBRAND]], [[AST_Sorcerer\|SORCERER]] |
+| 38–40 |  | Emissary | [[AST_Diplomat\|DIPLOMAT]], [[AST_Spy\|SPY]] |
+| 41–42 |  | Gallant | [[AST_Duelist\|DUELIST]], [[AST_Socialite\|SOCIALITE]] |  |
+| 43–44 | [4] | Guild Mage | [[AST_Bannersworn\|BANNERSWORN]], [[AST_Sorcerer\|SORCERER]] |
+| 45–46 |  | Gunner | [[AST_Cannoneer\|CANNONEER]], [[AST_Veteran\|VETERAN]] |
+| 47–48 |  | Hired Gun | [[AST_Mercenary\|MERCENARY]], [[AST_Musketeer\|MUSKETEER]] |
+| 49–50 | [5] | Ironclad | [[AST_Armored\|ARMORED]], [[AST_Brawler\|BRAWLER]] |
+| 51–52 | [5] | Jury-Rig | [[AST_Construct\|CONSTRUCT]], [[AST_Scavenger\|SCAVENGER]] |  |
+| 53–54 | [4] | Lycanthrope | [[AST_Outcast\|OUTCAST]], [[AST_Shapechanger\|SHAPECHANGER]] |
+| 55–57 | [4] | Monster Hunter | [[AST_Blademaster\|BLADEMASTER]], [[AST_Slayer\|SLAYER]] |
+| 58–60 |  | Naturalist | [[AST_Overlander\|OVERLANDER]], [[AST_Scholar\|SCHOLAR]] (Natural history) |
+| 61–62 | [4] | Pilgrim | [[AST_Devotant\|DEVOTANT]], [[AST_Navigator\|NAVIGATOR]] |
+| 63–64 | [7] | Piper | [[AST_Musician\|MUSICIAN]], [[AST_Loyalist\|LOYALIST]] |
+| 65–67 |  | Renegade | [[AST_Fugitive\|FUGITIVE]], [[AST_Veteran\|VETERAN]] |
+| 68–70 | [5] | Saboteur | [[AST_Demolitionist\|DEMOLITIONIST]], [[AST_Spy\|SPY]] |
+| 71–72 | [4] | Sea Witch | [[AST_Seer\|SEER]], [[AST_Windbinder\|WINDBINDER]] |
+| 73–74 | [4] | Shadow Assassin | [[AST_Cutthroat\|CUTTHROAT]], [[AST_Shade\|SHADE]] |
+| 75–76 | [4] | Shipbreaker | [[AST_Kinetic\|KINETIC]], [[AST_Scavenger\|SCAVENGER]] |
+| 77–78 | [4] | Siren | [[AST_Empath\|EMPATH]], [[AST_Musician\|MUSICIAN]] |
+| 79–80 | [7] | Skipper | [[AST_Crew Commander\|CREW COMMANDER]], [[AST_Leader\|LEADER]] |
+| 81–83 |  | Smuggler | [[AST_Fugitive\|FUGITIVE]], [[AST_Peddler\|PEDDLER]] |
+| 84–86 | [4] | Sole Survivor | [[AST_Haunted\|HAUNTED]], [[AST_Vestive\|VESTIGE]] |
+| 87–88 | [4] | Spiritualist | [[AST_Seer\|SEER]], [[AST_Sleuth\|SLEUTH]] |
+| 89–91 |  | Stowaway | [[AST_Urchin\|URCHIN]], [[AST_Outcast\|OUTCAST]] |
+| 92–94 |  | Surgeon | [[AST_Healer\|HEALER]], [[AST_Scholar\|SCHOLAR]] (Medicine) |  |
+| 95–96 | [5] | Tinker | [[AST_Augmented\|AUGMENTED]], [[AST_Gearhead\|GEARHEAD]] |
+| 97–98 |  | Vanguard | [[AST_Bannersworn\|BANNERSWORN]], [[AST_Scattershot\|SCATTERSHOT]] |
+| 99–100 | [5] | War Machine | [[AST_Construct\|CONSTRUCT]], [[AST_Mercenary\|MERCENARY]] |
 
-> For a complete list of recommended _Sundered Isles_ and _Starforged_ assets, see ([pages 14–15]). The table _above_ features path assets from this curated deck.
+> For a complete list of recommended _Sundered Isles_ and _Starforged_ assets, [[1 - Adevntures Among the Isles#Asset Guide|see (pages 14–15)]]. The table _above_ features path assets from this curated deck.
 
 *94 GETTING UNDERWAY*
 *95 CREATE YOUR CHARACTER*
@@ -887,12 +881,12 @@ Select from these three options. If you are playing with allies, pick a command 
 > 
 > You are a greenhorn captain or fallen on bad times. Your crew is much like the ship—unremarkable. Some are inexperienced. Some are indifferent. But with time, you may grow to rely on one another. Your ship will come into its own, or you will claim another. Can you forge a worthy legacy among the isles?
 > 
-> Take the asset card for the incidental [SAILING SHIP]. Decide if it is light, medium, or heavy. If in doubt, make it light and envision it as a small sloop, ketch, or cutter—a nimble but fragile vessel. To learn more about this starting ship, see [page 17].
+> Take the asset card for the incidental [[AST_Sailing Ship|SAILING SHIP]]. Decide if it is light, medium, or heavy. If in doubt, make it light and envision it as a small sloop, ketch, or cutter—a nimble but fragile vessel. To learn more about this starting ship, see [page 17].
 
 > ### OPTION 2: WORTHY COMMAND
 > You are in command of an admirable vessel and able crew. You begin your story with the wind in your sails. Will you hold this ship and crew together amid the perils of the isles?
 > 
-> Take the [FLAGSHIP] command vehicle asset. This asset is normally gained when you [[MV_Advance|Advance (move)]] and spend experience. But as a seasoned commander, you skip the queue and claim this prize at the start of your story. Learn more about the [FLAGSHIP] asset on [page 18].
+> Take the [[AST_Flagship|FLAGSHIP]] command vehicle asset. This asset is normally gained when you [[4 - Moves#ADVANCE|Advance]] and spend experience. But as a seasoned commander, you skip the queue and claim this prize at the start of your story. Learn more about the [[AST_Flagship|FLAGSHIP]] asset on [page 18].
 
 > ### OPTION 3: NO COMMAND
 > You do not have a ship or command of your own—yet. If you are a mariner, you serve under the command of a non-player character on their ship, or are stranded or marooned without a ship.
@@ -906,7 +900,7 @@ Select from these three options. If you are playing with allies, pick a command 
 ## SHIP HISTORY
 If you have a command, envision how you claimed or earned the vessel. For inspiration, use the table below. If you sail under the command of a non-player character, you can use this table to give their ship a backstory.
 
-|  | [skull] below |
+|  | [skull] _below_ |
 |:---:| --- |
 | 1–5 | Acquired in a duel of honor |
 | 6–10 | Awarded by a vote of the crew, after the former captain died an untimely death |
@@ -944,22 +938,22 @@ If you have a command, envision how you claimed or earned the vessel. For inspir
 | 81–90 | Raised from the sunken depths as a boon from the sea itself |
 | 91–100 | Taken in spite of its cursed reputation, when no one else would sail it |
 
-*TAKE COMMAND 97*
+*97 TAKE COMMAND*
 
 ## SHIP CHARACTERISTICS
 Envision the ship’s look and nature. For inspiration, use any of the prompts below. If a rolled response on a table doesn’t fit, reimagine it, reroll, or ignore it and move on.
 
-- **What size is the ship?** Roll or choose once on the [Ship Size table (page 132)]. Ignore or reroll the “Force” results.
-- **What aspects of the ship’s look or nature are obvious when first sighted?** Roll or choose once or twice on the [Ship First Look table (page 134)].
-- **What symbol does it bear on its flag or as a design motif?** Roll or choose once on the [Ship Symbol table (page 136)].
-- **What are less-obvious or hidden aspects of the ship or its crew?** Roll or choose once or twice on the [Ship Details table (page 138)].
-- **What cargo does it currently carry?** Roll or choose up to three times on the [Cargo table (page 139)].
-- **What is the ship’s name?** Roll or choose on the [Ship Name table (page 140)].
+- **What size is the ship?** Roll or choose once on the [[3 - Oracles#SHIP SIZE|Ship Size]] table (page 132). Ignore or reroll the “Force” results.
+- **What aspects of the ship’s look or nature are obvious when first sighted?** Roll or choose once or twice on the [[3 - Oracles#SHIP FIRST LOOK|Ship First Look]] table (page 134).
+- **What symbol does it bear on its flag or as a design motif?** Roll or choose once on the [[3 - Oracles#SHIP SYMBOL|Ship Symbol]] table (page 136).
+- **What are less-obvious or hidden aspects of the ship or its crew?** Roll or choose once or twice on the [[3 - Oracles#SHIP DETAILS|Ship Details]] table (page 138).
+- **What cargo does it currently carry?** Roll or choose up to three times on the [[3 - Oracles#CARGO|Cargo]] table (page 139).
+- **What is the ship’s name?** Roll or choose on the [[3 - Oracles#SHIP NAME|Ship Name]] table (page 140).
 
 ## CREW CHARACTERISTICS
 Envision the makeup of the ship’s crew, using the table below for inspiration. Rolling for a result can inspire details for your own background and potential quests—or it may put you at odds with a crew that is contrary to your nature and goals.
 
-|   | [skull] pg 99  |
+|   | [skull] _pg 99_  |
 |:---:|---|
 | 1 - 8 | Eclectic mix of all sorts of folk |
 | 9 - 14 | Adventurers and trailblazers, seeking the far horizon |
@@ -981,7 +975,7 @@ Envision the makeup of the ship’s crew, using the table below for inspiration.
 | 87 - 90 | Unprincipled mercenaries, earning blood money |
 | 91 - 100 | Roll twice; these groups are at odds |
 
-For now, focus on the crew as a whole. Later, you can personalize key individual crewmembers. See [page 22 for more on envisioning and managing a crew].
+For now, focus on the crew as a whole. Later, you can personalize key individual crewmembers. [[1 - Adevntures Among the Isles#COMMAND AND CREWS|See page 22]] for more on envisioning and managing a crew.
 
 > ### [skull] CURSED CREW
 > If you roll a curse for Crew Characteristics, take your result on that table and give them an eerie, supernatural, or dreadful aspect. Use the table below for inspiration.
@@ -1007,19 +1001,19 @@ For now, focus on the crew as a whole. Later, you can personalize key individual
 *98 GETTING UNDERWAY*
 
 ## READY TO CLAIM YOUR FINAL ASSET?
-Choose a final asset from these categories: ==Support Vehicle==, ==Module== (only if you command a [FLAGSHIP]), ==Path==, or ==Companion==. For the full list of recommended _Sundered Isles_ assets, see [pages 14–15].
+Choose a final asset from these categories: ==Support Vehicle==, ==Module== (only if you command a [[AST_Flagship|FLAGSHIP]]), ==Path==, or ==Companion==. For the full list of recommended _Sundered Isles_ assets, [[1 - Adevntures Among the Isles#Asset Guide|see pages 14–15]].
 
-Do not choose a Deed asset for your starting character. Those represent notable achievements and situations in your story, and are taken when you [[MV_Advance|Advance (move)]].
+Do not choose a Deed asset for your starting character. Those represent notable achievements and situations in your story, and are taken when you [[4 - Moves#ADVANCE|Advance]].
 
 If you want to start simple, or you’d like to get a better sense of your character and their challenges before making a choice, feel free to bank this asset for later. Once your campaign is underway, you may claim the banked asset—choosing from the categories listed above—without paying an experience cost.
 
 ### CHOOSING CREW-RELATED ASSETS
-If you command a crew and want to spotlight your role as their leader, take [CREW COMMANDER] as your final asset. If you command a pirate ship, the [PIRATE CAPTAIN] asset gives focus to the ebb and flow of your fortunes as buccaneers. If you’d rather explore the evolution of your command through the course of your story, save them for when you Advance. To learn more about these command assets, see [page 23].
+If you command a crew and want to spotlight your role as their leader, take [[AST_Crew Commander|CREW COMMANDER]] as your final asset. If you command a pirate ship, the [[AST_Pirate Captain|PIRATE CAPTAIN]] asset gives focus to the ebb and flow of your fortunes as buccaneers. If you’d rather explore the evolution of your command through the course of your story, save them for when you Advance. To learn more about these command assets, [[1 - Adevntures Among the Isles#CREW-RELATED ASSETS|see page 23]].
 
 ### SET YOUR REMAINING CONDITION METERS
-Set the integrity of your [SAILING SHIP], [FLAGSHIP], or support vehicles to their max value. Also, set your ship’s hold supply to its max value. Finally, if you have a companion, set its health to its max value.
+Set the integrity of your [[AST_Sailing Ship|SAILING SHIP]], [[AST_Flagship|FLAGSHIP]], or support vehicles to their max value. Also, set your ship’s hold supply to its max value. Finally, if you have a companion, set its health to its max value.
 
-*TAKE COMMAND 99*
+*99 TAKE COMMAND*
 
 # CHART YOUR COURSE
 In this exercise, you’ll chart key locations in a local area, including a few islands and a seaside settlement. This is where your adventures begin.
@@ -1034,18 +1028,18 @@ Have ready the ==navigation chart worksheet== and ==connections worksheet== from
 ### WHAT IS A NAVIGATION CHART?
 A ==navigation chart== is a local map of islands and surrounding features. Your charts help track the progress of your journeys and discoveries within a manageable scope. Over time, you may create several charts as you move beyond the bounds of your starting area.
 
-Learn more about navigation charts on [page 34].
+Learn more about [[1 - Adevntures Among the Isles#CHARTING YOUR COURSE|navigation charts]] on page 34.
 
 ### NAVIGATING THE ORACLES
 During this exercise, you generate details for your starting location using several oracles. It might be helpful to bookmark those sections now to make it easier to move back and forth.
-- [Island Oracles (page 142)]
-- [Settlement Oracles (page 164)]
-- [Character Oracles (page 186).]
+- [[3 - Oracles#ISLAND ORACLES|Island Oracles]] (page 142)
+- [[3 - Oracles#^Settlement-Oracles|Settlement Oracles]] (page 164)
+- [[3 - Oracles#CHARACTER ORACLES|Character Oracles]] (page 186).
 
 As you work through this exercise, roll or choose on the oracle tables as you like. Ignore or revise any details that don’t fit the established facts of your setting. 
 
 ### BUILDING OTHER REALMS
-If you are sailing the skyfaring realm, this exercise helps generate a starting area with only minor reimagining. If you plan to adventure in the spacefaring realm, you should instead use the [Sector Creation Exercise] in the _Starforged_ rulebook [(page 114)] to generate local planets and settlements.
+If you are sailing the skyfaring realm, this exercise helps generate a starting area with only minor reimagining. If you plan to adventure in the spacefaring realm, you should instead use the [[_CSG_Sector Creation Summary|Sector Creation Exercise]] in the _Starforged_ rulebook (page 114) to generate local planets and settlements.
 
 > ### PREFER TO CUT AND RUN?
 > If you want a more seat-of-the-pants start for your campaign, or already have an idea of a location you want to focus on, feel free to skip this exercise. This leaves the details to be discovered in play.
@@ -1067,12 +1061,11 @@ As detailed on page 8, the folk of the isles divide these seas broadly into thre
 ## STEP 2: SET FACTION INFLUENCE
 The navigation chart worksheet includes a ==faction influence grid==. This tool helps manage the presence and dominance of factions in your starting area. Once your campaign begins, it can reveal the nature of encounters with ships and settlements.
 
-Check your faction notes from the [faction exercise (page 88)]. Which factions do you envision as having a role in this area? Choose a field of the grid for  each of them, using whichever rank seems most appropriate for that faction’s role in the area and your story: dominant, established, subsisting, diminished, or obscure.
+Check your faction notes from the [[#SET YOUR FACTIONS|faction exercise]] (page 88). Which factions do you envision as having a role in this area? Choose a field of the grid for  each of them, using whichever rank seems most appropriate for that faction’s role in the area and your story: dominant, established, subsisting, diminished, or obscure.
 
 Leave several slots blank. New factions can emerge in the course of your story.
 
-Later in this exercise, you reference this grid to decide which factions have control of a
-key settlement. To learn more about the faction influence grid, see page 50.
+Later in this exercise, you reference this grid to decide which factions have control of a key settlement. To learn more about the [[1 - Adevntures Among the Isles#FACTION INFLUENCE GRID|faction influence grid]], see page 50.
 
 | DOMINANT 1–30 | ESTABLISHED 31–45 | ESTABLISHED 46–60 |
 | --- | --- | --- |
@@ -1089,13 +1082,12 @@ key settlement. To learn more about the faction influence grid, see page 50.
 *101 CHART YOUR COURSE*
 
 ## STEP 3: REVEAL ISLANDS
-> ### [ISLAND ORACLES]
+> ### [[3 - Oracles#ISLAND ORACLES|ISLAND ORACLES]]
 > Page 142
 
 In this step, you generate the broad characteristics of some islands to give your character places to explore when they must be away from the sea. These islands might also be home to settlements; you generate one of those in the next step.
 
-First, determine the number of islands using the guide shown here. This isn’t necessarily the total number of
-islands in this area; it’s just a set of locations to give you a footing as your adventures get underway. Then, answer the following questions for each of the islands.
+First, determine the number of islands using the guide shown here. This isn’t necessarily the total number of islands in this area; it’s just a set of locations to give you a footing as your adventures get underway. Then, answer the following questions for each of the islands.
 
 | **Region** | **Islands** |
 | --- | --- |
@@ -1103,10 +1095,10 @@ islands in this area; it’s just a set of locations to give you a footing as yo
 | Margins | 3 Islands |
 | Reaches | 2 Islands |
 
-- **What is the island’s landscape?** Roll or choose on the _Size_, _Terrain_, and _Vitality_ [tables (page 142)], and take a moment to consider what those results imply about the location. Larger islands likely have varying landscapes, but these initial results are the dominant characteristics.
+- **What is the island’s landscape?** Roll or choose on the _[[3 - Oracles#SIZE|Size]]_, _[[3 - Oracles#TERRAIN|Terrain]]_, and _[[3 - Oracles#VITALITY|Vitality]]_ tables (page 142), and take a moment to consider what those results imply about the location. Larger islands likely have varying landscapes, but these initial results are the dominant characteristics.
 - **Where is the island located?** Pick a spot on your navigation chart and draw a rough shape for the island. Give it an island-like outline with squiggly coastlines, or just make it a circle or square. But keep it relatively small among the vast seas. You want enough room to add the additional known islands in the region and reveal new places in the course of your adventures. If it’s a larger island, feel free to put it at the edge of the chart and have it extend “out of frame.”
-- **Are there neighboring islands?** Roll or choose on the _[Nearby Islands_ table (page 143)]. If the island is part of a pair or group, add the minor islands to the map near the main island. In favorable weather, the members of an island pair or group are close enough to be visible from one another, requiring a short sail to travel from one to another. Keep it simple; the central island is your focus. You won’t generate details for the neighboring isles in this exercise, and they don’t count toward the number of islands in the region. They are like moons orbiting a home world.
-- **What is its name?** Roll or choose on the _[Island Name_ table (page 147)].
+- **Are there neighboring islands?** Roll or choose on the _[[3 - Oracles#NEARBY ISLANDS|Nearby Islands]]_ table (page 143). If the island is part of a pair or group, add the minor islands to the map near the main island. In favorable weather, the members of an island pair or group are close enough to be visible from one another, requiring a short sail to travel from one to another. Keep it simple; the central island is your focus. You won’t generate details for the neighboring isles in this exercise, and they don’t count toward the number of islands in the region. They are like moons orbiting a home world.
+- **What is its name?** Roll or choose on the _[[3 - Oracles#ISLAND NAME|Island Name]]_ table (page 147).
 
 Write the island names on your chart, and create a section in your notes for island info. Leave space to add more later. When you visit or explore an island, you can generate or envision additional details.
 
@@ -1123,30 +1115,30 @@ Write the island names on your chart, and create a section in your notes for isl
 *102 GETTING UNDERWAY*
 
 ## STEP 4: BUILD A SEASIDE SETTLEMENT
-> ### [SETTLEMENT ORACLES]
+> ### [[3 - Oracles#^Settlement-Oracles|SETTLEMENT ORACLES]]
 > Page 164
 
 In this step, you generate a settlement—a populated village, town, or city—as a hub for the start of the campaign. Settlements are located throughout the Sundered Isles, but tend to be sparser and smaller beyond the Myriads. Some settlements are as old as memory, and others are newly founded.
 
 Answer the following questions to introduce the local settlement. This settlement might be an important location in the area, your homeport, or simply a potential destination as you make your way into these waters.
 - **Where is the settlement located?** Pick an island and mark a location for the settlement along the shoreline.
-- **How populous is the settlement?** Roll or choose on the _[Settlement Size_ table (page 164)].
-- **What are the primary industries or activities?** Roll or choose on the [_Settlement Focus_ table (page 168)], referencing the shore column.
+- **How populous is the settlement?** Roll or choose on the _[[3 - Oracles#SETTLEMENT SIZE]]Settlement Size_ table (page 164).
+- **What are the primary industries or activities?** Roll or choose on the _[[3 - Oracles#SETTLEMENT FOCUS\|Settlement Focus]]_ table (page 168), referencing the shore column.
 - **Who is in control here?** Check your faction influence grid, and choose a controlling faction. Use what you know of the settlement and the factions to help guide this selection. If unsure, roll on the influence grid for a random result.
-- **What is its name?** Roll or choose on the [_Settlement Name_ table (page 175).]
+- **What is its name?** Roll or choose on the _[[3 - Oracles#SETTLEMENT NAME|Settlement Name]]_ table (page 175).
 
 Optionally, add more details. This is appropriate if you envision your character starting at this location, or are using the settlement as a home port. If not, wait until you visit to reveal more.
 
-- **What is the ambiance and architecture?** Roll or choose on the [_Settlement Aesthetics_ table (page 165)].
-- **What is seen at first glance?** Roll or choose on the [_Settlement First Look_ table (page 166)].
-- **What else do I know of this place?** Roll on the [_Settlement Details_ table (page 170) to reveal additional aspects or rumors.
+- **What is the ambiance and architecture?** Roll or choose on the _[[3 - Oracles#SETTLEMENT AESTHETICS|Settlement Aesthetics]]_ table (page 165).
+- **What is seen at first glance?** Roll or choose on the _[[3 - Oracles#SETTLEMENT FIRST LOOK|Settlement First Look]]_ table (page 166).
+- **What else do I know of this place?** Roll on the _[[3 - Oracles#SETTLEMENT DETAILS|Settlement Details]]_ table (page 170) to reveal additional aspects or rumors.
 
 Add the settlement name to your chart, and record the details in your notes.
 
 > [!ifno] Map
 > [island1] kairos
 > [dot on island] Stormhaven
-> > [!summary] Stormhaven | SETT LEMENT
+> > [!summary] Stormhaven | SETTLEMENT
 > > - Port town (hundreds)
 > > - Industries: Piracy, Smuggling
 > > - Controlled by Forsaken Fleet
@@ -1158,7 +1150,7 @@ Add the settlement name to your chart, and record the details in your notes.
 ## STEP 5: ADD NOTABLE LOCATIONS
 Next, add one to three other locations to your starting area. This can include sea features or island landmarks. Use the table below for inspiration. Each location includes an open question—a prompt to answer or leave (for now) as a mystery.
 
-### LOCATION DETAILS @1–3 | [skull] page 105
+### LOCATION DETAILS @1–3 | [skull] _page 105_
 
 
 | Roll | Location | Question |
@@ -1192,7 +1184,8 @@ Next, add one to three other locations to your starting area. This can include s
 | 95 - 97 | Whaling grounds | Who or what is hunting these creatures to near-extinction? |
 | 98 - 100 | Wide, navigable river | What important location lies upriver? |
 
-104 GETTING UNDERWAY
+*104 GETTING UNDERWAY*
+
 ### [skull] CURSED LOCATION DETAILS
 
 | Roll | Location | Question |
@@ -1227,27 +1220,27 @@ Next, add one to three other locations to your starting area. This can include s
 
 > Mark the notable locations on your navigation chart. If you’d prefer to keep their location vague or unknown, make note of them as a rumor to follow up on.
 
-*CHART YOUR COURSE 105*
+*105 CHART YOUR COURSE*
 
 ## STEP 6: ADD A LOCAL CONNECTION
 In this step, you add an important character as a connection to the local area. This person might be a patron for your character—someone of shared purpose who petitions or sponsors your initial adventures—or a helpful acquaintance. But keep in mind that connections are not shipmates or companions. They are independent characters whose own lives occasionally intersect with your own.
 
-> ### [CHARACTER ORACLES]
+> ### [[3 - Oracles#CHARACTER ORACLES|CHARACTER ORACLES]]
 > Page 186
 
 Answer these questions to create your local connection. If you are playing with others, this is a shared connection.
-- **What is the connection’s role?** Decide their duty, expertise, or background. Their role offers a bonus when you make a move with their support—it should be general enough to be helpful, but specific enough to be flavorful. [See page 124 in the _Starforged_ rulebook] for tips on connection roles.
-- **What is their rank?** The connection’s rank represents the challenge of advancing the relationship. The higher the rank, the greater the narrative focus and trouble involved to eventually [[MV_Forge a Bond|Forge a Bond (move)]] with them. Choose a rank appropriate to their role and the level of involvement you want them to have in your story: troublesome, dangerous, formidable, extreme, or epic.
-- **What drives them?** Roll or choose on the [_Character Goals_ table (page 193)].
-- **What is their name?** Roll or choose on the [_Character Name_ table (page 194)].
+- **What is the connection’s role?** Decide their duty, expertise, or background. Their role offers a bonus when you make a move with their support—it should be general enough to be helpful, but specific enough to be flavorful. [[CSG_Create Local Connection#Give the Connection A Role|See page 124]] in the _Starforged_ rulebook for tips on connection roles.
+- **What is their rank?** The connection’s rank represents the challenge of advancing the relationship. The higher the rank, the greater the narrative focus and trouble involved to eventually [[4 - Moves#FORGE A BOND|Forge a Bond]] with them. Choose a rank appropriate to their role and the level of involvement you want them to have in your story: troublesome, dangerous, formidable, extreme, or epic.
+- **What drives them?** Roll or choose on the _[[3 - Oracles#CHARACTER GOALS|Character Goals]]_ table (page 193).
+- **What is their name?** Roll or choose on the _[[3 - Oracles#CHARACTER NAME|Character Name]]_ table (page 194).
 - **Are they linked to a faction?** Referencing your faction influence grid, decide if this connection has a relationship with a known faction.
 - **Where are they found?** Choose a settlement or place on the map as the connection’s present location. If they are aboard a ship, note where it sails.
 - 
 Optionally, you can flesh out a connection with details using the questions below. If you’d prefer to keep it simple, wait until you interact with them to reveal more.
 
-- **What are obvious characteristics of the connection?** Roll or choose on the Character First Look table (page 186).
-- **What item or gear is this person seldom without?** Roll or choose on [_Trademark Accessories_ (page 190)] or [_Trademark Weapons_ (page 191)].
-  **What have I learned of this connection over time?** Roll or choose on the [_Character Details_ table (page 192)].
+- **What are obvious characteristics of the connection?** Roll or choose on the [[3 - Oracles#CHARACTER FIRST LOOK|Character First Look]] table (page 186).
+- **What item or gear is this person seldom without?** Roll or choose on _[[3 - Oracles#TRADEMARK ACCESSORIES|Trademark Accessories]]_ (page 190) or _[[3 - Oracles#TRADEMARK WEAPONS|Trademark Weapons]]_ (page 191).
+  **What have I learned of this connection over time?** Roll or choose on the _[[3 - Oracles#CHARACTER DETAILS|Character Details]]_ table (page 192).
 
 Record this person’s name, role, rank, and location on the connections worksheet, and add any interesting additional details to your journal or notes.
 
@@ -1261,10 +1254,10 @@ A reminder: Introducing this connection at the start of your campaign is essenti
 ## STEP 7: NAME THE AREA
 Lastly, give these local seas a name. For inspiration, use the [_Local Seas_ table (page 227)]. You’re nearly done! In the next exercise, you send your character on their perilous course.
 
-> ### [LOCALSEAS]
+> ### [[3 - Oracles#LOCAL SEAS|LOCALSEAS]]
 > Page 227
 
-*CHART YOUR COURSE 107*
+*107 CHART YOUR COURSE*
 
 # SET THE SCENE
 In this final exercise, you decide where your story begins and identify a trouble worthy of an iron vow. You can make this exercise part of your first proper session of play, or use it to lay the keel for future play.
@@ -1274,10 +1267,10 @@ In this final exercise, you decide where your story begins and identify a troubl
 ## THE STATUS QUO
 What is the situation for your character at the start of your campaign? Are you aboard a ship? Traveling overland? Arriving at a settlement? Meeting with a local connection? Using the map you created in the last exercise, consider where you find yourself or where you are bound. If you are playing with others, talk this over as a group.
 
-As described on [page 131 of the _Starforged_ rulebook], you can start play with a prologue—a bit of character building and downtime before the adventure properly begins. Or you can start with a bang in medias res. The simple matter of “Where am I, and what am I doing?” can help inform the situations you face in your first session.
+As described on [[SI_CH2_Set the Scene|page 131]] of the _Starforged_ rulebook], you can start play with a prologue—a bit of character building and downtime before the adventure properly begins. Or you can start with a bang in medias res. The simple matter of “Where am I, and what am I doing?” can help inform the situations you face in your first session.
 
 ## THE INCITING INCIDENT
-Near the start of your story, you [[MV_Swear an Iron Vow|Swear an Iron Vow (move)]] to follow a goal, face a problem, or undertake a mission. This inciting incident interrupts the status quo and propels you into action. Make it a dangerous or troublesome quest.
+Near the start of your story, you [[4 - Moves#SWEAR AN IRON VOW|Swear an Iron Vow]] to follow a goal, face a problem, or undertake a mission. This inciting incident interrupts the status quo and propels you into action. Make it a dangerous or troublesome quest.
 
 If you already have a quest in mind to kick-off your story, you’re all set. If not, consider the narrative fodder from the previous exercises.
 
@@ -1306,14 +1299,14 @@ If you already have a quest in mind to kick-off your story, you’re all set. If
 *108 GETTING UNDERWAY*
 
 ## NEED INSPIRATION?
-Check [page 129 of the _Starforged_ rulebook] for details on creating a worthy inciting incident.
+Check [[CFG_Inciiting Incident#What Make a Good Inciting Incident|page 129]] of the _Starforged_ rulebook] for details on creating a worthy inciting incident.
 
 If you’re still unsure how to get things started, roll on a table or two and see what drives your character at the start of the story. Here’s some suggestions:
 
-- A task from a patron or connection: _Action_ + _Theme_ [(pages 116–117)]
-- An incident at sea: [_Seafaring Peril_ (page 128)]
-- A personal mission: [_Character Goals_ (page 193)]
-- A mysterious treasure map: [_Treasure Location_ (page 220)]
+- A task from a patron or connection: _[[3 - Oracles#ACTION|Action]]_ + _[[3 - Oracles#THEME|Theme]]_ (pages 116–117)
+- An incident at sea: _[[3 - Oracles#SEAFARING PERIL|Seafaring Peril]]_ (page 128)
+- A personal mission: _[[3 - Oracles#CHARACTER GOALS|Character Goals]]_ (page 193)
+- A mysterious treasure map: _[[3 - Oracles#TREASURE LOCATION|Treasure Location]]_ (page 220)
 
 If all else fails, make something happen! Marauders attack. The sails of a tempting prize appear on the horizon. A dying mariner hands you a bloodstained map. Imperial soldiers arrive in force. A fancy gala is interrupted by a murder (or a murder is interrupted by a fancy gala). Envision what your character is doing and what event might put them on storm-tossed seas—literally or figuratively.
 
@@ -1322,9 +1315,12 @@ Forcing your character into action ripples outwards to create new opportunities 
 ## THROW OFF THE BOWLINES
 That’s it! You’ve decided the truths of the isles, forged powerful factions, created a character, launched a ship and crew, mapped the local waters, and envisioned the situation at the start of your story.
 
-If you are new to the Starforged system and want more details on swearing and undertaking your initial vow, see [pages 132–134 of the _Starforged_ rulebook]. Otherwise, it’s time to set sail.
+If you are new to the _Starforged_ system and want more details on swearing and undertaking your initial vow, see [[CFG_First Vow|pages 132–134]] of the _Starforged_ rulebook. Otherwise, it’s time to set sail.
 
-Keep in mind: these exercises were a foundation, not a mandate. If you decide to change an established aspect of the campaign—or events in your story reveal their own truth—that’s okay! Keep what you like. Change or
-discard what you don’t. Play to see what happens.
+Keep in mind: these exercises were a foundation, not a mandate. If you decide to change an established aspect of the campaign—or events in your story reveal their own truth—that’s okay! Keep what you like. Change or discard what you don’t. Play to see what happens.
 
 Fair weather and following seas, Ironsworn!
+
+*109 SET THE SCENE*
+
+[[3 - Oracles|Next Chapter - Oracles]]

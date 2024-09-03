@@ -24,8 +24,8 @@ Text
 > - First Look
 > - Cursed First Look
 >
-> ### [[SI_CH3_Settle-Composition|Composition]]
-> - Identity
+> ### [[SI_CH3_Settle-Identity|Identity]]
+> - Controlling Faction
 > - Disposition
 > - Authority
 >

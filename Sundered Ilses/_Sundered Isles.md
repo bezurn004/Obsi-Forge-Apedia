@@ -44,8 +44,6 @@ _Sundered Isles_ includes themes of action-oriented violence, colonialism, warfa
 
 *Page 2 - Introduction*
 
-
-
 ## WHAT YOU NEED
 
 ### BOOKS
@@ -55,7 +53,7 @@ Sundered Isles is used alongside the Starforged rulebook, and assumes familiarit
 Sundered Isles offers an array of new character assets. You combine these asset cards with selected Starforged assets to create a curated Sundered Isles deck. Print-and-play asset cards for Sundered Isles and Starforged are available at ironswornrpg.com, or you can purchase preprinted decks. 
 
 ### DICE
-You need your standard Starforged dice set—a pair of D10s for your challenge dice, a D6 as your action die, and (optionally) a pair  f percentile D10s as your oracle dice. When rolling on oracle tables, an extra D10 of a special color serves as the cursed die ==(page 114).== Also, some assets ask you to roll an additional action or challenge die, so it’s handy to have extras in your kit.
+You need your standard Starforged dice set—a pair of D10s for your challenge dice, a D6 as your action die, and (optionally) a pair of percentile D10s as your oracle dice. When rolling on oracle tables, an extra D10 of a special color serves as the cursed die ==(page 114).== Also, some assets ask you to roll an additional action or challenge die, so it’s handy to have extras in your kit.
 
 ### PLAYKIT
 The Sundered Isles Playkit includes character sheets, worksheets, and reference sheets. Download it at ironswornrpg.com.

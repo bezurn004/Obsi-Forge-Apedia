@@ -160,6 +160,6 @@ _As you approach a settlement, envision the appearance with the **Aesthetics** a
 
 | Previous Page | Tags | Next Page |
 | :--- | :---: | ---: |
-| **[[SI_CH3_Settle-Creation\|Settlement Creation (SI Oracles)]]** | #SunderedIsles/Oracles/Settlements | **[[SI_CH3_Settle-Composition\|Settlement Composition (SI Oracles)]]** |
+| **[[SI_CH3_Settle-Creation\|Settlement Creation (SI Oracles)]]** | #SunderedIsles/Oracles/Settlements | **[[SI_CH3_Settle-Identity\|Settlement Identity (SI Oracles)]]** |
 
 <font size=-2>Copyright ©2024 Shawn Tomkin. The text of this work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license. For license details, visit ironswornrpg.com. Updated June 2024 MUH051V200-PDF</font>

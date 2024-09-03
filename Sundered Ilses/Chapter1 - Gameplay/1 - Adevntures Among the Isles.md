@@ -5,17 +5,17 @@
 ## Contents
 | Subject | Page |
 | --- | :---: |
-| THE SETTING | [[#THE SETTING\|6]] |
-| YOUR CHARACTER | [[#YOUR CHARACTER\|10]] |
-| YOUR SHIP | [[#YOUR SHIP\|16]] |
-| COMMAND AND CREWS | [[#COMMAND AND CREWS\|22]] |
-| SUPPLY AT SEA | [[#SUPPLY AT SEA\|26]] |
-| WEALTH AND TREASURE | [[#WEALTH AND TREASURE\|28]] |
-| NAVIGATING THE ISLES | [[#NAVIGATING THE ISLES\|32]] |
-| NAVAL ENCOUNTERS | [[#NAVAL ENCOUNTERS SUMMARY\|36]] |
-| INTERLUDES | [[#INTERLUDES\|46]] |
-| FACTIONS OF THE ISLES | [[#FACTIONS OF THE ISLES\|48]] |
-| BEASTS OF THE ISLES | [[#BEASTS OF THE ISLES\|56]] |
+| THE SETTING | [[#THE SETTING\|Page 6]] |
+| YOUR CHARACTER | [[#YOUR CHARACTER\|Page 10]] |
+| YOUR SHIP | [[#YOUR SHIP\|Page 16]] |
+| COMMAND AND CREWS | [[#COMMAND AND CREWS\|Page 22]] |
+| SUPPLY AT SEA | [[#SUPPLY AT SEA\|Page 26]] |
+| WEALTH AND TREASURE | [[#WEALTH AND TREASURE\|Page 28]] |
+| NAVIGATING THE ISLES | [[#NAVIGATING THE ISLES\|Page 32]] |
+| NAVAL ENCOUNTERS | [[#NAVAL ENCOUNTERS SUMMARY\|Page 36]] |
+| INTERLUDES | [[#INTERLUDES\|Page 46]] |
+| FACTIONS OF THE ISLES | [[#FACTIONS OF THE ISLES\|Page 48]] |
+| BEASTS OF THE ISLES | [[#BEASTS OF THE ISLES\|Page 56]] |
 *4 Adventures Among the Isles*
 
 # THE SETTING
@@ -46,14 +46,12 @@ The isles bear the scars of a long history of disaster and strife. Recently, con
 *6 Adventures Among the Isles*
 
 ## THE MOONS AND THE TIDES
-Two moons—==Cinder== and ==Wraith==—hang over the world of the Sundered Isles. Cinder is the red of cooling flames. Wraith is silver-blue. The intricate dance of the moons creates tides that vary dramatically by hour, day, and season. These tides are the
-rhythm of the isles, but it is a complex and discordant beat. Skilled mariners learn to anticipate and adapt to these forces. The unlucky and careless find themselves amid rocky shallows or struggling against fierce currents.
+Two moons—==Cinder== and ==Wraith==—hang over the world of the Sundered Isles. Cinder is the red of cooling flames. Wraith is silver-blue. The intricate dance of the moons creates tides that vary dramatically by hour, day, and season. These tides are the rhythm of the isles, but it is a complex and discordant beat. Skilled mariners learn to anticipate and adapt to these forces. The unlucky and careless find themselves amid rocky shallows or struggling against fierce currents.
 
 Islanders divine omens from which moon rises or sets first, or which is shining and which is shadowed, but seldom agree on the meanings of those signs. Some favor Cinder’s ruddy glow, while others prefer Wraith’s cold light. A few see cloudy and moonless nights as a blessing—a chance to escape Cinder and Wraith’s oppressive gaze—but many fear what lurks in the darkness.
 
 ### THE TWIN FATES
-The people of the isles often refer to the moons as the Twin Fates. Want to give your playscape a thematic boost? Treat your challenge dice as manifestations of the Fates. Designate one D10 as Cinder, and the other as Wraith. Choose colors that evoke the
-light of each moon.
+The people of the isles often refer to the moons as the Twin Fates. Want to give your playscape a thematic boost? Treat your challenge dice as manifestations of the Fates. Designate one D10 as Cinder, and the other as Wraith. Choose colors that evoke the light of each moon.
 
 When helpful, use these challenge dice to reveal the nature of a situation, either by adding nuance to a move result or as a standalone oracle. Let the higher of the two dice decide. Cinder is hot: aggressive, passionate, resolute, physical. Wraith is cool: careful, mysterious, cunning, unearthly. On a match, choose which has the most influence.
 
@@ -76,15 +74,15 @@ Even those who sail these seas have yet to learn their full extent. Charts, maps
 
 Each region is separated from the next by wide stretches of fathomless, featureless sea—the ==Bounds==. Between the Myriads and Margins lies the ==Lesser Bounds==, while the ==Greater Bounds== separate the Margins and the Reaches. Traversing the Bounds is a rite of passage for young mariners.
 
-Learn more about navigating the isles on ==page 32.==
+Learn more about navigating the isles on [[#NAVIGATING THE ISLES|page 32]].
 
 ## FORGING YOUR VERSION OF THE ISLES
-Most of all, the Sundered Isles lie within a world of your own making. What is the state of technology? How significant is the threat of imperial powers? Is magic a force within this realm? Are great beasts myth or reality? Do cursed undead sail these waters? Use the guided exercises starting on ==page 64== to learn more about the isles and decide the cornerstones of the setting.
+Most of all, the _Sundered Isles_ lie within a world of your own making. What is the state of technology? How significant is the threat of imperial powers? Is magic a force within this realm? Are great beasts myth or reality? Do cursed undead sail these waters? Use the guided exercises starting on [[2 - Getting Underway|page 64]] to learn more about the isles and decide the cornerstones of the setting.
 
 Then, through the course of the story, you reveal new aspects of the world. You may even face revelations or discover contradictions that force you to revisit your commonly-understood truths, such as encountering undead foes you previously thought to be a myth or discovering wondrous, seemingly impossible technology.
 
 ## EXPLORING A CURSED WORLD
-Sundered Isles introduces a tool to influence the presence of supernatural forces and locations in your world: the cursed die. This die, rolled alongside your oracle dice for certain tables, reveals uncanny and unsettling events, grim discoveries, strange locations, confounding technologies, and monstrous foes.
+_Sundered Isles_ introduces a tool to influence the presence of supernatural forces and locations in your world: the cursed die. This die, rolled alongside your oracle dice for certain tables, reveals uncanny and unsettling events, grim discoveries, strange locations, confounding technologies, and monstrous foes.
 
 Learn more about the [[3 - Oracles#THE CURSED DIE|cursed die]] on page 114.
 
@@ -142,13 +140,13 @@ The curated deck is a recommendation, not a mandate. Adjust as you like. Be mind
 - BLADEMASTER SPY
 - SWASHBUCKLER DUELIST
 
-*YOUR CHARACTER 13*
+*13 YOUR CHARACTER*
 
 ## Asset Guide
 > Table Legend
-> - NSI - New _Sundered Ilses_ asset
-> - SFA - _Starforged_ asset suited to your _Sundered Ilses_ campaign
-> - IFB - Ideal for both _Starforged_ and _Sundered Ilses_ campaigns
+> - NSI - New _Sundered Isles_ asset
+> - SFA - _Starforged_ asset suited to your _Sundered Isles_ campaign
+> - IFB - Ideal for both _Starforged_ and _Sundered Isles_ campaigns
 > - SUP - Supernatural or mythical power
 > - REM - Remarkable technologies
 
@@ -308,7 +306,7 @@ In the campaign launch exercises, you envision how you gained command of the [[A
 ## YOUR FLAGSHIP
 This is your _Sundered Isles_ ==command vehicle==, purchased with experience when you [[4 - Moves#ADVANCE|Advance]]. It might be gained as a gift from a patron, captured as a prize in battle, claimed as a salvaged wreck, or purchased with hard-won treasure. You might even promote  your incidental vehicle to [[AST_Flagship|FLAGSHIP]] status, giving it more importance and capabilities in your story.
 
-Your [[AST_Flagship|FLAGSHIP]]'s max integrity is 5, and it can be marked ==battered== or ==cursed== to avoid a potentially decisive roll on the [[4 - Moves#WITHSTAND DAMAGE]] table. [[GB_Impacts#Vehicle Troubles|See page 51]] in the _Starforged_ rulebook to learn more about these debilities. To explore a typical [[AST_Flagship|FLAGSHIP]] of the isles, [[#^example-ship|see page 20-21]]. 
+Your [[AST_Flagship|FLAGSHIP]]'s max integrity is 5, and it can be marked ==battered== or ==cursed== to avoid a potentially decisive roll on the [[4 - Moves#WITHSTAND DAMAGE|Withstand Damage]] table. [[GB_Impacts#Vehicle Troubles|See page 51]] in the _Starforged_ rulebook to learn more about these debilities. To explore a typical [[AST_Flagship|FLAGSHIP]] of the isles, [[#^example-ship|see page 20-21]]. 
 
 > Do you command a speedy but undergunned sloop? A powerful frigate? An imposing multi-decked titan? All command vehicles have the same mechanical attributes, but the nature of your [[AST_Flagship|FLAGSHIP]] should affect the rank of challenges and how you  interpret actions and outcomes. In addition, you can add modules to better represent the capabilities and quirks of your ship.
 
@@ -332,7 +330,7 @@ When you [[4 - Moves#WITHSTAND DAMAGE|Withstand Damage]] and score a miss, you c
 
 Your _Sundered Isles_ asset deck includes four support vehicles: a [[AST_Longboat|LONGBOAT]] for going ashore or ferrying people or cargo from one ship to another, a [[AST_Diving Bell|DIVING BELL]] for exploring the depths, a wondrous [[AST_Flying Machine|FLYING MACHINE]] for aerial missions, and a [[AST_Captain's Boat|CAPTAIN’S BOAT]] for arriving in style.
 
-Each support vehicle has an integrity meter. When a support vehicle takes a hit or faces a damaging situation, [[4 - Moves#WITHSTAND DAMAGE|Withstand Damage]] to see how it fares. As directed by that move, you can mark ==battered== to avoid potential calamitous destruction. Make the [Repair] move to clear the battered impact and restore lost integrity.
+Each support vehicle has an integrity meter. When a support vehicle takes a hit or faces a damaging situation, [[4 - Moves#WITHSTAND DAMAGE|Withstand Damage]] to see how it fares. As directed by that move, you can mark ==battered== to avoid potential calamitous destruction. Make the [[4 - Moves#REPAIR|Repair]] move to clear the battered impact and restore lost integrity.
 
 To learn more about modules and support vehicles, [[GB_Assets#Asset Types|see pages 55–56]] of the _Starforged_ rulebook.
 
@@ -381,7 +379,7 @@ The moves you make represent your individual exploits, but they also resolve act
 
 > You roll a miss as you [[4 - Moves#UNDERTAKE AN EXPEDITION]] and find yourself in the path of an approaching storm. You [[4 - Moves#FACE DANGER]] +edge as your crew mans the sails and the ship makes speed to escape.
 
-*22 ADVENTURE AMONG THE ILSES*
+*22 ADVENTURE AMONG THE Isles*
 
 ## CREW-RELATED ASSETS
 Your _Sundered Isles_ asset deck includes several assets to spotlight your skill and notoriety as a leader, and your evolving relationship with your crew. They are [[AST_Crew Commander|CREW COMMANDER]], [[AST_Pirate Captain|PIRATE CAPTAIN]], [[AST_Cohort|COHORT]], and [[AST_Fleet Commander|FLEET COMMANDER]]. These assets are useful in a _Sundered Isles_ campaign or as part of a sci-fi Starforged campaign with a crewed starship.
@@ -427,15 +425,15 @@ COHORT is a deed asset, purchased when you fulfill its condition—accepting an 
 > ![[AST_Cohort#^Ability2]]
 > ![[AST_Cohort#^Ability3]]
 
-Like a standard connection, [[AST_Cohort|COHORT]] specialists have a role and a rank. When you [Develop Your Relationship], mark progress on the connection’s progress track. When the relationship is ready to evolve, [Forge a Bond]. However, because a specialist is more accessible and active in your story, the benefits of the relationship can greatly outweigh other connections. To counter this, do the  following:
+Like a standard connection, [[AST_Cohort|COHORT]] specialists have a role and a rank. When you [[4 - Moves#DEVELOP YOUR RELATIONSHIP]], mark progress on the connection’s progress track. When the relationship is ready to evolve, [[4 - Moves#FORGE A BOND]]. However, because a specialist is more accessible and active in your story, the benefits of the relationship can greatly outweigh other connections. To counter this, do the  following:
 - **Give specialists a role that is specific and evocative, rather than generic and broadly useful.**
   Think of them as truly specialists, experts in a particular skill or craft. Sailor lacks flavor and offers boosts for nearly any seagoing action. Navigator is more specific, providing bonuses when undertaking seafaring expeditions. Starmarked Navigator adds setting flavor to the mix. Even better, take on specialists who might be able mariners and contribute as a crewmember, but whose roles don’t come into play every session. Ambassador, Archaeologist, Courtier, Naturalist, and Spy are interesting roles that don’t impact the routine challenges of sailing and fighting. Feel free to adjust an existing connection’s role for greater specificity or suitability when you bring them onboard as a specialist.
 - **Evolve the relationship in rare and dramatic circumstances.**
-  While any meaningful interaction is an opportunity to [Develop Your Relationship] with a connection, you should save this move for significant events with a specialist. Closeness makes happenings in your story less consequential. Ask yourself: is this truly important—a milestone in our relationship? If so, [Develop Your Relationship].
+  While any meaningful interaction is an opportunity to [[4 - Moves#DEVELOP YOUR RELATIONSHIP]] with a connection, you should save this move for significant events with a specialist. Closeness makes happenings in your story less consequential. Ask yourself: is this truly important—a milestone in our relationship? If so, [[4 - Moves#DEVELOP YOUR RELATIONSHIP]].
 
 How do you introduce a specialist? They can be an existing crewmember, a reoccurring connection, or someone you seek out as a  new connection to serve a specific niche.
 
-> [!cite] After another failed overland expedition, you decide an expert is needed, so you [Make a Connection] to find a guide. You score a hit and bring this new connection aboard as a member of your [[AST_Cohort|COHORT]], setting their role as Wilderness Scout.
+> [!cite] After another failed overland expedition, you decide an expert is needed, so you [[4 - Moves#MAKE A CONNECTION|Make a Connection]] to find a guide. You score a hit and bring this new connection aboard as a member of your [[AST_Cohort|COHORT]], setting their role as Wilderness Scout.
 
 ### FLEET COMMANDER
 > #incomplete FLEET COMMANDER asset
@@ -443,17 +441,20 @@ How do you introduce a specialist? They can be an existing crewmember, a reoccur
 Are you ready to sail with a fleet of ships at your back? [[AST_Fleet Commander|FLEET COMMANDER]] is a deed asset, purchased when you gain a
 fleet through the course of your story and have at least 16 filled boxes across your legacy tracks. This is an evolution of your leadership late in your career—you are now a major player in the world.
 
-Your fleet is tracked through a ==power== condition meter. You begin with 4 power, which serves as your stat when performing  fleetwide maneuvers or attacks. You lose power when you [Pay the Price] and suffer a cost to your fleet, such as taking casualties in a storm or battle, or facing dissent among your ships. To restore lost power, [Sojourn] and forego one of your recover moves; this represents spending time and resources to refit and recruit.
+Your fleet is tracked through a ==power== condition meter. You begin with 4 power, which serves as your stat when performing  fleetwide maneuvers or attacks. You lose power when you [[4 - Moves#PAY THE PRICE|Pay the Price]] and suffer a cost to your fleet, such as taking casualties in a storm or battle, or facing dissent among your ships. To restore lost power, [[4 - Moves#SOJOURN|Sojourn]] and forego one of your recover moves; this represents spending time and resources to refit and recruit.
 
-Your fleet affects your character’s influence and the challenges you face. Instead of running from a flotilla of powerful imperial warships, you can take them head-on. An epic sea beast is knocked down a rank or two. You can blockade ports and wield your
-fleet as a political cudgel.
+Your fleet affects your character’s influence and the challenges you face. Instead of running from a flotilla of powerful imperial warships, you can take them head-on. An epic sea beast is knocked down a rank or two. You can blockade ports and wield your fleet as a political cudgel.
 
 But even when you have a fleet at your back, the focus of the story remains on you and your allies. In big, dramatic scenes involving your fleet, zoom in and out between fleetwide actions, your [[AST_Flagship|FLAGSHIP]], and your personal exploits.
 
 ### SHIP MODULES AND THE CREW
-Your [[AST_Flagship|FLAGSHIP]] modules can also reflect the talents and strength of your crew, or influence the state of the crew. If your ship is [RIGGED FOR SPEED], the crew is skilled at adjusting the sails for maximum effect. An [IMPROVED SICK BAY] helps with casualties from battle or shipwide ailments (someone poisoned the rum!).
+Your [[AST_Flagship|FLAGSHIP]] modules can also reflect the talents and strength of your crew, or influence the state of the crew. If your ship is [[AST_Rigged for Speed|RIGGED FOR SPEED]], the crew is skilled at adjusting the sails for maximum effect. An [[AST_Improved Sick Bay|IMPROVED SICK BAY]] helps with casualties from battle or shipwide ailments (someone poisoned the rum!).
 
-> #incomplete RIGGED FOR SPEED asset
+> [!example]- RIGGED FOR SPEED [modeul]
+> ![[AST_Rigged for Speed#^Header]]
+> ![[AST_Rigged for Speed#^Ability1]]
+> ![[AST_Rigged for Speed#^Ability2]]
+> ![[AST_Rigged for Speed#^Ability3]]
 
 *25 COMMAND AND CREWS*
 
@@ -471,40 +472,41 @@ With a few exceptions, moves and assets don’t specifically reference your hold
 
 | **Move** | **Hold Supply** | **Equipped Supply** |
 | --- | --- | --- |
-| [[SI_CH4_Set a Course#Set a Course Move Card\|Set a Course]] | Sail along a known route in your ship | Journey overland along a known path |
-| [[SI_CH4_Resupply\|Resupply]] | Scavenge supplies from a wrecked ship | Gather musket shot from a fallen foe |
-| [[SI_CH4_Check Your Gear\|Check Your Gear]] | Check the ship’s stores for rum | Check for a torch when delving a cave |
-| [[SI_CH4_Sacrifice Resources\|Sacrafice Resources]] | Expend cannon shot in a broadside volley | Drop provisions while running from a jungle cat |
+| [[4 - Moves#SET A COURSE\|Set a Course]] | Sail along a known route in your ship | Journey overland along a known path |
+| [[4 - Moves#RESUPPLY\|Resupply]] | Scavenge supplies from a wrecked ship | Gather musket shot from a fallen foe |
+| [[4 - Moves#CHECK YOUR GEAR\|Check Your Gear]] | Check the ship’s stores for rum | Check for a torch when delving a cave |
+| [[4 - Moves#SACRAFICE RESOURCES\|Sacrafice Resources]] | Expend cannon shot in a broadside volley | Drop provisions while running from a jungle cat |
 
 A simpler way to think about it: the small-scale resources you and your allies carry are equipped supply, and the large-scale resources in your ship’s stores and armory are hold supply. You usually use your equipped supply to resolve actions and suffer outcomes when taking individual action, and your hold supply when taking shipwide actions. If unsure, use whichever favors you in that situation.
 
 > [!cite] 
-> You and a party of crewmembers attack an enemy encampment, and are victorious. You order the crew to seize the camp’s provisions, bolstering your hold supply as you Resupply.
+> You and a party of crewmembers attack an enemy encampment, and are victorious. You order the crew to seize the camp’s provisions, bolstering your hold supply as you [[4 - Moves#RESUPPLY|Resupply]].
 > 
 *26 ADVENTURES AMONG THE ISLES*
 
 ### TRACKING SUPPLY
-Small wooden cubes—available in craft stores—are a pleasingly thematic way to measure your current hold supply, with each cube counting as one supply. Or download the illustrated Sundered Isles character sheet from ironswornrpg.com, which includes dedicated places for both supply values.
+Small wooden cubes—available in craft stores—are a pleasingly thematic way to measure your current hold supply, with each cube counting as one supply. Or download the illustrated _Sundered Isles_ character sheet from ironswornrpg.com, which includes dedicated places for both supply values.
 
 ### MARKING UNPREPARED
-Since hold supply and equipped supply are tracked separately, each has its potential to make you unprepared. If either meter falls to zero, suffer the unprepared impact. If both fall to zero, mark the second unprepared as an extra impact. You must [[MV_Resupply|Resupply (move)]] to clear an unprepared impact, but clear only one instance of unprepared through a single Resupply action.
+Since hold supply and equipped supply are tracked separately, each has its potential to make you unprepared. If either meter falls to zero, suffer the unprepared impact. If both fall to zero, mark the second unprepared as an extra impact. You must [[4 - Moves#RESUPPLY|Resupply]] to clear an unprepared impact, but clear only one instance of unprepared through a single [[4 - Moves#RESUPPLY|Resupply]] action.
 
 If your ship is lost, your hold supply is lost along with it. You don’t mark unprepared, but you won’t have access to hold supply until you gain a new ship. If you transfer your command from one ship to another, keep your current hold supply.
 
 ### CONNECTING SUPPLY TO THE FICTION
-Supply is mainly abstracted. You aren’t counting individual barrels of grog or musket shot. However, it’s useful to think in terms of specific resources affected. This helps you envision opportunities and perils with greater context. If you [[MV_Sacrifice Resources|Sacrafice Resources (move)]], what do you lose or what shortfall is most pressing? If you Resupply, what do you gain?
+Supply is mainly abstracted. You aren’t counting individual barrels of grog or musket shot. However, it’s useful to think in terms of specific resources affected. This helps you envision opportunities and perils with greater context. If you [[4 - Moves#SACRAFICE RESOURCES|Sacrafice Resources]], what do you lose or what shortfall is most pressing? If you Resupply, what do you gain?
+
 > [!cite] 
-> You roll a miss as you Undertake an Expedition, and envision your ship stranded amid stagnant winds and sweltering heat. You [[MV_Sacrifice Resources|Sacrafice Resources (move)]] as the last of the fresh water is rationed out, reduce your hold supply to 0, and mark unprepared. Once the wind returns, you’ll need to travel to one of the nearby islands and go ashore to find a source of fresh water to [[MV_Resupply|Resupply (move)]].
+> You roll a miss as you Undertake an Expedition, and envision your ship stranded amid stagnant winds and sweltering heat. You [[4 - Moves#SACRAFICE RESOURCES|Sacrafice Resources]] as the last of the fresh water is rationed out, reduce your hold supply to 0, and mark unprepared. Once the wind returns, you’ll need to travel to one of the nearby islands and go ashore to find a source of fresh water to [[4 - Moves#RESUPPLY|Resupply]].
 
 ### DRAWING EQUIPPED SUPPLY FROM HOLD SUPPLY
-The _Sundered Isles_ version of the [[MV_Resupply|Resupply (move)]] includes an option to “Gear up from your ship’s stores.” This represents drawing from your hold supply to bolster your equipped supply, such as readying your provisions for an overland trek, or procuring weapons and ammo from the ship’s armory. Following the move prompts, roll +supply (hold) and resolve the outcome as follows:
+The _Sundered Isles_ version of the [[4 - Moves#RESUPPLY|Resupply]] includes an option to “Gear up from your ship’s stores.” This represents drawing from your hold supply to bolster your equipped supply, such as readying your provisions for an overland trek, or procuring weapons and ammo from the ship’s armory. Following the move prompts, roll +supply (hold) and resolve the outcome as follows:
 - **On a strong hit**, take the boost to your equipped supply. Hold supply is unaffected.
-- **On a weak hit**, you gain equipped supply, but “you must first deal with a cost, complication, or demand.” The obvious cost is to [[MV_Sacrifice Resources|Sacrafice Resources (move)], suffering -1 to your hold supply. You are draining one resource to bolster another.
-- **On a miss**, you don’t boost your equipped supply, and the situation worsens. Perhaps this wastes time or leaves you disadvantaged, and you [[MV_Lose Momentum|Lose Momentum (move)]. Or you face an issue with your supply that creates a new complication.
+- **On a weak hit**, you gain equipped supply, but “you must first deal with a cost, complication, or demand.” The obvious cost is to [[4 - Moves#SACRAFICE RESOURCES|Sacrafice Resources]], suffering -1 to your hold supply. You are draining one resource to bolster another.
+- **On a miss**, you don’t boost your equipped supply, and the situation worsens. Perhaps this wastes time or leaves you disadvantaged, and you [[4 - Moves#LOSE MOMENTUM|Lose Momentum]]. Or you face an issue with your supply that creates a new complication.
 
-> Hold supply is an extra resource to aid your actions and mitigate failure. To keep the pressure on, depict a dramatic world of struggle and scarcity. Let costly outcomes force you to [[MV_Sacrifice Resources|Sacrafice Resources (move)]]. Don’t go easy. Stay hungry.
+> Hold supply is an extra resource to aid your actions and mitigate failure. To keep the pressure on, depict a dramatic world of struggle and scarcity. Let costly outcomes force you to [[4 - Moves#SACRAFICE RESOURCES|Sacrafice Resources]]. Don’t go easy. Stay hungry.
 
-*SUPPLY AT SEA 27*
+*27 SUPPLY AT SEA*
 
 # WEALTH AND TREASURE
 By default, gameplay in _Starforged_ and _Sundered Isles_ isn’t concerned with acquiring riches or counting coins. Money is—at most—a narrative means to an end. The economies of these worlds are largely built upon barter and favors, and your personal wherewithal is abstracted within your supply meters and the progression through your legacy tracks.
@@ -512,7 +514,7 @@ By default, gameplay in _Starforged_ and _Sundered Isles_ isn’t concerned with
 However, _Sundered Isles_ adds crewed ships to the mix, and funding their upkeep can help drive challenges and opportunities in  your story. What’s more, taking from those in power, bleeding the empires dry, redirecting those resources to your own ends—those pursuits are worth their weight in gold. If you want to give the ebb and flow of wealth more focus in your campaign, use the optional guidelines detailed below.
 
 ## MANAGING YOUR TREASURY
-Your ==treasury== is a reserve of money, goods, and valuables. It is distinct from your personal supply and [hold supply (page 26)], which represent equipment and provisions on hand. It is used to maintain your crew and ship, make purchases, gain or grant favors, and pay off debts. The items in your treasury might be received as payment, found in the course of your adventures, or plundered from your foes.
+Your ==treasury== is a reserve of money, goods, and valuables. It is distinct from your personal supply and [[#SUPPLY AT SEA|hold supply]] (page 26), which represent equipment and provisions on hand. It is used to maintain your crew and ship, make purchases, gain or grant favors, and pay off debts. The items in your treasury might be received as payment, found in the course of your adventures, or plundered from your foes.
 
 The resources held in your treasury are inventoried in your ledger. The _Sundered Isles Playkit_, available for download at ironswornrpg.com, includes a ledger worksheet.
 
@@ -542,25 +544,24 @@ Record new acquisitions in your ledger. Each row of the ledger includes five cir
 ## SPENDING WEALTH
 Exchange items or spend funds from your treasury as best fits the narrative. Dipping into your treasury doesn’t add mechanical bonuses to a move, nor is it (usually) an excuse to skip moves altogether. Any action that has you seeking resources, services, or favors from a character or organization is likely to carry a cost. For example:
 
-- You commission repairs at a dockyard; this allows you to select “At a Facility” when making the [[MV_Repair|Repair (move)]].
-- You hire a local guide to help show the way on an overland journey; this allows you to [[MV_Set a Course|Set a Course (move)]] instead of [[MV_Undertake an Expedition|Undertake an Expedition (move)]] when you set off.
-- While low on provisions, you encounter a friendly ship and offer to swap the trade goods in your hold for food and fresh water; this allows you to attempt a [[MV_Resupply|Resupply (move)]],
-- You want to make your [[AST_Flagship|FLAGSHIP]] more impressive, so you hire local artisans to outfit the ship with fine fittings and furnishings; this—along with spent experience—allows you to gain the [GILDED ADORNMENTS] module asset as you [[MV_Advance|Advance (move)]].
+- You commission repairs at a dockyard; this allows you to select “At a Facility” when making the [[4 - Moves#REPAIR|Repair]].
+- You hire a local guide to help show the way on an overland journey; this allows you to [[4 - Moves#SET A COURSE|Set a Course]] instead of [[4 - Moves#UNDERTAKE AN EXPEDITION|Undertake an Expedition]] when you set off.
+- While low on provisions, you encounter a friendly ship and offer to swap the trade goods in your hold for food and fresh water; this allows you to attempt a [[4 - Moves#RESUPPLY|Resupply]],
+- You want to make your [[AST_Flagship|FLAGSHIP]] more impressive, so you hire local artisans to outfit the ship with fine fittings and furnishings; this—along with spent experience—allows you to gain the [[AST_Gilded Adornment|GILDED ADORNMENT]] module asset as you [[4 - Moves#ADVANCE|Advance]].
 
 The narrative framing helps determine if a move is necessary, what is required to make the move, and what you gain or lose. Does the context of the action and your approach require that you expend some wealth? If so, decide the cost and mark it off.
 
-> [!cite] You arrive at an imperial port with a hold full of smuggled weapons, ready for delivery to an underground resistance group. However, you must first avoid the attention of port officials. You visit the harbor master’s office, a pouch of flawless pearls in hand (value 2), and Compel them to look the other way as you offload the armaments.
+> [!cite] You arrive at an imperial port with a hold full of smuggled weapons, ready for delivery to an underground resistance group. However, you must first avoid the attention of port officials. You visit the harbor master’s office, a pouch of flawless pearls in hand (value 2), and[[4 - Moves#COMPEL|Compel]]them to look the other way as you offload the armaments.
 
 When money is involved, your treasury can also help resolve a costly outcome.
 
 > [!cite] 
 > You score a weak hit as you make your offer to the harbor master. Per the outcome of that move, “their agreement comes with a demand or complication.” It seems the official is not satisfied with the bribe. Luckily you came prepared and sweeten the pot with a weighty bag of coin (value 2).
 
-*WEALTH AND TREASURE 29*
+*29 WEALTH AND TREASURE*
 
 ### CONVERTING WEALTH
-Readily spendable valuables such as coins, stockpiles of trade goods, or stacks of metal ingots are often used piecemeal. For example, if you receive a payment of value 3 in coinage, it’s a simple matter to spend 1 portion of this ledger item, reducing its
-value to 2. However, other items aren’t so easily dealt with in increments.
+Readily spendable valuables such as coins, stockpiles of trade goods, or stacks of metal ingots are often used piecemeal. For example, if you receive a payment of value 3 in coinage, it’s a simple matter to spend 1 portion of this ledger item, reducing its value to 2. However, other items aren’t so easily dealt with in increments.
 
 If you have an opportunity to convert an item in your ledger to a more readily-spendable or tradeable resource, clear the old entry and add a new one. In typical cases, you should make the value of the new item one step lower (minimum 1) to reflect the inherent cost of the exchange. 
 
@@ -568,7 +569,7 @@ If you have an opportunity to convert an item in your ledger to a more readily-s
 > You visit a port city with a war prize, a captured frigate, in tow. You offload the value 4 vessel to a black market shipbroker, and add a new entry (“coin paid for captured frigate”) to your ledger, giving it a value of 3.
 
 
-Not all resources are in demand in all places. An inland village has little need of a ship. A rare curio may require a very particular buyer. If you’re not sure if a ledger item is spendable or exchangeable at a specific location, [[MV_Ask the Oracle|Ask the Oracle (move)]].
+Not all resources are in demand in all places. An inland village has little need of a ship. A rare curio may require a very particular buyer. If you’re not sure if a ledger item is spendable or exchangeable at a specific location, [[4 - Moves#ASK THE ORACLE|Ask the Oracle]].
 
 ### WANT SOMETHING SIMPLER?
 If you prefer not to fuss with individual items in a ledger, you can keep a running total for your treasury. When you claim an item, add its value to the total. When you spend, barter, or sacrifice a portion of your treasury, reduce your total. Alternatively, you can treat any readily spendable resources such as coins as a lump sum, and save the ledger for unique items of note.
@@ -594,55 +595,52 @@ In particular, acquiring a large treasure hoard or wondrous artifact can upend y
 ## THE LURE OF TREASURE
 There are treasures among the isles: coins of gold and silver, glittering gems, lustrous pearls, masterwork crafts, and ancient artifacts.
 
-Many of these treasures originate from the distant continental domain. Over decades, as wars and calamities swept over those lands, riches were taken as spoils, smuggled out amidst coups or rebellions, or greedily hoarded by imperial powers. These treasures followed various paths of fortune and misfortune as they made their way to the isles—taken and retaken in war, squirreled away in vaults, captured by pirates, buried in hidden places, or sunk to the depths. Much of the wealth of this golden
-exodus is still out there—waiting to be reclaimed or seized.
+Many of these treasures originate from the distant continental domain. Over decades, as wars and calamities swept over those lands, riches were taken as spoils, smuggled out amidst coups or rebellions, or greedily hoarded by imperial powers. These treasures followed various paths of fortune and misfortune as they made their way to the isles—taken and retaken in war, squirreled away in vaults, captured by pirates, buried in hidden places, or sunk to the depths. Much of the wealth of this golden exodus is still out there—waiting to be reclaimed or seized.
 
 Other treasures are born of the isles. They are crafted or gathered by far-flung people or retrieved from ancient places. The treasures of ancient civilizations are sometimes claimed by the true inheritors of those fortunes, but are more often stolen by imperial powers and other looters.
 
 ### REVEALING TREASURES
-Searching for a fabled treasure or capturing a powerful treasure ship can serve as the object of a quest. You can also discover treasures as prompted by an oracle table, such as among the cargo of a captured ship (page 139). To reveal the contents and nature of a treasure, use the [Treasure Oracles (page 220).]
+Searching for a fabled treasure or capturing a powerful treasure ship can serve as the object of a quest. You can also discover treasures as prompted by an oracle table, such as among the [[3 - Oracles#CARGO|cargo of a captured ship]] (page 139). To reveal the contents and nature of a treasure, use the [[3 - Oracles#^Treasure-Oracles\|Treasure Oracles]] (page 220).
 
 A relatively mundane discovery can temporarily bolster your treasury, while a significant haul can change the course of your  adventures—for better or worse.
 
 ### CURSED RICHES
-Greed is a corrupting force, and not all treasures bring good fortune. Your [cursed die (page 114)] can reveal uncanny aspects of a treasure. Some riches are corrupted by foul magic. Others are bound to dreadful hauntings. The consuming lust for treasure has seen people broken, ships and crews lost to the depths—even entire nations condemned to ruin. Be wary of the allure of riches, lest you find yourself on that same doomed course.
+Greed is a corrupting force, and not all treasures bring good fortune. Your [[3 - Oracles#THE CURSED DIE|cursed die]] (page 114) can reveal uncanny aspects of a treasure. Some riches are corrupted by foul magic. Others are bound to dreadful hauntings. The consuming lust for treasure has seen people broken, ships and crews lost to the depths—even entire nations condemned to ruin. Be wary of the allure of riches, lest you find yourself on that same doomed course.
 
 *31 WEALTH AND TREASUR*
 
 # NAVIGATING THE ISLES
-Perilous journeys within the isles–whether by sea or overland–are managed through [exploration moves (page 242)]. Below are some setting assumptions to help add flavor and context to those moves. [See page 168 in the Starforged rulebook] for
-additional guidance on travel and exploration.
+Perilous journeys within the isles–whether by sea or overland–are managed through [[4 - Moves#^7fdd15|exploration moves]] (page 242)]. Below are some setting assumptions to help add flavor and context to those moves. [[_Exploration Moves|See page 168]] in the _Starforged_ rulebook for additional guidance on travel and exploration.
 
 ## TRAVELING BY SEA
-When sailing among the isles, you don’t simply unfurl the sails and set a constant heading to your destination. A voyage of twenty leagues as the gull flies is likely twice that distance along a meandering route. Abundant tiny islets, often uncharted, stand
-in your path. The push and pull of the two moons cause severe, erratic tides, and hull-breaching rocks and reefs lurk in shallow waters. The wind and weather can change in minutes. A sail sighted on the horizon might be friend or foe.
+When sailing among the isles, you don’t simply unfurl the sails and set a constant heading to your destination. A voyage of twenty leagues as the gull flies is likely twice that distance along a meandering route. Abundant tiny islets, often uncharted, stand in your path. The push and pull of the two moons cause severe, erratic tides, and hull-breaching rocks and reefs lurk in shallow waters. The wind and weather can change in minutes. A sail sighted on the horizon might be friend or foe.
 
 Within the Myriads, routes with reliably deep water and charted obstacles allow for predictable passages from one port to another–although those routes can change with the vagaries of time and tide. In the Margins and Reaches, reliable passages are often unmapped or known only to a few.
 
 When preparing to set sail, consider the context of these setting assumptions and the nature of your voyage. Have you traveled this route before? Do you have charts or another character to guide you? What are the potential dangers?
 - **If your destination is a short distance across safe waters**, don’t make a move.
-- **If you know the way, but the voyage entails uncertainty or risk**, [[MV_Set a Course|Set a Course (move)]] to see what happens with a single roll.
-- **If you must find your way across perilous waters**, set a rank for the voyage and roll to [[MV_Undertake an Expedition|Undertake an Expedition (move)]] for each segment of travel. When your destination is in sight, [Finish the Expedition].
+- **If you know the way, but the voyage entails uncertainty or risk**, [[4 - Moves#SET A COURSE|Set a Course]] to see what happens with a single roll.
+- **If you must find your way across perilous waters**, set a rank for the voyage and roll to [[4 - Moves#UNDERTAKE AN EXPEDITION|Undertake an Expedition]] for each segment of travel. When your destination is in sight, [[4 - Moves#FINISH AN EXPEDITION|Finish the Expedition]].
 
 *32 ADVENTURES AMONG THE ISLES*
 
 ### CROSSING THE BOUNDS
-[Each region (page 8)] is separated from the next by a stretch of deep, open water. ==The Lesser Bounds== separate the Myriads from the Margins, and the ==Greater Bounds== are between the Margins and the Reaches.
+[[#REGIONS OF THE ISLES|Each region]] (page 8) is separated from the next by a stretch of deep, open water. ==The Lesser Bounds== separate the Myriads from the Margins, and the ==Greater Bounds== are between the Margins and the Reaches.
 
 Without the aid of landmarks, mariners crossing either of the Bounds must rely on navigational skills and careful tacking for winds and currents. Perhaps most critical is the state of the ship’s hold, since you’ll be days or even weeks at sea without an opportunity to resupply.
 
-Resolve a crossing using the [[MV_Set a Course|Set a Course (move)]]. Envision the journey, the dizzying open horizon, the long wait for the appearance of land in the distance. If you roll a miss, per the move’s outcome, “you are waylaid by a significant threat, and must [[MV_Pay the Price|Pay the Price (move)]].” Envision what happens and what you do to overcome the obstacle.
+Resolve a crossing using the [[4 - Moves#SET A COURSE|Set a Course]]. Envision the journey, the dizzying open horizon, the long wait for the appearance of land in the distance. If you roll a miss, per the move’s outcome, “you are waylaid by a significant threat, and must [[4 - Moves#PAY THE PRICE|Pay the Price]].” Envision what happens and what you do to overcome the obstacle.
 
-If the Bounds is part of a longer journey, bookend the crossing with expeditions. Set your destination for the first expedition to the edge of the Bounds, or to a port that serves as a last stop. Then [[MV_Set a Course|Set a Course (move)]] for the crossing. Begin the next expedition as you reach the other side of the Bounds and arrive in the new region.
+If the Bounds is part of a longer journey, bookend the crossing with expeditions. Set your destination for the first expedition to the edge of the Bounds, or to a port that serves as a last stop. Then [[4 - Moves#SET A COURSE|Set a Course]] for the crossing. Begin the next expedition as you reach the other side of the Bounds and arrive in the new region.
 
 ## TRAVELING BY LAND
 Whether you’re gathering provisions, following the breadcrumbs of a quest, or simply making your way from point A to point B, your adventures will eventually send you on an overland journey.
 
-As with a seagoing voyage, you have options for resolving overland travel. Consider the situation and the amount of focus you want to give this aspect of your adventure. Are you setting off along a well-trod road connecting two settlements? No move is necessary unless you’re facing a danger or complication. Are you heading upriver on a risky journey to a known inland settlement? Set a Course. Are you striking out into unfamiliar wilderness on a remote island? That’s a perfect excuse to give this adventure some focus as you [[MV_Undertake an Expedition|Undertake an Expedition (move)]] 
+As with a seagoing voyage, you have options for resolving overland travel. Consider the situation and the amount of focus you want to give this aspect of your adventure. Are you setting off along a well-trod road connecting two settlements? No move is necessary unless you’re facing a danger or complication. Are you heading upriver on a risky journey to a known inland settlement? Set a Course. Are you striking out into unfamiliar wilderness on a remote island? That’s a perfect excuse to give this adventure some focus as you [[4 - Moves#UNDERTAKE AN EXPEDITION|Undertake an Expedition]] 
 
-If you’re not sure, [[MV_Ask the Oracle|Ask the Oracle (move)]]. [The Island Oracles (page 142)] can help as you envision the size, landscape, and habitation of an island.
+If you’re not sure, [[4 - Moves#ASK THE ORACLE|Ask the Oracle]]. The [[3 - Oracles#^3a6980|Island Oracles]] (page 142) can help as you envision the size, landscape, and habitation of an island.
 
-*NAVIGATING THE ISLES 33*
+*33 NAVIGATING THE ISLES*
 
 ## CHARTING YOUR COURSE
 Some seafarers rely on memory and intuition. Others keep detailed logs and cryptic charts replete with headings, soundings, tidal readings, landmarks, and hazards. Like those mariners, you choose how to chronicle your adventures. Want to immerse yourself? Create an in-character ship’s log and detailed maps. Would you rather focus on the moment-to-moment story? Just keep a few hasty notes. There’s no wrong answer. If you’re having fun and the info you need is at-hand, you’re doing it right.
@@ -654,33 +652,33 @@ Much like a sector map in Starforged, a navigation chart offers a manageable sco
 > #incomplete Add art or diagram of Islands and points of interests
 > Sharktooth Islets - Sentinel Rock - Wreck of the Jade Empress - Stormcliff - Glimmerport - Carina Cay - Auki Isles - Amara Keya
 
-You’ll find a navigation chart worksheet as part of the _Sundered Isles Playkit_. It includes a space to draw your map, along with a ==faction influence grid== [(page 50)].
+You’ll find a navigation chart worksheet as part of the _Sundered Isles Playkit_. It includes a space to draw your map, along with a ==[[#FACTION INFLUENCE GRID|faction influence grid]]== (page 50).
 
-We’ll sketch out the beginnings of your first chart as you get your campaign underway in the [next section (page 64)]. When you decide you’ve traveled beyond the boundaries of an area, it’s time for a fresh chart. As appropriate to your character’s familiarity with the area or access to existing charts, you might generate a few features to put on your chart as you sail into a new area, or find your way on a blank map. If you want inspiration for naming a local area within the isles, check the [Local Seas table on page 227].
+We’ll sketch out the beginnings of your first chart as you get your campaign underway in the [[2 - Getting Underway|nex section]] (page 64). When you decide you’ve traveled beyond the boundaries of an area, it’s time for a fresh chart. As appropriate to your character’s familiarity with the area or access to existing charts, you might generate a few features to put on your chart as you sail into a new area, or find your way on a blank map. If you want inspiration for naming a local area within the isles, check the [[3 - Oracles#LOCAL SEAS|Local Seas]] table on page 227.
 
 *34 ADVENTURES AMONG THE ISLES*
 
 ## EXPEDITION WAYPOINTS
 The nature of travel within the isles lends itself to the cadence of Starforged expedition moves, with each segment of a journey separated by a ==waypoint==. A waypoint is not necessarily a location. It can spotlight an event, encounter, or simply a moment of character interaction or introspection. At sea, you can envision finding safe anchorage to wait out weather and tide, creating an opportunity for a waypoint as a roleplaying ==interlude== [(page 46)]. On land, you and your fellow travelers take a break or make camp as appropriate.
 
-Use the _Seafaring Waypoints_ [table (page 120)] to inspire situations and locations at sea. For an island expedition, look to _Overland Waypoints_ [(page 148)].
+Use the _[[3 - Oracles#SEAFARING ORACLES|Seafaring Waypoints]]_ table (page 120) to inspire situations and locations at sea. For an island expedition, look to _[[3 - Oracles#OVERLAND WAYPOINTS|Overland Waypoints]]_ (page 148).
 
 An important note: Roll for a waypoint only when you are inspired to inject uncertainty, danger, strangeness, or narrative potential into your story. Otherwise, simply envision the waypoint as appropriate to the current situation and the outcome of your move.
 
 ## VISITING SETTLEMENTS
 A ==settlement== is an island community—a village, town, or city. Some settlements have endured the test of time, standing as  testaments to their peoples’ long history. Others are newly-founded, a footprint upon an uninhabited, forsaken, or occupied island. And some are captured as spoils of war, subjugated by enemies and empires. They range from small villages, to bustling port towns, to sprawling city-states.
 
-Visiting a settlement might serve as a critical step in your pursuit of a quest, an opportunity to rest and refit through the [[MV_Sojourn|Sojourn (move)]], or an excuse to enjoy some low-key interactions with local folk. [The Island Oracles (page 142)] and [Overland Waypoints table (page 148)] can reveal settlements as expedition waypoints.
+Visiting a settlement might serve as a critical step in your pursuit of a quest, an opportunity to rest and refit through the [[4 - Moves#SOJOURN|Sojourn]], or an excuse to enjoy some low-key interactions with local folk. [[3 - Oracles#ISLAND ORACLES|The Island Oracles]] (page 142) and [[3 - Oracles#OVERLAND WAYPOINTS|Overland Waypoints]] table (page 148) can reveal settlements as expedition waypoints.
 
-To envision the look and nature of a settlement, use the [Settlement Oracles (page 164)]. These details can drive opportunities, complications, and quests in your story.
+To envision the look and nature of a settlement, use the [[3 - Oracles#^33c435|Settlement Oracles]] (page 164). These details can drive opportunities, complications, and quests in your story.
 
-*NAVIGATING THE ISLES 35*
+*35 NAVIGATING THE ISLES*
 
 # NAVAL ENCOUNTERS
 Yours is not the only ship among the isles. A ==naval encounter== is triggered when your intentions, the outcome of a move, or the result of an oracle roll reveal the presence of another ship or force at sea. For example:
-- You roll on the Seafaring Waypoints table (page 120) as you arrive at an expedition waypoint, which randomly introduces a ship encounter.
-- You roll a miss as you Set a Course, and must Pay the Price. You resolve the cost by envisioning an encounter with an enemy ship en route.
-- Commanding your pirate ship, you Face Danger to stalk an imperial trade route in search of prey. You score a hit, and envision spotting sails on the horizon.
+- You roll on the _[[3 - Oracles#SEAFARING ORACLES|Seafaring Waypoints]]_ table (page 120) as you arrive at an expedition waypoint, which randomly introduces a ship encounter.
+- You roll a miss as you [[4 - Moves#SET A COURSE|Set a Course]], and must Pay the Price. You resolve the cost by envisioning an encounter with an enemy ship en route.
+- Commanding your pirate ship, you [[4 - Moves#FACE DANGER|Face Danger]] to stalk an imperial trade route in search of prey. You score a hit, and envision spotting sails on the horizon.
 - 
 This section guides you through the phases of a seagoing encounter: ==sighting==, ==approach==, ==engagement==, and ==boarding==. You use a combination of moves, oracles, and intuition to envision the nature of the situation. If you find yourself in a fight at sea, the combat moves help resolve your actions.
 
@@ -688,54 +686,54 @@ The procedures and tips in this section are geared toward ship-to-ship encounter
 
 Most importantly, treat these as guidelines—not rules. It can be helpful to follow these phases strictly for your first encounter or two, but you’ll soon find your own preferences. Plus, different situations deserve different levels of detail. If it’s important or interesting, give it focus. If not, gloss over it and sail on.
 
-See the next page for a summary of the phases. To dive into details, [go to page 38].
+See the next page for a summary of the phases. To dive into details, [[#^sighting-phase|go to page 38]].
 
 *36 ADVENTURES AMONG THE ISLES*
 
 ## NAVAL ENCOUNTERS SUMMARY
-> ### SIGHTING PHASE [(PAGE 38)]
+> ### SIGHTING PHASE ([[#^sighting-phase|PAGE 38]])
 > - ==Envision the environment==, including the time, weather, and surrounding terrain.
 > - ==Identify the sighting== by introducing details of the opposing ship or force. Are they friend, foe, or neutral?
 > - ==Set your orientation== to determine if the start of the encounter has you forewarned or in the thick of it.
 > - ==Envision the reaction== by deciding how both sides respond.
 > 
-> ### APPROACH PHASE [(PAGE 39)]
+> ### APPROACH PHASE ([[#^approach-phase|PAGE 39]])
 > - ==Resolve as a single move==, using Face Danger or Secure an Advantage, or…
 > - ==Resolve as a scene challenge== for a dramatic or unusual encounter.
 > 
-> ### ENGAGEMENT PHASE [(PAGE 40)]
+> ### ENGAGEMENT PHASE ([[#^engagement-phase|PAGE 40]])
 > - ==Decide your engagement objectives== for this stage of combat and ==set the engagement objective ranks==.
 > - Envision your opponent’s goal or a looming threat and ==set a tension clock==.
-> - ==Sound the alarm== and begin the fight as you [[MV_Enter the Fray|Enter The Fray (move)]].
+> - ==Sound the alarm== and begin the fight as you [[4 - Moves#ENTER THE FRAY|Enter the Fray]].
 > - ==Envision and act== to command your ship, overcome dangers, and make progress toward your objectives.
 > - ==Manage the changing tide of battle== as your success and failures alter your objectives.
 > - ==Resolve the engagement== and decide what happens next.
 > 
-> ### BOARDING PHASE [(PAGE 44)]
+> ### BOARDING PHASE ([[#^boarding-phase|PAGE 44]])
 > - Set the scene by envisioning how the boarding action begins.
 > - Decide your boarding objectives for this stage of the fight and set the boarding objective ranks.
-> - Stand ready as you [[MV_Enter the Fray|Enter The Fray (move)]].
+> - Stand ready as you [[4 - Moves#ENTER THE FRAY|Enter the Fray]].
 > - Join the fight as you board the enemy ship—or repel boarders on your own ship—and battle to achieve your objectives.
 > - End the fight to claim victory or count the costs.
 
 ### WHEN IT HAPPENS IN A BLUR…
 When a hostile naval encounter isn’t worthy of resolving in detail, you can instead use the Battle move. Set your objective, decide your approach, and make the roll. You can also Battle to quickly decide how you fare against a secondary objective, such as when you deal with escort ships protecting your primary target.
 
-*NAVAL ENCOUNTERS 37*
+*37 NAVAL ENCOUNTERS*
 
 > [!summary] ## SIGHTING PHASE
-> Sails, ho! The ==sighting phase== begins with initial contact. Use these guidelines to help envision the nature of a naval encounter—whether it be friend or foe—and to discover what happens next.
+> Sails, ho! The ==sighting phase== begins with initial contact. Use these guidelines to help envision the nature of a naval encounter—whether it be friend or foe—and to discover what happens next. ^sighting-phase
 
 ### ENVISION THE ENVIRONMENT
-The time of day and weather can influence the nature of an encounter. Use the [_Weather Oracles_ (page 130)] to randomly generate the starting situation, or simply decide what is expected, interesting, or dramatic.
+The time of day and weather can influence the nature of an encounter. Use the _[[3 - Oracles#WEATHER ORACLES]]_ (page 130) to randomly generate the starting situation, or simply decide what is expected, interesting, or dramatic.
 
-Also, consider the state of the seas and surroundings. Encounters often occur in open water, but more complex terrain provides obstacles and opportunities. Are you sailing amid rocky shoals at low tide? Does a small island lie between you and the sighted ship? Are you navigating the foreboding tangle of a ship graveyard? Use the [_Sea Battle Features_ table on page 233] to add terrain and other aspects to the scene.
+Also, consider the state of the seas and surroundings. Encounters often occur in open water, but more complex terrain provides obstacles and opportunities. Are you sailing amid rocky shoals at low tide? Does a small island lie between you and the sighted ship? Are you navigating the foreboding tangle of a ship graveyard? Use the _[[3 - Oracles#^Sea-Battle-Feature|Sea Battle Features]]_ table on page 233 to add terrain and other aspects to the scene.
 
 ### IDENTIFY THE SIGHTING
 Decide what you see through your spyglass using some combination of the following.
-- Check your [faction influence grid (page 50)] to decide what flag the ship or force is flying. Are they friend, foe, or neutral?
-- Ask a question using the [[MV_Ask the Oracle|Ask the Oracle (move)]] table. For example, you might use the “pick two” option to ask, “Is this a pirate hunter or an imperial merchant ship?”
-- Use the [_Ship Oracles_ (page 132)] to reveal details of the encounter.
+- Check your [[#FACTION INFLUENCE GRID|faction influence grid]] (page 50) to decide what flag the ship or force is flying. Are they friend, foe, or neutral?
+- Ask a question using the [[4 - Moves#ASK THE ORACLE|Ask the Oracle]] table. For example, you might use the “pick two” option to ask, “Is this a pirate hunter or an imperial merchant ship?”
+- Use the _[[3 - Oracles#^Ship-Oracles|Ship Oracles]]_ (page 132) to reveal details of the encounter.
 - Simply decide the nature of an encounter as appropriate to the situation.
 
 Mix and match these techniques as you like, and let the framing of the situation be your guide. A hostile encounter is likely if you rolled a miss on a preceding move, while a strong hit on that move can prompt a neutral or beneficial encounter. Most importantly, go with your gut. Don’t get mired in an endless series of oracle rolls. 
@@ -743,41 +741,39 @@ Mix and match these techniques as you like, and let the framing of the situation
 If foul conditions—darkness, fog, storms, or mystical effects—preclude a clear view of the other ship, limit what you learn at a distance. Will you sail closer to reveal their identity? Will they give you a choice in the matter?
 
 ### SET YOUR ORIENTATION
-Is this sighting at a distance, or is it a sudden, unexpected encounter that has you in range of enemy guns? In ideal conditions, ships are first sighted as sails on the horizon, but weather, obscuring terrain, and the dreadful powers of supernatural foes can all have an influence. Let the nature of the conditions, the characteristics of the ships, and the outcome of the preceding move help dictate whether the start of the encounter favors you or has you scrambling to react. If unsure, [[MV_Ask the Oracle|Ask the Oracle (move)]].
+Is this sighting at a distance, or is it a sudden, unexpected encounter that has you in range of enemy guns? In ideal conditions, ships are first sighted as sails on the horizon, but weather, obscuring terrain, and the dreadful powers of supernatural foes can all have an influence. Let the nature of the conditions, the characteristics of the ships, and the outcome of the preceding move help dictate whether the start of the encounter favors you or has you scrambling to react. If unsure, [[4 - Moves#ASK THE ORACLE|Ask the Oracle]].
 
 ### ENVISION THE REACTION
-Finally, decide if and how the encounter proceeds. Does the other ship or force move to engage? Do they flee? Do they sail blissfully onwards, unaware or unconcerned? If unsure, Ask the Oracle. Then, decide how you respond. If either ship seeks to close on
-the other, begin the approach phase. 
+Finally, decide if and how the encounter proceeds. Does the other ship or force move to engage? Do they flee? Do they sail blissfully onwards, unaware or unconcerned? If unsure, [[4 - Moves#ASK THE ORACLE|Ask the Oracle]]. Then, decide how you respond. If either ship seeks to close on the other, begin the approach phase. 
 
 *38 ADVENTURES AMONG THE ISLES*
 
 > [!info] ## APPROACH PHASE
-> Make full sail! In the ==approach phase==, you and your potential foes seek the advantage of wind and sea as you close into cannon range or take part in a pursuit. This phase is a precursor to combat, encompassing minutes, hours, or even days. It is resolved through a single move or as a scene challenge.
+> Make full sail! In the ==approach phase==, you and your potential foes seek the advantage of wind and sea as you close into cannon range or take part in a pursuit. This phase is a precursor to combat, encompassing minutes, hours, or even days. It is resolved through a single move or as a scene challenge. ^approach-phase
 
 ### RESOLVE AS A SINGLE MOVE
-[[MV_Face Danger|Face Danger (move)]] or [[MV_Secure an Advantage|Secure an Advantage (move)]] to zoom out and resolve this phase in a single move. This is the suggested approach for most naval encounters. First, decide your intent according to the details established in the sighting phase. Will you lay in wait, close, pursue, or escape? Then, make the move to see what happens.
-- [[MV_Face Danger|Face Danger (move)]] if your starting position is unfavorable—you are caught at anchor and must hastily get underway, your ship is the lesser of the combatants, the wind and weather is not on your side, shoals or reefs make navigation hazardous, or some other complicating factor. You should also [[MV_Face Danger|Face Danger (move)]] if you seek to escape notice or outrun a pursuing foe. This move tends to force a minor cost.
-- [[MV_Secure an Advantage|Secure an Advantage (move)]] if you are lying in wait, closing, or pursuing, and the starting situation favors you. This move tends to award you with momentum.
+[[4 - MovesFACE DANGER|Face Danger]] or [[4 - Moves#SECURE AN ADVANTAGE|Secure an Advantage]] to zoom out and resolve this phase in a single move. This is the suggested approach for most naval encounters. First, decide your intent according to the details established in the sighting phase. Will you lay in wait, close, pursue, or escape? Then, make the move to see what happens.
+- [[4 - MovesFACE DANGER|Face Danger]] if your starting position is unfavorable—you are caught at anchor and must hastily get underway, your ship is the lesser of the combatants, the wind and weather is not on your side, shoals or reefs make navigation hazardous, or some other complicating factor. You should also [[4 - MovesFACE DANGER|Face Danger]] if you seek to escape notice or outrun a pursuing foe. This move tends to force a minor cost.
+- [[4 - Moves#SECURE AN ADVANTAGE|Secure an Advantage]] if you are lying in wait, closing, or pursuing, and the starting situation favors you. This move tends to award you with momentum.
 
-If you are sailing with allies, everyone participates in the narration of the approach phase, and one of you makes the move. Others may make the [[MV_Aid Your Ally|Aid Your Ally (move)]] to bolster the leader’s action, but this is best limited to one or two allies.
+If you are sailing with allies, everyone participates in the narration of the approach phase, and one of you makes the move. Others may make the[[4 - Moves#AID YOUR ALLY|Aid Your Ally]] to bolster the leader’s action, but this is best limited to one or two allies.
 
-Resolve the move as appropriate to the situation. If you intend to escape, you sail out of reach on a hit. If you are in pursuit and score a hit, you have them in range. If the two sides are closing to engage, success or failure helps decide the costs you suffer
-or the advantages gained during this phase.
+Resolve the move as appropriate to the situation. If you intend to escape, you sail out of reach on a hit. If you are in pursuit and score a hit, you have them in range. If the two sides are closing to engage, success or failure helps decide the costs you suffer or the advantages gained during this phase.
 
 ### RESOLVE AS A SCENE CHALLENGE
-If you want to give this phase more focus for an important or unusual encounter, you can make it a [scene challenge (page 254)]. This is best used when the situation allows for a dramatic, dynamic scene. The framing and outcome of the challenge depends on the intent of the two sides.
+If you want to give this phase more focus for an important or unusual encounter, you can make it a [[4 - Moves#^Scene-Challenges|scene challenge]] (page 254). This is best used when the situation allows for a dramatic, dynamic scene. The framing and outcome of the challenge depends on the intent of the two sides.
 - If one side seeks to escape while the other is in pursuit, the result of the challenge decides if the encounter moves to the next phase.
-- If both sides are maneuvering into cannon range, the outcome of the challenge can decide the rank for your initial objective when you [[MV_Enter the Fray|Enter The Fray (move)]]. For an evenly matched encounter, formidable can serve as the default. If you succeed in the scene challenge, you have the advantage—make your initial objective one rank lower (dangerous). If you fail, make it one higher (extreme).
+- If both sides are maneuvering into cannon range, the outcome of the challenge can decide the rank for your initial objective when you [[4 - Moves#ENTER THE FRAY|Enter the Fray]]. For an evenly matched encounter, formidable can serve as the default. If you succeed in the scene challenge, you have the advantage—make your initial objective one rank lower (dangerous). If you fail, make it one higher (extreme).
 
 > Skip this phase if the encounter begins at cannon range. For example, if your enemy is lurking in a fog bank or approaches without warning under cover of darkness, you’ll jump to the engagement phase. You should also skip this phase if the outcome is not in doubt, such as when a superior foe is in pursuit of a much slower ship.
 
-* NAVAL ENCOUNTERS 39*
+*39 NAVAL ENCOUNTERS*
 
 > [!progress] ## ENGAGEMENT PHASE
-> Fire! In the ==engagement phase==, combat begins as you and your foes draw into weapons range. You are now bound to a world of thundering cannons, billowing smoke, shattered wood, and torn sails. You must rely on the strength of your ship, the skill of your command, and the steadfastness of your crew to survive.
+> Fire! In the ==engagement phase==, combat begins as you and your foes draw into weapons range. You are now bound to a world of thundering cannons, billowing smoke, shattered wood, and torn sails. You must rely on the strength of your ship, the skill of your command, and the steadfastness of your crew to survive. ^engagement-phase
 
 ### NAME YOUR ENGAGEMENT OBJECTIVE
-To start, [[MV_Enter the Fray|Enter The Fray (move)]]. Per that move, the first step is to set an objective. Your engagement objective is not necessarily your overall objective for the fight. Instead, it is an objective specific to the engagement phase as each side maneuvers and attacks to gain superiority or victory. Depending on the intent of you and your foes, this phase may bring a decisive finish to the fight, or lead to a boarding action in the next phase.
+To start, [[4 - Moves#ENTER THE FRAY|Enter the Fray]]. Per that move, the first step is to set an objective. Your engagement objective is not necessarily your overall objective for the fight. Instead, it is an objective specific to the engagement phase as each side maneuvers and attacks to gain superiority or victory. Depending on the intent of you and your foes, this phase may bring a decisive finish to the fight, or lead to a boarding action in the next phase.
 
 Often, your engagement objective is one of the following:
 - Escape the fight
@@ -798,7 +794,7 @@ The objective rank should reflect not just the threat of your foe but the riskin
 *40 ADVENTURES AMONG THE ISLES*
 
 ### SET A TENSION CLOCK
-A ==tension clock== [(page 238 of the _Starforged_ rulebook)] can stand for your enemy’s goal when they want to accomplish something other than sinking your ship. In many cases, this is the opposite of your objective. You want to escape the pirates, but they seek to board and capture your ship. You are chasing after an enemy, and they are making full sail to lose you in a fog bank.
+A ==tension clock== [[GID_Clocks_Tension|page 238]] of the _Starforged_ rulebook)] can stand for your enemy’s goal when they want to accomplish something other than sinking your ship. In many cases, this is the opposite of your objective. You want to escape the pirates, but they seek to board and capture your ship. You are chasing after an enemy, and they are making full sail to lose you in a fog bank.
 
 A tension clock can also represent a looming threat external to you and your foe.
 
@@ -808,38 +804,37 @@ A tension clock can also represent a looming threat external to you and your foe
 Give the tension clock four segments for a typical fight, and six segments for a complex fight with a high-ranked objective or multiple objectives. If you can envision several opportunities for tension clocks, choose just one. Decide the most dramatic factor in the fight, make it a clock, and play to see what happens.
 
 ### SOUND THE ALARM
-Beat to quarters! It’s time to roll some dice. Per the [[MV_Enter the Fray|Enter The Fray (move)]], you and your allies each roll a  stat as appropriate to your actions and intent. Some examples:
+Beat to quarters! It’s time to roll some dice. Per the [[4 - Moves#ENTER THE FRAY|Enter the Fray]], you and your allies each roll a  stat as appropriate to your actions and intent. Some examples:
 - Motivate the crew with an inspiring speech: roll +heart
 - Take the wheel and bring the ship about: roll +edge
 - Lead the gun crew by setting the proper cannon elevation: roll +wits
 
-Your approach and stat choice as you [[MV_Enter the Fray|Enter The Fray (move)]] is often linked to the overall action taken by the ship and crew. If you are in command as your ship is lurking under cover of darkness or approaching an enemy under false colors, roll +shadow. If you hold fire until you come alongside your enemy, roll +iron. When playing with allies, the captain or character who is at the forefront of the situation can stand for this overall strategy.
+Your approach and stat choice as you [[4 - Moves#ENTER THE FRAY|Enter the Fray]] is often linked to the overall action taken by the ship and crew. If you are in command as your ship is lurking under cover of darkness or approaching an enemy under false colors, roll +shadow. If you hold fire until you come alongside your enemy, roll +iron. When playing with allies, the captain or character who is at the forefront of the situation can stand for this overall strategy.
 
 *41 NAVAL ENCOUNTERS*
 
 ### ENVISION AND ACT
-As the fight proceeds, envision the current situation and how you take action (if in control) or how you react to your opponent or other perils (if in a bad spot). In solo mode, your stats and moves cover your ship and your individual exploits, and you switch between those perspectives. When playing with allies, that framing may change from moment to moment as appropriate. But keep in mind that commanders of the isles are often people of action, as likely to take the wheel or hammer a plug into a leaking
-hull as they are to issue orders from the quarterdeck.
+As the fight proceeds, envision the current situation and how you take action (if in control) or how you react to your opponent or other perils (if in a bad spot). In solo mode, your stats and moves cover your ship and your individual exploits, and you switch between those perspectives. When playing with allies, that framing may change from moment to moment as appropriate. But keep in mind that commanders of the isles are often people of action, as likely to take the wheel or hammer a plug into a leaking hull as they are to issue orders from the quarterdeck.
 
-Some broad actions and related moves are listed below, but these are not the totality of your options. Use the fury and chaos of the fight to introduce complications and opportunities. Envision the situation, decide your action, and make the move. Let the outcome feed into the framing of the next action for you and your allies. Make things happen. See the Starforged rulebook (pages 182–197) for combat move details.
+Some broad actions and related moves are listed below, but these are not the totality of your options. Use the fury and chaos of the fight to introduce complications and opportunities. Envision the situation, decide your action, and make the move. Let the outcome feed into the framing of the next action for you and your allies. Make things happen. See the _Starforged_ rulebook (pages 182–197) for [[_Combat Moves|combat move details]].
 
 | Action | When in control… | When in a bad spot … |
 | --- | --- | --- |
-| Motivate or command | [[MV_Gain Ground\|Gain Ground]] to deliver an inspiring speech or put a plan into action | [[MV_React Under Fire\|React Under Fire]] to rally a faltering crew or rethink a plan under pressure |
-| Maneuver the ship | [[MV_Gain Ground\|Gain Ground]] to get the ship in firing position, close or gain distance on an enemy, or press your advantage | [[MV_React Under Fire\|React Under Fire]] to get out of the line of fire, sustain an attack, regain control in rough seas, or avoid a collision |
-| Maneuver on foot | [[MV_Gain Ground\|Gain Ground]] to reach an advantageous position, protected station, or vantage point | [[MV_React Under Fire\|React Under Fire]] to get to another area of the ship, climb the rigging under pressure, or evade a hazard such as broken rigging or flying shrapnel |
-| Set sails | [[MV_Gain Ground\|Gain Ground]] to adjust the sails to aid in speed or maneuvering | [[MV_React Under Fire\|React Under Fire]] to set the sails amid enemy salvos or to avoid stress on the sails or rigging |
-| Damage control | [[MV_Repair\|Repair]] in a controlled situation | [[MV_React Under Fire\|React Under Fire]] to forestall imminent damage, or Repair amid hazards such as flooding or enemy fire |
-| Mend wounds | [[MV_Heal\|Heal]] to tend to the wounded in a controlled situation | [[MV_Heal\|Heal]] to tend to the wounded in a chaotic environment or without preparation or equipment |
-| Ready cannons | [[MV_Gain Ground\|Gain Ground]] to ready special ammunition, hold for maximum effect, or line up a precise shot | React Under Fire to reload or reorient the guns amid enemy fire or other hazards |
-| Fire cannons | [[MV_Strike\|Strike]] to fire from a position of advantage | [[MV_Clash\|Clash]] to exchange fire from a neutral or disadvantaged position |
-| Fire small arms | [[MV_Strike\|Strike]] to snipe at key targets from a secure position | [[MV_Clash\|Clash]] to exchange fire with enemy sharpshooters or under enemy cannon fire |
-| Ram | [[MV_Strike\|Strike]] to ram using a controlled maneuver | [[MV_Clash\|Clash]] to ram in a desperate situation |
+| Motivate or command | [[4 - Moves#GAIN GROUND\|Gain Ground]] to deliver an inspiring speech or put a plan into action | [[4 - Moves#REACT UNDER FIRE\|React Under Fire]] to rally a faltering crew or rethink a plan under pressure |
+| Maneuver the ship | [[4 - Moves#GAIN GROUND\|Gain Ground]] to get the ship in firing position, close or gain distance on an enemy, or press your advantage | [[4 - Moves#REACT UNDER FIRE\|React Under Fire]] to get out of the line of fire, sustain an attack, regain control in rough seas, or avoid a collision |
+| Maneuver on foot | [[4 - Moves#GAIN GROUND\|Gain Ground]] to reach an advantageous position, protected station, or vantage point | [[4 - Moves#REACT UNDER FIRE\|React Under Fire]] to get to another area of the ship, climb the rigging under pressure, or evade a hazard such as broken rigging or flying shrapnel |
+| Set sails | [[4 - Moves#GAIN GROUND\|Gain Ground]] to adjust the sails to aid in speed or maneuvering | [[4 - Moves#REACT UNDER FIRE\|React Under Fire]] to set the sails amid enemy salvos or to avoid stress on the sails or rigging |
+| Damage control | [[4 - Moves#REPAIR\|Repair]] in a controlled situation | [[4 - Moves#REACT UNDER FIRE\|React Under Fire]] to forestall imminent damage, or Repair amid hazards such as flooding or enemy fire |
+| Mend wounds | [[4 - Moves#HEAL\|Heal]] to tend to the wounded in a controlled situation | [[4 - Moves#HEAL\|Heal]] to tend to the wounded in a chaotic environment or without preparation or equipment |
+| Ready cannons | [[4 - Moves#GAIN GROUND\|Gain Ground]] to ready special ammunition, hold for maximum effect, or line up a precise shot | React Under Fire to reload or reorient the guns amid enemy fire or other hazards |
+| Fire cannons | [[4 - Moves#STRIKE\|Strike]] to fire from a position of advantage | [[4 - Moves#CLASH\|Clash]] to exchange fire from a neutral or disadvantaged position |
+| Fire small arms | [[4 - Moves#STRIKE\|Strike]] to snipe at key targets from a secure position | [[4 - Moves#CLASH\|Clash]] to exchange fire with enemy sharpshooters or under enemy cannon fire |
+| Ram | [[4 - Moves#STRIKE\|Strike]] to ram using a controlled maneuver | [[4 - Moves#CLASH\|Clash]] to ram in a desperate situation |
 
 > ### CONTROLLING THE WEATHER GAUGE
 > In nautical terms, a fighting vessel that gains an advantageous position over another—generally upwind—is said to have the weather gauge. A ship with the weather gauge can better control the distance and orientation of the combatants, perhaps even bringing its guns to bear while denying their foes a line of fire.
 > 
-> The weather gauge can inform the fiction as you envision and resolve moves in the approach phase. Then, when maneuvering your ship in the engagement phase, you can think of your position—in control or in a bad spot—as a measure of the weather gauge. If you have the gauge, you can [[MV_Gain Ground|Gain Ground (move)]] to gain advantage or line up a shot, and [[MV_Strike|Strike (move)]] from a superior position. If you lose the gauge, you have limited maneuverability and may be exposed to enemy fire, forcing you to [[MV_React Under Fire|React Under Fire (move)]] or [[MV_Clash|Clash (move)]].
+> The weather gauge can inform the fiction as you envision and resolve moves in the approach phase. Then, when maneuvering your ship in the engagement phase, you can think of your position—in control or in a bad spot—as a measure of the weather gauge. If you have the gauge, you can [[4 - Moves#GAIN GROUND\|Gain Ground]] to gain advantage or line up a shot, and [[4 - Moves#STRIKE\|Strike]] from a superior position. If you lose the gauge, you have limited maneuverability and may be exposed to enemy fire, forcing you to [[4 - Moves#REACT UNDER FIRE\|React Under Fire]] or [[4 - Moves#CLASH\|Clash]].
 > 
 > This dance of wind and sail is only one aspect of the fight, but can help provide context and add a sense of seafaring authenticity to your actions.
 
@@ -854,21 +849,20 @@ Filling a tension clock can also trigger a dramatic change in the scene, forcing
 > You are escorting a defenseless tradeship through a narrow strait known as the Devil’s Spine. The channel is protected by an enemy fort that has you in range of its cannons. You name your objective—_Escape the Spine_—and set a tension clock to represent the tradeship’s seaworthiness. Unfortunately, the tension clock is soon filled. The tradeship is crippled and sinking. You keep your original objective, but add a new one that must be completed first: _Evacuate the Tradeship’s Crew_. You also set a new tension clock to track the final fate of the tradeship. Can you rescue the sailors before their ship sinks, all while facing constant bombardment from the fort?
 
 ### RESOLVE THE ENGAGEMENT
-This phase ends when all engagement objectives are resolved as you [[MV_Face Defeat|Face Defeat (move)]] or [[MV_Take Decisive Action|Take Decisive Action (move)]]. If the battle is done, decide your next steps. If either side sought to board the other and is successful, the fight continues in the next phase.
+This phase ends when all engagement objectives are resolved as you [[4 - Moves#FACE DEFEAT|Face Defeat]] or [[4 - Moves#TAKE DECISIVE ACTION|Take Decisive Action]]. If the battle is done, decide your next steps. If either side sought to board the other and is successful, the fight continues in the next phase.
 
 > [!cite] 
-> You set a tension clock for the pirates who seek to seize your ship. The clock is filled during the fight, signaling that you are grappled. You must [[MV_Face Defeat|Face Defeat (move)]] in your objective to _Escape the Pirates_ and muster your crew to repel boarders. 
+> You set a tension clock for the pirates who seek to seize your ship. The clock is filled during the fight, signaling that you are grappled. You must [[4 - Moves#FACE DEFEAT|Face Defeat]] in your objective to _Escape the Pirates_ and muster your crew to repel boarders. 
 
 *43 NAVAL ENCOUNTERS*
 
 > [!danger] ## BOARDING PHASE
-> Prepare for boarding! In the ==boarding phase==, you and your crew raid an enemy vessel or fort, or resist those who seek to claim victory on the decks of your own ship. Armed with blade, musket, and resolute spirit, you fight to seize your objectives.
+> Prepare for boarding! In the ==boarding phase==, you and your crew raid an enemy vessel or fort, or resist those who seek to claim victory on the decks of your own ship. Armed with blade, musket, and resolute spirit, you fight to seize your objectives. ^boarding-phase
 
 ### SET THE SCENE
-Envision how the boarding action begins. In a ship-to-ship fight, boarding is accomplished by coming alongside the other ship, securing it with grappling hooks, and climbing over the gunwales or—for a more dramatic entrance—swinging across to land on the opponent’s deck. A boarding party can also use small boats to reach a disabled or unaware ship, tossing grappling hooks to climb up and begin the assault. In a fantastical campaign, boarding might begin with supernatural manifestations,
-aerial assaults, or raids by seaborne creatures.
+Envision how the boarding action begins. In a ship-to-ship fight, boarding is accomplished by coming alongside the other ship, securing it with grappling hooks, and climbing over the gunwales or—for a more dramatic entrance—swinging across to land on the opponent’s deck. A boarding party can also use small boats to reach a disabled or unaware ship, tossing grappling hooks to climb up and begin the assault. In a fantastical campaign, boarding might begin with supernatural manifestations, aerial assaults, or raids by seaborne creatures.
 
-If your ship is boarded by the enemy, do you commit to the battle? If you surrender, envision how they respond. If they won’t accept your surrender without convincing or conceding, make the [[MV_Compel|Compel (move)]] to see what happens. But if you intend to stand against them, you must again [[MV_Enter the Fray|Enter The Fray (move)]]. You made this move once already at the start of the engagement phase, but it’s time to clear the deck and set the context of the new scale and perspective.
+If your ship is boarded by the enemy, do you commit to the battle? If you surrender, envision how they respond. If they won’t accept your surrender without convincing or conceding, make the [[4 - Moves#COMPEL|Compel]] to see what happens. But if you intend to stand against them, you must again [[4 - Moves#ENTER THE FRAY|Enter the Fray]]. You made this move once already at the start of the engagement phase, but it’s time to clear the deck and set the context of the new scale and perspective.
 
 ### NAME YOUR BOARDING OBJECTIVES
 If you achieved your objectives in the engagement phase, your boarding objective is your main goal for the fight—the task that set you against the enemy in the first place. 
@@ -882,22 +876,20 @@ As with the engagement phase, you can set multiple objectives for complex and pe
 
 ### SET THE BOARDING OBJECTIVE RANKS
 Use formidable as your baseline challenge rank for your boarding objective, and adjust up or down to reflect circumstances.
-If you inflicted heavy damage against the enemy in the engagement phase while sustaining few costs yourself, knock the rank down a peg. But if you suffered defeats and begin this phase at a disadvantage, increase the challenge. If unsure, choose two possible ranks, set the higher as likely, and [[MV_Ask the Oracle|Ask the Oracle (move)]].
+If you inflicted heavy damage against the enemy in the engagement phase while sustaining few costs yourself, knock the rank down a peg. But if you suffered defeats and begin this phase at a disadvantage, increase the challenge. If unsure, choose two possible ranks, set the higher as likely, and [[4 - Moves#ASK THE ORACLE|Ask the Oracle]].
 
 *44 ADVENTURES AMONG THE ISLES*
 
 ### LEAP INTO ACTION
-To set your position at the start of the scene, you and your allies roll to [[MV_Enter the Fray|Enter The Fray (move)]]. Decide your approach, make the roll, and put the fight in motion.
+To set your position at the start of the scene, you and your allies roll to [[4 - Moves#ENTER THE FRAY|Enter the Fray]]. Decide your approach, make the roll, and put the fight in motion.
 
 ### JOIN THE FIGHT
-Envision your actions and reactions, make moves when they are triggered, and use the outcomes of those moves to drive the opportunities, complications, and hardships you encounter. Envision yourself amid the chaos of the fight: volleys of musket fire,
-pitching decks, battle cries, desperate clashes of sword, axe, and cudgel—perhaps even fires, flooding, and falling rigging as one ship or another tears itself apart.
+Envision your actions and reactions, make moves when they are triggered, and use the outcomes of those moves to drive the opportunities, complications, and hardships you encounter. Envision yourself amid the chaos of the fight: volleys of musket fire, pitching decks, battle cries, desperate clashes of sword, axe, and cudgel—perhaps even fires, flooding, and falling rigging as one ship or another tears itself apart.
 
 > [!tip]  Group Play
 > If you are playing with allies, you can work to achieve varying objectives or defend or attack different areas of either ship. Keep the spotlight moving between characters to give each their due. In solo mode, focus on your objectives and treat the larger battle as frenetic background detail. Tension clocks are a handy tool to manage aspects of a boarding action beyond your command or control, such as when your crew tries to hold back attackers while you are otherwise occupied.
 
-Pile on the drama and intensity, zooming in to give focus to key moments. One technique for highlighting an important event or encounter is to create a new objective. For example, when you come up against an officer of the enemy ship and square
-off against them, set a new objective to win the duel. Much as side quests can add interesting twists and turns to your character’s larger story, a new objective in a fight builds danger and excitement.
+Pile on the drama and intensity, zooming in to give focus to key moments. One technique for highlighting an important event or encounter is to create a new objective. For example, when you come up against an officer of the enemy ship and square off against them, set a new objective to win the duel. Much as side quests can add interesting twists and turns to your character’s larger story, a new objective in a fight builds danger and excitement.
 
 ### END THE FIGHT
 When your last remaining objective is won or lost, the fight is done. What comes next? Were you victorious, advancing your goals and building your reputation? Was this a pyrrhic victory, forcing you to count the costs? Or were you soundly defeated—perhaps even facing the ultimate setback as your ship is sunk, wrecked, or seized? Let the fights’ aftermath expand like ripples to deepen your character’s story.
@@ -916,23 +908,23 @@ Interludes help vary the pace of your sessions. They give your story and charact
 ## INTRODUCING AN INTERLUDE
 Interludes are flexible, player-driven devices. When there is a break from immediate pressure or danger in your story, and you are interested in focusing on your character or their relationships within a relatively risk-free framing, make it happen.
 
-When you [[MV_Undertake an Expedition|Undertake an Expedition (move)]], the occasional interlude can help with envisioning how your character spends their time while traveling or during a lull at a waypoint. An interlude is directly prompted as a result on the [_Seafaring Waypoints_ (page 120)] and _Overland Waypoints_ [(page 148)] tables, but you’re free to simply introduce an interlude instead of rolling for a sighting or event on those tables.
+When you [[4 - Moves#UNDERTAKE AN EXPEDITION|Undertake an Expedition]], the occasional interlude can help with envisioning how your character spends their time while traveling or during a lull at a waypoint. An interlude is directly prompted as a result on the _[[3 - Oracles#^Seafaring-Oracles|Seafaring Waypoints]]_ (page 120) and _[[3 - Oracles#OVERLAND WAYPOINTS|Overland Waypoints]]_ [(page 148) tables, but you’re free to simply introduce an interlude instead of rolling for a sighting or event on those tables.
 
 ### ENVISIONING THE INTERLUDE
-Playing out an interlude can involve a quick, handwaved summary, or an extended bit of roleplay. The details of the activity or event are up to you. Is there an interesting member of the crew you’d like to learn more about? Does your character have a hobby or interest? Is this an opportunity to revisit a lingering rivalry or dispute? If you want inspiration for the focus and nature of a scene, use the [_Interlude Scene_ table (page 228)]. Pick or roll on this table as you like.
+Playing out an interlude can involve a quick, handwaved summary, or an extended bit of roleplay. The details of the activity or event are up to you. Is there an interesting member of the crew you’d like to learn more about? Does your character have a hobby or interest? Is this an opportunity to revisit a lingering rivalry or dispute? If you want inspiration for the focus and nature of a scene, use the _[[3 - Oracles#INTERLUDE SCENE|Interlude Scene]]_ table (page 228). Pick or roll on this table as you like.
 
 > ### STARTING YOUR SESSION WITH AN INTERLUDE
-The [[MV_Begin a Session|Begin a Session (move)]] offers an option to explore a vignette—such as a flashback scene—that can serve as a character interlude. But the suggested prompts in that move often involve aspects of your campaign that are outside your character’s perspective. More importantly, [[MV_Begin a Session|Begin a Session (move)]] is not triggered in the midst of a session, making it less useful as a narrative pressure valve during play. Use [[MV_Begin a Session|Begin a Session (move)]] to put wind in the sails of your story as you sit down to play, and character interludes to add texture to your character and their world.
+The [[4 - Moves#BEGIN A SESSION|Begin a Session]] offers an option to explore a vignette—such as a flashback scene—that can serve as a character interlude. But the suggested prompts in that move often involve aspects of your campaign that are outside your character’s perspective. More importantly, [[4 - Moves#BEGIN A SESSION|Begin a Session]] is not triggered in the midst of a session, making it less useful as a narrative pressure valve during play. Use [[4 - Moves#BEGIN A SESSION|Begin a Session]] to put wind in the sails of your story as you sit down to play, and character interludes to add texture to your character and their world.
 
 *46 ADVENTURES AMONG THE ISLES*
 
 ## MAKING MOVES DURING INTERLUDES
-Interludes are low-risk, low-stakes. You might trigger a move in the midst of an interlude scene—such as [[MV_Hearten|Hearten (move)]] to boost your spirits in a moment of peace, [[MV_Compel|Compel (move)]] to defuse an argument among crewmembers, or [[MV_Secure an Advantage|Secure an Advantage (move)]] to train or prepare—but the outcomes of those moves should reflect the low-key nature of the situation. If you have questions about an interaction or event, simply decide what happens or [[MV_Ask the Oracle|Ask the Oracle (move)]]. If a situation is not dramatic or uncertain, don’t otherwise make a move.
+Interludes are low-risk, low-stakes. You might trigger a move in the midst of an interlude scene—such as [[4 - Moves#HEARTEN|Hearten]] to boost your spirits in a moment of peace, [[4 - Moves#COMPEL|Compel]] to defuse an argument among crewmembers, or [[4 - Moves#SECURE AN ADVANTAGE|Secure an Advantage]] to train or prepare—but the outcomes of those moves should reflect the low-key nature of the situation. If you have questions about an interaction or event, simply decide what happens or [[4 - Moves#ASK THE ORACLE|Ask the Oracle]]. If a situation is not dramatic or uncertain, don’t otherwise make a move.
 
 Except in rare circumstances, perhaps a miss with a match, the outcome of a move during an interlude should not upend your quests, introduce dramatic new complications, or inflict harsh mechanical costs. Keep it low-key.
 
-> [!cite]
-> You envision an interlude as a sparring match between your character and another crewmember—a talented fencer. You can simply decide how you fare in the match, or you might focus not on the duel itself but on the flirtatious banter (an all-too-common byproduct of swordfights). But you’d like to add some minor risk and reward to the contest, so you frame it as an opportunity to improve your skills and Secure an Advantage to see what happens. On a hit, you take the momentum boost. On a miss, you suffer momentary embarrassment—and dedicate yourself to doing better the next time you cross swords.
+> 
+> You envision an interlude as a sparring match between your character and another crewmember—a talented fencer. You can simply decide how you fare in the match, or you might focus not on the duel itself but on the flirtatious banter (an all-too-common byproduct of swordfights). But you’d like to add some minor risk and reward to the contest, so you frame it as an opportunity to improve your skills and [[4 - Moves#SECURE AN ADVANTAGE|Secure an Advantage]] to see what happens. On a hit, you take the momentum boost. On a miss, you suffer momentary embarrassment—and dedicate yourself to doing better the next time you cross swords.
 
 > [!tip] ## INTERLUDES WITH ALLIES
 > Anyone at the table can suggest an interlude. When playing with allies, you can explore the relationships among your troupe of characters, or give focus to a specific character in key moments. Be mindful of rotating the spotlight. When initiating or playing out an interlude, check-in to ensure everyone is interested and invested in a scene. Adjust the pace—drawing out the scene or moving to wrap things up—as appropriate. Take a Break if needed, and use the transition to discuss what happens next.
@@ -940,24 +932,20 @@ Except in rare circumstances, perhaps a miss with a match, the outcome of a move
 *47 INTERLUDES*
 
 # FACTIONS OF THE ISLES
-You are not alone among the isles. Factions of all sorts go about their business in the background of your world. But the factions with the most focus are those that intersect with your character’s story. Which patrons task you with missions? Who do you count
-among your allies? Who are you sworn to resist? Use factions to reinforce the imagined reality of your setting, while focusing on those that generate opportunities and conflict in your story.
+You are not alone among the isles. Factions of all sorts go about their business in the background of your world. But the factions with the most focus are those that intersect with your character’s story. Which patrons task you with missions? Who do you count among your allies? Who are you sworn to resist? Use factions to reinforce the imagined reality of your setting, while focusing on those that generate opportunities and conflict in your story.
 
 ## REVEALING FACTIONS
 As part of the campaign launch exercises in the next section, you introduce a handful of factions and define how they relate to each other and your character. Then, through the course of your story, new factions may emerge.
 
-When adding a faction or exploring the details of an existing faction, trust your narrative instincts. Look to the foundations of your imagined setting and inspiration from other media. Does it support the tones and themes you want to explore in your story? Does
-it add drama and conflict to your world? Does it connect to your character and other factions in interesting ways? If so, bring it to life.
+When adding a faction or exploring the details of an existing faction, trust your narrative instincts. Look to the foundations of your imagined setting and inspiration from other media. Does it support the tones and themes you want to explore in your story? Does it add drama and conflict to your world? Does it connect to your character and other factions in interesting ways? If so, bring it to life.
 
-If unsure about a specific detail of a faction, [[MV_Ask the Oracle|Ask the Oracle (move)]]. But keep it simple. Leave aspects and mysteries to uncover, operating mainly from the limited perspective and knowledge of your character. If you want inspiration for factions, this book includes some helpful tools:
+If unsure about a specific detail of a faction, [[4 - Moves#ASK THE ORACLE|Ask the Oracle]]. But keep it simple. Leave aspects and mysteries to uncover, operating mainly from the limited perspective and knowledge of your character. If you want inspiration for factions, this book includes some helpful tools:
 
-- **Faction Oracles:** Generate the details of a faction using the [oracle tables starting on page 176].
-- **Sample Factions:** These faction summaries are organized in four categories: [==societies== (page 52)], [==organizations== (page 53)], [==empires== (page 54)], and [==the cursed== (page 55)]. Your campaign won’t include every faction from these lists—they are inspiration to pick, combine, or customize for your world. If you want to put things in the hands of fate when introducing a new faction, select a category and roll your oracle dice.
+- **Faction Oracles:** Generate the details of a faction using the [[3 - Oracles#FACTION ORACLES|oracle tables]] starting on page 176.
+- **Sample Factions:** These faction summaries are organized in four categories: ==[[3 - Oracles#SOCIETY|societies]]== (page 52), ==[[3 - Oracles#oRGANIZATION|organizations]]== (page 53), [==[[3 - Oracles#EMPIRE|empires]]== (page 54), and ==[[3 - Oracles#^The-Cursed|the cursed]]== (page 55). Your campaign won’t include every faction from these lists—they are inspiration to pick, combine, or customize for your world. If you want to put things in the hands of fate when introducing a new faction, select a category and roll your oracle dice.
 
 ### CREATING FACTION NOTES
-When introducing a faction, give it a name and a few details. Keep it simple, focusing on commonly understood aspects from your
-character’s perspective. Also mark down any key personalities and connections within that faction. As new details arise in the course
-of your story, add them to your existing notes.
+When introducing a faction, give it a name and a few details. Keep it simple, focusing on commonly understood aspects from your character’s perspective. Also mark down any key personalities and connections within that faction. As new details arise in the course of your story, add them to your existing notes.
 
 > [!example] Akiya | SOCIETY
 > - Alliance of island clans
@@ -981,14 +969,14 @@ Not every interaction with a faction involves a recognized person, but you shoul
 > ### DIVERSITY WITHIN FACTIONS
 > The people of the isles—even among a shared identity or culture—are diverse. Not every person within a faction wants the same thing or adopts the same cultural influences. Among imperial powers, there are insurgents. Among religious people, there are doubters. Among warring cultures, there are those who crave peace. Use factions to reveal the broad strokes of influential people and powers, while leaving nuances to be uncovered.
 
-*FACTIONS OF THE ISLES 49*
+*49 FACTIONS OF THE ISLES*
 
 ## FACTION PROJECTS
 As you undertake your sworn vows, the factions of the isles seek to advance their own agendas. To depict and resolve the objectives and actions of factions in the background of your campaign, use campaign clocks. You can create campaign clocks for faction goals, and set competing factions against each other with opposing clocks.
 
 Your character’s aid or opposition can influence whether a project stalls or succeeds. But some clocks run independently of your own exploits, a ticking inevitably that can alter the future of the isles—it’s only a matter of when. 
 
-[See page 235 in the _Starforged_ rulebook] for details on running campaign clocks. A campaign clock worksheet is included in the _Starforged Playkit._
+[[GID_Clocks_Campaign|See page 235]] in the _Starforged_ rulebook] for details on running campaign clocks. A campaign clock worksheet is included in the _Starforged Playkit._
 
 ## FACTION INFLUENCE GRID
 The navigation chart worksheet, available in the _Sundered Isles Playkit_, includes a ==faction influence grid==. This tool can help manage the presence and control of factions in a local area.
@@ -1011,7 +999,7 @@ Leave a few fields blank. You may discover new factions or adjust a faction’s 
 | Acheron’s Armada |  |  |
 
 ### USING THE GRID
-Each field has a range corresponding to a result on an oracle roll. When you encounter a ship or settlement, you can roll on the grid to randomly reveal its controlling faction. You can also use the matrix when you [[MV_Ask the Oracle|Ask the Oracle (move)]] about a situation, such as “Which faction carried out the attack on the settlement?” If a roll lands on a blank field, choose the closest-ranked faction, or use this as a prompt to introduce an independent group or new faction to your world.
+Each field has a range corresponding to a result on an oracle roll. When you encounter a ship or settlement, you can roll on the grid to randomly reveal its controlling faction. You can also use the matrix when you [[4 - Moves#ASK THE ORACLE|Ask the Oracle]] about a situation, such as “Which faction carried out the attack on the settlement?” If a roll lands on a blank field, choose the closest-ranked faction, or use this as a prompt to introduce an independent group or new faction to your world.
 
 In addition, you can use the influence grid to track the ebb and flow of a faction’s power in an area. When a faction faces a major setback, reduce its rank. If it gains influence, raise the rank. You can even create a “global influence grid” to measure the power of key factions across the entirety of the isles.
 
@@ -1033,20 +1021,16 @@ Start simple, and leave plenty of space. You can return to the diagram to add de
 > [Hand of Theya (Evil Empire)] < Attacks and loots imperial ships & ports [Forsaken Fleet (Pirates led by the Raven Queen)]
 > [Forsaken Fleet (Pirates led by the Raven Queen)] < Secretly helping the pirates [Akiya]
 
-
-
-
-
-> Periodically update your faction notes, campaign clocks, influence grids, and relationship maps to keep track of evolving faction dynamics and revealed truths. If you enjoy managing these details, this is a good exercise to undertake as you [[MV_Begin a Session|Begin a Session (move)]]
+> Periodically update your faction notes, campaign clocks, influence grids, and relationship maps to keep track of evolving faction dynamics and revealed truths. If you enjoy managing these details, this is a good exercise to undertake as you [[4 - Moves#BEGIN A SESSION|Begin a Session]]
 > 
 > Over time, some factions rise to the fore, others fade into the background, and new factions come onto the scene. This is part of creating an emerging narrative and focusing on what’s important and interesting.
 > 
 > However, these are tools to use or ignore as you like. If you aren’t interested in faction details or campaign-level machinations, feel free to keep factions in the background of your story.
 
-*FACTIONS OF THE ISLES 51*
+*51 FACTIONS OF THE ISLES*
 
 > ### SOCIETIES
-> People who share traditions and a way of life
+> People who share traditions and a way of life ^Faction-Societies
 
 | 1d100 | Name | Description |
 | :---: | --- | --- |
@@ -1064,7 +1048,7 @@ Start simple, and leave plenty of space. You can return to the diagram to add de
 *52 ADVENTURES AMONG THE ISLES*
 
 > ### ORGANIZATIONS
-> People joined in a collective trade, pursuit, or goal
+> People joined in a collective trade, pursuit, or goal ^Faction-Organizations
 
 | 1d100 | Name | Description |
 | :---: | --- | --- |
@@ -1079,10 +1063,10 @@ Start simple, and leave plenty of space. You can return to the diagram to add de
 | 81–90 | Tide Runners | Smugglers who ferry their ill-gotten goods from island to island. They rely on speed, stealth, and the cover of foul weather or moonless nights. |
 | 91–100 | Wayfarers | Peddlers who range across the isles and beyond. They transport rare and unusual cargo aboard their vibrantly painted ships. |
 
-*FACTIONS OF THE ISLES 53*
+*53 FACTIONS OF THE ISLES*
 
 > ### EMPIRES
-> People seeking dominion over the isle
+> People seeking dominion over the isle ^Faction-Empires
 
 | 1d100 | Name | Description |
 | :---: | --- | --- |
@@ -1098,7 +1082,7 @@ Start simple, and leave plenty of space. You can return to the diagram to add de
 | 91–100 | Sovereign States | Industrialist power formed from the remnants of warring nations. They are governed by an oligarchical council whose members scheme and backstab to advance their own interests. |
 
 > ### THE CURSED
-> People transformed or bound by dreadful curses
+> People transformed or bound by dreadful curses ^Factions-The-Cursed
 
 | 1d100 | Name | Description |
 | :---: | --- | --- |
@@ -1113,7 +1097,7 @@ Start simple, and leave plenty of space. You can return to the diagram to add de
 | 81–90 | Nightships | Dread ships of the vampire clans, shrouded in an eternal gloom. Their undead crews leave wrecks and blood-drained corpses in their wake.
 | 91–100 | tidebound | Devout cultists who were granted eternal life in exchange for unending service to their patron sea god. They must not tarry on land or at anchor, lest death catches up with them to take its toll. |
 
-*FACTIONS OF THE ISLES 55*
+*55 FACTIONS OF THE ISLES*
 
 # BEASTS OF THE ISLES
 Here there be monsters. Within the isles, ==beasts== are creatures of a fantastic or dreadful nature. Great sharks. Dragons. Sea serpents. The Kraken. 
@@ -1121,14 +1105,14 @@ Here there be monsters. Within the isles, ==beasts== are creatures of a fantasti
 You decide the nature of beasts in your world when you choose the truths of the setting. In a more fantastic and dangerous version of the isles, beasts roam freely. In a grounded campaign, beasts might be real-world creatures (such as whales, giant squids, large sharks, and crocodiles), the imaginings and exaggerations of superstitious mariners, or age-old myths.
 
 ## INTRODUCING BEASTS TO YOUR WORLD
-The following pages include brief summaries of notable beasts in several environs: [sea (pages 58–59)], [land (pages 60–61)], [shore and river (page 62)], and [sky (page 63)]. Use these beasts as inspiration for myths, dangers, denizens, or the focus of a quest. Feel free to pick from these lists, combine or customize, or roll for a random beast.
+The following pages include brief summaries of notable beasts in several environs: [[#^beasts-of-the-sea|sea]] (pages 58–59), [[#^beasts-of-the-land|land]] (pages 60–61), [[#^beasts-of-the-shore-and-river|shore and river]] (page 62), and [[#^beasts-of-the-sky|sky]](page 63). Use these beasts as inspiration for myths, dangers, denizens, or the focus of a quest. Feel free to pick from these lists, combine or customize, or roll for a random beast.
 
-To unleash a truly aberrant creature upon your world, generate its form using the _Starforged_ [Creature oracles (page 336 of the Starforged rulebook)].
+To unleash a truly aberrant creature upon your world, generate its form using the _Starforged_ [[_OCL_Creatures|Creature oracles]] (page 336 of the Starforged rulebook).
 
 *56 ADVENTURES AMONG THE ISLES*
 
 ## THE MUNDANE AND THE MIRACULOUS
-As you travel the world, imagine a vibrant ecosystem with flora and fauna of all sorts. Oracle prompts such as [_Seafaring Details_ (page 122)] and [_Overland Details_ (page 156)] include encounters with mundane creatures, and other events such as [interludes (page 46)] may inspire you to reveal new aspects of the natural world.
+As you travel the world, imagine a vibrant ecosystem with flora and fauna of all sorts. Oracle prompts such as _[[3 - Oracles#SEAFARING DETAILS|Seafaring Details]]_ (page 122) and _[[3 - Oracles#Overland Details]]_ (page 156) include encounters with mundane creatures, and other events such as [[#INTERLUDES|interludes]] (page 46) may inspire you to reveal new aspects of the natural world.
 
 Use these commonplace but memorable encounters to build  Contrasts with the truly unusual, wondrous, or horrific.
 
@@ -1137,11 +1121,11 @@ The astounding scale and power of beasts can make encounters a daunting challeng
 
 Your first and best option? Flee. But consider the flexibility of combat objectives. A single encounter can incorporate multiple lower-ranked objectives for the phases of a fight. For example, defeating a leviathan might involve separate objectives to lure the beast, slow or weaken it with tethered harpoons, and strike a deadly blow.
 
-Or [[MV_Swear an Iron Vow|Swear an Iron Vow (move)]] and use that quest to track your ongoing struggle against a beast across days, weeks, or months. Each desperate fight is given an objective to achieve a small victory and [[MV_Reach a Milestone|Reach a Milestone (move)]], perhaps forcing the creature to slink away until your next meeting. These encounters build to a final dramatic confrontation where you—if the Fates allow—[[MV_Fullfill Your Vow|Fullfill Your Vow (move)]].
+Or [[4 - Moves#SWEAR AN IRON VOW|Swear an Iron Vow]] and use that quest to track your ongoing struggle against a beast across days, weeks, or months. Each desperate fight is given an objective to achieve a small victory and [[4 - Moves#REACH A MILESTONE|Reach a Milestone]], perhaps forcing the creature to slink away until your next meeting. These encounters build to a final dramatic confrontation where you—if the Fates allow—[[4 - Moves#FULFILL YOUR VOW|Fullfill Your Vow]].
 
-*BEASTS OF THE ISLES 57*
+*57 BEASTS OF THE ISLES*
 
-> ## BEASTS OF THE SEA
+> ## BEASTS OF THE SEA ^beasts-of-the-sea
 
 | 1D100 | Name | Rank | Description |
 | :---: | --- | --- | --- |
@@ -1160,12 +1144,12 @@ Or [[MV_Swear an Iron Vow|Swear an Iron Vow (move)]] and use that quest to track
 | 81–85 | Starlume | Dangerous | Hundreds of pinpoint lights shimmer within the translucent form of these gigantic jellyfish. According to legend, the lights of a starlume reveal complex celestial maps. Those who look deeply into those alluring lights may find themselves gifted—or cursed—with visions of lost seas and hidden places. |
 | 86–90 | Vortex Forge | Epic | From a distance, this titanic entity might be mistaken for a great whale, but it is a crewless metal construct that wanders the seas on an inscrutable mission. Its rotating maw generates powerful whirlpools to draw in prey, sending ship and sailor alike into an ever-burning furnace deep within its mechanical gullet. |
 | 91–95 | Herald | Epic | These colossal tortoise-like beings are the longest-lived creatures of the isles—perhaps as ancient as the world itself. Islanders interpret wondrous and grim portents from the sighting of a herald, but these creatures often go unseen; their craggy shell is easily mistaken for a small, rocky island. |
-| 96–100 | Abomination | Various Ranks | Generate this beast using the _Starforged_ [creature oracles (page 336 of the _Starforged_ rulebook)], giving it a water form. |
+| 96–100 | Abomination | Various Ranks | Generate this beast using the _Starforged_ [[_OCL_Creatures\|creature oracles]]  (page 336 of the _Starforged_ rulebook), giving it a water form. |
 
 *58 ADVENTURES AMONG THE ISLES*
-*BEASTS OF THE ISLES 59*
+*59 BEASTS OF THE ISLES*
 
-> ## BEASTS OF THE LAND
+> ## BEASTS OF THE LAND ^beasts-of-the-land
 
 | 1D100 | Name | Rank | Description |
 | :---: | --- | --- | --- |
@@ -1183,12 +1167,12 @@ Or [[MV_Swear an Iron Vow|Swear an Iron Vow (move)]] and use that quest to track
 | 81–85 | Ghost Rat | Dangerous | These pale rats of unusual size are accustomed to life within lightless caves. Ghost rats are blind, and use their keen sense of smell to navigate the depths. They pursue potential meals with hound-like persistence. |
 | 86–90 | Gangle | Formidable | This large, cave-dwelling insect contorts its long limbs with uncanny flexibility—the joints cracking like breaking bones—to navigate the smallest crevices. These limbs, equipped with delicate sensory organs, enable the creature to perceive the subtlest vibrations and detect prey or threats from afar. After unfolding itself from its hiding place, the gangle attacks with a spray of burning saliva. |
 | 91–95 | Deep Dragon | Epic | These ancient dragons lair in volcanic chambers, hibernating for centuries amid superheated steam and gases. They are flightless, with only vestigial wings, but their titanic scale and molten breath mark them as the greatest of dragon-kind. The rare emergence of a deep dragon from its burrow is a catastrophic reckoning for the surface world. |
-| 96–100 | Abomination | Various Ranks | Generate this beast using the _Starforged [creature oracles (page 336 of the _Starforged_ rulebook)], giving it a land form. |
+| 96–100 | Abomination | Various Ranks | Generate this beast using the _Starforged [[_OCL_Creatures\|creature oracles]] (page 336 of the _Starforged_ rulebook), giving it a land form. |
 
 *60 ADVENTURES AMONG THE ISLES*
-*BEASTS OF THE ISLES 61*
+*61 BEASTS OF THE ISLES*
 
-> ## BEASTS OF THE SHORE AND RIVER
+> ## BEASTS OF THE SHORE AND RIVER ^beasts-of-the-shore-and-river
 
 | 1D100 | Name | Rank | Description |
 | :---: | --- | --- | --- |
@@ -1199,11 +1183,11 @@ Or [[MV_Swear an Iron Vow|Swear an Iron Vow (move)]] and use that quest to track
 | 66–75 | Sand Dragon | Formidable | Sand dragons are the smallest of dragon-kind, but are still a fearsome foe. Burrowing beneath shoreline dunes, it stirs at the telltale vibrations of footfalls upon its lair. It attacks with dagger-like claws, teeth as long and wicked as cutlasses, and breath of scalding steam. |
 | 76–85 | Keelback Crab | Extreme | The keelback crab uses a scavenged ship as a protective shell for its soft exoskeleton. Reports of ghost ships can often be attributed to keelbacks, scuttling along coastal waters with wrecks on their backs. As it grows, a keelback must commandeer vessels of increasing size. |
 | 86–95 | Jade Crab | Extreme | The jade crab is the largest and most aggressive of the crustaceans, able to snap a longboat or even a small ship in two with its vice-like pincers. At rest, their shell is slate gray, easily mistaken for rocks or reefs. On the hunt, they shimmer with an iridescent blue-green. Fiercely territorial, these creatures often claim a waterway, cove, or sea cave as their lair. |
-| 96–100 | Abomination | Various Ranks | Generate this beast using the _Starforged_ [creature oracles (page 336 of the _Starforged_ rulebook)], giving it a land or water form. |
+| 96–100 | Abomination | Various Ranks | Generate this beast using the _Starforged_ [[_OCL_Creatures\|creature oracles]] (page 336 of the _Starforged_ rulebook), giving it a land or water form. |
 
 *62 ADVENTURES AMONG THE ISLES*
 
-> ## BEASTS OF THE SKY
+> ## BEASTS OF THE SKY ^beasts-of-the-sky
 
 | 1D100 | Name | Rank | Description |
 | :---: | --- | --- | --- |
@@ -1214,7 +1198,8 @@ Or [[MV_Swear an Iron Vow|Swear an Iron Vow (move)]] and use that quest to track
 | 66–75 | Monarch Bat | Formidable | These oversized bats, large enough to carry off an unlucky islander, dwell in caves and amid jungle canopies. As the sun sets, they leave their roosts to hunt. They are particularly dangerous on moonless nights when their swift, silent approach goes unnoticed. |
 | 76–85 | Bloodmite | Dangerous | Bloodmites are hound-sized, flying insects. They primarily cling to the hide of titanic beasts, feeding through a blade-tipped proboscis, but are not averse to preying upon smaller targets. |
 | 86–95 | Thanatoi | Dangerous | These moth-like creatures are unsettlingly large but harmless. They are often seen on nights when Wraith is full—they shimmer with a strange, ethereal glow, as if reflecting the light of the moon. Many islanders believe they escort souls into the world beyond. Look too long into their alluring glow, they say, and you suffer a glimpse of your own death. |
-| 96–100 | Abomination | Various Ranks | Generate this beast using the _Starforged_ [creature oracles (page 336 of the _Starforged_ rulebook)], giving it an air form. |
+| 96–100 | Abomination | Various Ranks | Generate this beast using the _Starforged_ [[_OCL_Creatures\|creature oracles]] (page 336 of the _Starforged_ rulebook), giving it an air form. |
 
-*BEASTS OF THE ISLES 63*
+*63 BEASTS OF THE ISLES*
 
+[[2 - Getting Underway|Next Chapter - Getting Underway]]

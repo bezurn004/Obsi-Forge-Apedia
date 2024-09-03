@@ -403,6 +403,6 @@ Sections of a large city or city-state can contain their own pursuits and indust
 
 | Previous Page | Tags | Next Page |
 | :--- | :---: | ---: |
-| **[[SI_CH3_Settle-Composition\|Settlement Composition (SI Oracles)]]** | #SunderedIsles/Oracles/Settlements | **[[SI_CH3_Settle-Name\|Settlement Name (SI Oracles)]]** |
+| **[[SI_CH3_Settle-Identity\|Settlement Identity (SI Oracles)]]** | #SunderedIsles/Oracles/Settlements | **[[SI_CH3_Settle-Name\|Settlement Name (SI Oracles)]]** |
 
 <font size=-2>Copyright ©2024 Shawn Tomkin. The text of this work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license. For license details, visit ironswornrpg.com. Updated June 2024 MUH051V200-PDF</font>

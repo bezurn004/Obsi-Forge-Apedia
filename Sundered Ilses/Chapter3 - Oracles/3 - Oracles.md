@@ -7,19 +7,19 @@
 | REVEALING THE ISLES | [[#REVEALING THE ISLES\|Page 112]] |
 | THE CURSED DIE | [[#THE CURSED DIE\|Page 114]] |
 | CORE ORACLES | [[#CORE ORACLES\|Page 116]] |
-| SEAFARING ORACLES | Page 120 |
-| WEATHER ORACLES | Page 130 |
-| SHIP ORACLES | Page 132 |
-| ISLAND ORACLES | Page 142 |
-| OVERLAND ORACLES | Page 148 |
-| SETTLEMENT ORACLES | Page 164 |
-| FACTION ORACLES | Page 176 |
-| CHARACTER ORACLES | Page 186 |
-| SHIPWRECK ORACLES | Page 198 |
-| CAVE ORACLES | Page 204 |
-| RUIN ORACLES | Page 212 |
-| TREASURE ORACLES | Page 220 |
-| MISCELLANEOUS ORACLES | Page 226 |
+| SEAFARING ORACLES | [[#SEAFARING ORACLES\|Page 120]] |
+| WEATHER ORACLES | [[#WEATHER ORACLES\|Page 130]] |
+| SHIP ORACLES | [[#^Ship-Oracles\|Page 132]] |
+| ISLAND ORACLES | [[#ISLAND ORACLES\|Page 142]] |
+| OVERLAND ORACLES | [[#OVERLAND ORACLES\|Page 148]] |
+| SETTLEMENT ORACLES | [[#^Settlement-Oracles\|Page 164]] |
+| FACTION ORACLES | [[#FACTION ORACLES\|Page 176]] |
+| CHARACTER ORACLES | [[#CHARACTER ORACLES\|Page 186]] |
+| SHIPWRECK ORACLES | [[#^Shipwreck-Oracles\|Page 198]] |
+| CAVE ORACLES | [[#^Cave-Oracles\|Page 204]] |
+| RUIN ORACLES | [[#^Ruin-Oracles\|Page 212]] |
+| TREASURE ORACLES | [[#^Treasure-Oracles\|Page 220]] |
+| MISCELLANEOUS ORACLES | [[#^Misc-Oracles\|Page 226]] |
 
 *110*
 
@@ -39,7 +39,7 @@ All other tables are assumed to default to a single roll, but some oracles inclu
 Oracle answers often prompt you to jump to another oracle. This is shown as an arrow symbol with the name(s) of the oracle. For example: ==▶Island==. If you see this prompt, that’s your cue to go to that section or table to reveal more about the encounter or location. If you are reading this rulebook on a digital device, the included page references are clickable.
 
 > ### MIXING AND MATCHING ORACLES
-The _Sundered Isles_ oracle tables are primarily intended for a seafaring setting, but many are flexible enough to incorporate into your _Starforged_ spacefaring campaigns or _Ironsworn_ fantasy campaigns—or even other roleplaying games. For example, the [_Faction Oracles_ (page 176)] are useful for a wide variety of settings, and the [_Interlude Scene_ table (page 228)] can help prompt the nature of a character-focused downtime scene in any campaign.
+The _Sundered Isles_ oracle tables are primarily intended for a seafaring setting, but many are flexible enough to incorporate into your _Starforged_ spacefaring campaigns or _Ironsworn_ fantasy campaigns—or even other roleplaying games. For example, the _[[#FACTION ORACLES|Faction Oracles]]_ (page 176) are useful for a wide variety of settings, and the _[[#INTERLUDE SCENE|Interlude Scene]]_ table (page 228) can help prompt the nature of a character-focused downtime scene in any campaign.
 
 Inversely, the _Starforged_ oracles are useful for swashbuckling campaigns set in the spacefaring realm, helping generate the details of planets, spacegoing encounters, strange creatures, and ancient alien vaults.
 
@@ -48,28 +48,27 @@ In short, the _Sundered Isles_ oracles provide the essentials for adventures in 
 *112 ORACLES*
 
 ## PICK YOUR POISON
-When you [[MV_Ask the Oracle|Ask the Oracle (move)]] a question that leads you to this section, consider your approach and preferences. For any particular situation, you might have several tables to choose from.
+When you [[4 - Moves#ASK THE ORACLE|Ask the Oracle]] a question that leads you to this section, consider your approach and preferences. For any particular situation, you might have several tables to choose from.
 
-Some oracle tables are abstract. For example, the [_Action_ oracle (page 116)] offers single-word prompts. This table can be combined with others to add nuance—such as using [_Theme_ (page 117)] to form a verb/noun combination—but the result still relies on your creative interpretation. Deciphering these answers, realizing how they connect to situations in your story, experiencing those eureka moments, is part of the fun of playing _Starforged_ and _Sundered Isles_.
+Some oracle tables are abstract. For example, the _[[#ACTION|Action]]_ oracle (page 116) offers single-word prompts. This table can be combined with others to add nuance—such as using _[[#THEME|Theme]]_ (page 117) to form a verb/noun combination—but the result still relies on your creative interpretation. Deciphering these answers, realizing how they connect to situations in your story, experiencing those eureka moments, is part of the fun of playing _Starforged_ and _Sundered Isles_.
 
-Other oracle results are general. They provide room to clarify or expand, but are less cryptic than the abstract tables. For example, the [_Seafaring Peril_ table (page 128)] includes prompts for unfortunate events that might befall your ship, but the exact nature of each event is left to the players to suss out. You may decide those answers yourself, or [[MV_Ask the Oracle|Ask the Oracle (move)]] yes/no questions to clarify.
+Other oracle results are general. They provide room to clarify or expand, but are less cryptic than the abstract tables. For example, the _[[#SEAFARING PERIL|Seafaring Peril]]_ table (page 128) includes prompts for unfortunate events that might befall your ship, but the exact nature of each event is left to the players to suss out. You may decide those answers yourself, or [[4 - Moves#ASK THE ORACLE|Ask the Oracle]] yes/no questions to clarify.
 
-And some oracle tables are specific. A [_Character Name_ (page 194)], for example. Or [_Overland Details_ (page 156)]. The more precise the result, the more flavorful or actionable, but the less open to creative interpretation. This is especially true when playing in the world of the _Sundered Isles_, because the oracle tables are keyed to the setting. If you are playing in another world, or chose to explore the skyfaring or spacefaring realms when you [launched your campaign (page 69)], you may find abstract and general prompts more useful.
+And some oracle tables are specific. A _[[#CHARACTER NAME|Character Name]]_ (page 194), for example. Or _[[#OVERLAND DETAILS|Overland Details]]_ (page 156). The more precise the result, the more flavorful or actionable, but the less open to creative interpretation. This is especially true when playing in the world of the _Sundered Isles_, because the oracle tables are keyed to the setting. If you are playing in another world, or chose to explore the skyfaring or spacefaring realms when you [[2 - Getting Underway#SELECT YOUR REALM|launched your campaign]] (page 69), you may find abstract and general prompts more useful.
 
 With some play time under your belt, you’ll become familiar with the structure of the oracles and find your preferred approaches.
 
 ## OTHER REMINDERS
-The tables in this section are a tool. Use them as you like to help envision the world, introduce encounters and events, and move your story forward. Here are a few additional tips for making the most of the oracles. [See page 291 in the _Starforged_ rulebook] for more.
+The tables in this section are a tool. Use them as you like to help envision the world, introduce encounters and events, and move your story forward. Here are a few additional tips for making the most of the oracles. [[OCL_Using Oracles|See page 291]] in the _Starforged_ rulebook for more.
 
-- **Use tables as a pick-list:** Oracles aren’t just for rolling. You’re free to scan a table and pick an option that is a good fit. This is particularly true when building on established facts. However, remember that the generators—particularly for locations, characters, and ships—are often structured to include a mix of common and rare answers. For example, an encountered ship might be carrying treasure, but this is a rare find as defined by the odds of the [_Cargo_ table (page 139)]. Follow the fiction, treating unusual events and discoveries as special.
-- **Peel the onion:** When initially encountering a location, character, or ship, use the oracle tables for details you would perceive as first impressions, such as the Character First Look table (page 186). Make a roll or two, envision the result as appropriate to the situation, make some assumptions to fill in the gaps, and move on with your story. Then use other tables to reveal new details over time.
-- **Build oracle arrays and campaign elements:** An oracle array helps you choose from among a set of relevant tables, while a campaign elements oracle reveals the focus of an encounter or situation. [See pages 384–385 of the _Starforged_ rulebook] for details.
+- **Use tables as a pick-list:** Oracles aren’t just for rolling. You’re free to scan a table and pick an option that is a good fit. This is particularly true when building on established facts. However, remember that the generators—particularly for locations, characters, and ships—are often structured to include a mix of common and rare answers. For example, an encountered ship might be carrying treasure, but this is a rare find as defined by the odds of the _[[#CARGO|Cargo]]_ table (page 139). Follow the fiction, treating unusual events and discoveries as special.
+- **Peel the onion:** When initially encountering a location, character, or ship, use the oracle tables for details you would perceive as first impressions, such as the [[#CHARACTER FIRST LOOK|Character First Look]] table (page 186). Make a roll or two, envision the result as appropriate to the situation, make some assumptions to fill in the gaps, and move on with your story. Then use other tables to reveal new details over time.
+- **Build oracle arrays and campaign elements:** An oracle array helps you choose from among a set of relevant tables, while a campaign elements oracle reveals the focus of an encounter or situation. [[OCL_Using Oracles#More Oracle Options|See pages 384–385]] of the _Starforged_ rulebook for details.
 
-*REVEALING THE ILSES 113*
+*113 REVEALING THE ISLES*
 
 # THE CURSED DIE
-Are the isles haunted by supernatural forces, monstrous foes, and strange technologies? You can introduce these dread aspects when you define your setting truths. Or perhaps you will discover them—or wake them—in the course of your story. Either way, use the ==cursed die== to reveal the uncanny, horrifying, and chaotic facets of
-your world.
+Are the isles haunted by supernatural forces, monstrous foes, and strange technologies? You can introduce these dread aspects when you define your setting truths. Or perhaps you will discover them—or wake them—in the course of your story. Either way, use the ==cursed die== to reveal the uncanny, horrifying, and chaotic facets of your world.
 
 ## ASK THE (CURSED) ORACLE
 Many random tables in this book are marked with a small skull icon: [skull] When you use one of those tables for inspiration, you may roll a cursed die alongside your oracle dice. Like your oracle dice, the cursed die is ten-sided, but should be a special color or material to distinguish it from the oracle dice. Choose a die that evokes an eerie quality. A malevolence.
@@ -88,17 +87,17 @@ When adding a cursed die to a roll, choose one. If you roll the highest value on
 
 ### MORE CURSES
 If you want to give the cursed die more emphasis in your session, use these techniques.
-- Roll a cursed die alongside abstract oracles such as _Action_ and _Theme_. These tables don’t have dedicated cursed alternatives, but you can resolve a cursed result by envisioning the nature of the prompt as frightening or uncanny.
+- Roll a cursed die alongside abstract oracles such as _[[#ACTION|Action]]_ and _[[#THEME|Theme]]_. These tables don’t have dedicated cursed alternatives, but you can resolve a cursed result by envisioning the nature of the prompt as frightening or uncanny.
 - When you Ask the Oracle and use the yes/no table to divine an answer, toss your cursed die into the mix. If you roll a curse, envision how the answer includes a dreadful twist.
 
 *115 THE CURSED DIE*
 
 # CORE ORACLES
-When you [[MV_Ask the Oracle|Ask the Oracle (move)]] about a goal, situation, or event, roll for an [_Action_ (_below_)] and [_Theme_ (next page)]. Together, these tables provide a verb/noun phrase.
+When you [[4 - Moves#ASK THE ORACLE|Ask the Oracle]] about a goal, situation, or event, roll for an _[[#ACTION|Action]] below_) and _[[#THEME|Theme]]_ (next page). Together, these tables provide a verb/noun phrase.
 
-Other oracle tables include prompts to check for an Action and Theme (shown as >Action + Theme). That’s your cue to roll on these tables and interpret the result.
+Other oracle tables include prompts to check for an Action and Theme (shown as ▶[[#ACTION|Action]] + ▶[[#THEME|Theme]]). That’s your cue to roll on these tables and interpret the result.
 
-> For details on using the _Core Oracles_, [see page 295 of the _Starforged_ rulebook].
+> For details on using the _Core Oracles_, [[OCL_Core|see page 295]] of the _Starforged_ rulebook.
 
 ## ACTION
 
@@ -312,12 +311,12 @@ Other oracle tables include prompts to check for an Action and Theme (shown as >
 | 99 | Wealth |
 | 100 | Weapon |
 
-*CORE ORACLES 117*
+*117 CORE ORACLES*
 
 ## DESCRIPTOR
-When you [[MV_Ask the Oracle|Ask the Oracle (move)]] about the nature of a location, discovery, or encounter, roll for a [_Descriptor_ (_below_)] and a [_Focus_ (next page)]. Together, these tables provide an adjective/noun phrase.
+When you [[4 - Moves#ASK THE ORACLE|Ask the Oracle]] about the nature of a location, discovery, or encounter, roll for a _[[#DESCRIPTOR|Descriptor]] (below)_ and a _[[#FOCUS|Focus]]_ (next page). Together, these tables provide an adjective/noun phrase.
 
-Other oracle tables include prompts to check for a Descriptor and Focus (shown as >Descriptor + Focus). That’s your cue to roll on these tables and interpret the result.
+Other oracle tables include prompts to check for a Descriptor and Focus (shown as ▶Descriptor + ▶Focus). That’s your cue to roll on these tables and interpret the result.
 
 
 | Roll | Result |
@@ -530,21 +529,21 @@ Other oracle tables include prompts to check for a Descriptor and Focus (shown a
 | 99 | Wind |
 | 100 | Wreckage |
 
-*CORE ORACLES 119*
+*119 CORE ORACLES*
 
 # SEAFARING ORACLES
-Use these tables to trigger locations, events, and encounters on a seafaring expedition. Use the _Known Waters_ table (below) if you [[MV_Undertake an Expedition|Undertake an Expedition (move)]] among or between known islands, such as when following a chart of local islands. Use the _Unknown Waters_ table (next page) when navigating unfamiliar waters with the prospect of encountering unrevealed islands. ^Seafaring-Oracles
+Use these tables to trigger locations, events, and encounters on a seafaring expedition. Use the _[[#KNOWN WATERS|Known Waters]]_ table (below) if you [[4 - Moves#UNDERTAKE AN EXPEDITION|Undertake an Expedition]] among or between known islands, such as when following a chart of local islands. Use the _[[#UNKNOWN WATERS|Unknown Waters]]_ table (next page) when navigating unfamiliar waters with the prospect of encountering unrevealed islands. ^Seafaring-Oracles
 
 ## KNOWN WATERS
 
 | Myriads<br>_Central Seas_ | Margins<br>_Outer Seas_ | Reaches<br>_Remote Seas_ | Result |
 | :---: | :---: | :---: | --- |
-| 1 - 25 | 1 - 15 | 1 - 5 | Sails, ho! ▶Ship; pg 132 |
-| 25 - 35 | 16 - 30 | 6 - 25 | Changing weather ▶Weather; pg 130 |
-| 36 - 55 | 31 - 50 | 26 - 45 | Instance (choose one)<br>▶Seafaring Details; pg 122<br>▶Descriptor + Focus; pg 118–119 |
-| 26 - 65 | 51 - 60 | 46 - 55 | Lost souls ▶Shipwreck; pg 198 |
-| 66 - 70 | 61 - 70 | 58 - 70 | Relic of the past ▶Ruin; pg 212 |
-| 71 - 85 | 71 - 85 | 71 - 85 | Character focus ▶Interlude Scene; pg 228 |
+| 1 - 25 | 1 - 15 | 1 - 5 | Sails, ho! ▶[[#^Ship-Oracles\|Ship]]; _pg 132_ |
+| 25 - 35 | 16 - 30 | 6 - 25 | Changing weather ▶[[#WEATHER ORACLES\|Weather]]; _pg 130_ |
+| 36 - 55 | 31 - 50 | 26 - 45 | Instance (choose one)<br>▶[[#SEAFARING DETAILS\|Seafaring Details]]; _pg 122_<br>▶[[#DESCRIPTOR\|Descriptor]] + ▶[[#FOCUS\|Focus]]; _pg 118–119_ |
+| 26 - 65 | 51 - 60 | 46 - 55 | Lost souls ▶[[#^Shipwreck-Oracles\|Shipwreck]]; _pg 198_ |
+| 66 - 70 | 61 - 70 | 58 - 70 | Relic of the past ▶[[#^Ruin-Oracles\|Ruin]]; _pg 212_ |
+| 71 - 85 | 71 - 85 | 71 - 85 | Character focus ▶[[#INTERLUDE SCENE\|Interlude Scene]]; _pg 228_ |
 | 86 - 100 | 86 - 100 | 86 - 100 | Roll twice |
 
 *120 ORACLES*
@@ -553,23 +552,23 @@ Use these tables to trigger locations, events, and encounters on a seafaring exp
 
 | Myriads<br>_Central Seas_ | Margins<br>_Outer Seas_ | Reaches<br>_Remote Seas_ | Result |
 | :---: | :---: | :---: | --- |
-| 1 - 20 | 1 - 15 | 1 - 10 | Land, ho! ▶Island; pg 142 |
-| 21 - 35 | 16 - 25 | 11 - 15 | Sails, ho! ▶Ship; pg 132 |
-| 36 - 45 | 26 - 40 | 16 - 35 | Changing weather ▶Weather; pg 130 |
-| 46 - 60 | 41 - 55 | 36 - 50 | Instance (choose one)<br>▶Seafaring Details; pg 122<br>▶Descriptor + Focus; pg 118–119 |
-| 61 - 70 | 56 - 65 | 51 - 60 | Lost souls ▶Shipwreck; pg 198 |
-| 71 - 75 | 66 - 75 | 61 - 75 | Relic of the past ▶Ruin; pg 212 |
-| 76 - 90 | 76 - 90 | 76 - 90 | Character focus ▶Interlude Scene; pg 228 |
+| 1 - 20 | 1 - 15 | 1 - 10 | Land, ho! ▶[[#ISLAND ORACLES\|Island]]; _pg 142_ |
+| 21 - 35 | 16 - 25 | 11 - 15 | Sails, ho! ▶[[#^Ship-Oracles\|Ship]]; _pg 132_ |
+| 36 - 45 | 26 - 40 | 16 - 35 | Changing weather ▶[[#WEATHER ORACLES\|Weather]]; _pg 130_ |
+| 46 - 60 | 41 - 55 | 36 - 50 | Instance (choose one)<br>▶[[#SEAFARING DETAILS\|Seafaring Details]]; _pg 122_<br>▶[[#DESCRIPTOR\|Descriptor]] + ▶[[#FOCUS\|Focus]]; _pg 118–119_ |
+| 61 - 70 | 56 - 65 | 51 - 60 | Lost souls ▶[[#^Shipwreck-Oracles\|Shipwreck]]; _pg 198_ |
+| 71 - 75 | 66 - 75 | 61 - 75 | Relic of the past ▶[[#^Ruin-Oracles\|Ruin]]; _pg 212_ |
+| 76 - 90 | 76 - 90 | 76 - 90 | Character focus ▶[[#INTERLUDE SCENE\|Interlude Scene]]; _pg 228_ |
 | 91 - 100 | 91 - 100 | 91 - 100 | Roll twice |
 
-If you face a cost in your travels, such as when you roll a miss as you [[MV_Undertake an Expedition|Undertake an Expedition (move)]], the [_Seafaring Peril_ (pg 128) oracle] can help reveal what occurs. If you encounter good fortune, such as when you roll a strong hit with a match, the [_Seafaring Opportunity_ (page 129)] table can inspire the nature of this lucky break. Check those tables instead of—or in addition to—a seafaring waypoint.
+If you face a cost in your travels, such as when you roll a miss as you [[4 - Moves#UNDERTAKE AN EXPEDITION|Undertake an Expedition]], the _[[#SEAFARING PERIL|Seafaring Peril]]_ (pg 128) oracle can help reveal what occurs. If you encounter good fortune, such as when you roll a strong hit with a match, the _[[#SEAFARING OPPORTUNITY|Seafaring Opportunity]]_ (page 129) table can inspire the nature of this lucky break. Check those tables instead of—or in addition to—a seafaring waypoint.
 
-*SEAFARING ORACLES 121*
+*121 SEAFARING ORACLES*
 
 ## SEAFARING DETAILS
 This table reveals occurrences on a seafaring expedition. Possible results include locations, events, sightings, and encounters.
 
-| Roll | Result \| [skull] pg 126 |
+| Roll | Result [skull] _pg 126_ |
 | :---: | --- |
 | 1 | A plume of smoke rises on the horizon |
 | 2 | A floating market bustles with activity |
@@ -673,7 +672,7 @@ This table reveals occurrences on a seafaring expedition. Possible results inclu
 | 100 | Smoke rises from among a grove of palms on a sandy islet |
 
 *122 ORACLES*
-*SEAFARING ORACLES 123*
+*123 SEAFARING ORACLES*
 *124 ORACLES*
 
 > ## [SKULL] CURSED SEAFARING DETAILS
@@ -781,9 +780,9 @@ This table reveals occurrences on a seafaring expedition. Possible results inclu
 | 99 | The sound of sobbing echoes across mist-shrouded seas |
 | 100 | The rising sun casts a baleful red glow |
 
-*SEAFARING ORACLES 125*
+*125 SEAFARING ORACLES*
 *126 ORACLES*
-*SEAFARING ORACLES 127*
+*127 SEAFARING ORACLES*
 
 ## SEAFARING PERIL
 Use this table when you want inspiration for a trouble during ocean exploration or on a seagoing expedition.
@@ -821,14 +820,14 @@ Use this table when you want inspiration for a trouble during ocean exploration 
 | 85 - 87 | Vermin infest spaces below decks |
 | 88 - 90 | Wind recedes, and the sails fall slack |
 | 91 - 93 | You are lost or off course |
-| 94 - 96 | >Foul Weather; pg 130 |
-| 97 - 99 | >Action + Theme; pg 116–117 |
+| 94 - 96 | ▶[[#FOUL WEATHER\|Foul Weather]]; _pg 130_ |
+| 97 - 99 | ▶[[#ACTION\|Action]] + ▶[[#THEME\|Theme]]; _pg 116–117_ |
 | 100 | Roll twice |
 
 *128 ORACLES*
 
 ## SEAFARING OPPORTUNITY
-Use this table when you want inspiration for a beneficial encounter or event on a seagoing journey, such as when you roll a strong hit with a match as you [[MV_Undertake an Expedition|Undertake an Expedition (move)]],  or if you [[MV_Explore a Waypoint|Explore a Waypoint (move)]] and find an opportunity.
+Use this table when you want inspiration for a beneficial encounter or event on a seagoing journey, such as when you roll a strong hit with a match as you [[4 - Moves#UNDERTAKE AN EXPEDITION|Undertake an Expedition]],  or if you [[4 - Moves#EXPLORE A WAYPOINT|Explore a Waypoint]] and find an opportunity.
 
 | Roll |  Result |
 | :---: | --- |
@@ -858,7 +857,7 @@ Use this table when you want inspiration for a beneficial encounter or event on 
 | 93 - 96 | Shipwreck or derelict ripe for the picking |
 | 97 - 100 | Source of fresh provisions |
 
-*SEAFARING ORACLES 129*
+*129 SEAFARING ORACLES*
 
 # WEATHER ORACLES
 
@@ -866,14 +865,14 @@ Use this table when you want inspiration for a beneficial encounter or event on 
 
 | Myriads<br>_Central Seas_ | Margins<br>_Outer Seas_ | Reaches<br>_Remote Seas_ | Result |
 | :---: | :---: | :---: | --- |
-| 1 - 70 | 1 - 60 | 1 - 50 | ▶Fair Weather |
-| 71 - 100 | 61 - 100 | 51 - 100 | ▶Foul Weather |
+| 1 - 70 | 1 - 60 | 1 - 50 | Fair Weather |
+| 71 - 100 | 61 - 100 | 51 - 100 | ▶[[#FOUL WEATHER\|Foul Weather]] |
 
 If you’d like to establish the time of day for an encounter or scene, roll a single oracle die. If even, it’s daytime; if odd, it’s night. Higher numbers are later in that period.
 
 ## FOUL WEATHER
 
-| Roll | Result | Detail \| | [skull] pg 131 |
+| Roll | Result | Detail [skull] _pg 131_ |
 | :---: | --- | --- |
 | 1 – 10  | Stifling | Windless, oppressive heat |
 | 11 – 25 | Listless | Light winds and sweltering heat |
@@ -912,14 +911,14 @@ To learn the duration of foul or cursed weather, roll a single oracle die. 1–2
 | 91 - 95 | Wailing wind | Wind that carries the mournful keen of the lost and the drowned |
 | 96 - 100 | Witch fire | Low clouds suffused with tendrils of chaotic, arcane energy |
 
-*WEATHER ORACLES 131*
+*131 WEATHER ORACLES*
 
 > # SHIP ORACLES ^Ship-Oracles
 
 ## SHIP SIZE
 Use this table to generate the scale of a ship sighting, ranging from a single small ship to a massive armada.
 
-The challenge ranks shown here are a starting place. Set the rank of a naval fight as appropriate to the capability of your forces and the complexity of your objectives. Also, keep in mind that ships operate at a scale relative to other large vehicles and creatures. For tips on handling naval encounters, [see page 36].
+The challenge ranks shown here are a starting place. Set the rank of a naval fight as appropriate to the capability of your forces and the complexity of your objectives. Also, keep in mind that ships operate at a scale relative to other large vehicles and creatures. For tips on handling naval encounters, [[1 - Adevntures Among the Isles#NAVAL ENCOUNTERS|see page 36]].
 
 
 | Roll | Result | Such as | Rigging | Crew | Rank |
@@ -964,7 +963,7 @@ Set the range of the encounter and the ship’s initial status as appropriate to
 ## SHIP FIRST LOOK
 Once you are close enough to observe notable features of the ship, check this table.
 
-| Roll | Result \| @1-2 \| [skull] _pg 135_ |
+| Roll | Result @1-2 [skull] _pg 135_ |
 | :---: | --- |
 | 1 - 2 | Accompanied by creatures |
 | 3 - 5 | Adorned with colorful pennants |
@@ -1005,7 +1004,7 @@ Once you are close enough to observe notable features of the ship, check this ta
 | 89 - 90 | Trailing smoke |
 | 91 - 93 | Twin-hulled (catamaran) |
 | 94 - 95 | Undergunned or unarmed | 
-| 96 - 100 | ▶Descriptor + ▶Focus |
+| 96 - 100 | ▶[[#DESCRIPTOR\|Descriptor]] + ▶[[#FOCUS\|Focus]]; _pg 118-119_ |
 
 *134 ORACLES*
 
@@ -1057,7 +1056,7 @@ Once you are close enough to observe notable features of the ship, check this ta
 *135 SHIP ORACLES*
 
 ## SHIP CONTROLLING FACTION
-If the first impressions of a ship don’t reveal its identity, check the table below. If a known faction commands the ship, roll or choose on your [faction influence grid (page 50)]. If it is independent or aligned with an Unknown faction, use other tables such as _Ship Symbol_ and _Ship Mission_ to help envision its nature, allegiances, and purpose.
+If the first impressions of a ship don’t reveal its identity, check the table below. If a known faction commands the ship, roll or choose on your [[1 - Adevntures Among the Isles#FACTION INFLUENCE GRID|faction influence grid]] (page 50). If it is independent or aligned with an Unknown faction, use other tables such as _[[#SHIP SYMBOL|Ship Symbol]]_ and _[[#SHIP MISSION|Ship Mission]]_ to help envision its nature, allegiances, and purpose.
 
 | Myriads<br>_Central Seas_ | Margins<br>_Outer Seas_ | Reaches<br>_Remote Seas_ | Result |
 | :---: | :---: | :---: | --- |
@@ -1068,7 +1067,7 @@ If the first impressions of a ship don’t reveal its identity, check the table 
 ## SHIP SYMBOL
 Use this table to reveal the design of a ship’s figurehead, flag, or other motifs. This may help inspire the character of the vessel—especially if it is independent or part of an unknown faction.
 
-| Roll | Result \| [skull] _below_ |
+| Roll | Result [skull] _below_ |
 | :---: | --- |
 | 1 - 2 | Albatross or gull |
 | 3 - 4 | Angelic figure |
@@ -1139,7 +1138,7 @@ Use this table to reveal the design of a ship’s figurehead, flag, or other mot
 *136 ORACLES*
 
 ## SHIP MISSION
-A ship’s faction can reveal its role, such as warship, tradeship, or whaler. If the ship is independent, the faction unknown, or if you simply want more detail, use this table. Alternatively, use the [captain’s goal (page 193)] to set the ship’s purpose.
+A ship’s faction can reveal its role, such as warship, tradeship, or whaler. If the ship is independent, the faction unknown, or if you simply want more detail, use this table. Alternatively, use the [[#CHARACTER GOALS|captain’s goal]] (page 193) to set the ship’s purpose.
 
 | -----------------------------------Size----------------------------------- | [skull] _below_ |
 | --- | --- |
@@ -1164,11 +1163,11 @@ A ship’s faction can reveal its role, such as warship, tradeship, or whaler. I
 | 65 - 68 | 73 - 74 | 77 - 78 | 79 - 80 | 79 - 80 | -- | -- | Conduct research |
 | 69 - 74 | 75 - 78 | 79 - 80 | 81 - 82 | 81 - 82 | -- | -- | Deliver item or message |
 | 75 - 84 | 79 - 84 | 81 - 84 | 83 - 84 | 83 - 84 | -- | -- | Smuggle contraband |
-| 85 - 94 | 85 - 94 | 85 - 94 | 85 - 94 | 85 - 94 | 85 - 94 | 85 - 94 | ▶[Action] + ▶[Theme]; pg 116 - 117 |
+| 85 - 94 | 85 - 94 | 85 - 94 | 85 - 94 | 85 - 94 | 85 - 94 | 85 - 94 | ▶[[#ACTION\|Action]] + ▶[[#THEME\|Theme]]; _pg 116 - 117_|
 | 95 - 100 | 95 - 100 | 95 - 100 | 95 - 100 | 95 - 100 | 95 - 100 | 95 - 100 | Roll twice |
 
 ## CURSED SHIP MISSION6
-If you roll a _Ship Mission_ curse, take your result on that table and envision an uncanny or dreadful aspect. For details on how the ship or its mission relates to a cursed power, use the table below.
+If you roll a _[[#SHIP MISSION|Ship Mission]]_ curse, take your result on that table and envision an uncanny or dreadful aspect. For details on how the ship or its mission relates to a cursed power, use the table below.
 
 | Roll | Result |
 | :---: | --- |
@@ -1186,7 +1185,7 @@ If you roll a _Ship Mission_ curse, take your result on that table and envision 
 ## SHIP DETAILS
 When upon a ship other than your own—visiting, exploring, or boarding—use this table to reveal new details.
 
-| Roll | Result \| @1-2 \| [skull] _below_ |
+| Roll | Result @1-2 [skull] _below_ |
 | :---: | --- |
 | 1 - 3 | Animal mascot |
 | 4 - 5 | Archive of books and charts |
@@ -1223,9 +1222,9 @@ When upon a ship other than your own—visiting, exploring, or boarding—use th
 | 81 - 82 | Venerable ship with a long history |
 | 83 - 84 | Well-stocked armory |
 | 85 - 87 | Without a commander |
-| 88 - 91 | Unexpected ▶[Ship Mission] |
-| 92 - 95 | ▶[Ship Damage] |
-| 96 - 100 | ▶[Descriptor] + ▶[Focus] |
+| 88 - 91 | Unexpected ▶[[#SHIP MISSION\|Ship Mission]]; _pg 137_ |
+| 92 - 95 | ▶[[#SHIP DAMAGE\|Ship Damage]]; _pg 233_ |
+| 96 - 100 | ▶[[#DESCRIPTOR\|Descriptor]] + ▶[[#FOCUS\|Focus]]; _pg 118-119_ |
 
 ## CURSED SHIP DETAILS
 
@@ -1263,7 +1262,7 @@ When upon a ship other than your own—visiting, exploring, or boarding—use th
 ## CARGO
 Use this table when surveying a ship’s hold or if coming upon lost or abandoned cargo. Roll a number of times as appropriate to the nature of the find. For example, once for the hold of a typical warship, or up to four times for a fully loaded tradeship. Ships also typically carry basic munitions and provisions for the crew, but this table reveals the details of bulk cargo such as trade goods and plunder. @1–4
 
-| Roll | Result \| @1-4 \| [skull] _below_ |
+| Roll | Result @1-4 [skull] _below_ |
 | :---: | --- |
 | 1 - 2 | Ammunition |
 | 3 - 4 | Artisan goods |
@@ -1307,8 +1306,8 @@ Use this table when surveying a ship’s hold or if coming upon lost or abandone
 | 88 - 90 | Whale oil |
 | 91 - 92 | Wild animals |
 | 93 - 94 | Wine |
-| 95 - 98 | ▶[Descriptor] + ▶[Focus] |
-| 99 - 100 | ▶[Treasure] |
+| 95 - 98 | ▶[[#DESCRIPTOR\|Descriptor]] + ▶[[#FOCUS\|Focus]]; _pg 118-119_ |
+| 99 - 100 | ▶[[#^Treasure-Oracles\|Treasure]]; _pg 220_ |
 
 ## CURSED CARGO
 
@@ -1335,7 +1334,7 @@ Use this table when surveying a ship’s hold or if coming upon lost or abandone
 
 ## SHIP NAME
 
-| Roll | Result \| [skull] _pg 141 |
+| Roll | Result [skull] _pg 141 |
 | :---: | --- |
 | 1 | Aegis |
 | 2 | Akiya |
@@ -1544,7 +1543,7 @@ Use the Cursed Ship Name table for ships with a cursed nature, or for warships a
 | 98 | Wraith's Gaze |
 | 99 - 100 | Forsaken Vow |
 
-*SHIP ORACLES 141*
+*141 SHIP ORACLES*
 
 # ISLAND ORACLES
 
@@ -1596,7 +1595,7 @@ Use the Cursed Ship Name table for ships with a cursed nature, or for warships a
 | 51 – 85 | 66 – 90 | 81 – 95 | Seaside settlement |
 | 86 – 100 | 91 – 100 | 96 – 100 | Multiple visible communities or extensive cultivation |
 
-The _Terrain_, _Vitality_, and _Visible Habitation_ of sizable islands may vary. Your initial results represent the dominant aspects that are visible on approach. Further exploration may reveal other characteristics.
+The _[[#TERRAIN|Terrain]]_, _[[#VITALITY|Vitality]]_, and _[[#VISIBLE HABITATION|Visible Habitation]]_ of sizable islands may vary. Your initial results represent the dominant aspects that are visible on approach. Further exploration may reveal other characteristics.
 
 ## NEARBY ISLANDS
 
@@ -1611,11 +1610,11 @@ The _Terrain_, _Vitality_, and _Visible Habitation_ of sizable islands may vary.
 ## COASTLINE ASPECTS
 This table reveals topographic features of the nearby island coast. If you roll twice, those aspects are combined or close together. When you travel further up the shore of a sizable island, you may reroll on this table.
 
-If a result is at odds with the Terrain or Vitality results (see previous pages), envision how the island includes both features. For example, shoreline cliffs can surround a flat island interior, as with an ancient volcanic  Caldera. Or an isolated thicket of mangroves can grow on the shores of an otherwise desolate island.
+If a result is at odds with the _[[#TERRAIN|Terrain]]_ or _[[#VITALITY|Vitality]]_ results (see previous pages), envision how the island includes both features. For example, shoreline cliffs can surround a flat island interior, as with an ancient volcanic Caldera. Or an isolated thicket of mangroves can grow on the shores of an otherwise desolate island.
 
 If a seaside settlement is in sight, envision how it fits among the coastline and overall island terrain.
 
-| Roll | Result \| @1-2 |
+| Roll | Result @1-2 |
 | :---: | --- |
 | 1 - 2 | Broad bay protected by offshore islet |
 | 3 - 8 | Channel separates a neighboring island |
@@ -1649,7 +1648,7 @@ If a seaside settlement is in sight, envision how it fits among the coastline an
 ## OFFSHORE OBSERVATIONS
 This table reveals more details of the shore and coastal waters as you observe or approach the island.
 
-| Roll | Result \| @1-2 \| [skull] _pg 146_ |
+| Roll | Result @1-2 [skull] _pg 146_ |
 | :---: | --- |
 | 1 - 2 | Active lava flow |
 | 3 - 4 | Beached sea beast |
@@ -1689,10 +1688,11 @@ This table reveals more details of the shore and coastal waters as you observe o
 | 71 - 72 | Walled shoreline |
 | 73 - 74 | Waters clogged with debris |
 | 75 - 76 | Whales congregate in coastal waters |
-| 77 - 80 | ▶[Ship] (at anchor); pg 132 |
-| 81 - 86 | ▶[Shipwreck]; pg 198 |
-| 87 - 90 | ▶[Ruin]; pg 212 |
-| 91 - 100 | ▶[Descriptor] + ▶[Focus]; pg 118–119 |
+| 77 - 80 | ▶[[#^Ship-Oracles\|Ship]] (at anchor); _pg 132_ |
+| 81 - 86 | ▶[[#^Shipwreck-Oracles]]; _pg 198_ |
+| 87 - 90 | ▶[[#^Ruin-Oracles\|Ruin]]]; _pg 212_ |
+| 91 - 100 | ▶[[#DESCRIPTOR\|Descriptor]] + ▶[[#FOCUS\|Focus]]; _pg 118–119_ |
+[[#^Ship-Oracles]]
 
 *145 ISLAND ORACLES*
 
@@ -1739,13 +1739,13 @@ This table reveals more details of the shore and coastal waters as you observe o
 | 89 - 91 | Unsettling quiet |
 | 92 - 93 | Uprooted or broken vegetation |
 | 94 - 95 | Washed-up corpses |
-| 96 - 100 | ▶[Cursed Weather]; _pg 131_ |
+| 96 - 100 | ▶[[#[skull] CURSED WEATHER\|Cursed Weather]]; _pg 131_ |
 
 *146 ORACLES*
 
 ## ISLAND NAME
 
-| Roll | Result \| [skull] _below_ |
+| Roll | Result [skull] _below_ |
 | :---: | --- |
 | 1 | Aegis |
 | 2 | Akun |
@@ -1916,45 +1916,45 @@ Use this table to trigger locations, events, and encounters on an overland exped
 
 | Myriads<br>_Central Seas_ | Margins<br>_Outer Seas_ | Reaches<br>_Remote Seas_ | Result |
 |:---:|:---:|:---:| --- |
-| 1 - 20 | 1 - 20 | 1 - 20 | Feature of the landscape ▶Region Landmark; _pg 150-154_ |
-| 21 - 30 | 21 - 30 | 21 - 30 | Changing landscape ▶Overland Region; _pg 149_ |
-| 31 - 35 | 31 - 38 | 31 - 40 | Changing weather ▶Weather; _pg 130_ |
-| 36 - 55 | 39 - 58 | 41 - 60 | Instance (choose one)<br>▶Overland Details; _pg 156_<br>▶Descriptor + Focus; _pg 118 - 119_ |
-| 56 - 70 | 59 - 67 | 61 - 65 | Inland community ▶Settlement; _pg 164_ |
-| 71 - 75 | 68 - 75 | 66 - 75 | Relic of the past ▶Ruin; _pg 212_ |
-| 76 - 85 | 76 - 85 | 76 - 85 | Character focus ▶Interlude Scene; _pg 228_ |
+| 1 - 20 | 1 - 20 | 1 - 20 | Feature of the landscape ▶[[#REGION LANDMARKS\|Region Landmark]]; _pg 150-154_ |
+| 21 - 30 | 21 - 30 | 21 - 30 | Changing landscape ▶[[#OVERLAND REGION\|Overland Region]]; _pg 149_ |
+| 31 - 35 | 31 - 38 | 31 - 40 | Changing weather ▶[[#WEATHER CONDITIONS\|Weather]]; _pg 130_ |
+| 36 - 55 | 39 - 58 | 41 - 60 | Instance (choose one)<br>▶[[#OVERLAND DETAILS\|Overland Details]]; _pg 156_<br>▶[[#DESCRIPTOR\|Descriptor]] + ▶[[#FOCUS\|Focus]]; _pg 118–119_ |
+| 56 - 70 | 59 - 67 | 61 - 65 | Inland community ▶[[#^Settlement-Oracles\|Settlement]]; _pg 164_ |
+| 71 - 75 | 68 - 75 | 66 - 75 | Relic of the past ▶[[#^Ruin-Oracles\|Ruin]]; _pg 212_ |
+| 76 - 85 | 76 - 85 | 76 - 85 | Character focus ▶[[#INTERLUDE SCENE\|Interlude Scene]]; _pg 228_ |
 | 86 - 100 | 86 - 100 | 86 - 100 | Roll twice |
 
 *148 ORACLES*
 
 ## OVERLAND REGION
-Use this table to reveal the nature of surrounding terrain on an overland expedition. Or use the _island Terrain_ and _Vitality_ tables [(page 142)] to help envision the lay of the land, and pick a region from this list based on that result.
+Use this table to reveal the nature of surrounding terrain on an overland expedition. Or use the _[[#TERRAIN\|island Terrain]]_ and _[[#VITALITY\|Vitality]]_ tables (page 142) to help envision the lay of the land, and pick a region from this list based on that result.
 
 You can combine multiple regions (Jungle Highlands, for example) into an oracle array. The following pages include Region Landmark tables for each terrain type.
 
 | Roll | Result | Details | Landmarks |
 | :---: | --- | --- | :---: |
-| 1 - 20 | ▶[Highlands] | Hilly or mountainous terrain | _pg 150_ |
-| 21 - 45 | ▶[Jungle] | Dense tropical rainforest | _pg 150_ |
-| 46 - 50 | ▶[Lava Field] | Lands scarred by volcanic eruptions | _pg 151_ |
-| 51 - 55 | ▶[Marsh] | Waterlogged region with grasses and reeds | _pg 151_ |
-| 56 - 60 | ▶[River] | Major inland waterway | _pg 152_ |
-| 61 - 65 | ▶[Scrub] | Open landscape dominated by grass or shrubs | _pg 152_ |
-| 66 - 75 | ▶[Shore] | Where the land meets the sea | _pg 153_ |
-| 76 - 85 | ▶[Swamp] | Flooded forest with thick vegetation | _pg 153_ |
-| 86 - 90 | ▶[Wastes] | Arid, rocky terrain | _pg 154_ |
-| 91 - 100 | ▶[Woodland] | Forested lands | _pg 154_ |
+| 1 - 20 | ▶[[#^Region-Highlands\|Highlands]] | Hilly or mountainous terrain | _pg 150_ |
+| 21 - 45 | ▶[[#^Region-Jungle\|Jungle]] | Dense tropical rainforest | _pg 150_ |
+| 46 - 50 | ▶[[#^Region-Lava-Field\|Lava Field]] | Lands scarred by volcanic eruptions | _pg 151_ |
+| 51 - 55 | ▶[[#^Region-Marsh\|Marsh]] | Waterlogged region with grasses and reeds | _pg 151_ |
+| 56 - 60 | ▶[[#^Region-River\|River]] | Major inland waterway | _pg 152_ |
+| 61 - 65 | ▶[[#^Region-Scrub\|Scrub]] | Open landscape dominated by grass or shrubs | _pg 152_ |
+| 66 - 75 | ▶[[#^Region-Shore\|Shore]] | Where the land meets the sea | _pg 153_ |
+| 76 - 85 | ▶[[#^Region-Swamp\|Swamp]] | Flooded forest with thick vegetation | _pg 153_ |
+| 86 - 90 | ▶[[#^Region-Wastes\|Wastes]] | Arid, rocky terrain | _pg 154_ |
+| 91 - 100 | ▶[[#^Region-Woodland\|Woodland]] | Forested lands | _pg 154_ |
 
-If you face a cost in your travels, such as when you roll a miss as you [[MV_Undertake an Expedition|Undertake an Expedition (move)]], the _Overland Peril_ table [(page 162)] can help reveal what occurs. If you encounter good fortune, such as when you roll a strong hit with a match, the _Overland Opportunity_ table [(page 163)] can inspire the nature of this lucky break. Check those tables instead of—or in addition to—an overland waypoint.
+If you face a cost in your travels, such as when you roll a miss as you [[4 - Moves#UNDERTAKE AN EXPEDITION|Undertake an Expedition]], the _[[#OVERLAND PERIL|Overland Peril]]_ table (page 162) can help reveal what occurs. If you encounter good fortune, such as when you roll a strong hit with a match, the _[[#OVERLAND OPPORTUNITY|Overland Opportunity]]_ table (page 163) can inspire the nature of this lucky break. Check those tables instead of—or in addition to—an overland waypoint.
 
 *149 OVERLAND ORACLES*
 
 ## REGION LANDMARKS
 
 > ### HIGHLANDS
-> Hilly or mountainous terrain
+> Hilly or mountainous terrain ^Region-Highlands
 
-| Roll | Results \| [skull] _pg 155_ |
+| Roll | Results [skull] _pg 155_ |
 | :---: | --- |
 | 1 - 5 | Bubbling mountain spring |
 | 6 - 10 | Cavernous opening in cliff face |
@@ -1978,9 +1978,9 @@ If you face a cost in your travels, such as when you roll a miss as you [[MV_Und
 | 96 - 100 | Winding footpath |
  
  > ### JUNGLE
- > Dense tropical rainforest
+ > Dense tropical rainforest ^Region-Jungle
 
-| Roll | Results \| [skull] _pg 155_ |
+| Roll | Results [skull] _pg 155_ |
 | :---: | --- |
 | 1 - 5 | Ancient tree with a vast canopy |
 | 6 - 10 | Branches crowded with colorful birds |
@@ -2006,9 +2006,9 @@ If you face a cost in your travels, such as when you roll a miss as you [[MV_Und
 *150 ORACLES*
 
 > ### LAVA FIELD
-> Lands scarred by volcanic eruptions
+> Lands scarred by volcanic eruptions ^Region-Lava-Field
 
-| Roll | Results \| [skull] _pg 155_ |
+| Roll | Results [skull] _pg 155_ |
 | :---: | --- |
 | 1 - 5 | Boiling lake |
 | 6 - 10 | Bubbling lava pool |
@@ -2032,9 +2032,9 @@ If you face a cost in your travels, such as when you roll a miss as you [[MV_Und
 | 96 - 100 | Vents spewing steam and volcanic gases |
 
 > ### MARSH
-> Waterlogged region with grasses and reeds
+> Waterlogged region with grasses and reeds ^Region-Marsh
 
-| Roll | Results \| [skull] _pg 155_ |
+| Roll | Results [skull] _pg 155_ |
 | :---: | --- |
 | 1 - 5 | Bursts of flaming marsh gas |
 | 6 - 10 | Copse of rotted tree trunks |
@@ -2060,9 +2060,9 @@ If you face a cost in your travels, such as when you roll a miss as you [[MV_Und
 *151 OVERLAND ORACLES*
 
 > ### SCRUB
-> Open landscape dominated by grass or shrubs
+> Open landscape dominated by grass or shrubs ^Region-Scrub
 
-| Roll | Results \| [skull] _pg 155_ |
+| Roll | Results [skull] _pg 155_ |
 | :---: | --- |
 | 1 - 5 | Abandoned homestead |
 | 6 - 10 | Cavernous sinkhole |
@@ -2086,9 +2086,9 @@ If you face a cost in your travels, such as when you roll a miss as you [[MV_Und
 | 96 - 100 | Weathered burial mounds |
 
 > ### RIVER
-> Major inland waterway
+> Major inland waterway ^Region-River
 
-| Roll | Results \| [skull] _pg 155_ |
+| Roll | Results [skull] _pg 155_ |
 | :---: | --- |
 | 1 - 5 | Branching watercourse |
 | 6 - 10 | Cascading rapids |
@@ -2114,9 +2114,9 @@ If you face a cost in your travels, such as when you roll a miss as you [[MV_Und
 *152 ORACLES*
 
 > ### SHORE
-> Where the land meets the sea
+> Where the land meets the sea ^Region-Shore
 
-| Roll | Results \| [skull] _pg 155_ |
+| Roll | Results [skull] _pg 155_ |
 | :---: | --- |
 | 1 - 5 | Approaching or anchored ship |
 | 6 - 10 | Beached shipwreck |
@@ -2140,9 +2140,9 @@ If you face a cost in your travels, such as when you roll a miss as you [[MV_Und
 | 96 - 100 | Wide, saltwater channel |
 
 > ### SWAMP
-> Flooded forest with thick vegetation
+> Flooded forest with thick vegetation ^Region-Swamp
 
-| Roll | Results \| [skull] _pg 155_ |
+| Roll | Results [skull] _pg 155_ |
 | :---: | --- |
 | 1 - 5 | Abandoned boat or raft |
 | 6 - 10 | Ancient tree with sprawling root system |
@@ -2168,9 +2168,9 @@ If you face a cost in your travels, such as when you roll a miss as you [[MV_Und
 *153 OVERLAND ORACLES*
 
 > ### WASTES
-> Arid, rocky terrain
+> Arid, rocky terrain ^Region-Wastes
 
-| Roll | Results \| [skull] _pg 155_ |
+| Roll | Results [skull] _pg 155_ |
 | :---: | --- |
 | 1 - 5 | Abandoned mineshaft |
 | 6 - 10 | Animal tracks in the sand |
@@ -2194,9 +2194,9 @@ If you face a cost in your travels, such as when you roll a miss as you [[MV_Und
 | 96 - 100 | Towering stone arches |
 
 > ### WOODLAND
-> Forested lands
+> Forested lands ^Region-Woodland
 
-| Roll | Results \| [skull] _pg 155_ |
+| Roll | Results [skull] _pg 155_ |
 | :---: | --- |
 | 1 - 5 | Cave tucked behind a misty waterfall |
 | 6 - 10 | Game trail leads through dense wood |
@@ -2246,8 +2246,8 @@ If you face a cost in your travels, such as when you roll a miss as you [[MV_Und
 | 76 - 78 | Smoking meteorite scar |
 | 79 - 81 | Stinking, sulfurous pit |
 | 82 - 84 | Titanic machine |
-| 85 - 89 | Foreboding ▶Cave; pg 204 |
-| 90 - 94 | Grounded ▶Shipwreck; pg 198 |
+| 85 - 89 | Foreboding ▶[[#^Cave-Oracles\|Cave]]; _pg 204_ |
+| 90 - 94 | Grounded ▶[[#^Shipwreck-Oracles\|Shipwreck]]; _pg 198_ |
 | 95 - 100 | Roll twice |
 
 *155 OVERLAND ORACLES*
@@ -2255,7 +2255,7 @@ If you face a cost in your travels, such as when you roll a miss as you [[MV_Und
 ### OVERLAND DETAILS
 This table reveals occurrences on an overland expedition. Possible results include locations, events, sightings, and encounters.
 
-| Roll | Results \| [skull] _pg 161_ |
+| Roll | Results [skull] _pg 161_ |
 | :---: | --- |
 | 1 | A tree trunk bears a crudely carved message |
 | 2 | You reach a vantage point, and catch sight of a beckoning sea |
@@ -2507,14 +2507,14 @@ Use this table when you want inspiration for a trouble during island exploration
 | 85 - 87 | Unstable ground gives way |
 | 88 - 90 | Visibility hindered by smoke, fog, or darkness |
 | 91 - 93 | Wander into or near the lair of a predator |
-| 94 - 96 | ▶[Foul Weather]; _pg 130_ |
-| 97 - 99 | ▶[Action + Theme]; _pg 116 - 117_ |
+| 94 - 96 | ▶[[#FOUL WEATHER\|Foul Weather]]; _pg 130_ |
+| 97 - 99 | ▶[[#ACTION\|Action]] + [[#THEME\|Theme]]; _pg 116-117_ |
 | 100 | Roll twice |
 
 *162 ORACLES*
 
 ## OVERLAND OPPORTUNITY
-Use this table when you want inspiration for a beneficial encounter or event on an overland journey, such as when you roll a strong hit with a match as you [[MV_Undertake an Expedition|Undertake an Expedition (move)]], or if you [[MV_Explore a Waypoint|Explore a Waypoint (move)]] and find an opportunity.
+Use this table when you want inspiration for a beneficial encounter or event on an overland journey, such as when you roll a strong hit with a match as you [[4 - Moves#UNDERTAKE AN EXPEDITION|Undertake an Expedition]], or if you [[4 - Moves#EXPLORE A WAYPOINT|Explore a Waypoint]] and find an opportunity.
 
 
 | Roll | Results |
@@ -2547,7 +2547,7 @@ Use this table when you want inspiration for a beneficial encounter or event on 
 
 *OVERLAND ORACLES 163*
 
-> # SETTLEMENT ORACLES
+> # SETTLEMENT ORACLES ^Settlement-Oracles
 
 ## SETTLEMENT LOCATION
 
@@ -2558,6 +2558,8 @@ Use this table when you want inspiration for a beneficial encounter or event on 
 | 61 - 80 | Inland  |  Within the island interior |
 
 Roll for a location when learning about a distant settlement. If you come upon a settlement in your travels, choose a location appropriate to your surroundings.
+
+## SETTLEMENT SIZE
 
 | Myriads<br>_Central Seas_ | Margins<br>_Outer Seas_ | Reaches<br>_Remote Seas_ | Type | Typical Population |
 |:---:|:---:|:---:| --- | --- |
@@ -2591,7 +2593,7 @@ Use this table to reveal the ambiance and architecture of the settlement. Smalle
 
 ## SETTLEMENT FIRST LOOK
 
-| Roll | Results \| @1-2 \| [skull] _pg 167_ |
+| Roll | Results @1-2 [skull] _pg 167_ |
 | :---: | --- |
 | 1 - 2 | Adorned with colorful banners |
 | 3 - 4 | Among sprawling trees |
@@ -2635,8 +2637,8 @@ Use this table to reveal the ambiance and architecture of the settlement. Smalle
 | 79 - 80 | Under attack |
 | 81 - 82 | Veiled with a haze of mist or smoke |
 | 83 - 84 | Visited by large fleet or caravan |
-| 85 - 90 | Built among a ▶[Ruin]; _pg 212_ |
-| 91 - 100 | ▶[Descriptor] + [Focus]; _pg 118 - 119_
+| 85 - 90 | Built among a ▶[[#^Ruin-Oracles\|Ruin]]; _pg 212_ |
+| 91 - 100 | ▶[[#DESCRIPTOR\|Descriptor]] + ▶[[#FOCUS\|Focus]]; _pg 118–119_ |
 
 *166 ORACLES*
 
@@ -2673,10 +2675,12 @@ Use this table to reveal the ambiance and architecture of the settlement. Smalle
 | 85 - 88 | Surrounded by blighted terrain |
 | 89 - 92 | Swarms of roosting bats |
 | 93 - 96 | Unsettling angles and labyrinthine paths |
-| 97 - 100 | ▶[Cursed Weather]; _pg 131_ |
+| 97 - 100 | ▶[[#[skull] CURSED WEATHER\|Cursed Weather]]; _pg 131_ |
 
 ## SETTLEMENT IDENTITY
-If the settlement’s location or your initial impression doesn’t reveal its identity, check the _Controlling Faction_ table [below]. If this place is inhabited or overseen by a known faction, roll or choose on your [faction influence grid (page 50)]. If it is independent or aligned with an unknown faction, use the _Disposition_ and _Authority_ tables to help envision the reaction to your arrival and the apparent nature of the leadership.
+If the settlement’s location or your initial impression doesn’t reveal its identity, check the _[[#SETTLEMENT CONTROLLING FACTION|Controlling Faction]]_ table below. If this place is inhabited or overseen by a known faction, roll or choose on your [[1 - Adevntures Among the Isles#FACTION INFLUENCE GRID|faction influence grid]] (page 50). If it is independent or aligned with an unknown faction, use the _[[#SETTLEMENT DISPOSITION|Disposition]]_ and _[[#SETTLEMENT AUTHORITY|Authority]]_ tables to help envision the reaction to your arrival and the apparent nature of the leadership.
+
+### SETTLEMENT CONTROLLING FACTION
 
 | Myriads<br>_Central Seas_ | Margins<br>_Outer Seas_ | Reaches<br>_Remote Seas_ | Result |
 |:---:|:---:|:---:| --- |
@@ -2717,7 +2721,6 @@ If the settlement’s location or your initial impression doesn’t reveal its i
 | 76 - 85 | Welcoming |
 | 86 - 95 | Friendly |
 | 96 - 100 | Helpful |
-
 
 *167 SETTLEMENT ORACLES*
 
@@ -2761,7 +2764,7 @@ If the settlement’s location or your initial impression doesn’t reveal its i
 | 87 - 89 | 91 | 90 - 91 | Vices Brothels, drug dens, gambling halls, taverns |
 | 90 - 93 | 92 - 93 | 92 - 93 | Warfare Armies or fleets, command post, forts |
 | 94 - 95 | 94 - 95 | 94 - 95 | Weaponry Cannon foundries, gunsmiths, powder mills |
-| 96 - 100 | 96 - 100 | 96 - 100 | ▶[Action] + [Theme;] _pg 116 - 117_ |
+| 96 - 100 | 96 - 100 | 96 - 100 | ▶[[#ACTION\|Action]] + [[#THEME\|Theme]]; _pg 116-117_ |
 
 Sections of a large city or city-state can contain their own pursuits and industries, and can even span geographies (seafront, inland, or waterside). Revisit this table if you spend time in a place and learn more about its activities.
 
@@ -2789,7 +2792,7 @@ If you roll a Settlement Focus curse, take your result on that table and make no
 
 As you spend time in a settlement, use this table to reveal uncovered aspects and overheard rumors.
 
-| Roll | Results \| [skull] _pg 174_ |
+| Roll | Results [skull] _pg 174_ |
 | :---: | --- |
 | 1 | A valuable nearby resource is uncovered, and the race is on to claim or control it |
 | 2 | A soothsayer warns of a calamitous event in the settlement's future |
@@ -2885,8 +2888,8 @@ As you spend time in a settlement, use this table to reveal uncovered aspects an
 | 92 | An abandoned site marks the remains of a failed industry |
 | 93 | A location or resource is said to have curative properties |
 | 94 | The leaders are puppets for a greater power |
-| 95 - 97 | ▶[Action] + [Theme]; _pg 116 - 117_ |
-| 98 - 100 | ▶[Descriptor] + [Focus]; _pg 118 - 119_ |
+| 95 - 97 | ▶[[#ACTION\|Action]] + [[#THEME\|Theme]]; _pg 116-117_ |
+| 98 - 100 | ▶[[#DESCRIPTOR\|Descriptor]] + ▶[[#FOCUS\|Focus]]; _pg 118–119_ |
 
 *170 ORACLES*
 *171 SETTLEMENT ORACLES*
@@ -3134,13 +3137,13 @@ Optionally, create a compound name for a settlement by taking your result and ad
 
 ## FACTION TYPE
 
-> [skull] On a cursed result, choose one: Make the faction one of _The Cursed_, or keep the result and add _Cursed Faction Aspects_. See [page 74] for cursed tables.
+> [skull] On a cursed result, choose one: Make the faction one of _[[#^The-Cursed|The Cursed]]_, or keep the result and add _[[#[skull] CURSED FACTION ASPECTS|Cursed Faction Aspects]]_. See page 182 for cursed tables.
 
 | Roll | Result | Description |
 | :---: | --- | --- |
-| 1–50 | Society | People who share traditions and a way of life _pg 178–178_ |
-| 51–80 | Organization | People joined in a collective trade, pursuit, or goal _pg 180_ |
-| 81–100 | Empire | People seeking dominion over the isles _pg 181_ |
+| 1–50 | ▶[[#SOCIETY\|Society]] | People who share traditions and a way of life _pg 178–178_ |
+| 51–80 | ▶[[#ORGANIZATION\|Organization]] | People joined in a collective trade, pursuit, or goal _pg 180_ |
+| 81–100 | ▶[[#EMPIRE\|Empire]] | People seeking dominion over the isles _pg 181_ |
 
 ## FACTION INFLUENCE
 
@@ -3198,7 +3201,7 @@ For details on using factions in your campaign, [see page 48]
 ### SOCIETY CHRONICLES
 Use this table to generate a history of notable events that shaped a society. Create a timeline of two or three milestones, envisioning how they led the society to its current place among the isles. The most recent event can help inspire a current situation that creates troubles or opportunities for these people.
 
-| Roll | Result \| @2-3|
+| Roll | Result @2-3|
 | :---: | --- |
 | 1 - 2 | Betrayed by a longtime ally |
 | 3 - 4 | Betrayed by a treacherous leader |
@@ -3339,7 +3342,7 @@ These touchstones represent common aspects of a society—not universal truths. 
 
 *179 FACTION ORACLES*
 
-## oRGANIZATION
+## ORGANIZATION
 
 ### ORGANIZATION TYPE
 
@@ -3509,12 +3512,12 @@ Empires deploy any number of strategies to expand their power and influence. Use
 
 *181 FACTION ORACLES*
 
-> ## THE CURSED
+> ## THE CURSED ^The-Cursed
 
 Cursed factions include people and beings of a strange, supernatural, or dreadful nature, as well as factions dedicated to opposing those entities.
 
 ### CURSED FACTION ROLE
-Use this table to reveal the personas of a cursed faction. For cursed factions that function as an organization, use the _Organization Methods_ or _Organization Secrets_ tables (page 180) for additional details. To reveal a current goal for a cursed faction or its leaders, use the _Cursed Character Goals_ table [(page 193)]. You can also add one or more Cursed Faction Aspects (below).
+Use this table to reveal the personas of a cursed faction. For cursed factions that function as an organization, use the _[[#ORGANIZATION METHODS|Organization Methods]]_ or _[[#ORGANIZATION SECRETS|Organization Secrets]]_ tables (page 180) for additional details. To reveal a current goal for a cursed faction or its leaders, use the _[[#[skull] CURSED CHARACTER GOALS|Cursed Character Goals]]_ table (page 193). You can also add one or more [[#[skull] CURSED FACTION ASPECTS|Cursed Faction Aspects]] (below).
 
 | Roll | Result |
 | :---: | --- |
@@ -3580,24 +3583,24 @@ Use this table to reveal uncanny aspects of a faction or its members.
 Choose a template for a faction name from the options below.
 
 **Society**
-- [Culture]
-- [Culture] [Society Identity]
-- [Culture] [Theme Persona]
+- ▶[[#FACTION NAME CULTURE|Culture]]
+- ▶[[#FACTION NAME CULTURE|Culture]] + ▶[[#FACTION NAME SOCIETY IDENTITY|Society Identity]]
+- ▶[[#FACTION NAME CULTURE|Culture]] + ▶[[#FACTION NAME THEMES|Theme Persona]]
 
 **Organization**
-- [Theme Aspect] [Theme Persona]
-- [Theme Aspect] [Organization Identity]
-- [Organization Identity] of the [Theme Aspect] [Theme Persona]
+- ▶[[#FACTION NAME THEMES|Theme Aspect]] + ▶[[#FACTION NAME THEMES|Theme Persona]]
+- ▶[[#FACTION NAME THEMES|Theme Aspect]] + ▶[[#FACTION NAME ORGANIZATION IDENTITY|Organization Identity]]
+- ▶[[#FACTION NAME ORGANIZATION IDENTITY|Organization Identity]] of the ▶[[#FACTION NAME THEMES|Theme Aspect]] + ▶[[#FACTION NAME THEMES|Theme Persona]]
 
 **Empire**
-- [Empire Identity]
-- [Culture] [Empire Identity]
-- [Empire Identity] of [Culture]
-- [Theme Aspect] [Culture] [Empire Identity]
-- [Theme Aspect] [Empire Identity]
+- ▶[[#FACTION NAME EMPIRE IDENTITY|Empire Identity]]
+- ▶[[#FACTION NAME CULTURE|Culture]] + ▶[[#FACTION NAME EMPIRE IDENTITY|Empire Identity]]
+- ▶[[#FACTION NAME EMPIRE IDENTITY|Empire Identity]] of ▶[[#FACTION NAME CULTURE|Culture]]
+- ▶[[#FACTION NAME THEMES|Theme Aspect]] + ▶[[#FACTION NAME CULTURE|Culture]] + ▶[[#FACTION NAME EMPIRE IDENTITY|Empire Identity]]
+- ▶[[#FACTION NAME THEMES|Theme Aspect]] + ▶[[#FACTION NAME EMPIRE IDENTITY|Empire Identity]]
 
-_Themes: [pages 184–185]_
-_Organization [Identity: page 185]_
+_[[#FACTION NAME THEMES|Themes]]: pages 184–185_
+_[[#FACTION NAME ORGANIZATION IDENTITY|Organization Identity]]: page 185_
 
 ## FACTION NAME: CULTURE
 
@@ -3864,7 +3867,7 @@ _Organization [Identity: page 185]_
 | 81 - 90 | Shattered | Wraiths |
 | 91 - 100 | Undying | Wretches |
 
-Tip: Combine two themes for an evocative organization name. For example, the “Gilded Blades” is a wealthy (_Affluence_) mercenary company (_War_).
+Tip: Combine two themes for an evocative organization name. For example, the “Gilded Blades” is a wealthy (_[[#AFFLUENCE 1-10|Affluence]]_) mercenary company (_[[#WAR 81-90|War]]_).
 
 ## FACTION NAME: ORGANIZATION IDENTITY
 
@@ -4000,26 +4003,26 @@ Envision a character’s background or occupation using the broad categories bel
 
 | Roll | Result |
 | :---: | --- |
-| 1 - 5 | ▶[Academic]; _pg 188_ |
-| 6 - 10 | ▶[Agent]; _pg 188_ |
-| 11 - 15 | ▶[Caregiver]; _pg 188_ |
-| 16 - 20 | ▶[Combatant]; _g 188_ |
-| 21 - 25 | ▶[Devotant]; _pg 188_ |
-| 26 - 30 | ▶[Laborer]; _pg 188_ |
-| 31 - 35 | ▶[Merchant]; _pg 188_ |
-| 36 - 40 | ▶[Mystic]; _pg 188_ |
-| 41 - 45 | ▶[Outcast]; _pg 188_ |
-| 46 - 50 | ▶[Outlander]; _pg 189_ |
-| 51 - 55 | ▶[Outlaw]; _pg 189_ |
-| 56 - 60 | ▶[Performer]; _pg 189_ |
-| 61 - 70 | ▶[Sailor]; _pg 189_ |
-| 71 - 75 | ▶[Scavenger]; _pg 189_ |
-| 76 - 80 | ▶[Statesperson]; _pg 189_ |
-| 81 - 85 | ▶[Tradesperson]; _pg 189_ |
-| 86 - 95 | ▶[Action] + [Theme]; _pg 116 - 117_ |
+| 1 - 5 | ▶[[#ACADEMIC\|Academic]]; _pg 188_ |
+| 6 - 10 | ▶[[#AGENT\|Agent]]; _pg 188_ |
+| 11 - 15 | ▶[[#CAREGIVER\|Caregiver]]; _pg 188_ |
+| 16 - 20 | ▶[[#COMBATANT\|Combatant]]; _g 188_ |
+| 21 - 25 | ▶[[#DEVOTANT\|Devotant]]; _pg 188_ |
+| 26 - 30 | ▶[[#LABORER\|Laborer]]; _pg 188_ |
+| 31 - 35 | ▶[[#MERCHANT\|Merchant]]; _pg 188_ |
+| 36 - 40 | ▶[[#MYSTIC\|Mystic]]; _pg 188_ |
+| 41 - 45 | ▶[[#OUTCAST\|Outcast]]; _pg 188_ |
+| 46 - 50 | ▶[[#OUTLANDER\|Outlander]]; _pg 189_ |
+| 51 - 55 | ▶[[#OUTLAW\|Outlaw]]; _pg 189_ |
+| 56 - 60 | ▶[[#PERFORMER\|Performer]]; _pg 189_ |
+| 61 - 70 | ▶[[#SAILOR\|Sailor]]; _pg 189_ |
+| 71 - 75 | ▶[[#SCAVENGER\|Scavenger]]; _pg 189_ |
+| 76 - 80 | ▶[[#STATESPERSON\|Statesperson]]; _pg 189_ |
+| 81 - 85 | ▶[[#TRADESPERSON\|Tradesperson]]; _pg 189_ |
+| 86 - 95 | ▶[[#ACTION\|Action]] + [[#THEME\|Theme]]; _pg 116-117_ |
 | 96 - 100 | Roll twice |
 
-When encountering a character, focus on what you learn or perceive as a first impression using tables such as _Character First Look_ and _Character Disposition_. Then envision or generate additional details over time.
+When encountering a character, focus on what you learn or perceive as a first impression using tables such as _[[#CHARACTER FIRST LOOK|Character First Look]]_ and _[[#CHARACTER DISPOSITION|Character Disposition]]_. Then envision or generate additional details over time.
 
 *187 CHARACTER ORACLES*
 
@@ -4109,11 +4112,16 @@ When encountering a character, focus on what you learn or perceive as a first im
 
 | Roll | Result |
 | :---: | --- |
-| 1 - 10 | Apostate 51 - 60 | Hermit |
-| 11 - 20 | Castaway 61 - 70 | Orphan |
-| 21 - 30 | Deserter / Mutineer 71 - 80 | Refugee |
-| 31 - 40 | Exile 81 - 90 | Urchin |
-| 41 - 50 | Fugitive 91 - 100 | Vagabond |
+| 1 - 10 | Apostate |
+| 11 - 20 | Castaway |
+| 21 - 30 | Deserter / Mutineer |
+| 31 - 40 | Exile |
+| 41 - 50 | Fugitive |
+| 51 - 60 | Hermit |
+| 61 - 70 | Orphan |
+| 71 - 80 | Refugee | 
+| 81 - 90 | Urchin |
+| 91 - 100 | Vagabond |
 
 *188 ORACLES*
 
@@ -4212,7 +4220,7 @@ When encountering a character, focus on what you learn or perceive as a first im
 ## TRADEMARK ACCESSORIES
 This table includes conspicuous gear, adornment, and clothing. Use it to help envision the look of a notable character, particularly one who is a seafarer or adventurer. To arm them with a favorite weapon, check the table on the next page.
 
-| Roll | Result \| @1-2 |
+| Roll | Result @1-2 |
 | :---: | --- |
 | 1 - 2 | Animal claw necklace |
 | 3 - 4 | Array of colorful sashes |
@@ -4263,13 +4271,13 @@ This table includes conspicuous gear, adornment, and clothing. Use it to help en
 | 93 - 94 | Tailcoat with gold trim and epaulets |
 | 95 - 96 | Tricorn hat with holes from near misses |
 | 97 - 98 | Wooden religious medallion |
-| 99 - 100 | ▶[Descriptor] + [Focus] |
+| 99 - 100 | ▶[[#DESCRIPTOR\|Descriptor]] + ▶[[#FOCUS\|Focus]]; _pg 118–119_ |
 
 *190 ORACLES*
 
 ## TRADEMARK WEAPONS
 
-| Roll | Result \| [skull] _below_ |
+| Roll | Result [skull] _below_ |
 | :---: | --- |
 | 1 - 3 | Barbed gaff hook |
 | 4 - 6 | Battle-worn boarding axe |
@@ -4335,14 +4343,14 @@ If you roll a Trademark Weapon curse, take your result and give that weapon a cu
 | 96 - 100 | Wreathed in smoke and ash |
 
 > ## CHARACTER TOKENS
-> Optionally, give an important or reoccurring character an item of personal significance. Check the _Tokens_ table on [page 223] for inspiration. These objects would be kept on their person or among their belongings—perhaps even locked away as a closely-held secret.
+> Optionally, give an important or reoccurring character an item of personal significance. Check the _[[#TOKENS|Tokens]]_ table on page 223 for inspiration. These objects would be kept on their person or among their belongings—perhaps even locked away as a closely-held secret.
 
 *191 CHARACTER ORACLES*
 
 ## CHARACTER DETAILS
 As you interact with a person to gain a deeper understanding of their nature and personality, roll on this table to reveal new characteristics. Feel free to ignore, reroll, or adjust contradictions. Or envision how those contradictions add interesting complexity to the character.
 
-| Roll | Result \| @1-2 \| [skull] below |
+| Roll | Result @1-2 [skull] below |
 | :---: | --- |
 | 1 | Adventurous |
 | 2 | Afflicted |
@@ -4470,7 +4478,7 @@ As you interact with a person to gain a deeper understanding of their nature and
 
 ## CHARACTER GOALS
 
-| Roll | Result \| @12- \| [skull] _below_ |
+| Roll | Result @1-2 [skull] _below_ |
 | :---: | --- |
 | 1 - 2 | Acquire knowledge or learning |
 | 3 - 4 | Acquire territory or dominion |
@@ -4519,7 +4527,7 @@ As you interact with a person to gain a deeper understanding of their nature and
 | 89 - 90 | Steal a valuable object |
 | 91 - 92 | Travel to a location |
 | 93 - 94 | Uphold or enforce laws |
-| 95 - 100 | ▶[Action] + [Theme] |
+| 95 - 100 | ▶[[#ACTION\|Action]] + [[#THEME\|Theme]]; _pg 116-117_ |
 
 ## [skull] CURSED CHARACTER GOALS
 
@@ -4554,7 +4562,7 @@ This table provides pairs of given and family names. When choosing or rolling fo
 
 This table also includes monikers, one to each row. Not all characters have monikers, but sailors are often given a nickname by their shipmates, or adopt one of their own. Monikers can be used as a stand-alone name (for example, “Redbeard” or “Stormcrow”) or paired with a given name or family name (“Crimson Jack” or “Hardtack Hobbs”). Roll or select an appropriate moniker as you like.
 
-If you are revealing a moniker for a character with a dreadful, ill-fated, mechanical, or eldritch aspect, use the _Cursed Moniker_ table on [page 197].
+If you are revealing a moniker for a character with a dreadful, ill-fated, mechanical, or eldritch aspect, use the _[[#[skull] CURSED MONKIER|Cursed Moniker]]_ table on page 197.
 
 | Roll | Given Name | Family Name | Given Name | Family Name | Moniker<br>[skull] _pg 197_ |
 | :---: | --- | --- | --- | --- | --- |
@@ -4664,16 +4672,16 @@ If you are revealing a moniker for a character with a dreadful, ill-fated, mecha
 *196 ORACLES*
 
 ## [skull] CURSED MONKIER
-Use these tables to reveal an epitaph for a dreadful, eldritch, ill-fated, or mechanical character. For example, a pirate captain who adopts a much-feared identity would have a _Dreadful Persona_. A wretched, outcast mariner would have an _Ill-Fated Nature_. Use the result alone, combine with a name, or pair results from two _Cursed Moniker_ categories.
+Use these tables to reveal an epitaph for a dreadful, eldritch, ill-fated, or mechanical character. For example, a pirate captain who adopts a much-feared identity would have a _[[#DREADFUL PERSONA|Dreadful Persona]]_. A wretched, outcast mariner would have an _[[#ILL-FATED NATURE|Ill-Fated Nature]]_. Use the result alone, combine with a name, or pair results from two _Cursed Moniker_ categories.
 
 ### MONIKER CATEGORIES
 
 | Roll | Result |
 | :---: | --- |
-| 1 - 40 | ▶[Dreadful Persona] |
-| 41 - 60 | ▶[Eldritch Powers] |
-| 61 - 90 | ▶[Ill-Fated Nature] |
-| 91 - 100 | ▶[Mechanical Form] |
+| 1 - 40 | ▶[[#DREADFUL PERSONA\|Dreadful Persona]] |
+| 41 - 60 | ▶[[#ELDRITCH POWERS\|Eldritch Powers]] |
+| 61 - 90 | ▶[[#ILL-FATED NATURE\|Ill-Fated Nature]] |
+| 91 - 100 | ▶[[#MECHANICAL FORM\|Mechanical Form]] |
 
 ### DREADFUL PERSONA
 
@@ -4770,7 +4778,7 @@ Use these tables to reveal an epitaph for a dreadful, eldritch, ill-fated, or me
 | 91 - 95 | Twice-drowned |
 | 96 - 100 | Wither |
 
-### MECHANICAL NATURE
+### MECHANICAL FORM
 
 | Roll | Result |
 | :---: | --- |
@@ -4794,6 +4802,7 @@ Use these tables to reveal an epitaph for a dreadful, eldritch, ill-fated, or me
 *197 CHARACTER ORACLES*
 
 > # SHIPWRECK ORACLES ^Shipwreck-Oracles
+
 ## SHIPWRECK LOCATION
 Shipwrecks are monuments to lost souls and forsaken quests. When learning about a distant shipwreck, use the table below to reveal where it met its sad fate. If you come upon a wreck in your travels, pick a location as appropriate to your surroundings.
 
@@ -4806,7 +4815,7 @@ Shipwrecks are monuments to lost souls and forsaken quests. When learning about 
 | 26 - 65 | **SHORE** | Where land meets the sea |
 | 86 - 98 | **RIVER** | Along an inland waterway |
 
-Use the tables on the next page to reveal the state of the wreck, which can help frame the challenges of accessing or exploring the site. See [page 201] for suggested gameplay procedures when searching a shipwreck.
+Use the tables on the next page to reveal the state of the wreck, which can help frame the challenges of accessing or exploring the site. [[#SUMMARY EXPLORING A SHIPWRECK|See page 201]] for suggested gameplay procedures when searching a shipwreck.
 
 *198 ORACLES*
 
@@ -4888,8 +4897,8 @@ Use this table to reveal the characteristics of the wreck and its surroundings�
 | 81 - 82 | Under construction or repair |
 | 83 - 86 | Unstable or sinking |
 | 87 - 88 | Unusual or unknown type of ship |
-| 89 - 94 | Scattered ▶[Cargo] |
-| 95 - 100 | ▶[Descriptor] + [Focus] |
+| 89 - 94 | Scattered ▶[[#CARGO\|Cargo]] _pg 139_ |
+| 95 - 100 | ▶[[#DESCRIPTOR\|Descriptor]] + ▶[[#FOCUS\|Focus]]; _pg 118–119_ |
 
 ## [skull] CURSED SHIPWRECK FIRST LOOK
 
@@ -4930,28 +4939,28 @@ Use this table to reveal the characteristics of the wreck and its surroundings�
 Rather than detailing every space within a wreck, focus on the key moments of what you discover and what threats or obstacles you must overcome.
 
 ### MAKING PREPARATORY MOVES
-The nature of a wreck might suggest preparatory actions. For example, you might [[MV_Face Danger|Face Danger (move)]] to climb to a wreck that is precariously perched atop a rocky islet, or to safely navigate the interior of a flooded wreck.
+The nature of a wreck might suggest preparatory actions. For example, you might [[4 - MovesFACE DANGER|Face Danger]] to climb to a wreck that is precariously perched atop a rocky islet, or to safely navigate the interior of a flooded wreck.
 
 ### EXPLORING A WRECK
-If you divert to search a shipwreck in the midst of an expedition, make the [[MV_Explore a Waypoint|Explore a Waypoint (move)]]. Per the move, a strong hit is an opportunity, a weak hit is an opportunity bound up with a peril, and a miss is an immediate hardship or threat. Use the _Shipwreck Opportunity_ [(page 203)] and _Shipwreck Peril_ [(page 203)] tables to help envision those outcomes.
+If you divert to search a shipwreck in the midst of an expedition, make the [[4 - Moves#EXPLORE A WAYPOINT|Explore a Waypoint]]. Per the move, a strong hit is an opportunity, a weak hit is an opportunity bound up with a peril, and a miss is an immediate hardship or threat. Use the _[[#SHIPWRECK OPPORTUNITY|Shipwreck Opportunity]]_ (page 203) and _[[#SHIPWRECK PERIL|Shipwreck Peril]]_ (page 203) tables to help envision those outcomes.
 
-A strong hit with a match or a miss with a match as you [[MV_Explore a Waypoint|Explore a Waypoint (move)]] can trigger the [[MV_Make a Discovery|Make a Discovery (move)]] or [[MV_Confront Chaos|Confront Chaos (move)]], respectively. Use the tables within those moves to envision what you find. These aredramatic, story-changing moments.
+A strong hit with a match or a miss with a match as you [[4 - Moves#EXPLORE A WAYPOINT|Explore a Waypoint]] can trigger the [[4 - Moves#MAKE A DISCOVERY|Make a Discovery]] or [[4 - Moves#CONFRONT CHAOS|Confront Chaos]], respectively. Use the tables within those moves to envision what you find. These aredramatic, story-changing moments.
 
 ### INVESTIGATING A WRECK
-If you investigate a shipwreck for clues related to a quest, make the [[MV_Gather Information|Gather Information (move)]]. Use the outcome of the move to help guide the nature of what you uncover—whether that discovery is favorable or unfavorable. For inspiration, use the _Story Clue_ table [(page 231)].
+If you investigate a shipwreck for clues related to a quest, make the [[4 - Moves#GATHER INFORMATION|Gather Information]]. Use the outcome of the move to help guide the nature of what you uncover—whether that discovery is favorable or unfavorable. For inspiration, use the _[[#STORY CLUE|Story Clue]]_ table (page 231).
 
 ### SCAVENGING A WRECK
 If you seek to scavenge a shipwreck, make the Resupply move. On a strong hit, you are successful. A strong hit with a match might offer an opportunity (in addition to the supplies), while a weak hit or miss can reveal a peril.
 
 ### MORE DETAILS
-Use the _Shipwreck Details_ table [(page 202)] to reveal other aspects of the site.
+Use the _[[#SHIPWRECK DETAILS|Shipwreck Details]]_ table (page 202) to reveal other aspects of the site.
 
 *201 SHIPWRECK ORACLES*
 
 ## SHIPWRECK DETAILS
-Use this table to reveal details of a wreck. Roll once or twice when searching a small ship, and up to three times when surveying a large vessel. These details are revealed in the context of another move—such as [[MV_Explore a Waypoint|Explore a Waypoint (move)]] or [[MV_Gather Information|Gather Information (move)]]—but might prompt additional actions or investigations. See [page 201] for details on searching a wreck.
+Use this table to reveal details of a wreck. Roll once or twice when searching a small ship, and up to three times when surveying a large vessel. These details are revealed in the context of another move—such as [[4 - Moves#EXPLORE A WAYPOINT|Explore a Waypoint]] or [[4 - Moves#GATHER INFORMATION|Gather Information]]—but might prompt additional actions or investigations. [[#SUMMARY EXPLORING A SHIPWRECK|See page 201]] for details on searching a wreck.
 
-| Roll | Result \| @1-3 \| [skull] _below_ |
+| Roll | Result @1-3 [skull] _below_ |
 | :---: | --- |
 | 1 - 3 | Abandoned pet or mascot |
 | 4 - 6 | Ad hoc shrine or memorial |
@@ -4981,8 +4990,8 @@ Use this table to reveal details of a wreck. Roll once or twice when searching a
 | 76 - 78 | Sounds of habitation |
 | 79 - 81 | Stranded or trapped survivor |
 | 82 - 84 | Untouched compartment |
-| 85 - 92 | Personal memento (▶[Token]) |
-| 93 - 100 | ▶[Descriptor] + [Focus] |
+| 85 - 92 | Personal memento (▶[[#TOKENS\|Token]]); _pg 223_ |
+| 93 - 100 | ▶[[#DESCRIPTOR\|Descriptor]] + ▶[[#FOCUS\|Focus]]; _pg 118–119_ |
 
 ## [skull] CURSED SHIPWRECK DETAILS
 
@@ -5015,9 +5024,9 @@ Use this table to reveal details of a wreck. Roll once or twice when searching a
 | 79 - 82 | Unnaturally pristine compartment |
 | 83 - 84 | Unnerving eldritch glyphs |
 | 85 - 86 | Victims entombed in ship structure |
-| 87 - 88 | Onset of ▶[Cursed Weather] |
-| 89 - 92 | ▶[Cursed Token] |
-| 93 - 100 | ▶[Cursed Cargo] |
+| 87 - 88 | Onset of ▶[[#[skull] CURSED WEATHER\|Cursed Weather]]; _pg 131_ |
+| 89 - 92 | ▶[[#^Cursed-Tokens\|Cursed Token]]; _pg 225_ |
+| 93 - 100 | ▶[[#CURSED CARGO\|Cursed Cargo]]; _pg 139_ |
 
 *202 ORACLES*
 
@@ -5054,10 +5063,10 @@ Use this table to reveal details of a wreck. Roll once or twice when searching a
 | 26 - 40 | Intriguing map or chart |
 | 41 - 55 | Ship's log with valuable information |
 | 56 - 65 | Explorer or survivor with a tale to tell |
-| 66 - 85 | Intact ▶[Cargo] |
-| 86 - 96 | ▶[Treasure] (small repository) |
-| 97 - 99 | ▶[Treasure] (medium repository) |
-| 100 | ▶[Treasure] (large repository) |
+| 66 - 85 | Intact ▶[[#CARGO\|Cargo]]; _pg 139_ |
+| 86 - 96 | ▶[[#TREASURE VALUE\|Treasure]]; _pg 221_ (small repository) |
+| 97 - 99 | ▶[[#TREASURE VALUE\|Treasure]]; _pg 221_  (medium repository) |
+| 100 | ▶[[#TREASURE VALUE\|Treasure]]; _pg 221_  (large repository) |
 
 *203 SHIPWRECK ORACLES*
 
@@ -5068,8 +5077,8 @@ When learning about a distant cave, use the table below to reveal its location. 
 
 | Roll | Result | Description |
 | :--- :| --- | --- |
-| 1 - 60 | **SEA CAVE** (_[pg 208]_) | Caves of watery passages; carved by the tides |
-| 61 - 100 | **INLAND CAVE** (_[pg 210]_) | Caves of echoing stone; plunging deep into the earth |
+| 1 - 60 | **SEA CAVE** (_[[#^Sea-Cave-Details\|pg 208]]_) | Caves of watery passages; carved by the tides |
+| 61 - 100 | **INLAND CAVE** (_[[#^Inland-Cave-Details\|pg 210]]_) | Caves of echoing stone; plunging deep into the earth |
 
 ## CAVE SCALE
 
@@ -5085,7 +5094,7 @@ When learning about a distant cave, use the table below to reveal its location. 
 
 ## CAVE THREASHOLD
 
-| Roll | Result \| @1-2 \| [skull] _below_ |
+| Roll | Result @1-2 [skull] _below_ |
 | :---: | --- |
 | 1 - 6 | Archway of carved stone |
 | 7 - 12 | Barricaded or blocked |
@@ -5102,7 +5111,7 @@ When learning about a distant cave, use the table below to reveal its location. 
 | 76 - 81 | Tight squeeze |
 | 82 - 88 | Vertical shaft |
 | 89 - 94 | Well-used path |
-| 95 - 100 | ▶[Descriptor] + [Focus] |
+| 95 - 100 | ▶[[#DESCRIPTOR\|Descriptor]] + ▶[[#FOCUS\|Focus]]; _pg 118–119_ |
 
 ## [skull] CURSED CAVE THREASHOLD
 
@@ -5128,21 +5137,21 @@ When learning about a distant cave, use the table below to reveal its location. 
 ## SUMMARY: EXPLORING A CAVE
 Use the exploration moves ([page 242]) when you delve a notable cave and want to give it focus in your story.
 
-In the twisting waterways of a sea cave ([pages 208–209]), you likely travel by boat through a world of tide, rock, and shadow. You may be forced to portage over shallows and high ground, or even abandon your boat as you struggle through tight spaces or desperately navigate completely flooded tunnels.
+In the twisting waterways of a sea cave ([[#^Sea-Cave-Details|pages 208–209]]), you likely travel by boat through a world of tide, rock, and shadow. You may be forced to portage over shallows and high ground, or even abandon your boat as you struggle through tight spaces or desperately navigate completely flooded tunnels.
 
-In an inland cave ([pages 210–211]), you follow labyrinthine paths along claustrophobic tunnels and through cavernous chambers. Envision the oppressive weight of the stone around you, the impenetrable darkness, the unnerving echoes. 
+In an inland cave ([[#^Inland-Cave-Details|pages 210–211]]), you follow labyrinthine paths along claustrophobic tunnels and through cavernous chambers. Envision the oppressive weight of the stone around you, the impenetrable darkness, the unnerving echoes. 
 
 Use the _Features_ table to inspire the details of a waypoint, the _Peril_ table when you face a cost in your travels, and the _Opportunity_ table if you encounter good fortune. But remember these tables are only a complement to your own storytelling choices.
 
 ### LURKING THREATS
-Time is your enemy within a cave. To emphasize the growing tension of underground expeditions, add a tension clock for a lurking threat. When you suffer a cost through failure, delay, or inaction, you can advance the clock to show the threat drawing closer. Learn more about tension clocks on [page 238 of the _Starforged_ rulebook].
+Time is your enemy within a cave. To emphasize the growing tension of underground expeditions, add a tension clock for a lurking threat. When you suffer a cost through failure, delay, or inaction, you can advance the clock to show the threat drawing closer. Learn more about tension clocks on [[GID_Clocks_Tension|page 238]] of the _Starforged_ rulebook].
 
 The table on the next page includes inspiration for lurking threats, including what signs you encounter as the tension clock advances, and what occurs when the clock fills.
 
 ### REACHING THE HEART
 The heart of a cave is the epicenter of an underground domain. If you are on an expedition without a specific mission, the heart can serve as your destination. If you are seeking to make progress in a quest, what lies at the heart gives context to the final challenges or opportunities you uncover when the expedition is done.
 
-When you [[MV_Finish an Expedition|Finish an Expedition (move)]], envision what lies at the cave’s heart, or use the table included with each cave type for inspiration. Once you reach a cave’s heart and resolve the expedition, you can [[MV_Set a Course|Set a Course (move)]] to shortcut your exit.
+When you [[4 - Moves#FINISH AN EXPEDITION|Finish An Expedition]], envision what lies at the cave’s heart, or use the table included with each cave type for inspiration. Once you reach a cave’s heart and resolve the expedition, you can [[4 - Moves#SET A COURSE|Set a Course]] to shortcut your exit.
 
 *206 ORACLES*
 
@@ -5172,11 +5181,11 @@ When you [[MV_Finish an Expedition|Finish an Expedition (move)]], envision what 
 
 *207 CAVE ORACLES*
 
-> ## SEA CAVE DETAILS
+> ## SEA CAVE DETAILS ^Sea-Cave-Details
 
 ### SEA CAVE FEATURES
 
-| Roll | Result \| @1-2 \| [skull] _pg 209_ |
+| Roll | Result @1-2 [skull] _pg 209_ |
 | :---: | --- |
 | 1 | Abandoned boat |
 | 2 | Abandoned waterside camp |
@@ -5243,9 +5252,9 @@ When you [[MV_Finish an Expedition|Finish an Expedition (move)]], envision what 
 | 86 - 87 | Tight squeeze through narrowing tunnel |
 | 88 - 89 | Waterlogged corpse |
 | 90 - 91 | Wrecked or sunken boat |
-| 92 - 93 | Corpse clutching a ▶[Token] |
-| 94 - 95 | Connection to an ▶[Inland Cave] |
-| 96 - 100 | ▶[Descriptor] + [Focus] |
+| 92 - 93 | Corpse clutching a ▶[[#TOKENS\|Token]]; _pg 223_ |
+| 94 - 95 | Connection to an ▶[[#^Inland-Cave-Details\|Inland Cave]]; _pg 210_ |
+| 96 - 100 | ▶[[#DESCRIPTOR\|Descriptor]] + ▶[[#FOCUS\|Focus]]; _pg 118–119_ |
 
 ### [skull] SEA CAVE CURSED FEATURES
 
@@ -5296,7 +5305,7 @@ When you [[MV_Finish an Expedition|Finish an Expedition (move)]], envision what 
 | 80 - 82 | Trap or alarm |
 | 83 - 85 | Unfriendly explorers |
 | 86 - 88 | Venomous creature |
-| 89 - 94 | ▶[Action] + [Theme] |
+| 89 - 94 | ▶[[#ACTION\|Action]] + [[#THEME\|Theme]]; _pg 116-117_ |
 | 95 - 100 | Roll twice |
 
 ### SEA CAVE OPPORTUNITY
@@ -5310,17 +5319,17 @@ When you [[MV_Finish an Expedition|Finish an Expedition (move)]], envision what 
 | 41 - 50 | Helpful shortcut or detour |
 | 51 - 60 | Safe refuge |
 | 61 - 70 | Useful equipment or supplies |
-| 71 - 80 | Washed up or lost ▶[Cargo] |
-| 81 - 90 | ▶[Treasure] (small repository) |
-| 91 - 100 | ▶[Treasure] (medium repository) |
+| 71 - 80 | Washed up or lost ▶[[#CARGO\|Cargo]]; _pg 139_ |
+| 81 - 90 | ▶[[#TREASURE VALUE\|Treasure]]; _pg 221_ (small repository) |
+| 91 - 100 | ▶[[#TREASURE VALUE\|Treasure]]; _pg 221_ (medium repository) |
 
 *209 CAVE ORACLES*
 
-> ## INLAND CAVE DETAILS
+> ## INLAND CAVE DETAILS ^Inland-Cave-Details
 
 ### INLAND CAVE FEATURE
 
-| Roll | Result \| @1-2 \| [skull] _pg 211_ |
+| Roll | Result @1-2 [skull] _pg 211_ |
 | :---: | --- |
 | 1 | Abandoned camp |
 | 2 | Abandoned mineworks |
@@ -5388,8 +5397,8 @@ When you [[MV_Finish an Expedition|Finish an Expedition (move)]], envision what 
 | 88 - 89 | Underground lake |
 | 90 - 91 | Underground river |
 | 92 - 93 | Vertical chimney leading upward |
-| 94 - 95 | Corpse clutching a ▶[Token] |
-| 96 - 100 | ▶[Descriptor] + [Focus] |
+| 94 - 95 | Corpse clutching a ▶[[#TOKENS\|Token]]; _pg 223_ |
+| 96 - 100 | ▶[[#DESCRIPTOR\|Descriptor]] + ▶[[#FOCUS\|Focus]]; _pg 118–119_ |
 
 *210 ORACLES*
 
@@ -5442,7 +5451,7 @@ When you [[MV_Finish an Expedition|Finish an Expedition (move)]], envision what 
 | 79 - 82 | Treacherous footing |
 | 83 - 85 | Unfriendly explorers |
 | 86 - 88 | Venomous creature |
-| 89 - 94 | ▶[Action] + [Theme] |
+| 89 - 94 | ▶[[#ACTION\|Action]] + [[#THEME\|Theme]]; _pg 116-117_ |
 | 95 - 100 | Roll twice |
 
 ### INLAND CAVE OPPORTUNIY
@@ -5457,8 +5466,8 @@ When you [[MV_Finish an Expedition|Finish an Expedition (move)]], envision what 
 | 51 - 60 | Rare resource |
 | 61 - 70 | Safe refuge |
 | 71 - 80 | Useful equipment or supplies |
-| 81 - 90 | ▶[Treasure] (small repository) |
-| 91 - 100 | ▶[Treasure] (medium repository) |
+| 81 - 90 | ▶[[#TREASURE VALUE\|Treasure]]; _pg 221_ (small repository) |
+| 91 - 100 | ▶[[#TREASURE VALUE\|Treasure]]; _pg 221_ (medium repository) |
 
 *211 CAVE ORACLES*
 
@@ -5509,7 +5518,7 @@ See [page 215] for guidance on conducting expeditions within ruins.
 
 ## RUIN FIRST LOOK
 
-| Roll | Result \| @1-2 \| [skull] _below_ |
+| Roll | Result @1-2 [skull] _below_ |
 | :---: | --- |
 | 1 - 2 | Adorned with faded colors |
 | 3 - 4 | Adorned with murals |
@@ -5552,7 +5561,7 @@ See [page 215] for guidance on conducting expeditions within ruins.
 | 88 - 90 | Sunken or flooded |
 | 91 - 92 | Surrounded by destruction |
 | 93 - 95 | Surrounded by rugged or dense terrain |
-| 96 - 100 | ▶[Descriptor] + [Focus] |
+| 96 - 100 | ▶[[#DESCRIPTOR\|Descriptor]] + ▶[[#FOCUS\|Focus]]; _pg 118–119_ |
 
 ## [skull] CURSED RUIN FIRST LOOK
 
@@ -5587,26 +5596,26 @@ See [page 215] for guidance on conducting expeditions within ruins.
 | 86 - 89 | Visions of this place in its heyday |
 | 90 - 93 | Warded by arcane energies |
 | 94 - 96 | Wreathed in cold and ice |
-| 97 - 100 | ▶[Cursed Weather] |
+| 97 - 100 | ▶[[#[skull] CURSED WEATHER\\|Cursed Weather]]; _pg 131_ |
 
 *214 ORACLES*
 
 ## SUMMARY: EXPLORING A RUIN
-Use the exploration moves [(page 242)] to investigate a notable ruin. If you are diverting from an overland or seafaring expedition to check out a ruin of minor scale, you can [[MV_Explore a Waypoint|Explore a Waypoint (move)]] to resolve the survey with a single move. For a larger ruin, give it a challenge rank as you begin a new expedition. Then, within a ruin, use the _Features_ table to inspire the details of a waypoint, the _Peril_ table when you face a cost, and the _Opportunity_ table if you encounter good fortune.
+Use the [[4 - Moves#^Exploration-Moves|exploration moves]] (page 242) to investigate a notable ruin. If you are diverting from an overland or seafaring expedition to check out a ruin of minor scale, you can [[4 - Moves#EXPLORE A WAYPOINT|Explore a Waypoint]] to resolve the survey with a single move. For a larger ruin, give it a challenge rank as you begin a new expedition. Then, within a ruin, use the _[[#RUIN FEATURES|Features]]_ table to inspire the details of a waypoint, the _[[#RUIN PERIL|Peril]]_ table when you face a cost, and the _[[#RUIN OPPORTUNITY|Opportunity]]_ table if you encounter good fortune.
 
 ### UNCOVERING MYSTERIES WITHIN RUINS
 You do not delve into ruins to loot and defile. Instead, you seek to learn more about the people who once inhabited a site and the fate that befell them. To that end, your progress on an expedition doesn’t just represent the physical spaces you traverse. Marking progress also signifies your deepening understanding of that place’s legacy.
 
 To explore the secrets of a mysterious ruin, follow this procedure.
-- When you first mark progress within a ruin, envision a mystery that reveals itself, a question that prompts further investigation. Check the _Ruin Mystery_ table on [page 216] for inspiration, or simply decide the mystery based on whatever quest or circumstance drew you to this site.
-- After that, as you reach a waypoint and mark progress, you can envision uncovering a cipher—a feature, object, or encounter that delivers a new clue. Use the _Ruin Cipher_ table [(page 216)] for inspiration of what form it takes. For details of the clue itself, [[MV_Ask the Oracle|Ask the Oracle (move)]] yes/no questions, use _Core Oracles_ [(pages 116–119)] for an abstract prompt, or check the _Story Clue_ table [(page 231)]. If the nature of the cipher is complex or inscrutable, such as a puzzle or cryptic message, make appropriate moves to reveal or understand the clue. Envision how the clue fits into the evolving nature of the mystery, while leaving unanswered questions.
-- When you prepare to [[MV_Finish the Scene|Finish the Scene (move)]], consider the nature of the mystery and the clues you have uncovered, and propose a solution. The outcome of the progress roll as you [[MV_Finish the Scene|Finish the Scene (move)]] reveals whether your assumptions are correct, or if you have been led astray.
+- When you first mark progress within a ruin, envision a mystery that reveals itself, a question that prompts further investigation. Check the _[[#RUIN MYSTERY|Ruin Mystery]]_ table on page 216 for inspiration, or simply decide the mystery based on whatever quest or circumstance drew you to this site.
+- After that, as you reach a waypoint and mark progress, you can envision uncovering a cipher—a feature, object, or encounter that delivers a new clue. Use the _[[#RUIN CIPHER|Ruin Cipher]]_ table (page 216) for inspiration of what form it takes. For details of the clue itself, [[4 - Moves#ASK THE ORACLE|Ask the Oracle]] yes/no questions, use _[[#CORE ORACLES|Core Oracles]]_ (pages 116–119) for an abstract prompt, or check the _[[#STORY CLUE|Story Clue]]_ table (page 231). If the nature of the cipher is complex or inscrutable, such as a puzzle or cryptic message, make appropriate moves to reveal or understand the clue. Envision how the clue fits into the evolving nature of the mystery, while leaving unanswered questions.
+- When you prepare to [[4 - Moves#FINISH A SCENE|Finish a Scene]], consider the nature of the mystery and the clues you have uncovered, and propose a solution. The outcome of the progress roll as you [[4 - Moves#FINISH A SCENE|Finish a Scene]] reveals whether your assumptions are correct, or if you have been led astray.
 
 *215 RUIN ORACLES*
 
 ## RUIN MYSTERY
 
-| Roll | Result | Details \| @1-2 \| [skull] _below_ |
+| Roll | Result | Details @1-2 [skull] _below_ |
 | :---: | --- | --- |
 | 1 - 10 | Calamitous downfall | What brought this place to ruin? |
 | 11 - 20 | Cultural legacy | What unique beliefs or customs were practiced here? |
@@ -5634,9 +5643,9 @@ To explore the secrets of a mysterious ruin, follow this procedure.
 | 81 - 90 | Sorcerous nexus | What dangerous arcane powers are harnessed here? |
 | 91 - 100 | Tormented undead | What is the key to putting these souls to rest? |
 
-## RUIN CYPHER
+## RUIN CIPHER
 
-| Roll | Result \| [skull] _adjacent_ |
+| Roll | Result [skull] _adjacent_ |
 | :---: | --- |
 | 1 - 10 | Carved glyphs |
 | 11 - 20 | Hastily written markings |
@@ -5649,7 +5658,7 @@ To explore the secrets of a mysterious ruin, follow this procedure.
 | 81 - 90 | Signs of other explorers or guardians |
 | 91 - 100 | Unusual architecture |
 
-## [skull] CURSED RUIN CYPHER
+## [skull] CURSED RUIN CIPHER
 
 | Roll | Result |
 | :---: | --- |
@@ -5668,7 +5677,7 @@ To explore the secrets of a mysterious ruin, follow this procedure.
 
 ## RUIN FEATURES
 
-| Roll | Result \| @1-2 \| [skull] \| _pg 218_ |
+| Roll | Result @1-2 [skull] \| _pg 218_ |
 | :---: | --- |
 | 1 | Alchemical experiments or supplies |
 | 2 | Amphitheater or arena |
@@ -5762,10 +5771,10 @@ To explore the secrets of a mysterious ruin, follow this procedure.
 | 90 | Vertical shaft or broken stairwell |
 | 91 | Wind whistling through gaps |
 | 92 | Winding staircase |
-| 93 | Abandoned ▶[Token] |
-| 94 | Corpse clutching a ▶[Token] |
-| 95 | Broken wall reveals a ▶[Cave] |
-| 96 - 100 | ▶[Descriptor] + [Focus] |
+| 93 | Abandoned ▶[[#TOKENS\|Token]]; _pg 223_ |
+| 94 | Corpse clutching a ▶[[#TOKENS\|Token]]; _pg 223_ |
+| 95 | Broken wall reveals a ▶[[#^Cave-Oracles\|Cave]]; _pg 204_ |
+| 96 - 100 | ▶[[#DESCRIPTOR\|Descriptor]] + ▶[[#FOCUS\|Focus]]; _pg 118–119_ |
 
 *217 RUIN ORACLES*
 
@@ -5862,7 +5871,7 @@ To explore the secrets of a mysterious ruin, follow this procedure.
 | 87 - 88 | Tempting relic hides a danger |
 | 89 - 90 | Volatile device or artifact |
 | 91 - 94 | Writing or symbols defy understanding |
-| 95 - 97 | ▶[Action] + [Theme] |
+| 95 - 97 | ▶[[#ACTION\|Action]] + [[#THEME\|Theme]]; _pg 116-117_ |
 | 98 - 100 | Roll twice |
 
 ## RUIN OPPORTUNITY
@@ -5888,24 +5897,23 @@ To explore the secrets of a mysterious ruin, follow this procedure.
 | 81 - 85 | Source of fresh water |
 | 86 - 90 | Useful gear left by another explorer |
 | 91 - 95 | Useful or interesting artifact or device |
-| 96 - 100 | ▶[Treasure] |
+| 96 - 100 | ▶[[#TREASURE VALUE\|Treasure]]; _pg 221_ |
 
 *219 RUIN ORACLES*
 
 > # TREASURE ORACLES ^Treasure-Oracles
 
 ## TREASURE LOCATION
-If you’re not sure of a treasure’s location—such as when chasing down a rumored
-treasure or gathering details on a treasure-related quest—check this table.
+If you’re not sure of a treasure’s location—such as when chasing down a rumored treasure or gathering details on a treasure-related quest—check this table.
 
-| Roll | Result \| [skull] _below_ |
+| Roll | Result [skull] _below_ |
 | :---: | --- |
-| 1 - 25 | Borne on a ▶[Ship] |
-| 26 - 50 | Lost with a ▶[Shipwreck] |
-| 51 - 70 | Hidden on an ▶[Island] |
-| 71 - 85 | Sheltered in a ▶[Cave] |
-| 86 - 95 | Secured in a ▶[Settlement] |
-| 96 - 100 | Preserved in a ▶[Ruin] |
+| 1 - 25 | Borne on a ▶[[#^Ship-Oracles\|Ship]]; _pg 132_ |
+| 26 - 50 | Lost with a ▶[[#^Shipwreck-Oracles\|Shipwreck]]; _pg 198_ |
+| 51 - 70 | Hidden on an ▶[[#ISLAND ORACLES\|Island]]; _pg 142_ |
+| 71 - 85 | Sheltered in a ▶[[#^Cave-Oracles\|Cave]]; _pg 204_ |
+| 86 - 95 | Secured in a ▶[[#^Settlement-Oracles\|Settlement]]; _pg 164_ |
+| 96 - 100 | Preserved in a ▶[[#^Ruin-Oracles\|Ruin]]; _pg 212_ |
 
 ## [skull] CURSED TREASURE LOCATION
 
@@ -5922,12 +5930,12 @@ treasure or gathering details on a treasure-related quest—check this table.
 | 81 - 90 | Sealed in the bowels of a raging volcano |
 | 91 - 100 | Sunk to the depths of an abyssal trench |
 
-For tips on managing treasure and wealth in your campaign, see [page 28].
+For tips on managing treasure and wealth in your campaign, see [[1 - Adevntures Among the Isles#WEALTH AND TREASURE|page 28]].
 
 *220 ORACLES*
 
 ## TREASURE REPOSITORY
-Choose the scale of the treasure’s repository—small, medium, large, or vast—as appropriate to situation and location. See the examples in the table below. If unsure, roll for the answer. The result helps set the potential _Value_ of the treasure.
+Choose the scale of the treasure’s repository—small, medium, large, or vast—as appropriate to situation and location. See the examples in the table below. If unsure, roll for the answer. The result helps set the potential _[[#TREASURE VALUE|Value]]_ of the treasure.
 
 | Roll | Size | Examples |
 | :---: | --- | --- |
@@ -5945,8 +5953,8 @@ Choose the scale of the treasure’s repository—small, medium, large, or vast�
 
 | Small | Medium | Large | Vast | Result | Details |
 | :---: | :---: | :---: | :---: | --- | --- |
-| 1  - 80 | 1 - 60 | 1 - 30 | 1 - 10 | Trifle | One ▶Precious Item; [pg 223] |
-| 81 - 100 | 61 - 100 | 31 - 98 | 11 - 93 | Stash | Roll the action die and reveal that many ▶Precious Items; [pg 223] |
+| 1  - 80 | 1 - 60 | 1 - 30 | 1 - 10 | Trifle | One ▶[[#PRECIOUS ITEMS\|Precious Items]]; _pg 223_ |
+| 81 - 100 | 61 - 100 | 31 - 98 | 11 - 93 | Stash | Roll the action die and reveal that many ▶[[#PRECIOUS ITEMS\|Precious Items]]; _pg 223_ |
 | -- | -- | 99 - 100 | 94 - 98 | Trove | Bountiful riches |
 | -- | -- | -- | 99 - 100 | Hoard | Immeasurable riches |
 
@@ -5957,7 +5965,7 @@ A trove or hoard contains a vast array of riches. Collecting and transporting a 
 ## TREASURE ASPECTS
 Use this table to reveal characteristics of a treasure or its surroundings. Since the results often involve twists and complications, it is best reserved for notable finds and dramatic situations. Also, keep in mind that an aspect might be outside your character’s immediate viewpoint—if so, make note of it as a future trouble or opportunity.
 
-| Roll | Result \| @1-2 \| [skull] _below_ |
+| Roll | Result @1-2 [skull] _below_ |
 | :---: | --- |
 | 1 - 8 | Bears the mark of a notorious figure |
 | 9 - 16 | Contains a long-lost object or artifact |
@@ -6004,7 +6012,7 @@ Use this table to reveal characteristics of a treasure or its surroundings. Sinc
 *222 ORACLES*
 
 ## PRECIOUS ITEMS
-Roll or select a number of items on this table as set by the treasure’s _Value_ ([page 221]). Each result represents a quantity of that item, such as a strongbox filled with pearls, barrels of aged rum, or a stack of precious metal ingots. To instead reveal a specific item of intrinsic or personal worth, check the _Tokens_ table (below).
+Roll or select a number of items on this table as set by the treasure’s _[[#TREASURE VALUE|Value]]_ (page 221). Each result represents a quantity of that item, such as a strongbox filled with pearls, barrels of aged rum, or a stack of precious metal ingots. To instead reveal a specific item of intrinsic or personal worth, check the _Tokens_ table (below).
 
 | Roll | Result |
 | :---: | --- |
@@ -6030,15 +6038,15 @@ Roll or select a number of items on this table as set by the treasure’s _Value
 | 75 - 76 | Sacred relics |
 | 77 - 80 | Secret documents |
 | 81 - 84 | Unworked gemstones |
-| 85 - 88 | ▶[Descriptor] + [Focus] |
-| 89 - 100 | ▶[Token] |
+| 85 - 88 | ▶[[#DESCRIPTOR\|Descriptor]] + ▶[[#FOCUS\|Focus]]; _pg 118–119_ |
+| 89 - 100 | ▶[[#TOKENS\|Token]]; _pg 223_ |
 
 *223 TREASURE ORACLES*
 
-## tOKENS
+## TOKENS
 A token is an item of personal significance—such as a memento, heirloom, or individual treasure. Use this table when prompted by another table, or to add detail to a character. A token might have intrinsic value, but is often a thing of worth only to its owner. Not all treasures are silver and gold.
 
-| Roll | Result \| [skull] _pg 225_ |
+| Roll | Result [skull] _pg 225_ |
 | :---: | --- |
 | 1 | Ancestral ring with a missing gemstone |
 | 2 | Ancient codex with cryptic secrets |
@@ -6143,7 +6151,7 @@ A token is an item of personal significance—such as a memento, heirloom, or in
 
 *224 ORACLES*
 
-> ## [skull] CURSED TOKENS
+> ## [skull] CURSED TOKENS ^Cursed-Tokens
 
 | Roll | Result |
 | :---: | --- |
@@ -6216,15 +6224,15 @@ Use this table to help answer a question related to the scale, extent, or capabi
 | 86 - 100 | Bewildering | Indestructible | Priceless | Hostile | Epic |
 
 > ## PROMPTS
-> Use this table to choose a structured prompt from among the _Core Oracles_ ([pages 116–119]). Roll on each of the referenced tables and interpret the response as appropriate to the question and situation.
+> Use this table to choose a structured prompt from among the _[[#CORE ORACLES|Core Oracles]]_ (pages 116–119). Roll on each of the referenced tables and interpret the response as appropriate to the question and situation. ^Prompts
 
 | Roll | Result |
 |:---:| --- |
-| 1 - 20 | ▶Action + Theme; [_pg 116, 117_] |
-| 21 - 40 | ▶Action + Focus; [_pg 116, 119_] |
-| 41 - 60 | ▶Descriptor + Theme; [_pg 118, 117_] |
-| 61 - 80 | ▶Descriptor + Focus; [_pg 118, 119_] |
-| 81 - 100 | ▶Action + Descriptor + Focus; [_pg 116, 118, 119_] |
+| 1 - 20 | ▶[[#ACTION\|Action]] + ▶[[#THEME\|Theme]]; _pg 116-117_ |
+| 21 - 40 | ▶[[#ACTION\|Action]] + ▶[[#FOCUS\|Focus]]; _pg 116, 119_ |
+| 41 - 60 | ▶[[#DESCRIPTOR\|Descriptor]] + ▶[[#THEME\|Theme]]; _pg 118, 117_ |
+| 61 - 80 | ▶[[#DESCRIPTOR\|Descriptor]] + ▶[[#FOCUS\|Focus]]; _pg 118–119_ |
+| 81 - 100 | ▶[[#ACTION\|Action]] + ▶[[#DESCRIPTOR\|Descriptor]] + ▶[[#FOCUS\|Focus]]; _pg 116, 118, 119_ |
 
 *226 ORACLES*
 
@@ -6287,7 +6295,7 @@ To generate a name for a local area—a collection of islands and surrounding wa
 *227 MISCELLANEOUS ORACLES*
 
 ## INTERLUDE SCENE
-If you want to explore a character interlude, or are prompted by another table to trigger an interlude at a waypoint, check the table below for inspiration. Then, for more detail on a scene’s focus—such as the nature of a dream or the cause of a dispute—roll on any combination of the _Core Oracles_ ([pages 116–119]) and interpret the response. To learn more about character interludes, see [page 46].
+If you want to explore a character interlude, or are prompted by another table to trigger an interlude at a waypoint, check the table below for inspiration. Then, for more detail on a scene’s focus—such as the nature of a dream or the cause of a dispute—roll on any combination of the _[[#CORE ORACLES\|Core Oracles]]_ (pages 116–119) and interpret the response. To learn more about character interludes, [[1 - Adevntures Among the Isles#INTERLUDES\|see page 46]].
 
 | Roll | Result | Questions to Consider |
 | :---: | --- | --- |
@@ -6324,13 +6332,13 @@ If you want to explore a character interlude, or are prompted by another table t
 
 > The cursed die is not rolled by default on the Interlude Scene table. However, if you’re interested in giving the scene a supernatural atmosphere, add the cursed die to your roll—or just make it happen.
 > 
-> On a cursed result, take your result from the Interlude Scene table and envision how it gains an eerie or mystical mood. But keep it low-key. A subtle ghostly manifestation. A strange but alluring environmental phenomenon. A spooky story told on a fog-shrouded evening.
+> On a cursed result, take your result from the _Interlude Scene_ table and envision how it gains an eerie or mystical mood. But keep it low-key. A subtle ghostly manifestation. A strange but alluring environmental phenomenon. A spooky story told on a fog-shrouded evening.
 
 *228 ORACLES*
 *229 MISCELLANEOUS ORACLES*
 
 ## STORY COMPLICATION
-This oracle will introduce narrative turns, troubles, and revelations. It can be used as an alternative to the [[MV_Pay the Price|Pay the Price (move)]] table when you encounter a negative outcome at a crucial moment. In particular, you might use this table after rolling matched 10s on the challenge dice.
+This oracle will introduce narrative turns, troubles, and revelations. It can be used as an alternative to the [[4 - Moves#PAY THE PRICE|Pay the Price]] table when you encounter a negative outcome at a crucial moment. In particular, you might use this table after rolling matched 10s on the challenge dice.
 
 | Roll | Result |
 | :---: | --- |
@@ -6367,7 +6375,7 @@ This oracle will introduce narrative turns, troubles, and revelations. It can be
 *230 ORACLES*
 
 ## STORY CLUE
-When you [[MV_Gather Information|Gather Information (move)]] to investigate a mystery, you might uncover clues in the form of messages, records, rumors, eyewitness reports, or physical evidence. You can use this oracle to help reveal what this evidence connects to or implicates. Then, use the outcome of the [[MV_Gather Information|Gather Information (move)]] roll—strong hit, weak hit, or miss—to guide whether the clue brings clarity or complications.
+When you [[4 - Moves#GATHER INFORMATION|Gather Information]] to investigate a mystery, you might uncover clues in the form of messages, records, rumors, eyewitness reports, or physical evidence. You can use this oracle to help reveal what this evidence connects to or implicates. Then, use the outcome of the [[4 - Moves#GATHER INFORMATION|Gather Information]] roll—strong hit, weak hit, or miss—to guide whether the clue brings clarity or complications.
 
 | Roll | Result |
 | :---: | --- |
@@ -6401,7 +6409,7 @@ When you [[MV_Gather Information|Gather Information (move)]] to investigate a my
 | 82 - 84 | Suggests a history of similar incidents |
 | 85 - 87 | Suggests a looming event or deadline |
 | 88 - 90 | Suggests an imposter or forgery |
-| 91 - 100 | ▶[Descriptor] + [Focus] |
+| 91 - 100 | ▶[[#DESCRIPTOR\|Descriptor]] + ▶[[#FOCUS\|Focus]]; _pg 118–119_ |
 
 *231 MISCELLANEOUS ORACLES*
 
@@ -6414,7 +6422,7 @@ Use this oracle to help inspire an action for a foe in a fight. When you’re no
 | 4 - 6 | Block a path or cut off an objective |
 | 7 - 9 | Change weapons or tactics |
 | 10 - 12 | Charge recklessly |
-| 13 - 15 | Compel a surrender or concession |
+| 13 - 15 |[[4 - Moves#COMPEL|Compel]]a surrender or concession |
 | 16 - 18 | Corner, trap, or entangle |
 | 19 - 21 | Destroy something or render it useless |
 | 22 - 24 | Force off balance or out of position |
@@ -6447,10 +6455,9 @@ Use this oracle to help inspire an action for a foe in a fight. When you’re no
 *232 ORACLES*
 
 > ## SEA BATTLE FEATURE
-> Use this table to introduce terrain and environment features for a sea
-battle. This can help enliven the battle with obstacles and opportunities.
+> Use this table to introduce terrain and environment features for a sea battle. This can help enliven the battle with obstacles and opportunities. ^Sea-Battle-Feature
 
-| Roll | Result \| @1-2 |
+| Roll | Result @1-2 |
 | --- | --- |
 | 1 - 2 | Adrift mariners |
 | 3 - 6 | Congregating creatures |
@@ -6470,14 +6477,14 @@ battle. This can help enliven the battle with obstacles and opportunities.
 | 73 - 76 | Swirling whirlpool |
 | 77 - 78 | Thickly-packed seaweed |
 | 79 - 84 | Tideswept reef |
-| 85 - 90 | ▶[Foul Weather] |
-| 91 - 96 | ▶[Shipwreck] |
-| 97 - 100 | ▶[Ruin] |
+| 85 - 90 | ▶[[#FOUL WEATHER\|Foul Weather]]; _pg 130_ |
+| 91 - 96 | ▶[[#^Shipwreck-Oracles\|Shipwreck]]; _pg 198_ |
+| 97 - 100 | ▶[[#^Ruin-Oracles\|Ruin]]; _pg 212_  |
 
 ## SHIP DAMAGE
-Use this table to help envision the nature of damage to your ship or impact on your crew. Use this in dramatic situations, such as suffering a miss with a match in a naval fight, or rolling a miss to [[MV_Withstand Damage|Withstand Damage (move)]]. The result will introduce complications and looming catastrophes that must be dealt with.
+Use this table to help envision the nature of damage to your ship or impact on your crew. Use this in dramatic situations, such as suffering a miss with a match in a naval fight, or rolling a miss to [[4 - Moves#WITHSTAND DAMAGE|Withstand Damage]]. The result will introduce complications and looming catastrophes that must be dealt with.
 
-For an initial hit, make the issue bothersome, and roll to learn what aspect of your ship is impacted. Then, if you don’t address the problem or suffer another hard hit, step up the severity. For example, a weakened mast is splintering, or a shaken crew is breaking. You should treat critical damage separately from your ship’s general integrity, requiring the “repair any other component or device” option in the Repair move.
+For an initial hit, make the issue bothersome, and roll to learn what aspect of your ship is impacted. Then, if you don’t address the problem or suffer another hard hit, step up the severity. For example, a weakened mast is splintering, or a shaken crew is breaking. You should treat critical damage separately from your ship’s general integrity, requiring the “repair any other component or device” option in the [[4 - Moves#REPAIR|Repair]] move.
 
 You can also roll on this table to reveal damage on a ship other than your own, such as when boarding a vessel after a fierce battle. If so, let your oracle roll serve double-duty by also indicating the severity. Assume the damage is bothersome on an odd roll, bad on an even roll, and critical if you roll a number divisible by 10 (10, 20, 30…).
 
@@ -6497,3 +6504,5 @@ You can also roll on this table to reveal damage on a ship other than your own, 
 | 96 - 100 | Roll twice; if the same result, step up the severity |  |
 
 *233 MISCELLANEOUS ORACLES*
+
+[[4 - Moves|Next Chapter - Moves]]

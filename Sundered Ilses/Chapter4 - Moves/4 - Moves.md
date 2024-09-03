@@ -4,85 +4,85 @@
 
 |  |  |
 | --- | --- |
-| A-Z MOVES INDEX | 236 |
-| SESSION MOVES | 237 |
-| ADVENTURE MOVES | 238 |
-| QUEST MOVES | 240 |
-| CONNECTION MOVES | 241 |
-| EXPLORATION MOVES | 242 |
-| COMBAT MOVES | 244 |
-| SUFFER MOVES | 246 |
-| RECOVER MOVES | 248 |
-| THRESHOLD MOVES | 250 |
-| LEGACY MOVES | 251 |
-| FATE MOVES | 252 |
-| SCENE CHALLENGES | 254 |
-| QUICK REFERENCE | 255 |
+| A-Z MOVES INDEX | [[#^A-Z-Index\|Page 236]] |
+| SESSION MOVES | [[#^Session-Moves\|Page 237]] |
+| ADVENTURE MOVES | [[#^Adventure-Moves\|Page 238]] |
+| QUEST MOVES | [[#^Quest-Moves\|Page 240]] |
+| CONNECTION MOVES | [[#^Connection-Moves\|Page 241]] |
+| EXPLORATION MOVES | [[#^7fdd15\|Page 242]] |
+| COMBAT MOVES | [[#^Combat-Moves\|Page 244]] |
+| SUFFER MOVES | [[#^Suffer-Moves\|Page 246]] |
+| RECOVER MOVES | [[#^Recover-Moves\|Page 248]] |
+| THRESHOLD MOVES |[[#^Threshold-Moves\|Page 250]]  |
+| LEGACY MOVES | [[#^Legacy-Moves\|Page 251]] |
+| FATE MOVES | [[#^Fate-Moves\|Page 252]] |
+| SCENE CHALLENGES | [[#^Scene-Challenges\|Page 254]] |
+| QUICK REFERENCE | [[#QUICK REFERENCE\|Page 255]] |
 
 *234*
 
-> # A-Z MOVES INDEX
+> # A-Z MOVES INDEX ^A-Z-Index
 
 | Move | Page Reference<br>[anchor] | Page Reference<br>[8point-star] |
 | --- | :---: | :---: |
-| Advance | 251 | 225 |
-| Aid Your Ally | 239 | 152 |
-| Ask the Oracle | 252 | 229 |
-| Battle | 245 | 197 |
-| Begin a Session | 237 | 141 |
-| Change Your Fate | 237 | 143 |
-| Check Your Gear | 239 | 153 |
-| Clash | 244 | 193 |
-| Companion Takes a Hit | 246 | 204 |
-| Compel | 238 | 150 |
-| Confront Chaos | 243 | 177 |
-| Continue a Legacy | 251 | 226 |
-| Develop Your Relationship | 241 | 164 |
-| Earn Experience | 251 | 224 |
-| End a Session | 237 | 145 |
-| Endure Harm | 246 | 200 |
-| Endure Stress | 246 | 202 |
-| Enter the Fray | 244 | 188 |
-| Explore a Waypoint | 242 | 174 |
-| Face Danger | 238 | 147 |
-| Face Death | 250 | 217 |
-| Face Defeat | 245 | 196 |
-| Face Desolation | 250 | 218 |
-| Finish an Expedition | 242 | 178 |
-| Forge a Bond | 241 | 166 |
-| Forsake Your Vow | 240 | 160 |
-| Fulfill Your Vow | 240 | 158 |
-| Gain Ground | 244 | 190 |
-| Gather Information | 238 | 149 |
-| Heal | 248 | 210 |
-| Hearten | 248 | 211 |
-| Lose Momentum | 246 | 199 |
-| Make a Connection | 241 | 163 |
-| Make a Discovery | 243 | 176 |
-| Overcome Destruction | 250 | 220 |
-| Pay the Price | 253 | 232 |
-| Reach a Milestone | 240 | 157 |
-| React Under Fire | 244 | 191 |
-| Repair | 249 | 214 |
-| Resupply | 248 | 212 |
-| Sacrifice Resources | 247 | 205 |
-| Secure an Advantage | 238 | 148 |
-| Set a Course | 242 | 180 |
-| Set a Flag | 237 | 142 |
-| Sojourn | 248 | 209 |
-| Strike | 244 | 192 |
-| Swear an Iron Vow | 240 | 156 |
-| Take a Break | 237 | 144 |
-| Take Decisive Action | 245 | 194 |
-| Test Your Relationship | 241 | 165 |
-| Undertake an Expedition | 242 | 169 |
-| Withstand Damage | 247 | 206 |
+| Advance | [[#ADVANCE\|251]] | 225 |
+| Aid Your Ally | [[#AID YOUR ALLY\|239]] | 152 |
+| Ask the Oracle | [[#ASK THE ORACLE\|252]] | 229 |
+| Battle | [[#BATTLE\|245]] | 197 |
+| Begin a Session | [[#BEGIN A SESSION\|237]] | 141 |
+| Change Your Fate | [[#CHANGE YOUR FATE\|237]] | 143 |
+| Check Your Gear | [[#CHECK YOUR GEAR\|239]] | 153 |
+| Clash | [[#CLASH\|244]] | 193 |
+| Companion Takes a Hit | [[#COMPANION TAKES A HIT\|244]] | 204 |
+| Compel| [[#COMPEL\|238]] | 150 |
+| Confront Chaos | [[#CONFRONT CHAOS\|243]] | 177 |
+| Continue a Legacy | [[#CONTINUE A LEGACY\|251]] | 226 |
+| Develop Your Relationship | [[#DEVELOP YOUR RELATIONSHIP\|241]] | 164 |
+| Earn Experience | [[#EARN EXPERIENCE\|251]] | 224 |
+| End a Session | [[#END A SESSION\|237]] | 145 |
+| Endure Harm | [[#ENDURE HARM\|246]] | 200 |
+| Endure Stress | [[#ENDURE STRESS\|246]] | 202 |
+| Enter the Fray | [[#ENTER THE FRAY\|244]] | 188 |
+| Explore a Waypoint | [[#EXPLORE A WAYPOINT\|242]] | 174 |
+| Face Danger | [[#FACE DANGER\|238]] | 147 |
+| Face Death | [[#FACE DEATH\|250]] | 217 |
+| Face Defeat | [[#FACE DEFEAT\|245]] | 196 |
+| Face Desolation | [[#FACE DESOLATION\|250]] | 218 |
+| Finish an Expedition | [[#FINISH AN EXPEDITION\|242]] | 178 |
+| Forge a Bond | [[#FORGE A BOND\|241]] | 166 |
+| Forsake Your Vow | [[#FORSAKE YOUR VOW\|240]] | 160 |
+| Fulfill Your Vow | [[#FULFILL YOUR VOW\|240]] | 158 |
+| Gain Ground | [[#GAIN GROUND\|244]] | 190 |
+| Gather Information | [[#GATHER INFORMATION\|238]] | 149 |
+| Heal | [[#HEAL\|248]] | 210 |
+| Hearten | [[#HEARTEN\|248]] | 211 |
+| Lose Momentum | [[#LOSE MOMENTUM\|246]] | 199 |
+| Make a Connection | [[#MAKE A CONNECTION\|241]] | 163 |
+| Make a Discovery | [[#MAKE A DISCOVERY\|243]] | 176 |
+| Overcome Destruction | [[#OVERCOME DESTRUCTION\|250]] | 220 |
+| Pay the Price | [[#PAY THE PRICE\|253]] | 232 |
+| Reach a Milestone | [[#REACH A MILESTONE\|240]] | 157 |
+| React Under Fire | [[#REACT UNDER FIRE\|244]] | 191 |
+| Repair | [[#REPAIR\|249]] | 214 |
+| Resupply | [[#RESUPPLY\|248]] | 212 |
+| Sacrifice Resources | [[#SACRIFICE RESOURCES\|247]] | 205 |
+| Secure an Advantage | [[#SECURE AN ADVANTAGE\|238]] | 148 |
+| Set a Course | [[#SET A COURSE\|238]] | 180 |
+| Set a Flag | [[#SET A FLAG\|237]] | 142 |
+| Sojourn | [[#SOJOURN\|237]] | 209 |
+| Strike | [[#STRIKE\|244]] | 192 |
+| Swear an Iron Vow | [[#SWEAR AN IRON VOW\|240]] | 156 |
+| Take a Break | [[#TAKE A BREAK\|237]] | 144 |
+| Take Decisive Action | [[#TAKE DECISIVE ACTION\|245]] | 194 |
+| Test Your Relationship | [[#TEST YOUR RELATIONSHIP\|241]] | 165 |
+| Undertake an Expedition | [[#UNDERTAKE AN EXPEDITION\|242]] | 169 |
+| Withstand Damage | [[#WITHSTAND DAMAGE\|247]] | 206 |
 
-_Sundered Isles_ moves [anchor] use minor wording changes to better fit the setting assumptions, but mostly function identically to their _Starforged_ [8-point-star] counterparts. For details on making moves, see Chapter 3 [(page 136)] of the _Starforged_ rulebook, or check the summary for a specific move using the _Starforged_ rulebook page references in the table above.
+_Sundered Isles_ moves [anchor] use minor wording changes to better fit the setting assumptions, but mostly function identically to their _Starforged_ [8-point-star] counterparts. For details on making moves, see [[_Moves Index|Chapter 3 (page 136)]] of the _Starforged_ rulebook, or check the summary for a specific move using the _Starforged_ rulebook page references in the table above.
 
 *236 MOVES REFERENCE*
 
-> [!summary] # SESSION MOVES
+> [!summary] # SESSION MOVES ^Session-Moves
 
 ## BEGIN A SESSION
 **When you begin a significant session or chapter of play,** do all of the following.
@@ -135,7 +135,7 @@ If there is a quest, connection, or other situation you would like to give focus
 #
 *237 SESSION MOVES*
 > [!note] # ADVENTURE MOVES
-> The adventure moves encompass broadly useful actions to overcome obstacles, reinforce your position, conduct investigations, influence others, and support your fellow protagonists. When you face a peril or try to gain leverage, and another move does not apply, you’ll likely find your answer among these moves.
+> The adventure moves encompass broadly useful actions to overcome obstacles, reinforce your position, conduct investigations, influence others, and support your fellow protagonists. When you face a peril or try to gain leverage, and another move does not apply, you’ll likely find your answer among these moves. ^Adventure-Moves
 
 ## FACE DANGER
 **When you attempt something risky or react to an imminent threat,** envision your action and roll. If you act…
@@ -209,7 +209,7 @@ On a **weak hit**, you have it, but must choose one.
 On a **miss**, you don’t have it and the situation grows more perilous. [[#PAY THE PRICE]].
 #
 *239 ADVENTURE MOVES*
-> [!progress] # QUEST MOVES
+> [!progress] # QUEST MOVES ^Quest-Moves
 
 ## SWEAR AN IRON VOW
 **When you swear to complete a quest,** write your vow and give it a rank. Then, roll +heart. If you swear this vow to a connection, add +1; if you share a bond, add +2. 
@@ -231,7 +231,7 @@ When you make headway in your quest by doing any of the following…
 
 …you may mark progress per the rank of the vow
 ___
-## FULFILL YOUR VOEW
+## FULFILL YOUR VOW
 _Porgoress Move_
 
 When you reach the end of your quest, roll the challenge dice and compare to your progress.
@@ -256,7 +256,7 @@ Then, envision the impact of this failure and choose one or more as appropriate 
 - Your reputation suffers: Envision how this failure marks you.
 #
 *240 MOVES REFERENCE*
-> [!cite]  # CONNECTION MOVES
+> [!cite]  # CONNECTION MOVES ^Connection-Moves
 
 ## MAKE A CONNECTION
 **When you search out a new relationship or give focus to an existing relationship (not an ally or companion),** roll +heart.
@@ -312,7 +312,7 @@ On a **weak hit,** as above, but they ask something more of you first. To gain t
 On a **miss,** they reveal a motivation or background that puts you at odds. If you recommit to this relationship, roll both challenge dice, take the lowest value, and clear that number of progress boxes. Then, raise the connection’s rank by one (if not already epic).
 #
 *241 CONNECTION MOVES*
-> [!summary] # EXPLORATION MOVES
+> [!summary] # EXPLORATION MOVES ^Exploration-Moves
 
 ## UNDERTAKE AN EXPEDITION
 **When you sail an unfamiliar route through perilous seas, find the way across hazardous terrain, or explore a mysterious site,** give the expedition a name and rank.
@@ -436,7 +436,7 @@ For each result, when you first confront that aspect within the scope of the enc
 > On a weak hit or miss, you are in a bad spot.
 > ![[outcome-weak-hit.svg|60]] ![[outcome-miss.svg|60]]
 > 
-> To learn more about naval encounters and combat, see [page 36].
+> To learn more about naval encounters and combat, [[1 - Adevntures Among the Isles#NAVAL ENCOUNTERS|see page 36]]. ^Combat-Moves
 
 ## ENTER THE FRAY
 **When you initiate combat or are forced into a fight,** envision your objective and give it a rank. If the combat includes discrete challenges or phases, set an objective with a rank for each.
@@ -545,7 +545,7 @@ On a **miss,** you are defeated or the objective is lost. [[#PAY THE PRICE]].
 #
 *245 COMBAT MOVES*
 > [!error] # SUFFER MOVES
-> When you bear the brunt of a failed action or make a concession, the suffer moves help resolve the cost. These moves are typically made when you must [[#PAY THE PRICE]] and face a hardship that directly impacts your well-being and readiness, or as prompted by a move or asset.
+> When you bear the brunt of a failed action or make a concession, the suffer moves help resolve the cost. These moves are typically made when you must [[#PAY THE PRICE]] and face a hardship that directly impacts your well-being and readiness, or as prompted by a move or asset. ^Suffer-Moves
 > 
 > If you mark an impact as an outcome of a suffer move, reduce your max momentum and momentum reset.
 > 
@@ -649,7 +649,7 @@ On a **miss,** it’s worse than you thought. Suffer an additional -1 integrity 
 #
 *247 SUFFER MOVES*
 > [!success] # RECOVER MOVES
-> When you Repair and score a hit, you gain repair points. This is a limited resource used only within the scope of the move to prioritize and make repairs. The amount of repair points you earn varies according to the situation and the outcome of the move, per the included table. Here’s a summary of those situations.
+> When you Repair and score a hit, you gain repair points. This is a limited resource used only within the scope of the move to prioritize and make repairs. The amount of repair points you earn varies according to the situation and the outcome of the move, per the included table. Here’s a summary of those situations. ^Recover-Moves
 > 
 > **At a Facility** 
 > Serviced by a dockyard or other facility—not making your own repairs.
@@ -739,7 +739,7 @@ Spend repair points as follows. Unused points are discarded.
 On a **miss,** the repairs are not made and the situation worsens. [[#PAY THE PRICE]].
 #
 *249 RECOVER MOVES*
-> # THRESHOLD MOVES
+> # THRESHOLD MOVES ^Threshold-Moves
 
 ## FACE DEATH
 **When you encounter a situation where death is an immediate and unavoidable outcome,** you are dead. **When you are instead brought to the brink of death with a chance for recovery or redemption,** roll +heart.
@@ -779,7 +779,7 @@ On a **miss,** as with the weak hit result, but this quest is against your natur
 If you accept the cost, take 1 experience for every marked ability on the discarded assets (minimum 3 experience). Spend this experience only on a new command vehicle, modules, and support vehicles.
 #
 *250 MOVES REFERENCE*
-> [!cite] # LEGACY MOVES
+> [!cite] # LEGACY MOVES ^Legacy-Moves
 
 ## EARN EXPERIENCE
 When you fill a box (four ticks) on any legacy track, take 2 experience. This experience may be spent when you [[#ADVANCE]].
@@ -826,7 +826,7 @@ For each **miss,** choose one.
 > ___
 > To determine the cost when you [[#PAY THE PRICE]], you may decide the outcome yourself, [[#ASK THE ORACLE]] for insight, or roll on the included table. In guided play, look to the guide for a ruling.
 > 
-> The price you pay can be a narrative consequence that complicates things for your character, or a combination of a narrative and mechanical cost. But be mindful of pacing; don’t drop the hammer after one bad roll. Start with lesser complications and consequences appropriate to the situation, then apply escalating danger and hardships if the failures stack up.
+> The price you pay can be a narrative consequence that complicates things for your character, or a combination of a narrative and mechanical cost. But be mindful of pacing; don’t drop the hammer after one bad roll. Start with lesser complications and consequences appropriate to the situation, then apply escalating danger and hardships if the failures stack up. ^Fate-Moves
 
 ## ASK THE ORACLE
 **When you seek to resolve questions, reveal details, discover locations, determine how other characters respond, or trigger encounters or events,** you may…
@@ -879,7 +879,7 @@ On a match, envision an extreme result or twist.
 > [!note] # SCENE CHALLENGES
 > A ==scene challenge== is an optional structured approach for resolving an extended non- combat scene against a threat or other characters, particularly when a time limit or looming danger adds extra urgency. Scene challenges use a troublesome, dangerous, or formidable progress track countered by a tension clock with four segments.
 > 
-> Make the [[#BEGIN A SCENE]] move to start the challenge. To act within the scene, use the alternative versions of [[#FACE DANGER (SCENE CHALLENGE)|FACE DANGER]] and [[#SECURE AN ADVANTAGE (SCENE CHALLENGE)|SECURE AN ADVANTAGE]] shown here. When the clock or progress track is filled, or the narrative guides you to a conclusion, [[#FINISH A SCENE]].
+> Make the [[#BEGIN A SCENE]] move to start the challenge. To act within the scene, use the alternative versions of [[#FACE DANGER (SCENE CHALLENGE)|FACE DANGER]] and [[#SECURE AN ADVANTAGE (SCENE CHALLENGE)|SECURE AN ADVANTAGE]] shown here. When the clock or progress track is filled, or the narrative guides you to a conclusion, [[#FINISH A SCENE]]. ^Scene-Challenges
 
 ## BEGIN A SCENE
 **When you face an extended or complex challenge,** name your objective and choose a rank as appropriate to the situation.
@@ -930,7 +930,7 @@ On a **weak hit,** you succeed, but not without cost. You must [[#PAY THE PRICE]
 On a **miss,** you fail or are undermined by a dire turn of events. [[#PAY THE PRICE]].
 #
 *254 MOVES REFERENCE*
-
+## QUICK REFERENCE
 **"ADD +X”**
 Add this value to your action die. For most action rolls, your action die + stat + adds is your final action score. If you gain multiple prompts to “add +x” for a single action, those bonuses stack.
 
@@ -955,4 +955,4 @@ Add this number to the indicated meter. For example, “take +2 momentum” tell
 **"WHEN YOU…”**
 This is the move trigger. When you do this thing, or encounter this situation, make the move.
 
-*Quick Reference 255*
+*255 QUICK REFERENCE*

@@ -6,8 +6,8 @@ SourceLink:
 
 ## Page
 aliases: 
-  - "Settlement Composition (SI Oracles)"
   - "Settlement Identity (SI Oracles)"
+  - "Settlement Controlling Faction (SI Oracles)"
   - "Settlement Disposition (SI Oracles)"
   - "Settlement Authority (SI Oracles)"
 PageType: Oracles
@@ -16,15 +16,15 @@ PageOrder: 21
 
 ## Oracle
 Oracle: Settlement
-OracleFocus: Composition
-OracleDescriptor: "Use the **Identity**, **Disposition**, and **Authority** oracles only if a settlement is not controlled by a known faction."
+OracleFocus: Identity
+OracleDescriptor: "Use the **Controlling Faction**, **Disposition**, and **Authority** oracles only if a settlement is not controlled by a known faction."
 ---
-# [[_Sundered Isles|Sundered Isles]] - [[_SI_Ch3_Contents|Oracles]] - [[_SI_CH3_Settlement Oracles|Settlement]]: Composition
+# [[_Sundered Isles|Sundered Isles]] - [[_SI_Ch3_Contents|Oracles]] - [[_SI_CH3_Settlement Oracles|Settlement]]: Identity
 _Use the **Identity**, **Disposition**, and **Authority** oracles only if a settlement is not controlled by a known faction.._
 
-## Oracle: Settlement Identity
+## Oracle: Settlement controlling Faction
 > [!mechanics]- | Guidance
-> If the settlement’s location or your initial impression doesn’t reveal its identity, check the _Controlling Faction_ table [below]. If this place is inhabited or overseen by a known faction, roll or choose on your [[SI_CH1_Factions of the Isles#FACTION INFLUENCE GRID|faction influence grid]](page 50)]. If it is independent or aligned with an unknown faction, use the _[[#Oracle Settlement Disposition|Disposition]]_ and _[[#Oracle Settlement Authority|Authority]]_ tables to help envision the reaction to your arrival and the apparent nature of the leadership. ^guidance-SettlementIdentity
+> If the settlement’s location or your initial impression doesn’t reveal its identity, check the _Controlling Faction_ table below. If this place is inhabited or overseen by a known faction, roll or choose on your [[SI_CH1_Factions of the Isles#FACTION INFLUENCE GRID|faction influence grid]](page 50). If it is independent or aligned with an unknown faction, use the _[[#Oracle Settlement Disposition|Disposition]]_ and _[[#Oracle Settlement Authority|Authority]]_ tables to help envision the reaction to your arrival and the apparent nature of the leadership. ^guidance-SettlementIdentity
 
 | Myriads<br>_Central Seas_ | Margins<br>_Outer Seas_ | Reaches<br>_Remote Seas_ | Result |
 |:---:|:---:|:---:| --- |
@@ -39,7 +39,7 @@ _Use the **Identity**, **Disposition**, and **Authority** oracles only if a sett
 
 ### Oracle: Settlement Identity - Myriads
 > [!mechanics]- | Roll > `dice: [[SI_CH3_Settle-Composition#^table-SettlementIdentity-Myriads]]` | Guidance
-> If the settlement’s location or your initial impression doesn’t reveal its identity, check the _Controlling Faction_ table [below]. If this place is inhabited or overseen by a known faction, roll or choose on your [[SI_CH1_Factions of the Isles#FACTION INFLUENCE GRID|faction influence grid]](page 50)]. If it is independent or aligned with an unknown faction, use the _[[#Oracle Settlement Disposition|Disposition]]_ and _[[#Oracle Settlement Authority|Authority]]_ tables to help envision the reaction to your arrival and the apparent nature of the leadership. ^guidance-SettlementIdentity-Myriads
+> If the settlement’s location or your initial impression doesn’t reveal its identity, check the _Controlling Faction_ table below. If this place is inhabited or overseen by a known faction, roll or choose on your [[SI_CH1_Factions of the Isles#FACTION INFLUENCE GRID|faction influence grid]](page 50)]. If it is independent or aligned with an unknown faction, use the _[[#Oracle Settlement Disposition|Disposition]]_ and _[[#Oracle Settlement Authority|Authority]]_ tables to help envision the reaction to your arrival and the apparent nature of the leadership. ^guidance-SettlementIdentity-Myriads
 
 | dice: 1d100 | Result |
 |:---:| --- |
@@ -52,7 +52,7 @@ _Use the **Identity**, **Disposition**, and **Authority** oracles only if a sett
 
 ### Oracle: Settlement Identity - Margins
 > [!mechanics]- | Roll > `dice: [[SI_CH3_Settle-Composition#^table-SettlementIdentity-Margins]]` | Guidance
-> If the settlement’s location or your initial impression doesn’t reveal its identity, check the _Controlling Faction_ table [below]. If this place is inhabited or overseen by a known faction, roll or choose on your [[SI_CH1_Factions of the Isles#FACTION INFLUENCE GRID|faction influence grid]](page 50)]. If it is independent or aligned with an unknown faction, use the _[[#Oracle Settlement Disposition|Disposition]]_ and _[[#Oracle Settlement Authority|Authority]]_ tables to help envision the reaction to your arrival and the apparent nature of the leadership. ^guidance-SettlementIdentity-Margins
+> If the settlement’s location or your initial impression doesn’t reveal its identity, check the _Controlling Faction_ table below. If this place is inhabited or overseen by a known faction, roll or choose on your [[SI_CH1_Factions of the Isles#FACTION INFLUENCE GRID|faction influence grid]](page 50)]. If it is independent or aligned with an unknown faction, use the _[[#Oracle Settlement Disposition|Disposition]]_ and _[[#Oracle Settlement Authority|Authority]]_ tables to help envision the reaction to your arrival and the apparent nature of the leadership. ^guidance-SettlementIdentity-Margins
 
 | dice: 1d100 | Result |
 |:---:| --- |
@@ -65,7 +65,7 @@ _Use the **Identity**, **Disposition**, and **Authority** oracles only if a sett
 
 ### Oracle: Settlement Identity - Reaches
 > [!mechanics]- | Roll > `dice: [[SI_CH3_Settle-Composition#^table-SettlementIdentity-Reaches]]` | Guidance
-> If the settlement’s location or your initial impression doesn’t reveal its identity, check the _Controlling Faction_ table [below]. If this place is inhabited or overseen by a known faction, roll or choose on your [[SI_CH1_Factions of the Isles#FACTION INFLUENCE GRID|faction influence grid]](page 50)]. If it is independent or aligned with an unknown faction, use the _[[#Oracle Settlement Disposition|Disposition]]_ and _[[#Oracle Settlement Authority|Authority]]_ tables to help envision the reaction to your arrival and the apparent nature of the leadership. ^guidance-SettlementIdentity-Reaches
+> If the settlement’s location or your initial impression doesn’t reveal its identity, check the _Controlling Faction_ table below. If this place is inhabited or overseen by a known faction, roll or choose on your [[SI_CH1_Factions of the Isles#FACTION INFLUENCE GRID|faction influence grid]](page 50)]. If it is independent or aligned with an unknown faction, use the _[[#Oracle Settlement Disposition|Disposition]]_ and _[[#Oracle Settlement Authority|Authority]]_ tables to help envision the reaction to your arrival and the apparent nature of the leadership. ^guidance-SettlementIdentity-Reaches
 
 | dice: 1d100 | Result |
 |:---:| --- |
