@@ -62,7 +62,7 @@ ConditionLabels: "Out of Action"
 > > - [ ] Out of Action ^Header
 ___
 > [!note] Ability 1
-> - [x] When you [[MV_Withstand Damage|Withstand Damage]] and score a **miss,** or if you [[MV_Pay the Price|Pay the Price]], you may suffer the cost by noting the specialist as out of action.'
+> - [x] When you [[SF_CH3_Withstand Damage|Withstand Damage]] and score a **miss,** or if you [[SF_CH3_Pay the Price|Pay the Price]], you may suffer the cost by noting the specialist as out of action.'
 > 	- An out of action specialist provides no benefit.
 > 	- To restore a specialist to duty, resolve the situation as appropriate to the nature of the injury, trauma, or dispute. ^Ability1
 ___
@@ -75,7 +75,7 @@ ___
 > > ^Ability2
 ___
 > [!todo] Ability 3
-> - [ ] When you [[MV_Secure an Advantage|Secure an Advantage]] by gathering your specialists to strategize or problem-solve, you may reroll one die for each participating specialist. ^Ability3
+> - [ ] When you [[SF_CH3_Secure an Advantage|Secure an Advantage]] by gathering your specialists to strategize or problem-solve, you may reroll one die for each participating specialist. ^Ability3
 ___
 ## Tags
 

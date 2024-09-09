@@ -1,0 +1,16 @@
+<svg width="100" height="150" xmlns="http://www.w3.org/2000/svg">
+  <!-- Stopwatch circle outline -->
+  <circle cx="50" cy="75" r="40" stroke="white" stroke-width="2" fill="none" />
+
+  <!-- Top center square (filled white) -->
+  <rect x="45" y="20" width="10" height="10" stroke="white" stroke-width="2" fill="white"/>
+
+  <!-- Left small square (filled white, intersecting circle, rotated -18 degrees) -->
+  <rect x="30" y="35" width="8" height="8" stroke="white" stroke-width="2" fill="white" transform="rotate(-15 34 39)" />
+
+  <!-- Right small square (filled white, intersecting circle, rotated +18 degrees) -->
+  <rect x="62" y="35" width="8" height="8" stroke="white" stroke-width="2" fill="white" transform="rotate(15 66 39)" />
+
+  <!-- 3/4 circle 4px gap from stopwatch -->
+  <circle cx="50" cy="75" r="36" fill="white" />
+</svg>

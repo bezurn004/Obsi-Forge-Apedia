@@ -22,7 +22,7 @@ OracleDescriptor: "When creating or learning about a new sector, generate a name
 When creating or learning about a new sector, generate a name with the prefix and suffix oracles.
 
 ## Oracle: Sector Name Prefix
-This oracle can be used to replace the one provided on [[OCL_Sector-Name#Oracle Space Name Prefix|Space Name Prefix Oracle]].
+This oracle can be used to replace the one provided on [[SF_CH5_Sector-Name#Oracle Space Name Prefix|Space Name Prefix Oracle]].
 
 > [!mechanics]- | Roll > %%GetDice%% | Guidance
 > To generate a name for a sector or region of space, roll once for the prefix (the first word), and once for the suffix (the second word). Or just roll once, and choose a suitable prefix and suffix from anywhere in that row. ^guidance-OclSectorName-Prefix
@@ -82,7 +82,7 @@ This oracle can be used to replace the one provided on [[OCL_Sector-Name#Oracle 
 ^table-OclSectorName-Prefix
 
 ## Oracle: Sector Name Suffix
-This oracle can be used to replace the one provided on [[OCL_Sector-Name#Oracle Space Name Suffix|Space Name Suffix Oracle]].
+This oracle can be used to replace the one provided on [[SF_CH5_Sector-Name#Oracle Space Name Suffix|Space Name Suffix Oracle]].
 
 > [!mechanics]- | Roll > %%GetDice%% | Guidance
 > To generate a name for a sector or region of space, roll once for the prefix (the first word), and once for the suffix (the second word). Or just roll once, and choose a suitable prefix and suffix from anywhere in that row. ^guidance-OclSectorNameSuffix

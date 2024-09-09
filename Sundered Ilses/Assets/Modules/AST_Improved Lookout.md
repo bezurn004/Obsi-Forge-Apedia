@@ -61,10 +61,10 @@ ConditionLabels: Broken
  ___
 > [!note] Ability 1
 > - [x] While the lookout post is crewed, you are forewarned.
-> - When you [[MV_Undertake an Expedition|Undertake an Expedition]] (+wits) to carefully navigate a perilous course, or if you [[MV_Face Danger|Face Danger]] to spot a hidden or distant threat, you may reroll one challenge die. ^Ability1
+> - When you [[SF_CH3_Undertake an Expedition|Undertake an Expedition]] (+wits) to carefully navigate a perilous course, or if you [[SF_CH3_Face Danger|Face Danger]] to spot a hidden or distant threat, you may reroll one challenge die. ^Ability1
 ___
 > [!info] Ability 2
-> - [ ] Once per situation, when you [[MV_Secure an Advantage|Secure an Advantage]] by studying a notable sighting or location from a distance, add +1.
+> - [ ] Once per situation, when you [[SF_CH3_Secure an Advantage|Secure an Advantage]] by studying a notable sighting or location from a distance, add +1.
 > - On **a hit,** take +1 momentum.
 > - On a **strong hit with a match,** envision an aspect of the situation or a vulnerability of your foe you can use to your advantage; take another +1 momentum.
 > > [!warning] Study Sighting

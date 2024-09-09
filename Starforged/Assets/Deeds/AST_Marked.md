@@ -60,7 +60,7 @@ ConditionLabels:
 > **Marked Description: ** _Marked Description_ ^Header
 ___
 > [!note] Ability 1
-> - [x] When you [[MV_Compel|Compel]] or [[MV_Make a Connection|Make a Connection]] among those who would know your reputation, add +1. 
+> - [x] When you [[SF_CH3_Compel|Compel]] or [[SF_CH3_Make a Connection|Make a Connection]] among those who would know your reputation, add +1. 
 > 		- On a strong hit with a match, your notoriety grows; mark 2 ticks on your bonds legacy track. ^Ability1
 ___
 > [!info] Ability 2
@@ -79,7 +79,7 @@ ___
 Need to determine appliable moves* ^Ability2
 ___
 > [!todo] Ability 3
-> - [ ] Once per fight, when you [[MV_Gain Ground|Gain Ground]] through intimidation or command, reroll any dice.  
+> - [ ] Once per fight, when you [[SF_CH3_Gain Ground|Gain Ground]] through intimidation or command, reroll any dice.  
 > 	- On a hit mark progress.
 > > [!warning] Ability Status
 > > - [ ] Used ^Ability3

@@ -20,10 +20,10 @@ OracleDescriptor: "When something goes wrong but you’re not sure what, roll he
 When something goes wrong but you’re not sure what, roll here.
 
 ## Oracle: Story Complication
-This oracle can be used to replace the one provided on [[OCL_Story Complication#Oracle Story Complication|Story Complication Oracle]].
+This oracle can be used to replace the one provided on [[SF_CH5_Story Complication#Oracle Story Complication|Story Complication Oracle]].
 
 > [!mechanics]- | Roll > %%GetDice%% | Guidance
-> This oracle will introduce narrative turns, troubles, and revelations. It can be used as an alternative to the [[MV_Pay the Price|Pay the Price]] table when you encounter a negative outcome at a crucial moment. In particular, you might use this oracle after rolling matched 10s on the challenge dice.^guidance-STRSM-OCL-OclStoryComplication
+> This oracle will introduce narrative turns, troubles, and revelations. It can be used as an alternative to the [[SF_CH3_Pay the Price|Pay the Price]] table when you encounter a negative outcome at a crucial moment. In particular, you might use this oracle after rolling matched 10s on the challenge dice.^guidance-STRSM-OCL-OclStoryComplication
 
 | 1d100 | 1-2 | 3-4 | 5-6 |
 | :---: | :--- | :--- | :--- |

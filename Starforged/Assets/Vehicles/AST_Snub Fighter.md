@@ -60,11 +60,11 @@ ConditionLabels: Battered
 > > - [ ] Battered ^Header
 ___
 > [!note] Ability 1
-> - [x] When you [[MV_Enter the Fray|Enter The Fray]], you may roll +integrity; If you do...
+> - [x] When you [[SF_CH3_Enter the Fray|Enter The Fray]], you may roll +integrity; If you do...
 > 	- On a hit take +2 momentum. ^Ability1
 ___
 > [!info] Ability 2
-> - [ ] When you [[MV_Strike|Strike]] or [[MV_Clash|Clash]], add +1. 
+> - [ ] When you [[SF_CH3_Strike|Strike]] or [[SF_CH3_Clash|Clash]], add +1. 
 > 	- On a strong hit with a match, mark progress. ^Ability2
 ___
 > [!todo] Ability 3

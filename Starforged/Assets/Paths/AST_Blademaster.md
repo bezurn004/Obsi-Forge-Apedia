@@ -58,16 +58,16 @@ ConditionLabels:
 > **Character Aspect: ** If you wield a bladed weapon... ^Header
 ___
 > [!note] Ability 1
-> - [ ] When you [[MV_Clash|Clash]] or [[MV_Strike|Strike]] in close quarters, add +1. 
+> - [ ] When you [[SF_CH3_Clash|Clash]] or [[SF_CH3_Strike|Strike]] in close quarters, add +1. 
 > 	- On a strong hit with a match, you are unstoppable; mark progress.  ^Ability1
 ___
 > [!info] Ability 2
-> - [ ] When you [[MV_Gain Ground|Gain Ground]] by moving into close quarters against a foe, choose one.
+> - [ ] When you [[SF_CH3_Gain Ground|Gain Ground]] by moving into close quarters against a foe, choose one.
 > 	- Charge: Roll +heart, and mark progress on a hit.
 > 	- Evade: Roll +edge, and take +1 momentum on a hit. ^Ability2
 ___
 > [!todo] Ability 3
-> - [ ] You wield an iconic blade. Give it a name. When you [[MV_Swear an Iron Vow|Swear an Iron Vow]] by binding your promise to this blade, add +1. 
+> - [ ] You wield an iconic blade. Give it a name. When you [[SF_CH3_Swear an Iron Vow|Swear an Iron Vow]] by binding your promise to this blade, add +1. 
 > 	- On a hit, fill the box below. 
 > 		- If you make a move (including a progress move) using your oathbound blade and score a miss, you may clear the box to reroll any dice
 > > [!warning] _Insert_Oathbound_Blade_Name_Here_

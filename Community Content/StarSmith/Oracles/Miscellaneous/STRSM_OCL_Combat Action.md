@@ -20,7 +20,7 @@ OracleDescriptor: "Not sure what your opponent will do next? Roll on this oracle
 Not sure what your opponent will do next? Roll on this oracle to find out.
 
 ## Oracle: Combat Action
-This oracle can be used to replace the one provided on [[OCL_Combat Action#Oracle Combat Action|Combat Action Oracle]].
+This oracle can be used to replace the one provided on [[SF_CH5_Combat Action#Oracle Combat Action|Combat Action Oracle]].
 
 > [!mechanics]- | Roll > %%GetDice%% | Guidance
 > Use this oracle to help inspire an action for a foe in a fight. When you’re not sure what an enemy does next, particularly when they have you in a bad spot, roll on this oracle and interpret the result as appropriate to the nature of the enemy and your objective. ^guidance-STRSM-OCL-OclCombatAction

@@ -22,7 +22,7 @@ OracleDescriptor: "The overall influence of a Faction throughout the forge. Also
 The overall influence of a Faction throughout the forge. Also, how a Faction relates to another in their Relationships and what Rumors have been heard through your adventures through the Forge.
 
 ## Oracle: Faction Relationship
-This oracle can be used to replace the one provided on [[OCL_Faction-Relations#Oracle Faction Relationship|Faction Relationship Oracle]].
+This oracle can be used to replace the one provided on [[SF_CH5_Faction-Relations#Oracle Faction Relationship|Faction Relationship Oracle]].
 
 > [!mechanics]- | Roll > %%GetDice%% | Guidance
 > When you have a question about the relationship of one faction to another, use this table. The result is the commonly understood connection between those factions. Further investigations or events may reveal a deeper or alternate truth. ^guidance-STRSM-OCL-OclFactionRelationship
@@ -60,7 +60,7 @@ This oracle can be used to replace the one provided on [[OCL_Faction-Relations#O
 ^table-STRSM-OCL-OclFactionRelationship
 
 ## Oracle: Faction Rumors
-This oracle can be used to replace the one provided on [[OCL_Faction-Relations#Oracle Faction Rumors|Faction Rumors Oracle]].
+This oracle can be used to replace the one provided on [[SF_CH5_Faction-Relations#Oracle Faction Rumors|Faction Rumors Oracle]].
 
 > [!mechanics]- | Roll > %%GetDice%% | Guidance
 > Use this table when you are in a position to investigate a faction by uncovering secrets or fishing for gossip. ^guidance-STRSM-OCL-OclFactionRumors

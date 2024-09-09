@@ -21,7 +21,7 @@ OracleDescriptor: "When a settlement needs to be created start here to get an id
 When a settlement needs to be created start here to get an idea of where it is and roughly how populated it is. 
 
 ## Oracle: Settlement Location
-This oracle can be used to replace the one provided on [[OCL_Settle-Creation#Oracle: Settlement Location|Settlement Location Oracle]].
+This oracle can be used to replace the one provided on [[SF_CH5_Settle-Creation#Oracle: Settlement Location|Settlement Location Oracle]].
 
 > [!mechanics]- | Roll > %%GetDice%% | Guidance
 > Determine where the settlement is located. ^guidance-OclSettlement
@@ -33,7 +33,7 @@ This oracle can be used to replace the one provided on [[OCL_Settle-Creation#Ora
 | 76-100 | Deepspace | Wormhole | Exoplanet |
 ^table-OclSettlementLocation
 
-![[OCL_Settle-Creation#Settlement Population]]
+![[SF_CH5_Settle-Creation#Settlement Population]]
 
 ## Tags
 | Previous Page | Tags | Next Page | 

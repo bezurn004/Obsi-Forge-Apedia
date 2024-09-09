@@ -60,14 +60,14 @@ ConditionLabels: Broken
 > >  - [ ] Broken ^Header
 ___
 > [!note] Ability 1
-> - [x] When you [[MV_Secure an Advantage|Secure an Advantage]] or  [[MV_Gain Ground|Gain Ground]] by talking through a situation with the overseer, you may roll +integrity.  If you do...
+> - [x] When you [[SF_CH3_Secure an Advantage|Secure an Advantage]] or  [[SF_CH3_Gain Ground|Gain Ground]] by talking through a situation with the overseer, you may roll +integrity.  If you do...
 > 	- On a hit take +1 momentum. ^Ability1
 ___
 > [!info] Ability 2
-> - [ ] When you [[MV_Withstand Damage|Withstand Damage]] and roll on the miss table, the overseer will do what it can to help. Roll twice on the table and choose either result. ^Ability2
+> - [ ] When you [[SF_CH3_Withstand Damage|Withstand Damage]] and roll on the miss table, the overseer will do what it can to help. Roll twice on the table and choose either result. ^Ability2
 ___
 > [!todo] Ability 3
-> - [ ] The overseer can pilot the vehicle independently. When you [[MV_Face Danger|Face Danger]] by handing over control to the AI in an emergency, or to summon the vehicle remotely within a hazardous situation, you may roll +integrity.  If you do...
+> - [ ] The overseer can pilot the vehicle independently. When you [[SF_CH3_Face Danger|Face Danger]] by handing over control to the AI in an emergency, or to summon the vehicle remotely within a hazardous situation, you may roll +integrity.  If you do...
 > 	- On a hit take +1 momentum. ^Ability3
 ___
 

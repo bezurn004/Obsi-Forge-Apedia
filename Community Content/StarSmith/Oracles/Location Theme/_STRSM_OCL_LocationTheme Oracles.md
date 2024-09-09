@@ -21,7 +21,7 @@ Rather than tripling each location theme, I’ve added new theme types to explor
 
 This oracle can be added to compliment the original Ironsworn: Starforged Location Theme Oracles. To do so, roll the action die (a 6 sided die) along with the Oracle Dice:
 - Action Die (D6) Result:
-	- 1 - 3 : Use the original [[_OCL_LocationThemes#Oracle Location Theme Type\|Location Theme Oracles]]
+	- 1 - 3 : Use the original [[_SF_CH5_LocationThemes#Oracle Location Theme Type\|Location Theme Oracles]]
 	- 4- 6 : Use the new Location Themes listed below
 
 ## Oracle: Location Theme Types

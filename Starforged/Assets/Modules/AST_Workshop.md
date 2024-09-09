@@ -59,20 +59,20 @@ ConditionLabels: Broken
 > > - [ ] Broken ^Header
 ___
 > [!note] Ability 1
-> - [x] When you [[MV_Repair|Repair]] in the field, add +1. ^Ability1
+> - [x] When you [[SF_CH3_Repair|Repair]] in the field, add +1. ^Ability1
 ___
 > [!info] Ability 2
 > - [ ] When you make a move in your workshop to craft, modify, deactivate, or disassemble a device or machine, you may reroll your action die if its value is less than your vehicle’s integrity.
 > > [!faq]- Possible Moves
-> > [[MV_Repair|Repair (move)]] - [[MV_Secure an Advantage|Secure an Advantage (move)]] ^Ability2
+> > [[SF_CH3_Repair|Repair (move)]] - [[SF_CH3_Secure an Advantage|Secure an Advantage (move)]] ^Ability2
 ___
 > [!todo] Ability 3
-> - [ ] When you [[MV_Swear an Iron Vow|Swear an Iron Vow]] to undertake a long-term engineering project (extreme or greater), reroll any dice. 
+> - [ ] When you [[SF_CH3_Swear an Iron Vow|Swear an Iron Vow]] to undertake a long-term engineering project (extreme or greater), reroll any dice. 
 > 	- When you obtain a crucial part or resource, mark progress on the quest and take +2 momentum. 
-> 	- When you devote extended time to the project in your workshop, [[MV_Face Danger|Face Danger]] and add +1. 
+> 	- When you devote extended time to the project in your workshop, [[SF_CH3_Face Danger|Face Danger]] and add +1. 
 > 		- On a hit, mark progress. 
 > 		- On a strong hit with a match, mark progress twice. 
-> 	- When you [[MV_Fullfill Your Vow|Fullfill Your Vow]] and score a hit, mark one extra box on your quests legacy track. ^Ability3
+> 	- When you [[SF_CH3_Fullfill Your Vow|Fullfill Your Vow]] and score a hit, mark one extra box on your quests legacy track. ^Ability3
 ___
 
 ## Tags

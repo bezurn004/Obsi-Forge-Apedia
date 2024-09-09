@@ -21,7 +21,7 @@ OracleDescriptor: "Who is the leader of a faction and how much Influence do they
 Who is the **leader** of a Dominion faction and how much **Influence** do all faction types hold over the settlements of the Forge. If you choose, other faction types can have this aspect.
 
 ## Oracle: Faction Leadership
-This oracle can be used to replace the one provided on [[OCL_Faction-Types#Oracle Faction Dominion Leadership|Faction Dominion Leadership Oracle]].
+This oracle can be used to replace the one provided on [[SF_CH5_Faction-Types#Oracle Faction Dominion Leadership|Faction Dominion Leadership Oracle]].
 
 > [!mechanics]- | Roll > %%GetDice%% | Guidance
 > For Dominion type Factions generate a leadership structure. If you choose, you could add this to other Faction types. ^guidance-STRSM-OCL-OclFactionLeadership
@@ -40,7 +40,7 @@ This oracle can be used to replace the one provided on [[OCL_Faction-Types#Oracl
 | 96-100 | Varied / decentralized | Fractured states | Unknown intelligence | 
 ^table-STRSM-OCL-OclFactionLeadership
 
-![[OCL_Faction-Relations#Oracle Faction Influence]]
+![[SF_CH5_Faction-Relations#Oracle Faction Influence]]
 
 ## Tags
 | Previous Page | Tags | Next Page | 

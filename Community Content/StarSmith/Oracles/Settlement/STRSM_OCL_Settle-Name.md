@@ -20,10 +20,10 @@ OracleDescriptor: "After creating an settlement give it a Name. Optionally use t
 After creating an settlement give it a **Name**. Optionally use the **Name Tag** to provide the location a history and purpose.
 
 ## Oracle: Settlement Name
-This oracle can be used to replace the one provided on [[OCL_Settle-Name#Oracle Settlement Name|Settlement Name Oracle]].
+This oracle can be used to replace the one provided on [[SF_CH5_Settle-Name#Oracle Settlement Name|Settlement Name Oracle]].
 
 > [!mechanics]- | Roll > %%GetDice%% | Guidance
-> Choose a name appropriate to the nature of the settlement, or roll for a random result. Optionally pair this name with the [[OCL_Settle-Name#Oracle Settlement Name Tag|Settlement Name Tag Oracle]]. ^guidance-OclSettlementName
+> Choose a name appropriate to the nature of the settlement, or roll for a random result. Optionally pair this name with the [[SF_CH5_Settle-Name#Oracle Settlement Name Tag|Settlement Name Tag Oracle]]. ^guidance-OclSettlementName
 
 | 1d100 | 1-2 | 3-4 | 5-6 |
 | :---: | :--- | :--- | :--- |
@@ -129,7 +129,7 @@ This oracle can be used to replace the one provided on [[OCL_Settle-Name#Oracle 
 | 100 | Wreck | Warden | Zisa |
 ^table-OclSettlementName
 
-![[OCL_Settle-Name#Oracle Settlement Name Tag]]
+![[SF_CH5_Settle-Name#Oracle Settlement Name Tag]]
 
 ## Tags
 | Previous Page | Tags | Next Page | 

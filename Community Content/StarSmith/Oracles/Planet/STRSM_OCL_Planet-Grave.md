@@ -22,13 +22,13 @@ OracleDescriptor: "This world was once home to a robust civilization but is now 
 # [[_STRSM Oracles Index|Starsmith Oracles]] - [[_STRSM_OCL_Planet Oracles|Planets]]: Grave
 This world was once home to a robust civilization but is now nothing more than a desiccated husk. Ruins, battlefields, and disconcerting silence cover the surface. Did anyone make it off-world before the end?
 
-![[OCL_Planet-Grave#Oracle Grave Atmosphere]]
+![[SF_CH5_Planet-Grave#Oracle Grave Atmosphere]]
 
-![[OCL_Planet-Grave#Oracle Grave Settlements]]
+![[SF_CH5_Planet-Grave#Oracle Grave Settlements]]
 
 ## Oracle: Grave Observed From Space {1-2}
 > [!mechanics]- | Roll > %%GetDice%% | Guidance
-> To begin exploration on a planet, generate one or two dominate feature's. If your exploration is prolonged morph these features using the [[OCL_Core#Oracle Descriptor|Descriptor]] and [[OCL_Core#Oracle Focus|Focus]] oracles for prompts on variety. ^guidance-PlanetsideFeature
+> To begin exploration on a planet, generate one or two dominate feature's. If your exploration is prolonged morph these features using the [[_SF_CH5_Core#Oracle Descriptor|Descriptor]] and [[_SF_CH5_Core#Oracle Focus|Focus]] oracles for prompts on variety. ^guidance-PlanetsideFeature
 
 | 1d100 | 1-2 | 3-4 | 5-6 |
 | :---: | :--- | :--- | :--- |
@@ -67,7 +67,7 @@ This world was once home to a robust civilization but is now nothing more than a
 | 99-100 | ▶[[STRSM_OCL_Vault-Creation#Oracle Precursor Vault Outer First Look\|Precursor Vault]] (planetside) | ▶[[STRSM_OCL_Vault-Creation#Oracle Precursor Vault Outer First Look\|Precursor Vault]] (planetside) | ▶[[STRSM_OCL_Vault-Creation#Oracle Precursor Vault Outer First Look\|Precursor Vault]] (planetside) |
 ^table-PlanetsideFeature
 
-![[OCL_Planet-Grave#Oracle Grave Life]]
+![[SF_CH5_Planet-Grave#Oracle Grave Life]]
 
 ## Oracle: Grave Sample Names
 > [!mechanics]- | Roll > %%GetDice%% | Guidance

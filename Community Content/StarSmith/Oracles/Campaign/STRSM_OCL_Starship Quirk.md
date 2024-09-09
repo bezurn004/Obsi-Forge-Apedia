@@ -20,7 +20,7 @@ OracleDescriptor: "What is an odd and unique characteristic of your starship?"
 What is an odd and unique characteristic of your starship?
 
 ## Oracle: Campaign Starship Quirk {1-2}
-This oracle can be used to replace the one provided on [[CRG_Board Your Starship#Envision The Starship|Starship Quirk Oracle]].
+This oracle can be used to replace the one provided on [[SF_CH2_Board Your Starship#Envision The Starship|Starship Quirk Oracle]].
 
 > [!mechanics]- | Roll > %%GetDice%% | Guidance
 > Your ship is an important aspect of your character, and a character in its own right. What does it look like? What makes it interesting or uniquely yours? Does it have any particular quirks? If nothing occurs to you now, you can flesh it out in play, or roll once or twice on the table below. ^guidance-STRSM-OCL-OclCampaignStarshipQuirk

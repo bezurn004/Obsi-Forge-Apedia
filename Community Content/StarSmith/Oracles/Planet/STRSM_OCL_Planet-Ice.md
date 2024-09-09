@@ -22,9 +22,9 @@ OracleDescriptor: "A world blanketed in snow, winter has come and never leaves. 
 # [[_STRSM Oracles Index|Starsmith Oracles]] - [[_STRSM_OCL_Planet Oracles|Planets]]: Ice
 A world blanketed in snow, winter has come and never leaves. Vast tundras sprawl across the surface while continent-sized glaciers carve out whole mountain ranges. Even from orbit it is difficult to tell whether one area is a landmass or just a large snowstorm. Parts of the ocean flash froze leaving waves of ice behind.
 
-![[OCL_Planet-Ice#Oracle Ice Atmosphere]]
+![[SF_CH5_Planet-Ice#Oracle Ice Atmosphere]]
 
-![[OCL_Planet-Ice#Oracle Ice Settlements]]
+![[SF_CH5_Planet-Ice#Oracle Ice Settlements]]
 
 ## Oracle: Ice Observed From Space {1-2}
 > [!mechanics]- | Roll > %%GetDice%% | Guidance
@@ -67,7 +67,7 @@ A world blanketed in snow, winter has come and never leaves. Vast tundras sprawl
 | 99-100 | ▶[[STRSM_OCL_Vault-Creation#Oracle Precursor Vault Outer First Look\|Precursor Vault]] (planetside) | ▶[[STRSM_OCL_Vault-Creation#Oracle Precursor Vault Outer First Look\|Precursor Vault]] (planetside) | ▶[[STRSM_OCL_Vault-Creation#Oracle Precursor Vault Outer First Look\|Precursor Vault]] (planetside) |
 ^table-PlanetsideFeature
 
-![[OCL_Planet-Ice#Oracle Ice Life]]
+![[SF_CH5_Planet-Ice#Oracle Ice Life]]
 
 ## Oracle: Ice Sample Names
 > [!mechanics]- | Roll > %%GetDice%% | Guidance

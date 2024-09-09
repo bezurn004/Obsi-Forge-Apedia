@@ -23,10 +23,10 @@ OracleDescriptor: "Roll these when you need to know something that is physical i
 	- What is the nature of this temple?
 
 ## Oracle: Descriptor
-This oracle can be used to replace the one provided on [[OCL_Core#Oracle Descriptor|Core Descriptor Oracle]].
+This oracle can be used to replace the one provided on [[_SF_CH5_Core#Oracle Descriptor|Core Descriptor Oracle]].
 
 > [!mechanics]- | Roll > %%GetDice%% | Guidance
-> When you [[MV_Ask the Oracle|Ask the Oracle]] to help define the nature of a location, discovery, or encounter, roll for a Descriptor and a Focus for an adjective/noun prompt. Other oracles will include prompts to check for a Descriptor and Focus (shown as “Descriptor + Focus”). That’s your cue to roll on these tables and interpret the result as appropriate to the situation. ^guidance-STRSM-OCL-OclCoreDescriptor
+> When you [[SF_CH3_Ask the Oracle|Ask the Oracle]] to help define the nature of a location, discovery, or encounter, roll for a Descriptor and a Focus for an adjective/noun prompt. Other oracles will include prompts to check for a Descriptor and Focus (shown as “Descriptor + Focus”). That’s your cue to roll on these tables and interpret the result as appropriate to the situation. ^guidance-STRSM-OCL-OclCoreDescriptor
 
  | 1d100 | 1-2 | 3-4 | 5-6 |
 | :---: | --- | --- | --- |
@@ -133,10 +133,10 @@ This oracle can be used to replace the one provided on [[OCL_Core#Oracle Descrip
 ^table-STRSM-OCL-OclCoreDescriptor
 
 ## Oracle: Focus
-This oracle can be used to replace the one provided on [[OCL_Core#Oracle Focus|Core Focus Oracle]].
+This oracle can be used to replace the one provided on [[_SF_CH5_Core#Oracle Focus|Core Focus Oracle]].
 
 > [!mechanics]- | Roll > %%GetDice%% | Guidance
-> When you [[MV_Ask the Oracle|Ask the Oracle]] to help define the nature of a location, discovery, or encounter, roll for a Descriptor and a Focus for an adjective/noun prompt. Other oracles will include prompts to check for a Descriptor and Focus (shown as “Descriptor + Focus”). That’s your cue to roll on these tables and interpret the result as appropriate to the situation. ^guidance-STRSM-OCL-OclCoreFocus
+> When you [[SF_CH3_Ask the Oracle|Ask the Oracle]] to help define the nature of a location, discovery, or encounter, roll for a Descriptor and a Focus for an adjective/noun prompt. Other oracles will include prompts to check for a Descriptor and Focus (shown as “Descriptor + Focus”). That’s your cue to roll on these tables and interpret the result as appropriate to the situation. ^guidance-STRSM-OCL-OclCoreFocus
 
 | 1d100 | 1-2 | 3-4 | 5-6 |
 | :---: | --- | --- | --- |

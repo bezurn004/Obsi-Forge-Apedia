@@ -73,7 +73,7 @@ ___
 > > #ambiguous _InputPossibleMovesHere_ ^Ability2
 ___
 > [!todo] Ability 3
-> - [ ] You may [[MV_Explore a Waypoint|Explore a Waypoint]] (even if not on an expedition) by sending the rat to search a promising confined area for something of interest or value.
+> - [ ] You may [[SF_CH3_Explore a Waypoint|Explore a Waypoint]] (even if not on an expedition) by sending the rat to search a promising confined area for something of interest or value.
 > - If you do, roll +its health.
 > 	- On a **miss,** its instincts have you forewarned; you may reroll one challenge die. ^Ability3
 ___

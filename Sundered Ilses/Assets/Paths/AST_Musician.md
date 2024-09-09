@@ -58,18 +58,18 @@ ConditionLabels:
 > [!mechanics] [[AST_Musician|MUSICIAN]]  ^Header
 ___
 > [!note] Ability 1
-> - [x] When you [[MV_Hearten|Hearten]], [[MV_Secure an Advantage|Secure an Advantage]], or [[MV_Gain Ground|Gain Ground]] by encouraging yourself or others with a musical performance, add +1.
+> - [x] When you [[SF_CH3_Hearten|Hearten]], [[SF_CH3_Secure an Advantage|Secure an Advantage]], or [[SF_CH3_Gain Ground|Gain Ground]] by encouraging yourself or others with a musical performance, add +1.
 > - On a **strong hit with a match,** also mark 1 tick on your bonds legacy track.  ^Ability1
 ___
 > [!info] Ability 2
-> - [ ] When you score a hit as you [[MV_Sojourn|Sojourn]] during your first visit to a community, and [[MV_Hearten|Hearten]] by honoring them with a song, you may take an extra recovery move. ^Ability2
+> - [ ] When you score a hit as you [[SF_CH3_Sojourn|Sojourn]] during your first visit to a community, and [[SF_CH3_Hearten|Hearten]] by honoring them with a song, you may take an extra recovery move. ^Ability2
 ___
 > [!todo] Ability 3
 > - [ ] When you suffer or encounter a tragic loss and perform a song to memorialize the dead, roll +heart.
 > - On a **strong hit,** take both. On a **weak hit,** choose one.
 > 	- _Honor the lost:_ mark 2 ticks on your bonds legacy track.
 > 	- _Offer comfort or inspiration:_ you and your allies take +2 spirit or +2 momentum.
-> - On a **miss,** the performance leaves you or others troubled; [[MV_Pay the Price|Pay the Price]]. #ConvertAbilityToMove ^Ability3
+> - On a **miss,** the performance leaves you or others troubled; [[SF_CH3_Pay the Price|Pay the Price]]. #ConvertAbilityToMove ^Ability3
 ___
 ## Tags
 

@@ -57,20 +57,20 @@ ConditionLabels:
 > [!mechanics]- [[AST_Naturalist|Naturalist (asset)]] ^Header
 ___
 > [!note] Ability 1
-> - [x] When you [[MV_Secure an Advantage|Secure an Advantage]] or [[MV_Gather Information|Gather Information]] using your knowledge of lifeforms or planetside ecosystems, add +1 
+> - [x] When you [[SF_CH3_Secure an Advantage|Secure an Advantage]] or [[SF_CH3_Gather Information|Gather Information]] using your knowledge of lifeforms or planetside ecosystems, add +1 
 > 	- On a hit take +1 momentum.
 > 	- On a strong hit with a match, you also confirm an obscure theory or reveal a surprising aspect of the encounter; mark 1 tick on your discoveries legacy track. ^Ability1
 ___
 > [!info] Ability 2
-> - [ ] When you make a move by taking a risky action to pacify, avoid, or outwit a creature (decide before rolling), you may reroll any dice, but must [[MV_Lose Momentum|Lose Momentum]] (-2).
+> - [ ] When you make a move by taking a risky action to pacify, avoid, or outwit a creature (decide before rolling), you may reroll any dice, but must [[SF_CH3_Lose Momentum|Lose Momentum]] (-2).
 > > [!faq]- Possible Moves
-> > [[MV_Face Danger|Face Danger (move)]] - [[MV_Secure an Advantage|Secure an Advantage (move)]] - [[MV_Compel|Compel (move)]] - [[MV_Battle|Battle (move)]] - [[MV_Gain Ground|Gain Ground (move)]] [[MV_React Under Fire|React Under Fire (move)]] ^Ability2
+> > [[SF_CH3_Face Danger|Face Danger (move)]] - [[SF_CH3_Secure an Advantage|Secure an Advantage (move)]] - [[SF_CH3_Compel|Compel (move)]] - [[SF_CH3_Battle|Battle (move)]] - [[SF_CH3_Gain Ground|Gain Ground (move)]] [[SF_CH3_React Under Fire|React Under Fire (move)]] ^Ability2
 ___
 > [!todo] Ability 3
 > - [ ] You are skilled at planetside survival. 
-> - When you [[MV_Resupply|Resupply]]  to scavenge resources in a life-bearing natural environment.
+> - When you [[SF_CH3_Resupply|Resupply]]  to scavenge resources in a life-bearing natural environment.
 > 	- On a hit take +1 supply. 
-> - When you [[MV_Face Danger|Face Danger]] against an environmental threat, add +1. 
+> - When you [[SF_CH3_Face Danger|Face Danger]] against an environmental threat, add +1. 
 > 	- On a hit take +1 momentum. ^Ability3
 ___
 

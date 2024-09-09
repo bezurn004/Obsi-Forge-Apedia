@@ -61,15 +61,15 @@ ConditionLabels:
 > - On a **strong hit,** take both, or choose one twice. On a **weak hit,** choose one: 
 > 	- _Build your fortune:_ Mark 1 tick on your quests legacy track.
 > 	- _Share the spoils:_ Mark 1 tick on your bonds legacy track.
-> - On a miss, choose one, but this prize also brings an unexpected danger; [[MV_Pay the Price|Pay the Price]]. #ConvertAbilityToMove ^Ability1
+> - On a miss, choose one, but this prize also brings an unexpected danger; [[SF_CH3_Pay the Price|Pay the Price]]. #ConvertAbilityToMove ^Ability1
 ___
 > [!info] Ability 2
-> - [ ] When you [[MV_Set a Course|Set a Course]] for familiar hunting grounds or to intercept a specific target, you may reroll your action die if its value is less than your ship’s integrity.
-> - When you [[MV_Face Danger|Face Danger]] by sailing an area in search of prey, add +1.
+> - [ ] When you [[SF_CH3_Set a Course|Set a Course]] for familiar hunting grounds or to intercept a specific target, you may reroll your action die if its value is less than your ship’s integrity.
+> - When you [[SF_CH3_Face Danger|Face Danger]] by sailing an area in search of prey, add +1.
 > 	- On **a hit,** take +1 momentum. ^Ability2
 ___
 > [!todo] Ability 3
-> - [ ] You may spend 1 experience to [[MV_Sojourn|Sojourn]] with an automatic strong hit.
+> - [ ] You may spend 1 experience to [[SF_CH3_Sojourn|Sojourn]] with an automatic strong hit.
 > - If you do, you and your allies take one extra recovery move. ^Ability3
 ___
 ## Tags

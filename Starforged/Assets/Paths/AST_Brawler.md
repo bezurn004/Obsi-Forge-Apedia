@@ -58,16 +58,16 @@ ConditionLabels:
 > **Character Aspect: ** If you fight unarmed or with a close quarters weapon… ^Header
 ___
 > [!note] Ability 1
-> - [x] When you [[MV_Gain Ground|Gain Ground]] by attempting to disarm, trip, shove, grapple, or stun your foe, add +1.
+> - [x] When you [[SF_CH3_Gain Ground|Gain Ground]] by attempting to disarm, trip, shove, grapple, or stun your foe, add +1.
 > 	- On a hit take +1 momentum. ^Ability1
 ___
 > [!info] Ability 2
-> - [ ] When you [[MV_Clash|Clash]] in close quarters, you may draw on your momentum to gain advantage. If you do, [[MV_Lose Momentum|Lose Momentum]] (-2) and choose one (before rolling). 
+> - [ ] When you [[SF_CH3_Clash|Clash]] in close quarters, you may draw on your momentum to gain advantage. If you do, [[SF_CH3_Lose Momentum|Lose Momentum]] (-2) and choose one (before rolling). 
 > 	- Aggressive: Count a weak hit as a strong hit. 
 > 	- Defensive: Count a miss as a weak hit. ^Ability2
 ___
 > [!todo] Ability 3
-> - [ ] When you [[MV_Enter the Fray|Enter The Fray]] already positioned in close quarters against your foe, 
+> - [ ] When you [[SF_CH3_Enter the Fray|Enter The Fray]] already positioned in close quarters against your foe, 
 > 	- On a hit mark progress.
 > 	- On a strong hit with a match, your initial assault leaves them stunned; also take +2 momentum. ^Ability3
 ___

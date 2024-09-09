@@ -58,11 +58,11 @@ ConditionLabels:
 > **Character Aspect: ** You are all that remains of a people, culture, or tradition.** ^Header
 ___
 > [!note] Ability 1
-> - [x] When you [[MV_Face Death|Face Death]] or [[MV_Face Desolution|Face Desolution]], visions of your heritage give you the strength to carry on. Envision how this manifests, and reroll any dice. 
+> - [x] When you [[SF_CH3_Face Death|Face Death]] or [[SF_CH3_Face Desolution|Face Desolution]], visions of your heritage give you the strength to carry on. Envision how this manifests, and reroll any dice. 
 > 	- On a strong hit with a match, a surprising new aspect of your heritage is revealed; take +2 momentum and mark 2 ticks on your bonds legacy track. ^Ability1
 ___
 > [!info] Ability 2
-> - [ ] When you [[MV_Secure an Advantage|Secure an Advantage]] or [[MV_Compel|Compel]] through a tale, performance, or ceremony, envision what you reveal of your heritage and +1 
+> - [ ] When you [[SF_CH3_Secure an Advantage|Secure an Advantage]] or [[SF_CH3_Compel|Compel]] through a tale, performance, or ceremony, envision what you reveal of your heritage and +1 
 > 	- On a hit take +1 momentum ^Ability2
 ___
 > [!todo] Ability 3

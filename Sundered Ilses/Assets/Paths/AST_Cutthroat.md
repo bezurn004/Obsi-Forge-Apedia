@@ -59,7 +59,7 @@ ConditionLabels:
 > **Aspect:** If you wield knives…  ^Header
  ___
 > [!note] Ability 1
-> - [x] When you [[MV_Strike|Strike]], add +1. When you make a move using a knife not as a weapon to attack or threaten, but as a tool to cut an object, gain leverage, or grab hold, add +1 and take +1 momentum on a hit. ^Ability1
+> - [x] When you [[SF_CH3_Strike|Strike]], add +1. When you make a move using a knife not as a weapon to attack or threaten, but as a tool to cut an object, gain leverage, or grab hold, add +1 and take +1 momentum on a hit. ^Ability1
 ___
 > [!info] Ability 2
 > - [ ] Once per situation, when you make a move to ambush an unaware foe, or perform a feint or misdirection to draw someone off their guard, reroll any dice. 
@@ -72,8 +72,8 @@ ___
 > > - [ ] Available ^Ability2
 ___
 > [!todo] Ability 3
-> - [ ] When you [[MV_Take Decisive Action|Take Decisive Action]] without mercy or restraint, you may reroll one challenge die.
-> - If you do, [[MV_Endure Stress|Endure Stress]] (-2).
+> - [ ] When you [[SF_CH3_Take Decisive Action|Take Decisive Action]] without mercy or restraint, you may reroll one challenge die.
+> - If you do, [[SF_CH3_Endure Stress|Endure Stress]] (-2).
 > 	- If you then choose to resist the stress, roll +iron instead of +spirit or +heart. ^Ability3
 ___
 ## Tags

@@ -36,7 +36,7 @@ First roll on the Name Template table to find the pattern that the name takes an
 ^table-STRSM-OCL-OclFactionNameTemplate
 
 ## Oracle: Faction Name - Legacy
-This oracle can be used to replace the one provided on [[OCL_Faction-Name#Oracle Faction Name Legacy|Faction Name - Legacy Oracle]].
+This oracle can be used to replace the one provided on [[SF_CH5_Faction-Name#Oracle Faction Name Legacy|Faction Name - Legacy Oracle]].
 
 > [!mechanics]- | Roll > %%GetDice%% | Guidance
 > Pick or roll to create a faction name as part of the [[STRSM_OCL_Faction-Names#Oracle Faction Name Template|Faction Name Template]]. ^guidance-STRSM-OCL-OclFactionName-Legacy
@@ -96,7 +96,7 @@ This oracle can be used to replace the one provided on [[OCL_Faction-Name#Oracle
 ^table-STRSM-OCL-OclFactionName-Legacy
 
 ## Oracle: Faction Name - Affiliation
-This oracle can be used to replace the one provided on [[OCL_Faction-Name#Oracle Faction Name Affiliation|Faction Name - Affiliation Oracle]].
+This oracle can be used to replace the one provided on [[SF_CH5_Faction-Name#Oracle Faction Name Affiliation|Faction Name - Affiliation Oracle]].
 
 > [!mechanics]- | Roll > %%GetDice%% | Guidance
 > Pick or roll to create a faction name as part of the [[STRSM_OCL_Faction-Names#Oracle Faction Name Template|Faction Name Template]]. ^guidance-STRSM-OCL-OclFactionName-Affiliation
@@ -131,7 +131,7 @@ This oracle can be used to replace the one provided on [[OCL_Faction-Name#Oracle
 ^table-STRSM-OCL-OclFactionName-Affiliation
 
 ## Oracle: Faction Name - Identity
-This oracle can be used to replace the one provided on [[OCL_Faction-Name#Oracle Faction Name Identity|Faction Name - Identity Oracle]].
+This oracle can be used to replace the one provided on [[SF_CH5_Faction-Name#Oracle Faction Name Identity|Faction Name - Identity Oracle]].
 
 > [!mechanics]- | Roll > %%GetDice%% | Guidance
 > Pick or roll to create a faction name as part of the [[STRSM_OCL_Faction-Names#Oracle Faction Name Template|Faction Name Template]]. ^guidance-STRSM-OCL-OclFactionName-Identity

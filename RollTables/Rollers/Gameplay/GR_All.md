@@ -14,7 +14,7 @@
 > 
 > |  |  |  |
 > | --- | --- | --- |
-> | **[[TR_Cataclysm#The Sun Plague\|The Sun Plague]]** | **[[TR_Cataclysm#Alien Invaders\|Alien Invaders]]** | **[[TR_Cataclysm#Unending War\|Unending War]]** |
+> | **[[SF_CH2_TR_Cataclysm#The Sun Plague\|The Sun Plague]]** | **[[SF_CH2_TR_Cataclysm#Alien Invaders\|Alien Invaders]]** | **[[SF_CH2_TR_Cataclysm#Unending War\|Unending War]]** |
 > 
 > > [!example]- *Cataclysm Detail*
 > > 
@@ -32,7 +32,7 @@
 > 
 > |  |  |  |
 > | --- | --- | --- |
-> | **[[TR_Exodus#Generation Ships\|Generation Ships]]** | **[[TR_Exodus#Warp Speed\|Warp Speed]]** | **[[TR_Exodus#Stargates\|Stargates]]** |
+> | **[[SF_CH2_TR_Exodus#Generation Ships\|Generation Ships]]** | **[[SF_CH2_TR_Exodus#Warp Speed\|Warp Speed]]** | **[[SF_CH2_TR_Exodus#Stargates\|Stargates]]** |
 
 ^GR-Truth-Exodus-Callout
 
@@ -42,7 +42,7 @@
 > 
 > |  |  |  |
 > | --- | --- | --- |
-> | **[[TR_Communities#Scattered and Few\|Scattered and Few]]** | **[[TR_Communities#Founder Clans\|Founder Clans]]** | **[[TR_Communities#Bountiful Balefires\|Bountiful Balefires]]** |
+> | **[[SF_CH2_TR_Communities#Scattered and Few\|Scattered and Few]]** | **[[SF_CH2_TR_Communities#Founder Clans\|Founder Clans]]** | **[[SF_CH2_TR_Communities#Bountiful Balefires\|Bountiful Balefires]]** |
 
 ^GR-Truth-Communities-Callout
 
@@ -52,7 +52,7 @@
 > 
 > |  |  |  |
 > | --- | --- | --- |
-> | **[[TR_Iron#Exodus Iron\|Exodus Iron]]** | **[[TR_Iron#Black Iron\|Black Iron]]** | **[[TR_Iron#Sworn Blades\|Sworn Blades]] |
+> | **[[SF_CH2_TR_Iron#Exodus Iron\|Exodus Iron]]** | **[[SF_CH2_TR_Iron#Black Iron\|Black Iron]]** | **[[SF_CH2_TR_Iron#Sworn Blades\|Sworn Blades]] |
 
 ^GR-Truth-Iron-Callout
 
@@ -62,7 +62,7 @@
 > 
 > |  |  |  |
 > | --- | --- | --- |
-> | **[[TR_Laws#Lawless Forge\|Lawless Forge]]** | **[[TR_Laws#Bounty Authority\|Bounty Authority]]** | **[[TR_Laws#The Covenant\|The Covenant]]** |
+> | **[[SF_CH2_TR_Laws#Lawless Forge\|Lawless Forge]]** | **[[SF_CH2_TR_Laws#Bounty Authority\|Bounty Authority]]** | **[[SF_CH2_TR_Laws#The Covenant\|The Covenant]]** |
 
 ^GR-Truth-Laws-Callout
 
@@ -72,7 +72,7 @@
 > 
 > |  |  |  |
 > | --- | --- | --- |
-> | **[[TR_Religion#Agnostic Creed\|Agnostic Creed]]** | **[[TR_Religion#Polytheistic Ideology\|Polytheistic Ideology]]** | **[[TR_Religion#The Triumvirate\|The Triumvirate]]** |
+> | **[[SF_CH2_TR_Religion#Agnostic Creed\|Agnostic Creed]]** | **[[SF_CH2_TR_Religion#Polytheistic Ideology\|Polytheistic Ideology]]** | **[[SF_CH2_TR_Religion#The Triumvirate\|The Triumvirate]]** |
 
 ^GR-Truth-Religion-Callout
 
@@ -82,7 +82,7 @@
 > 
 > |  |  |  |
 > | --- | --- | --- |
-> | **[[TR_Magic#Techno-Force\|Techno-Force]]** | **[[TR_Magic#The Paragons\|The Paragons]]** | **[[TR_Magic#Forge of Mystics\|Forge of Mystics]]** |
+> | **[[SF_CH2_TR_Magic#Techno-Force\|Techno-Force]]** | **[[SF_CH2_TR_Magic#The Paragons\|The Paragons]]** | **[[SF_CH2_TR_Magic#Forge of Mystics\|Forge of Mystics]]** |
 > 
 > > [!faq]- **Paragons Details**
 > > 
@@ -96,7 +96,7 @@
 > 
 > |  |  |  |
 > | --- | --- | --- |
-> | **[[TR_Communication and Data#Dark Data Age\|Dark Data Age]]** | **[[TR_Communication and Data#Data Couriers\|Data Couriers]]** | **[[TR_Communication and Data#Data Weave\|Data Weave]]** |
+> | **[[SF_CH2_TR_Communication and Data#Dark Data Age\|Dark Data Age]]** | **[[SF_CH2_TR_Communication and Data#Data Couriers\|Data Couriers]]** | **[[SF_CH2_TR_Communication and Data#Data Weave\|Data Weave]]** |
 
 ^GR-Truth-CommsAndData-Callout
 
@@ -106,7 +106,7 @@
 > 
 > |  |  |  |
 > | --- | --- | --- |
-> | **[[TR_Medicine#Dull Scalpel\|Dull Scalpel]]** | **[[TR_Medicine#Rare Riggers\|Rare Riggers]]** | **[[TR_Medicine#Helpful Healers\|Helpful Healers]]** |
+> | **[[SF_CH2_TR_Medicine#Dull Scalpel\|Dull Scalpel]]** | **[[SF_CH2_TR_Medicine#Rare Riggers\|Rare Riggers]]** | **[[SF_CH2_TR_Medicine#Helpful Healers\|Helpful Healers]]** |
 
 ^GR-Truth-Medicine-Callout
 
@@ -116,7 +116,7 @@
 > 
 > |  |  |  |
 > | --- | --- | --- |
-> | **[[TR_Artificial Intelligence#The Adepts\|The Adepts]]** | **[[TR_Artificial Intelligence#Scarce Intelligence\|Scarce Intelligence]]** | **[[TR_Artificial Intelligence#Mass Intelligence\|Mass Intelligence]]** |
+> | **[[SF_CH2_TR_Artificial Intelligence#The Adepts\|The Adepts]]** | **[[SF_CH2_TR_Artificial Intelligence#Scarce Intelligence\|Scarce Intelligence]]** | **[[SF_CH2_TR_Artificial Intelligence#Mass Intelligence\|Mass Intelligence]]** |
 > 
 > > [!example]- **The Adepts Detail**
 > > 
@@ -130,7 +130,7 @@
 > 
 > |  |  |  |
 > | --- | --- | --- |
-> | **[[TR_War#Scavenged Arms\|Scavenged Arms]]** | **[[TR_War#Guns For Hire\|Guns for Hire]]** | **[[TR_War#Shock And War\|Shock and War]]** |
+> | **[[SF_CH2_TR_War#Scavenged Arms\|Scavenged Arms]]** | **[[SF_CH2_TR_War#Guns For Hire\|Guns for Hire]]** | **[[SF_CH2_TR_War#Shock And War\|Shock and War]]** |
 
 ^GR-Truth-War-Callout
 
@@ -140,7 +140,7 @@
 > 
 > |  |  |  |
 > | --- | --- | --- |
-> | **[[TR_Lifeforms#Adaptable Abundance\|Adaptable Abundance]]** | **[[TR_Lifeforms#Fierce Forgespawn\|Fierce Forgespawn]]** | **[[TR_Lifeforms#Enigmatic Essentia\|Enigmatic Essentia]]** |
+> | **[[SF_CH2_TR_Lifeforms#Adaptable Abundance\|Adaptable Abundance]]** | **[[SF_CH2_TR_Lifeforms#Fierce Forgespawn\|Fierce Forgespawn]]** | **[[SF_CH2_TR_Lifeforms#Enigmatic Essentia\|Enigmatic Essentia]]** |
 
 ^GR-Truth-Lifeforms-Callout
 
@@ -150,7 +150,7 @@
 > 
 > |  |  |  |
 > | --- | --- | --- |
-> | **[[TR_Precursors#Probing Grubs\|Probing Grubs]]** | **[[TR_Precursors#Chaotic Acendancy\|Chaotic Asendancy]]** | **[[TR_Precursors#Vigilant Remnants\|Vigilant Remnants]]** |
+> | **[[SF_CH2_TR_Precursors#Probing Grubs\|Probing Grubs]]** | **[[SF_CH2_TR_Precursors#Chaotic Acendancy\|Chaotic Asendancy]]** | **[[SF_CH2_TR_Precursors#Vigilant Remnants\|Vigilant Remnants]]** |
 
 ^GR-Truth-Precursors-Callout
 
@@ -160,37 +160,37 @@
 > 
 > |  |  |  |
 > | --- | --- | --- |
-> | **[[TR_Horrors#Vengeful Spectre\|Vengeful Spectre]]** | **[[TR_Horrors#Ominous Lumines\|Ominous Lumines]]** | **[[TR_Horrors#Righteous Soulbinders\|Righteous Soulbinders]]** |
+> | **[[SF_CH2_TR_Horrors#Vengeful Spectre\|Vengeful Spectre]]** | **[[SF_CH2_TR_Horrors#Ominous Lumines\|Ominous Lumines]]** | **[[SF_CH2_TR_Horrors#Righteous Soulbinders\|Righteous Soulbinders]]** |
 
 ^GR-Truth-Horrors-Callout
 
 ## Gameplay Creation
 
-> **[[CRG_Choose Your Assets#Need Inspiration?|Character Profession]]**
+> **[[SF_CH2_Choose Your Assets#Need Inspiration?|Character Profession]]**
 >
 >`dice: [[OT_ISSF_Campaign#^PathProfessions]]`
 
 ^OR-Creation-Character-Profession-Callout
 
-> **[[CRG_Create Your Backstory#Backstory Oracle|Character Backstory Prompt]]**
+> **[[SF_CH2_Create Your Backstory#Backstory Oracle|Character Backstory Prompt]]**
 > 
 > `dice: [[OT_ISSF_Campaign#^BackstoryPrompt]]`
 
 ^OR-Creation-Character-Backstory-Prompt-Callout
 
-> **[[CRG_Board Your Starship#Envision The Starship|Starship Aspect]]**
+> **[[SF_CH2_Board Your Starship#Envision The Starship|Starship Aspect]]**
 > 
 > `dice: [[OT_ISSF_Campaign#^StarshipAspects]]`
 
 ^OR-Creation-Starship-Aspect-Callout
 
-> **[[CSG_Enhance A Starting Sector#Introduce a Sector Trouble|Sector Trouble]]**
+> **[[SF_CH2_Enhance A Starting Sector#Introduce a Sector Trouble|Sector Trouble]]**
 > 
 > `dice: [[OT_ISSF_Campaign#^SectorTrouble]]`
 
 ^OR-Creation-Sector-Trouble-Callout
 
-> **[[CFG_Inciiting Incident#Still Stuck for An Idea?|Inciting Incident]]**
+> **[[SF_CH2_Inciiting Incident#Still Stuck for An Idea?|Inciting Incident]]**
 > 
 > `dice: [[OT_ISSF_Campaign#^IncitingIncident]]`
 
@@ -198,31 +198,31 @@
 
 ## Moves
 
-> **[[MV_Take Decisive Action#Take Decisive Action Table|Take Decisive Action - Weak Hit]]**
+> **[[SF_CH3_Take Decisive Action#Take Decisive Action Table|Take Decisive Action - Weak Hit]]**
 > 
 > `dice: [[OT_ISSF_Moves#^TakeDecisiveAction-WeakHit]]`
 
 ^OR-Moves-Take-Decisive-Action-Weak-Hit-Callout
 
-> **[[MV_Confront Chaos#Confront Chaos Table|Confront Chaos Aspect]]**
+> **[[SF_CH3_Confront Chaos#Confront Chaos Table|Confront Chaos Aspect]]**
 > 
 > `dice: [[OT_ISSF_Moves#^ConfrongChaosAspect]]`
 
 ^OR-Moves-Confront-Chaos-Aspect-Callout
 
-> **[[MV_Make a Discovery#Make a Discovery Table|Make a Discovery]]**
+> **[[SF_CH3_Make a Discovery#Make a Discovery Table|Make a Discovery]]**
 > 
 > `dice: [[OT_ISSF_Moves#^MakeADiscovery]]`
 
 ^OR-Moves-Make-A-Discovery-Callout
 
-> **[[MV_Pay the Price#Pay the Price Table|Pay the Price]]**
+> **[[SF_CH3_Pay the Price#Pay the Price Table|Pay the Price]]**
 > 
 > `dice: [[OT_ISSF_Moves#^PayThePrice]]`
 
 ^OR-Moves-Pay-The-Price-Callout
 
-> ** [[MV_Endure Harm#Endure Harm Table|Endure Harm Miss]]**
+> ** [[SF_CH3_Endure Harm#Endure Harm Table|Endure Harm Miss]]**
 > 
 > `dice: [[OT_ISSF_Moves#^EndureHarmMiss]]`
 

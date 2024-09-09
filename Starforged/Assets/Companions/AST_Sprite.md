@@ -62,11 +62,11 @@ ___
 > [!note] Ability 1
 > - [x] When you make a move by sending it to perform trickery (such as creating a distraction, sneaking into a protected location, or stealing an object) add +its health. 
 > > [!faq]- Possible Moves
-> > [[MV_Face Danger|Face Danger (move)]] - [[MV_Secure an Advantage|Secure an Advantage (move)]] ^Ability1
+> > [[SF_CH3_Face Danger|Face Danger (move)]] - [[SF_CH3_Secure an Advantage|Secure an Advantage (move)]] ^Ability1
 ___
 > [!info] Ability 2
 > - [ ] You are attuned to the resonance of the sprite’s crystalline structure, and can communicate with it at a distance and perceive through its senses. 
-> - When you [[MV_Secure an Advantage|Secure an Advantage]] by observing a situation from its perspective, or remotely [[MV_Gather Information|Gather Information]], add +its health. ^Ability2
+> - When you [[SF_CH3_Secure an Advantage|Secure an Advantage]] by observing a situation from its perspective, or remotely [[SF_CH3_Gather Information|Gather Information]], add +its health. ^Ability2
 ___
 > [!todo] Ability 3
 > - [ ] With a moment’s rest, the sprite can mend its form and return automatically to max health. ^Ability3

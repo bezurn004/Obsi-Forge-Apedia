@@ -67,12 +67,12 @@ Additionally, some drones are affixed with stealth tech that can produce large g
 ___
 
 > [!note] Ability 1
-> - [x] When you [[MV_Strike|Strike]] aided by the drones, add +1. 
-> When you [[MV_Clash|Clash]], take +1 momentum on a hit. ^Ability1
+> - [x] When you [[SF_CH3_Strike|Strike]] aided by the drones, add +1. 
+> When you [[SF_CH3_Clash|Clash]], take +1 momentum on a hit. ^Ability1
 ___
 > [!info] Ability 2
 > - [ ] **Aspect:** Your drones are equipped with triangulating astronavigation sensors.
-> When you [[MV_Undertake an Expedition|Undertake an Expedition (+wits)]] using the drones to help guide your command vehicle on a journey, 
+> When you [[SF_CH3_Undertake an Expedition|Undertake an Expedition (+wits)]] using the drones to help guide your command vehicle on a journey, 
 > - [[HBC_Boost|Boost]]  and suffer -1 integrity to the drones. ^Ability2
 ___
 > [!todo] Ability 3
@@ -80,7 +80,7 @@ ___
 > When you make a move against a specific foe or threat to avoid detection with their help,
 > - [[HBC_Boost|Boost]] and suffer -1 integrity to the drones.
 > > [!faq]- Possible Moves
-> > [[MV_Secure an Advantage|Secure an Advantage (move)]] - [[MV_Gain Ground|Gain Ground (move)]] - [[MV_React Under Fire|React Under Fire (move)]] ^Ability3
+> > [[SF_CH3_Secure an Advantage|Secure an Advantage (move)]] - [[SF_CH3_Gain Ground|Gain Ground (move)]] - [[SF_CH3_React Under Fire|React Under Fire (move)]] ^Ability3
 
 ___
 

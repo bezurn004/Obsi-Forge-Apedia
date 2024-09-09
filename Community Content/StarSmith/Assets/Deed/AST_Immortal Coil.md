@@ -67,7 +67,7 @@ Are we there yet? Did someone truly make the final breakthrough? The leaders acr
 ___
 
 > [!note] Ability 1
-> - [x] You no longer benefit from [[MV_Heal|Heal]]. Instead, you must [[MV_Repair|Repair]] to regain health as a mechanical companion would.
+> - [x] You no longer benefit from [[SF_CH3_Heal|Heal]]. Instead, you must [[SF_CH3_Repair|Repair]] to regain health as a mechanical companion would.
 > Also, add the following options to spend repair points
 > 	- Clear wounded: 2 points
 > 	- Clear permanently harmed: 4 points ^Ability1
@@ -75,7 +75,7 @@ ___
 > [!info] Ability 2
 > - [ ] **Aspect:** Your command vehicle can store a copy of your consciousness.
 > When you take several hours, you may update your back-up. You may also selectively erase memories with this process.
-> - If you do, [[MV_Endure Stress|Endure Stress (move)]] (-2). ^Ability2
+> - If you do, [[SF_CH3_Endure Stress|Endure Stress (move)]] (-2). ^Ability2
 ___
 > [!todo] Ability 3
 > - [ ] **Aspect:** Your command vehicle houses a simulacrum printer.

@@ -58,17 +58,17 @@ ConditionLabels:
 > [!mechanics] [[AST_Shipwright|SHIPWRIGHT]] ^Header
 ___
 > [!note] Ability 1
-> - [x] When you personally [[MV_Repair|Repair]] a vehicle, or direct those repairs, take 1 extra repair point or +1 momentum on a hit. ^Ability1
+> - [x] When you personally [[SF_CH3_Repair|Repair]] a vehicle, or direct those repairs, take 1 extra repair point or +1 momentum on a hit. ^Ability1
 ___
 > [!info] Ability 2
-> - [ ] You may [[MV_Enter the Fray|Enter The Fray]] (+wits) by studying the construction or configuration of an enemy vessel.
+> - [ ] You may [[SF_CH3_Enter the Fray|Enter The Fray]] (+wits) by studying the construction or configuration of an enemy vessel.
 > - On a **strong hit,** you spot a vulnerability or a means of overcoming its advantages; envision what you learn, and take +2 momentum.
 > 	- Then, one time only, you or an ally may reroll any dice when using this insight to make a move.
 > > [!faq] Possible Moves
 > > #ambiguous _insertallcombat-actionoveshere?_^Ability2
 ___
 > [!todo] Ability 3
-> - [ ] When you [[MV_Resupply|Resupply (move)]] by repurposing parts or materials from a ship or wreck, reroll any challenge dice.
+> - [ ] When you [[SF_CH3_Resupply|Resupply (move)]] by repurposing parts or materials from a ship or wreck, reroll any challenge dice.
 > - On a **strong hit with a match,** you may reclaim a capability of that ship. If you do, take a free module or support vehicle asset, or gain one free upgrade to an existing module or vehicle. ^Ability3
 ___
 ## Tags

@@ -61,15 +61,15 @@ ___
 > 	- On a hit take +1 momentum.. 
 > 	- On a strong hit with a match, access is easier than expected; take another +1 momentum.
 > > [!faq]- Possible Moves
-> > [[MV_Gain Ground|Gain Ground (+shadow, wits)]] - [[MV_Secure an Advantage|Secure an Advantage (+shadow, wits)]] ^Ability1
+> > [[SF_CH3_Gain Ground|Gain Ground (+shadow, wits)]] - [[SF_CH3_Secure an Advantage|Secure an Advantage (+shadow, wits)]] ^Ability1
 ___
 > [!info] Ability 2
-> - [ ] When you [[MV_Face Danger|Face Danger]] or [[MV_Secure an Advantage|Secure an Advantage]] to establish a false identity, add +1. 
+> - [ ] When you [[SF_CH3_Face Danger|Face Danger]] or [[SF_CH3_Secure an Advantage|Secure an Advantage]] to establish a false identity, add +1. 
 > 	- On a hit, you may add +1 when using that identity to deceive or influence others. 
 > 	- If you score a miss with a match when using that identity, your deception is completely and dramatically undone. ^Ability2
 ___
 > [!todo] Ability 3
-> - [ ] When you [[MV_Check Your Gear|Check Your Gear]] for a device with a specific function to aid in infiltration, espionage, or sabotage, add +1. 
+> - [ ] When you [[SF_CH3_Check Your Gear|Check Your Gear]] for a device with a specific function to aid in infiltration, espionage, or sabotage, add +1. 
 > 	- On a hit, reroll any dice the first time you make a move aided by the device.
 > > [!warning]-  Device Status
 > > _DescribeDeviceHere_

@@ -65,13 +65,13 @@ ___
 > > - [ ] InsertTargetHere ^Ability1
 ___
 > [!info] Ability 2
-> - [ ] When you [[MV_Clash|Clash]], you may attempt to turn the tide of the fight with a difficult but bold shot.
+> - [ ] When you [[SF_CH3_Clash|Clash]], you may attempt to turn the tide of the fight with a difficult but bold shot.
 > - If you do, roll an extra challenge die and keep the two highest.
 > 	- A **weak hit** then counts as a strong hit. 
 > 	- On a **strong hit with a match,** mark progress. ^Ability2
 ___
 > [!todo] Ability 3
-> - [ ] When you [[MV_Gain Ground|Gain Ground]] by charging into close quarters with a fixed bayonet, or if you [[MV_React Under Fire|React Under Fire]] by holding foes at bay or parrying close quarter attacks with your rifle, add +1.
+> - [ ] When you [[SF_CH3_Gain Ground|Gain Ground]] by charging into close quarters with a fixed bayonet, or if you [[SF_CH3_React Under Fire|React Under Fire]] by holding foes at bay or parrying close quarter attacks with your rifle, add +1.
 > - On **a hit,** take +1 momentum. ^Ability3
 ___
 ## Tags

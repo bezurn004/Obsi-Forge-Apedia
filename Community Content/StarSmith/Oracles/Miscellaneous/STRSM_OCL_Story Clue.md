@@ -20,10 +20,10 @@ OracleDescriptor: "Similar to the NPC Plot Knowledge oracle, these cluse can be 
 Similar to my [[STRSM_OCL_Character-Knowledge|NPC Plot Knowledge]] oracles, these clues can be found to push you further along in your plot.
 
 ## Oracle: Story Clue
-This oracle can be used to replace the one provided on [[OCL_Story Clue#Oracle Story Clue|Story Clue Oracle]].
+This oracle can be used to replace the one provided on [[SF_CH5_Story Clue#Oracle Story Clue|Story Clue Oracle]].
 
 > [!mechanics]- | Roll > %%GetDice%% | Guidance
-> When you [[MV_Gather Information|Gather Information]] to investigate a mystery, you might uncover clues in the form of messages, rumors, eyewitness reports, data, or physical evidence. You can use this oracle to help reveal what this evidence connects to or implicates. Then, use the outcome of the [[MV_Gather Information|Gather Information]] roll, strong hit, weak hit, or miss, to guide whether the clue brings clarity or complications. ^guidance-STRSM-OCL-OclStoryClue
+> When you [[SF_CH3_Gather Information|Gather Information]] to investigate a mystery, you might uncover clues in the form of messages, rumors, eyewitness reports, data, or physical evidence. You can use this oracle to help reveal what this evidence connects to or implicates. Then, use the outcome of the [[SF_CH3_Gather Information|Gather Information]] roll, strong hit, weak hit, or miss, to guide whether the clue brings clarity or complications. ^guidance-STRSM-OCL-OclStoryClue
 
 | 1d100 | 1-2 | 3-4 | 5-6 |
 | :---: | :--- | :--- | :--- |

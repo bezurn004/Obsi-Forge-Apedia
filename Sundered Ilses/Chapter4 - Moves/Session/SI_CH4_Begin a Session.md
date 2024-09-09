@@ -45,8 +45,8 @@ In addition, you may spotlight a new danger, opportunity, or insight. This can i
 
 ## Tags
 
-| Contents Page | Tags | Next Page |
+| Section Page | Tags | Next Page |
 | :--- | :---: | ---: |
-| **[[_SI_CH4_Contents\|Chapter 4 - Moves Reference (SI)]]** | #SunderedIsles/Moves/Session | **[[SI_CH4_Set a Flag\|Set a Flag (SI Moves)]]** |
+| **[[_SI_CH4_Session Moves\|Session Moves (SI)]]** | #SunderedIsles/Moves/Session | **[[SI_CH4_Set a Flag\|Set a Flag (SI Moves)]]** |
 
 <font size=-2>Copyright ©2024 Shawn Tomkin. The text of this work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license. For license details, visit ironswornrpg.com. Updated June 2024 MUH051V200-PDF</font>

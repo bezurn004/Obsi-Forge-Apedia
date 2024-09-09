@@ -15,7 +15,7 @@ PageOrder: 0
 > **A Note about assets and progress moves**
 > Some assets include abilities which might be applied to a variety of moves. This is usually phrased as “when you make a move to [blank].” However, most asset abilities apply only to action rolls. Unless an asset specifically defines a benefit for a progress move, you may not leverage an asset ability when making a progress roll.
 
-For more information, see the rules related to [[GB_Assets#Modules|Module Assets]].
+For more information, see the rules related to [[SF_CH1_Assets#Modules|Module Assets]].
 
 ## Ironsworn: Starforged Module Assets
 > **First Module Asset**

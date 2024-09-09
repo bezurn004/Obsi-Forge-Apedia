@@ -61,17 +61,17 @@ ConditionLabels: Broken
 > > - [ ] Broken ^Header
 ___
 > [!note] Ability 1
-> - [x] You may make the move [[MV_Raise Shields|Raise Shields]] to fill your shield meter. 
-> 	- Then, if you [[MV_Withstand Damage|Withstand Damage]], ignore damage up to the value of your shields and suffer -1 shields.
+> - [x] You may make the move [[SF_CH3_Raise Shields|Raise Shields]] to fill your shield meter. 
+> 	- Then, if you [[SF_CH3_Withstand Damage|Withstand Damage]], ignore damage up to the value of your shields and suffer -1 shields.
 > 
 > Raised shields last for a few minutes. If reduced to 0, they cannot be raised again for an hour or so. ^Ability1
 ___
 > [!info] Ability 2
-> - [ ] You may [[MV_React Under Fire|React Under Fire]] by letting your shields take the blow. If you do, roll +shields.
+> - [ ] You may [[SF_CH3_React Under Fire|React Under Fire]] by letting your shields take the blow. If you do, roll +shields.
 > 	- On a hit take +2 momentum. ^Ability2
 ___
 > [!todo] Ability 3
-> - [ ] When you [[MV_Enter the Fray|Enter The Fray]] and score a strong hit, you may set your shields to 3 without making the move [[MV_Raise Shields|Raise Shields]]. 
+> - [ ] When you [[SF_CH3_Enter the Fray|Enter The Fray]] and score a strong hit, you may set your shields to 3 without making the move [[SF_CH3_Raise Shields|Raise Shields]]. 
 > 	- If you do, take +1 momentum. ^Ability3
 ___
 

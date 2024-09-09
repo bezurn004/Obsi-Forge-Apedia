@@ -61,10 +61,10 @@ ___
 > - [x] When you are veiled and make a move to ambush, hide, or sneak, you may preset your action die to 5. In darkness, make it 6. 
 > 	- On a miss, in addition to any other cost, you are revealed and can’t veil yourself again until the current situation is resolved.
 > > [!faq]- Possible Moves
-> > [[MV_Face Danger|Face Danger (+shadow)]] - [[MV_Secure an Advantage|Secure an Advantage (+shadow)]] - [[MV_Gain Ground|Gain Ground (+shadow)]] - [[MV_React Under Fire|React Under Fire (+shadow)]] ^Ability1
+> > [[SF_CH3_Face Danger|Face Danger (+shadow)]] - [[SF_CH3_Secure an Advantage|Secure an Advantage (+shadow)]] - [[SF_CH3_Gain Ground|Gain Ground (+shadow)]] - [[SF_CH3_React Under Fire|React Under Fire (+shadow)]] ^Ability1
 ___
 > [!info] Ability 2
-> - [ ] To expand your shadowy veil to your surroundings, make the move [[MV_Shroud In Darkness|Shroud In Darknes]] ^Ability2
+> - [ ] To expand your shadowy veil to your surroundings, make the move [[SF_CH3_Shroud In Darkness|Shroud In Darknes]] ^Ability2
 ___
 > [!todo] Ability 3
 > - [ ] When you intentionally drop your veil to reveal yourself for dramatic or surprising effect, foregoing its further use in this situation, take +2 momentum ^Ability3

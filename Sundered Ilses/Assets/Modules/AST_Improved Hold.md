@@ -62,18 +62,18 @@ ConditionLabels: Broken
  ___
 
 > [!note] Ability 1
-> - [x] When you [[MV_Resupply|Resupply]] to gain gear or provisions for your ship’s hold, you and your allies take +1 momentum for each +2 supply gained through this action. ^Ability1
+> - [x] When you [[SF_CH3_Resupply|Resupply]] to gain gear or provisions for your ship’s hold, you and your allies take +1 momentum for each +2 supply gained through this action. ^Ability1
 ___
 > [!info] Ability 2
 > **Aspect:** Your ship’s hold is stocked with reserves.
-> - [ ] When you [[MV_Sacrifice Resources|Sacrifice Resources]] and your hold supply is reduced to 0, first roll +integrity instead of marking unprepared.
+> - [ ] When you [[SF_CH3_Sacrifice Resources|Sacrifice Resources]] and your hold supply is reduced to 0, first roll +integrity instead of marking unprepared.
 > - On a **strong hit,** take +1 supply.
 > - On a **weak hit** or **miss,** mark unprepared. ^Ability2
 ___
 > [!todo] Ability 3
 > **Aspect:** Your hold is fitted with secret compartments.
-> - [ ] When the ship undergoes an inspection or search, [[MV_Ask the Oracle|Ask the Oracle]] if the compartments stay hidden, setting the odds as likely.
-> - If the answer is no, the searchers are suspicious, but you may [[MV_Face Danger|Face Danger]] to distract or direct their attention elsewhere;
+> - [ ] When the ship undergoes an inspection or search, [[SF_CH3_Ask the Oracle|Ask the Oracle]] if the compartments stay hidden, setting the odds as likely.
+> - If the answer is no, the searchers are suspicious, but you may [[SF_CH3_Face Danger|Face Danger]] to distract or direct their attention elsewhere;
 > 	- if you do, reroll any dice. ^Ability3
 ___
 ## Tags

@@ -60,14 +60,14 @@ ___
 > - [x] When you make a move to craft, repair, repurpose, or modify equipment or technology, add +1.
 > 	- On a hit take +1 momentum.
 > > [!faq]- Possible Moves
-> > [[MV_Resupply|Resupply (+wits)]] - [[MV_Repair|Repair (+wits)]] - [[MV_Secure an Advantage|Secure an Advantage (+wits)]] - [[MV_Gain Ground|Gain Ground (+wits)]] - [[MV_Aid Your Ally|Aid Your Ally (move)]] ^Ability1
+> > [[SF_CH3_Resupply|Resupply (+wits)]] - [[SF_CH3_Repair|Repair (+wits)]] - [[SF_CH3_Secure an Advantage|Secure an Advantage (+wits)]] - [[SF_CH3_Gain Ground|Gain Ground (+wits)]] - [[SF_CH3_Aid Your Ally|Aid Your Ally (move)]] ^Ability1
 ___
 > [!info] Ability 2
-> - [ ] When you [[MV_Gather Information|Gather Information]] by studying or disassembling a machine or device, reroll any dice. 
+> - [ ] When you [[SF_CH3_Gather Information|Gather Information]] by studying or disassembling a machine or device, reroll any dice. 
 > 	- On a match, you reveal an unexpected function, capability, or danger; mark 1 tick on your discoveries legacy track. ^Ability2
 ___
 > [!todo] Ability 3
-> - [ ] With sufficient time (a couple of hours or more), you may [[MV_Secure an Advantage|Secure an Advantage]] to assemble or enhance a device for a powerful but limited role. 
+> - [ ] With sufficient time (a couple of hours or more), you may [[SF_CH3_Secure an Advantage|Secure an Advantage]] to assemble or enhance a device for a powerful but limited role. 
 > 	- On a hit, the device is ready for use. 
 > 		- One time only, when you or an ally make a move aided by the device, take an automatic strong hit. 
 > 			- If you are in a fight, also mark progress. ^Ability3

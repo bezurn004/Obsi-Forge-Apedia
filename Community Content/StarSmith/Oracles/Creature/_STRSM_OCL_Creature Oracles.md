@@ -14,13 +14,13 @@ PageOrder: 0
 # [[_STRSM Oracles Index|Starsmith Oracles]]: Creatures Summary
 When you encounter an unknown lifeform, build it with these oracles.
 
-##  [[OCL_Creature-Environment-Scale|Environment and Scale]] (Ironsworn: Starforged)
+##  [[SF_CH5_Creature-Environment-Scale|Environment and Scale]] (Ironsworn: Starforged)
 
 - **Environment** - This gives you where the lifeform usually lives. Roll or choose where you are.
 
 - **Scale** - How big the creature is. If you get “▶Ultra-scale”, roll on the that oracle.
 
-## [[OCL_Creature-Basic Form|Basic Form]] (Ironsworn: Starforged)
+## [[SF_CH5_Creature-Basic Form|Basic Form]] (Ironsworn: Starforged)
 
 - **Basic Form** - What body shape the creature is roughly equivalent to based on earth like forms.
 

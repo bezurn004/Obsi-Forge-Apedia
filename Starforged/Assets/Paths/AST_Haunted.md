@@ -69,11 +69,11 @@ ___
 > > ``` ^Ability1
 ___
 > [!info] Ability 2
-> - [ ] When you [[MV_Face Death|Face Death]] guided by the spirit, add +1. 
+> - [ ] When you [[SF_CH3_Face Death|Face Death]] guided by the spirit, add +1. 
 > 	- On a strong hit, envision what you learn from them or about them, and mark 2 ticks on your bonds legacy track. ^Ability2
 ___
 > [!todo] Ability 3
-> - [ ] One time only, when you [[MV_Fullfill Your Vow|Fullfill Your Vow]] (extreme or greater) in service to the spirit, take this ability at no cost and choose one.
+> - [ ] One time only, when you [[SF_CH3_Fullfill Your Vow|Fullfill Your Vow]] (extreme or greater) in service to the spirit, take this ability at no cost and choose one.
 > 	- Let them go: Mark 2 ticks on your bonds legacy track for each marked ability, and discard this asset.
 > 	- Bolster your link: When you use a HAUNTED ability, on a hit take +1 momentum. ^Ability3
 ___

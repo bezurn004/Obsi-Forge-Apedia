@@ -21,7 +21,7 @@ OracleDescriptor: "Give a starship a name when it has an important role in your 
 Every ship needs a good name! Well, almost. If you want a registry number instead, try the table below.
 
 ## Oracle: Starship Name
-This oracle can be used to replace the one provided on [[OCL_Starship-Name#Oracle Starship Name|Starship Name Oracle]].
+This oracle can be used to replace the one provided on [[SF_CH5_Starship-Name#Oracle Starship Name|Starship Name Oracle]].
 
 > [!mechanics]- | Roll > %%GetDice%% | Guidance
 > Give a starship a name when it has an important role in your story. Scan this table and select a name that fits what you know of the ship’s appearance and role. Or generate a random result and let any contradictions contribute to the ship’s history or nature. ^guidance-OclStarshipName

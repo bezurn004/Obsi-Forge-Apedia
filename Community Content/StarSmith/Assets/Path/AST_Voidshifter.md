@@ -73,22 +73,22 @@ ___
 
 > [!note] Ability 1
 > - [x] When you make a move to deceive or avoid notice by altering your physical appearance, [[HBC_Boost|Boost]].
-> - On a weak hit, it is painful. [[MV_Endure Harm|Endure Harm (move)]] (-1).
-> - On a miss, the transformation fails. [[MV_Pay the Price|Pay the Price]].
+> - On a weak hit, it is painful. [[SF_CH3_Endure Harm|Endure Harm (move)]] (-1).
+> - On a miss, the transformation fails. [[SF_CH3_Pay the Price|Pay the Price]].
 > > [!faq]- Possible Moves
 > > InputPossibleMovesHere #ambiguous ^Ability1
 ___
 > [!info] Ability 2
 > - [ ] When you shapeshift your body to increase your battle prowess, envision the change and roll +iron or +health.
 > - On a strong hit, set aside an action die with a value of 6.
-> 	- When you [[MV_Strike|Strike]] or [[MV_Clash|Clash]] leveraging this change, [[HBC_Boost|Boost]] and reduce the value of the die by 1.
+> 	- When you [[SF_CH3_Strike|Strike]] or [[SF_CH3_Clash|Clash]] leveraging this change, [[HBC_Boost|Boost]] and reduce the value of the die by 1.
 > 	- When the die would be set to 0, the transformation ends.
-> - On a weak hit, as above but it is painful. [[MV_Endure Harm|Endure Harm]] (-1).
-> - On a miss, the transformation fails. [[MV_Pay the Price|Pay the Price (move)]]. #ConvertAbilityToMove
+> - On a weak hit, as above but it is painful. [[SF_CH3_Endure Harm|Endure Harm]] (-1).
+> - On a miss, the transformation fails. [[SF_CH3_Pay the Price|Pay the Price (move)]]. #ConvertAbilityToMove
 > > [!warning] **Action Die:** | <input type="checkbox" /><input type="checkbox" /><input type="checkbox" /><input type="checkbox" /><input type="checkbox" /><input type="checkbox" /> | ^Ability2
 ___
 > [!todo] Ability 3
-> - [ ] When you [[MV_Face Danger|Face Danger]] due to dangerous environmental conditions, [[HBC_Boost|Boost]] as your body shifts to handle the conditions better. ^Ability3
+> - [ ] When you [[SF_CH3_Face Danger|Face Danger]] due to dangerous environmental conditions, [[HBC_Boost|Boost]] as your body shifts to handle the conditions better. ^Ability3
 ___
 
 ## Commentary

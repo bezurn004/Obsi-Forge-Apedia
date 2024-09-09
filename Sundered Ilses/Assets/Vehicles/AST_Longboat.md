@@ -61,19 +61,19 @@ ConditionLabels: Battered
 > > - [ ] Battered ^Header
  ___
 > [!note] Ability 1
-> - [x] When you (or a landing party under your command) use the craft to haul provisions as you [[MV_Resupply|Resupply]], you may roll +integrity.
+> - [x] When you (or a landing party under your command) use the craft to haul provisions as you [[SF_CH3_Resupply|Resupply]], you may roll +integrity.
 > - If you do, on **a hit,** take either...
 > 	- +1 supply
 > 	- +1 momentum. ^Ability1
 ___
 > [!info] Ability 2
 > **Aspect:** Your longboat is reinforced to endure storms, shoals, and cannon fire.
-> - [ ] When you [[MV_Withstand Damage|Withstand Damage]] and score a **miss,** reroll any dice. #ambiguous _only when taking the damage to the longboat presumably_
-> - When you [[MV_Repair|Repair]] a battered longboat, clear the impact for 1 repair point (instead of 2). ^Ability2
+> - [ ] When you [[SF_CH3_Withstand Damage|Withstand Damage]] and score a **miss,** reroll any dice. #ambiguous _only when taking the damage to the longboat presumably_
+> - When you [[SF_CH3_Repair|Repair]] a battered longboat, clear the impact for 1 repair point (instead of 2). ^Ability2
 ___
 > [!todo] Ability 3
 > **Aspect:** Your crew is trained for a stealthy approach.
-> - [ ] When you [[MV_Face Danger|Face Danger]] or [[MV_Gain Ground|Gain Ground]] using your longboat to board an enemy vessel or land on hostile shores, on **a hit,** add +1 and take +1 momentum. ^Ability3
+> - [ ] When you [[SF_CH3_Face Danger|Face Danger]] or [[SF_CH3_Gain Ground|Gain Ground]] using your longboat to board an enemy vessel or land on hostile shores, on **a hit,** add +1 and take +1 momentum. ^Ability3
 ___
 ## Tags
 

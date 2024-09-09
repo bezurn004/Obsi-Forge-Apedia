@@ -9,8 +9,8 @@ Gameplay role is a broad categorization for Assets on how it impacts the various
  
 Here is an overview on the criteria for these roles.
 - **Any:** contain broad narrative triggers with ambiguous moves that could be used. 
-- **Adventure:** focus on non-combat narrative triggers providing advantage on [[_Adventure Moves|Adventure]] and [[_Quest Moves|Quest]] moves.
-- **Combat:** Focus on narrative triggers providing advantage on [[_Combat Moves|Combat Moves]] moves to resolve encounters.
-- **Exploration:** focus on narrative triggers providing advantage on [[_Exploration Moves|Exploration Moves]] and safety on [[_Adventure Moves|Adventure]] moves. 
-- **Social:** focus on narrative triggers for social encounters providing advantage on [[_Connection Moves|Connection]] and social oriented [[_Adventure Moves|Adventure]] moves.
-- **Survival:** focus on narrative triggers staying alive providing advantge on [[_Recover Moves|Recover]], [[_Suffer Moves|Suffer]], or [[_Threshold Moves|Threshold]] moves.
+- **Adventure:** focus on non-combat narrative triggers providing advantage on [[_SF_CH3_Adventure Moves|Adventure]] and [[_SF_CH3_Quest Moves|Quest]] moves.
+- **Combat:** Focus on narrative triggers providing advantage on [[_SF_CH3_Combat Moves|Combat Moves]] moves to resolve encounters.
+- **Exploration:** focus on narrative triggers providing advantage on [[_SF_CH3_Exploration Moves|Exploration Moves]] and safety on [[_SF_CH3_Adventure Moves|Adventure]] moves. 
+- **Social:** focus on narrative triggers for social encounters providing advantage on [[_SF_CH3_Connection Moves|Connection]] and social oriented [[_SF_CH3_Adventure Moves|Adventure]] moves.
+- **Survival:** focus on narrative triggers staying alive providing advantge on [[_SF_CH3_Recover Moves|Recover]], [[_SF_CH3_Suffer Moves|Suffer]], or [[_SF_CH3_Threshold Moves|Threshold]] moves.

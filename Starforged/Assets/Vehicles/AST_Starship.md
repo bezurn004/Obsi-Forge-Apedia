@@ -61,15 +61,15 @@ ConditionLabels: [Battered, "Cursed"]
 > > - [ ] Cursed ^Header
 ___
 > [!note] Ability 1
-> - [x] When you [[MV_Advance|Advance (move)]], you may spend experience to equip this vehicle with module assets. ^Ability1
+> - [x] When you [[SF_CH3_Advance|Advance (move)]], you may spend experience to equip this vehicle with module assets. ^Ability1
 ___
 > [!info] Ability 2
-> - [ ] When you [[MV_Finish an Expedition|Finish an Expedition]] (dangerous or greater) in your starship and score a hit, this journey strengthened your ties to your ship and any fellow travelers. 
+> - [ ] When you [[SF_CH3_Finish an Expedition|Finish an Expedition]] (dangerous or greater) in your starship and score a hit, this journey strengthened your ties to your ship and any fellow travelers. 
 > 	- You and your allies may mark 1 tick on your bonds legacy track.  ^Ability2
 ___
 > [!todo] Ability 3
-> - [ ] When you [[MV_Withstand Damage|Withstand Damage]], you may roll +heart. 
-> 	- On a weak hit or miss, [[MV_Endure Stress|Endure Stress]] (-1) ^Ability3
+> - [ ] When you [[SF_CH3_Withstand Damage|Withstand Damage]], you may roll +heart. 
+> 	- On a weak hit or miss, [[SF_CH3_Endure Stress|Endure Stress]] (-1) ^Ability3
 ___
 
 ## Tags

@@ -60,15 +60,15 @@ ConditionLabels: Broken
 > > - [ ] Broken ^Header
 ___
 > [!note] Ability 1
-> - [x]  When you [[MV_Undertake an Expedition|Undertake an Expedition]] (+wits), you may reroll one challenge die. ^Ability1
+> - [x]  When you [[SF_CH3_Undertake an Expedition|Undertake an Expedition]] (+wits), you may reroll one challenge die. ^Ability1
 ___
 > [!info] Ability 2
-> - [ ] When you [[MV_Secure an Advantage|Secure an Advantage]] or [[MV_Gather Information|Gather Information]] by scanning your vehicle’s surroundings or analyzing a nearby object, choose one and on a hit take +1 momentum
+> - [ ] When you [[SF_CH3_Secure an Advantage|Secure an Advantage]] or [[SF_CH3_Gather Information|Gather Information]] by scanning your vehicle’s surroundings or analyzing a nearby object, choose one and on a hit take +1 momentum
 > 	- Manual scan: Add +1 
 > 	- Automated scan: Instead of rolling the action die, make it the value of your vehicle’s integrity. ^Ability2
 ___
 > [!todo] Ability 3
-> - [ ] When you [[MV_Enter the Fray|Enter The Fray]] against an ambush, or [[MV_Face Danger|Face Danger]] to detect a hidden threat, you may roll +integrity. If you do...
+> - [ ] When you [[SF_CH3_Enter the Fray|Enter The Fray]] against an ambush, or [[SF_CH3_Face Danger|Face Danger]] to detect a hidden threat, you may roll +integrity. If you do...
 > 	- Reroll any dice
 > 	- On a hit take +1 momentum. ^Ability3
 ___

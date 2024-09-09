@@ -64,16 +64,16 @@ ___
 > 	- On a hit take +1 momentum. 
 > 	- On a strong hit with a match, it reveals an unexpected advantage or insight; take another +1 momentum.
 > > [!faq]- Possible Moves
-> > [[MV_Face Danger|Face Danger (move)]] - [[MV_Secure an Advantage|Secure an Advantage (move)]] - [[MV_Gain Ground|Gain Ground (move)]] - [[MV_React Under Fire|React Under Fire (move)]] - [[MV_Repair|Repair (move)]] ^Ability1
+> > [[SF_CH3_Face Danger|Face Danger (move)]] - [[SF_CH3_Secure an Advantage|Secure an Advantage (move)]] - [[SF_CH3_Gain Ground|Gain Ground (move)]] - [[SF_CH3_React Under Fire|React Under Fire (move)]] - [[SF_CH3_Repair|Repair (move)]] ^Ability1
 ___
 > [!info] Ability 2
-> - [ ] When you [[MV_Repair|Repair]] aided by the bot, add +1. 
+> - [ ] When you [[SF_CH3_Repair|Repair]] aided by the bot, add +1. 
 > 	- On a miss, it reveals an alternative approach which will take extra time; 
-> 		- [[MV_Lose Momentum|Lose Momentum]] (-2).
+> 		- [[SF_CH3_Lose Momentum|Lose Momentum]] (-2).
 > 		- Then you may reroll any dice. ^Ability2
 ___
 > [!todo] Ability 3
-> - [ ] When you [[MV_Check Your Gear|Check Your Gear]] to see if the bot has a specific tool or technique available, roll +its health.
+> - [ ] When you [[SF_CH3_Check Your Gear|Check Your Gear]] to see if the bot has a specific tool or technique available, roll +its health.
 > 	- On a hit take +1 momentum. ^Ability3
 ___
 

@@ -62,8 +62,8 @@ ___
 > [!note] Ability 1
 > - [x] When you summon the Kraken, fill one segment of a four-segment clock.
 > - The Kraken will heed a single command to destroy or overcome any foe or obstacle.
-> 	- If you are in a fight, [[MV_Take Decisive Action|Take Decisive Action]] with an automatic **strong hit.** 
-> When the clock is filled, [[MV_Ask the Oracle|Ask the Oracle]] (using the yes/no table) if the Kraken turns against you, making it 50/50.
+> 	- If you are in a fight, [[SF_CH3_Take Decisive Action|Take Decisive Action]] with an automatic **strong hit.** 
+> When the clock is filled, [[SF_CH3_Ask the Oracle|Ask the Oracle]] (using the yes/no table) if the Kraken turns against you, making it 50/50.
 > - On a yes, discard this asset; the Kraken is now an epic foe.
 > - On a no, clear one segment of the clock. ^Ability1
 ___
@@ -73,7 +73,7 @@ ___
 > > #ambiguous _InputPossibleMovesHere_ ^Ability2
 ___
 > [!todo] Ability 3
-> - [ ] One time only, when you [[MV_Fullfill Your Vow|Fullfill Your Vow]] (formidable or greater) in service to the Kraken and score **a hit,** choose one:
+> - [ ] One time only, when you [[SF_CH3_Fullfill Your Vow|Fullfill Your Vow]] (formidable or greater) in service to the Kraken and score **a hit,** choose one:
 > - _Clear all clock segments_
 > - _Discard this asset_ and mark three boxes on your bonds legacy track. ^Ability3
 ___

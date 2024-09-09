@@ -67,14 +67,14 @@ Regardless, most constables are more sheriff than diplomat. They care more about
 ___
 
 > [!note] Ability 1
-> - [x] When you invoke the law and [[MV_Compel|Compel]] a person familiar with the authority you are associated with, [[HBC_Boost|Boost]]. ^Ability1
+> - [x] When you invoke the law and [[SF_CH3_Compel|Compel]] a person familiar with the authority you are associated with, [[HBC_Boost|Boost]]. ^Ability1
 ___
 > [!info] Ability 2
-> - [ ] When you [[MV_Swear an Iron Vow|Swear an Iron Vow]] (formidable or greater) to bring a lawbreaker to justice, reroll any dice.
-> After you [[MV_Fullfill Your Vow|Fullfill Your Vow]] and score a hit, if you [[MV_Make a Connection|Make a Connection]] with a victim of the criminal, add +2. ^Ability2
+> - [ ] When you [[SF_CH3_Swear an Iron Vow|Swear an Iron Vow]] (formidable or greater) to bring a lawbreaker to justice, reroll any dice.
+> After you [[SF_CH3_Fullfill Your Vow|Fullfill Your Vow]] and score a hit, if you [[SF_CH3_Make a Connection|Make a Connection]] with a victim of the criminal, add +2. ^Ability2
 ___
 > [!todo] Ability 3
-> - [ ] When you [[MV_Gather Information|Gather Information]] while investigating a crime, you may [[HBC_Roll a three dice challenge|Roll a three dice challenge]]. 
+> - [ ] When you [[SF_CH3_Gather Information|Gather Information]] while investigating a crime, you may [[HBC_Roll a three dice challenge|Roll a three dice challenge]]. 
 > On a miss with a match:
 > - Envision what you learn of a deepening conspiracy or betrayal
 > - Make the rank of your quest one higher (no greater than epic), and use the new rank when marking future progress. ^Ability3

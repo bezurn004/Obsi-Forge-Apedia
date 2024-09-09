@@ -67,7 +67,7 @@ ___
 > [!note] Ability 1
 > - [x] When you make a move directly aided by the augment, envision how it gives you exceptional capabilities and add +1. 
 > 	- On a strong hit with a match, your augment exceeds expectations; take +2 momentum. 
-> 	- On a miss with a match, the augment is broken; you must [[MV_Repair|Repair]] and spend 3 repair points to bring it back to working condition. #ambiguous %%Need to determine appliable moves%%
+> 	- On a miss with a match, the augment is broken; you must [[SF_CH3_Repair|Repair]] and spend 3 repair points to bring it back to working condition. #ambiguous %%Need to determine appliable moves%%
 > > [!faq]- Possible moves
 > > Any roll type "Action"
 > > ```dataview 
@@ -78,7 +78,7 @@ ___
 > - [ ] You are equipped with a second augment. It functions as above, but the benefits of the two augments do not stack.  ^Ability2
 ___
 > [!todo] Ability 3
-> - [ ] When you must [[MV_Endure Harm|Endure Harm]] or [[MV_Face Death|Face Death]], you may instead mark an augment as broken. Repair it as detailed above. ^Ability3
+> - [ ] When you must [[SF_CH3_Endure Harm|Endure Harm]] or [[SF_CH3_Face Death|Face Death]], you may instead mark an augment as broken. Repair it as detailed above. ^Ability3
 ___
 
 ## Tags

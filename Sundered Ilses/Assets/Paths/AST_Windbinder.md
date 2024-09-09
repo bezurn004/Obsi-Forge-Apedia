@@ -61,7 +61,7 @@ ConditionLabels:
 > - [x] When you bind the winds to your will, roll +edge.
 > - On a **strong hit,** the winds are fine; you and your allies take +2 momentum now, and add +1 when you make a move to navigate or maneuver.
 > - On a **weak hit,** the winds are fair; take +2 momentum.
-> - On a **miss,** the capricious winds are foul; you and your allies [[MV_Lose Momentum|Lose Momentum]] (-2), and face weather-related hazards as appropriate.
+> - On a **miss,** the capricious winds are foul; you and your allies [[SF_CH3_Lose Momentum|Lose Momentum]] (-2), and face weather-related hazards as appropriate.
 > No matter the outcome, the winds are fair after a few hours. #ConvertAbilityToMove 
 > > [!faq]- Possible Moves
 > > InputPossibleMovesHere ^Ability1

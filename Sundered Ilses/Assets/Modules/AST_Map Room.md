@@ -60,14 +60,14 @@ ConditionLabels: Broken
 > > - [ ] Broken ^Header
 ___
 > [!note] Ability 1
-> - [x] When you [[MV_Secure an Advantage|Secure an Advantage]] or [[MV_Gather Information|Gather Information]] by studying or preparing your maps before setting off on an expedition, reroll any dice.
-> - On **a hit,** you may also reroll any dice for the first leg of the journey as you [[MV_Undertake an Expedition|Undertake an Expedition]]. ^Ability1
+> - [x] When you [[SF_CH3_Secure an Advantage|Secure an Advantage]] or [[SF_CH3_Gather Information|Gather Information]] by studying or preparing your maps before setting off on an expedition, reroll any dice.
+> - On **a hit,** you may also reroll any dice for the first leg of the journey as you [[SF_CH3_Undertake an Expedition|Undertake an Expedition]]. ^Ability1
 ___
 > [!info] Ability 2
 > - [ ] When you assemble others in the map room to formulate a plan or speculate on a mysterious aspect of the world, you and any participating allies take +1 momentum. ^Ability2
 ___
 > [!todo] Ability 3
-> - [ ] When you [[MV_Hearten|Hearten]] by working on or studying your maps in isolation, roll +wits instead of +heart.
+> - [ ] When you [[SF_CH3_Hearten|Hearten]] by working on or studying your maps in isolation, roll +wits instead of +heart.
 > - On **a hit,** take +1 spirit or +1 momentum.
 > - On **a match,** you uncover a previously unnoticed aspect of the world or make a dreadful realization; envision what you find, and mark 2 ticks on your discoveries legacy track.^Ability3
 ___

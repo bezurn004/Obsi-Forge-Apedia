@@ -22,9 +22,9 @@ OracleDescriptor: "Dense gases make up discernible and colorful layers on the wa
 # [[_STRSM Oracles Index|Starsmith Oracles]] - [[_STRSM_OCL_Planet Oracles|Planets]]: Jovian
 Thick gases make up discernible and colorful layers on the way down to this planet’s tiny core of dense rock and magma. Storms perpetually rage in the atmosphere with constant winds blowing at hurricane force or greater. It is said that some individual storms have lasted for centuries.
 
-![[OCL_Planet-Jovian#Oracle Jovian Atmosphere]]
+![[SF_CH5_Planet-Jovian#Oracle Jovian Atmosphere]]
 
-![[OCL_Planet-Jovian#Oracle Jovian Settlements]]
+![[SF_CH5_Planet-Jovian#Oracle Jovian Settlements]]
 
 ## Oracle: Jovian Observed From Space {1-2}
 > [!mechanics]- | Roll > %%GetDice%% | Guidance
@@ -67,7 +67,7 @@ Thick gases make up discernible and colorful layers on the way down to this plan
 | 99-100 | ▶[[STRSM_OCL_Vault-Creation#Oracle Precursor Vault Outer First Look\|Precursor Vault]] (planetside) | ▶[[STRSM_OCL_Vault-Creation#Oracle Precursor Vault Outer First Look\|Precursor Vault]] (planetside) | ▶[[STRSM_OCL_Vault-Creation#Oracle Precursor Vault Outer First Look\|Precursor Vault]] (planetside) |
 ^table-PlanetsideFeature
 
-![[OCL_Planet-Jovian#Oracle Jovian Life]]
+![[SF_CH5_Planet-Jovian#Oracle Jovian Life]]
 
 ## Oracle: Jovian Sample Names
 > [!mechanics]- | Roll > %%GetDice%% | Guidance

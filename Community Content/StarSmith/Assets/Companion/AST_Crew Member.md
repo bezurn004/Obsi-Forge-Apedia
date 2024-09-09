@@ -75,7 +75,7 @@ ___
 > > InputPossibleMovesHere #ambiguous ^Ability1
 ___
 > [!info] Ability 2
-> - [ ] When you [[MV_Secure an Advantage|Secure an Advantage]] or [[MV_Gather Information|Gather Information]] by conferencing with your crew member, add +1 for each crew member present (up to +4).
+> - [ ] When you [[SF_CH3_Secure an Advantage|Secure an Advantage]] or [[SF_CH3_Gather Information|Gather Information]] by conferencing with your crew member, add +1 for each crew member present (up to +4).
 > On a miss, envision how friction arises between crew members. ^Ability2
 ___
 > [!todo] Ability 3

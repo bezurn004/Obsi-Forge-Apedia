@@ -57,11 +57,11 @@ ConditionLabels:
 > [!mechanics]- [[AST_Leader|Leader (asset)]] ^Header
 ___
 > [!note] Ability 1
-> - [x] When you [[MV_Aid Your Ally|Aid Your Ally]] through leadership, coordination, or planning, add +1. 
+> - [x] When you [[SF_CH3_Aid Your Ally|Aid Your Ally]] through leadership, coordination, or planning, add +1. 
 > 	- On a strong hit, any allies who are present take +1 momentum. ^Ability1
 ___
 > [!info] Ability 2
-> - [ ] When you [[MV_Enter the Fray|Enter The Fray]] (+heart) by coordinating with your team as they wade into the fight, make your move before your allies act. 
+> - [ ] When you [[SF_CH3_Enter the Fray|Enter The Fray]] (+heart) by coordinating with your team as they wade into the fight, make your move before your allies act. 
 > 	- On a strong hit, all allies may take an automatic strong hit. 
 > 	- On a strong hit with a match, also mark progress on any objectives in this fight. ^Ability2
 ___
@@ -70,7 +70,7 @@ ___
 > 	- On a hit take +1 momentum. 
 > 	- On a strong hit with a match, your command galvanizes them into unexpected action. Take another +1 momentum, and mark 1 tick on your bonds legacy track
 > > [!faq]- Possible Moves
-> > [[MV_Face Danger|Face Danger (+heart)]] - [[MV_Gain Ground|Gain Ground (+heart)]] - [[MV_Secure an Advantage|Secure an Advantage (+heart)]] - [[MV_Battle|Battle (+heart)]] - [[MV_Make a Connection|Make a Connection (+heart)]] - [[MV_Test Your Relationship|Test Your Relationship (+heart)]] ^Ability3
+> > [[SF_CH3_Face Danger|Face Danger (+heart)]] - [[SF_CH3_Gain Ground|Gain Ground (+heart)]] - [[SF_CH3_Secure an Advantage|Secure an Advantage (+heart)]] - [[SF_CH3_Battle|Battle (+heart)]] - [[SF_CH3_Make a Connection|Make a Connection (+heart)]] - [[SF_CH3_Test Your Relationship|Test Your Relationship (+heart)]] ^Ability3
 ___
 
 ## Tags

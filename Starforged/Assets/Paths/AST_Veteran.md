@@ -61,13 +61,13 @@ ___
 > 	- Then, if you burn momentum to improve your result, add +1 on your next move. ^Ability1
 ___
 > [!info] Ability 2
-> - [ ] When you [[MV_Make a Connection|Make a Connection]], add +1. 
+> - [ ] When you [[SF_CH3_Make a Connection|Make a Connection]], add +1. 
 > 	- If you roll a match, you have a history. 
-> 		- On a strong hit with a match, you once fought beside them, and they owe you a favor. Mark 1 tick on your bonds legacy track, and [[MV_Develop a Relationship|Develop a Relationship]] now. 
+> 		- On a strong hit with a match, you once fought beside them, and they owe you a favor. Mark 1 tick on your bonds legacy track, and [[SF_CH3_Develop a Relationship|Develop a Relationship]] now. 
 > 		- On a miss with a match, you once fought against them, and they hold a grudge. ^Ability2
 ___
 > [!todo] Ability 3
-> - [ ] When you [[MV_Secure an Advantage|Secure an Advantage]] or [[MV_Gain Ground|Gain Ground]] by recounting or recalling a hard-won lesson from your battlefield experiences, envision the memory and add +1. 
+> - [ ] When you [[SF_CH3_Secure an Advantage|Secure an Advantage]] or [[SF_CH3_Gain Ground|Gain Ground]] by recounting or recalling a hard-won lesson from your battlefield experiences, envision the memory and add +1. 
 > 	- On a hit, take +1 momentum. ^Ability3
 ___
 

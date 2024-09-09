@@ -39,7 +39,7 @@ Text
 
 ## Oracle: Story Complication
 > [!mechanics]- | Roll > `dice: [[SI_CH3_Misc_Story^table-OclStoryComplication]]` | Guidance
-> This oracle will introduce narrative turns, troubles, and revelations. It can be used as an alternative to the [[MV_Pay the Price|Pay the Price (move)]] table when you encounter a negative outcome at a crucial moment. In particular, you might use this table after rolling matched 10s on the challenge dice. ^guidance-OclStoryComplication
+> This oracle will introduce narrative turns, troubles, and revelations. It can be used as an alternative to the [[SF_CH3_Pay the Price|Pay the Price (move)]] table when you encounter a negative outcome at a crucial moment. In particular, you might use this table after rolling matched 10s on the challenge dice. ^guidance-OclStoryComplication
 
 | dice: 1d100 | Result |
 | :---: | --- |

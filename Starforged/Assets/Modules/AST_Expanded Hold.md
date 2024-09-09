@@ -62,20 +62,20 @@ ___
 > [!note] Ability 1
 > - [x] When you gain +supply, you may convert it to +cargo. 
 > - When you make a move +supply, you may add +cargo. 
-> - When you [[MV_Sacrifice Resources|Sacrafice Resources]], you may instead suffer -cargo for any portion of the cost. #ambiguous %%Need to determine applicable moves%% ^Ability1
+> - When you [[SF_CH3_Sacrifice Resources|Sacrafice Resources]], you may instead suffer -cargo for any portion of the cost. #ambiguous %%Need to determine applicable moves%% ^Ability1
 ___
 > [!info] Ability 2
 > - [ ] When you score a miss or weak hit as you make a move to barter or negotiate, and you have at least 1 cargo, you may sweeten the pot.
 > 	- If you do, reroll all dice and add +cargo. Then, suffer -1 cargo.
 > > [!faq]- Possible Moves
-> > [[MV_Compel|Compel (move)]] - [[MV_Resupply|Resupply (move)]] - [[MV_Face Danger|Face Danger (move)]] - [[MV_Secure an Advantage|Secure an Advantage (move)]] ^Ability2
+> > [[SF_CH3_Compel|Compel (move)]] - [[SF_CH3_Resupply|Resupply (move)]] - [[SF_CH3_Face Danger|Face Danger (move)]] - [[SF_CH3_Secure an Advantage|Secure an Advantage (move)]] ^Ability2
 ___
 > [!todo] Ability 3
 > - [ ] When you make a move to outrun a threat and have at least 1 cargo, you may first lighten your load by dropping cargo. 
 > 	- If you do, suffer -cargo by the amount dropped, add +that amount
 > 		- On a hit take +2 momentum.
 > > [!faq]- Possible Moves
-> > [[MV_Check Your Gear|Check Your Gear (move)]] - [[MV_Set a Course|Set a Course (move)]] - [[MV_Repair|Repair (move)]] ^Ability3
+> > [[SF_CH3_Check Your Gear|Check Your Gear (move)]] - [[SF_CH3_Set a Course|Set a Course (move)]] - [[SF_CH3_Repair|Repair (move)]] ^Ability3
 ___
 
 ## Tags

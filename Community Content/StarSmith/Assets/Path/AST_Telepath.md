@@ -77,12 +77,12 @@ ___
 > [!info] Ability 2
 > - [ ] When you edit a person or being's memories from a 24-hour period, roll +wits on a [[HBC_Roll a three dice challenge|Roll a three dice challenge]].
 > - On a strong hit, the memories are altered.
-> - On a weak hit, the memories are altered, but it is stressful. [[MV_Endure Stress|Endure Stress]] (-2).
-> - On a miss, something goes wrong. [[MV_Pay the Price|Pay the Price (move)]]. #ConvertAbilityToMove
+> - On a weak hit, the memories are altered, but it is stressful. [[SF_CH3_Endure Stress|Endure Stress]] (-2).
+> - On a miss, something goes wrong. [[SF_CH3_Pay the Price|Pay the Price (move)]]. #ConvertAbilityToMove
 > Altered memories return after several hours or several days. ^Ability2
 ___
 > [!todo] Ability 3
-> - [ ] When you [[MV_Gather Information|Gather Information]] or [[MV_Secure an Advantage|Secure an Advantage]] by observing through another person's senses, roll +wits [[HBC_Roll with Advantage|with Advantage]]. ^Ability3
+> - [ ] When you [[SF_CH3_Gather Information|Gather Information]] or [[SF_CH3_Secure an Advantage|Secure an Advantage]] by observing through another person's senses, roll +wits [[HBC_Roll with Advantage|with Advantage]]. ^Ability3
 ___
 
 ## Commentary

@@ -281,7 +281,7 @@ Imperial powers harness the might of these ships to gain dominion over the isles
 The ships you sail and encounter should reflect the nature of your truths, which you select in the campaign launch exercises. By default, this is an age of sail. But the people of your setting might face an age of industrialization, with iron-hulled warships and submersibles stalking seagoing passages. You might set sail in skyships—or even into the great aetherial tides beyond your own world. Envision the ships of your version of the isles as mundane or as fantastic as you like.
 
 ## DAMAGE AND REPAIR
-As in _Starforged_, your ship has a single status meter—its integrity. When a ship you command faces damage from an attack or hazard, make the [[4 - Moves#WITHSTAND DAMAGE|Withstand Damage]] to see how it fares. See [[MV_Withstand Damage|page 206]] in the _Starforged_ rulebook for details. To get your ship seaworthy again, make the [[4 - Moves#REPAIR|Repair]] move. This move applies if you conduct damage control in a crisis, make repairs while underway or at anchor, or commission repairs in port.
+As in _Starforged_, your ship has a single status meter—its integrity. When a ship you command faces damage from an attack or hazard, make the [[4 - Moves#WITHSTAND DAMAGE|Withstand Damage]] to see how it fares. See [[SF_CH3_Withstand Damage|page 206]] in the _Starforged_ rulebook for details. To get your ship seaworthy again, make the [[4 - Moves#REPAIR|Repair]] move. This move applies if you conduct damage control in a crisis, make repairs while underway or at anchor, or commission repairs in port.
 
 If you’d like some flavor for the nature of ship damage, especially when you face a hard hit or dramatic situation, check the [[3 - Oracles#SHIP DAMAGE]] table (page 233). If the problem isn’t dealt with, step up the severity. When you [[4 - Moves#REPAIR|Repair]], use the “repair any other component or device” option to fix critical damage to a part of your ship.
 
@@ -306,7 +306,7 @@ In the campaign launch exercises, you envision how you gained command of the [[A
 ## YOUR FLAGSHIP
 This is your _Sundered Isles_ ==command vehicle==, purchased with experience when you [[4 - Moves#ADVANCE|Advance]]. It might be gained as a gift from a patron, captured as a prize in battle, claimed as a salvaged wreck, or purchased with hard-won treasure. You might even promote  your incidental vehicle to [[AST_Flagship|FLAGSHIP]] status, giving it more importance and capabilities in your story.
 
-Your [[AST_Flagship|FLAGSHIP]]'s max integrity is 5, and it can be marked ==battered== or ==cursed== to avoid a potentially decisive roll on the [[4 - Moves#WITHSTAND DAMAGE|Withstand Damage]] table. [[GB_Impacts#Vehicle Troubles|See page 51]] in the _Starforged_ rulebook to learn more about these debilities. To explore a typical [[AST_Flagship|FLAGSHIP]] of the isles, [[#^example-ship|see page 20-21]]. 
+Your [[AST_Flagship|FLAGSHIP]]'s max integrity is 5, and it can be marked ==battered== or ==cursed== to avoid a potentially decisive roll on the [[4 - Moves#WITHSTAND DAMAGE|Withstand Damage]] table. [[SF_CH1_Impacts#Vehicle Troubles|See page 51]] in the _Starforged_ rulebook to learn more about these debilities. To explore a typical [[AST_Flagship|FLAGSHIP]] of the isles, [[#^example-ship|see page 20-21]]. 
 
 > Do you command a speedy but undergunned sloop? A powerful frigate? An imposing multi-decked titan? All command vehicles have the same mechanical attributes, but the nature of your [[AST_Flagship|FLAGSHIP]] should affect the rank of challenges and how you  interpret actions and outcomes. In addition, you can add modules to better represent the capabilities and quirks of your ship.
 
@@ -332,7 +332,7 @@ Your _Sundered Isles_ asset deck includes four support vehicles: a [[AST_Longboa
 
 Each support vehicle has an integrity meter. When a support vehicle takes a hit or faces a damaging situation, [[4 - Moves#WITHSTAND DAMAGE|Withstand Damage]] to see how it fares. As directed by that move, you can mark ==battered== to avoid potential calamitous destruction. Make the [[4 - Moves#REPAIR|Repair]] move to clear the battered impact and restore lost integrity.
 
-To learn more about modules and support vehicles, [[GB_Assets#Asset Types|see pages 55–56]] of the _Starforged_ rulebook.
+To learn more about modules and support vehicles, [[SF_CH1_Assets#Asset Types|see pages 55–56]] of the _Starforged_ rulebook.
 
 > [!example]- LONGBOAT [Support Vehicle]
 > ![[AST_Longboat#^Header]]
@@ -610,7 +610,7 @@ Greed is a corrupting force, and not all treasures bring good fortune. Your [[3 
 *31 WEALTH AND TREASUR*
 
 # NAVIGATING THE ISLES
-Perilous journeys within the isles–whether by sea or overland–are managed through [[4 - Moves#^7fdd15|exploration moves]] (page 242)]. Below are some setting assumptions to help add flavor and context to those moves. [[_Exploration Moves|See page 168]] in the _Starforged_ rulebook for additional guidance on travel and exploration.
+Perilous journeys within the isles–whether by sea or overland–are managed through [[4 - Moves#^7fdd15|exploration moves]] (page 242)]. Below are some setting assumptions to help add flavor and context to those moves. [[_SF_CH3_Exploration Moves|See page 168]] in the _Starforged_ rulebook for additional guidance on travel and exploration.
 
 ## TRAVELING BY SEA
 When sailing among the isles, you don’t simply unfurl the sails and set a constant heading to your destination. A voyage of twenty leagues as the gull flies is likely twice that distance along a meandering route. Abundant tiny islets, often uncharted, stand in your path. The push and pull of the two moons cause severe, erratic tides, and hull-breaching rocks and reefs lurk in shallow waters. The wind and weather can change in minutes. A sail sighted on the horizon might be friend or foe.
@@ -794,7 +794,7 @@ The objective rank should reflect not just the threat of your foe but the riskin
 *40 ADVENTURES AMONG THE ISLES*
 
 ### SET A TENSION CLOCK
-A ==tension clock== [[GID_Clocks_Tension|page 238]] of the _Starforged_ rulebook)] can stand for your enemy’s goal when they want to accomplish something other than sinking your ship. In many cases, this is the opposite of your objective. You want to escape the pirates, but they seek to board and capture your ship. You are chasing after an enemy, and they are making full sail to lose you in a fog bank.
+A ==tension clock== [[SF_CH3_Clocks_Tension|page 238]] of the _Starforged_ rulebook)] can stand for your enemy’s goal when they want to accomplish something other than sinking your ship. In many cases, this is the opposite of your objective. You want to escape the pirates, but they seek to board and capture your ship. You are chasing after an enemy, and they are making full sail to lose you in a fog bank.
 
 A tension clock can also represent a looming threat external to you and your foe.
 
@@ -816,7 +816,7 @@ Your approach and stat choice as you [[4 - Moves#ENTER THE FRAY|Enter the Fray]]
 ### ENVISION AND ACT
 As the fight proceeds, envision the current situation and how you take action (if in control) or how you react to your opponent or other perils (if in a bad spot). In solo mode, your stats and moves cover your ship and your individual exploits, and you switch between those perspectives. When playing with allies, that framing may change from moment to moment as appropriate. But keep in mind that commanders of the isles are often people of action, as likely to take the wheel or hammer a plug into a leaking hull as they are to issue orders from the quarterdeck.
 
-Some broad actions and related moves are listed below, but these are not the totality of your options. Use the fury and chaos of the fight to introduce complications and opportunities. Envision the situation, decide your action, and make the move. Let the outcome feed into the framing of the next action for you and your allies. Make things happen. See the _Starforged_ rulebook (pages 182–197) for [[_Combat Moves|combat move details]].
+Some broad actions and related moves are listed below, but these are not the totality of your options. Use the fury and chaos of the fight to introduce complications and opportunities. Envision the situation, decide your action, and make the move. Let the outcome feed into the framing of the next action for you and your allies. Make things happen. See the _Starforged_ rulebook (pages 182–197) for [[_SF_CH3_Combat Moves|combat move details]].
 
 | Action | When in control… | When in a bad spot … |
 | --- | --- | --- |
@@ -976,7 +976,7 @@ As you undertake your sworn vows, the factions of the isles seek to advance thei
 
 Your character’s aid or opposition can influence whether a project stalls or succeeds. But some clocks run independently of your own exploits, a ticking inevitably that can alter the future of the isles—it’s only a matter of when. 
 
-[[GID_Clocks_Campaign|See page 235]] in the _Starforged_ rulebook] for details on running campaign clocks. A campaign clock worksheet is included in the _Starforged Playkit._
+[[SF_CH3_Clocks_Campaign|See page 235]] in the _Starforged_ rulebook] for details on running campaign clocks. A campaign clock worksheet is included in the _Starforged Playkit._
 
 ## FACTION INFLUENCE GRID
 The navigation chart worksheet, available in the _Sundered Isles Playkit_, includes a ==faction influence grid==. This tool can help manage the presence and control of factions in a local area.
@@ -1107,7 +1107,7 @@ You decide the nature of beasts in your world when you choose the truths of the 
 ## INTRODUCING BEASTS TO YOUR WORLD
 The following pages include brief summaries of notable beasts in several environs: [[#^beasts-of-the-sea|sea]] (pages 58–59), [[#^beasts-of-the-land|land]] (pages 60–61), [[#^beasts-of-the-shore-and-river|shore and river]] (page 62), and [[#^beasts-of-the-sky|sky]](page 63). Use these beasts as inspiration for myths, dangers, denizens, or the focus of a quest. Feel free to pick from these lists, combine or customize, or roll for a random beast.
 
-To unleash a truly aberrant creature upon your world, generate its form using the _Starforged_ [[_OCL_Creatures|Creature oracles]] (page 336 of the Starforged rulebook).
+To unleash a truly aberrant creature upon your world, generate its form using the _Starforged_ [[_SF_CH5_Creatures|Creature oracles]] (page 336 of the Starforged rulebook).
 
 *56 ADVENTURES AMONG THE ISLES*
 
@@ -1144,7 +1144,7 @@ Or [[4 - Moves#SWEAR AN IRON VOW|Swear an Iron Vow]] and use that quest to track
 | 81–85 | Starlume | Dangerous | Hundreds of pinpoint lights shimmer within the translucent form of these gigantic jellyfish. According to legend, the lights of a starlume reveal complex celestial maps. Those who look deeply into those alluring lights may find themselves gifted—or cursed—with visions of lost seas and hidden places. |
 | 86–90 | Vortex Forge | Epic | From a distance, this titanic entity might be mistaken for a great whale, but it is a crewless metal construct that wanders the seas on an inscrutable mission. Its rotating maw generates powerful whirlpools to draw in prey, sending ship and sailor alike into an ever-burning furnace deep within its mechanical gullet. |
 | 91–95 | Herald | Epic | These colossal tortoise-like beings are the longest-lived creatures of the isles—perhaps as ancient as the world itself. Islanders interpret wondrous and grim portents from the sighting of a herald, but these creatures often go unseen; their craggy shell is easily mistaken for a small, rocky island. |
-| 96–100 | Abomination | Various Ranks | Generate this beast using the _Starforged_ [[_OCL_Creatures\|creature oracles]]  (page 336 of the _Starforged_ rulebook), giving it a water form. |
+| 96–100 | Abomination | Various Ranks | Generate this beast using the _Starforged_ [[_SF_CH5_Creatures\|creature oracles]]  (page 336 of the _Starforged_ rulebook), giving it a water form. |
 
 *58 ADVENTURES AMONG THE ISLES*
 *59 BEASTS OF THE ISLES*
@@ -1167,7 +1167,7 @@ Or [[4 - Moves#SWEAR AN IRON VOW|Swear an Iron Vow]] and use that quest to track
 | 81–85 | Ghost Rat | Dangerous | These pale rats of unusual size are accustomed to life within lightless caves. Ghost rats are blind, and use their keen sense of smell to navigate the depths. They pursue potential meals with hound-like persistence. |
 | 86–90 | Gangle | Formidable | This large, cave-dwelling insect contorts its long limbs with uncanny flexibility—the joints cracking like breaking bones—to navigate the smallest crevices. These limbs, equipped with delicate sensory organs, enable the creature to perceive the subtlest vibrations and detect prey or threats from afar. After unfolding itself from its hiding place, the gangle attacks with a spray of burning saliva. |
 | 91–95 | Deep Dragon | Epic | These ancient dragons lair in volcanic chambers, hibernating for centuries amid superheated steam and gases. They are flightless, with only vestigial wings, but their titanic scale and molten breath mark them as the greatest of dragon-kind. The rare emergence of a deep dragon from its burrow is a catastrophic reckoning for the surface world. |
-| 96–100 | Abomination | Various Ranks | Generate this beast using the _Starforged [[_OCL_Creatures\|creature oracles]] (page 336 of the _Starforged_ rulebook), giving it a land form. |
+| 96–100 | Abomination | Various Ranks | Generate this beast using the _Starforged [[_SF_CH5_Creatures\|creature oracles]] (page 336 of the _Starforged_ rulebook), giving it a land form. |
 
 *60 ADVENTURES AMONG THE ISLES*
 *61 BEASTS OF THE ISLES*
@@ -1183,7 +1183,7 @@ Or [[4 - Moves#SWEAR AN IRON VOW|Swear an Iron Vow]] and use that quest to track
 | 66–75 | Sand Dragon | Formidable | Sand dragons are the smallest of dragon-kind, but are still a fearsome foe. Burrowing beneath shoreline dunes, it stirs at the telltale vibrations of footfalls upon its lair. It attacks with dagger-like claws, teeth as long and wicked as cutlasses, and breath of scalding steam. |
 | 76–85 | Keelback Crab | Extreme | The keelback crab uses a scavenged ship as a protective shell for its soft exoskeleton. Reports of ghost ships can often be attributed to keelbacks, scuttling along coastal waters with wrecks on their backs. As it grows, a keelback must commandeer vessels of increasing size. |
 | 86–95 | Jade Crab | Extreme | The jade crab is the largest and most aggressive of the crustaceans, able to snap a longboat or even a small ship in two with its vice-like pincers. At rest, their shell is slate gray, easily mistaken for rocks or reefs. On the hunt, they shimmer with an iridescent blue-green. Fiercely territorial, these creatures often claim a waterway, cove, or sea cave as their lair. |
-| 96–100 | Abomination | Various Ranks | Generate this beast using the _Starforged_ [[_OCL_Creatures\|creature oracles]] (page 336 of the _Starforged_ rulebook), giving it a land or water form. |
+| 96–100 | Abomination | Various Ranks | Generate this beast using the _Starforged_ [[_SF_CH5_Creatures\|creature oracles]] (page 336 of the _Starforged_ rulebook), giving it a land or water form. |
 
 *62 ADVENTURES AMONG THE ISLES*
 
@@ -1198,7 +1198,7 @@ Or [[4 - Moves#SWEAR AN IRON VOW|Swear an Iron Vow]] and use that quest to track
 | 66–75 | Monarch Bat | Formidable | These oversized bats, large enough to carry off an unlucky islander, dwell in caves and amid jungle canopies. As the sun sets, they leave their roosts to hunt. They are particularly dangerous on moonless nights when their swift, silent approach goes unnoticed. |
 | 76–85 | Bloodmite | Dangerous | Bloodmites are hound-sized, flying insects. They primarily cling to the hide of titanic beasts, feeding through a blade-tipped proboscis, but are not averse to preying upon smaller targets. |
 | 86–95 | Thanatoi | Dangerous | These moth-like creatures are unsettlingly large but harmless. They are often seen on nights when Wraith is full—they shimmer with a strange, ethereal glow, as if reflecting the light of the moon. Many islanders believe they escort souls into the world beyond. Look too long into their alluring glow, they say, and you suffer a glimpse of your own death. |
-| 96–100 | Abomination | Various Ranks | Generate this beast using the _Starforged_ [[_OCL_Creatures\|creature oracles]] (page 336 of the _Starforged_ rulebook), giving it an air form. |
+| 96–100 | Abomination | Various Ranks | Generate this beast using the _Starforged_ [[_SF_CH5_Creatures\|creature oracles]] (page 336 of the _Starforged_ rulebook), giving it an air form. |
 
 *63 BEASTS OF THE ISLES*
 

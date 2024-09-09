@@ -57,7 +57,7 @@ ConditionLabels:
 > [!mechanics]- [[AST_Loyalist|Loyalist (asset)]] ^Header
 ___
 > [!note] Ability 1
-> - [x] When you [[MV_Aid Your Ally|Aid Your Ally]], add +1.
+> - [x] When you [[SF_CH3_Aid Your Ally|Aid Your Ally]], add +1.
 > 	- On a hit take +1 momentum. This is in addition to the benefits taken by your ally. 
 > 	- On a strong hit with a match, envision how this moment marks a breakthrough or milestone in your relationship; both of you may mark 1 tick on your bonds legacy track. ^Ability1
 ___
@@ -70,7 +70,7 @@ ___
 > 	- On a 1–9, your ally may replace one of their challenge dice with yours. 
 > 	- On a 10, envision how you inadvertently undermine their action; your ally must replace their lowest challenge die with yours.
 > > [!faq]- Possible Moves
-> > [[MV_Establish Haven|Establish Haven (move)]] - [[MV_Take Decisive Action|Take Decisive Action (move)]] - [[MV_Forge a Bond|Forge a Bond (move)]] - [[MV_Finish an Expedition|Finish an Expedition (move)]] - [[MV_Fullfill Your Vow|Fullfill Your Vow (move)]] - [[MV_Overcome Destruction|Overcome Destruction (move)]] ^Ability3
+> > [[SF_CH3_Establish Haven|Establish Haven (move)]] - [[SF_CH3_Take Decisive Action|Take Decisive Action (move)]] - [[SF_CH3_Forge a Bond|Forge a Bond (move)]] - [[SF_CH3_Finish an Expedition|Finish an Expedition (move)]] - [[SF_CH3_Fullfill Your Vow|Fullfill Your Vow (move)]] - [[SF_CH3_Overcome Destruction|Overcome Destruction (move)]] ^Ability3
 ___
 
 ## Tags

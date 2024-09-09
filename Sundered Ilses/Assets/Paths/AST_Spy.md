@@ -62,7 +62,7 @@ ConditionLabels:
 > - [x] When you infiltrate a location or event, increase your momentum reset by 1 for the duration of the mission. ^Ability1
 ___
 > [!info] Ability 2
-> - [ ] When you [[MV_Face Danger|Face Danger]] or [[MV_Secure an Advantage|Secure an Advantage]] to adopt a disguise or establish a false identity, add +1.
+> - [ ] When you [[SF_CH3_Face Danger|Face Danger]] or [[SF_CH3_Secure an Advantage|Secure an Advantage]] to adopt a disguise or establish a false identity, add +1.
 > - On **a hit,** add +1 when using that identity to deceive or influence others.
 > - If you score a **miss with a match** when using a false identity, your deception is completely and dramatically undone. ^Ability2
 ___

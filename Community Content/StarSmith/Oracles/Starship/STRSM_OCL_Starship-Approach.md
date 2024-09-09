@@ -23,7 +23,7 @@ OracleDescriptor: "As you approach a starship begin to expose new layers of the 
 As you approach a starship begin to expose new layers of the vessel. Start with **Initial Contact** and **First Look** and then with more time reveal it's **Mission** based the region of the Forge.
 
 ## Oracle: Starship Initial Contact
-This oracle can be used to replace the one provided on [[OCL_Starship-Approach#Oracle Starship Initial Contact|Starship Initial Contact Oracle]].
+This oracle can be used to replace the one provided on [[SF_CH5_Starship-Approach#Oracle Starship Initial Contact|Starship Initial Contact Oracle]].
 
 > [!mechanics]- | Roll > %%GetDice%% | Guidance
 > When first approaching a starship of interest for the narrative choose or roll from this oracle. ^guidance-OclStarshipInitialContact
@@ -45,7 +45,7 @@ This oracle can be used to replace the one provided on [[OCL_Starship-Approach#O
 ^table-OclStarshipInitialContact
 
 ## Oracle: Starship First Look {1-2}
-This oracle can be used to replace the one provided on [[OCL_Starship-Approach#Oracle Starship First Look|Starship First Look Oracle]].
+This oracle can be used to replace the one provided on [[SF_CH5_Starship-Approach#Oracle Starship First Look|Starship First Look Oracle]].
 
 > [!mechanics]- | Roll > %%GetDice%% | Guidance
 > When first approaching a starship of interest for the narrative choose or roll from this oracle. ^guidance-OclStarshipFirstLook

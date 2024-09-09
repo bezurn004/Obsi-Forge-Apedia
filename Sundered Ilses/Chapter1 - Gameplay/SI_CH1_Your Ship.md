@@ -6,7 +6,7 @@ SourceLink:
 
 ## Page
 aliases: 
-  - "Your Ship (Sundered Isles Gameplay)"
+  - "Your Ship (SI Gameplay)"
 PageType: "Adventure Amonth the Isles"
 PageCategory: "Your Ship"
 PageOrder: 3
@@ -44,7 +44,7 @@ In the campaign launch exercises, you envision how you gained command of the [[A
 ## YOUR FLAGSHIP
 This is your _Sundered Isles_ ==command vehicle==, purchased with experience when you [[SI_CH4_Advance|Advance (SI Moves)]]. It might be gained as a gift from a patron, captured as a prize in battle, claimed as a salvaged wreck, or purchased with hard-won treasure. You might even promote  your incidental vehicle to [[AST_Flagship|FLAGSHIP]] status, giving it more importance and capabilities in your story.
 
-Your [[AST_Flagship|FLAGSHIP]] max integrity is 5, and it can be marked ==battered== or ==cursed== to avoid a potentially decisive roll on the [[MV_Withstand Damage#^table-miss|Withstand Damage table]]. See [[GB_Impacts#Vehicle Troubles|Vehicle trouble]] on page 51 in the _Starforged_ rulebook to learn more about these debilities. To explore a typical [[AST_Flagship|FLAGSHIP]] of the isles, see [[#^example-ship|an example ship]] on pages 20–21. 
+Your [[AST_Flagship|FLAGSHIP]] max integrity is 5, and it can be marked ==battered== or ==cursed== to avoid a potentially decisive roll on the [[SF_CH3_Withstand Damage#^table-miss|Withstand Damage table]]. See [[SF_CH1_Impacts#Vehicle Troubles|Vehicle trouble]] on page 51 in the _Starforged_ rulebook to learn more about these debilities. To explore a typical [[AST_Flagship|FLAGSHIP]] of the isles, see [[#^example-ship|an example ship]] on pages 20–21. 
 
 > Do you command a speedy but undergunned sloop? A powerful frigate? An imposing multi-decked titan? All command vehicles have the same mechanical attributes, but the nature of your [[AST_Flagship|FLAGSHIP]] should affect the rank of challenges and how you  interpret actions and outcomes. In addition, you can add modules to better represent the capabilities and quirks of your ship.
 
@@ -70,13 +70,15 @@ Your _Sundered Isles_ asset deck includes four support vehicles: a [[AST_Longboa
 
 Each support vehicle has an integrity meter. When a support vehicle takes a hit or faces a damaging situation, [[SI_CH4_Withstand Damage#Withstand Damage Move Card|Withstand Damage (SI Moves)]] to see how it fares. As directed by that move, you can mark ==battered== to avoid potential calamitous destruction. Make the [[SI_CH4_Repair#Repair Move Card|Repair (SI Moves)]] to clear the battered impact and restore lost integrity.
 
-To learn more about modules and support vehicles, see [[GB_Assets#Asset Types|Asset types]] on pages 55–56 of the _Starforged_ rulebook.
+To learn more about modules and support vehicles, see [[SF_CH1_Assets#Asset Types|Asset types]] on pages 55–56 of the _Starforged_ rulebook.
 
 > [!example]- LONGBOAT [Support Vehicle]
 > ![[AST_Longboat#^Header]]
 > ![[AST_Longboat#^Ability1]]
 > ![[AST_Longboat#^Ability2]]
 > ![[AST_Longboat#^Ability3]]
+
+*19 YOUR SHIP*
 
 > ## UNBROKEN VOW
 > ### A WARSHIP OF THE SUNDERED ISLES
@@ -97,12 +99,14 @@ To learn more about modules and support vehicles, see [[GB_Assets#Asset Types|As
 > 
 > Unbroken Vow once sailed under an imperial flag. It was seized by pirates two decades ago, and has since changed hands several times. It is fast, rugged, and wields an intimidating array of heavy cannons—a quintessential vessel of war. ^example-ship
 
+*20 ADVENTURES AMONG THE ISLES*
+*21 YOUR SHIP*
 
 ## Tags
 
 | Previous Page | Tags | Next Page |
 | :--- | :---: | ---: |
-| **[[SI_CH1_Your Characcter\|Your Character]]** | #SunderedIsles/Gameplay| **[[SI_CH1_Command and Crews\|Command and Crews]]** |
+| **[[SI_CH1_Your Characcter\|Your Character (SI Gameplay)]]** | #SunderedIsles/Gameplay| **[[SI_CH1_Command and Crews\|Command and Crews (SI Gameplay)]]** |
 
 
 <font size=-2>Copyright ©2024 Shawn Tomkin. The text of this work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license. For license details, visit ironswornrpg.com. Updated June 2024 MUH051V200-PDF</font>

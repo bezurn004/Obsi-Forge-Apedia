@@ -60,17 +60,17 @@ ConditionLabels:
 > > - [ ] Broken ^Header
 ___
 > [!note] Ability 1
-> - [x] When you [[MV_Face Danger|Face Danger]], [[MV_React Under Fire|React Under Fire]], or [[MV_Clash|Clash]] against physical attacks or impact, you may put trust in your armor’s strength. If you do, preset your action die to 4. 
+> - [x] When you [[SF_CH3_Face Danger|Face Danger]], [[SF_CH3_React Under Fire|React Under Fire]], or [[SF_CH3_Clash|Clash]] against physical attacks or impact, you may put trust in your armor’s strength. If you do, preset your action die to 4. 
 > 	- On a strong hit with a match, take +2 momentum as you build confidence, make an impression on your foes, or improve your position. ^Ability1
 ___
 > [!info] Ability 2
 > - [ ] You add an important new piece to your set of armor, or upgrade its materials. As above, but preset your action die to 5 instead of 4. ^Ability2
 ___
 > [!todo] Ability 3
-> - [ ] When you must [[MV_Endure Harm|Endure Harm]], you may instead let your armor take the hit. 
+> - [ ] When you must [[SF_CH3_Endure Harm|Endure Harm]], you may instead let your armor take the hit. 
 > 	- If you do, roll your action die.
 > 		- On a 4 or greater, ignore the harm.
-> 		- On a 1-3, ignore the harm but your armor is now broken; you must [[MV_Repair|Repair]] and spend 5 repair points to bring it back to working condition. ^Ability3
+> 		- On a 1-3, ignore the harm but your armor is now broken; you must [[SF_CH3_Repair|Repair]] and spend 5 repair points to bring it back to working condition. ^Ability3
 ___
 
 ## Tags

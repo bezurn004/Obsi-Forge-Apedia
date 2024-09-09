@@ -60,7 +60,7 @@ ConditionLabels:
 
 ___
 > [!note] Ability 1
-> - [x] You [[MV_Endure Harm|Endure Harm]] as normal, but restore health only when you [[MV_Repair|Repair]] (spend 1 repair point to take +1 health, and 2 points to clear the wounded impact). ^Ability1
+> - [x] You [[SF_CH3_Endure Harm|Endure Harm]] as normal, but restore health only when you [[SF_CH3_Repair|Repair]] (spend 1 repair point to take +1 health, and 2 points to clear the wounded impact). ^Ability1
 ___
 > [!info] Ability 2
 > - [ ] When you make a move to build, repair, or study another mechanical device, or question or convince a mechanical being, you may roll +spirit.

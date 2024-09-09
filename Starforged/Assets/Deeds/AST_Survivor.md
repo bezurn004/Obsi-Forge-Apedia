@@ -58,7 +58,7 @@ ConditionLabels:
 > **Deed Pre-Req:** Once you mark traumatized or permanently harmed… ^Header
 ___
 > [!note] Ability 1
-> - [x] When you are haunted by past experiences and must [[MV_Endure Stress|Endure Stress]], you may [[MV_Lose Momentum|Lose Momentum]] (-1) before rolling as you attempt to find focus or calm. If you do...
+> - [x] When you are haunted by past experiences and must [[SF_CH3_Endure Stress|Endure Stress]], you may [[SF_CH3_Lose Momentum|Lose Momentum]] (-1) before rolling as you attempt to find focus or calm. If you do...
 > 	- Reroll any dice. 
 > 	- On a strong hit, take +1 momentum.  ^Ability1
 ___

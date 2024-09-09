@@ -58,13 +58,13 @@ ConditionLabels:
 > [!mechanics] [[AST_Duelist|DUELIST]] ^Header
 ___
 > [!note] Ability 1
-> - [x] When you [[MV_Enter the Fray|Enter The Fray]] or [[MV_Battle|Battle]] against a single worthy foe, reroll any challenge dice.
+> - [x] When you [[SF_CH3_Enter the Fray|Enter The Fray]] or [[SF_CH3_Battle|Battle]] against a single worthy foe, reroll any challenge dice.
 > - If you set a new objective in a fight by challenging a worthy foe, take +2 momentum. ^Ability1
 ___
 > [!info] Ability 2
-> - [ ] When you [[MV_Gain Ground|Gain Ground]] in personal combat using superficial attacks to probe your opponent’s defenses, or by drawing them off guard with verbal repartee,
+> - [ ] When you [[SF_CH3_Gain Ground|Gain Ground]] in personal combat using superficial attacks to probe your opponent’s defenses, or by drawing them off guard with verbal repartee,
 > - **On a hit,** take +1 momentum.
-> 	- On a **strong hit,** also add +1 if you immediately [[MV_Strike|Strike]]. ^Ability2
+> 	- On a **strong hit,** also add +1 if you immediately [[SF_CH3_Strike|Strike]]. ^Ability2
 ___
 > [!todo] Ability 3
 > - [ ] When you roll a **miss with a match** in a situation where your reputation is known, you may suffer the cost by envisioning a notable rival who challenges you to a duel.

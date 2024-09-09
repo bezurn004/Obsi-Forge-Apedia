@@ -22,9 +22,9 @@ OracleDescriptor: "Destructive forces have torn this world to pieces. Chunks of
 # [[_STRSM Oracles Index|Starsmith Oracles]] - [[_STRSM_OCL_Planet Oracles|Planets]]: Shattered
 Destructive forces have torn this world to pieces. Chunks of earth and debris orbit around larger sections of the remaining partial planet. The planetary core is no longer in tact and bleeds out into space. What caused this destruction is unknown, but if it is still around, it is surely dangerous.
 
-![[OCL_Planet-Shattered#Oracle Shattered Atmosphere]]
+![[SF_CH5_Planet-Shattered#Oracle Shattered Atmosphere]]
 
-![[OCL_Planet-Shattered#Oracle Shattered Settlements]]
+![[SF_CH5_Planet-Shattered#Oracle Shattered Settlements]]
 
 ## Oracle: Shattered Observed From Space {1-2}
 > [!mechanics]- | Roll > %%GetDice%% | Guidance
@@ -67,7 +67,7 @@ Destructive forces have torn this world to pieces. Chunks of earth and debris or
 | 99-100 | ▶[[STRSM_OCL_Vault-Creation#Oracle Precursor Vault Outer First Look\|Precursor Vault]] (planetside) | ▶[[STRSM_OCL_Vault-Creation#Oracle Precursor Vault Outer First Look\|Precursor Vault]] (planetside) | ▶[[STRSM_OCL_Vault-Creation#Oracle Precursor Vault Outer First Look\|Precursor Vault]] (planetside) |
 ^table-PlanetsideFeature
 
-![[OCL_Planet-Shattered#Oracle Shattered Life]]
+![[SF_CH5_Planet-Shattered#Oracle Shattered Life]]
 
 ## Oracle: Shattered Sample Names
 > [!mechanics]- | Roll > %%GetDice%% | Guidance

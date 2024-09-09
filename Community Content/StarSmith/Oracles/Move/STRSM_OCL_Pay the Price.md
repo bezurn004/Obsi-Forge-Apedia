@@ -20,7 +20,7 @@ OracleDescriptor: "You may choose to use this oracle when prompted by another mo
 You may choose to use this oracle when prompted by another move due to a negative outcome, or when the current situation naturally leads to a cost through your choices or actions.
 
 ## Oracle: Pay the Price
-This oracle can be used to replace the one provided on [[MV_Pay the Price#Pay the Price Table|Pay the Price Move Oracle]].
+This oracle can be used to replace the one provided on [[SF_CH3_Pay the Price#Pay the Price Table|Pay the Price Move Oracle]].
 
 > [!mechanics]- | Roll > %%GetDice%% | Guidance
 > When you suffer the outcome of an action and choose to roll on the table below. If the result doesn’t fit the situation, roll again. ^guidance-STRSM-OCL-OclMovePaythePrice

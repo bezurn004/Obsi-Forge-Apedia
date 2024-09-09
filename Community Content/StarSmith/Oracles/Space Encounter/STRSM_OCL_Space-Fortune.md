@@ -22,7 +22,7 @@ OracleDescriptor: "Space Fortunes are the Perils and Opportunities that await yo
 Space Fortunes are the **Perils** and **Opportunities** that await you on your interstellar travels through the Forge.
 
 ## Oracle: Spaceborne Peril
-This oracle can be used to replace the one provided on [[OCL_Spacee-Fortunes#Oracle Spaceborne Peril|Spaceborne Peril Oracle]].
+This oracle can be used to replace the one provided on [[SF_CH5_Spacee-Fortunes#Oracle Spaceborne Peril|Spaceborne Peril Oracle]].
 
 > [!mechanics]- | Roll > %%GetDice%% | Guidance
 > Roll or choose on this table when you want inspiration for a trouble during spaceborne exploration or on an interstellar expedition. ^guidance-OclSpacebornePeril
@@ -66,10 +66,10 @@ This oracle can be used to replace the one provided on [[OCL_Spacee-Fortunes#Ora
 ^table-OclSpacebornePeril
 
 ## Oracle: Spaceborne Opportunity
-This oracle can be used to replace the one provided on [[OCL_Spacee-Fortunes#Oracle Spaceborne Opportunity|Spaceborne Opportunity Oracle]].
+This oracle can be used to replace the one provided on [[SF_CH5_Spacee-Fortunes#Oracle Spaceborne Opportunity|Spaceborne Opportunity Oracle]].
 
 > [!mechanics]- | Roll > %%GetDice%% | Guidance
-> Roll or choose on this table when you want inspiration for a beneficial encounter or event on a spaceborne journey, such as when you roll a strong hit with a match as you [[MV_Undertake an Expedition|Undertake an Expedition (move)]], or if you [[MV_Explore a Waypoint|Explore a Waypoint (move)]] and find an opportunity.^guidance-OclSpaceborneOpportunity
+> Roll or choose on this table when you want inspiration for a beneficial encounter or event on a spaceborne journey, such as when you roll a strong hit with a match as you [[SF_CH3_Undertake an Expedition|Undertake an Expedition (move)]], or if you [[SF_CH3_Explore a Waypoint|Explore a Waypoint (move)]] and find an opportunity.^guidance-OclSpaceborneOpportunity
 
 | 1d100 | 1-2 | 3-4 | 5-6 |
 | :---: | :--- | :--- | :--- |

@@ -67,17 +67,17 @@ ___
 > [!note] Ability 1
 > - [ ] When you make a move by sending the rockhorn to directly attack a foe or smash an obstacle, roll +its health.
 > > [!faq]- Possible Moves
-> > [[MV_Face Danger|Face Danger (+heart, iron]] - [[MV_Battle|Battle (+heart, iron)]] - [[MV_Strike|Strike (+iron)]] - [[MV_Clash|Clash (+iron)]] - [[MV_Gain Ground|Gain Ground (+heart, iron)]] ^Ability2
+> > [[SF_CH3_Face Danger|Face Danger (+heart, iron]] - [[SF_CH3_Battle|Battle (+heart, iron)]] - [[SF_CH3_Strike|Strike (+iron)]] - [[SF_CH3_Clash|Clash (+iron)]] - [[SF_CH3_Gain Ground|Gain Ground (+heart, iron)]] ^Ability2
 
 ___
 > [!info] Ability 2
-> - [ ] When you make the [[MV_Companion Takes a Hit|Companion Takes a Hit]] move for the rockhorn, count a weak hit as a strong hit. 
+> - [ ] When you make the [[SF_CH3_Companion Takes a Hit|Companion Takes a Hit]] move for the rockhorn, count a weak hit as a strong hit. 
 > 	- On a strong hit with a match, its rapid healing makes it unstoppable; give it another +1 health or take +1 momentum. ^Ability2
 
 ___
 > [!todo] Ability 3
 > - [ ] The rockhorn will come to your aid in your most vulnerable moments. 
-> - When you [[MV_Endure Harm|Endure Harm]] or [[MV_Endure Stress|Endure Stress]] and score a miss, you may reroll your action die if its value is less than the rockhorn’s health. ^Ability3
+> - When you [[SF_CH3_Endure Harm|Endure Harm]] or [[SF_CH3_Endure Stress|Endure Stress]] and score a miss, you may reroll your action die if its value is less than the rockhorn’s health. ^Ability3
 
 ___
 

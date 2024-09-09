@@ -61,7 +61,7 @@ ConditionLabels:
 ___
 > [!note] Ability 1
 > - [x] When you exert yourself to make a move underwater, you may suffer -1 air and add +1.
-> - When your air is 0, you must [[MV_Endure Harm|Endure Harm]] (-2) before making any move involving physical action.
+> - When your air is 0, you must [[SF_CH3_Endure Harm|Endure Harm]] (-2) before making any move involving physical action.
 > - When you return to the surface or an air-filled environment, set your air to 5.  
 > > [!faq]- Possible Moves
 > > InputPossibleMovesHere ^Ability1

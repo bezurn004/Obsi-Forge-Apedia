@@ -60,14 +60,14 @@ ConditionLabels:
 > **Current Haven:**  _LinkHavenDetailHere_ ^Header
 ___
 > [!note] Ability 1
-> - [x] When you seek a safe location in a remote environment, make the move [[MV_Establish Haven|Establish Haven]]
+> - [x] When you seek a safe location in a remote environment, make the move [[SF_CH3_Establish Haven|Establish Haven]]
 > - If you establish a haven but score a miss on a recovery move, that location is no longer safe. ^Ability1
 ___
 > [!info] Ability 2
 > - [ ] When you make a move +wits and score a strong hit with a match, your hard-won experience lends insight; take +1 momentum. ^Ability2
 ___
 > [!todo] Ability 3
-> - [ ] When you [[MV_Endure Stress|Endure Stress]], you may roll +wits. If you do...
+> - [ ] When you [[SF_CH3_Endure Stress|Endure Stress]], you may roll +wits. If you do...
 > 	- On a hit take +1 momentum. ^Ability3
 ___
 

@@ -7,7 +7,7 @@ SourceLink:
 ## Page
 aliases: 
   - "Quick Reference (SI)"
-PageType: Moves
+PageType: "Moves Index"
 PageCategory: "Quick Reference"
 PageOrder: 57
 ---

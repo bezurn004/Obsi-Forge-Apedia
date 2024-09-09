@@ -58,9 +58,9 @@ ConditionLabels:
 > [!mechanics] [[AST_Cannoner|CANNONEER]]
 ___
 > [!note] Ability 1
-> - [x] When you [[MV_Strike|Strike]] using a vehicle’s weapons, and hold your fire for maximum effect, decide the amount of momentum you risk (1, 2, or 3) and add +that amount.
+> - [x] When you [[SF_CH3_Strike|Strike]] using a vehicle’s weapons, and hold your fire for maximum effect, decide the amount of momentum you risk (1, 2, or 3) and add +that amount.
 > - On a **strong hit,** mark progress. 
-> - On a **weak hit** or **miss,** [[MV_Lose Momentum|Lose Momentum]] equal to 1 + the amount risked (in addition to any other cost). ^Ability1
+> - On a **weak hit** or **miss,** [[SF_CH3_Lose Momentum|Lose Momentum]] equal to 1 + the amount risked (in addition to any other cost). ^Ability1
 ___
 > [!info] Ability 2
 > - [ ] When you make a move by firing or directing the fire of a vehicle’s weapons, and burn momentum to improve your result, roll your action die. On a 5 or 6, do not reset momentum. Otherwise, take +1 momentum after you reset. 
@@ -68,7 +68,7 @@ ___
 > > #ambiguous _insertmoveshere_^Ability2
 ___
 > [!todo] Ability 3
-> - [ ] When you [[MV_Secure an Advantage|Secure an Advantage]] or [[MV_Gain Ground|Gain Ground]] by preparing or loading special ammunition for a vehicle’s weapons, roll +supply.
+> - [ ] When you [[SF_CH3_Secure an Advantage|Secure an Advantage]] or [[SF_CH3_Gain Ground|Gain Ground]] by preparing or loading special ammunition for a vehicle’s weapons, roll +supply.
 > - On **a hit,** take +1 momentum. Then, when you first make a move to fire this ammunition, reroll any dice. 
 > > [!warning] Special Shot
 > > - [ ] Available

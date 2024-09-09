@@ -62,10 +62,10 @@ ConditionLabels: Broken
 ___
 
 > [!note] Ability 1
-> - [x] You may [[MV_Secure an Advantage|Secure an Advantage]] or [[MV_Gain Ground|Gain Ground]] by firing your harpoon cannon at a large foe or threat.
+> - [x] You may [[SF_CH3_Secure an Advantage|Secure an Advantage]] or [[SF_CH3_Gain Ground|Gain Ground]] by firing your harpoon cannon at a large foe or threat.
 > - On **a hit,** the target is grappled. For the duration of the situation, 
 > 	- if you make a move to maneuver against, attack, or board a grappled target, add +1.
-> 	- If you roll a 1 on your action die while taking action against a grappled target, the line is cut, broken, or works against you; [[MV_Pay the Price|Pay the Price]], and you no longer gain the bonus against that target.
+> 	- If you roll a 1 on your action die while taking action against a grappled target, the line is cut, broken, or works against you; [[SF_CH3_Pay the Price|Pay the Price]], and you no longer gain the bonus against that target.
 > > [!warning] Target Grappled
 > > - [ ] <input type=texbox value="InsertTargetNameHere">
 > 
@@ -77,7 +77,7 @@ ___
 > If at a distance, take +1 momentum on **a hit.** ^Ability2
 ___
 > [!todo] Ability 3
-> - [ ] When you [[MV_Gain Ground|Gain Ground]] by maneuvering against a harpooned target to entangle or hinder, take +1 momentum on a **strong hit** and envision the ensuing chaos. ^Ability3
+> - [ ] When you [[SF_CH3_Gain Ground|Gain Ground]] by maneuvering against a harpooned target to entangle or hinder, take +1 momentum on a **strong hit** and envision the ensuing chaos. ^Ability3
 ___
 ## Tags
 

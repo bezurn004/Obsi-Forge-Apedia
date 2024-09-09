@@ -63,11 +63,11 @@ ___
 > - [x] When you travel to a location (not your command vehicle), you and your allies may take +1 momentum when you arrive. #ambiguous %%Does travel need to be in the shuttle??  Just automatic momentum?%% ^Ability1
 ___
 > [!info] Ability 2
-> - [ ] When you [[MV_Face Danger|Face Danger]] or [[MV_React Under Fire|React Under Fire]] to navigate through hazardous skies, avoid obstacles, or evade an attack, add +1.
+> - [ ] When you [[SF_CH3_Face Danger|Face Danger]] or [[SF_CH3_React Under Fire|React Under Fire]] to navigate through hazardous skies, avoid obstacles, or evade an attack, add +1.
 > 	- On a hit take +1 momentum. ^Ability2
 ___
 > [!todo] Ability 3
-> - [ ] Your shuttle is sealed against high pressure environments, can travel underwater, and is more resistant to damage; when you [[MV_Withstand Damage|Withstand Damage]], add +1. ^Ability3
+> - [ ] Your shuttle is sealed against high pressure environments, can travel underwater, and is more resistant to damage; when you [[SF_CH3_Withstand Damage|Withstand Damage]], add +1. ^Ability3
 ___
 
 ## Tags

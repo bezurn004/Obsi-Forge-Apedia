@@ -57,16 +57,16 @@ ConditionLabels:
 > [!mechanics]- [[AST_Explorer|Explorer (asset)]] ^Header
 ___
 > [!note] Ability 1
-> - [x] When you [[MV_Explore a Waypoint|Explore a Waypoint]], on a hit take +1 momentum.
-> - When you [[MV_Finish an Expedition|Finish an Expedition]] and score a hit, mark 1 extra tick on your discoveries legacy track. ^Ability1
+> - [x] When you [[SF_CH3_Explore a Waypoint|Explore a Waypoint]], on a hit take +1 momentum.
+> - When you [[SF_CH3_Finish an Expedition|Finish an Expedition]] and score a hit, mark 1 extra tick on your discoveries legacy track. ^Ability1
 ___
 > [!info] Ability 2
 > - [ ] When you come across a wondrous sight or phenomenon, such as an extraordinary planet, majestic creature, or dazzling stellar object, choose one:
 > 	- Find inspiration: Take +1 momentum
-> 	- Soak it all in: Make the move [[MV_Hearten|Hearten]] add +1, on a hit take +1 momentum. ^Ability2
+> 	- Soak it all in: Make the move [[SF_CH3_Hearten|Hearten]] add +1, on a hit take +1 momentum. ^Ability2
 ___
 > [!todo] Ability 3
-> - [ ] When you [[MV_Secure an Advantage|Secure an Advantage]] by studying a newfound place from a safe position, add +1.
+> - [ ] When you [[SF_CH3_Secure an Advantage|Secure an Advantage]] by studying a newfound place from a safe position, add +1.
 > 	- On a hit take +1 momentum. 
 > 	- On a strong hit with a match, take another +1 momentum and envision an unusual aspect of the site. ^Ability3
 ___

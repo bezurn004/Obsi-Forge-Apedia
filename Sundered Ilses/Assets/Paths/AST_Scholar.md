@@ -61,12 +61,12 @@ ConditionLabels:
 
 ___
 > [!note] Ability 1
-> - [x] When you [[MV_Gather Information|Gather Information]] by conducting extended research within your field of study, or when you [[MV_Hearten|Hearten]] through the comfort of dedicated learning, add +1.
+> - [x] When you [[SF_CH3_Gather Information|Gather Information]] by conducting extended research within your field of study, or when you [[SF_CH3_Hearten|Hearten]] through the comfort of dedicated learning, add +1.
 > - On **a hit,** take +1 momentum. 
 > - On **a match,** you piece together an enlightening or harrowing theory; envision the nature of this revelation and mark 1 tick on your discoveries legacy track. ^Ability1
 ___
 > [!info] Ability 2
-> - [ ] When you [[MV_Secure an Advantage|Secure an Advantage]] or [[MV_Gain Ground|Gain Ground]] through cursory observation of a situation that falls within your field of study, or when you [[MV_Compel|Compel]] using your expertise to speak truth or logic, add +1. ^Ability2
+> - [ ] When you [[SF_CH3_Secure an Advantage|Secure an Advantage]] or [[SF_CH3_Gain Ground|Gain Ground]] through cursory observation of a situation that falls within your field of study, or when you [[SF_CH3_Compel|Compel]] using your expertise to speak truth or logic, add +1. ^Ability2
 ___
 > [!todo] Ability 3
 > - [ ] You apply yourself to another discipline. Choose a second field of study. ^Ability3

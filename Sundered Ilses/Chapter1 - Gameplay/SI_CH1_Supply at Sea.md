@@ -6,7 +6,7 @@ SourceLink:
 
 ## Page
 aliases: 
-  - "Supply at Sea (Sundered Isles Gameplay)"
+  - "Supply at Sea (SI Gameplay)"
 PageType: "Adventure Amonth the Isles"
 PageCategory: "Supply at Sea"
 PageOrder: 5
@@ -64,7 +64,7 @@ The _Sundered Isles_ version of the [[SI_CH4_Resupply#Resupply Move Card|Resuppl
 
 | Previous Page | Tags | Next Page |
 | :--- | :---: | ---: |
-| **[[SI_CH1_Command and Crews\|Command and Crews]]** | #SunderedIsles/Gameplay| **[[SI_CH1_Wealth and Treasure\|Wealth and Treasure]]** |
+| **[[SI_CH1_Command and Crews\|Command and Crews (SI Gameplay)]]** | #SunderedIsles/Gameplay| **[[SI_CH1_Wealth and Treasure\|Wealth and Treasure (SI Gameplay)]]** |
 
 
 <font size=-2>Copyright ©2024 Shawn Tomkin. The text of this work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license. For license details, visit ironswornrpg.com. Updated June 2024 MUH051V200-PDF</font>

@@ -24,7 +24,7 @@ OracleDescriptor: "When entering the precursor vault as part of an expedition us
 When entering the precursor vault as part of an expedition use these Oracles to flesh out the narrative if you need inspiration.
 
 ## Oracle: Interior First Look
-This oracle can be used to replace the one provided on [[OCL_Vault-Interior#Oracle Precursor Vault Interior First Look|Precursor Vault Interior First Look Oracle]].
+This oracle can be used to replace the one provided on [[SF_CH5_Vault-Interior#Oracle Precursor Vault Interior First Look|Precursor Vault Interior First Look Oracle]].
 
 > [!mechanics]- | Roll > %%GetDice%% | Guidance
 > Use this oracle to reveal what you see or encounter when first entering the site. These aspects, combined with the exterior features, will help you envision the nature and condition of the vault and provide context for the rest of your exploration. ^guidance-OclVaultInteriorFirstLook
@@ -66,7 +66,7 @@ This oracle can be used to replace the one provided on [[OCL_Vault-Interior#Orac
 ^table-OclVaultInteriorFirstLook
 
 ## Oracle: Interior Feature
-This oracle can be used to replace the one provided on [[OCL_Vault-Interior#Oracle Precursor Vault Interior Feature|Precursor Vault Interior Feature Oracle]].
+This oracle can be used to replace the one provided on [[SF_CH5_Vault-Interior#Oracle Precursor Vault Interior Feature|Precursor Vault Interior Feature Oracle]].
 
 > [!mechanics]- | Roll > %%GetDice%% | Guidance
 > To flesh out this Precursor Vault, choose or roll on an aspect observed from the interior. ^guidance-OclVaultInteriorFeature
@@ -111,10 +111,10 @@ This oracle can be used to replace the one provided on [[OCL_Vault-Interior#Orac
 ^table-OclVaultInteriorFeature
 
 ## Oracle: Interior Peril
-This oracle can be used to replace the one provided on [[OCL_Vault-Interior#Oracle Precursor Vault Interior Peril|Precursor Vault Interior Peril Oracle]].
+This oracle can be used to replace the one provided on [[SF_CH5_Vault-Interior#Oracle Precursor Vault Interior Peril|Precursor Vault Interior Peril Oracle]].
 
 > [!mechanics]- | Roll > %%GetDice%% | Guidance
-> Choose or roll for a peril when narratively appropriate or rolling a miss with a match on the challenge dice when making the [[MV_Undertake an Expedition|Undertake an Expedition (move)]]. ^guidance-OclVaultInteriorPeril
+> Choose or roll for a peril when narratively appropriate or rolling a miss with a match on the challenge dice when making the [[SF_CH3_Undertake an Expedition|Undertake an Expedition (move)]]. ^guidance-OclVaultInteriorPeril
 
 | 1d100 | 1-2 | 3-4 | 5-6 |
 | :---: | :--- | :--- | :--- |
@@ -142,10 +142,10 @@ This oracle can be used to replace the one provided on [[OCL_Vault-Interior#Orac
 ^table-OclVaultInteriorPeril
 
 ## Oracle: Interior Opportunity
-This oracle can be used to replace the one provided on [[OCL_Vault-Interior#Oracle Precursor Vault Interior Opportunity|Precursor Vault Interior Opportunity Oracle]].
+This oracle can be used to replace the one provided on [[SF_CH5_Vault-Interior#Oracle Precursor Vault Interior Opportunity|Precursor Vault Interior Opportunity Oracle]].
 
 > [!mechanics]- | Roll > %%GetDice%% | Guidance
-> Choose or roll for an opportunity after scoring a strong hit when you [[MV_Explore a Waypoint|Explore a Waypoint (move)]]. ^guidance-OclVaultInteriorOpportunity
+> Choose or roll for an opportunity after scoring a strong hit when you [[SF_CH3_Explore a Waypoint|Explore a Waypoint (move)]]. ^guidance-OclVaultInteriorOpportunity
 
 | 1d100 | 1-2 | 3-4 | 5-6 |
 | :---: | :--- | :--- | :--- |

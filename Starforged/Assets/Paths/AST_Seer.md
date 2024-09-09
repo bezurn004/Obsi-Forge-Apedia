@@ -58,7 +58,7 @@ ConditionLabels:
 > **Prophecy: ** _Insert_Description_Here_ ^Header
 ___
 > [!note] Ability 1
-> - [x] When you envision experiencing a prophetic dream, you may [[MV_Ask the Oracle|Ask the Oracle]] for details using an interpretive oracle such as Action/Them or Descriptor/Focus.
+> - [x] When you envision experiencing a prophetic dream, you may [[SF_CH3_Ask the Oracle|Ask the Oracle]] for details using an interpretive oracle such as Action/Them or Descriptor/Focus.
 > 	- If you record the answer, and later face a situation which gives truth to the vision.
 > 		- Take an automatic strong hit (one time only) when making a move to act on your foresight. 
 > 		- Then, clear the prophecy. 
@@ -71,11 +71,11 @@ ___
 > > ``` ^Ability1
 ___
 > [!info] Ability 2
-> - [ ] When you focus or meditate to [[MV_Gather Information|Gather Information]] about a place, being, or situation (in person or remotely), roll +spirit.
+> - [ ] When you focus or meditate to [[SF_CH3_Gather Information|Gather Information]] about a place, being, or situation (in person or remotely), roll +spirit.
 > 	- On a hit take +1 momentum. ^Ability2
 ___
 > [!todo] Ability 3
-> - [ ] When you or an ally roll a match as you [[MV_Sojourn|Sojourn]] in a community or [[MV_Undertake an Expedition|Undertake an Expedition]] within a site, you may envision gaining sudden and unbidden insight about the location. If you do...
+> - [ ] When you or an ally roll a match as you [[SF_CH3_Sojourn|Sojourn]] in a community or [[SF_CH3_Undertake an Expedition|Undertake an Expedition]] within a site, you may envision gaining sudden and unbidden insight about the location. If you do...
 > 	- Take +2 momentum. ^Ability3
 ___
 

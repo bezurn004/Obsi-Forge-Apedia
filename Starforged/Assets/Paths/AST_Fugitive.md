@@ -72,10 +72,10 @@ ___
 > [!info] Ability 2
 > - [ ] When you make a move by hiding, concealing your identity, or fleeing from a pursuer, add +1 and take +1 momentum on a hit.
 > > [!faq]- Possible Moves
-> > [[MV_Gain Ground|Gain Ground (+edge, shadow)]] - [[MV_Compel|Compel (+shadow)]] - [[MV_Secure an Advantage|Secure an Advantage (+edge, shadow)]] - [[MV_Enter the Fray|Enter The Fray (+shadow)]] - [[MV_React Under Fire|React Under Fire (+edge, shadow)]] ^Ability2
+> > [[SF_CH3_Gain Ground|Gain Ground (+edge, shadow)]] - [[SF_CH3_Compel|Compel (+shadow)]] - [[SF_CH3_Secure an Advantage|Secure an Advantage (+edge, shadow)]] - [[SF_CH3_Enter the Fray|Enter The Fray (+shadow)]] - [[SF_CH3_React Under Fire|React Under Fire (+edge, shadow)]] ^Ability2
 ___
 > [!todo] Ability 3
-> - [ ] When you [[MV_Fullfill Your Vow|Fullfill Your Vow]] (extreme or greater) by clearing your name or defeating the power or authority who marked you as a fugitive, gain this ability at no cost. 
+> - [ ] When you [[SF_CH3_Fullfill Your Vow|Fullfill Your Vow]] (extreme or greater) by clearing your name or defeating the power or authority who marked you as a fugitive, gain this ability at no cost. 
 > 	- You may then exchange this asset for another with the same number of marked abilities. ^Ability3
 ___
 

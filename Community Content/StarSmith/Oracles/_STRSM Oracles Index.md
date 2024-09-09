@@ -11,7 +11,7 @@ PageType: Oracle
 PageCategory: Index
 PageOrder: 0
 ---
-# [[_OCL_Index|Oracles]] - Starsmith Expanded Oracles
+# [[_SF_CH5_Index|Oracles]] - Starsmith Expanded Oracles
 My goal in creating the expanded oracles presented here was to give more options to the existing oracles. Nearly all oracles now have triple the results where possible. You still roll 2d10 for oracle results but also roll your action die (1d6). Use the table with the corresponding 1d6 result denoted by dice symbols in the tables such as #missingArt D6=1 D6=2 or D6=3 D6=4 or D6=5 D6=6
 
 I prefer larger grain oracles with many options rather than lots of specific oracles with few options. Hence, the expanded oracles you now hold deepen current oracles rather than adding all new oracles.
@@ -88,6 +88,6 @@ SORT PageOrder asc
 ## Tags
 | Main Topic | Tags | Next Section | 
 | :--- | :---: | ---: |
-| **[[_OCL_Index\|Starforged Oracles]]** | #Starsmith/Oracles/ - #Pedia/Oracles/ | **[[_STRSM_OCL_Campaign Oracles\|Campaign Oracles]]** |
+| **[[_SF_CH5_Index\|Starforged Oracles]]** | #Starsmith/Oracles/ - #Pedia/Oracles/ | **[[_STRSM_OCL_Campaign Oracles\|Campaign Oracles]]** |
 
 <font size=-2>Starsmith Oracles is created by Eric Bright and licensed for use under the Creative Commons Attribution 4.0 International License (CC-BY).</font>

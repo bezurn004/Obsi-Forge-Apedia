@@ -68,12 +68,12 @@ ConditionLabels:
  > >| Custom1 |  |  | ^Header
 ___
 > [!note] Ability 1
-> - [x] When you score a miss on a [[_Suffer Moves|Suffer Moves]] (not Endure Stress), you may loop back a second or two. 
-> - If you do, [[MV_Lose Momentum|Lose Momentum]] (-2), reroll any dice to make the move again.
+> - [x] When you score a miss on a [[_SF_CH3_Suffer Moves|Suffer Moves]] (not Endure Stress), you may loop back a second or two. 
+> - If you do, [[SF_CH3_Lose Momentum|Lose Momentum]] (-2), reroll any dice to make the move again.
 > - On a strong hit take +1 momentum ^Ability1
 ___
 > [!info] Ability 2
-> - [ ] You may make the move [[MV_Loop Back|Loop Back]] by saving a linked point in time to return.  You may only have one linked point of time.
+> - [ ] You may make the move [[SF_CH3_Loop Back|Loop Back]] by saving a linked point in time to return.  You may only have one linked point of time.
 > > [!abstract] The Gap:  _Described_Linked_Moment_Here_
 > > - [ ] Minutes (+4)
 > > - [ ] Hours (+3)

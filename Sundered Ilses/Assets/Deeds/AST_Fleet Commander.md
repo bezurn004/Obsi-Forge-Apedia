@@ -64,7 +64,7 @@ ConditionLabels: Wrecked
 > [!note] Ability 1
 > - [x] When you make a move as a fleetwide action to get in position, avoid a hazard, or fight, roll +power.
 > - If your fleet bears the cost of a move, suffer -1 power. At 0 power, mark the fleet as wrecked.
-> 	- To refit the fleet, [[MV_Sojourn|Sojourn]] and forgo an automatic strong hit on a recover move to take +2 power;
+> 	- To refit the fleet, [[SF_CH3_Sojourn|Sojourn]] and forgo an automatic strong hit on a recover move to take +2 power;
 > 	- if the fleet is wrecked, first spend 2 experience to clear that status.  
 > > [!faq]- Possible Moves
 > > #ambiguous _InputPossibleMovesHere_ ^Ability1
@@ -73,7 +73,7 @@ ___
 > - [ ] Take +2 power and set your max power to 5. ^Ability2
 ___
 > [!todo] Ability 3
-> - [ ] When you [[MV_Undertake an Expedition|Undertake an Expedition]], you may reroll your action die if its value is less than your fleet’s power. ^Ability3
+> - [ ] When you [[SF_CH3_Undertake an Expedition|Undertake an Expedition]], you may reroll your action die if its value is less than your fleet’s power. ^Ability3
 ___
 ## Tags
 

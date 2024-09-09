@@ -22,7 +22,7 @@ OracleDescriptor: "Use the Character First Look and Chracter Initial Disposition
 Use the Character **[[STRSM_OCL_Character-Approach#Oracle Character First Look {1-2}|First Look]]** and **[[STRSM_OCL_Character-Approach#Oracle Character Initial Disposition|Initial Disposition]]** oracles to get the first impression of an NPC when they first meet your character.
 
 ## Oracle: Character First Look {1-2}
-This oracle can be used to replace the one provided on [[OCL_Character-Approach#Oracle Character First Look|Character First Look Oracle]].
+This oracle can be used to replace the one provided on [[SF_CH5_Character-Approach#Oracle Character First Look|Character First Look Oracle]].
 
 > [!mechanics]- | Roll > %%GetDice%% | Guidance
 > The first characteristic you notice about this person. ^guidance-STRSM-OCL-OclCharacterFirstLook
@@ -71,7 +71,7 @@ This oracle can be used to replace the one provided on [[OCL_Character-Approach#
 ^table-STRSM-OCL-OclCharacterFirstLook
 
 ## Oracle: Character Initial Disposition
-This oracle can be used to replace the one provided on [[OCL_Character-Approach#Oracle Character Initial Disposition|Initial Disposition Oracle]].
+This oracle can be used to replace the one provided on [[SF_CH5_Character-Approach#Oracle Character Initial Disposition|Initial Disposition Oracle]].
 
 > [!mechanics]- | Roll > %%GetDice%% | Guidance
 > Their attitude towards you, at least at first. I’m sure they’ll love you once they really get to know you. You didn’t really mean for that engine core to go critical with their family on board, did you? Nah… ^guidance-STRSM-OCL-OclCharacterInitialDisposition

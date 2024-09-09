@@ -66,13 +66,13 @@ However, this level of strict training has its dark side as well. Suppressing em
 ___
 
 > [!note] Ability 1
-> - [x] When you focus or meditate to [[MV_Gather Information|Gather Information]] about a place, being, or situation (in person or remotely) by puzzling through the logical causes, effects or outcomes, [[HBC_Boost|Boost]]. ^Ability1
+> - [x] When you focus or meditate to [[SF_CH3_Gather Information|Gather Information]] about a place, being, or situation (in person or remotely) by puzzling through the logical causes, effects or outcomes, [[HBC_Boost|Boost]]. ^Ability1
 ___
 > [!info] Ability 2
-> - [ ] When you [[MV_Secure an Advantage|Secure an Advantage]] by researching the circumstances of a concerning situation looking for connections that others may have missed, you may reroll any dice. ^Ability2
+> - [ ] When you [[SF_CH3_Secure an Advantage|Secure an Advantage]] by researching the circumstances of a concerning situation looking for connections that others may have missed, you may reroll any dice. ^Ability2
 ___
 > [!todo] Ability 3
-> - [ ] When you [[MV_Compel|Compel]] using a researched and evidence-based argument, you may roll +wits instead of +heart.
+> - [ ] When you [[SF_CH3_Compel|Compel]] using a researched and evidence-based argument, you may roll +wits instead of +heart.
 > If you do, take +2 momentum on a hit. ^Ability3
 ___
 

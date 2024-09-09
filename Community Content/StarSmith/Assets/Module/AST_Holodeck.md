@@ -72,18 +72,18 @@ Unfortunately, the personality matrices are notorious for getting out of control
 ___
 
 > [!note] Ability 1
-> - [x] Once per journey when you [[MV_Undertake an Expedition|Undertake an Expedition]], you may train in the holodeck.
+> - [x] Once per journey when you [[SF_CH3_Undertake an Expedition|Undertake an Expedition]], you may train in the holodeck.
 > - If you do, roll +integrity or +an appropriate stat. #ambiguous _what move are we making here, Expedition? Or is this an Asset move?_
 > 	- On a hit, take +1 training cycle. 
-> - When your training cycle is at 4 and you [[MV_Advance|Advance]] to gain or upgrade the declared asset, it costs -1 XP.
+> - When your training cycle is at 4 and you [[SF_CH3_Advance|Advance]] to gain or upgrade the declared asset, it costs -1 XP.
 > - Then, set your training cycle to zero and declare a new path asset.
 > > [!warning] Training Cycle Complete | <input type="checkbox"/> ^Ability1
 ___
 > [!info] Ability 2
-> - [ ] When you [[MV_Gather Information|Gather Information]] or [[MV_Secure an Advantage|Secure an Advantage]] by talking to a holographic facsimile of an expert, add +1. ^Ability2
+> - [ ] When you [[SF_CH3_Gather Information|Gather Information]] or [[SF_CH3_Secure an Advantage|Secure an Advantage]] by talking to a holographic facsimile of an expert, add +1. ^Ability2
 ___
 > [!todo] Ability 3
-> - [ ] When you take time for yourself and [[MV_Hearten|Hearten]] using a favorite recreational program, add +1. ^Ability3
+> - [ ] When you take time for yourself and [[SF_CH3_Hearten|Hearten]] using a favorite recreational program, add +1. ^Ability3
 ___
 
 ## Comentary

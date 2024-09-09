@@ -69,15 +69,15 @@ The most advanced starships can actually transform into whole new vessel profile
 ___
 
 > [!note] Ability 1
-> - [x] When you [[MV_Face Danger|Face Danger]] to traverse hazardous underwater currents or areas of dangerous debris, [[HBC_Boost|Boost]]. ^Ability1
+> - [x] When you [[SF_CH3_Face Danger|Face Danger]] to traverse hazardous underwater currents or areas of dangerous debris, [[HBC_Boost|Boost]]. ^Ability1
 ___
 > [!info] Ability 2
 > - [ ] **Aspect:** Your command vehicle is equipped with radiation reflective plating.
-> When you [[MV_Face Danger|Face Danger]] from a hostile space environment, [[HBC_Boost|Boost]]. ^Ability2
+> When you [[SF_CH3_Face Danger|Face Danger]] from a hostile space environment, [[HBC_Boost|Boost]]. ^Ability2
 ___
 > [!todo] Ability 3
 > - [ ] **Aspect:** Your command vehicle has a modular design that shifts its physical form to fit the situation.
-> If you take time to reconfigure your ship or [[MV_Face Danger|Face Danger]] to do it swiftly, declare a stat.
+> If you take time to reconfigure your ship or [[SF_CH3_Face Danger|Face Danger]] to do it swiftly, declare a stat.
 > Thereafter, when you make a move with your command vehicle utilizing that stat, [[HBC_Roll with Advantage|Roll with Advantage]]. With all other stats, [[HBC_Roll with Disadvantage|Roll with disadvantage]].
 > #ambiguous _Can the ship return to normal no stat taken given  enough time or a subsequent Face Danger move?  Can the ship morph to other stats with time or a Face Danger move?_
 > > [!warning] **Stat:** <input type=texbox value="ConfiguredStat"> | ^Ability3

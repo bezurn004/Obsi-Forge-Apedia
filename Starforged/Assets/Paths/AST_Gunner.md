@@ -63,13 +63,13 @@ ___
 > 	- Make them hurt: Mark progress on a hit. ^Ability1
 ___
 > [!info] Ability 2
-> - [ ] When you [[MV_Take Decisive Action|Take Decisive Action]] by emptying your gun (decide before rolling), you may [[MV_Sacrifice Resources|Sacrafice Resources]] (-1) and reroll one challenge die.
-> - If the fight continues or you are caught up another fight, [[MV_Check Your Gear|Check Your Gear]] to see if you have more ammo on-hand. ^Ability2
+> - [ ] When you [[SF_CH3_Take Decisive Action|Take Decisive Action]] by emptying your gun (decide before rolling), you may [[SF_CH3_Sacrifice Resources|Sacrafice Resources]] (-1) and reroll one challenge die.
+> - If the fight continues or you are caught up another fight, [[SF_CH3_Check Your Gear|Check Your Gear]] to see if you have more ammo on-hand. ^Ability2
 ___
 > [!todo] Ability 3
 > - [ ] Give your favorite gun a name. 
-> - When you [[MV_Clash|Clash]] with it, add +1. 
-> - When you [[MV_Enter the Fray|Enter The Fray]] or [[MV_Endure Stress|Endure Stress]] while wielding it, add +1 and on a hit take +1 momentum.
+> - When you [[SF_CH3_Clash|Clash]] with it, add +1. 
+> - When you [[SF_CH3_Enter the Fray|Enter The Fray]] or [[SF_CH3_Endure Stress|Endure Stress]] while wielding it, add +1 and on a hit take +1 momentum.
 #### Favorite Gun:  ^Ability3
 ___
 

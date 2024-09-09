@@ -20,10 +20,10 @@ OracleDescriptor: "After a Miss with a Match on the Explore a Waypoint move, you
 After a Miss with a Match on the Explore a Waypoint move, your exploration uncovers something dreadful
 
 ## Oracle: Confront Chaos
-This oracle can be used to replace the one provided on [[MV_Confront Chaos#Confront Chaos Table|Confront Chaos Move Oracle]].
+This oracle can be used to replace the one provided on [[SF_CH3_Confront Chaos#Confront Chaos Table|Confront Chaos Move Oracle]].
 
 > [!mechanics]- | Roll > %%GetDice%% | Guidance
-> After a Miss with a Match on the [[MV_Explore a Waypoint|Explore a Waypoint (move)]], your exploration uncovers something dreadful. Make the [[MV_Confront Chaos|Confront Chaos (move)]] and use these aspects. ^guidance-STRSM-OCL-OclMoveConfrontChaos
+> After a Miss with a Match on the [[SF_CH3_Explore a Waypoint|Explore a Waypoint (move)]], your exploration uncovers something dreadful. Make the [[SF_CH3_Confront Chaos|Confront Chaos (move)]] and use these aspects. ^guidance-STRSM-OCL-OclMoveConfrontChaos
 
 | 1d100 | 1-2 | 3-4 | 5-6 |
 | :---: | :--- | :--- | :--- |

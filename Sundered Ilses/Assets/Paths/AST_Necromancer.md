@@ -58,14 +58,14 @@ ConditionLabels:
 > [!mechanics] [[AST_Necromancer|NECROMANCER]]
 ___
 > [!note] Ability 1
-> - [x] While in the presence of the remains of an intelligent being, you may [[MV_Gather Information|Gather Information]] by summoning their spirit to answer your questions.
+> - [x] While in the presence of the remains of an intelligent being, you may [[SF_CH3_Gather Information|Gather Information]] by summoning their spirit to answer your questions.
 > - If you do, roll +heart. On **a hit,** take +1 momentum ^Ability1
 ___
 > [!info] Ability 2
-> - [ ] When you [[MV_Face Death|Face Death]], or if you [[MV_Aid Your Ally|Aid Your Ally]] by serving as their guide as they face death, mark 2 ticks on your bonds legacy track. ^Ability2
+> - [ ] When you [[SF_CH3_Face Death|Face Death]], or if you [[SF_CH3_Aid Your Ally|Aid Your Ally]] by serving as their guide as they face death, mark 2 ticks on your bonds legacy track. ^Ability2
 ___
 > [!todo] Ability 3
-> - [ ] You may [[MV_Face Danger|Face Danger]] (+heart) to animate a corpse with soulless life.
+> - [ ] You may [[SF_CH3_Face Danger|Face Danger]] (+heart) to animate a corpse with soulless life.
 > - On **a hit,** it is under your control.
 > 	When it aids you through force, threat, or fear as you make a move, add +2 and fill one segment of a 4-segment clock. You may also suffer the cost of a move by filling a segment.
 > 	When the clock is full, the corpse crumbles to ash.

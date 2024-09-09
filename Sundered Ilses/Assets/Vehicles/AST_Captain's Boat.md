@@ -67,12 +67,12 @@ ConditionLabels: Battered
 ___
 > [!info] Ability 2
 > **Aspect:** Your boat is armed with light cannons.
-> - [ ] When you [[MV_Clash|Clash]] by firing the cannons, you may add +integrity.
+> - [ ] When you [[SF_CH3_Clash|Clash]] by firing the cannons, you may add +integrity.
 > - If you do, on **a hit,** take +1 momentum but mark one fewer progress. ^Ability2
 ___
 > [!todo] Ability 3
 > **Aspect:** Your boat is fitted with impressive or imposing regalia.
-> - [ ] When you [[MV_Secure an Advantage|Secure an Advantage]] by seeking to make an impression as you arrive at a location or event, you may roll +integrity.
+> - [ ] When you [[SF_CH3_Secure an Advantage|Secure an Advantage]] by seeking to make an impression as you arrive at a location or event, you may roll +integrity.
 > - If you do, on **a hit,** take +1 momentum or +1 spirit ^Ability3
 ___
 ## Tags

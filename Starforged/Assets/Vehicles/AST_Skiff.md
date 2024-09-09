@@ -60,16 +60,16 @@ ConditionLabels: Battered
 > > - [ ] Battered ^Header
 ___
 > [!note] Ability 1
-> - [x] When you [[MV_Undertake an Expedition|Undertake an Expedition]] or [[MV_Set a Course|Set a Course]], you may rely on the skiff’s simple durability and roll +integrity. 
+> - [x] When you [[SF_CH3_Undertake an Expedition|Undertake an Expedition]] or [[SF_CH3_Set a Course|Set a Course]], you may rely on the skiff’s simple durability and roll +integrity. 
 > 	- If you do, on a hit take +1 momentum. ^Ability1
 ___
 > [!info] Ability 2
-> - [ ] Your skiff is armed with a turreted cannon. When you [[MV_Strike|Strike]] or [[MV_Clash|Clash]] by firing the cannon, roll +integrity.
+> - [ ] Your skiff is armed with a turreted cannon. When you [[SF_CH3_Strike|Strike]] or [[SF_CH3_Clash|Clash]] by firing the cannon, roll +integrity.
 > 	- On a hit take +1 momentum. 
 > 	- On a strong hit with a match, your shots cause extra destruction or create havoc; mark progress. ^Ability2
 ___
 > [!todo] Ability 3
-> - [ ] Your skiff is fully stocked. When you [[MV_Check Your Gear|Check Your Gear]], add +1.
+> - [ ] Your skiff is fully stocked. When you [[SF_CH3_Check Your Gear|Check Your Gear]], add +1.
 > 	- On a hit take +1 momentum. ^Ability3
 ___
 

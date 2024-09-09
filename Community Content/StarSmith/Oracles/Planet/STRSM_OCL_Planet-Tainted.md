@@ -22,9 +22,9 @@ OracleDescriptor: "The evolution of life itself is responsible for the death of 
 # [[_STRSM Oracles Index|Starsmith Oracles]] - [[_STRSM_OCL_Planet Oracles|Planets]]: Tainted
 The evolution of life itself is responsible for the death of this planet. Whether a civilization greedily consumed the planetary resources thereby polluting the world or a dangerous micro-organism proliferated rapidly, the result is the same: a planet of death.
 
-![[OCL_Planet-Tainted#Oracle Tainted Atmosphere]]
+![[SF_CH5_Planet-Tainted#Oracle Tainted Atmosphere]]
 
-![[OCL_Planet-Tainted#Oracle Tainted Settlements]]
+![[SF_CH5_Planet-Tainted#Oracle Tainted Settlements]]
 
 ## Oracle: Tainted Observed From Space {1-2}
 > [!mechanics]- | Roll > %%GetDice%% | Guidance
@@ -67,7 +67,7 @@ The evolution of life itself is responsible for the death of this planet. Whethe
 | 99-100 | ▶[[STRSM_OCL_Vault-Creation#Oracle Precursor Vault Outer First Look\|Precursor Vault]] (planetside) | ▶[[STRSM_OCL_Vault-Creation#Oracle Precursor Vault Outer First Look\|Precursor Vault]] (planetside) | ▶[[STRSM_OCL_Vault-Creation#Oracle Precursor Vault Outer First Look\|Precursor Vault]] (planetside) |
 ^table-PlanetsideFeature
 
-![[OCL_Planet-Tainted#Oracle Tainted Life]]
+![[SF_CH5_Planet-Tainted#Oracle Tainted Life]]
 
 ## Oracle: Tainted Sample Names
 > [!mechanics]- | Roll > %%GetDice%% | Guidance

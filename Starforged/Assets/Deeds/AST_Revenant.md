@@ -55,18 +55,18 @@ ConditionLabels:
 ---
 # [[_Assets Index|Assets]] - [[_Deed Assets|Deed]]: Revenant
 > [!mechanics]- [[AST_Revenant|Revenant (asset)]]
-> **Deed Pre-Req:** Once you [[MV_Face Death|Face Death]]. ^Header
+> **Deed Pre-Req:** Once you [[SF_CH3_Face Death|Face Death]]. ^Header
 ___
 > [!note] Ability 1
-> - [x] When you are at 0 health, and [[MV_Endure Harm|Endure Harm]] or [[MV_Face Death|Face Death]], add +1. 
+> - [x] When you are at 0 health, and [[SF_CH3_Endure Harm|Endure Harm]] or [[SF_CH3_Face Death|Face Death]], add +1. 
 > 	- You may then reroll your action die if its value is less than your spirit. ^Ability1
 ___
 > [!info] Ability 2
-> - [ ] When you [[MV_Take Decisive Action|Take Decisive Action]] by bringing death to a foe, you may burn momentum to zero out one (not both) of the challenge dice if your momentum is greater than the value of that die. If you do...
-> 	- [[MV_Endure Stress|Endure Stress]] (-2). ^Ability2
+> - [ ] When you [[SF_CH3_Take Decisive Action|Take Decisive Action]] by bringing death to a foe, you may burn momentum to zero out one (not both) of the challenge dice if your momentum is greater than the value of that die. If you do...
+> 	- [[SF_CH3_Endure Stress|Endure Stress]] (-2). ^Ability2
 ___
 > [!todo] Ability 3
-> - [ ] When you [[MV_Gather Information|Gather Information]] by studying a place where death left its mark, you may roll +heart.. If you do...
+> - [ ] When you [[SF_CH3_Gather Information|Gather Information]] by studying a place where death left its mark, you may roll +heart.. If you do...
 > 	- On a hit take +1 momentum.
 > 	- On a strong hit with a match, you experience a detailed vision or insightful revelation of what occurred here; take +1 momentum more. ^Ability3
 ___

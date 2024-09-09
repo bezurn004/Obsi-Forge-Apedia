@@ -59,16 +59,16 @@ ___
 > [!note] Ability 1
 > - [x] When you make a move to investigate, track, or stalk an inhuman foe, add +1. On a hit take +1 momentum.
 > > [!faq]- Possible Moves
-> > [[MV_Gather Information|Gather Information (move)]] - [[MV_Secure an Advantage|Secure an Advantage (+shadow, wits)]] ^Ability1
+> > [[SF_CH3_Gather Information|Gather Information (move)]] - [[SF_CH3_Secure an Advantage|Secure an Advantage (+shadow, wits)]] ^Ability1
 ___
 > [!info] Ability 2
-> - [ ] When you [[MV_Swear an Iron Vow|Swear an Iron Vow]] (formidable or greater) to slay a inhuman foe in service to a community, reroll any dice. 
-> - When you [[MV_Fullfill Your Vow|Fullfill Your Vow]] and score a hit, also mark 2 ticks on your bonds legacy track. ^Ability2
+> - [ ] When you [[SF_CH3_Swear an Iron Vow|Swear an Iron Vow]] (formidable or greater) to slay a inhuman foe in service to a community, reroll any dice. 
+> - When you [[SF_CH3_Fullfill Your Vow|Fullfill Your Vow]] and score a hit, also mark 2 ticks on your bonds legacy track. ^Ability2
 ___
 > [!todo] Ability 3
-> - [ ] When you [[MV_Enter the Fray|Enter The Fray]] with an objective to slay an inhuman foe, take +2 momentum. 
+> - [ ] When you [[SF_CH3_Enter the Fray|Enter The Fray]] with an objective to slay an inhuman foe, take +2 momentum. 
 > 	- If you choose to face your quarry on its own terms as you begin the fight, envision the crucial weapon, protection, or aid you set aside, and set the objective one rank higher.
-> 		- If you [[MV_Take Decisive Action|Take Decisive Action]] after making this sacrifice and score a strong hit, take a trophy of your victory and mark 2 ticks on your quests legacy track. ^Ability3
+> 		- If you [[SF_CH3_Take Decisive Action|Take Decisive Action]] after making this sacrifice and score a strong hit, take a trophy of your victory and mark 2 ticks on your quests legacy track. ^Ability3
 ___
 
 ## Tags

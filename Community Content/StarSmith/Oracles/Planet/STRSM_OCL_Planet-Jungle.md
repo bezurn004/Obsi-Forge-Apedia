@@ -22,9 +22,9 @@ OracleDescriptor: "Dense forests and tangled vegetation cover more primeval grow
 # [[_STRSM Oracles Index|Starsmith Oracles]] - [[_STRSM_OCL_Planet Oracles|Planets]]: Jungle
 Dense forests and tangled vegetation cover more primeval growth from millennia past all over the surface of this planet. Life here is savage and fierce, fighting to thrive and not just survive. What secrets the rain-soaked canopy hides is anyone’s guess, but the diversity of life here suggests there will indeed be secrets.
 
-![[OCL_Planet-Jungle#Oracle Jungle Atmosphere]]
+![[SF_CH5_Planet-Jungle#Oracle Jungle Atmosphere]]
 
-![[OCL_Planet-Jungle#Oracle Jungle Settlements]]
+![[SF_CH5_Planet-Jungle#Oracle Jungle Settlements]]
 
 ## Oracle: Jungle Observed From Space {1-2}
 > [!mechanics]- | Roll > %%GetDice%% | Guidance
@@ -67,7 +67,7 @@ Dense forests and tangled vegetation cover more primeval growth from millennia p
 | 99-100 | ▶[[STRSM_OCL_Vault-Creation#Oracle Precursor Vault Outer First Look\|Precursor Vault]] (planetside) | ▶[[STRSM_OCL_Vault-Creation#Oracle Precursor Vault Outer First Look\|Precursor Vault]] (planetside) | ▶[[STRSM_OCL_Vault-Creation#Oracle Precursor Vault Outer First Look\|Precursor Vault]] (planetside) |
 ^table-PlanetsideFeature
 
-![[OCL_Planet-Jungle#Oracle Jungle Life]]
+![[SF_CH5_Planet-Jungle#Oracle Jungle Life]]
 
 ## Oracle: Jungle Sample Names
 > [!mechanics]- | Roll > %%GetDice%% | Guidance

@@ -67,11 +67,11 @@ Once the exploration is complete, the aquatic HOV fires its pre-primed rocket bo
 ___
 
 > [!note] Ability 1
-> - [x] When you [[MV_Face Danger|Face Danger]] or [[MV_React Under Fire|React Under Fire]] to navigate through hazardous waters, avoid obstacles, or evade an attack, [[HBC_Boost|Boost]].
+> - [x] When you [[SF_CH3_Face Danger|Face Danger]] or [[SF_CH3_React Under Fire|React Under Fire]] to navigate through hazardous waters, avoid obstacles, or evade an attack, [[HBC_Boost|Boost]].
 > A single use rocket may be fired to return the HOV to your command vehicle. ^Ability1
 ___
 > [!info] Ability 2
-> - [ ] When you [[MV_Secure an Advantage|Secure an Advantage]] or [[MV_Gather Information|Gather Information]] by scanning your surroundings with sensors, [[HBC_Boost|Boost]]. ^Ability2
+> - [ ] When you [[SF_CH3_Secure an Advantage|Secure an Advantage]] or [[SF_CH3_Gather Information|Gather Information]] by scanning your surroundings with sensors, [[HBC_Boost|Boost]]. ^Ability2
 ___
 > [!todo] Ability 3
 > - [ ] When you make a move using the sub's manipulator arms to perform a delicate or forceful task, [[HBC_Boost|Boost]].

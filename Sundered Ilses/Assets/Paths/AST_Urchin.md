@@ -68,9 +68,9 @@ ___
 > > #ambiguous _insertactionmoveshere_ ^Ability1
 ___
 > [!info] Ability 2
-> - [ ] Name a connection as your mentor. When you [[MV_Develop a Relationship|Develop a Relationship]] with them, take +2 momentum.
-> - When you successfully [[MV_Fullfill Your Vow|Fullfill Your Vow]] in their service or to their benefit, also mark 2 ticks on your bonds legacy track.
-> - When you [[MV_Forge a Bond|Forge a Bond]] with them and score **a hit,** make the legacy reward one rank higher (1 extra box if already epic). 
+> - [ ] Name a connection as your mentor. When you [[SF_CH3_Develop a Relationship|Develop a Relationship]] with them, take +2 momentum.
+> - When you successfully [[SF_CH3_Fullfill Your Vow|Fullfill Your Vow]] in their service or to their benefit, also mark 2 ticks on your bonds legacy track.
+> - When you [[SF_CH3_Forge a Bond|Forge a Bond]] with them and score **a hit,** make the legacy reward one rank higher (1 extra box if already epic). 
 > > [!warning] Mentor
 > > **Mentor:** InsertNameHere 
 > > **Current Vow(s):** InsertLinkToVowsHere ^Ability2

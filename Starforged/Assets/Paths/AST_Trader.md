@@ -57,16 +57,16 @@ ConditionLabels:
 > [!mechanics]- [[AST_Trader|Trader (asset)]] ^Header
 ___
 > [!note] Ability 1
-> - [x] When you [[MV_Sojourn|Sojourn]] or [[MV_Compel|Compel]], you may roll +supply. 
-> 	- If you do, [[MV_Sacrifice Resources|Sacrafice Resources]] (-1). ^Ability1
+> - [x] When you [[SF_CH3_Sojourn|Sojourn]] or [[SF_CH3_Compel|Compel]], you may roll +supply. 
+> 	- If you do, [[SF_CH3_Sacrifice Resources|Sacrafice Resources]] (-1). ^Ability1
 ___
 > [!info] Ability 2
-> - [ ] When you [[MV_Make a Connection|Make a Connection]] with a merchant or supplier, add +1. 
-> - When you [[MV_Resupply|Resupply]]  by bartering with them, reroll your action die if its value is less than your supply. 
+> - [ ] When you [[SF_CH3_Make a Connection|Make a Connection]] with a merchant or supplier, add +1. 
+> - When you [[SF_CH3_Resupply|Resupply]]  by bartering with them, reroll your action die if its value is less than your supply. 
 > 	- On a strong hit, take +1 momentum or +1 supply. ^Ability2
 ___
 > [!todo] Ability 3
-> - [ ] When you or an ally [[MV_Sojourn|Sojourn]] and score a strong hit with a match, you have a chance to secure a unique item or valuable payload. Envision the nature of the opportunity and the obstacle you must overcome to acquire it. 
+> - [ ] When you or an ally [[SF_CH3_Sojourn|Sojourn]] and score a strong hit with a match, you have a chance to secure a unique item or valuable payload. Envision the nature of the opportunity and the obstacle you must overcome to acquire it. 
 > 	- If you are successful, mark 2 ticks on your quests legacy track. 
 > 
 > One time only, you may use this acquisition to gain an automatic strong hit on any move where your resources are a factor.  #ambiguous %%Need to determine applicable moves%%

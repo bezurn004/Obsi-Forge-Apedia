@@ -61,15 +61,15 @@ ___
 > 	- On a weak hit, you can choose to press your luck. 
 > 		- If you do, reroll all dice and add +2 (instead of +1).
 > > [!faq]- Possible Moves
-> > [[MV_Face Danger|Face Danger (move)]] - [[MV_Secure an Advantage|Secure an Advantage (move)]] - [[MV_Gain Ground|Gain Ground (move)]] - [[MV_React Under Fire|React Under Fire (move)]] ^Ability1
+> > [[SF_CH3_Face Danger|Face Danger (move)]] - [[SF_CH3_Secure an Advantage|Secure an Advantage (move)]] - [[SF_CH3_Gain Ground|Gain Ground (move)]] - [[SF_CH3_React Under Fire|React Under Fire (move)]] ^Ability1
 ___
 > [!info] Ability 2
-> - [ ] When you [[MV_Withstand Damage|Withstand Damage]] and score a miss, you may attempt to reroute power or reboot critical systems. 
-> 	- If you do, first [[MV_Lose Momentum|Lose Momentum]] (-2). 
+> - [ ] When you [[SF_CH3_Withstand Damage|Withstand Damage]] and score a miss, you may attempt to reroute power or reboot critical systems. 
+> 	- If you do, first [[SF_CH3_Lose Momentum|Lose Momentum]] (-2). 
 > 		- Then, reroll all dice, add +wits instead of +integrity, and count a weak hit as a miss. ^Ability2
 ___
 > [!todo] Ability 3
-> - [ ] When you [[MV_Face Danger|Face Danger]] or [[MV_Secure an Advantage|Secure an Advantage]] by creating a computer program to perform a specific, complex function, add +2.
+> - [ ] When you [[SF_CH3_Face Danger|Face Danger]] or [[SF_CH3_Secure an Advantage|Secure an Advantage]] by creating a computer program to perform a specific, complex function, add +2.
 > 	- On a hit take +1 momentum. 
 > 
 > One time only, when you trigger the program to fulfill its purpose, reroll any dice. #ambiguous

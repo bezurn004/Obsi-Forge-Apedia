@@ -58,17 +58,17 @@ ConditionLabels:
 > [!mechanics] [[AST_Overlander|OVERLANDER]] ^Header
  ___
 > [!note] Ability 1
-> - [x] When you [[MV_Undertake an Expedition|Undertake an Expedition]] through uncharted or unfamiliar overland territory, you may reroll one challenge die. ^Ability1
+> - [x] When you [[SF_CH3_Undertake an Expedition|Undertake an Expedition]] through uncharted or unfamiliar overland territory, you may reroll one challenge die. ^Ability1
 ___
 > [!info] Ability 2
 > - [ ] When you find or make shelter in the wilds, roll +wits.
 > - On a **strong hit,** you and your allies envision how you pass the time and each take +2 spirit or +2 health, or +1 to each. In addition, any companions in your company take +1 health.
 > - On a **weak hit,** the comfort is fleeting; you and your allies take +1 health or +1 spirit.
-> - On a **miss,** you encounter hardship or a new danger; [[MV_Pay the Price|Pay the Price]]. #ConvertAbilityToMove ^Ability2
+> - On a **miss,** you encounter hardship or a new danger; [[SF_CH3_Pay the Price|Pay the Price]]. #ConvertAbilityToMove ^Ability2
 ___
 > [!todo] Ability 3
-> - [ ] When you [[MV_Resupply|Resupply]] by searching out a source of food, water, or other natural resources in the wilds, add +1.
-> - On a **strong hit with a match,** you encounter an unusual or extraordinary location; you may [[MV_Explore a Waypoint|Explore a Waypoint]] (even if not on an expedition) and reroll any dice. ^Ability3
+> - [ ] When you [[SF_CH3_Resupply|Resupply]] by searching out a source of food, water, or other natural resources in the wilds, add +1.
+> - On a **strong hit with a match,** you encounter an unusual or extraordinary location; you may [[SF_CH3_Explore a Waypoint|Explore a Waypoint]] (even if not on an expedition) and reroll any dice. ^Ability3
 ___
 ## Tags
 

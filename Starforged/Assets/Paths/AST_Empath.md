@@ -57,13 +57,13 @@ ConditionLabels:
 > [!mechanics]- [[AST_Empath|Empath (asset)]] ^Header
 ___
 > [!note] Ability 1
-> - [x] When nearby a human or being, you may make the  [[MV_Read Heart|Read Heart (move)]] ^Ability1
+> - [x] When nearby a human or being, you may make the  [[SF_CH3_Read Heart|Read Heart (move)]] ^Ability1
 ___
 > [!info] Ability 2
-> - [ ] Once per scene, you may make the [[MV_Pull heartstrings|Pull heartstrings (move)]] ^Ability2
+> - [ ] Once per scene, you may make the [[SF_CH3_Pull heartstrings|Pull heartstrings (move)]] ^Ability2
 ___
 > [!todo] Ability 3
-> - [ ] When you [[MV_Face Danger|Face Danger]] to soothe a being’s distress by creating an empathic bond, roll +spirit
+> - [ ] When you [[SF_CH3_Face Danger|Face Danger]] to soothe a being’s distress by creating an empathic bond, roll +spirit
 > 	- On a hit take +1 momentum.
 > 		- If they are an ally, also give them +2 spirit. ^Ability3
 ___

@@ -61,16 +61,16 @@ ConditionLabels:
 > > - [ ] Broken ^Header
 ___
 > [!note] Ability 1
-> - [x] When you [[MV_Undertake an Expedition|Undertake an Expedition]] (+edge) and score a **strong hit,** take +1 momentum; on a **strong hit with a 6** on your action die take +2 momentum instead of +1. ^Ability1
+> - [x] When you [[SF_CH3_Undertake an Expedition|Undertake an Expedition]] (+edge) and score a **strong hit,** take +1 momentum; on a **strong hit with a 6** on your action die take +2 momentum instead of +1. ^Ability1
 ___
 > [!info] Ability 2
-> - [ ] When you [[MV_Enter the Fray|Enter The Fray]], choose one (before rolling).
+> - [ ] When you [[SF_CH3_Enter the Fray|Enter The Fray]], choose one (before rolling).
 > - _Battle sails:_ On a **strong hit,** add +1 and take +1 momentum.
 > - _Full sails:_ On **a hit,** take +2 momentum. ^Ability2
 ___
 > [!todo] Ability 3
 > - [ ] When you make a move to close the distance, escape a threat, or maneuver for advantage, you may push the crew and your ship to their limit.
-> 	If you do (decide after rolling), reroll any dice and count a _weak hit_ as a **strong hit.** Then, [[MV_Withstand Damage|Withstand Damage]] (-2). 
+> 	If you do (decide after rolling), reroll any dice and count a _weak hit_ as a **strong hit.** Then, [[SF_CH3_Withstand Damage|Withstand Damage]] (-2). 
 > > [!faq] Possible Moves
 > > #ambiguous _insertmoveshere_ ^Ability3
 ___

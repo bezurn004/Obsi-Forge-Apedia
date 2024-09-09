@@ -61,9 +61,9 @@ ConditionLabels: "Out of Action"
 > > - [ ] Out of Action ^Header
 ___
 > [!note] Ability 1
-> - [x] When you [[MV_Secure an Advantage|Secure an Advantage]] by letting it roam, roll +its health.
-> - You must [[MV_Sacrifice Resources|Sacrifice Resources]] (-1) about once a day to satiate its fierce appetite;
-> 	- Otherwise, make the [[MV_Companion Takes a Hit|Companion Takes a Hit (move)]] (-2). ^Ability1
+> - [x] When you [[SF_CH3_Secure an Advantage|Secure an Advantage]] by letting it roam, roll +its health.
+> - You must [[SF_CH3_Sacrifice Resources|Sacrifice Resources]] (-1) about once a day to satiate its fierce appetite;
+> 	- Otherwise, make the [[SF_CH3_Companion Takes a Hit|Companion Takes a Hit (move)]] (-2). ^Ability1
 ___
 > [!info] Ability 2
 > **Aspect:** The dragon accepts you as a rider. It flies under your direction, and assails your foes using tooth, tail, claw, and fiery breath.
@@ -73,7 +73,7 @@ ___
 > > #ambiguous _InputPossibleMovesHere_ ^Ability2
 ___
 > [!todo] Ability 3
-> - [ ] When you make the [[MV_Companion Takes a Hit|Companion Takes a Hit (move)]], take +1 momentum on a **strong hit.** ^Ability3
+> - [ ] When you make the [[SF_CH3_Companion Takes a Hit|Companion Takes a Hit (move)]], take +1 momentum on a **strong hit.** ^Ability3
 ___
 ## Tags
 

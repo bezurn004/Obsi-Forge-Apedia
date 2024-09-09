@@ -63,13 +63,13 @@ ConditionLabels: "Out of Action"
 > > - [ ] Out of Action ^Header
 ___
 > [!note] Ability 1
-> - [x] When you [[MV_Secure an Advantage|Secure an Advantage]] by studying the glowcat’s reactions in a charged interaction, add +its health. ' ^Ability1
+> - [x] When you [[SF_CH3_Secure an Advantage|Secure an Advantage]] by studying the glowcat’s reactions in a charged interaction, add +its health. ' ^Ability1
 ___
 > [!info] Ability 2
-> - [ ] When you  [[MV_Compel|Compel]], the glowcat’s reactions will help guide your approach; you may reroll your action die if its value is less than the glowcat’s health. ^Ability2
+> - [ ] When you  [[SF_CH3_Compel|Compel]], the glowcat’s reactions will help guide your approach; you may reroll your action die if its value is less than the glowcat’s health. ^Ability2
 ___
 > [!todo] Ability 3
-> - [ ] When you [[MV_Endure Stress|Endure Stress]] in the company of the glowcat, add +1. 
+> - [ ] When you [[SF_CH3_Endure Stress|Endure Stress]] in the company of the glowcat, add +1. 
 > 	- On a strong hit with a match, take +momentum equal to their health. ^Ability3
 ___
 

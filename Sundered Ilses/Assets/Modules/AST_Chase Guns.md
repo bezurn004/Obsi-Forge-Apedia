@@ -63,17 +63,17 @@ ConditionLabels: Broken
 ___
 
 > [!note] Ability 1
-> - [x] When you [[MV_Strike|Strike]] at a pursuing or fleeing target, take +1 momentum on a **strong hit.** ^Ability1
+> - [x] When you [[SF_CH3_Strike|Strike]] at a pursuing or fleeing target, take +1 momentum on a **strong hit.** ^Ability1
 ___
 > [!info] Ability 2
-> - [ ] Once per fight, when you [[MV_Gain Ground|Gain Ground]] by firing your chase guns to find the range of your target, add +1.
-> - On a **strong hit,** add +1 if you immediately [[MV_Strike|Strike]], and continue to add +1 on each subsequent [[MV_Strike|Strike]] as long as you remain in control.
+> - [ ] Once per fight, when you [[SF_CH3_Gain Ground|Gain Ground]] by firing your chase guns to find the range of your target, add +1.
+> - On a **strong hit,** add +1 if you immediately [[SF_CH3_Strike|Strike]], and continue to add +1 on each subsequent [[SF_CH3_Strike|Strike]] as long as you remain in control.
 > - If you score a **strong hit with a match** when using this ability, you damage a vital component; mark progress.
 > > [!warning] Chase Strike
 > > - [ ] Available ^Ability2
 ___
 > [!todo] Ability 3
-> - [ ] When you [[MV_Face Defeat|Face Defeat]] in a fight and set a new objective to escape, you may (one time only) immediately [[MV_Clash|Clash]] by firing your chase guns as you maneuver away from your foe; if you do, reroll any dice.
+> - [ ] When you [[SF_CH3_Face Defeat|Face Defeat]] in a fight and set a new objective to escape, you may (one time only) immediately [[SF_CH3_Clash|Clash]] by firing your chase guns as you maneuver away from your foe; if you do, reroll any dice.
 > - On a **strong hit,** take +2 momentum. ^Ability3
 ___
 ## Tags

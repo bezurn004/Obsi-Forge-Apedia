@@ -23,7 +23,7 @@ OracleDescriptor: "As more information is learned about a character use these or
 As more information is learned about a character use these oracles to flesh out their aspects.
 
 ## Oracle: Character Role
-This oracle can be used to replace the one provided on [[OCL_Character-Drives#Oracle Character Role|Character Role Oracle]].
+This oracle can be used to replace the one provided on [[SF_CH5_Character-Drives#Oracle Character Role|Character Role Oracle]].
 
 > [!mechanics]- | Roll > %%GetDice%% | Guidance
 > Professions or occupation for a character. Generally this can be learned in simple conversations with an NPC that has some knowledge. However, some Role's may be more secretive, especially ones with illegal dealings. ^guidance-STRSM-OCL-OclCharacterRole
@@ -81,7 +81,7 @@ This oracle can be used to replace the one provided on [[OCL_Character-Drives#Or
 ^table-STRSM-OCL-OclCharacterRole
 
 ## Oracle: Character Goal
-This oracle can be used to replace the one provided on [[OCL_Character-Drives#Oracle Character Goal|Character Goal Oracle]].
+This oracle can be used to replace the one provided on [[SF_CH5_Character-Drives#Oracle Character Goal|Character Goal Oracle]].
 
 > [!mechanics]- | Roll > %%GetDice%% | Guidance
 > Goals a character holds close to their heart, used to motivate their interactions through their interactions. ^guidance-STRSM-OCL-OclCharacterGoal
@@ -131,7 +131,7 @@ This oracle can be used to replace the one provided on [[OCL_Character-Drives#Or
 ^table-STRSM-OCL-OclCharacterGoal
 
 ## Oracle: Character Revealed Aspect {1-3}
-This oracle can be used to replace the one provided on [[OCL_Character-Drives#Oracle Character Revealed Aspect|Character Revealed Aspect Oracle]].
+This oracle can be used to replace the one provided on [[SF_CH5_Character-Drives#Oracle Character Revealed Aspect|Character Revealed Aspect Oracle]].
 
 > [!mechanics]- | Roll > %%GetDice%% | Guidance
 > As you interact with a character and gain a deeper understanding of their nature and personality, roll on the character revealed aspect oracle to reveal new characteristics. You may ignore, reroll, or adjust contradictions. Or envision how those contradictions add interesting complexity to the character. ^guidance-STRSM-OCL-OclCharacterRevealedAspect

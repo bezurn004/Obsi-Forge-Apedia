@@ -6,7 +6,7 @@ SourceLink:
 
 ## Page
 aliases: 
-  - "The Setting (Sundered Isles Gameplay)"
+  - "The Setting (SI Gameplay)"
 PageType: "Adventure Amonth the Isles"
 PageCategory: "The Setting"
 PageOrder: 1
@@ -17,7 +17,7 @@ Your adventures are set within the ==Sundered Isles==. This is a vast realm of s
 It is an age of sail. Mighty ships conduct exploration, transport, trade, and war. Your own ship is an essential aspect of your character and their quest-driven exploits.
 
 ## FEATURES OF THE ISLES
-In the campaign launch exercises starting on page 66, you decide the truths of your island realm. To start, here are some default touchstones.
+In the [[SI_CH2_Prepare to Set Sail|campaign launch exercises]] starting on page 66, you decide the truths of your island realm. To start, here are some default touchstones.
 
 ### UNCOUNTABLE ISLANDS
 Thousands upon thousands of islands are spread out across these seas. Many are lush, holding their mysteries within the shadows of jungles or amid the tangle of swamps. Some sit within rain shadows or lie at the mercy of prevailing winds that leave them barren. Others are scarred by storms, volcanic forces, or the ravages of despoilers.
@@ -44,14 +44,13 @@ Two moons—==Cinder== and ==Wraith==—hang over the world of the Sundered Isle
 Islanders divine omens from which moon rises or sets first, or which is shining and which is shadowed, but seldom agree on the meanings of those signs. Some favor Cinder’s ruddy glow, while others prefer Wraith’s cold light. A few see cloudy and moonless nights as a blessing—a chance to escape Cinder and Wraith’s oppressive gaze—but many fear what lurks in the darkness.
 
 ### THE TWIN FATES
-The people of the isles often refer to the moons as the Twin Fates. Want to give your playscape a thematic boost? Treat your challenge dice as manifestations of the Fates. Designate one D10 as Cinder, and the other as Wraith. Choose colors that evoke the
-light of each moon.
+The people of the isles often refer to the moons as the Twin Fates. Want to give your playscape a thematic boost? Treat your challenge dice as manifestations of the Fates. Designate one D10 as Cinder, and the other as Wraith. Choose colors that evoke the light of each moon.
 
 When helpful, use these challenge dice to reveal the nature of a situation, either by adding nuance to a move result or as a standalone oracle. Let the higher of the two dice decide. Cinder is hot: aggressive, passionate, resolute, physical. Wraith is cool: careful, mysterious, cunning, unearthly. On a match, choose which has the most influence.
 
 To learn which moon the sky favors on a particular night, roll both dice. A low value on a moon’s die means it is shadowed or not visible. A high roll has it hanging brightly in the sky. 10 means it is full. Double full moons is a rare event, full of portent.
 
-*7 The Setting*
+*7 THE SETTING*
 
 ## REGIONS OF THE ISLES
 Even those who sail these seas have yet to learn their full extent. Charts, maps, logs, and ancestral knowledge form an elaborate jigsaw puzzle—and none possess all the pieces. Nevertheless, the folk of this realm divide the _Sundered Isles_ broadly into three regions: the Myriads, the Margins, and the Reaches.
@@ -86,7 +85,7 @@ Learn more about the [[SI_CH3_The Cursed Die|The Cursed Die]] on page 114.
 
 | Contents Page | Tags | Next Page |
 | :--- | :---: | ---: |
-| **[[_SI_CH1_Contents\|Gameplay Contents]]** | #SunderedIsles/Gameplay| **[[SI_CH1_Your Characcter\|Your Character]]** |
+| **[[_SI_CH1_Contents\|Gameplay Contents]]** | #SunderedIsles/Gameplay| **[[SI_CH1_Your Characcter\|Your Character (SI Gameplay)]]** |
 
 
 <font size=-2>Copyright ©2024 Shawn Tomkin. The text of this work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license. For license details, visit ironswornrpg.com. Updated June 2024 MUH051V200-PDF</font>

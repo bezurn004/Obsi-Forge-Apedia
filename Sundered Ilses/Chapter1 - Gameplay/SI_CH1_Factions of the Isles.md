@@ -6,7 +6,7 @@ SourceLink:
 
 ## Page
 aliases: 
-  - "Factions of the Isles (Sundered Isles Gameplay)"
+  - "Factions of the Isles (SI Gameplay)"
 PageType: "Adventure Amonth the Isles"
 PageCategory: "Factions of the Isles"
 PageOrder: 10
@@ -58,7 +58,7 @@ As you undertake your sworn vows, the factions of the isles seek to advance thei
 
 Your character’s aid or opposition can influence whether a project stalls or succeeds. But some clocks run independently of your own exploits, a ticking inevitably that can alter the future of the isles—it’s only a matter of when. 
 
-See page 235 in the _Starforged_ rulebook for details on running [[GID_Clocks_Campaign|campaign clocks]]. A campaign clock worksheet is included in the _Starforged Playkit._
+See page 235 in the _Starforged_ rulebook for details on running [[SF_CH3_Clocks_Campaign|campaign clocks]]. A campaign clock worksheet is included in the _Starforged Playkit._
 
 ## FACTION INFLUENCE GRID
 The navigation chart worksheet, available in the _Sundered Isles Playkit_, includes a ==faction influence grid==. This tool can help manage the presence and control of factions in a local area.
@@ -103,7 +103,7 @@ Start simple, and leave plenty of space. You can return to the diagram to add de
 > [Hand of Theya (Evil Empire)] < Attacks and loots imperial ships & ports [Forsaken Fleet (Pirates led by the Raven Queen)]
 > [Forsaken Fleet (Pirates led by the Raven Queen)] < Secretly helping the pirates [Akiya]
 
-> Periodically update your faction notes, campaign clocks, influence grids, and relationship maps to keep track of evolving faction dynamics and revealed truths. If you enjoy managing these details, this is a good exercise to undertake as you [[MV_Begin a Session|Begin a Session (move)]]
+> Periodically update your faction notes, campaign clocks, influence grids, and relationship maps to keep track of evolving faction dynamics and revealed truths. If you enjoy managing these details, this is a good exercise to undertake as you [[SF_CH3_Begin a Session|Begin a Session (move)]]
 > 
 > Over time, some factions rise to the fore, others fade into the background, and new factions come onto the scene. This is part of creating an emerging narrative and focusing on what’s important and interesting.
 > 
@@ -185,7 +185,7 @@ Start simple, and leave plenty of space. You can return to the diagram to add de
 
 | Previous Page | Tags | Next Page |
 | :--- | :---: | ---: |
-| **[[SI_CH1_Interludes\|Interludes]]** | #SunderedIsles/Gameplay| **[[SI_CH1_Beasts of the Isles\|Beasts of the Isles]]** |
+| **[[SI_CH1_Interludes\|Interludes (SI Gameplay)]]** | #SunderedIsles/Gameplay| **[[SI_CH1_Beasts of the Isles\|Beasts of the Isles (SI Gameplay)]]** |
 
 
 <font size=-2>Copyright ©2024 Shawn Tomkin. The text of this work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license. For license details, visit ironswornrpg.com. Updated June 2024 MUH051V200-PDF</font>

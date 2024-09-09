@@ -23,7 +23,7 @@ OracleDescriptor: "As your approach a settlement begin to envision its compositi
 As your approach a settlement begin to envision its composition and how you are greeted.
 
 ## Oracle: Settlement First Look {1-2}
-This oracle can be used to replace the one provided on [[OCL_Settle_Approach#Oracle Settlement First Look {1-2}|Settlement First Look Oracle]].
+This oracle can be used to replace the one provided on [[SF_CH5_Settle_Approach#Oracle Settlement First Look {1-2}|Settlement First Look Oracle]].
 
 > [!mechanics]- | Roll > %%GetDice%% | Guidance
 > When first encountering a settlement choose or roll one to two times to generate the First Look. ^guidance-OclSettlement
@@ -54,7 +54,7 @@ This oracle can be used to replace the one provided on [[OCL_Settle_Approach#Ora
 ^table-OclSettlementFirstLook
 
 ## Oracle: Settlement Initial Contact
-This oracle can be used to replace the one provided on [[OCL_Settle_Approach#Oracle Settlement Initial Contact|Settlement Initial Contact Oracle]].
+This oracle can be used to replace the one provided on [[SF_CH5_Settle_Approach#Oracle Settlement Initial Contact|Settlement Initial Contact Oracle]].
 
 > [!mechanics]- | Roll > %%GetDice%% | Guidance
 > Choose or roll to find how initial contact with the settlement is characterized. ^guidance-OclSettlement
@@ -75,7 +75,7 @@ This oracle can be used to replace the one provided on [[OCL_Settle_Approach#Ora
 ^table-OclSettlementInitialContact
 
 ## Oracle: Settlement Authority
-This oracle can be used to replace the one provided on [[OCL_Settle_Approach#Oracle Settlement Authority|Settlement Authority Oracle]].
+This oracle can be used to replace the one provided on [[SF_CH5_Settle_Approach#Oracle Settlement Authority|Settlement Authority Oracle]].
 
 > [!mechanics]- | Roll > %%GetDice%% | Guidance
 > Choose or roll to broadly how the settlement is governed when first encountering a settlement. ^guidance-OclSettlement

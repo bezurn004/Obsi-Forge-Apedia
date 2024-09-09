@@ -63,16 +63,16 @@ ConditionLabels: "Out of Action"
 > >  - [ ] Out of Action ^Header
 ___
 > [!note] Ability 1
-> - [x] When you [[MV_Strike|Strike]] aided by the bot, add +1
-> - When you [[MV_Clash|Clash]], on a hit take +1 momentum. ^Ability1
+> - [x] When you [[SF_CH3_Strike|Strike]] aided by the bot, add +1
+> - When you [[SF_CH3_Clash|Clash]], on a hit take +1 momentum. ^Ability1
 ___
 > [!info] Ability 2
-> - [ ] When you use the threat of violence to [[MV_Compel|Compel]] or [[MV_Gain Ground|Gain Ground]] while the bot brings its weapons to bear, you may roll +its health.  If you do...
+> - [ ] When you use the threat of violence to [[SF_CH3_Compel|Compel]] or [[SF_CH3_Gain Ground|Gain Ground]] while the bot brings its weapons to bear, you may roll +its health.  If you do...
 > 	- On a hit take +1 momentum. 
 > 	- On a strong hit with a match, the bot’s display is especially persuasive; take another +1 momentum. ^Ability2
 ___
 > [!todo] Ability 3
-> - [ ] Once per fight, when you [[MV_React Under Fire|React Under Fire]] by using the bot to draw fire or create a diversion, roll +its health. 
+> - [ ] Once per fight, when you [[SF_CH3_React Under Fire|React Under Fire]] by using the bot to draw fire or create a diversion, roll +its health. 
 > 	- On a strong hit, mark progress. 
 > 	- On a weak hit, face the cost as normal, but then you are in control.
 > 

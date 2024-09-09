@@ -23,10 +23,10 @@ OracleDescriptor: "Introduce a feature at a waypoint as you explore outer space 
 Introduce a feature at a waypoint as you explore outer space through the Forge.
 
 ## Oracle: Space Sightings - Terminus
-This oracle can be used to replace the one provided on [[OCL_Space-Sightings#Oracle Space Sighting Terminus|Space Sighting Terminus Oracle]].
+This oracle can be used to replace the one provided on [[SF_CH5_Space-Sightings#Oracle Space Sighting Terminus|Space Sighting Terminus Oracle]].
 
 > [!mechanics]- | Roll > %%GetDice%% | Guidance
-> Use the Space Sightings oracle to introduce a location or encounter on a spaceborne expedition. For example, roll on this table when you [[MV_Ask the Oracle|Ask the Oracle (move)]] to envision the primary feature of a waypoint as you [[MV_Undertake an Expedition|Undertake an Expedition (move)]]. ^guidance-OclSpaceSighting-Terminus
+> Use the Space Sightings oracle to introduce a location or encounter on a spaceborne expedition. For example, roll on this table when you [[SF_CH3_Ask the Oracle|Ask the Oracle (move)]] to envision the primary feature of a waypoint as you [[SF_CH3_Undertake an Expedition|Undertake an Expedition (move)]]. ^guidance-OclSpaceSighting-Terminus
 
 | 1d100 | 1-2 | 3-4 | 5-6 |
 | :---: | :--- | :--- | :--- |
@@ -54,10 +54,10 @@ This oracle can be used to replace the one provided on [[OCL_Space-Sightings#Ora
 ^table-OclSpaceSightingTerminus
 
 ## Oracle: Space Sightings - Outlands
-This oracle can be used to replace the one provided on [[OCL_Space-Sightings#Oracle Space Sighting Outlands|Space Sighting Outlands Oracle]]
+This oracle can be used to replace the one provided on [[SF_CH5_Space-Sightings#Oracle Space Sighting Outlands|Space Sighting Outlands Oracle]]
 
 > [!mechanics]- | Roll > %%GetDice%% | Guidance
-> Use the Space Sightings oracle to introduce a location or encounter on a spaceborne expedition. For example, roll on this table when you [[MV_Ask the Oracle|Ask the Oracle (move)]] to envision the primary feature of a waypoint as you [[MV_Undertake an Expedition|Undertake an Expedition (move)]]. ^guidance-OclSpaceSightingOutlands
+> Use the Space Sightings oracle to introduce a location or encounter on a spaceborne expedition. For example, roll on this table when you [[SF_CH3_Ask the Oracle|Ask the Oracle (move)]] to envision the primary feature of a waypoint as you [[SF_CH3_Undertake an Expedition|Undertake an Expedition (move)]]. ^guidance-OclSpaceSightingOutlands
 
 | 1d100 | 1-2 | 3-4 | 5-6 |
 | :---: | :--- | :--- | :--- |
@@ -85,10 +85,10 @@ This oracle can be used to replace the one provided on [[OCL_Space-Sightings#Ora
 ^table-OclSpaceSightingOutlands
 
 ## Oracle: Space Sightings - Expanse
-This oracle can be used to replace the one provided on [[OCL_Space-Sightings#Oracle Space Sighting Expanse|Space Sighting Expanse Oracle]]
+This oracle can be used to replace the one provided on [[SF_CH5_Space-Sightings#Oracle Space Sighting Expanse|Space Sighting Expanse Oracle]]
 
 > [!mechanics]- | Roll > %%GetDice%% | Guidance
-> Use the Space Sightings oracle to introduce a location or encounter on a spaceborne expedition. For example, roll on this table when you [[MV_Ask the Oracle|Ask the Oracle (move)]] to envision the primary feature of a waypoint as you [[MV_Undertake an Expedition|Undertake an Expedition (move)]]. ^guidance-OclSpaceSightingExpanse
+> Use the Space Sightings oracle to introduce a location or encounter on a spaceborne expedition. For example, roll on this table when you [[SF_CH3_Ask the Oracle|Ask the Oracle (move)]] to envision the primary feature of a waypoint as you [[SF_CH3_Undertake an Expedition|Undertake an Expedition (move)]]. ^guidance-OclSpaceSightingExpanse
 
 | 1d100 | 1-2 | 3-4 | 5-6 |
 | :---: | :--- | :--- | :--- |

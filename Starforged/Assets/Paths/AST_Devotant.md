@@ -60,17 +60,17 @@ ConditionLabels:
 > **Linked Stat: ** _Insert_Description_Here_ ^Header
 ___
 > [!note] Ability 1
-> - [x] When you [[MV_Secure an Advantage|Secure an Advantage]] or [[MV_Gain Ground|Gain Ground]] by calling on it for guidance or aid, roll +linked stat.
+> - [x] When you [[SF_CH3_Secure an Advantage|Secure an Advantage]] or [[SF_CH3_Gain Ground|Gain Ground]] by calling on it for guidance or aid, roll +linked stat.
 > 	- On a hit, take +1 momentum or +1 spirit. 
 > 	- On a strong hit with a match, a miracle or sign manifests; take another +1 momentum or +1 spirit. ^Ability1
 ___
 > [!info] Ability 2
-> - [ ] When you [[MV_Swear an Iron Vow|Swear an Iron Vow]] in service to your faith, roll +linked stat
+> - [ ] When you [[SF_CH3_Swear an Iron Vow|Swear an Iron Vow]] in service to your faith, roll +linked stat
 > 	- On a hit, Take +2 momentum or +2 spirit. 
-> 	- When you [[MV_Fullfill Your Vow|Fullfill Your Vow]] on a divine quest (formidable or greater) and score a hit, also mark 2 ticks on your bonds legacy track. ^Ability2
+> 	- When you [[SF_CH3_Fullfill Your Vow|Fullfill Your Vow]] on a divine quest (formidable or greater) and score a hit, also mark 2 ticks on your bonds legacy track. ^Ability2
 ___
 > [!todo] Ability 3
-> - [ ] When you [[MV_Hearten|Hearten]] through contemplation or sharing of your faith, you may roll +linked stat. 
+> - [ ] When you [[SF_CH3_Hearten|Hearten]] through contemplation or sharing of your faith, you may roll +linked stat. 
 > 	- On a strong hit, Take +1 spirit or +1 momentum ^Ability3
 ___
 

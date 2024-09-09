@@ -19,11 +19,11 @@ OracleFocus: "Action/Theme"
 OracleDescriptor: "When you Ask the Oracle about a goal, situation, or event, roll for an Action and Theme. Together, these tables provide a verb/noun phrase."
 ---
 # [[_Sundered Isles|Sundered Isles]] - [[_SI_Ch3_Contents|Oracles]] - [[_SI_CH3_Core Oracles|Core]]: Action and Theme
-When you [[MV_Ask the Oracle|Ask the Oracle (move)]] about a goal, situation, or event, roll for an [_Action_ (_below_)] and [_Theme_ (next page)]. Together, these tables provide a verb/noun phrase.
+When you [[SI_CH4_Ask the Oracle|Ask the Oracle]] about a goal, situation, or event, roll for an _[[#ACTION|Action]] (below_) and _[[#THEME|Theme]] (next page)_. Together, these tables provide a verb/noun phrase.
 
-Other oracle tables include prompts to check for an Action and Theme (shown as >Action + Theme). That’s your cue to roll on these tables and interpret the result.
+Other oracle tables include prompts to check for an Action and Theme (shown as ▶Action + Theme). That’s your cue to roll on these tables and interpret the result.
 
-> For details on using the _Core Oracles_, [see page 295 of the _Starforged_ rulebook].
+> For details on using the _Core Oracles_, [[_SF_CH5_Core|see page 295]] of the _Starforged_ rulebook.
 
 ## ACTION
 > [!mechanics]- | Roll > `dice: [[SI_CH3_Core_Action Theme#^table-OclAction]]` | Guidance
@@ -139,7 +139,7 @@ Other oracle tables include prompts to check for an Action and Theme (shown as >
 > [!mechanics]- | Roll > `dice: [[SI_CH3_Core_Action Theme#^table-OclTheme]]` | Guidance
 > Text ^guidance-OclTheme
 
-| Roll | Results |
+| dice: 1d100 | Result |
 | :---: | --- |
 | 1 | Ability |
 | 2 | Advantage |

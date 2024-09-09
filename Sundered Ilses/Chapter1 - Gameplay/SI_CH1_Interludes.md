@@ -5,7 +5,7 @@ SourceAuthor: "Shawn Tompkin"
 SourceLink: 
 
 ## Page
-aliases: "Interludes (Sundered Isles Gameplay)"
+aliases: "Interludes (SI Gameplay)"
 PageType: "Adventure Amonth the Isles"
 PageCategory: "Interludes"
 PageOrder: 9
@@ -33,7 +33,7 @@ The [[SI_CH4_Begin a Session#Begin a Session Move Card|Begin a Session (SI Moves
 *46 ADVENTURES AMONG THE ISLES*
 
 ## MAKING MOVES DURING INTERLUDES
-Interludes are low-risk, low-stakes. You might trigger a move in the midst of an interlude scene—such as [[SI_CH4_Hearten#Hearten Move Card|Hearten (SI Moves)]] to boost your spirits in a moment of peace, [[MV_Compel|Compel (move)]] to defuse an argument among crewmembers, or [[SI_CH4_Secure an Advantage#Secure an Advantage Move Card|Secure an Advantage (SI Moves)]] to train or prepare—but the outcomes of those moves should reflect the low-key nature of the situation. If you have questions about an interaction or event, simply decide what happens or [[SI_CH4_Ask the Oracle#Ask the Oracle Move Card|Ask the Oracle (SI Moves)]]. If a situation is not dramatic or uncertain, don’t otherwise make a move.
+Interludes are low-risk, low-stakes. You might trigger a move in the midst of an interlude scene—such as [[SI_CH4_Hearten#Hearten Move Card|Hearten (SI Moves)]] to boost your spirits in a moment of peace, [[SF_CH3_Compel|Compel (move)]] to defuse an argument among crewmembers, or [[SI_CH4_Secure an Advantage#Secure an Advantage Move Card|Secure an Advantage (SI Moves)]] to train or prepare—but the outcomes of those moves should reflect the low-key nature of the situation. If you have questions about an interaction or event, simply decide what happens or [[SI_CH4_Ask the Oracle#Ask the Oracle Move Card|Ask the Oracle (SI Moves)]]. If a situation is not dramatic or uncertain, don’t otherwise make a move.
 
 Except in rare circumstances, perhaps a miss with a match, the outcome of a move during an interlude should not upend your quests, introduce dramatic new complications, or inflict harsh mechanical costs. Keep it low-key.
 
@@ -49,7 +49,7 @@ Except in rare circumstances, perhaps a miss with a match, the outcome of a move
 
 | Previous Page | Tags | Next Page |
 | :--- | :---: | ---: |
-| **[[SI_CH1_Naval Encounters\|Naval Encounters]]** | #SunderedIsles/Gameplay| **[[SI_CH1_Factions of the Isles\|Factions of the Isles]]** |
+| **[[SI_CH1_Naval Encounters\|Naval Encounters (SI Gameplay)]]** | #SunderedIsles/Gameplay| **[[SI_CH1_Factions of the Isles\|Factions of the Isles (SI Gameplay)]]** |
 
 
 <font size=-2>Copyright ©2024 Shawn Tomkin. The text of this work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license. For license details, visit ironswornrpg.com. Updated June 2024 MUH051V200-PDF</font>

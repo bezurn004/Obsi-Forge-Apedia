@@ -58,13 +58,13 @@ ConditionLabels:
 > **Character Aspect: ** You wield kinetic powers.  By focusing, you may remotely push, pull, lift, or constrict objects and beings that are about your size or smaller.  ^Header
 ___
 > [!note] Ability 1
-> - [x] When you are in a risky situation and draw on your powers to make a move, add +2 and [[MV_Lose Momentum|Lose Momentum]] (-2).
+> - [x] When you are in a risky situation and draw on your powers to make a move, add +2 and [[SF_CH3_Lose Momentum|Lose Momentum]] (-2).
 > > [!faq]- Possible Moves
-> > [[MV_Aid Your Ally|Aid Your Ally (move)]] - [[MV_Compel|Compel (move)]] - [[MV_Face Danger|Face Danger (move)]] - [[MV_Secure an Advantage|Secure an Advantage (move)]] - [[MV_Clash|Clash (move)]] - [[MV_Gain Ground|Gain Ground (move)]] - [[MV_React Under Fire|React Under Fire (move)]] - [[MV_Strike|Strike (move)]] - [[MV_Take Decisive Action|Take Decisive Action (move)]] ^Ability1
+> > [[SF_CH3_Aid Your Ally|Aid Your Ally (move)]] - [[SF_CH3_Compel|Compel (move)]] - [[SF_CH3_Face Danger|Face Danger (move)]] - [[SF_CH3_Secure an Advantage|Secure an Advantage (move)]] - [[SF_CH3_Clash|Clash (move)]] - [[SF_CH3_Gain Ground|Gain Ground (move)]] - [[SF_CH3_React Under Fire|React Under Fire (move)]] - [[SF_CH3_Strike|Strike (move)]] - [[SF_CH3_Take Decisive Action|Take Decisive Action (move)]] ^Ability1
 ___
 > [!info] Ability 2
 > - [ ] As Ability 1, but you may instead draw on your powers in a desperate effort to change the outcome of an action. 
-> 	- If you do, add +2 (after you roll) and [[MV_Lose Momentum|Lose Momentum]] (-3).
+> 	- If you do, add +2 (after you roll) and [[SF_CH3_Lose Momentum|Lose Momentum]] (-3).
 > 	#ambiguous *Total is +2 on roll and then +2 after (+4)?* ^Ability2
 ___
 > [!todo] Ability 3
@@ -72,7 +72,7 @@ ___
 > 	- Then, as you make a single move fueled by your powers, take an automatic strong hit.
 > 	- If you are in a fight, mark progress
 > > [!faq]- Possible Moves
-> > [[MV_Aid Your Ally|Aid Your Ally (move)]] - [[MV_Compel|Compel (move)]] - [[MV_Face Danger|Face Danger (move)]] - [[MV_Secure an Advantage|Secure an Advantage (move)]] - [[MV_Clash|Clash (move)]] - [[MV_Gain Ground|Gain Ground (move)]] - [[MV_React Under Fire|React Under Fire (move)]] - [[MV_Strike|Strike (move)]] - [[MV_Take Decisive Action|Take Decisive Action (move)]] ^Ability3
+> > [[SF_CH3_Aid Your Ally|Aid Your Ally (move)]] - [[SF_CH3_Compel|Compel (move)]] - [[SF_CH3_Face Danger|Face Danger (move)]] - [[SF_CH3_Secure an Advantage|Secure an Advantage (move)]] - [[SF_CH3_Clash|Clash (move)]] - [[SF_CH3_Gain Ground|Gain Ground (move)]] - [[SF_CH3_React Under Fire|React Under Fire (move)]] - [[SF_CH3_Strike|Strike (move)]] - [[SF_CH3_Take Decisive Action|Take Decisive Action (move)]] ^Ability3
 ___
 
 ## Tags

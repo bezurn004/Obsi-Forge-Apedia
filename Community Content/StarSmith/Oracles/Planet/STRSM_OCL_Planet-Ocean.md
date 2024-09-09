@@ -22,9 +22,9 @@ OracleDescriptor: "Ocean worlds may be an endless sea of water, but some are mad
 # [[_STRSM Oracles Index|Starsmith Oracles]] - [[_STRSM_OCL_Planet Oracles|Planets]]: Ocean
 Ocean worlds may be an endless sea of water, but some are made up of other thalassogen such as ammonia, lava, or hydrocarbons. Other ocean worlds have their worlds contained between two icy spheres: a top layer protecting the water from solar radiation and a lower layer protecting the water from the planet’s core.
 
-![[OCL_Planet-Ocean#Oracle Ocean Atmosphere]]
+![[SF_CH5_Planet-Ocean#Oracle Ocean Atmosphere]]
 
-![[OCL_Planet-Ocean#Oracle Ocean Settlements]]
+![[SF_CH5_Planet-Ocean#Oracle Ocean Settlements]]
 
 ## Oracle: Ocean Observed From Space {1-2}
 > [!mechanics]- | Roll > %%GetDice%% | Guidance
@@ -67,7 +67,7 @@ Ocean worlds may be an endless sea of water, but some are made up of other thala
 | 99-100 | ▶[[STRSM_OCL_Vault-Creation#Oracle Precursor Vault Outer First Look\|Precursor Vault]] (planetside) | ▶[[STRSM_OCL_Vault-Creation#Oracle Precursor Vault Outer First Look\|Precursor Vault]] (planetside) | ▶[[STRSM_OCL_Vault-Creation#Oracle Precursor Vault Outer First Look\|Precursor Vault]] (planetside) |
 ^table-PlanetsideFeature
 
-![[OCL_Planet-Ocean#Oracle Ocean Life]]
+![[SF_CH5_Planet-Ocean#Oracle Ocean Life]]
 
 ## Oracle: Ocean Sample Names
 > [!mechanics]- | Roll > %%GetDice%% | Guidance

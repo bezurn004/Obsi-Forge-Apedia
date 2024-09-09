@@ -61,15 +61,15 @@ ConditionLabels:
 ___
 > [!note] Ability 1
 > - [ ] When you make moves aided by this energy to attack or overcome obstacles, add +2 and suffer -1 fire.  
-> - To regain fire energy make the move [[MV_Blazing Meditiation|Blazing Meditation]].
+> - To regain fire energy make the move [[SF_CH3_Blazing Meditiation|Blazing Meditation]].
 > > [!faq]- Possible Moves
-> > [[MV_Face Danger|Face Danger (move)]] - [[MV_Gain Ground|Gain Ground (move)]] - [[MV_Battle|Battle (move)]] - [[MV_React Under Fire|React Under Fire (move)]] - [[MV_Strike|Strike (move)]] - [[MV_Clash|Clash (move)]] ^Ability1
+> > [[SF_CH3_Face Danger|Face Danger (move)]] - [[SF_CH3_Gain Ground|Gain Ground (move)]] - [[SF_CH3_Battle|Battle (move)]] - [[SF_CH3_React Under Fire|React Under Fire (move)]] - [[SF_CH3_Strike|Strike (move)]] - [[SF_CH3_Clash|Clash (move)]] ^Ability1
 ___
 > [!info] Ability 2
-> - [ ] When you [[MV_Endure Harm|Endure Harm]] and score a strong hit with a match, you may instead ignore the harm and take +fire equal to the amount of harm faced (+1, +2, or +3). ^Ability2
+> - [ ] When you [[SF_CH3_Endure Harm|Endure Harm]] and score a strong hit with a match, you may instead ignore the harm and take +fire equal to the amount of harm faced (+1, +2, or +3). ^Ability2
 ___
 > [!todo] Ability 3
-> - [ ] When you have at least +3 fire, you may [[MV_Gain Ground|Gain Ground]] or [[MV_Strike|Strike]] by unleashing hell. 
+> - [ ] When you have at least +3 fire, you may [[SF_CH3_Gain Ground|Gain Ground]] or [[SF_CH3_Strike|Strike]] by unleashing hell. 
 > 	- Take an automatic strong hit and mark progress. 
 > 	- Then, set your fire to 0.
 ___

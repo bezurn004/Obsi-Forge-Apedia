@@ -63,10 +63,10 @@ ConditionLabels: Broken
 ___
 
 > [!note] Ability 1
-> - [x]  When you [[MV_Set a Course|Set a Course]], you may reroll one challenge die.  ^Ability1
+> - [x]  When you [[SF_CH3_Set a Course|Set a Course]], you may reroll one challenge die.  ^Ability1
 ___
 > [!info] Ability 2
-> - [ ] When you draw on your provisions to indulge yourself and others onboard, roll +supply and [[MV_Sacrifice Resources|Sacrifice Resources]] (-2).
+> - [ ] When you draw on your provisions to indulge yourself and others onboard, roll +supply and [[SF_CH3_Sacrifice Resources|Sacrifice Resources]] (-2).
 > - On a **strong hit,** you and your allies each choose two.
 > - On a **weak hit,** you each choose one.
 > - On a **miss,** the event is ruined by a crisis, complication, or dispute.
@@ -76,7 +76,7 @@ ___
 > 	- Gain strength: Take +2 health. #ConvertAbilityToMove ^Ability2
 ___
 > [!todo] Ability 3
-> - [ ] When you [[MV_Sojourn|Sojourn]] and score a strong hit, take +1 supply as the galley is restocked. ^Ability3
+> - [ ] When you [[SF_CH3_Sojourn|Sojourn]] and score a strong hit, take +1 supply as the galley is restocked. ^Ability3
 ___
 ## Tags
 

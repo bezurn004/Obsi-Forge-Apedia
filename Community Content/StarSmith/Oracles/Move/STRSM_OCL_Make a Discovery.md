@@ -20,10 +20,10 @@ OracleDescriptor: "After a Strong Hit with a Match on the Explore a Waypoint mov
 After a Strong Hit with a Match on the Explore a Waypoint move, your exploration uncovers something amazing.
 
 ## Oracle: Make a Discovery
-This oracle can be used to replace the one provided on [[MV_Make a Discovery#Make a Discovery Table|Make a Discovery Move Oracle]].
+This oracle can be used to replace the one provided on [[SF_CH3_Make a Discovery#Make a Discovery Table|Make a Discovery Move Oracle]].
 
 > [!mechanics]- | Roll > %%GetDice%% | Guidance
-> After a Strong Hit with a Match on the [[MV_Explore a Waypoint|Explore a Waypoint (move)]], your exploration uncovers something amazing. Make the [[MV_Make a Discovery|Make a Discovery (move)]] and use these aspects. ^guidance-STRSM-OCL-OclMoveMakeaDiscovery
+> After a Strong Hit with a Match on the [[SF_CH3_Explore a Waypoint|Explore a Waypoint (move)]], your exploration uncovers something amazing. Make the [[SF_CH3_Make a Discovery|Make a Discovery (move)]] and use these aspects. ^guidance-STRSM-OCL-OclMoveMakeaDiscovery
 
 | 1d100 | 1-2 | 3-4 | 5-6 |
 | :---: | :--- | :--- | :--- |

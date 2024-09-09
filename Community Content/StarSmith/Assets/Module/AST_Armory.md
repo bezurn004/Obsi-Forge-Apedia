@@ -68,13 +68,13 @@ So why doesn’t every starship have its own armory? Simple: cost. Keeping the a
 ___
 
 > [!note] Ability 1
-> - [x] When you [[MV_Enter the Fray|Enter The Fray (move)]] to oppose an invader within your vehicle, [[HBC_Boost|Boost]].
+> - [x] When you [[SF_CH3_Enter the Fray|Enter The Fray (move)]] to oppose an invader within your vehicle, [[HBC_Boost|Boost]].
 > On a strong hit, they were unprepared for your firepower. Add +1 to all moves until you roll a one on your action die.
 > > [!warning] | Available | <input type="checkbox" /> | ^Ability1
 ___
 > [!info] Ability 2
 > - [ ] **Aspect** You may prepare for engaging in combat by taking limited-use armaments from your armory.
-> If you do, one time only, when you [[MV_Enter the Fray|Enter The Fray]], choose your approach.
+> If you do, one time only, when you [[SF_CH3_Enter the Fray|Enter The Fray]], choose your approach.
 > - **Going in hot:** On a hit, take +2 momentum.
 > 	- On a strong hit with a match, also mark progress.
 > - **Gain the upper hand:** Add +2.
@@ -82,7 +82,7 @@ ___
 ___
 > [!todo] Ability 3
 > - [ ] **Aspect** You may prepare for a drawn-out battle by taking specialized ammunition.
-> If you do, during a single combat scene only, you may reroll any action die showing a one when you [[MV_Strike|Strike]] or [[MV_Clash|Clash]].
+> If you do, during a single combat scene only, you may reroll any action die showing a one when you [[SF_CH3_Strike|Strike]] or [[SF_CH3_Clash|Clash]].
 > > [!warning] | Available | <input type="checkbox" /> | ^Ability3
 
 ___

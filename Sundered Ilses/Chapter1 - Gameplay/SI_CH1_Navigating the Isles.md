@@ -6,13 +6,13 @@ SourceLink:
 
 ## Page
 aliases: 
-  - "Navigating the Isles (Sundered Isles Gameplay)"
+  - "Navigating the Isles (SI Gameplay)"
 PageType: "Adventure Amonth the Isles"
 PageCategory: "Navigating the Isles"
 PageOrder: 7
 ---
 # [[_Sundered Isles|Sundered Isles]] - [[_SI_CH1_Contents|Gameplay]]: Navigating the Isles
-Perilous journeys within the isles–whether by sea or overland–are managed through [[_SI_CH4_Exploration Moves|exploration moves]] (page 242). Below are some setting assumptions to help add flavor and context to those moves. [[_Exploration Moves|See page 168]] in the _Starforged_ rulebook for additional guidance on travel and exploration.
+Perilous journeys within the isles–whether by sea or overland–are managed through [[_SI_CH4_Exploration Moves|exploration moves]] (page 242). Below are some setting assumptions to help add flavor and context to those moves. [[_SF_CH3_Exploration Moves|See page 168]] in the _Starforged_ rulebook for additional guidance on travel and exploration.
 
 ## TRAVELING BY SEA
 When sailing among the isles, you don’t simply unfurl the sails and set a constant heading to your destination. A voyage of twenty leagues as the gull flies is likely twice that distance along a meandering route. Abundant tiny islets, often uncharted, stand in your path. The push and pull of the two moons cause severe, erratic tides, and hull-breaching rocks and reefs lurk in shallow waters. The wind and weather can change in minutes. A sail sighted on the horizon might be friend or foe.
@@ -56,7 +56,7 @@ Much like a sector map in _Starforged_, a navigation chart offers a manageable s
 
 You’ll find a navigation chart worksheet as part of the _Sundered Isles Playkit_. It includes a space to draw your map, along with a ==[[SI_CH1_Factions of the Isles#FACTION INFLUENCE GRID|faction influence grid]]== (page 50).
 
-We’ll sketch out the beginnings of your first chart as you get your campaign underway in the [[_SI_CH2_Contents|next _chapter_]] (page 64). When you decide you’ve traveled beyond the boundaries of an area, it’s time for a fresh chart. As appropriate to your character’s familiarity with the area or access to existing charts, you might generate a few features to put on your chart as you sail into a new area, or find your way on a blank map. If you want inspiration for naming a local area within the isles, check the [[SI_CH3_Misc_Travel|Local Seas (SI Oracles)]] on page 227.
+We’ll sketch out the beginnings of your first chart as you get your campaign underway in the _[[_SI_CH2_Contents|next  chapter]]_ (page 64). When you decide you’ve traveled beyond the boundaries of an area, it’s time for a fresh chart. As appropriate to your character’s familiarity with the area or access to existing charts, you might generate a few features to put on your chart as you sail into a new area, or find your way on a blank map. If you want inspiration for naming a local area within the isles, check the [[SI_CH3_Misc_Travel|Local Seas (SI Oracles)]] on page 227.
 
 *34 ADVENTURES AMONG THE ISLES*
 
@@ -80,7 +80,7 @@ To envision the look and nature of a settlement, use the _[[_SI_CH3_Settlement O
 
 | Previous Page | Tags | Next Page |
 | :--- | :---: | ---: |
-| **[[SI_CH1_Wealth and Treasure\|Wealth and Treasure]]** | #SunderedIsles/Gameplay| **[[SI_CH1_Naval Encounters\|Naval Encounters]]** |
+| **[[SI_CH1_Wealth and Treasure\|Wealth and Treasure (SI Gameplay)]]** | #SunderedIsles/Gameplay| **[[SI_CH1_Naval Encounters\|Naval Encounters (SI Gameplay)]]** |
 
 
 <font size=-2>Copyright ©2024 Shawn Tomkin. The text of this work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license. For license details, visit ironswornrpg.com. Updated June 2024 MUH051V200-PDF</font>

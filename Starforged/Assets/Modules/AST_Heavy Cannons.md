@@ -61,15 +61,15 @@ ___
 > [!note] Ability 1
 > - [x] When you aim your cannons and use them to [MV_Strike|Strike], choose one. 
 > 	- Strafe: Add +1 and on a hit take +1 momentum.
-> 	- Focus fire: Mark progress on a hit, but [[MV_Lose Momentum|Lose Momentum]] (-1). ^Ability1
+> 	- Focus fire: Mark progress on a hit, but [[SF_CH3_Lose Momentum|Lose Momentum]] (-1). ^Ability1
 ___
 > [!info] Ability 2
-> - [ ] Once per fight, when you [[MV_Clash|Clash]] by committing to an all-or-nothing exchange of fire, add +1.
+> - [ ] Once per fight, when you [[SF_CH3_Clash|Clash]] by committing to an all-or-nothing exchange of fire, add +1.
 > 	- Count a weak hit as a strong hit, and on a hit mark progress.
 > 	- On a miss, you must suffer a dire outcome. ^Ability2
 ___
 > [!todo] Ability 3
-> - [ ] When you [[MV_Compel|Compel]], [[MV_Enter the Fray|Enter The Fray]], or [[MV_Gain Ground|Gain Ground]] by bringing your cannons to bear and sending a promise of violence to your foe over communication channels, add +1 and on a hit take +1 momentum. 
+> - [ ] When you [[SF_CH3_Compel|Compel]], [[SF_CH3_Enter the Fray|Enter The Fray]], or [[SF_CH3_Gain Ground|Gain Ground]] by bringing your cannons to bear and sending a promise of violence to your foe over communication channels, add +1 and on a hit take +1 momentum. 
 > 	- On a strong hit with a match, take another +1 momentum. ^Ability3
 ___
 

@@ -64,14 +64,14 @@ ___
 > - [x] When you make a move outside of a fight directly aided by their expertise, you may reroll your action die if its value is less than your sidekick’s health. 
 > 	- If you then score a strong hit with a match, mark 1 tick on your bonds legacy track.
 > > [!faq]- Possible Moves
-> > [[MV_Check Your Gear|Check Your Gear (move)]] - [[MV_Compel|Compel (move)]] - [[MV_Face Danger|Face Danger (move)]] - [[MV_Gather Information|Gather Information (move)]] - [[MV_Secure an Advantage|Secure an Advantage (move)]] - [[MV_Explore a Waypoint|Explore a Waypoint (move)]] - [[MV_Set a Course|Set a Course (move)]] - [[MV_Undertake an Expedition|Undertake an Expedition (move)]] - [[MV_Heal|Heal (move)]] - [[MV_Hearten|Hearten (move)]] - [[MV_Repair|Repair (move)]] - [[MV_Resupply|Resupply (move)]] - [[MV_Sojourn|Sojourn (move)]] ^Ability1
+> > [[SF_CH3_Check Your Gear|Check Your Gear (move)]] - [[SF_CH3_Compel|Compel (move)]] - [[SF_CH3_Face Danger|Face Danger (move)]] - [[SF_CH3_Gather Information|Gather Information (move)]] - [[SF_CH3_Secure an Advantage|Secure an Advantage (move)]] - [[SF_CH3_Explore a Waypoint|Explore a Waypoint (move)]] - [[SF_CH3_Set a Course|Set a Course (move)]] - [[SF_CH3_Undertake an Expedition|Undertake an Expedition (move)]] - [[SF_CH3_Heal|Heal (move)]] - [[SF_CH3_Hearten|Hearten (move)]] - [[SF_CH3_Repair|Repair (move)]] - [[SF_CH3_Resupply|Resupply (move)]] - [[SF_CH3_Sojourn|Sojourn (move)]] ^Ability1
 ___
 > [!info] Ability 2
-> - [ ] When you [[MV_Enter the Fray|Enter The Fray]] with the support of your sidekick, take +2 momentum on a hit. 
-> - When you [[MV_Clash|Clash]] together, add +1. ^Ability2
+> - [ ] When you [[SF_CH3_Enter the Fray|Enter The Fray]] with the support of your sidekick, take +2 momentum on a hit. 
+> - When you [[SF_CH3_Clash|Clash]] together, add +1. ^Ability2
 ___
 > [!todo] Ability 3
-> - [ ] When your sidekick acts to get you out of a tough spot, you may [[MV_Face Danger|Face Danger]] or [[MV_React Under Fire|React Under Fire]] and roll +their health (instead of your own stat).
+> - [ ] When your sidekick acts to get you out of a tough spot, you may [[SF_CH3_Face Danger|Face Danger]] or [[SF_CH3_React Under Fire|React Under Fire]] and roll +their health (instead of your own stat).
 > 	- On a hit, take +1 momentum. ^Ability3
 ___
 

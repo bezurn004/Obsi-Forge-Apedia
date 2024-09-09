@@ -22,7 +22,7 @@ OracleDescriptor: "As you spend more time learning about a settlement add Projec
 As you spend more time learning about a settlement add Projects and Troubles see what is on the populace's concerns.
 
 ## Oracle: Settlement Projects
-This oracle can be used to replace the one provided on [[OCL_Settle-Concerns#Oracle Settlement Projects|Settlement Projects Oracle]].
+This oracle can be used to replace the one provided on [[SF_CH5_Settle-Concerns#Oracle Settlement Projects|Settlement Projects Oracle]].
 
 > Check the Settlement Projects oracle when it’s appropriate for your character to know or uncover these details. Projects are the main industry, function, or focus of a settlement. They do not necessarily represent every activity at the site, particularly at a large settlement, but are the most visible or noteworthy aspects. ^guidance-OclSettlementProjects
 
@@ -64,7 +64,7 @@ This oracle can be used to replace the one provided on [[OCL_Settle-Concerns#Ora
 ^table-OclSettlementProjects
 
 ## Oracle: Settlement Trouble
-This oracle can be used to replace the one provided on [[OCL_Settle-Concerns#Oracle Settlement Trouble|Settlement Trouble Oracle]].
+This oracle can be used to replace the one provided on [[SF_CH5_Settle-Concerns#Oracle Settlement Trouble|Settlement Trouble Oracle]].
 
 > Check the Settlement Trouble oracle provides a broad description of the site’s most dramatic current issue. ^guidance-OclSettlementTrouble
 

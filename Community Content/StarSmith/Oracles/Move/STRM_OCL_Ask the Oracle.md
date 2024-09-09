@@ -20,7 +20,7 @@ OracleDescriptor: "When you need an answer to a yes/no question, use Ask the Ora
 When you need an answer to a yes/no question, use the oracle as given in Starforged which is reprinted below.
 
 ## Oracle: Ask the Oracle
-This oracle can be used to replace the one provided on [[MV_Ask the Oracle#Ask the Oracle Table|Ask the Oracle]].
+This oracle can be used to replace the one provided on [[SF_CH3_Ask the Oracle#Ask the Oracle Table|Ask the Oracle]].
 
 > On a match, the answer becomes extreme. This means a “yes” becomes what is often referred to as a “yes and” while a “no” becomes a “no and” indicating that you should ramp up the result another notch. 
 > 

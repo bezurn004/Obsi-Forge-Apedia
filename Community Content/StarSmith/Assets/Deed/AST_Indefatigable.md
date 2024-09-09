@@ -69,16 +69,16 @@ It is said that captains in this position meet once a year at a bar in the Hovin
 ___
 
 > [!note] Ability 1
-> - [x] When you use your status as a rough and tough survivor to [[MV_Compel|Compel]] people who know of your previous ship's destruction, [[HBC_Boost|Boost]]. ^Ability1
+> - [x] When you use your status as a rough and tough survivor to [[SF_CH3_Compel|Compel]] people who know of your previous ship's destruction, [[HBC_Boost|Boost]]. ^Ability1
 ___
 > [!info] Ability 2
-> - [ ] When you [[MV_Sojourn|Sojourn]] and score a hit, you may regale the local community with the story of how you lost your previous ship.
+> - [ ] When you [[SF_CH3_Sojourn|Sojourn]] and score a hit, you may regale the local community with the story of how you lost your previous ship.
 > - If you do, choose one:
 > 	- **Revel in your tenacity:** Take +2 momentum.
-> 	- **Leverage your status:** [[MV_Gather Information|Gather Information (+heart)]] instead of +wits. ^Ability2
+> 	- **Leverage your status:** [[SF_CH3_Gather Information|Gather Information (+heart)]] instead of +wits. ^Ability2
 ___
 > [!todo] Ability 3
-> - [ ] When you [[MV_Withstand Damage|Withstand Damage]], [[HBC_Roll with Advantage|Roll with Advantage]] .
+> - [ ] When you [[SF_CH3_Withstand Damage|Withstand Damage]], [[HBC_Roll with Advantage|Roll with Advantage]] .
 > Then, if you score a strong hit and choose to ride it out, take +2 momentum (instead of +1). ^Ability3
 ___
 

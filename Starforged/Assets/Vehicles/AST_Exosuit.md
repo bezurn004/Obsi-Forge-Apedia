@@ -61,19 +61,19 @@ ConditionLabels: Battered
 ___
 > [!note] Ability 1
 > - [x] When you make a forceful, damaging, or resistant move, you may (after rolling) replace the value of your action die with the rig’s integrity; If you do...
-> 	- [[MV_Lose Momentum|Lose Momentum]] (-1).
+> 	- [[SF_CH3_Lose Momentum|Lose Momentum]] (-1).
 > > [!faq]- Possible Moves
-> > [[MV_Gain Ground|Gain Ground (+iron)]] - [[MV_Compel|Compel (+iron)]] - [[MV_Face Danger|Face Danger (+iron)]] - [[MV_Secure an Advantage|Secure an Advantage (+iron)]]- [[MV_Clash|Clash (+iron)]] - [[MV_Strike|Strike (+iron)]] ^Ability1
+> > [[SF_CH3_Gain Ground|Gain Ground (+iron)]] - [[SF_CH3_Compel|Compel (+iron)]] - [[SF_CH3_Face Danger|Face Danger (+iron)]] - [[SF_CH3_Secure an Advantage|Secure an Advantage (+iron)]]- [[SF_CH3_Clash|Clash (+iron)]] - [[SF_CH3_Strike|Strike (+iron)]] ^Ability1
 ___
 > [!info] Ability 2
 > - [ ] Your exosuit is equipped with thrusters. You can maneuver in zero-g, make thrust-assisted leaps, and drop to a surface from altitude. 
 > - When you burn fuel to overcome a critical obstacle (decide after rolling), you may reroll any dice. 
-> 	- If you do, [[MV_Sacrifice Resources|Sacrafice Resources]] (-1).
+> 	- If you do, [[SF_CH3_Sacrifice Resources|Sacrafice Resources]] (-1).
 > > [!faq]- Possible Moves
-> > [[MV_Gain Ground|Gain Ground (move)]] - [[MV_Face Danger|Face Danger (move)]] - [[MV_Battle|Battle (move)]] - [[MV_React Under Fire|React Under Fire (move)]] ^Ability2
+> > [[SF_CH3_Gain Ground|Gain Ground (move)]] - [[SF_CH3_Face Danger|Face Danger (move)]] - [[SF_CH3_Battle|Battle (move)]] - [[SF_CH3_React Under Fire|React Under Fire (move)]] ^Ability2
 ___
 > [!todo] Ability 3
-> - [ ] When you [[MV_Withstand Damage|Withstand Damage]], you may reroll one challenge die. ^Ability3
+> - [ ] When you [[SF_CH3_Withstand Damage|Withstand Damage]], you may reroll one challenge die. ^Ability3
 ___
 
 ## Tags

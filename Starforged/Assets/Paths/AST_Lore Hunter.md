@@ -57,18 +57,18 @@ ConditionLabels:
 > [!mechanics]- [[AST_Lore Hunter|Lore Hunter (asset)]] ^Header
 ___
 > [!note] Ability 1
-> - [x] When you [[MV_Swear an Iron Vow|Swear an Iron Vow]] (formidable or greater) to recover valuable knowledge or an extraordinary relic, reroll any dice. 
-> - When you [[MV_Reach a Milestone|Reach a Milestone]] in the pursuit of that quest, take +2 momentum. 
-> - When you [[MV_Fullfill Your Vow|Fullfill Your Vow]] and score a hit, also mark 2 ticks on your discoveries legacy track. ^Ability1
+> - [x] When you [[SF_CH3_Swear an Iron Vow|Swear an Iron Vow]] (formidable or greater) to recover valuable knowledge or an extraordinary relic, reroll any dice. 
+> - When you [[SF_CH3_Reach a Milestone|Reach a Milestone]] in the pursuit of that quest, take +2 momentum. 
+> - When you [[SF_CH3_Fullfill Your Vow|Fullfill Your Vow]] and score a hit, also mark 2 ticks on your discoveries legacy track. ^Ability1
 ___
 > [!info] Ability 2
 > - [ ] When you make a move to conduct extended research or study, reroll any challenge dice. 
 > 	- On a match, you piece together an extraordinary or harrowing new theory; envision the nature of this revelation and mark 1 tick on your discoveries legacy track.
 > > [!faq]- Possible Moves
-> > [[MV_Secure an Advantage|Secure an Advantage (+wits)]] - [[MV_Gather Information|Gather Information (+wits)]] ^Ability2
+> > [[SF_CH3_Secure an Advantage|Secure an Advantage (+wits)]] - [[SF_CH3_Gather Information|Gather Information (+wits)]] ^Ability2
 ___
 > [!todo] Ability 3
-> - [ ] When you recall esoteric knowledge to [[MV_Secure an Advantage|Secure an Advantage]] or [[MV_Gain Ground|Gain Ground]] add +1. 
+> - [ ] When you recall esoteric knowledge to [[SF_CH3_Secure an Advantage|Secure an Advantage]] or [[SF_CH3_Gain Ground|Gain Ground]] add +1. 
 > 	- On a hit, envision the obscure but helpful fact, theory, or technique you put to use, and take +1 momentum. ^Ability3
 ___
 

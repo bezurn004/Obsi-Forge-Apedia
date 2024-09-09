@@ -29,7 +29,7 @@ OracleDescriptor: "Create a faction by choosing the type of organization it is m
 Create a faction by choosing the type of organization it is modeled after.
 
 ## Oracle: Faction Type
-This oracle can be used to replace the one provided on [[OCL_Faction-Types#Oracle Faction Type|Faction Type Oracle]].
+This oracle can be used to replace the one provided on [[SF_CH5_Faction-Types#Oracle Faction Type|Faction Type Oracle]].
 
 > [!mechanics]- | Roll > %%GetDice%% | Guidance
 > The Type tells you the general type of organization it is. After you know their type, you then roll on the corresponding oracles. Note that for the Dominion type, you roll on both the Dominion and Leadership oracles, although I use the Leadership oracle for all factions.^guidance-STRSM-OCL-OclFactionType
@@ -56,7 +56,7 @@ This oracle can be used to replace the one provided on [[OCL_Faction-Types#Oracl
 ^table-STRSM-OCL-OclFactionType-56
 
 ### Oracle: Faction Type - Dominion {1-3}
-This oracle can be used to replace the one provided on [[OCL_Faction-Types#Oracle Faction Dominion|Faction Dominion Oracle]].
+This oracle can be used to replace the one provided on [[SF_CH5_Faction-Types#Oracle Faction Dominion|Faction Dominion Oracle]].
 
 > [!mechanics]- | Roll > %%GetDice%% | Guidance
 > The tenants and focus' for this Dominion faction. ^guidance-STRSM-OCL-OclFactionType-Dominion
@@ -90,7 +90,7 @@ This oracle can be used to replace the one provided on [[OCL_Faction-Types#Oracl
 ^table-STRSM-OCL-OclFactionType-Dominion
 
 ### Oracle: Faction Type - Guild
-This oracle can be used to replace the one provided on [[OCL_Faction-Types#Oracle Faction Guild|Faction Guild Oracle]].
+This oracle can be used to replace the one provided on [[SF_CH5_Faction-Types#Oracle Faction Guild|Faction Guild Oracle]].
 
 > [!mechanics]- | Roll > %%GetDice%% | Guidance
 > The membership focus for this Guild faction. ^guidance-STRSM-OCL-OclFactionType-Guild
@@ -115,7 +115,7 @@ This oracle can be used to replace the one provided on [[OCL_Faction-Types#Oracl
 ^table-STRSM-OCL-OclFactionType-Guild
 
 ### Oracle: Faction Type - Fringe Group
-This oracle can be used to replace the one provided on [[OCL_Faction-Types#Oracle Faction Fringe Group|Faction Fringe Group Oracle]].
+This oracle can be used to replace the one provided on [[SF_CH5_Faction-Types#Oracle Faction Fringe Group|Faction Fringe Group Oracle]].
 
 > [!mechanics]- | Roll > %%GetDice%% | Guidance
 > The reason this Fringe Group faction lives on the edges of structured society due to their aberrant or outlawed nature.^guidance-STRSM-OCL-OclFactionType-FringeGroup

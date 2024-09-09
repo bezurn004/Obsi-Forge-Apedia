@@ -23,10 +23,10 @@ OracleDescriptor: "As you spend time with a creature begin to apprach it, add la
 As you spend time with a creature begin to apprach it, add layers to their appearance and behavior.
 
 ## Oracle: Creature First Look {1-2}
-This oracle can be used to replace the one provided on [[OCL_Creature-Approach#Oracle Creature First Look|Creature First Look Oracle]].
+This oracle can be used to replace the one provided on [[SF_CH5_Creature-Approach#Oracle Creature First Look|Creature First Look Oracle]].
 
 > [!mechanics]- | Roll > %%GetDice%% | Guidance
-> Roll for a [[OCL_Creature-Basic Form|Basic Form]], and flesh out the creature’s appearance with this oracle. The thing you first notice. This could be a physical feature or other descriptive term like “Graceful” for its movements. ^guidance-STRSM-OCL-OclCreatureFirstLook
+> Roll for a [[SF_CH5_Creature-Basic Form|Basic Form]], and flesh out the creature’s appearance with this oracle. The thing you first notice. This could be a physical feature or other descriptive term like “Graceful” for its movements. ^guidance-STRSM-OCL-OclCreatureFirstLook
 
 | 1d100 | 1-2 | 3-4 | 5-6 |
 | :---: | --- | --- | --- |
@@ -83,7 +83,7 @@ This oracle can be used to replace the one provided on [[OCL_Creature-Approach#O
 ^table-STRSM-OCL-OclCreatureFirstLook
 
 ## Oracle: Creature Encountered Behavior
-This oracle can be used to replace the one provided on [[OCL_Creature-Approach#Oracle Creature Encountered Behavior|Creature Encountered Behavior Oracle]].
+This oracle can be used to replace the one provided on [[SF_CH5_Creature-Approach#Oracle Creature Encountered Behavior|Creature Encountered Behavior Oracle]].
 
 > [!mechanics]- | Roll > %%GetDice%% | Guidance
 > Roll once on this oracle to define this creature’s motivation and frame how the encounter begins. This is the way the creature has behaved in your presence. Remember that this could be abnormal behavior since it may not have encountered humans before. ^guidance-STRSM-OCL-OclCreatureEncounteredBehavior
@@ -114,7 +114,7 @@ This oracle can be used to replace the one provided on [[OCL_Creature-Approach#O
 ^table-STRSM-OCL-OclCreatureEncounteredBehavior
 
 ## Oracle: Creature Revealed Aspect {1-2}
-This oracle can be used to replace the one provided on [[OCL_Creature-Approach#Oracle Creature Revealed Aspect|Creature Revealed Aspect Oracle]].
+This oracle can be used to replace the one provided on [[SF_CH5_Creature-Approach#Oracle Creature Revealed Aspect|Creature Revealed Aspect Oracle]].
 
 > [!mechanics]- | Roll > %%GetDice%% | Guidance
 > Roll on this oracle as you interact with the creature to introduce new features or behaviors. Some results may contradict the established nature of a creature. For example, an amorphous creature that you envisioned as a mass of pure energy would not have typical physical features. If a result doesn’t fit, feel free to ignore, reroll, or adjust. Or envision how this contradiction signals a new understanding or unexpected transformation. What you notice as you continue to observe the creature. ^guidance-STRSM-OCL-OclCreatureRevealedAspect
@@ -179,6 +179,6 @@ This oracle can be used to replace the one provided on [[OCL_Creature-Approach#O
 | **[[_STRSM_OCL_Creature Oracles\|Creature Oracles]]** | #Starsmith/Oracles/Creatures - #Pedia/Oracles/Creatures | **[[_STRSM_OCL_Factions Oracles\|Faction Oracles]]** |
 
 > [!note] 
-> Page order only references the original works created in the Starsmith Oracles work. [[OCL_Creature-Environment-Scale|Creature Environment and Scale Oracle]] and [[OCL_Creature-Basic Form|Creature Basic Form Oracle]] are found on the respective Starforged: Ironsworn pages.
+> Page order only references the original works created in the Starsmith Oracles work. [[SF_CH5_Creature-Environment-Scale|Creature Environment and Scale Oracle]] and [[SF_CH5_Creature-Basic Form|Creature Basic Form Oracle]] are found on the respective Starforged: Ironsworn pages.
 
 <font size=-2>Starsmith Oracles is created by Eric Bright and licensed for use under the Creative Commons Attribution 4.0 International License (CC-BY).</font>

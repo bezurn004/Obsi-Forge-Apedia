@@ -75,7 +75,7 @@ ___
 > > #ambiguous _Insertmoveshere_ ^Ability2
 ___
 > [!todo] Ability 3
-> - [ ] When you scout ahead as you [[MV_Set a Course|Set a Course]], add +1.
+> - [ ] When you scout ahead as you [[SF_CH3_Set a Course|Set a Course]], add +1.
 > - On a **strong hit with a match,** you spot a remarkable location or opportunity en route. Mark 1 tick on your discoveries legacy track, envision what you find, and resolve the encounter. Then, continue to your destination. ^Ability3
 ___
 ## Tags

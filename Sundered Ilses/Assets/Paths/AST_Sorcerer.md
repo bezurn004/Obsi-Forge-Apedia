@@ -58,7 +58,7 @@ ConditionLabels:
 > [!mechanics]- [[AST_Sorcerer|SORCERER]] ^Header
  ___
 > [!note] Ability 1
-> - [x] When you [[MV_Secure an Advantage|Secure an Advantage]] or [[MV_Gain Ground|Gain Ground]] by creating a minor mystical effect, roll +spirit.
+> - [x] When you [[SF_CH3_Secure an Advantage|Secure an Advantage]] or [[SF_CH3_Gain Ground|Gain Ground]] by creating a minor mystical effect, roll +spirit.
 > - On a strong hit, take +1 momentum.
 > - On a weak hit, take the standard benefits of the move, but first Endure Stress (-1).
 > - On a match, you learn something of magic’s nature through an unexpected boon or harrowing backlash; mark 1 tick on your discoveries legacy track. ^Ability1
@@ -67,10 +67,10 @@ ___
 > - [ ] You may purchase assets of a supernatural nature for 1 experience (instead of 3). ^Ability2
 ___
 > [!todo] Ability 3
-> - [ ] When you [[MV_Swear an Iron Vow|Swear an Iron Vow]] (extreme or greater) to gather the components and lore of a complex and powerful ritual, reroll any dice.
-> - When you [[MV_Reach a Milestone|Reach a Milestone]] on this quest, take +2 momentum. #ambiguous _each time or only once?_
-> - When you enact the ritual to [[MV_Fullfill Your Vow|Fullfill Your Vow]], you may reroll any challenge dice to draw on unknowable powers at the risk of your soul.
-> 	- If you do, [[MV_Face Desolution|Face Desolution]]. ^Ability3
+> - [ ] When you [[SF_CH3_Swear an Iron Vow|Swear an Iron Vow]] (extreme or greater) to gather the components and lore of a complex and powerful ritual, reroll any dice.
+> - When you [[SF_CH3_Reach a Milestone|Reach a Milestone]] on this quest, take +2 momentum. #ambiguous _each time or only once?_
+> - When you enact the ritual to [[SF_CH3_Fullfill Your Vow|Fullfill Your Vow]], you may reroll any challenge dice to draw on unknowable powers at the risk of your soul.
+> 	- If you do, [[SF_CH3_Face Desolution|Face Desolution]]. ^Ability3
 ___
 ## Tags
 

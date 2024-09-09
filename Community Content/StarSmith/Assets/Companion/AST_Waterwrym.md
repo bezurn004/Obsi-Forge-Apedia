@@ -82,7 +82,7 @@ ___
 ___
 > [!todo] Ability 3
 > - [ ] **Aspect:** Your waterwyrm is harnessed and trained as a mount for underwater travel.
-> When you ride your waterwyrm as you [[MV_Undertake an Expedition|Undertake an Expedition]] underwater, roll +its health. ^Ability3
+> When you ride your waterwyrm as you [[SF_CH3_Undertake an Expedition|Undertake an Expedition]] underwater, roll +its health. ^Ability3
 ___
 
 ## Commentary

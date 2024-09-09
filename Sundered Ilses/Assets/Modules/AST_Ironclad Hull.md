@@ -61,16 +61,16 @@ ConditionLabels: Broken
 > > - [ ] Broken ^Header
  ___
 > [!note] Ability 1
-> - [x] When you [[MV_Withstand Damage|Withstand Damage]], you may ignore damage up to the value of your hull.
+> - [x] When you [[SF_CH3_Withstand Damage|Withstand Damage]], you may ignore damage up to the value of your hull.
 > - If you do, suffer -1 hull. At 0 hull, mark this module as broken.
 > 	Spend 3 repair points as you Repair to fix a broken ironclad hull, and 1 point to take +1 hull. ^Ability1
 ___
 > [!info] Ability 2
-> - [ ] When you [[MV_Face Danger|Face Danger]] or [[MV_React Under Fire|React Under Fire]] by letting your ironclad hull take the hit, roll +hull.
+> - [ ] When you [[SF_CH3_Face Danger|Face Danger]] or [[SF_CH3_React Under Fire|React Under Fire]] by letting your ironclad hull take the hit, roll +hull.
 > - On a **strong hit,** take +1 momentum. On a **strong hit** with a match, you are impervious; take another +2 momentum. ^Ability2
 ___
 > [!todo] Ability 3
-> - [ ] When you [[MV_Undertake an Expedition|Undertake an Expedition]] across an area of rough seas or dangerous shallows, you may rely on your ironclad hull.
+> - [ ] When you [[SF_CH3_Undertake an Expedition|Undertake an Expedition]] across an area of rough seas or dangerous shallows, you may rely on your ironclad hull.
 > - If you do, roll +hull. You may reroll your action die if its value is less than your hull. ^Ability3
 ___
 ## Tags

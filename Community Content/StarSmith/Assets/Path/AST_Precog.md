@@ -65,15 +65,15 @@ Many of those with precognitive abilities become infiltration specialists as the
 ___
 
 > [!note] Ability 1
-> - [x] When you score a miss on [[MV_Face Danger|Face Danger]], [[MV_Clash|Clash]] or [[MV_React Under Fire|React Under Fire]], you may choose for this to have been a vision of an avoidable future.
-> If you do, [[MV_Lose Momentum|Lose Momentum]] (-2), envision how you approach the situation differently and reroll any dice. 
+> - [x] When you score a miss on [[SF_CH3_Face Danger|Face Danger]], [[SF_CH3_Clash|Clash]] or [[SF_CH3_React Under Fire|React Under Fire]], you may choose for this to have been a vision of an avoidable future.
+> If you do, [[SF_CH3_Lose Momentum|Lose Momentum]] (-2), envision how you approach the situation differently and reroll any dice. 
 > - On a strong hit, take +1 momentum. ^Ability1
 ___
 > [!info] Ability 2
-> - [ ] As above, but it can be used when you score a miss on [[MV_Enter the Fray|Enter The Fray]], [[MV_Strike|Strike]] or [[MV_Gain Ground|Gain Ground]]. ^Ability2
+> - [ ] As above, but it can be used when you score a miss on [[SF_CH3_Enter the Fray|Enter The Fray]], [[SF_CH3_Strike|Strike]] or [[SF_CH3_Gain Ground|Gain Ground]]. ^Ability2
 ___
 > [!todo] Ability 3
-> - [ ] When you [[MV_Secure an Advantage|Secure an Advantage]] with your precognitive ability, [[MV_Lose Momentum|Lose Momentum]] (-2)
+> - [ ] When you [[SF_CH3_Secure an Advantage|Secure an Advantage]] with your precognitive ability, [[SF_CH3_Lose Momentum|Lose Momentum]] (-2)
 > Reroll any dice and add +2.
 > - On a strong hit, take +1 momentum instead of the normal options. ^Ability3
 ___

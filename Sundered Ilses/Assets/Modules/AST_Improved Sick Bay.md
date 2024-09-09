@@ -67,14 +67,14 @@ ConditionLabels:
 > - Build loyalty: Mark 1 tick on your bonds legacy track.
 > - Rally: You and your allies take +1 health or +2 momentum.
 > - Get to work: Take +1 integrity.
-> On a **miss,** you must count the cost; [[MV_Pay the Price|Pay the Price]]. #ConvertAbilityToMove ^Ability1
+> On a **miss,** you must count the cost; [[SF_CH3_Pay the Price|Pay the Price]]. #ConvertAbilityToMove ^Ability1
 ___
 > [!info] Ability 2
-> - [ ] When you [[MV_Heal|Heal]], make the cost of a **weak hit** -1 instead of -2. ^Ability2
+> - [ ] When you [[SF_CH3_Heal|Heal]], make the cost of a **weak hit** -1 instead of -2. ^Ability2
 ___
 > [!todo] Ability 3
 > - [ ] When you or an ally mark the permanently harmed impact, you have a chance to make things right.
-> - If you [[MV_Heal|Heal]] and score a **strong hit,** clear the impact (in addition to the other benefits of the move).
+> - If you [[SF_CH3_Heal|Heal]] and score a **strong hit,** clear the impact (in addition to the other benefits of the move).
 > 	Then, envision the scar that remains. ^Ability3
 ___
 ## Tags

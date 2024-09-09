@@ -64,18 +64,18 @@ The best defensive products have been architectural in nature such as the puzzle
 ___
 
 > [!note] Ability 1
-> - [x] When you [[MV_Face Danger|Face Danger]] or [[MV_Secure an Advantage|Secure an Advantage]] by quantum tunneling to a position nearby and within sight, add +2 but treat a weak hit as a miss.
+> - [x] When you [[SF_CH3_Face Danger|Face Danger]] or [[SF_CH3_Secure an Advantage|Secure an Advantage]] by quantum tunneling to a position nearby and within sight, add +2 but treat a weak hit as a miss.
 > If through an obstacle to a nearby but unseen location, treat a weak hit as a miss but take +2 momentum on a strong hit. ^Ability1
 ___
 > [!info] Ability 2
-> - [ ] When you [[MV_Clash|Clash]] and score a weak hit, you may forgo marking progress to be in control as you tunnel away.
-> When you [[MV_Strike|Strike]] and score a weak hit, you may mark progress only once (instead of twice) to be in control as you tunnel to reposition. ^Ability2
+> - [ ] When you [[SF_CH3_Clash|Clash]] and score a weak hit, you may forgo marking progress to be in control as you tunnel away.
+> When you [[SF_CH3_Strike|Strike]] and score a weak hit, you may mark progress only once (instead of twice) to be in control as you tunnel to reposition. ^Ability2
 ___
 > [!todo] Ability 3
 > - [ ] When you attempt to quantum entangle yourself to a location, roll +heart or +wits. #ConvertAbilityToMove
 > - On a hit, you may quantum tunnel to that location from any distance, but it is dangerous.
-> - On a miss, as above but the entangling is harmful. [[MV_Endure Harm|Endure Harm]] (-2). 
-> When you [[MV_Face Danger|Face Danger]] to do so, treat a weak hit as a miss. Once used, the entanglement fades. ^Ability3
+> - On a miss, as above but the entangling is harmful. [[SF_CH3_Endure Harm|Endure Harm]] (-2). 
+> When you [[SF_CH3_Face Danger|Face Danger]] to do so, treat a weak hit as a miss. Once used, the entanglement fades. ^Ability3
 ___
 
 ## Commentary

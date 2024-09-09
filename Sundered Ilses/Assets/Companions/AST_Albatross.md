@@ -65,10 +65,10 @@ ConditionLabels: "Out of Action"
 > - If the albatross is killed, discard this asset and suffer a permanent impact. ^Ability1
 ___
 > [!info] Ability 2
-> - [ ] When the albatross flies ahead of your ship or perches on the ship’s mast as you [[MV_Finish an Expedition|Finish an Expedition]], its luck is on your side. You may reroll one challenge die. ^Ability2
+> - [ ] When the albatross flies ahead of your ship or perches on the ship’s mast as you [[SF_CH3_Finish an Expedition|Finish an Expedition]], its luck is on your side. You may reroll one challenge die. ^Ability2
 ___
 > [!todo] Ability 3
-> - [ ] When you [[MV_Secure an Advantage|Secure an Advantage]] at sea by asking the spirit embodied by the albatross for a favorable boon, you may roll +its health
+> - [ ] When you [[SF_CH3_Secure an Advantage|Secure an Advantage]] at sea by asking the spirit embodied by the albatross for a favorable boon, you may roll +its health
 > - If you do, take +1 momentum on **a hit.**
 > - On a **strong hit with a match,** also mark 1 tick on your bonds legacy track as you deepen your connection to your companion. ^Ability3
 ___

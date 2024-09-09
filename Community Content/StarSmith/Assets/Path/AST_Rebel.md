@@ -68,14 +68,14 @@ Rebels can take on many guises from soldier to spy to infiltrator to saboteur, b
 ___
 
 > [!note] Ability 1
-> - [x] . When you [[MV_Swear an Iron Vow|Swear an Iron Vow]] (formidable or greater) to protect a community from the actions or influence of that faction, reroll any dice.
-> When you [[MV_Fullfill Your Vow|Fullfill Your Vow]] and score a hit, also mark 2 ticks on your bonds legacy track. ^Ability1
+> - [x] . When you [[SF_CH3_Swear an Iron Vow|Swear an Iron Vow]] (formidable or greater) to protect a community from the actions or influence of that faction, reroll any dice.
+> When you [[SF_CH3_Fullfill Your Vow|Fullfill Your Vow]] and score a hit, also mark 2 ticks on your bonds legacy track. ^Ability1
 ___
 > [!info] Ability 2
-> - [ ] When you [[MV_Secure an Advantage|Secure an Advantage]] or [[MV_Gain Ground|Gain Ground]] by sabotaging the equipment or resources of that faction, [[HBC_Boost|Boost]]. ^Ability2
+> - [ ] When you [[SF_CH3_Secure an Advantage|Secure an Advantage]] or [[SF_CH3_Gain Ground|Gain Ground]] by sabotaging the equipment or resources of that faction, [[HBC_Boost|Boost]]. ^Ability2
 ___
 > [!todo] Ability 3
-> - [ ] When you [[MV_Enter the Fray|Enter The Fray]] against forces of that faction, you may choose an approach.
+> - [ ] When you [[SF_CH3_Enter the Fray|Enter The Fray]] against forces of that faction, you may choose an approach.
 > - **Call them out:** Roll +heart and add +2.
 > - **Make them pay:** Roll +iron and mark progress on a hit. ^Ability3
 ___

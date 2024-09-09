@@ -60,7 +60,7 @@ ConditionLabels:
 > **Aspect:** This is not your end. Envision your undead form and nature. This asset counts as a permanent impact, but you are now resistant to mortal harm. ^Header
 ___
 > [!note] Ability 1
-> - [x] When you [[MV_Endure Harm|Endure Harm]], you may first [[MV_Lose Momentum|Lose Momentum]] (-1, -2, or -3) to offset an equal amount of harm.
+> - [x] When you [[SF_CH3_Endure Harm|Endure Harm]], you may first [[SF_CH3_Lose Momentum|Lose Momentum]] (-1, -2, or -3) to offset an equal amount of harm.
 > - If potential harm remains, and you choose to resist the harm, roll +spirit. ^Ability1
 ___
 > [!info] Ability 2
@@ -71,7 +71,7 @@ ___
 ___
 > [!todo] Ability 3
 > **Aspect:** You may move at will between the mortal world and the realm of the dead, can take others with you, and may navigate those paths to bypass or hasten a mortal journey.
-> - [ ] When you [[MV_Undertake an Expedition|Undertake an Expedition]] within the realms of the dead, roll +spirit.
+> - [ ] When you [[SF_CH3_Undertake an Expedition|Undertake an Expedition]] within the realms of the dead, roll +spirit.
 > - On a **strong hit,** mark progress. ^Ability3
 ___
 ## Tags

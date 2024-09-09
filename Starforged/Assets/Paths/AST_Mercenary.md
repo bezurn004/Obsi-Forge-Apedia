@@ -58,16 +58,16 @@ ConditionLabels:
 > **Current Contract: ** _Insert_Description_Here_ ^Header
 ___
 > [!note] Ability 1
-> - [x] When you agree to wage war or defend others from war in exchange for payment or promises, you may [[MV_Swear an Iron Vow|Swear an Iron Vow]] to see the mission done. If you do, reroll any dice. 
-> - When you [[MV_Fullfill Your Vow|Fullfill Your Vow]], make the legacy reward one rank higher (1 extra box if already epic). ^Ability1
+> - [x] When you agree to wage war or defend others from war in exchange for payment or promises, you may [[SF_CH3_Swear an Iron Vow|Swear an Iron Vow]] to see the mission done. If you do, reroll any dice. 
+> - When you [[SF_CH3_Fullfill Your Vow|Fullfill Your Vow]], make the legacy reward one rank higher (1 extra box if already epic). ^Ability1
 ___
 > [!info] Ability 2
-> - [ ] When you [[MV_Make a Connection|Make a Connection]] by searching out or making contact with someone in need of your services, add +1.
+> - [ ] When you [[SF_CH3_Make a Connection|Make a Connection]] by searching out or making contact with someone in need of your services, add +1.
 > 	- On a hit take +1 momentum.
 > 	- On a strong hit with a match, this mission pits you against an unresolved aspect of your past or a hated foe; mark 2 ticks on your quests legacy track. ^Ability2
 ___
 > [!todo] Ability 3
-> - [ ] When you [[MV_Check Your Gear|Check Your Gear]] in the midst of a fight, or [[MV_Resupply|Resupply]] by looting the field of battle in the aftermath of a fight, add +2 ^Ability3
+> - [ ] When you [[SF_CH3_Check Your Gear|Check Your Gear]] in the midst of a fight, or [[SF_CH3_Resupply|Resupply]] by looting the field of battle in the aftermath of a fight, add +2 ^Ability3
 ___
 
 ## Tags

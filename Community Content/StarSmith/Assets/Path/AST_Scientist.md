@@ -70,16 +70,16 @@ While many scientists enjoy the daily work of discovery in the lab, there are th
 ___
 
 > [!note] Ability 1
-> - [x] With sufficient time (a couple of hours or more), you may [[MV_Secure an Advantage|Secure an Advantage]] by doing scientific analysis of a problem or inventing prototype technology within your area of expertise.
+> - [x] With sufficient time (a couple of hours or more), you may [[SF_CH3_Secure an Advantage|Secure an Advantage]] by doing scientific analysis of a problem or inventing prototype technology within your area of expertise.
 > - On a hit, one time only, when you or an ally make a move aided by this knowledge or device, take an automatic strong hit. ^Ability1
 ___
 > [!info] Ability 2
-> - [ ] When you [[MV_Gather Information|Gather Information]] by reviewing research or speaking with colleagues about your area of expertise, reroll any dice.
+> - [ ] When you [[SF_CH3_Gather Information|Gather Information]] by reviewing research or speaking with colleagues about your area of expertise, reroll any dice.
 > - On a match, you reveal an unexpected consequence or danger on this topic.
 > 	- Mark 1 tick on your discoveries legacy track. ^Ability2
 ___
 > [!todo] Ability 3
-> - [ ] When you [[MV_Face Danger|Face Danger]] by relying on theoretical knowledge from your area of expertise, [[HBC_Boost|Boost]]. ^Ability3
+> - [ ] When you [[SF_CH3_Face Danger|Face Danger]] by relying on theoretical knowledge from your area of expertise, [[HBC_Boost|Boost]]. ^Ability3
 ___
 
 ## Commentary

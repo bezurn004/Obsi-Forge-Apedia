@@ -58,10 +58,10 @@ ConditionLabels:
 > > [!warning] Ammo (Max 6) | <input type="checkbox" /><input type="checkbox" /><input type="checkbox" /><input type="checkbox" /><input type="checkbox" /><input type="checkbox" /> | ^Header
 ___
 > [!note] Ability 1
-> - [x] You carry 6 ammo. When you [[MV_Strike|Strike]] or [[MV_Clash|Clash]], you may add +1 or +2 and suffer that amount as -ammo. To replenish your ammo make the move [[MV_Craft Projectiles|Craft Projectiles]]. ^Ability1
+> - [x] You carry 6 ammo. When you [[SF_CH3_Strike|Strike]] or [[SF_CH3_Clash|Clash]], you may add +1 or +2 and suffer that amount as -ammo. To replenish your ammo make the move [[SF_CH3_Craft Projectiles|Craft Projectiles]]. ^Ability1
 ___
 > [!info] Ability 2
-> - [ ] You may [[MV_Enter the Fray|Enter The Fray]] by unleashing a volley of bow shots. 
+> - [ ] You may [[SF_CH3_Enter the Fray|Enter The Fray]] by unleashing a volley of bow shots. 
 > 	- If you do, roll +ammo and suffer -1 ammo.
 > 		- On a hit, mark progress. ^Ability2
 ___

@@ -59,14 +59,14 @@ ConditionLabels: Broken
 > > - [ ] Broken ^Header
 ___
 > [!note] Ability 1
-> - [x] When you use your medbay to [[MV_Heal|Heal]] yourself or another patient, you may reroll your action die if its value is less than your vehicle’s integrity. ^Ability1
+> - [x] When you use your medbay to [[SF_CH3_Heal|Heal]] yourself or another patient, you may reroll your action die if its value is less than your vehicle’s integrity. ^Ability1
 ___
 > [!info] Ability 2
 > - [ ] When you or an ally mark the permanently harmed impact and are brought to the medbay without delay (less than an hour or so), you have a shot at making things right. 
-> 	- If you [[MV_Heal|Heal]] and score a strong hit, clear the impact (in addition to the other benefits of the move). Then, envision the scar that now serves as a reminder of the incident. ^Ability2
+> 	- If you [[SF_CH3_Heal|Heal]] and score a strong hit, clear the impact (in addition to the other benefits of the move). Then, envision the scar that now serves as a reminder of the incident. ^Ability2
 ___
 > [!todo] Ability 3
-> - [ ] When you [[MV_Face Danger|Face Danger]] by performing a risky medical procedure, or if you [[MV_Gather Information|Gather Information]] through an autopsy or medical examination, reroll any dice and take +1 momentum on a hit. ^Ability3
+> - [ ] When you [[SF_CH3_Face Danger|Face Danger]] by performing a risky medical procedure, or if you [[SF_CH3_Gather Information|Gather Information]] through an autopsy or medical examination, reroll any dice and take +1 momentum on a hit. ^Ability3
 ___
 
 ## Tags

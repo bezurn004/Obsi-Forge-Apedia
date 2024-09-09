@@ -6,7 +6,7 @@ SourceLink:
 
 ## Page
 aliases: 
-  - "Beasts of the Isles (Sundered Isles Gameplay)"
+  - "Beasts of the Isles (SI Gameplay)"
 PageType: "Adventure Amonth the Isles"
 PageCategory: "Beasts of the Isles"
 PageOrder: 11
@@ -19,7 +19,7 @@ You decide the nature of beasts in your world when you choose the truths of the 
 ## INTRODUCING BEASTS TO YOUR WORLD
 The following pages include brief summaries of notable beasts in several environs: [[#^beasts-sea|sea]] (pages 58–59), [[#^beasts-land|land]] (pages 60–61), [[#^beasts-shore-river|shore and river]] (page 62), and [[#^beasts-sky|sky]] (page 63). Use these beasts as inspiration for myths, dangers, denizens, or the focus of a quest. Feel free to pick from these lists, combine or customize, or roll for a random beast.
 
-To unleash a truly aberrant creature upon your world, generate its form using the _Starforged_ [[_OCL_Creatures|Creatures Oracle]] (page 336 of the _Starforged_ rulebook).
+To unleash a truly aberrant creature upon your world, generate its form using the _Starforged_ [[_SF_CH5_Creatures|Creatures Oracle]] (page 336 of the _Starforged_ rulebook).
 
 *56 ADVENTURES AMONG THE ISLES*
 
@@ -56,7 +56,7 @@ Or [[SI_CH4_Swear an Iron Vow#INSERT Move Card|Swear an Iron Vow (SI Moves)]] an
 | 81–85 | Starlume | Dangerous | Hundreds of pinpoint lights shimmer within the translucent form of these gigantic jellyfish. According to legend, the lights of a starlume reveal complex celestial maps. Those who look deeply into those alluring lights may find themselves gifted—or cursed—with visions of lost seas and hidden places. |
 | 86–90 | Vortex Forge | Epic | From a distance, this titanic entity might be mistaken for a great whale, but it is a crewless metal construct that wanders the seas on an inscrutable mission. Its rotating maw generates powerful whirlpools to draw in prey, sending ship and sailor alike into an ever-burning furnace deep within its mechanical gullet. |
 | 91–95 | Herald | Epic | These colossal tortoise-like beings are the longest-lived creatures of the isles—perhaps as ancient as the world itself. Islanders interpret wondrous and grim portents from the sighting of a herald, but these creatures often go unseen; their craggy shell is easily mistaken for a small, rocky island. |
-| 96–100 | Abomination | Various Ranks | Generate this beast using the _Starforged_ [[_OCL_Creatures\|Creatures Oracle]] (page 336 of the _Starforged_ rulebook), giving it a water form. |
+| 96–100 | Abomination | Various Ranks | Generate this beast using the _Starforged_ [[_SF_CH5_Creatures\|Creatures Oracle]] (page 336 of the _Starforged_ rulebook), giving it a water form. |
 
 *58 ADVENTURES AMONG THE ISLES*
 *59 BEASTS OF THE ISLES*
@@ -79,7 +79,7 @@ Or [[SI_CH4_Swear an Iron Vow#INSERT Move Card|Swear an Iron Vow (SI Moves)]] an
 | 81–85 | Ghost Rat | Dangerous | These pale rats of unusual size are accustomed to life within lightless caves. Ghost rats are blind, and use their keen sense of smell to navigate the depths. They pursue potential meals with hound-like persistence. |
 | 86–90 | Gangle | Formidable | This large, cave-dwelling insect contorts its long limbs with uncanny flexibility—the joints cracking like breaking bones—to navigate the smallest crevices. These limbs, equipped with delicate sensory organs, enable the creature to perceive the subtlest vibrations and detect prey or threats from afar. After unfolding itself from its hiding place, the gangle attacks with a spray of burning saliva. |
 | 91–95 | Deep Dragon | Epic | These ancient dragons lair in volcanic chambers, hibernating for centuries amid superheated steam and gases. They are flightless, with only vestigial wings, but their titanic scale and molten breath mark them as the greatest of dragon-kind. The rare emergence of a deep dragon from its burrow is a catastrophic reckoning for the surface world. |
-| 96–100 | Abomination | Various Ranks | Generate this beast using the _Starforged [[_OCL_Creatures\|Creatures Oracle]] (page 336 of the _Starforged_ rulebook), giving it a land form. |
+| 96–100 | Abomination | Various Ranks | Generate this beast using the _Starforged [[_SF_CH5_Creatures\|Creatures Oracle]] (page 336 of the _Starforged_ rulebook), giving it a land form. |
 
 *60 ADVENTURES AMONG THE ISLES*
 *61 BEASTS OF THE ISLES*
@@ -95,7 +95,7 @@ Or [[SI_CH4_Swear an Iron Vow#INSERT Move Card|Swear an Iron Vow (SI Moves)]] an
 | 66–75 | Sand Dragon | Formidable | Sand dragons are the smallest of dragon-kind, but are still a fearsome foe. Burrowing beneath shoreline dunes, it stirs at the telltale vibrations of footfalls upon its lair. It attacks with dagger-like claws, teeth as long and wicked as cutlasses, and breath of scalding steam. |
 | 76–85 | Keelback Crab | Extreme | The keelback crab uses a scavenged ship as a protective shell for its soft exoskeleton. Reports of ghost ships can often be attributed to keelbacks, scuttling along coastal waters with wrecks on their backs. As it grows, a keelback must commandeer vessels of increasing size. |
 | 86–95 | Jade Crab | Extreme | The jade crab is the largest and most aggressive of the crustaceans, able to snap a longboat or even a small ship in two with its vice-like pincers. At rest, their shell is slate gray, easily mistaken for rocks or reefs. On the hunt, they shimmer with an iridescent blue-green. Fiercely territorial, these creatures often claim a waterway, cove, or sea cave as their lair. |
-| 96–100 | Abomination | Various Ranks | Generate this beast using the _Starforged_ [[_OCL_Creatures\|Creatures Oracle]] (page 336 of the _Starforged_ rulebook), giving it a land or water form. |
+| 96–100 | Abomination | Various Ranks | Generate this beast using the _Starforged_ [[_SF_CH5_Creatures\|Creatures Oracle]] (page 336 of the _Starforged_ rulebook), giving it a land or water form. |
 
 *62 ADVENTURES AMONG THE ISLES*
 
@@ -110,7 +110,7 @@ Or [[SI_CH4_Swear an Iron Vow#INSERT Move Card|Swear an Iron Vow (SI Moves)]] an
 | 66–75 | Monarch Bat | Formidable | These oversized bats, large enough to carry off an unlucky islander, dwell in caves and amid jungle canopies. As the sun sets, they leave their roosts to hunt. They are particularly dangerous on moonless nights when their swift, silent approach goes unnoticed. |
 | 76–85 | Bloodmite | Dangerous | Bloodmites are hound-sized, flying insects. They primarily cling to the hide of titanic beasts, feeding through a blade-tipped proboscis, but are not averse to preying upon smaller targets. |
 | 86–95 | Thanatoi | Dangerous | These moth-like creatures are unsettlingly large but harmless. They are often seen on nights when Wraith is full—they shimmer with a strange, ethereal glow, as if reflecting the light of the moon. Many islanders believe they escort souls into the world beyond. Look too long into their alluring glow, they say, and you suffer a glimpse of your own death. |
-| 96–100 | Abomination | Various Ranks | Generate this beast using the _Starforged_ [[_OCL_Creatures\|Creatures Oracle]] (page 336 of the _Starforged_ rulebook), giving it an air form. |
+| 96–100 | Abomination | Various Ranks | Generate this beast using the _Starforged_ [[_SF_CH5_Creatures\|Creatures Oracle]] (page 336 of the _Starforged_ rulebook), giving it an air form. |
 
 *63 BEASTS OF THE ISLES*
 
@@ -118,7 +118,7 @@ Or [[SI_CH4_Swear an Iron Vow#INSERT Move Card|Swear an Iron Vow (SI Moves)]] an
 
 | Previous Page | Tags | Next Chapter |
 | :--- | :---: | ---: |
-| **[[SI_CH1_Factions of the Isles\|Factions of the Isles]]** | #SunderedIsles/Gameplay| **[[_SI_CH2_Contents\|Chapter 2 - Getting Underway (SI)]]** |
+| **[[SI_CH1_Factions of the Isles\|Factions of the Isles (SI Gameplay)]]** | #SunderedIsles/Gameplay| **[[_SI_CH2_Contents\|Chapter 2 - Getting Underway (SI)]]** |
 
 
 <font size=-2>Copyright ©2024 Shawn Tomkin. The text of this work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license. For license details, visit ironswornrpg.com. Updated June 2024 MUH051V200-PDF</font>

@@ -62,11 +62,11 @@ ConditionLabels:
 > > Trigger: <input type=texbox value="InsertTrigger"> ^Header
 ___
 > [!note] Ability 1
-> - [x] If you encounter or activate the trigger, [[MV_Face Danger|Face Danger]] (roll +health) to hasten, endure, or resist the transformation.
+> - [x] If you encounter or activate the trigger, [[SF_CH3_Face Danger|Face Danger]] (roll +health) to hasten, endure, or resist the transformation.
 > - When you make a move in your alternate form, roll an extra action die.
 > 	- If the move is true to your alternate form’s nature, keep the highest as your action die value.
 > 	- If it is contrary, keep the lowest.
-> - To willingly return to your normal form, [[MV_Lose Momentum|Lose Momentum]] (-2). 
+> - To willingly return to your normal form, [[SF_CH3_Lose Momentum|Lose Momentum]] (-2). 
 > > [!faq] Possible Moves
 > > #ambiguous _insertallactionmoveshere?_^Ability1
 ___

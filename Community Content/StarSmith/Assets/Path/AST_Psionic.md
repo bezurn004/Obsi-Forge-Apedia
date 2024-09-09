@@ -66,14 +66,14 @@ Some psionics make good money as a type of mental drug dealer. For the right pri
 ___
 
 > [!note] Ability 1
-> - [x] When you [[MV_Compel|Compel]] by inserting a strong suggestion into someone's mind, roll +wits and [[HBC_Roll with Advantage|Roll with Advantage]]. This suggestion may not force the person to cause harm to themself or to their loved ones, but it may induce reckless or unwise behavior.
+> - [x] When you [[SF_CH3_Compel|Compel]] by inserting a strong suggestion into someone's mind, roll +wits and [[HBC_Roll with Advantage|Roll with Advantage]]. This suggestion may not force the person to cause harm to themself or to their loved ones, but it may induce reckless or unwise behavior.
 > - If the suggestion is for a behavior the target wants to perform anyway but is restraining themself, add +1 as well. ^Ability1
 ___
 > [!info] Ability 2
-> - [ ] When you [[MV_Secure an Advantage|Secure an Advantage]] by determining if someone is lying or [[MV_Compel|Compel]] a person or group of people to speak truthfully, [[HBC_Roll with Advantage|Roll with Advantage]]. ^Ability2
+> - [ ] When you [[SF_CH3_Secure an Advantage|Secure an Advantage]] by determining if someone is lying or [[SF_CH3_Compel|Compel]] a person or group of people to speak truthfully, [[HBC_Roll with Advantage|Roll with Advantage]]. ^Ability2
 ___
 > [!todo] Ability 3
-> - [ ] When you [[MV_Face Danger|Face Danger]] or [[MV_Secure an Advantage|Secure an Advantage]] by projecting a brief but convincing illusion into the mind of another being, [[HBC_Roll with Advantage|Roll with Advantage]]. ^Ability3
+> - [ ] When you [[SF_CH3_Face Danger|Face Danger]] or [[SF_CH3_Secure an Advantage|Secure an Advantage]] by projecting a brief but convincing illusion into the mind of another being, [[HBC_Roll with Advantage|Roll with Advantage]]. ^Ability3
 ___
 
 ## Commentary

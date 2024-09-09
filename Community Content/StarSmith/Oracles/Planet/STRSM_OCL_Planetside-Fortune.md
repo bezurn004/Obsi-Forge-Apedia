@@ -24,7 +24,7 @@ OracleDescriptor: "Planetside Fortunes are the Perils and Opportunities help env
 Planetside Fortunes are the **Perils** and **Opportunities** help envision the nature of an unexpected event when exploring planets in the Forge.
 
 ## Oracle: Planetside Peril - Lifeless
-This oracle can be used to replace the one provided on [[OCL_Planetside_Fortune#Oracle Planet Peril - Lifeless|Planetside Peril - Lifess Oracle]]
+This oracle can be used to replace the one provided on [[SF_CH5_Planetside_Fortune#Oracle Planet Peril - Lifeless|Planetside Peril - Lifess Oracle]]
 
 > [!mechanics]- | Roll > %%GetDice%% | Guidance
 > When exploring on a lifeless planet during your adventure and rolling a match on the challenge dice or where narratively appropriate. ^guidance-STRSM-OCL-OclPlanetsidePeril-Lifeless
@@ -60,7 +60,7 @@ This oracle can be used to replace the one provided on [[OCL_Planetside_Fortune#
 ^table-STRSM-OCL-OclPlanetsidePeril-Lifeless
 
 ## Oracle: Planetside Peril - Lifebearing
-This oracle can be used to replace the one provided on [[OCL_Planetside_Fortune#Oracle Planet Peril - Lifebearing|Planetside Peril - Lifebearing Oracle]]
+This oracle can be used to replace the one provided on [[SF_CH5_Planetside_Fortune#Oracle Planet Peril - Lifebearing|Planetside Peril - Lifebearing Oracle]]
 
 > [!mechanics]- | Roll > %%GetDice%% | Guidance
 > When exploring on a lifeless planet during your adventure and rolling a match on the challenge dice or where narratively appropriate. ^guidance-STRSM-OCL-OclPlanetsidePeril-Lifebearing
@@ -104,7 +104,7 @@ This oracle can be used to replace the one provided on [[OCL_Planetside_Fortune#
 ^table-STRSM-OCL-OclPlanetsidePeril-Lifebearing
 
 ## Oracle: Planetside Opportunity - Lifeless
-This oracle can be used to replace the one provided on [[OCL_Planetside_Fortune#Oracle Planet Opportunity - Lifeless|Planetside Opportunity - Lifess Oracle]]
+This oracle can be used to replace the one provided on [[SF_CH5_Planetside_Fortune#Oracle Planet Opportunity - Lifeless|Planetside Opportunity - Lifess Oracle]]
 
 > [!mechanics]- | Roll > %%GetDice%% | Guidance
 > When exploring on a lifeless planet during your adventure and rolling a match on the challenge dice or where narratively appropriate. ^guidance-STRSM-OCL-OclPlanetsideOpportunity-Lifeless
@@ -134,7 +134,7 @@ This oracle can be used to replace the one provided on [[OCL_Planetside_Fortune#
 ^table-STRSM-OCL-OclPlanetsideOpportunity-Lifeless
 
 ## Oracle: Planetside Opportunity - Lifebearing
-This oracle can be used to replace the one provided on [[OCL_Planetside_Fortune#Oracle Planet Opportunity - Lifebearing|Planetside Opportunity - Lifebearing Oracle]]
+This oracle can be used to replace the one provided on [[SF_CH5_Planetside_Fortune#Oracle Planet Opportunity - Lifebearing|Planetside Opportunity - Lifebearing Oracle]]
 
 > [!mechanics]- | Roll > %%GetDice%% | Guidance
 > When exploring on a lifeless planet during your adventure and rolling a match on the challenge dice or where narratively appropriate. ^guidance-STRSM-OCL-OclPlanetsideOpportunity-Lifebearing

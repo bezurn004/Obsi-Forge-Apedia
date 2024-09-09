@@ -63,14 +63,14 @@ ___
 > 	- _Trade for services:_ Make one recovery move (not Sojourn) with an automatic strong hit
 > 	- _Trade for clout or solidarity:_ Mark 1 tick on your bonds legacy track
 > 	- _Trade for goods or coin:_ Mark 1 tick on your quests legacy track 
-> - On a **miss,** you make a bad deal; [[MV_Pay the Price|Pay the Price]]. #ConvertAbilityToMove ^Ability1
+> - On a **miss,** you make a bad deal; [[SF_CH3_Pay the Price|Pay the Price]]. #ConvertAbilityToMove ^Ability1
 ___
 > [!info] Ability 2
 > - [ ] As above, and **on a match,** you uncover a chance to obtain a unique (if a **strong hit**) or problematic (if a **miss**) resource or item. Envision the opportunity.
 > - If you secure it, mark 2 ticks on your quests legacy track.  ^Ability2
 ___
 > [!todo] Ability 3
-> - [ ] When you [[MV_Develop a Relationship|Develop a Relationship]] with a connection through a mutually beneficial trade, mark progress and take +2 momentum. ^Ability3
+> - [ ] When you [[SF_CH3_Develop a Relationship|Develop a Relationship]] with a connection through a mutually beneficial trade, mark progress and take +2 momentum. ^Ability3
 ___
 ## Tags
 

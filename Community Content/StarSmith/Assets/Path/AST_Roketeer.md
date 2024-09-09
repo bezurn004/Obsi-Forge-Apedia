@@ -72,17 +72,17 @@ ___
 > - add +2
 > - suffer -1 fuel.
 > > [!faq]- Possible Moves
-> > [[MV_Face Danger|Face Danger (move)]] - [[MV_Secure an Advantage|Secure an Advantage (move)]] - [[MV_Gain Ground|Gain Ground (move)]] - [[MV_React Under Fire|React Under Fire (move)]] ^Ability1
+> > [[SF_CH3_Face Danger|Face Danger (move)]] - [[SF_CH3_Secure an Advantage|Secure an Advantage (move)]] - [[SF_CH3_Gain Ground|Gain Ground (move)]] - [[SF_CH3_React Under Fire|React Under Fire (move)]] ^Ability1
 ___
 > [!info] Ability 2
 > - [ ] When you make a move reacting to an imminent threat by rapidly relocating using a burst from your jet pack...
 > - [[HBC_Boost|Boost]]
 > - suffer -1 fuel.
 > > [!faq]- Possible Moves
-> > [[MV_Face Danger|Face Danger (move)]] - [[MV_Gain Ground|Gain Ground (move)]] - [[MV_React Under Fire|React Under Fire (move)]] ^Ability2
+> > [[SF_CH3_Face Danger|Face Danger (move)]] - [[SF_CH3_Gain Ground|Gain Ground (move)]] - [[SF_CH3_React Under Fire|React Under Fire (move)]] ^Ability2
 ___
 > [!todo] Ability 3
-> - [ ] When you [[MV_Undertake an Expedition|Undertake an Expedition (+edge)]] across difficult terrain assisted by your jet pack...
+> - [ ] When you [[SF_CH3_Undertake an Expedition|Undertake an Expedition (+edge)]] across difficult terrain assisted by your jet pack...
 > - On a hit take +1 momentum and suffer -1 fuel. 
 > - On a strong hit with a match, you surge ahead. Mark progress. ^Ability3
 ___

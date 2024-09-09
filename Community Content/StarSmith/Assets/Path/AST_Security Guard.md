@@ -67,16 +67,16 @@ One of the most useful tools a security guard has is their intuition for danger.
 ___
 
 > [!note] Ability 1
-> - [x] When you [[MV_Swear an Iron Vow|Swear an Iron Vow]] to provide someone or something protection for a time, set aside an action die with a value of 6.
-> - Then, when you [[MV_Face Danger|Face Danger]] to protect that person or thing from harm, add an amount equal to half the die value (rounded up) and reduce its value by 1.
+> - [x] When you [[SF_CH3_Swear an Iron Vow|Swear an Iron Vow]] to provide someone or something protection for a time, set aside an action die with a value of 6.
+> - Then, when you [[SF_CH3_Face Danger|Face Danger]] to protect that person or thing from harm, add an amount equal to half the die value (rounded up) and reduce its value by 1.
 > - When the die would reduce to 0, remove it. ^Ability1
 ___
 > [!info] Ability 2
 > - [ ] **Aspect** Your training in security comes in handy during a fight.
-> When you [[MV_Strike|Strike]] or [[MV_Clash|Clash]] in close quarters in order to incapacitate your foe without hurting them, [[HBC_Boost|Boost]]. ^Ability2
+> When you [[SF_CH3_Strike|Strike]] or [[SF_CH3_Clash|Clash]] in close quarters in order to incapacitate your foe without hurting them, [[HBC_Boost|Boost]]. ^Ability2
 ___
 > [!todo] Ability 3
-> - [ ] When you [[MV_Gather Information|Gather Information]] by attempting to intuit the intentions or motives of a potential threat to someone or something you protect, you may rely on your instincts.
+> - [ ] When you [[SF_CH3_Gather Information|Gather Information]] by attempting to intuit the intentions or motives of a potential threat to someone or something you protect, you may rely on your instincts.
 > If you do, roll +heart with advantage.
 > - If on a strong hit a threat is uncovered
 > 	- take +2 momentum

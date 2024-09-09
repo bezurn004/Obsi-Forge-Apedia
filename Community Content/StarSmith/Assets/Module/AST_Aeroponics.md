@@ -67,7 +67,7 @@ The aesthetics of an aeroponics bay can also double as a hanging garden or arbor
 ___
 
 > [!note] Ability 1
-> - [x] When you [[MV_Resupply|Resupply]] at a settlement in need of fresh food either...
+> - [x] When you [[SF_CH3_Resupply|Resupply]] at a settlement in need of fresh food either...
 > - add +1
 > - take +2 momentum on a hit. 
 > The food takes some time to regrow
@@ -77,12 +77,12 @@ ___
 ___
 > [!info] Ability 2
 > - [ ] **Aspect** You have cultivated part of the bay into a meditative arboretum. 
-> Once per journey when you [[MV_Undertake an Expedition|Undertake an Expedition]], you may take time to recenter yourself and rejuvinate.
->  If you do [[MV_Hearten|Hearten]] and add +2. ^Ability2
+> Once per journey when you [[SF_CH3_Undertake an Expedition|Undertake an Expedition]], you may take time to recenter yourself and rejuvinate.
+>  If you do [[SF_CH3_Hearten|Hearten]] and add +2. ^Ability2
 ___
 > [!todo] Ability 3
 > - [ ] **Aspect** You have an ideal growing environment for a specialized herb. Envision what this herb does.
-> Then, when you [[MV_Secure an Advantage|Secure an Advantage]] by using this herb, add +2. 
+> Then, when you [[SF_CH3_Secure an Advantage|Secure an Advantage]] by using this herb, add +2. 
 > Once pruned, this herb takes significant time to regrow
 > > [!warning] | Available | <input type="checkbox" /> | ^Ability3
 ___

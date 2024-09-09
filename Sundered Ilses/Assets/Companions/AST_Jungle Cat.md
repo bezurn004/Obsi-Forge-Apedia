@@ -61,18 +61,18 @@ ConditionLabels: "Out of Action"
 > > - [ ] Out of Action ^Header
 ___
 > [!note] Ability 1
-> - [x] When you [[MV_Strike|Strike]] aided by the cat, or if you make a move to intimidate your foes, add +1.
-> - If you [[MV_Clash|Clash]], on **a hit,** take +1 momentum. 
+> - [x] When you [[SF_CH3_Strike|Strike]] aided by the cat, or if you make a move to intimidate your foes, add +1.
+> - If you [[SF_CH3_Clash|Clash]], on **a hit,** take +1 momentum. 
 > > [!faq]- Possible Moves
 > > #ambiguous _InputPossibleIntimidationMoves_ ^Ability1
 ___
 > [!info] Ability 2
 > **Aspect:** The jungle cat leads the way on treacherous overland journeys.
-> - [ ] When you [[MV_Undertake an Expedition|Undertake an Expedition]] through wilderness, add +1.
+> - [ ] When you [[SF_CH3_Undertake an Expedition|Undertake an Expedition]] through wilderness, add +1.
 > - On a **strong hit with a match,** the cat guides you to an otherwise unseen opportunity; envision what you find and take +2 momentum. ^Ability2
 ___
 > [!todo] Ability 3
-> - [ ] When you [[MV_Endure Stress|Endure Stress]] in the company of the jungle cat, or if you [[MV_Hearten|Hearten]] in their company, add +1.
+> - [ ] When you [[SF_CH3_Endure Stress|Endure Stress]] in the company of the jungle cat, or if you [[SF_CH3_Hearten|Hearten]] in their company, add +1.
 > - On a **strong hit with a match,** you find inspiration or solace; take +momentum equal to their health. ^Ability3
 ___
 ## Tags

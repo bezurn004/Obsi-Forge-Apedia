@@ -19,7 +19,7 @@ OracleDescriptor: "Generate a celestial body at a location, usually for backgrou
 # [[_STRSM Oracles Index|Starsmith Oracles]] - [[_STRSM_OCL_Space Encounter Oracles|Space Encounter]]: Stellar Object
 
 ## Oracle: Stellar Object
-This oracle can be used to replace the one provided on [[OCL_Stellar-Object#Oracle Stellar Object|Stellar Object Oracle]].
+This oracle can be used to replace the one provided on [[SF_CH5_Stellar-Object#Oracle Stellar Object|Stellar Object Oracle]].
 
 > [!mechanics]- | Roll > %%GetDice%% | Guidance
 > Use this oracle to learn more about the primary star at a location. This is mostly to help you visualize your surroundings, but could be a hook for a new adventure.^guidance-OclStellarObject

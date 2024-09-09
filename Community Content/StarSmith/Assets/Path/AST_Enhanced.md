@@ -70,7 +70,7 @@ ___
 > [!note] Ability 1
 > - [x] When you make a move directly aided by this change, add +1.
 > - On a strong hit, take +2 momentum.
-> - On a miss with a match, [[MV_Endure Harm|Endure Harm]] (-2) as your body temporarily rejects the DNA.
+> - On a miss with a match, [[SF_CH3_Endure Harm|Endure Harm]] (-2) as your body temporarily rejects the DNA.
 > > [!faq]- Possible Moves
 > > InputPossibleMovesHere #ambiguous ^Ability1
 ___
@@ -78,8 +78,8 @@ ___
 > - [ ] A second change permanently affects your body as above, but the benefits of the two changes do not stack. ^Ability2
 ___
 > [!todo] Ability 3
-> - [ ] Encoded in your altered DNA is something that could change humanity forever. If you [[MV_Swear an Iron Vow|Swear an Iron Vow]] to uncover this change (rank extreme or epic), reroll any dice.
-> When you [[MV_Fullfill Your Vow|Fullfill Your Vow]] and score a hit, mark two boxes on your discoveries legacy track. ^Ability3
+> - [ ] Encoded in your altered DNA is something that could change humanity forever. If you [[SF_CH3_Swear an Iron Vow|Swear an Iron Vow]] to uncover this change (rank extreme or epic), reroll any dice.
+> When you [[SF_CH3_Fullfill Your Vow|Fullfill Your Vow]] and score a hit, mark two boxes on your discoveries legacy track. ^Ability3
 ___
 
 ## Commentary

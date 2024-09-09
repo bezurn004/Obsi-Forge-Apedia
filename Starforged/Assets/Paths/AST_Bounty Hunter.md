@@ -58,18 +58,18 @@ ConditionLabels:
 > **Current Contracts: ** _Insert_Description_Here_** ^Header
 ___
 > [!note] Ability 1
-> - [x] When you take a bounty contract and [[MV_Swear an Iron Vow|Swear an Iron Vow]] to see it done, add +1. 
+> - [x] When you take a bounty contract and [[SF_CH3_Swear an Iron Vow|Swear an Iron Vow]] to see it done, add +1. 
 > - On a strong hit, you’ve got a solid lead and may mark progress on the quest. 
-> - When you [[MV_Fullfill Your Vow|Fullfill Your Vow]] on a hunt, make the legacy reward one rank higher (1 extra box if already epic). ^Ability1
+> - When you [[SF_CH3_Fullfill Your Vow|Fullfill Your Vow]] on a hunt, make the legacy reward one rank higher (1 extra box if already epic). ^Ability1
 ___
 > [!info] Ability 2
-> - [ ] When you [[MV_Gather Information|Gather Information]] related to a bounty, add +1. 
+> - [ ] When you [[SF_CH3_Gather Information|Gather Information]] related to a bounty, add +1. 
 > - On a match, you reveal a surprising or sinister aspect of the contract; envision what you discover, and choose one. 
 > 	- Forge ahead: Mark progress on the quest. If you scored a strong hit with a match, also take +2 momentum. 
-> 	- Change loyalties: [[MV_Forsake Your Vow|Forsake Your Vow]] and mark 2 ticks on your bonds legacy track. ^Ability2
+> 	- Change loyalties: [[SF_CH3_Forsake Your Vow|Forsake Your Vow]] and mark 2 ticks on your bonds legacy track. ^Ability2
 ___
 > [!todo] Ability 3
-> - [ ] When you [[MV_Take Decisive Action|Take Decisive Action]] in a fight against a bounty target or their agents, you may reroll one challenge die. ^Ability3
+> - [ ] When you [[SF_CH3_Take Decisive Action|Take Decisive Action]] in a fight against a bounty target or their agents, you may reroll one challenge die. ^Ability3
 ___
 
 ## Tags

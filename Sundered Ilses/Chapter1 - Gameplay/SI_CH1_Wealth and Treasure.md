@@ -6,7 +6,7 @@ SourceLink:
 
 ## Page
 aliases: 
-  - "Wealth and Treasure (Sundered Isles Gameplay)"
+  - "Wealth and Treasure (SI Gameplay)"
 PageType: "Adventure Amonth the Isles"
 PageCategory: "Wealth and Treasure"
 PageOrder: 6
@@ -113,12 +113,11 @@ Greed is a corrupting force, and not all treasures bring good fortune. Your [[SI
 
 *31 WEALTH AND TREASUR*
 
-
 ## Tags
 
 | Previous Page | Tags | Next Page |
 | :--- | :---: | ---: |
-| **[[SI_CH1_Supply at Sea\|Supply at Sea]]** | #SunderedIsles/Gameplay| **[[SI_CH1_Navigating the Isles\|Navigating the Isles]]** |
+| **[[SI_CH1_Supply at Sea\|Supply at Sea (SI Gameplay)]]** | #SunderedIsles/Gameplay| **[[SI_CH1_Navigating the Isles\|Navigating the Isles (SI Gameplay)]]** |
 
 
 <font size=-2>Copyright ©2024 Shawn Tomkin. The text of this work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license. For license details, visit ironswornrpg.com. Updated June 2024 MUH051V200-PDF</font>

@@ -60,16 +60,16 @@ ConditionLabels: Broken
 > > - [ ] Broken ^Header
 ___
 > [!note] Ability 1
-> - [x] When you [[MV_Undertake an Expedition|Undertake an Expedition]] (dangerous or greater), reroll any dice for the first leg of your journey. 
+> - [x] When you [[SF_CH3_Undertake an Expedition|Undertake an Expedition]] (dangerous or greater), reroll any dice for the first leg of your journey. 
 > 	- On a hit, you and your allies may envision how you make yourself at home; if you do, take +2 momentum or +1 spirit. ^Ability1
 ___
 > [!info] Ability 2
-> - [ ] Your vehicle is stocked with reserves. When you [[MV_Sacrifice Resources|Sacrafice Resources]] and your supply is reduced to 0, first roll +integrity instead of marking unprepared.
+> - [ ] Your vehicle is stocked with reserves. When you [[SF_CH3_Sacrifice Resources|Sacrafice Resources]] and your supply is reduced to 0, first roll +integrity instead of marking unprepared.
 > 	- On a strong hit, take +1 supply. 
 > 	- Otherwise, mark unprepared. ^Ability2
 ___
 > [!todo] Ability 3
-> - [ ] When you [[MV_Enter the Fray|Enter The Fray]] to oppose an invader within your vehicle, reroll any dice. 
+> - [ ] When you [[SF_CH3_Enter the Fray|Enter The Fray]] to oppose an invader within your vehicle, reroll any dice. 
 > 	- On a strong hit, take +momentum equal to integrity. 
 > 	- On a strong hit with a match, also mark progress. ^Ability3
 ___

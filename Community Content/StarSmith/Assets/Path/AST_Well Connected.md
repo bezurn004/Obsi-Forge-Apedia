@@ -66,16 +66,16 @@ Luthia hadn’t the slightest idea what AI partitioning was, but someone else sh
 ___
 
 > [!note] Ability 1
-> - [x] When you [[MV_Secure an Advantage|Secure an Advantage]] by finding a person with knowledge or experience about a specific topic, you may add +2.
+> - [x] When you [[SF_CH3_Secure an Advantage|Secure an Advantage]] by finding a person with knowledge or experience about a specific topic, you may add +2.
 > If you do, treat a weak hit as miss. ^Ability1
 ___
 > [!info] Ability 2
-> - [ ] When you [[MV_Make a Connection|Make a Connection]] with someone who has a favorable relationship with another person you already have connection with, add +1.
-> - On a hit, [[MV_Develop a Relationship|Develop a Relationship]] with your original connection. ^Ability2
+> - [ ] When you [[SF_CH3_Make a Connection|Make a Connection]] with someone who has a favorable relationship with another person you already have connection with, add +1.
+> - On a hit, [[SF_CH3_Develop a Relationship|Develop a Relationship]] with your original connection. ^Ability2
 ___
 > [!todo] Ability 3
-> - [ ] When you [[MV_Face Danger|Face Danger]] or [[MV_Secure an Advantage|Secure an Advantage]] by leveraging the fact that you have a relationship with a connection, you may reroll any dice.
-> If you do and score a miss, [[MV_Test Your Relationship|Test Your Relationship]] when next you communicate with that connection. ^Ability3
+> - [ ] When you [[SF_CH3_Face Danger|Face Danger]] or [[SF_CH3_Secure an Advantage|Secure an Advantage]] by leveraging the fact that you have a relationship with a connection, you may reroll any dice.
+> If you do and score a miss, [[SF_CH3_Test Your Relationship|Test Your Relationship]] when next you communicate with that connection. ^Ability3
 ___
 
 ## Commentary

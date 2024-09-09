@@ -60,15 +60,15 @@ ConditionLabels: "Out of Action"
 > > - [ ] Out of Action ^Header
 ___
 > [!note] Ability 1
-> - [x] When you [[MV_Undertake an Expedition|Undertake an Expedition]] (+wits) overland or within a site, add +1. ^Ability1
+> - [x] When you [[SF_CH3_Undertake an Expedition|Undertake an Expedition]] (+wits) overland or within a site, add +1. ^Ability1
 ___
 > [!info] Ability 2
-> - [ ] Once per expedition, when you [[MV_Secure an Advantage|Secure an Advantage]] by sending the bot to scout ahead, roll +its health. 
+> - [ ] Once per expedition, when you [[SF_CH3_Secure an Advantage|Secure an Advantage]] by sending the bot to scout ahead, roll +its health. 
 > 	- On a hit, also mark progress on the expedition. 
 > 	- On a strong hit with a match, the bot uncovers an unexpected feature or location; envision what it reveals and mark 1 tick on your discoveries legacy track. ^Ability2
 ___
 > [!todo] Ability 3
-> - [ ] When you [[MV_Explore a Waypoint|Explore a Waypoint]]aided by the bot’s sensors, or [[MV_Face Danger|Face Danger]] to detect a threat, roll +its health.
+> - [ ] When you [[SF_CH3_Explore a Waypoint|Explore a Waypoint]]aided by the bot’s sensors, or [[SF_CH3_Face Danger|Face Danger]] to detect a threat, roll +its health.
 > 	- On a hit take +1 momentum. ^Ability3
 ___
 

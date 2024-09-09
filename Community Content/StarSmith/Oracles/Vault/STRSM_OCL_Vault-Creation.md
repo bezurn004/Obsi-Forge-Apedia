@@ -23,12 +23,12 @@ OracleDescriptor: "The vault creation oracles are used when first discerning a p
 # [[_STRSM Oracles Index|Starsmith Oracles]] - [[_STRSM_OCL_PrecursorVaults Oracles|Precursor Vault]]: Creation
 The vault creation oracles are used when first discerning a precursor vault during your adventures of your character.  Choose or roll for the results on the below oracles.
 
-![[OCL_Vault-Exterior#Oracle Precursor Vault Location]]
+![[SF_CH5_Vault-Exterior#Oracle Precursor Vault Location]]
 
-![[OCL_Vault-Exterior#Oracle Precursor Vault Scale]]
+![[SF_CH5_Vault-Exterior#Oracle Precursor Vault Scale]]
 
 ## Oracle: Precursor Vault Form
-This oracle can be used to replace the one provided on [[OCL_Vault-Exterior#Oracle Precursor Vault Form|Precursor Vault Form Oracle]].
+This oracle can be used to replace the one provided on [[SF_CH5_Vault-Exterior#Oracle Precursor Vault Form|Precursor Vault Form Oracle]].
 
 > [!mechanics]- | Roll > %%GetDice%% | Guidance
 > To create a Precursor Vault, choose or roll on the form, which is a general guide on its structure. ^guidance-OclVaultForm
@@ -43,7 +43,7 @@ This oracle can be used to replace the one provided on [[OCL_Vault-Exterior#Orac
 ^table-OclVaultForm
 
 ## Oracle: Precursor Vault Shape
-This oracle can be used to replace the one provided on [[OCL_Vault-Exterior#Oracle Precursor Vault Shape|Precursor Vault Shape Oracle]].
+This oracle can be used to replace the one provided on [[SF_CH5_Vault-Exterior#Oracle Precursor Vault Shape|Precursor Vault Shape Oracle]].
 
 > [!mechanics]- | Roll > %%GetDice%% | Guidance
 > To create a Precursor Vault, choose or roll on its shape as seen from the exterior. ^guidance-OclVaultShape
@@ -69,7 +69,7 @@ This oracle can be used to replace the one provided on [[OCL_Vault-Exterior#Orac
 ^table-OclVaultShape
 
 ## Oracle: Precursor Vault Material
-This oracle can be used to replace the one provided on [[OCL_Vault-Exterior#Oracle Precursor Vault Material|Precursor Vault Material Oracle]].
+This oracle can be used to replace the one provided on [[SF_CH5_Vault-Exterior#Oracle Precursor Vault Material|Precursor Vault Material Oracle]].
 
 > [!mechanics]- | Roll > %%GetDice%% | Guidance
 > To create a Precursor Vault, choose or roll on the predominant material composition as seen from the exterior. ^guidance-OclVaultMaterial
@@ -89,7 +89,7 @@ This oracle can be used to replace the one provided on [[OCL_Vault-Exterior#Orac
 ^table-OclVaultMaterial
 
 ## Oracle: Precursor Vault Outer First Look
-This oracle can be used to replace the one provided on [[OCL_Vault-Exterior#Oracle Precursor Vault Outer First Look||Precursor Vault Outer First Look Oracle]].
+This oracle can be used to replace the one provided on [[SF_CH5_Vault-Exterior#Oracle Precursor Vault Outer First Look||Precursor Vault Outer First Look Oracle]].
 
 > [!mechanics]- | Roll > %%GetDice%% | Guidance
 > To create a Precursor Vault, choose or roll on an aspect observed from the exterior. ^guidance-OclVaultOuterFirstLook

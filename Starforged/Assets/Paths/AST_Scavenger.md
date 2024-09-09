@@ -57,17 +57,17 @@ ConditionLabels:
 > [!mechanics]- [[AST_Scavenger|Scavenger (asset)]] ^Header
 ___
 > [!note] Ability 1
-> - [x] When you [[MV_Gather Information|Gather Information]] or [[MV_Resupply|Resupply]] by scavenging a wreck, ruin, or abandoned site, add +1.
+> - [x] When you [[SF_CH3_Gather Information|Gather Information]] or [[SF_CH3_Resupply|Resupply]] by scavenging a wreck, ruin, or abandoned site, add +1.
 > 	- On a hit take +1 momentum. 
 > 	- On a strong hit with a match, you also find something of unique value, significance, or function; envision the nature of this discovery, take +2 momentum, and mark 2 ticks on your discoveries legacy track. ^Ability1
 ___
 > [!info] Ability 2
-> - [ ] When you [[MV_Secure an Advantage|Secure an Advantage]] to cobble together an ad hoc tool, device, or weapon, envision what you intend to create. 
+> - [ ] When you [[SF_CH3_Secure an Advantage|Secure an Advantage]] to cobble together an ad hoc tool, device, or weapon, envision what you intend to create. 
 > 	- On a hit, you may add +1 when making a move aided by the item. 
 > 	- If you roll a 1 on your action die while using the item, it is permanently broken, lost, or depleted. ^Ability2
 ___
 > [!todo] Ability 3
-> - [ ] When you [[MV_Check Your Gear|Check Your Gear]], roll +wits or +supply (whichever is highest), 
+> - [ ] When you [[SF_CH3_Check Your Gear|Check Your Gear]], roll +wits or +supply (whichever is highest), 
 > 	- On a hit take +1 momentum. ^Ability3
 ___
 

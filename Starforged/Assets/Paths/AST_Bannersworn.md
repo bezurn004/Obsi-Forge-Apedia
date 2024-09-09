@@ -58,13 +58,13 @@ ConditionLabels:
 > **Character Aspect: ** You are bound to a clan, faction, or creed. ^Header
 ___
 > [!note] Ability 1
-> - [x] When you [[MV_Swear an Iron Vow|Swear an Iron Vow]] in service to this ideology, reroll any dice. 
+> - [x] When you [[SF_CH3_Swear an Iron Vow|Swear an Iron Vow]] in service to this ideology, reroll any dice. 
 > - On a hit, mark 1 tick on your bonds legacy track. ^Ability1
 ___
 > [!info] Ability 2
-> - [ ] When you or an ally [[MV_Sojourn|Sojourn]] and score a strong hit with a match, you may envision meeting someone of the same ideology. 
-> - If you [[MV_Make a Connection|Make a Connection]] with them and score a hit, mark 1 tick on your bonds legacy track. 
-> - When you [[MV_Forge a Bond|Forge a Bound]] with anyone of your ideology, make the legacy reward one rank higher (1 extra box if already epic). ^Ability2
+> - [ ] When you or an ally [[SF_CH3_Sojourn|Sojourn]] and score a strong hit with a match, you may envision meeting someone of the same ideology. 
+> - If you [[SF_CH3_Make a Connection|Make a Connection]] with them and score a hit, mark 1 tick on your bonds legacy track. 
+> - When you [[SF_CH3_Forge a Bond|Forge a Bound]] with anyone of your ideology, make the legacy reward one rank higher (1 extra box if already epic). ^Ability2
 ___
 > [!todo] Ability 3
 > - [ ] When you make a progress move in direct service to your ideology, you may reroll one challenge die. 

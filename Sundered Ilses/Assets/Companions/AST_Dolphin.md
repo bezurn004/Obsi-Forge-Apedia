@@ -77,7 +77,7 @@ ___
 > > #ambiguous _InputPossibleMovesHere_ ^Ability2
 ___
 > [!todo] Ability 3
-> - [ ] When you [[MV_Undertake an Expedition|Undertake an Expedition]] and score a **miss with a match,** you may envision the dolphin appearing unbidden to guide you out of trouble.
+> - [ ] When you [[SF_CH3_Undertake an Expedition|Undertake an Expedition]] and score a **miss with a match,** you may envision the dolphin appearing unbidden to guide you out of trouble.
 > - If you do, reroll both challenge dice. ^Ability3
 ___
 ## Tags

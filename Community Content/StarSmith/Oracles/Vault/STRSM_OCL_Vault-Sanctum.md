@@ -24,7 +24,7 @@ OracleDescriptor: "Reveal the final layer of the enigmatic alien precursor vault
 Reveal the final layer of the enigmatic alien precursor vault and it's original purpose.
 
 ## Oracle: Precursor Vault Sanctum Feature
-This oracle can be used to replace the one provided on [[OCL_Vault-Sanctum#Oracle Precursor Vault Sanctum Feature|Precursor Vault Feature Oracle]].
+This oracle can be used to replace the one provided on [[SF_CH5_Vault-Sanctum#Oracle Precursor Vault Sanctum Feature|Precursor Vault Feature Oracle]].
 
 > [!mechanics]- | Roll > %%GetDice%% | Guidance
 > Once your exploration of an enigmatic precursor vault enters the sanctum, choose or roll on these oracles as your expedition reveals the final aspects of the precursor vault that enhances its nature. ^guidance-OclVaultSanctumFeature
@@ -69,7 +69,7 @@ This oracle can be used to replace the one provided on [[OCL_Vault-Sanctum#Oracl
 ^table-OclVaultSanctumFeature
 
 ## Oracle: Precursor Vault Purpose
-This oracle can be used to replace the one provided on [[OCL_Vault-Sanctum#Oracle Precursor Vault Purpose|Precursor Vault Purpose Oracle]].
+This oracle can be used to replace the one provided on [[SF_CH5_Vault-Sanctum#Oracle Precursor Vault Purpose|Precursor Vault Purpose Oracle]].
 
 > [!mechanics]- | Roll > %%GetDice%% | Guidance
 > Because precursor vaults are alien and enigmatic, understanding their ultimate purpose requires investigation and exploration. Use this table to reveal the vault’s original function or role at an appropriate point in your survey. This can come as an outcome of completing an expedition, or when your story naturally leads you to a revelation of the site’s nature. ^guidance-OclVaultPurpose
@@ -108,10 +108,10 @@ This oracle can be used to replace the one provided on [[OCL_Vault-Sanctum#Oracl
 ^table-OclVaultPurpose
 
 ## Oracle: Precursor Vault Sanctum Peril
-This oracle can be used to replace the one provided on [[OCL_Vault-Sanctum#Oracle Precursor Vault Sanctum Peril|Precursor Vault Peril Oracle]].
+This oracle can be used to replace the one provided on [[SF_CH5_Vault-Sanctum#Oracle Precursor Vault Sanctum Peril|Precursor Vault Peril Oracle]].
 
 > [!mechanics]- | Roll > %%GetDice%% | Guidance
-> When exploring the sanctum, choose or roll for a peril after rolling a match on the challenge dice with a miss for the [[MV_Undertake an Expedition|Undertake an Expedition (move)]]. ^guidance-OclVaultSanctumPeril
+> When exploring the sanctum, choose or roll for a peril after rolling a match on the challenge dice with a miss for the [[SF_CH3_Undertake an Expedition|Undertake an Expedition (move)]]. ^guidance-OclVaultSanctumPeril
 
 | 1d100 | 1-2 | 3-4 | 5-6 |
 | :---: | :--- | :--- | :--- |
@@ -139,10 +139,10 @@ This oracle can be used to replace the one provided on [[OCL_Vault-Sanctum#Oracl
 ^table-OclVaultSanctumPeril
 
 ## Oracle: Precursor Vault Sanctum Opportunity
-This oracle can be used to replace the one provided on [[OCL_Vault-Sanctum#Oracle Precursor Vault Sanctum Opportunity|Precursor Vault Opportunity Oracle]].
+This oracle can be used to replace the one provided on [[SF_CH5_Vault-Sanctum#Oracle Precursor Vault Sanctum Opportunity|Precursor Vault Opportunity Oracle]].
 
 > [!mechanics]- | Roll > %%GetDice%% | Guidance
-> When exploring the sanctum, choose or roll for an opportunity after scoring a strong hit when you [[MV_Explore a Waypoint|Explore a Waypoint (move)]]. ^guidance-OclVaultSanctumOpportunity
+> When exploring the sanctum, choose or roll for an opportunity after scoring a strong hit when you [[SF_CH3_Explore a Waypoint|Explore a Waypoint (move)]]. ^guidance-OclVaultSanctumOpportunity
 
 | 1d100 | 1-2 | 3-4 | 5-6 |
 | :---: | :--- | :--- | :--- |

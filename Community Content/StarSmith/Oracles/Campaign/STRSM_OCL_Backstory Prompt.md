@@ -20,7 +20,7 @@ OracleDescriptor: "What happened in your past that set you on the path of wander
 What happened in your past that set you on the path of wandering the stars?
 
 ## Oracle: Campaign Backstory Prompt
-This oracle can be used to replace the one provided on [[CRG_Create Your Backstory#Backstory Oracle|Create Your Backstory (character)]].
+This oracle can be used to replace the one provided on [[SF_CH2_Create Your Backstory#Backstory Oracle|Create Your Backstory (character)]].
 
 > [!mechanics]- | Roll > %%GetDice%% | Guidance
 > For some backstory inspiration, roll or pick from the table below. Take a moment to elaborate on the suggestion. Or just leave it a bit vague and mysterious for now; you can flesh it out in play. ^guidance-STRSM-OCL-OclCampaignBackstoryPrompt

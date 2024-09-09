@@ -58,18 +58,18 @@ ConditionLabels:
 > > [!warning] _Link_Sworn_Mission_Here_ | **Safety:** | <input type="checkbox" /><input type="checkbox" /><input type="checkbox" /><input type="checkbox" /><input type="checkbox" /> | ^Header
 ___
 > [!note] Ability 1
-> - [x] When you [[MV_Swear an Iron Vow|Swear an Iron Vow]] to transport and protect something precious, set its safety to 5. 
-> - When you [[MV_Undertake an Expedition|Undertake an Expedition]] or [[MV_Set a Course|Set a Course]] and score a weak hit or miss, you may suffer -1 safety as the cost. 
+> - [x] When you [[SF_CH3_Swear an Iron Vow|Swear an Iron Vow]] to transport and protect something precious, set its safety to 5. 
+> - When you [[SF_CH3_Undertake an Expedition|Undertake an Expedition]] or [[SF_CH3_Set a Course|Set a Course]] and score a weak hit or miss, you may suffer -1 safety as the cost. 
 > 	- On a miss with a match, you must suffer -2 safety as the cost. 
 > - When safety falls to 0, envision a major complication related to this mission.
 > 	- If you overcome the threat, mark progress twice on this quest. 
 > 	- Then, set safety to 3.  ^Ability1
 ___
 > [!info] Ability 2
-> - [ ] When you [[MV_Fullfill Your Vow|Fullfill Your Vow]] to an unbonded connection by completing a courier mission, mark progress twice on the relationship. ^Ability2
+> - [ ] When you [[SF_CH3_Fullfill Your Vow|Fullfill Your Vow]] to an unbonded connection by completing a courier mission, mark progress twice on the relationship. ^Ability2
 ___
 > [!todo] Ability 3
-> - [ ] When you [[MV_Sojourn|Sojourn]] during a courier mission, you may roll +safety. 
+> - [ ] When you [[SF_CH3_Sojourn|Sojourn]] during a courier mission, you may roll +safety. 
 > 	- On a strong hit, take +1 safety or +1 momentum. ^Ability3
 ___
 

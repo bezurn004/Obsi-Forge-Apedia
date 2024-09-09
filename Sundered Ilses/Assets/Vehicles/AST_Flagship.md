@@ -68,7 +68,7 @@ ___
 > - [x]  In addition, it has up to 5 hold that acts as supply for you and your allies when taking action or suffering a cost related to shipwide gear and provisions. ^Ability1
 ___
 > [!info] Ability 2
-> - [ ] When you [[MV_Finish an Expedition|Finish an Expedition]] (dangerous or greater) on a seagoing journey and score a hit, this expedition strengthened your ties to your ship and crew. You and your allies may mark 1 tick on your bonds legacy track. ^Ability2
+> - [ ] When you [[SF_CH3_Finish an Expedition|Finish an Expedition]] (dangerous or greater) on a seagoing journey and score a hit, this expedition strengthened your ties to your ship and crew. You and your allies may mark 1 tick on your bonds legacy track. ^Ability2
 ___
 > [!todo] Ability 3
 > - [ ] You fly a distinctive flag. Envision its design. Once per situation, when you hoist the colors in a dramatic moment, you and your allies take +1 momentum.

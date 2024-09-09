@@ -20,7 +20,7 @@ OracleDescriptor: "What specific event is happening right now that you need to d
 What specific event is happening right now that you need to deal with? This is likely your first vow other than your overall background vow.
 
 ## Oracle: Campaign Inciting Incident
-This oracle can be used to replace the one provided on [[CFG_Inciiting Incident#Still Stuck for An Idea?|Inciting Incident Oracle]].
+This oracle can be used to replace the one provided on [[SF_CH2_Inciiting Incident#Still Stuck for An Idea?|Inciting Incident Oracle]].
 
 > [!mechanics]- | Roll > %%GetDice%% | Guidance
 > If you need inspiration, do any combination of the following: 

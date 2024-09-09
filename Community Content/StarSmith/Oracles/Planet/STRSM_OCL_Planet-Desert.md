@@ -22,9 +22,9 @@ OracleDescriptor: "An arid land devoid of most life stretches around the globe. 
 # [[_STRSM Oracles Index|Starsmith Oracles]] - [[_STRSM_OCL_Planet Oracles|Planets]]: Desert
 An arid land devoid of most life stretches around the globe. If there is any vegetation, it is sparse at best as few plants can survive the choking sandstorms. Rocky sea beds now filled with sand hint that water once covered large areas of the surface centuries or millennia ago. The utter desolation is forbidding.
 
-![[OCL_Planet-Desert#Oracle Desert Atmosphere]]
+![[SF_CH5_Planet-Desert#Oracle Desert Atmosphere]]
 
-![[OCL_Planet-Desert#Oracle Desert Settlements]]
+![[SF_CH5_Planet-Desert#Oracle Desert Settlements]]
 
 ## Oracle: Desert Observed From Space {1-2}
 > [!mechanics]- | Roll > %%GetDice%% | Guidance
@@ -68,7 +68,7 @@ An arid land devoid of most life stretches around the globe. If there is any veg
 | 99-100 | ▶[[STRSM_OCL_Vault-Creation#Oracle Precursor Vault Outer First Look\|Precursor Vault]] (planetside) | ▶[[STRSM_OCL_Vault-Creation#Oracle Precursor Vault Outer First Look\|Precursor Vault]] (planetside) | ▶[[STRSM_OCL_Vault-Creation#Oracle Precursor Vault Outer First Look\|Precursor Vault]] (planetside) |
 ^table-PlanetsideFeature
 
-![[OCL_Planet-Desert#Oracle Desert Life]]
+![[SF_CH5_Planet-Desert#Oracle Desert Life]]
 
 ## Oracle: Desert Sample Names
 > [!mechanics]- | Roll > %%GetDice%% | Guidance

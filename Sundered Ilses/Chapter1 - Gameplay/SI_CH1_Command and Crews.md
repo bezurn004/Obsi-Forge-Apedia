@@ -6,7 +6,7 @@ SourceLink:
 
 ## Page
 aliases: 
-  - "Command and Crews (Sundered Isles Gameplay)"
+  - "Command and Crews (SI Gameplay)"
 PageType: "Adventure Amonth the Isles"
 PageCategory: "Command and Crews"
 PageOrder: 4
@@ -88,6 +88,8 @@ How do you introduce a specialist? They can be an existing crewmember, a reoccur
 > [!cite]
 > After another failed overland expedition, you decide an expert is needed, so you [[SI_CH4_Make a Connection#Make a Connection Move Card|Make a Connection (SI Moves)]] to find a guide. You score a hit and bring this new connection aboard as a member of your [[AST_Cohort|COHORT]], setting their role as Wilderness Scout.
 
+*24 ADVENTURES AMONG THE ISLES*
+
 ### FLEET COMMANDER
 > [!example]- FLEET COMMANDER [path]
 > ![[AST_Fleet Commander#^Header]]
@@ -119,7 +121,7 @@ Your [[AST_Flagship|FLAGSHIP]] modules can also reflect the talents and strength
 
 | Previous Page | Tags | Next Page |
 | :--- | :---: | ---: |
-| **[[SI_CH1_Your Ship\|Your Ship]]** | #SunderedIsles/Gameplay| **[[SI_CH1_Supply at Sea\|Supply at Sea]]** |
+| **[[SI_CH1_Your Ship\|Your Ship (SI Gameplay)]]** | #SunderedIsles/Gameplay| **[[SI_CH1_Supply at Sea\|Supply at Sea (SI Gameplay)]]** |
 
 
 <font size=-2>Copyright ©2024 Shawn Tomkin. The text of this work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license. For license details, visit ironswornrpg.com. Updated June 2024 MUH051V200-PDF</font>

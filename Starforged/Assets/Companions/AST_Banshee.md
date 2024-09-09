@@ -68,7 +68,7 @@ ConditionLabels: "Out of Action"
 ## Abilities
 ___
 > [!note] Ability 1
-> - [x] When you ride your banshee as you [[MV_Undertake an Expedition|Undertake an Expedition]] or [[MV_Set a Course|Set a Course]], you may roll +its health. ^Ability1
+> - [x] When you ride your banshee as you [[SF_CH3_Undertake an Expedition|Undertake an Expedition]] or [[SF_CH3_Set a Course|Set a Course]], you may roll +its health. ^Ability1
 
 ___
 > [!info] Ability 2
@@ -76,11 +76,11 @@ ___
 > 	- On a hit take +1 momentum. 
 > 	- On a strong hit with a match, you’re gone in a flash; take another +1 momentum.
 > > [!faq]- Possible Moves
-> > [[MV_Face Danger|Face Danger (+wits)]] - [[MV_Secure an Advantage|Secure an Advantage (+wite)]] - [[MV_Undertake an Expedition|Undertake an Expedition (+shadow, +wits)]] ^Ability2
+> > [[SF_CH3_Face Danger|Face Danger (+wits)]] - [[SF_CH3_Secure an Advantage|Secure an Advantage (+wite)]] - [[SF_CH3_Undertake an Expedition|Undertake an Expedition (+shadow, +wits)]] ^Ability2
 
 ___
 > [!todo] Ability 3
-> - [ ] When you make a [[_Combat Moves|Combat Move]] and roll a 1 on your action die, the banshee senses the danger and emits a powerful scream to alert you or distract your foes. You may reroll that die. ^Ability3
+> - [ ] When you make a [[_SF_CH3_Combat Moves|Combat Move]] and roll a 1 on your action die, the banshee senses the danger and emits a powerful scream to alert you or distract your foes. You may reroll that die. ^Ability3
 
 ___
 

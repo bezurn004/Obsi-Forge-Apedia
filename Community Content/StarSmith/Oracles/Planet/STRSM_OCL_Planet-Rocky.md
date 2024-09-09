@@ -22,9 +22,9 @@ OracleDescriptor: "All rocky planets have a metallic core, but the type of rock 
 # [[_STRSM Oracles Index|Starsmith Oracles]] - [[_STRSM_OCL_Planet Oracles|Planets]]: Rocky
 All rocky planets have a metallic core , but the type of rock that dominates on their surface can be silicon-based or carbon-based. Either type of surface can be hostile to life and treacherous to traverse. These planets may be a source of minerals, but the environment is unforgiving.
 
-![[OCL_Planet-Rocky#Oracle Rocky Atmosphere]]
+![[SF_CH5_Planet-Rocky#Oracle Rocky Atmosphere]]
 
-![[OCL_Planet-Rocky#Oracle Rocky Settlements]]
+![[SF_CH5_Planet-Rocky#Oracle Rocky Settlements]]
 
 ## Oracle: Rocky Observed From Space {1-2}
 > [!mechanics]- | Roll > %%GetDice%% | Guidance
@@ -46,7 +46,7 @@ All rocky planets have a metallic core , but the type of rock that dominates on 
 
 ## Oracle: Rocky Planetside Feature {1-2}
 > [!mechanics]- | Roll > %%GetDice%% | Guidance
-> To begin exploration on a planet, generate one or two dominate feature's. If your exploration is prolonged morph these features using the [[OCL_Core#Oracle Descriptor|Descriptor]] and [[OCL_Core#Oracle Focus|Focus]] oracles for prompts on variety.
+> To begin exploration on a planet, generate one or two dominate feature's. If your exploration is prolonged morph these features using the [[_SF_CH5_Core#Oracle Descriptor|Descriptor]] and [[_SF_CH5_Core#Oracle Focus|Focus]] oracles for prompts on variety.
 
 ^guidance-PlanetsideFeature
 
@@ -69,7 +69,7 @@ All rocky planets have a metallic core , but the type of rock that dominates on 
 | 99-100 | ▶[[STRSM_OCL_Vault-Creation#Oracle Precursor Vault Outer First Look\|Precursor Vault]] (planetside) | ▶[[STRSM_OCL_Vault-Creation#Oracle Precursor Vault Outer First Look\|Precursor Vault]] (planetside) | ▶[[STRSM_OCL_Vault-Creation#Oracle Precursor Vault Outer First Look\|Precursor Vault]] (planetside) |
 ^table-PlanetsideFeature
 
-![[OCL_Planet-Rocky#Oracle Rocky Life]]
+![[SF_CH5_Planet-Rocky#Oracle Rocky Life]]
 
 ## Oracle: Rocky Sample Names
 > [!mechanics]- | Roll > %%GetDice%% | Guidance

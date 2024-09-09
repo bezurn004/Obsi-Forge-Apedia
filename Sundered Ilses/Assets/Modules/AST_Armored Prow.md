@@ -61,16 +61,16 @@ ConditionLabels: Broken
 > > - [ ] Broken ^Header
 ___
 > [!note] Ability 1
-> - [x] When you [[MV_Face Danger|Face Danger]] or [[MV_React Under Fire|React Under Fire]] by sailing through an obstacle or barrier, add +1.
-> - If you [[MV_Withstand Damage|Withstand Damage]] as an outcome of this action, also add +1. ^Ability1
+> - [x] When you [[SF_CH3_Face Danger|Face Danger]] or [[SF_CH3_React Under Fire|React Under Fire]] by sailing through an obstacle or barrier, add +1.
+> - If you [[SF_CH3_Withstand Damage|Withstand Damage]] as an outcome of this action, also add +1. ^Ability1
 ___
 > [!info] Ability 2
-> - [ ] When you [[MV_Strike|Strike]] by ramming your foe, choose the force of the hit: 1, 2, or 3. Then, add +that amount.
+> - [ ] When you [[SF_CH3_Strike|Strike]] by ramming your foe, choose the force of the hit: 1, 2, or 3. Then, add +that amount.
 > - On a **strong hit,** mark progress.
-> - On a **weak hit** or **miss,** in addition to the outcome of the move, [[MV_Withstand Damage|Withstand Damage]] and suffer damage equal to the force of the hit. ^Ability2
+> - On a **weak hit** or **miss,** in addition to the outcome of the move, [[SF_CH3_Withstand Damage|Withstand Damage]] and suffer damage equal to the force of the hit. ^Ability2
 ___
 > [!todo] Ability 3
-> - [ ] When you [[MV_Secure an Advantage|Secure an Advantage]] or [[MV_Gain Ground|Gain Ground]] by bringing your ship to ramming speed and sailing headlong toward a threat, roll +integrity or +heart, whichever is higher.
+> - [ ] When you [[SF_CH3_Secure an Advantage|Secure an Advantage]] or [[SF_CH3_Gain Ground|Gain Ground]] by bringing your ship to ramming speed and sailing headlong toward a threat, roll +integrity or +heart, whichever is higher.
 > - On a **strong hit,** take +1 momentum. ^Ability3
 ___
 ## Tags

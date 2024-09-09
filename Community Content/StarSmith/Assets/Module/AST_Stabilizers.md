@@ -67,15 +67,15 @@ The top of the line systems can create isolated gravity bubbles around a vessel 
 ___
 
 > [!note] Ability 1
-> - [x] When you [[MV_Undertake an Expedition|Undertake an Expedition]] through debris or asteroid fields, [[HBC_Boost|Boost]]. ^Ability1
+> - [x] When you [[SF_CH3_Undertake an Expedition|Undertake an Expedition]] through debris or asteroid fields, [[HBC_Boost|Boost]]. ^Ability1
 ___
 > [!info] Ability 2
 > - [ ] **Aspect:** Your inertial dampeners protect the ship's vital systems.
-> When you [[MV_Withstand Damage|Withstand Damage]] from spaceborne environmental factors, add +2. ^Ability2
+> When you [[SF_CH3_Withstand Damage|Withstand Damage]] from spaceborne environmental factors, add +2. ^Ability2
 ___
 > [!todo] Ability 3
 > - [ ] **Aspect:** Your gravity compensators create an isolating graviton field about your ship.
-> When you [[MV_Face Danger|Face Danger]] from gravitational forces around a star or stellar phenomenon, you may reroll any dice. ^Ability3
+> When you [[SF_CH3_Face Danger|Face Danger]] from gravitational forces around a star or stellar phenomenon, you may reroll any dice. ^Ability3
 
 ___
 

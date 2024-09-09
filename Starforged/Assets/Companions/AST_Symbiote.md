@@ -61,14 +61,14 @@ ConditionLabels: "Out of Action"
 ___
 > [!note] Ability 1
 > - [x] When you make aggressive moves while giving yourself to the symbiote’s power, add +its health. 
-> - If you face physical harm, choose either the [[MV_Endure Harm|Endure Harm]] or [[MV_Companion Takes a Hit|Companion Takes a Hit]] move. 
-> 	- To restore the symbiote’s health, you must [[MV_Endure Stress|Endure Stress]] and give the symbiote +health equal to the -spirit you face. 
+> - If you face physical harm, choose either the [[SF_CH3_Endure Harm|Endure Harm]] or [[SF_CH3_Companion Takes a Hit|Companion Takes a Hit]] move. 
+> 	- To restore the symbiote’s health, you must [[SF_CH3_Endure Stress|Endure Stress]] and give the symbiote +health equal to the -spirit you face. 
 > - If you make a move aided by the symbiote and roll a 1 on your action die, your fragile bond is broken for several hours.
 > > [!faq]- Possible Moves
-> > [[MV_Aid Your Ally|Aid Your Ally (move)]] - [[MV_Face Danger|Face Danger (move)]] - [[MV_Battle|Battle (move)]] - [[MV_Clash|Clash (move)]] - [[MV_Enter the Fray|Enter The Fray (move)]] - [[MV_Gain Ground|Gain Ground (move)]] - [[MV_React Under Fire|React Under Fire (move)]] - [[MV_Strike|Strike (move)]] ^Ability1
+> > [[SF_CH3_Aid Your Ally|Aid Your Ally (move)]] - [[SF_CH3_Face Danger|Face Danger (move)]] - [[SF_CH3_Battle|Battle (move)]] - [[SF_CH3_Clash|Clash (move)]] - [[SF_CH3_Enter the Fray|Enter The Fray (move)]] - [[SF_CH3_Gain Ground|Gain Ground (move)]] - [[SF_CH3_React Under Fire|React Under Fire (move)]] - [[SF_CH3_Strike|Strike (move)]] ^Ability1
 ___
 > [!info] Ability 2
-> - [ ] When you make a move and heed the symbiote’s guidance (decide after rolling), you may reroll any dice. Then, [[MV_Endure Stress|Endure Stress]] (-2).
+> - [ ] When you make a move and heed the symbiote’s guidance (decide after rolling), you may reroll any dice. Then, [[SF_CH3_Endure Stress|Endure Stress]] (-2).
 > > [!faq]- Possible Moves
 > > Any roll type "Action"
 > > ```dataview 

@@ -5,7 +5,7 @@ SourceAuthor: "Shawn Tompkin"
 SourceLink: 
 
 ## Page
-aliases: "Naval Encounters (Sundered Isles Gameplay)"
+aliases: "Naval Encounters (SI Gameplay)"
 PageType: "Adventure Amonth the Isles"
 PageCategory: "Naval Encounters"
 PageOrder: 8
@@ -131,7 +131,7 @@ The objective rank should reflect not just the threat of your foe but the riskin
 *40 ADVENTURES AMONG THE ISLES*
 
 ### SET A TENSION CLOCK
-A ==[[GID_Clocks_Tension|tension clock]]== (page 238 of the _Starforged_ rulebook) can stand for your enemy’s goal when they want to accomplish something other than sinking your ship. In many cases, this is the opposite of your objective. You want to escape the pirates, but they seek to board and capture your ship. You are chasing after an enemy, and they are making full sail to lose you in a fog bank.
+A ==[[SF_CH3_Clocks_Tension|tension clock]]== (page 238 of the _Starforged_ rulebook) can stand for your enemy’s goal when they want to accomplish something other than sinking your ship. In many cases, this is the opposite of your objective. You want to escape the pirates, but they seek to board and capture your ship. You are chasing after an enemy, and they are making full sail to lose you in a fog bank.
 
 A tension clock can also represent a looming threat external to you and your foe.
 
@@ -153,13 +153,13 @@ Your approach and stat choice as you [[SI_CH4_Enter the Fray#Enter the Fray Move
 ### ENVISION AND ACT
 As the fight proceeds, envision the current situation and how you take action (if in control) or how you react to your opponent or other perils (if in a bad spot). In solo mode, your stats and moves cover your ship and your individual exploits, and you switch between those perspectives. When playing with allies, that framing may change from moment to moment as appropriate. But keep in mind that commanders of the isles are often people of action, as likely to take the wheel or hammer a plug into a leaking hull as they are to issue orders from the quarterdeck.
 
-Some broad actions and related moves are listed below, but these are not the totality of your options. Use the fury and chaos of the fight to introduce complications and opportunities. Envision the situation, decide your action, and make the move. Let the outcome feed into the framing of the next action for you and your allies. Make things happen. See the _Starforged_ rulebook (pages 182–197) for [[_Combat Moves|combat move]] details.
+Some broad actions and related moves are listed below, but these are not the totality of your options. Use the fury and chaos of the fight to introduce complications and opportunities. Envision the situation, decide your action, and make the move. Let the outcome feed into the framing of the next action for you and your allies. Make things happen. See the _Starforged_ rulebook (pages 182–197) for [[_SF_CH3_Combat Moves|combat move]] details.
 
 | Action | When in control… | When in a bad spot … |
 | --- | --- | --- |
 | Motivate or command | [[SI_CH4_Gain Ground#Gain Ground Move Card\|Gain Ground]] to deliver an inspiring speech or put a plan into action | [[SI_CH4_React Under Fire#React Under Fire Move Card\|React Under Fire]] to rally a faltering crew or rethink a plan under pressure |
 | Maneuver the ship | [[SI_CH4_Gain Ground#Gain Ground Move Card\|Gain Ground]] to get the ship in firing position, close or gain distance on an enemy, or press your advantage | [[SI_CH4_React Under Fire#React Under Fire Move Card\|React Under Fire]] to get out of the line of fire, sustain an attack, regain control in rough seas, or avoid a collision |
-| Maneuver on foot | [[SI_CH4_Gain Ground#Gain Ground Move Card\|Gain Ground]] to reach an advantageous position, protected station, or vantage point | [[MV_React Under Fire\|React Under Fire]] to get to another area of the ship, climb the rigging under pressure, or evade a hazard such as broken rigging or flying shrapnel |
+| Maneuver on foot | [[SI_CH4_Gain Ground#Gain Ground Move Card\|Gain Ground]] to reach an advantageous position, protected station, or vantage point | [[SF_CH3_React Under Fire\|React Under Fire]] to get to another area of the ship, climb the rigging under pressure, or evade a hazard such as broken rigging or flying shrapnel |
 | Set sails | [[SI_CH4_Gain Ground#Gain Ground Move Card\|Gain Ground]] to adjust the sails to aid in speed or maneuvering | [[SI_CH4_React Under Fire#React Under Fire Move Card\|React Under Fire]] to set the sails amid enemy salvos or to avoid stress on the sails or rigging |
 | Damage control | [[SI_CH4_Repair#Repair Move Card\|Repair]] in a controlled situation | [[SI_CH4_React Under Fire#React Under Fire Move Card\|React Under Fire]] to forestall imminent damage, or Repair amid hazards such as flooding or enemy fire |
 | Mend wounds | [[SI_CH4_Heal#Heal Move Card\|Heal]] to tend to the wounded in a controlled situation | [[SI_CH4_Heal#Heal Move Card\|Heal]] to tend to the wounded in a chaotic environment or without preparation or equipment |
@@ -236,7 +236,7 @@ When your last remaining objective is won or lost, the fight is done. What comes
 
 | Previous Page | Tags | Next Page |
 | :--- | :---: | ---: |
-| **[[SI_CH1_Navigating the Isles\|Navigating the Isles]]** | #SunderedIsles/Gameplay| **[[SI_CH1_Interludes\|Interludes]]** |
+| **[[SI_CH1_Navigating the Isles\|Navigating the Isles (SI Gameplay)]]** | #SunderedIsles/Gameplay| **[[SI_CH1_Interludes\|Interludes (SI Gameplay)]]** |
 
 
 <font size=-2>Copyright ©2024 Shawn Tomkin. The text of this work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license. For license details, visit ironswornrpg.com. Updated June 2024 MUH051V200-PDF</font>

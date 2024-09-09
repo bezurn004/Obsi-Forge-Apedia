@@ -59,8 +59,8 @@ ConditionLabels:
 > **Aspect:** If you wield a scattergun...  ^Header
  ___
 > [!note] Ability 1
-> - [x] Your scattergun is loaded with a single shot, which you may use to [[MV_Strike|Strike]] or [[MV_Clash|Clash]] against a large target, a group of massed foes, or a close quarters enemy. When you do, reroll any dice.
-> - To use the scattergun more than once in the same fight, you must first score **a hit** as you [[MV_Gain Ground|Gain Ground]] (+edge), forgoing one of the choices awarded by that move to instead reload and ready your next shot.
+> - [x] Your scattergun is loaded with a single shot, which you may use to [[SF_CH3_Strike|Strike]] or [[SF_CH3_Clash|Clash]] against a large target, a group of massed foes, or a close quarters enemy. When you do, reroll any dice.
+> - To use the scattergun more than once in the same fight, you must first score **a hit** as you [[SF_CH3_Gain Ground|Gain Ground]] (+edge), forgoing one of the choices awarded by that move to instead reload and ready your next shot.
 > > [!warning] Wide Fire
 > > - [ ] Available ^Ability1
 ___
@@ -71,7 +71,7 @@ ___
 > > #ambiguous _entermoveshere_^Ability2
 ___
 > [!todo] Ability 3
-> - [ ] When you [[MV_Take Decisive Action|Take Decisive Action]] with a devastating shot or by demanding surrender at the point of a readied scattergun, you may reroll one challenge die. ^Ability3
+> - [ ] When you [[SF_CH3_Take Decisive Action|Take Decisive Action]] with a devastating shot or by demanding surrender at the point of a readied scattergun, you may reroll one challenge die. ^Ability3
 ___
 ## Tags
 

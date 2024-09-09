@@ -65,12 +65,12 @@ ___
 > > #ambiguous _insertmoveshere_ ^Ability1
 ___
 > [!info] Ability 2
-> - [ ] When you [[MV_Strike|Strike]] a large foe in close quarters, you may drive your harpoon home.
+> - [ ] When you [[SF_CH3_Strike|Strike]] a large foe in close quarters, you may drive your harpoon home.
 > - If you do, mark progress on **a hit.**
-> 		- If the fight continues, and you choose to pull the harpoon free, you must [[MV_Gain Ground|Gain Ground]] (+iron), score **a hit,** and forgo one of the choices awarded by that move. ^Ability2
+> 		- If the fight continues, and you choose to pull the harpoon free, you must [[SF_CH3_Gain Ground|Gain Ground]] (+iron), score **a hit,** and forgo one of the choices awarded by that move. ^Ability2
 ___
 > [!todo] Ability 3
-> - [ ] When you [[MV_Resupply|Resupply]] by hunting large game, add +1.
+> - [ ] When you [[SF_CH3_Resupply|Resupply]] by hunting large game, add +1.
 > - On **a hit,** take +1 supply.
 > - On a **miss with a match,** there’s always a bigger fish; you draw the attention of a notable threat. ^Ability3
 ___

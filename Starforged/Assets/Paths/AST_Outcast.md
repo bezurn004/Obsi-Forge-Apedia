@@ -57,18 +57,18 @@ ConditionLabels:
 > [!mechanics]- [[AST_Outcast|Outcast (asset)]] ^Header
 ___
 > [!note] Ability 1
-> - [x] When you [[MV_Hearten|Hearten]] in isolation, you may attempt to find solace in fond memories or a hopeful wish. 
+> - [x] When you [[SF_CH3_Hearten|Hearten]] in isolation, you may attempt to find solace in fond memories or a hopeful wish. 
 > 	- If you do (decide before rolling), reroll any dice but count a strong hit as a weak hit. ^Ability1
 ___
 > [!info] Ability 2
-> - [ ] When you [[MV_Sacrifice Resources|Sacrafice Resources]] and your supply is reduced to 0, roll +wits. 
+> - [ ] When you [[SF_CH3_Sacrifice Resources|Sacrafice Resources]] and your supply is reduced to 0, roll +wits. 
 > 	- On a strong hit, you manage to scrape by and take +1 supply. 
-> 	- On a weak hit, you may [[MV_Lose Momentum|Lose Momentum]] (-1) in exchange for +1 supply. 
-> 	- On a miss, your supply remains at 0 and you [[MV_Lose Momentum|Lose Momentum]] (-1). ^Ability2
+> 	- On a weak hit, you may [[SF_CH3_Lose Momentum|Lose Momentum]] (-1) in exchange for +1 supply. 
+> 	- On a miss, your supply remains at 0 and you [[SF_CH3_Lose Momentum|Lose Momentum]] (-1). ^Ability2
 ___
 > [!todo] Ability 3
-> - [ ] When you or an ally [[MV_Sojourn|Sojourn]] and score a strong hit with a match, you may envision encountering someone who knows or understands you. 
-> 	- If you [[MV_Make a Connection|Make a Connection]] with them, take an automatic strong hit and mark 2 ticks on your bonds legacy track. ^Ability3
+> - [ ] When you or an ally [[SF_CH3_Sojourn|Sojourn]] and score a strong hit with a match, you may envision encountering someone who knows or understands you. 
+> 	- If you [[SF_CH3_Make a Connection|Make a Connection]] with them, take an automatic strong hit and mark 2 ticks on your bonds legacy track. ^Ability3
 ___
 
 ## Tags

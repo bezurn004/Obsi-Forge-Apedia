@@ -61,16 +61,16 @@ ___
 > 	- If either challenge die is equal to or less than the charge, count a weak hit as a strong hit. 
 > 	- If not, and your action die is equal to or less than the charge, you are caught up in the destruction or set off an unintended effect; count a weak hit as a miss.
 > > [!faq]- Possible Moves
-> > [[MV_Face Danger|Face Danger (+shadow, +wits)]] - [[MV_Secure an Advantage|Secure an Advantage (+shadow, +wits)]] - [[MV_Battle|Battle (+shadow, +wits)]] - [[MV_Enter the Fray|Enter The Fray (+shadow)]] - [[MV_React Under Fire|React Under Fire (+shadow, +wits)]] ^Ability1
+> > [[SF_CH3_Face Danger|Face Danger (+shadow, +wits)]] - [[SF_CH3_Secure an Advantage|Secure an Advantage (+shadow, +wits)]] - [[SF_CH3_Battle|Battle (+shadow, +wits)]] - [[SF_CH3_Enter the Fray|Enter The Fray (+shadow)]] - [[SF_CH3_React Under Fire|React Under Fire (+shadow, +wits)]] ^Ability1
 ___
 > [!info] Ability 2
 > - [ ] When you make a move to craft, modify, or disarm an explosive device, or if you threaten or provoke by arming an explosive device, add +1
 > 	- On a hit, Take +1 momentum.
 > > [!faq]- Possible Moves
-> > [[MV_Resupply|Resupply (+wits)]] - [[MV_Face Danger|Face Danger (+wits)]] - [[MV_Secure an Advantage|Secure an Advantage (+wits)]] - [[MV_Compel|Compel (+iron)]] ^Ability2
+> > [[SF_CH3_Resupply|Resupply (+wits)]] - [[SF_CH3_Face Danger|Face Danger (+wits)]] - [[SF_CH3_Secure an Advantage|Secure an Advantage (+wits)]] - [[SF_CH3_Compel|Compel (+iron)]] ^Ability2
 ___
 > [!todo] Ability 3
-> - [ ] When your momentum is at its max, you may reset momentum (before rolling) to trigger an explosive device as you [[MV_Take Decisive Action|Take Decisive Action]]. If you do... 
+> - [ ] When your momentum is at its max, you may reset momentum (before rolling) to trigger an explosive device as you [[SF_CH3_Take Decisive Action|Take Decisive Action]]. If you do... 
 > 	- Reroll any challenge dice. ^Ability3
 ___
 

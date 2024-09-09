@@ -23,10 +23,10 @@ OracleDescriptor: "Roll these when you need to know something that is not physic
 	- What secret is being kept?
 
 ## Oracle: Action
-This oracle can be used to replace the one provided on [[OCL_Core#Action and Theme|Action/Theme Oracles]].
+This oracle can be used to replace the one provided on [[_SF_CH5_Core#Action and Theme|Action/Theme Oracles]].
 
 > [!mechanics]- | Roll > %%GetDice%% | Guidance
-> When you [[MV_Ask the Oracle|Ask the Oracle]] about a goal, situation, or event, roll for an Action and Theme. Together, these provide an interpretative verb/ noun prompt. Other oracles include prompts to check for an Action and Theme (shown as “Action + Theme”). That’s your cue to roll on these tables and interpret the result as appropriate to the situation. ^guidance-STRSM-OCL-OclCoreAction
+> When you [[SF_CH3_Ask the Oracle|Ask the Oracle]] about a goal, situation, or event, roll for an Action and Theme. Together, these provide an interpretative verb/ noun prompt. Other oracles include prompts to check for an Action and Theme (shown as “Action + Theme”). That’s your cue to roll on these tables and interpret the result as appropriate to the situation. ^guidance-STRSM-OCL-OclCoreAction
 
 | 1d100 | 1-2 | 3-4 | 5-6 |
 | :---: | --- | --- | --- |
@@ -133,10 +133,10 @@ This oracle can be used to replace the one provided on [[OCL_Core#Action and The
 ^table-STRSM-OCL-OclCoreAction
 
 ## Oracle: Theme
-This oracle can be used to replace the one provided on [[OCL_Core#Action and Theme|Action/Theme Oracles]].
+This oracle can be used to replace the one provided on [[_SF_CH5_Core#Action and Theme|Action/Theme Oracles]].
 
 > [!mechanics]- | Roll > %%GetDice%% | Guidance
-> When you [[MV_Ask the Oracle|Ask the Oracle]] about a goal, situation, or event, roll for an Action and Theme. Together, these provide an interpretative verb/ noun prompt. Other oracles include prompts to check for an Action and Theme (shown as “Action + Theme”). That’s your cue to roll on these tables and interpret the result as appropriate to the situation. ^guidance-OCL-OclCoreAction
+> When you [[SF_CH3_Ask the Oracle|Ask the Oracle]] about a goal, situation, or event, roll for an Action and Theme. Together, these provide an interpretative verb/ noun prompt. Other oracles include prompts to check for an Action and Theme (shown as “Action + Theme”). That’s your cue to roll on these tables and interpret the result as appropriate to the situation. ^guidance-OCL-OclCoreAction
 
 | 1d100 | 1-2 | 3-4 | 5-6 |
 | :---: | --- | --- | --- |

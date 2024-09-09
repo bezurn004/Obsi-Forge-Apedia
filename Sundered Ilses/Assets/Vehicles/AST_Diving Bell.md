@@ -65,11 +65,11 @@ ___
 ___
 > [!info] Ability 2
 > **Aspect:** Your diving bell is fitted with a rigid hull.
-> - [ ] When you [[MV_Face Danger|Face Danger]] to test its strength against the crushing depths, roll +integrity and add +1.
-> - When you must [[MV_Withstand Damage|Withstand Damage]] from pressure or impact, on a **strong hit,** take +1 momentum or +1 integrity. ^Ability2
+> - [ ] When you [[SF_CH3_Face Danger|Face Danger]] to test its strength against the crushing depths, roll +integrity and add +1.
+> - When you must [[SF_CH3_Withstand Damage|Withstand Damage]] from pressure or impact, on a **strong hit,** take +1 momentum or +1 integrity. ^Ability2
 ___
 > [!todo] Ability 3
-> - [ ] When you use the diving bell to [[MV_Explore a Waypoint|Explore a Waypoint]], add +1 ^Ability3
+> - [ ] When you use the diving bell to [[SF_CH3_Explore a Waypoint|Explore a Waypoint]], add +1 ^Ability3
 ___
 ## Tags
 

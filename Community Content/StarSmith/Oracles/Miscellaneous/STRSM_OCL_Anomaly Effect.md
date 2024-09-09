@@ -20,7 +20,7 @@ OracleDescriptor: "When you come across a wild and crazy anomaly, you can use th
 When you come across a wild and crazy anomaly, you can use this oracle to see what effect it has on the surrounding region.
 
 ## Oracle: Anomaly Effect
-This oracle can be used to replace the one provided on [[OCL_Anomaly Effect#Oracle Anomaly Effect|Anomaly Effect Oracle]].
+This oracle can be used to replace the one provided on [[SF_CH5_Anomaly Effect#Oracle Anomaly Effect|Anomaly Effect Oracle]].
 
 > [!mechanics]- | Roll > %%GetDice%% | Guidance
 > Meddling with alien artifacts or forbidden magic may put you at the mercy of chaos. Use this table to resolve the effects of ancient tech, rituals, or other strange forces. Results on this table may have devastating implications, so use it only in rare and dramatic moments. ^guidance-STRSM-OCL-OclAnomalyEffect

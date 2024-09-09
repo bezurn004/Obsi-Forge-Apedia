@@ -19,10 +19,10 @@ OracleFocus: "First Looks"
 OracleDescriptor: "Derelicts are the forsaken relics of human endeavors. Use these First Look tables for your initial survey of the derelict."
 ---
 # [[_STRSM Oracles Index|Starsmith Oracles]] - [[_STRSM_OCL_Derelict Oracles|Derelict]]: First Looks
-Derelicts are the forsaken relics of human endeavors. Use these First Look tables for your initial survey of the derelict. To reveal more about the look and original function or nature of the site, roll on appropriate tables in the [[_STRSM_OCL_Starship Oracles|Starship]]  or [[_STRSM_OCL_Settlement Oracles|Settlement]] oracles. If you explore the depths of a derelict, you may use the [[OCL_Derelict_Zones|Derelict Zones Oracle]] on the following pages to help envision what you find.
+Derelicts are the forsaken relics of human endeavors. Use these First Look tables for your initial survey of the derelict. To reveal more about the look and original function or nature of the site, roll on appropriate tables in the [[_STRSM_OCL_Starship Oracles|Starship]]  or [[_STRSM_OCL_Settlement Oracles|Settlement]] oracles. If you explore the depths of a derelict, you may use the [[SF_CH5_Derelict_Zones|Derelict Zones Oracle]] on the following pages to help envision what you find.
 
 ## Oracle: Derelict Outer First Look
-This oracle can be used to replace the one provided on [[OCL_Derelict_Looks#Oracle Derelict First Look Outer|Derelict Outer First Look Oracle]].
+This oracle can be used to replace the one provided on [[SF_CH5_Derelict_Looks#Oracle Derelict First Look Outer|Derelict Outer First Look Oracle]].
 
 > [!mechanics]- | Roll > %%GetDice%% | Guidance
 > What you notice from an outside inspection or scan. ^guidance-STRSM-OCL-OclDerelictOuterFirstLook
@@ -42,7 +42,7 @@ This oracle can be used to replace the one provided on [[OCL_Derelict_Looks#Orac
 ^table-STRSM-OCL-OclDerelictOuterFirstLook
 
 ## Oracle: Derelict Inner First Look {1-2}
-This oracle can be used to replace the one provided on [[OCL_Derelict_Looks#Oracle Derelict First Look Inner|Derelict Inner First Look Oracle]].
+This oracle can be used to replace the one provided on [[SF_CH5_Derelict_Looks#Oracle Derelict First Look Inner|Derelict Inner First Look Oracle]].
 
 > [!mechanics]- | Roll > %%GetDice%% | Guidance
 > If you go inside the derelict, this is the first thing you notice. ^guidance-STRSM-OCL-OclDerelictInnerFirstLook
@@ -89,6 +89,6 @@ This oracle can be used to replace the one provided on [[OCL_Derelict_Looks#Orac
 | **[[_STRSM_OCL_Derelict Oracles\|Derelict Oracles]]** | #Starsmith/Oracles/Derelicts - #Pedia/Oracles/Derelicts | **[[_STRSM_OCL_District Oracles\|District Oracles]]** |
 
 > [!note]
-> Page order only references the original works created in the Starsmith Oracles work. [[OCL_Derelict_Create|Derelict Create Oracle]] and [[OCL_Derelict_Zones|Derelict Zones Oracle]] are found on the respective Starforged: Ironsworn pages.
+> Page order only references the original works created in the Starsmith Oracles work. [[SF_CH5_Derelict_Create|Derelict Create Oracle]] and [[SF_CH5_Derelict_Zones|Derelict Zones Oracle]] are found on the respective Starforged: Ironsworn pages.
 
 <font size=-2>Starsmith Oracles is created by Eric Bright and licensed for use under the Creative Commons Attribution 4.0 International License (CC-BY).</font>

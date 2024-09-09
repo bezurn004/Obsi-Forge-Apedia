@@ -20,7 +20,7 @@ OracleDescriptor: "How did you acquire a starship of own?"
 How did you acquire a starship of own?
 
 ## Oracle: Campaign Starship History
-This oracle can be used to replace the one provided on [[CRG_Board Your Starship#Giving The Starship a History|Starship History Table]].
+This oracle can be used to replace the one provided on [[SF_CH2_Board Your Starship#Giving The Starship a History|Starship History Table]].
 
 > [!mechanics]- | Roll > %%GetDice%% | Guidance
 > Envision how you obtained or earned this ship. You can come up with your own origin, or roll or pick from the table below. If you use a result from the table, take a moment to consider and elaborate on the suggestion. ^guidance-STRSM-OCL-OclCampaignStarshipHistory

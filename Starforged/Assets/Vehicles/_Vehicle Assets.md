@@ -15,7 +15,7 @@ PageOrder: 0
 > **A Note about assets and progress moves**
 > Some assets include abilities which might be applied to a variety of moves. This is usually phrased as “when you make a move to [blank].” However, most asset abilities apply only to action rolls. Unless an asset specifically defines a benefit for a progress move, you may not leverage an asset ability when making a progress roll.
 
-For more information, see the gameplay rules for [[GB_Assets#Support Vehicles|Vehicle Assets]].
+For more information, see the gameplay rules for [[SF_CH1_Assets#Support Vehicles|Vehicle Assets]].
 
 ## Ironsworn: Starforged Vehicle Assets
 > **First Vehicle Asset**

@@ -63,11 +63,11 @@ ConditionLabels:
 ___
 > [!note] Ability 1
 > - [x] Discard two or more assets connected to your former nature, and take up to three assets to represent your damned existence. Give the new assets a special mark.
-> - When you [[MV_Advance|Advance]] and upgrade a damned asset, spend 1 experience (instead of 2). ^Ability1
+> - When you [[SF_CH3_Advance|Advance]] and upgrade a damned asset, spend 1 experience (instead of 2). ^Ability1
 ___
 > [!info] Ability 2
 > **Aspect:** Choose a community where you are accepted despite (or because of) your cursed nature.
-> - [ ] When you [[MV_Sojourn|Sojourn]] there, reroll any dice.
+> - [ ] When you [[SF_CH3_Sojourn|Sojourn]] there, reroll any dice.
 > > [!warning] Chosen Community
 > > InsertCommunityNameLinkHere ^Ability2
 ___

@@ -22,9 +22,9 @@ OracleDescriptor: "Volcanic ruptures dot the surface of this planet allowing lav
 # [[_STRSM Oracles Index|Starsmith Oracles]] - [[_STRSM_OCL_Planet Oracles|Planets]]: Furnace
 Volcanic ruptures dot the surface of this planet allowing lava, ash and gas to escape from magma chambers deep within the core. The sheer volume of fiery lava casts an eerie red glow onto anything in orbit. Steam swirls through the atmosphere creating massive weather systems.
 
-![[OCL_Planet-Furnace#Oracle Furnace Atmosphere]]
+![[SF_CH5_Planet-Furnace#Oracle Furnace Atmosphere]]
 
-![[OCL_Planet-Furnace#Oracle Furnace Settlements]]
+![[SF_CH5_Planet-Furnace#Oracle Furnace Settlements]]
 
 ## Oracle: Furnace Observed From Space {1-2}
 > [!mechanics]- | Roll > %%GetDice%% | Guidance
@@ -67,7 +67,7 @@ Volcanic ruptures dot the surface of this planet allowing lava, ash and gas to e
 | 99-100 | ▶[[STRSM_OCL_Vault-Creation#Oracle Precursor Vault Outer First Look\|Precursor Vault]] (planetside) | ▶[[STRSM_OCL_Vault-Creation#Oracle Precursor Vault Outer First Look\|Precursor Vault]] (planetside) | ▶[[STRSM_OCL_Vault-Creation#Oracle Precursor Vault Outer First Look\|Precursor Vault]] (planetside) |
 ^table-PlanetsideFeature
 
-![[OCL_Planet-Furnace#Oracle Furnace Life]]
+![[SF_CH5_Planet-Furnace#Oracle Furnace Life]]
 
 ## Oracle: Furnace ample Names
 > [!mechanics]- | Roll > %%GetDice%% | Guidance

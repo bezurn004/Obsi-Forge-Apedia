@@ -55,7 +55,7 @@ _Use the below table to configure the cursed dice for the dice roller equations 
 
 ## Tags
 
-| Previous Page | Tags | Next Page |
+| Previous Page | Tags | Next Section |
 | :--- | :---: | ---: |
 | **[[SI_CH3_Revealing the Isles\|Revealing the Isles (SI Oracles)]]** | #SunderedIsles/Oracles | **[[_SI_CH3_Core Oracles\|Core (SI Oracles)]]** |
 

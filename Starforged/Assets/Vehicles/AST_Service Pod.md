@@ -63,18 +63,18 @@ ___
 > - [x] When you make a move using the pod’s manipulator arms to perform a delicate or forceful task, add +1.
 > - On a hit take +1 momentum.
 > > [!faq]- Possible Moves
-> > [[MV_Aid Your Ally|Aid Your Ally (move)]] - [[MV_Face Danger|Face Danger (move)]] - [[MV_Secure an Advantage|Secure an Advantage (move)]] - [[MV_Repair|Repair (move)]] - [[MV_Resupply|Resupply (move)]] - [[MV_Gain Ground|Gain Ground (move)]] - [[MV_React Under Fire|React Under Fire (move)]] ^Ability1
+> > [[SF_CH3_Aid Your Ally|Aid Your Ally (move)]] - [[SF_CH3_Face Danger|Face Danger (move)]] - [[SF_CH3_Secure an Advantage|Secure an Advantage (move)]] - [[SF_CH3_Repair|Repair (move)]] - [[SF_CH3_Resupply|Resupply (move)]] - [[SF_CH3_Gain Ground|Gain Ground (move)]] - [[SF_CH3_React Under Fire|React Under Fire (move)]] ^Ability1
 ___
 > [!info] Ability 2
-> - [ ] When you [[MV_Face Danger|Face Danger]], [[MV_Gain Ground|Gain Ground]], or [[MV_React Under Fire|React Under Fire]] by maneuvering your pod through a hazardous or obstructed area, choose an approach and roll +integrity.
-> 	- Careful: Add +2 and [[MV_Lose Momentum|Lose Momentum]] (-1)
+> - [ ] When you [[SF_CH3_Face Danger|Face Danger]], [[SF_CH3_Gain Ground|Gain Ground]], or [[SF_CH3_React Under Fire|React Under Fire]] by maneuvering your pod through a hazardous or obstructed area, choose an approach and roll +integrity.
+> 	- Careful: Add +2 and [[SF_CH3_Lose Momentum|Lose Momentum]] (-1)
 > 	- Reckless: On a hit take +1 momentum. ^Ability2
 ___
 > [!todo] Ability 3
 > - [ ] When you make a move while controlling the pod and push its capabilities to the limit, you may take an automatic strong hit. If you do...
-> 	- [[MV_Withstand Damage|Withstand Damage]] (-2).
+> 	- [[SF_CH3_Withstand Damage|Withstand Damage]] (-2).
 > > [!faq]- Possible Moves
-> > [[MV_Aid Your Ally|Aid Your Ally (move)]] - [[MV_Face Danger|Face Danger (move)]] - [[MV_Secure an Advantage|Secure an Advantage (move)]] - [[MV_Repair|Repair (move)]] - [[MV_Resupply|Resupply (move)]] - [[MV_Gain Ground|Gain Ground (move)]] - [[MV_React Under Fire|React Under Fire (move)]] ^Ability3
+> > [[SF_CH3_Aid Your Ally|Aid Your Ally (move)]] - [[SF_CH3_Face Danger|Face Danger (move)]] - [[SF_CH3_Secure an Advantage|Secure an Advantage (move)]] - [[SF_CH3_Repair|Repair (move)]] - [[SF_CH3_Resupply|Resupply (move)]] - [[SF_CH3_Gain Ground|Gain Ground (move)]] - [[SF_CH3_React Under Fire|React Under Fire (move)]] ^Ability3
 ___
 
 ## Tags

@@ -1,0 +1,7 @@
+<svg width="200" height="200" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <!-- Draw hexagon -->
+  <polygon points="50,5 90,25 90,75 50,95 10,75 10,25" fill="white" />
+
+  <!-- Draw centered number -->
+  <text x="50%" y="50%" font-size="60" font-weight="bold" font-family="Roboto, sans-serif" fill="black" text-anchor="middle" dominant-baseline="middle">6</text>
+</svg>

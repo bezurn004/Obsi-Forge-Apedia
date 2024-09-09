@@ -75,14 +75,14 @@ ___
 ___
 > [!info] Ability 2
 > - [ ] **Aspect:** Your flash fox attempts to teleport you out of harm's way.
-> When you [[MV_Endure Harm|Endure Harm]], you may roll +its health [[HBC_Roll with Advantage|with Advantage]].
+> When you [[SF_CH3_Endure Harm|Endure Harm]], you may roll +its health [[HBC_Roll with Advantage|with Advantage]].
 > - If you do and score a hit, reduce the loss of health you suffered by 1.
-> - On a miss, your [[MV_Companion Takes a Hit|Companion Takes a Hit]] as well. ^Ability2
+> - On a miss, your [[SF_CH3_Companion Takes a Hit|Companion Takes a Hit]] as well. ^Ability2
 ___
 > [!todo] Ability 3
 > - [ ] **Aspect:** Your flash fox has learned to coordinate its teleporting attacks with your own.
-> When you [[MV_Strike|Strike]] aided by the flash fox, add +1.
-> If you [[MV_Clash|Clash]], take +1 momentum on a hit. ^Ability3
+> When you [[SF_CH3_Strike|Strike]] aided by the flash fox, add +1.
+> If you [[SF_CH3_Clash|Clash]], take +1 momentum on a hit. ^Ability3
 ___
 
 ## Commentary

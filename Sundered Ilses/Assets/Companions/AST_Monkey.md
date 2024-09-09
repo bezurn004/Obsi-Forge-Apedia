@@ -74,7 +74,7 @@ ___
 > > #ambiguous _InputPossibleMovesHere_ ^Ability2
 ___
 > [!todo] Ability 3
-> - [ ] When you [[MV_Resupply|Resupply]] by asking the monkey to search or scavenge, add +1. ^Ability3
+> - [ ] When you [[SF_CH3_Resupply|Resupply]] by asking the monkey to search or scavenge, add +1. ^Ability3
 ___
 ## Tags
 

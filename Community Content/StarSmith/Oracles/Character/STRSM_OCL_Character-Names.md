@@ -27,7 +27,7 @@ Given and family names can often be reversed, or used independently as standalon
 Spacers are often known only by their callsigns, with their “dirtside names” reserved for family and close friends.
 
 ## Oracle: Character Given Name
-This oracle can be used to replace the one provided on [[OCL_Character-Names#Oracle Character Given Name|Character Given Name Oracle]].
+This oracle can be used to replace the one provided on [[SF_CH5_Character-Names#Oracle Character Given Name|Character Given Name Oracle]].
 
 > [!mechanics]- | Roll > %%GetDice%% | Guidance
 > Given and Family names are presented as an intended pair, so you may roll once for both if you choose. Given and family names can often be reversed, or used independently as standalone names. These “dirtside names” are usually reserved for family and close friends. ^guidance-STRSM-OCL-OclCharacterGivenName
@@ -137,7 +137,7 @@ This oracle can be used to replace the one provided on [[OCL_Character-Names#Ora
 ^table-STRSM-OCL-OclCharacterGivenName
 
 ## Oracle: Character Family Name
-This oracle can be used to replace the one provided on [[OCL_Character-Names#Oracle Character Family Name|Character Family Name Oracle]].
+This oracle can be used to replace the one provided on [[SF_CH5_Character-Names#Oracle Character Family Name|Character Family Name Oracle]].
 
 > [!mechanics]- | Roll > %%GetDice%% | Guidance
 > Given and Family names are presented as an intended pair, so you may roll once for both if you choose. Given and family names can often be reversed, or used independently as standalone names. These “dirtside names” are usually reserved for family and close friends. ^guidance-OclCharacterFamilyName
@@ -247,7 +247,7 @@ This oracle can be used to replace the one provided on [[OCL_Character-Names#Ora
 ^table-STRSM-OCL-OclCharacterFamilyName
 
 ## Oracle: Character Callsign
-This oracle can be used to replace the one provided on [[OCL_Character-Names#Oracle Character Call Sign|Character Call Sign Oracle]].
+This oracle can be used to replace the one provided on [[SF_CH5_Character-Names#Oracle Character Call Sign|Character Call Sign Oracle]].
 
 > [!mechanics]- | Roll > %%GetDice%% | Guidance
 >  If you’d like to give a character a **Callsign**, which are the monikers used by spacers, you may roll separately or take the one provided for the selected name. Spacers are often known only by their callsigns. ^guidance-OclCharacterCallsign

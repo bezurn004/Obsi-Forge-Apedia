@@ -62,18 +62,18 @@ ConditionLabels: Broken
 > > - [ ] Broken ^Header
 ___
 > [!note] Ability 1
-> - [x] When you [[MV_Compel|Compel]] or [[MV_Enter the Fray|Enter The Fray]] by opening your gunports to send a promise of violence, add +1
+> - [x] When you [[SF_CH3_Compel|Compel]] or [[SF_CH3_Enter the Fray|Enter The Fray]] by opening your gunports to send a promise of violence, add +1
 > - On **a hit,** take +1 momentum. 
 > 	- On a **strong hit with a match,** take another +1 momentum. ^Ability1
 ___
 > [!info] Ability 2
 > **Aspect:** Your well-drilled crew brings your cannons to bear with deadly efficiency. 
-> - [ ] When you [[MV_Strike|Strike]], choose one.
+> - [ ] When you [[SF_CH3_Strike|Strike]], choose one.
 > - _Coordinated fire:_ Add +1 and take +1 momentum on a hit.
-> - _Unleash hell:_ Mark progress on **a hit**, but [[MV_Lose Momentum|Lose Momentum]] (-1) or [[MV_Sacrifice Resources|Sacrifice Resources]] (-1). ^Ability2
+> - _Unleash hell:_ Mark progress on **a hit**, but [[SF_CH3_Lose Momentum|Lose Momentum]] (-1) or [[SF_CH3_Sacrifice Resources|Sacrifice Resources]] (-1). ^Ability2
 ___
 > [!todo] Ability 3
-> - [ ] Once per fight, when you [[MV_Clash|Clash]] by committing to an all-or-nothing exchange of fire, add +1.
+> - [ ] Once per fight, when you [[SF_CH3_Clash|Clash]] by committing to an all-or-nothing exchange of fire, add +1.
 > - Count a **weak hit** as a strong hit, and mark progress on **a hit**.
 > - On a **miss,** you must suffer a dire outcome. ^Ability3
 > > [!warning] All or Nothing

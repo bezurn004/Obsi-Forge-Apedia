@@ -61,10 +61,10 @@ ConditionLabels:
 ___
 > [!note] Ability 1
 > - [x] When you set sail after a landlocked layover, take +2 momentum or +2 spirit, or +1 of each.
-> When you make landfall, [[MV_Lose Momentum|Lose Momentum]] (-1). ^Ability1
+> When you make landfall, [[SF_CH3_Lose Momentum|Lose Momentum]] (-1). ^Ability1
 ___
 > [!info] Ability 2
-> - [ ] When you [[MV_Secure an Advantage|Secure an Advantage]] to plot a course through careful study of currents and weather, or if you [[MV_Face Danger|Face Danger]] aboard ship to overcome or avoid an environmental hazard such as a storm or rogue wave, add +1.
+> - [ ] When you [[SF_CH3_Secure an Advantage|Secure an Advantage]] to plot a course through careful study of currents and weather, or if you [[SF_CH3_Face Danger|Face Danger]] aboard ship to overcome or avoid an environmental hazard such as a storm or rogue wave, add +1.
 > - On **a hit,** take +1 momentum. ^Ability2
 ___
 > [!todo] Ability 3

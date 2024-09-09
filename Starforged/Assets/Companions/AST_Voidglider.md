@@ -60,13 +60,13 @@ ConditionLabels: "Out of Action"
 > > - [ ] Out of Action ^Header
 ___
 > [!note] Ability 1
-> - [x] When you [[MV_Undertake an Expedition|Undertake an Expedition]], add +1.
+> - [x] When you [[SF_CH3_Undertake an Expedition|Undertake an Expedition]], add +1.
 ___
 > [!info] Ability 2
 > - [ ] The voidglider is harnessed and trained as a mount, and can be ridden for short-range spacebound transport. 
 > - When you are riding the voidglider and make a move to detect or evade a threat by relying on its instincts, roll +its health.
 > > [!faq]- Possible Moves
-> > [[MV_Face Danger|Face Danger (move)]] - [[MV_Secure an Advantage|Secure an Advantage (move)]] - [[MV_Gain Ground|Gain Ground (move)]] - [[MV_Secure an Advantage|Secure an Advantage (move)]] ^Ability2
+> > [[SF_CH3_Face Danger|Face Danger (move)]] - [[SF_CH3_Secure an Advantage|Secure an Advantage (move)]] - [[SF_CH3_Gain Ground|Gain Ground (move)]] - [[SF_CH3_Secure an Advantage|Secure an Advantage (move)]] ^Ability2
 ___
 > [!todo] Ability 3
 > - [ ] When you make a move by signaling the voidglider to distract or attack a spaceborne foe, roll +its health and on a hit take +1 momentum. #ambiguous %%Need to determine applicable moves%% ^Ability3

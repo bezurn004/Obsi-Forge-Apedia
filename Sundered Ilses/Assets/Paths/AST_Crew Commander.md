@@ -65,7 +65,7 @@ ConditionLabels: Impact
 > > [!faq] Possible Moves
 > > #ambiguous _insertmoveshere_
 > 
-> When you [[MV_Pay the Price|Pay the Price]], you may suffer the cost as -1 command.
+> When you [[SF_CH3_Pay the Price|Pay the Price]], you may suffer the cost as -1 command.
 > While at 0 command, this asset counts as an impact.
 > To bolster your crew, provide a notable reward or respite, and roll +heart. #ConvertAbilityToMove
 > - On a **strong hit,** take +4 command.
@@ -76,7 +76,7 @@ ___
 > - [ ] Take +2 command; your max is now 6. ^Ability2
 ___
 > [!todo] Ability 3
-> - [ ] When your command is 0 and the situation desperate, you may [[MV_Compel|Compel]] your crew to action;
+> - [ ] When your command is 0 and the situation desperate, you may [[SF_CH3_Compel|Compel]] your crew to action;
 > - if you do, on **a hit,** take +2 command. ^Ability3
 ___
 ## Tags

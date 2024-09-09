@@ -73,7 +73,7 @@ ___
 > - [x] When you rest and meditate to gather this energy, roll +spirit.
 > - On a strong hit, take up to +3 energy.
 > - On a weak hit, take +2.
-> - On a miss, take +2 energy but [[MV_Endure Harm|Endure Harm]] (-2). #ConvertAbilityToMove 
+> - On a miss, take +2 energy but [[SF_CH3_Endure Harm|Endure Harm]] (-2). #ConvertAbilityToMove 
 > When you make moves aided by your constructs to attack or overcome obstacles, add +2 and suffer -1 energy.
 > > [!faq]- Possible Moves
 > > InputPossibleMovesHere #ambiguous ^Ability1

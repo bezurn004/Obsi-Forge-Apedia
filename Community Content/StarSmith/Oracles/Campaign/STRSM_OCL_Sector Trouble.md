@@ -20,7 +20,7 @@ OracleDescriptor: "Within your starting sector, what trouble is happening that m
 Within your starting sector, what trouble is happening that might give you a hook to get involved? This may only be background happenings as you deal with your inciting incident.
 
 ## Oracle: Campaign Sector Trouble
-This oracle can be used to replace the one provided on [[CSG_Enhance A Starting Sector#Introduce a Sector Trouble|Sector Trouble Oracle]].
+This oracle can be used to replace the one provided on [[SF_CH2_Enhance A Starting Sector#Introduce a Sector Trouble|Sector Trouble Oracle]].
 
 > [!mechanics]- | Roll > %%GetDice%% | Guidance
 > You’ve heard rumors of a sector-wide peril, conflict, or mystery. You may come up with a trouble appropriate to your setting and character, roll on the [[STRSM_OCL_Core Action-Theme|Action/Theme (Starsmith Oracles)]] for inspiration, or pick or roll on the table below. Envision how this trouble might manifest, and make note of it on your sector worksheet or journal. ^guidance-STRSM-OCL-OclCampaignSectorTrouble

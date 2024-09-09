@@ -67,13 +67,13 @@ While most starships can’t afford to hire a full-time linguist, nearly every m
 ___
 
 > [!note] Ability 1
-> - [x] When you [[MV_Ask the Oracle|Ask the Oracle]] if you know a specific language or dialect you encounter, increase the likelihood by one step. ^Ability1
+> - [x] When you [[SF_CH3_Ask the Oracle|Ask the Oracle]] if you know a specific language or dialect you encounter, increase the likelihood by one step. ^Ability1
 ___
 > [!info] Ability 2
-> - [ ] When you [[MV_Secure an Advantage|Secure an Advantage]] by taking significant time to decipher an unknown language or decrypt a language based cypher, add +2. ^Ability2
+> - [ ] When you [[SF_CH3_Secure an Advantage|Secure an Advantage]] by taking significant time to decipher an unknown language or decrypt a language based cypher, add +2. ^Ability2
 ___
 > [!todo] Ability 3
-> - [ ] When you [[MV_Compel|Compel]] using figurative language or slang to strike emotional chords in a language not native to you, [[HBC_Roll with Advantage|Roll with Advantage]]. ^Ability3
+> - [ ] When you [[SF_CH3_Compel|Compel]] using figurative language or slang to strike emotional chords in a language not native to you, [[HBC_Roll with Advantage|Roll with Advantage]]. ^Ability3
 ___
 
 ## Commentary

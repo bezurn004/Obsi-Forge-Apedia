@@ -58,20 +58,20 @@ ConditionLabels:
 > **Character Aspect: ** You are a walking armory, with a weapon for every occasion.** ^Header
 ___
 > [!note] Ability 1
-> - [x] When you [[MV_Enter the Fray|Enter The Fray]] in personal combat, add +1
+> - [x] When you [[SF_CH3_Enter the Fray|Enter The Fray]] in personal combat, add +1
 > 	- On a hit take +1 momentum. 
 > 	
-> 	Once per fight, when you [[MV_Gain Ground|Gain Ground]] by switching weapons or changing tactics, take an automatic strong hit.
+> 	Once per fight, when you [[SF_CH3_Gain Ground|Gain Ground]] by switching weapons or changing tactics, take an automatic strong hit.
 > > [!success] Gain Ground Advantage
 > > - [x] Available ^Ability1
 ___
 > [!info] Ability 2
-> - [ ] When you [[MV_Strike|Strike]] using a personal weapon which has limited ammo or a single-use mode, add +1.
-> 	- On a hit mark progress on a hit. Then, [[MV_Sacrifice Resources|Sacrafice Resources]] (-1). 
-> 	- If you score a strong hit on this attack and immediately [[MV_Take Decisive Action|Take Decisive Action]], you may retain the value of one challenge die from your [[MV_Strike|Strike]] action instead of rolling that die.  ^Ability2
+> - [ ] When you [[SF_CH3_Strike|Strike]] using a personal weapon which has limited ammo or a single-use mode, add +1.
+> 	- On a hit mark progress on a hit. Then, [[SF_CH3_Sacrifice Resources|Sacrafice Resources]] (-1). 
+> 	- If you score a strong hit on this attack and immediately [[SF_CH3_Take Decisive Action|Take Decisive Action]], you may retain the value of one challenge die from your [[SF_CH3_Strike|Strike]] action instead of rolling that die.  ^Ability2
 ___
 > [!todo] Ability 3
-> - [ ] When you [[MV_Secure an Advantage|Secure an Advantage]] by suiting up and gathering your gear for a perilous encounter or mission, you may roll +supply.
+> - [ ] When you [[SF_CH3_Secure an Advantage|Secure an Advantage]] by suiting up and gathering your gear for a perilous encounter or mission, you may roll +supply.
 > 	- If you do, take +2 momentum on a hit. ^Ability3
 ___
 

@@ -69,17 +69,17 @@ The only problem they have ever presented in society is their occasional over po
 ___
 
 > [!note] Ability 1
-> - [x] When you [[MV_Hearten|Hearten]] in the presence of your furball, [[HBC_Boost|Boost]].
+> - [x] When you [[SF_CH3_Hearten|Hearten]] in the presence of your furball, [[HBC_Boost|Boost]].
 > However, stress can physically harm your friend. 
->  - When you [[MV_Endure Harm|Endure Harm]] in the presence of your furball, your [[MV_Companion Takes a Hit|Companion Takes a Hit]] as well. ^Ability1
+>  - When you [[SF_CH3_Endure Harm|Endure Harm]] in the presence of your furball, your [[SF_CH3_Companion Takes a Hit|Companion Takes a Hit]] as well. ^Ability1
 ___
 > [!info] Ability 2
-> - [ ] When you make an [[_Adventure Moves|Adventure Move]] (not Check Your Gear) using your furball to help defuse a tense situation, to build good will between people, to encourage those with a broken spirit, or to support the downtrodden, [[HBC_Boost|Boost]].
+> - [ ] When you make an [[_SF_CH3_Adventure Moves|Adventure Move]] (not Check Your Gear) using your furball to help defuse a tense situation, to build good will between people, to encourage those with a broken spirit, or to support the downtrodden, [[HBC_Boost|Boost]].
 > > [!faq]- Possible Moves
-> > [[MV_Aid Your Ally|Aid Your Ally (move)]] - [[MV_Compel|Compel (move)]] - [[MV_Face Danger|Face Danger (move)]] - [[MV_Gather Information|Gather Information (move)]] - [[MV_Secure an Advantage|Secure an Advantage (move)]] ^Ability2
+> > [[SF_CH3_Aid Your Ally|Aid Your Ally (move)]] - [[SF_CH3_Compel|Compel (move)]] - [[SF_CH3_Face Danger|Face Danger (move)]] - [[SF_CH3_Gather Information|Gather Information (move)]] - [[SF_CH3_Secure an Advantage|Secure an Advantage (move)]] ^Ability2
 ___
 > [!todo] Ability 3
-> - [ ] When you [[MV_Make a Connection|Make a Connection]] move (not a progress move) with a fellow furball caretaker in the presence of your furballs, [[HBC_Boost|Boost]]. ^Ability3
+> - [ ] When you [[SF_CH3_Make a Connection|Make a Connection]] move (not a progress move) with a fellow furball caretaker in the presence of your furballs, [[HBC_Boost|Boost]]. ^Ability3
 ___
 
 ## Commentary

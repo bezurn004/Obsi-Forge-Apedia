@@ -60,15 +60,15 @@ ConditionLabels: Battered
 > > - [ ] Battered ^Header
 ___
 > [!note] Ability 1
-> - [x] When you [[MV_Undertake an Expedition|Undertake an Expedition]] or [[MV_Set a Course|Set a Course]], add +1. 
-> - When you [[MV_Finish an Expedition|Finish an Expedition]] in your rover, you may reroll one challenge die. ^Ability1
+> - [x] When you [[SF_CH3_Undertake an Expedition|Undertake an Expedition]] or [[SF_CH3_Set a Course|Set a Course]], add +1. 
+> - When you [[SF_CH3_Finish an Expedition|Finish an Expedition]] in your rover, you may reroll one challenge die. ^Ability1
 ___
 > [!info] Ability 2
-> - [ ] You may equip your rover with one module asset at no extra cost. When you [[MV_Withstand Damage|Withstand Damage]], the module can be broken or destroyed as with a command vehicle. 
+> - [ ] You may equip your rover with one module asset at no extra cost. When you [[SF_CH3_Withstand Damage|Withstand Damage]], the module can be broken or destroyed as with a command vehicle. 
 > - If you reconfigure your rover, spend 1 experience, discard the module, and equip another with the same number of marked abilities. ^Ability2
 ___
 > [!todo] Ability 3
-> - [ ]  When you [[MV_Face Danger|Face Danger]] or [[MV_React Under Fire|React Under Fire]] by taking a hit or crashing through an obstacle, you may roll +integrity.
+> - [ ]  When you [[SF_CH3_Face Danger|Face Danger]] or [[SF_CH3_React Under Fire|React Under Fire]] by taking a hit or crashing through an obstacle, you may roll +integrity.
 > 	- On a hit take +1 momentum. ^Ability3
 ___
 

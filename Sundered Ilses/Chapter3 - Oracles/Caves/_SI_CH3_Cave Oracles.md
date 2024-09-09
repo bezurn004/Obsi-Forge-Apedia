@@ -22,7 +22,7 @@ In an inland cave ([[SI_CH3_Inland Cave Details#Oracle Inland Cave Feature|pages
 Use the _Features_ table to inspire the details of a waypoint, the _Peril_ table when you face a cost in your travels, and the _Opportunity_ table if you encounter good fortune. But remember these tables are only a complement to your own storytelling choices.
 
 ### LURKING THREATS
-Time is your enemy within a cave. To emphasize the growing tension of underground expeditions, add a tension clock for a lurking threat. When you suffer a cost through failure, delay, or inaction, you can advance the clock to show the threat drawing closer. Learn more about [[GID_Clocks_Tension|tension clocks]] on page 238 of the _Starforged_ rulebook.
+Time is your enemy within a cave. To emphasize the growing tension of underground expeditions, add a tension clock for a lurking threat. When you suffer a cost through failure, delay, or inaction, you can advance the clock to show the threat drawing closer. Learn more about [[SF_CH3_Clocks_Tension|tension clocks]] on page 238 of the _Starforged_ rulebook.
 
 The table on the next page includes inspiration for lurking threats, including what signs you encounter as the tension clock advances, and what occurs when the clock fills.
 

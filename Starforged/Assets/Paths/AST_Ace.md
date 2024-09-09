@@ -57,18 +57,18 @@ ConditionLabels:
 > [!mechanics]- [[AST_Ace|Ace (asset)]] ^Header
 ___
 > [!note] Ability 1
-> - [x] When you [[MV_Face Danger|Face Danger]] or [[MV_React Under Fire|React Under Fire]] by guiding your vehicle through a hazard or out of harm’s way, add +1
+> - [x] When you [[SF_CH3_Face Danger|Face Danger]] or [[SF_CH3_React Under Fire|React Under Fire]] by guiding your vehicle through a hazard or out of harm’s way, add +1
 > - On a hit Take +1 momentum. ^Ability1
 ___
 > [!info] Ability 2
-> - [ ] When you [[MV_Gain Ground|Gain Ground]] by maneuvering your vehicle against a foe, add +1. 
+> - [ ] When you [[SF_CH3_Gain Ground|Gain Ground]] by maneuvering your vehicle against a foe, add +1. 
 > - If you score a strong hit with a 4, 5, or 6 on the action die, you may put yourself in firing position.
 > 	- If you do, set aside the action die or note its value. 
-> 	- If you or an ally [[MV_Strike|Strike]] using the vehicle’s weapons, preset your action die with that value. 
+> 	- If you or an ally [[SF_CH3_Strike|Strike]] using the vehicle’s weapons, preset your action die with that value. 
 > 	- This persists until you fail to score a strong hit on that move, or until you make another move which changes your vehicle’s position. ^Ability2
 ___
 > [!todo] Ability 3
-> - [ ] When you must [[MV_Endure Stress|Endure Stress]] while piloting a vehicle, you may roll +integrity. 
+> - [ ] When you must [[SF_CH3_Endure Stress|Endure Stress]] while piloting a vehicle, you may roll +integrity. 
 > - On a strong hit Take +1 momentum ^Ability3
 ___
 

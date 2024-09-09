@@ -60,17 +60,17 @@ ___
 > - [x] When you make a move by lying, bluffing, stealing, or cheating, add +2. 
 > - On a strong hit with a match, your deception creates an unexpected opportunity; take the value of your shadow as +momentum.
 > > [!faq]- Possible Moves
-> > [[MV_Compel|Compel (+shadow)]]- [[MV_Face Danger|Face Danger (+shadow)]] - [[MV_Secure an Advantage|Secure an Advantage (+shadow)]] - [[MV_Resupply|Resupply (+shadow)]] ^Ability1
+> > [[SF_CH3_Compel|Compel (+shadow)]]- [[SF_CH3_Face Danger|Face Danger (+shadow)]] - [[SF_CH3_Secure an Advantage|Secure an Advantage (+shadow)]] - [[SF_CH3_Resupply|Resupply (+shadow)]] ^Ability1
 ___
 > [!info] Ability 2
-> - [ ] When you [[MV_Make a Connection|Make a Connection]] to search out a new contact, you may roll +shadow. 
+> - [ ] When you [[SF_CH3_Make a Connection|Make a Connection]] to search out a new contact, you may roll +shadow. 
 > - If you do, reroll any dice on a miss and envision how your reputation or underworld contacts lead you to a disreputable connection. ^Ability2
 ___
 > [!todo] Ability 3
 > - [ ] When you make a quick escape or con your way out of a situation and burn momentum to gain a strong hit, take +1 momentum after you reset. 
 > - If you envision how this momentary success leaves you fated for future trouble, mark 2 ticks on your quests legacy track.
 > > [!faq]- Possible Moves
-> > [[MV_Face Danger|Face Danger (+edge, shadow)]] - [[MV_Secure an Advantage|Secure an Advantage (+edge, shadow)]] - [[MV_React Under Fire|React Under Fire (+edge, shadow, wits)]] [[MV_Gain Ground|Gain Ground (+edge, shadow, wits)]] - [[MV_Compel|Compel (shadow)]] - [[MV_Aid Your Ally|Aid Your Ally (move)]] ^Ability3
+> > [[SF_CH3_Face Danger|Face Danger (+edge, shadow)]] - [[SF_CH3_Secure an Advantage|Secure an Advantage (+edge, shadow)]] - [[SF_CH3_React Under Fire|React Under Fire (+edge, shadow, wits)]] [[SF_CH3_Gain Ground|Gain Ground (+edge, shadow, wits)]] - [[SF_CH3_Compel|Compel (shadow)]] - [[SF_CH3_Aid Your Ally|Aid Your Ally (move)]] ^Ability3
 ___
 
 ## Tags

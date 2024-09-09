@@ -73,7 +73,7 @@ ___
 > 		- You are upstaged by another’s entrance. #ConvertAbilityToMove ^Ability2
 ___
 > [!todo] Ability 3
-> - [ ] When you [[MV_Hearten|Hearten]] while attending an exclusive social event, reroll any dice.
+> - [ ] When you [[SF_CH3_Hearten|Hearten]] while attending an exclusive social event, reroll any dice.
 > - On a **strong hit,** you and any allies in your company take +1 momentum. ^Ability3
 ___
 ## Tags

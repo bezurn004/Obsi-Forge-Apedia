@@ -23,7 +23,7 @@ OracleDescriptor: "To generate a starship that you encounter roll on the Starshi
 # [[_STRSM Oracles Index|Starsmith Oracles]] - [[_STRSM_OCL_Starship Oracles|Starship]]: Creation
 
 ## Oracle: Starship Type
-This oracle can be used to replace the one provided on [[OCL_Starship-Creation#Oracle Starship Type|Starship Type Oracle]].
+This oracle can be used to replace the one provided on [[SF_CH5_Starship-Creation#Oracle Starship Type|Starship Type Oracle]].
 
 > [!mechanics]- | Roll > %%GetDice%% | Guidance
 > Use the Starship Type table when prompted by another oracle, or to flesh out the nature of a ship or fleet that has a flexible or uncertain role. You can also roll to generate the focus of a spaceborne quest. ^guidance-OclStarshipType
@@ -55,7 +55,7 @@ This oracle can be used to replace the one provided on [[OCL_Starship-Creation#O
 ^table-OclStarshipType
 
 ## Oracle: Starship Fleet
-This oracle can be used to replace the one provided on [[OCL_Starship-Creation#Oracle Starship Fleet|Starship Fleet Oracle]].
+This oracle can be used to replace the one provided on [[SF_CH5_Starship-Creation#Oracle Starship Fleet|Starship Fleet Oracle]].
 
 > [!mechanics]- | Roll > %%GetDice%% | Guidance
 > Use the Starship Fleet table when prompted by another oracle, or to flesh out the nature of a ship or fleet that has a flexible or uncertain role. You can also roll to generate the focus of a spaceborne quest. ^guidance-OclStarshipFleet
@@ -73,7 +73,7 @@ This oracle can be used to replace the one provided on [[OCL_Starship-Creation#O
 ^table-OclStarshipFleet
 
 ## Oracle: Starship Name
-This oracle can be used to replace the one provided on [[OCL_Starship-Name#Oracle Starship Name|Starship Name Oracle]].
+This oracle can be used to replace the one provided on [[SF_CH5_Starship-Name#Oracle Starship Name|Starship Name Oracle]].
 
 > [!mechanics]- | Roll > %%GetDice%% | Guidance
 > Give a starship a name when it has an important role in your story. Scan this table and select a name that fits what you know of the ship’s appearance and role. Or generate a random result and let any contradictions contribute to the ship’s history or nature. ^guidance-OclStarshipName

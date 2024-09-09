@@ -59,11 +59,11 @@ And some oracle tables are specific. A _[[#CHARACTER NAME|Character Name]]_ (pag
 With some play time under your belt, you’ll become familiar with the structure of the oracles and find your preferred approaches.
 
 ## OTHER REMINDERS
-The tables in this section are a tool. Use them as you like to help envision the world, introduce encounters and events, and move your story forward. Here are a few additional tips for making the most of the oracles. [[OCL_Using Oracles|See page 291]] in the _Starforged_ rulebook for more.
+The tables in this section are a tool. Use them as you like to help envision the world, introduce encounters and events, and move your story forward. Here are a few additional tips for making the most of the oracles. [[SF_CH5_Using Oracles|See page 291]] in the _Starforged_ rulebook for more.
 
 - **Use tables as a pick-list:** Oracles aren’t just for rolling. You’re free to scan a table and pick an option that is a good fit. This is particularly true when building on established facts. However, remember that the generators—particularly for locations, characters, and ships—are often structured to include a mix of common and rare answers. For example, an encountered ship might be carrying treasure, but this is a rare find as defined by the odds of the _[[#CARGO|Cargo]]_ table (page 139). Follow the fiction, treating unusual events and discoveries as special.
 - **Peel the onion:** When initially encountering a location, character, or ship, use the oracle tables for details you would perceive as first impressions, such as the [[#CHARACTER FIRST LOOK|Character First Look]] table (page 186). Make a roll or two, envision the result as appropriate to the situation, make some assumptions to fill in the gaps, and move on with your story. Then use other tables to reveal new details over time.
-- **Build oracle arrays and campaign elements:** An oracle array helps you choose from among a set of relevant tables, while a campaign elements oracle reveals the focus of an encounter or situation. [[OCL_Using Oracles#More Oracle Options|See pages 384–385]] of the _Starforged_ rulebook for details.
+- **Build oracle arrays and campaign elements:** An oracle array helps you choose from among a set of relevant tables, while a campaign elements oracle reveals the focus of an encounter or situation. [[SF_CH5_Using Oracles#More Oracle Options|See pages 384–385]] of the _Starforged_ rulebook for details.
 
 *113 REVEALING THE ISLES*
 
@@ -97,7 +97,7 @@ When you [[4 - Moves#ASK THE ORACLE|Ask the Oracle]] about a goal, situation, or
 
 Other oracle tables include prompts to check for an Action and Theme (shown as ▶[[#ACTION|Action]] + ▶[[#THEME|Theme]]). That’s your cue to roll on these tables and interpret the result.
 
-> For details on using the _Core Oracles_, [[OCL_Core|see page 295]] of the _Starforged_ rulebook.
+> For details on using the _Core Oracles_, [[_SF_CH5_Core|see page 295]] of the _Starforged_ rulebook.
 
 ## ACTION
 
@@ -5144,7 +5144,7 @@ In an inland cave ([[#^Inland-Cave-Details|pages 210–211]]), you follow labyri
 Use the _Features_ table to inspire the details of a waypoint, the _Peril_ table when you face a cost in your travels, and the _Opportunity_ table if you encounter good fortune. But remember these tables are only a complement to your own storytelling choices.
 
 ### LURKING THREATS
-Time is your enemy within a cave. To emphasize the growing tension of underground expeditions, add a tension clock for a lurking threat. When you suffer a cost through failure, delay, or inaction, you can advance the clock to show the threat drawing closer. Learn more about tension clocks on [[GID_Clocks_Tension|page 238]] of the _Starforged_ rulebook].
+Time is your enemy within a cave. To emphasize the growing tension of underground expeditions, add a tension clock for a lurking threat. When you suffer a cost through failure, delay, or inaction, you can advance the clock to show the threat drawing closer. Learn more about tension clocks on [[SF_CH3_Clocks_Tension|page 238]] of the _Starforged_ rulebook].
 
 The table on the next page includes inspiration for lurking threats, including what signs you encounter as the tension clock advances, and what occurs when the clock fills.
 

@@ -62,18 +62,18 @@ ConditionLabels: [Broken, "Charged", "Overcharged"]
 > > - [ ] Broken ^Header
 ___
 > [!note] Ability 1
-> - [x] You may choose to make the move [[MV_Ready Grappler|Ready Grappler]] to ready the module.
+> - [x] You may choose to make the move [[SF_CH3_Ready Grappler|Ready Grappler]] to ready the module.
 > - If you make a move to attack a foe or overcome an obstacle by firing the grappler, take an automatic strong hit.
 > > [!faq]- Possible Moves
-> > [[MV_Strike|Strike (move)]] - [[MV_Clash|Clash (move)]] - [[MV_Gain Ground|Gain Ground (move)]] - [[MV_React Under Fire|React Under Fire (move)]] - [[MV_Secure an Advantage|Secure an Advantage (move)]] ^Ability1
+> > [[SF_CH3_Strike|Strike (move)]] - [[SF_CH3_Clash|Clash (move)]] - [[SF_CH3_Gain Ground|Gain Ground (move)]] - [[SF_CH3_React Under Fire|React Under Fire (move)]] - [[SF_CH3_Secure an Advantage|Secure an Advantage (move)]] ^Ability1
 ___
 > [!info] Ability 2
-> - [ ] If you score a strong hit when making the move [[MV_Ready Grappler|Ready Grappler]], you may [[MV_Sacrifice Resources|Sacrafice Resources]] (-1) to overcharge the module. 
+> - [ ] If you score a strong hit when making the move [[SF_CH3_Ready Grappler|Ready Grappler]], you may [[SF_CH3_Sacrifice Resources|Sacrafice Resources]] (-1) to overcharge the module. 
 > 	- When you fire an overcharged grappler, take +2 momentum; 
 > 		- If in a fight, also mark progress. ^Ability2
 ___
 > [!todo] Ability 3
-> - [ ] When you [[MV_Take Decisive Action|Take Decisive Action]] by firing the grappler, you may reroll one challenge die. ^Ability3
+> - [ ] When you [[SF_CH3_Take Decisive Action|Take Decisive Action]] by firing the grappler, you may reroll one challenge die. ^Ability3
 ___
 
 ## Tags

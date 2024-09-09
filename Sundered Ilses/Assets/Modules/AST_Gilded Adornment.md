@@ -62,18 +62,18 @@ ConditionLabels: Broken
  ___
 
 > [!note] Ability 1
-> - [x] When you [[MV_Secure an Advantage|Secure an Advantage]] by making a showy display of your ship, you may roll +integrity.
+> - [x] When you [[SF_CH3_Secure an Advantage|Secure an Advantage]] by making a showy display of your ship, you may roll +integrity.
 > - If you do, take +1 momentum on **a hit.** ^Ability1
 ___
 > [!info] Ability 2
 > - [ ] When you host a formal ceremony or reception aboard your ship, roll +heart or +integrity, whichever is higher.
 > - On a **strong hit,** the event goes as planned; you and any allies in attendance mark 2 ticks on your bonds legacy track.
 > - On a **weak hit,** as above, but you must first deal with an unfortunate conflict or interruption.
-> - On a **miss,** the event flops or is dramatically cut short; [[MV_Pay the Price|Pay the Price]]. #ConvertAbilityToMove ^Ability2
+> - On a **miss,** the event flops or is dramatically cut short; [[SF_CH3_Pay the Price|Pay the Price]]. #ConvertAbilityToMove ^Ability2
 ___
 > [!todo] Ability 3
-> - [ ] When you [[MV_Withstand Damage|Withstand Damage]] and the ship’s finery bears the cost, you may mark this module as broken and ignore the damage.
-> - When you [[MV_Repair|Repair]] and fix this asset, take +2 momentum. ^Ability3
+> - [ ] When you [[SF_CH3_Withstand Damage|Withstand Damage]] and the ship’s finery bears the cost, you may mark this module as broken and ignore the damage.
+> - When you [[SF_CH3_Repair|Repair]] and fix this asset, take +2 momentum. ^Ability3
 ___
 ## Tags
 

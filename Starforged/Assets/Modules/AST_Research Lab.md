@@ -59,19 +59,19 @@ ConditionLabels: Broken
 > > - [ ] Broken ^Header
 ___
 > [!note] Ability 1
-> - [x] When you use your lab to [[MV_Secure an Advantage|Secure an Advantage]] or [[MV_Gather Information|Gather Information]] through careful analysis or experimentation, add +1.
+> - [x] When you use your lab to [[SF_CH3_Secure an Advantage|Secure an Advantage]] or [[SF_CH3_Gather Information|Gather Information]] through careful analysis or experimentation, add +1.
 > 	- On a hit take +1 momentum. ^Ability1
 ___
 > [!info] Ability 2
-> - [ ] When you [[MV_Face Danger|Face Danger]] to isolate or secure a hazardous specimen, reroll any dice. ^Ability2
+> - [ ] When you [[SF_CH3_Face Danger|Face Danger]] to isolate or secure a hazardous specimen, reroll any dice. ^Ability2
 ___
 > [!todo] Ability 3
-> - [ ] When you [[MV_Swear an Iron Vow|Swear an Iron Vow]] to undertake a long-term research project (extreme or greater), reroll any dice. 
+> - [ ] When you [[SF_CH3_Swear an Iron Vow|Swear an Iron Vow]] to undertake a long-term research project (extreme or greater), reroll any dice. 
 > 	- When you obtain crucial samples, equipment, or data, mark progress on the quest and take +2 momentum. 
-> 	- When you devote extended time to the project in your lab, [[MV_Face Danger|Face Danger]] and add +1. 
+> 	- When you devote extended time to the project in your lab, [[SF_CH3_Face Danger|Face Danger]] and add +1. 
 > 		- On a hit, mark progress. 
 > 		- On a strong hit with a match, mark progress twice. 
-> 	- When you [[MV_Fullfill Your Vow|Fullfill Your Vow]] and score a hit, also mark one box on your discoveries legacy track. ^Ability3
+> 	- When you [[SF_CH3_Fullfill Your Vow|Fullfill Your Vow]] and score a hit, also mark one box on your discoveries legacy track. ^Ability3
 ___
 
 ## Tags

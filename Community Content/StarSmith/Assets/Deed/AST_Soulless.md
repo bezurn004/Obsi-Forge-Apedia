@@ -60,15 +60,15 @@ ConditionLabels:
 ___
 
 > [!note] Ability 1
-> - [x] When you are at 0 spirit and [[MV_Endure Stress|Endure Stress]] or [[MV_Face Desolution|Face Desolution]] , add +1.
+> - [x] When you are at 0 spirit and [[SF_CH3_Endure Stress|Endure Stress]] or [[SF_CH3_Face Desolution|Face Desolution]] , add +1.
 > - You may then reroll your action die if its value is less than your health. ^Ability1
 ___
 > [!info] Ability 2
-> - [ ] When you [[MV_Compel|Compel]] someone to act against their will or to their own detriment, you may burn momentum to zero out one (not both) of the challenge dice if your momentum is greater than the value of that die.
+> - [ ] When you [[SF_CH3_Compel|Compel]] someone to act against their will or to their own detriment, you may burn momentum to zero out one (not both) of the challenge dice if your momentum is greater than the value of that die.
 > - If you do, erase one tick from your bonds legacy track. ^Ability2
 ___
 > [!todo] Ability 3
-> - [ ] When you [[MV_Gather Information|Gather Information]] by studying a place where suffering or torment left its mark, you may confront the visceral nature of the scene and roll +iron.
+> - [ ] When you [[SF_CH3_Gather Information|Gather Information]] by studying a place where suffering or torment left its mark, you may confront the visceral nature of the scene and roll +iron.
 > - If you do...
 > 	- On a hit take +1 momentum.
 > 	- On a strong hit with a match, take +2 momentum as you experience an insightful vision or disturbing revelation of what occurred here. ^Ability3

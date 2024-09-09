@@ -61,19 +61,19 @@ ConditionLabels: Broken
 > > - [ ] Broken ^Header
 ___
 > [!note] Ability 1
-> - [x] When you make a move against a foe or threat to avoid detection, add +1. If you [[MV_Enter the Fray|Enter The Fray]] by ambushing an unaware foe, add +1 and mark progress on a strong hit. ^Ability1
+> - [x] When you make a move against a foe or threat to avoid detection, add +1. If you [[SF_CH3_Enter the Fray|Enter The Fray]] by ambushing an unaware foe, add +1 and mark progress on a strong hit. ^Ability1
 ___
 > [!info] Ability 2
-> - [ ] When you travel submerged as you [[MV_Undertake an Expedition|Undertake an Expedition]] (+shadow), you may reroll your action die.
+> - [ ] When you travel submerged as you [[SF_CH3_Undertake an Expedition|Undertake an Expedition]] (+shadow), you may reroll your action die.
 > 	On a **strong hit with a match,** envision a remarkable underwater feature. 
-> 		If you then [[MV_Explore a Waypoint|Explore a Waypoint]], reroll any dice. ^Ability2
+> 		If you then [[SF_CH3_Explore a Waypoint|Explore a Waypoint]], reroll any dice. ^Ability2
 ___
 > [!todo] Ability 3
-> - [ ] When you are poised to [[MV_Strike|Strike]] at a foe while submerged, you may roll +shadow.
+> - [ ] When you are poised to [[SF_CH3_Strike|Strike]] at a foe while submerged, you may roll +shadow.
 > 	If you do, choose one (before rolling).
 > 	- _Strike true:_ Reroll any dice.
 > 	- _Strike hard:_ Mark progress on **a hit.** 
-> 		On a **strong hit with a match,** you also remain undetected; take +2 momentum and add +1 on your next [[MV_Strike|Strike]]. ^Ability3
+> 		On a **strong hit with a match,** you also remain undetected; take +2 momentum and add +1 on your next [[SF_CH3_Strike|Strike]]. ^Ability3
 ___
 ## Tags
 

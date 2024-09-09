@@ -78,7 +78,7 @@
 | Undertake an Expedition | [[#UNDERTAKE AN EXPEDITION\|242]] | 169 |
 | Withstand Damage | [[#WITHSTAND DAMAGE\|247]] | 206 |
 
-_Sundered Isles_ moves [anchor] use minor wording changes to better fit the setting assumptions, but mostly function identically to their _Starforged_ [8-point-star] counterparts. For details on making moves, see [[_Moves Index|Chapter 3 (page 136)]] of the _Starforged_ rulebook, or check the summary for a specific move using the _Starforged_ rulebook page references in the table above.
+_Sundered Isles_ moves [anchor] use minor wording changes to better fit the setting assumptions, but mostly function identically to their _Starforged_ [8-point-star] counterparts. For details on making moves, see [[_SF_CH3_Gameplay In Depth|Chapter 3 (page 136)]] of the _Starforged_ rulebook, or check the summary for a specific move using the _Starforged_ rulebook page references in the table above.
 
 *236 MOVES REFERENCE*
 

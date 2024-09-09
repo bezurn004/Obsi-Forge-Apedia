@@ -72,7 +72,7 @@ ___
 > > _InsertMovesHere_ (probably all action rolls ^Ability2
 ___
 > [!todo] Ability 3
-> - [ ] When you must [[MV_Withstand Damage|Withstand Damage]], you may (before or after rolling) mark this module as broken, and ignore all damage. ^Ability3
+> - [ ] When you must [[SF_CH3_Withstand Damage|Withstand Damage]], you may (before or after rolling) mark this module as broken, and ignore all damage. ^Ability3
 ___
 ## Tags
 

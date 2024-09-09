@@ -73,7 +73,7 @@ ___
 ___
 > [!todo] Ability 3
 > **Aspect:** The parrot squawks a warning when danger is near.
-> - [ ] When you [[MV_Face Danger|Face Danger]] to detect a threat, or if you [[MV_Enter the Fray|Enter The Fray]] against an ambush, add +its health. ^Ability3
+> - [ ] When you [[SF_CH3_Face Danger|Face Danger]] to detect a threat, or if you [[SF_CH3_Enter the Fray|Enter The Fray]] against an ambush, add +its health. ^Ability3
 ___
 ## Tags
 

@@ -60,16 +60,16 @@ ConditionLabels: Broken
 > > - [ ] Broken ^Header
 ___
 > [!note] Ability 1
-> - [x] When you [[MV_Undertake an Expedition|Undertake an Expedition]] (+edge) and score a strong hit, take +1 momentum; 
+> - [x] When you [[SF_CH3_Undertake an Expedition|Undertake an Expedition]] (+edge) and score a strong hit, take +1 momentum; 
 > - On a strong hit with a 6 on your action die, take +2 momentum instead of +1.  ^Ability1
 ___
 > [!info] Ability 2
-> - [ ] When you [[MV_Enter the Fray|Enter The Fray]] choose one (before rolling).
+> - [ ] When you [[SF_CH3_Enter the Fray|Enter The Fray]] choose one (before rolling).
 > 	- Maneuver: Add +1 and on a strong hit take +1 momentum.
 > 	- Boost: On a hit take +2 momentum. ^Ability2
 ___
 > [!todo] Ability 3
-> - [ ] When you make a desperate move to pursue a foe, escape a threat, or get in range, you may push your engines to their limit. If you do (decide after rolling), reroll any dice and count a weak hit as a strong hit. Then, [[MV_Withstand Damage|Withstand Damage]] (-2). #ambiguous %%Need to determine applicable moves%% ^Ability3
+> - [ ] When you make a desperate move to pursue a foe, escape a threat, or get in range, you may push your engines to their limit. If you do (decide after rolling), reroll any dice and count a weak hit as a strong hit. Then, [[SF_CH3_Withstand Damage|Withstand Damage]] (-2). #ambiguous %%Need to determine applicable moves%% ^Ability3
 ___
 
 ## Tags

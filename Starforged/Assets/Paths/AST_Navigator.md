@@ -57,7 +57,7 @@ ConditionLabels:
 > [!mechanics]- [[AST_Navigator|Navigator (asset)]] ^Header
 ___
 > [!note] Ability 1
-> - [x] When you [[MV_Set a Course|Set a Course]];
+> - [x] When you [[SF_CH3_Set a Course|Set a Course]];
 > 	- Choose one...
 > 		- Follow the fastest path: On a strong hit take +2 momentum.
 > 		- Follow the safest path: Add +1. 
@@ -65,14 +65,14 @@ ___
 ___
 > [!info] Ability 2
 > - [ ] When you...
-> 	- [[MV_Secure an Advantage|Secure an Advantage]] by charting the way forward,
-> 	- [[MV_Face Danger|Face Danger]] to find a path around a hazard,
-> 	- [[MV_Gather Information|Gather Information]] about a location by studying your charts,
+> 	- [[SF_CH3_Secure an Advantage|Secure an Advantage]] by charting the way forward,
+> 	- [[SF_CH3_Face Danger|Face Danger]] to find a path around a hazard,
+> 	- [[SF_CH3_Gather Information|Gather Information]] about a location by studying your charts,
 > - Add +1.
 > 	- On a hit take +1 momentum. ^Ability2
 ___
 > [!todo] Ability 3
-> - [ ] Once per expedition, when you or an ally [[MV_Undertake an Expedition|Undertake an Expedition]] and score a weak hit or miss, you may ignore that result, plot an alternate path, and make it an automatic strong hit.
+> - [ ] Once per expedition, when you or an ally [[SF_CH3_Undertake an Expedition|Undertake an Expedition]] and score a weak hit or miss, you may ignore that result, plot an alternate path, and make it an automatic strong hit.
 > > [!warning] Plot Alternate Path
 > > - [x] Available ^Ability3
 ___

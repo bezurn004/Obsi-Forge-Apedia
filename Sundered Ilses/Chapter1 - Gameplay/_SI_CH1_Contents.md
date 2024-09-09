@@ -11,12 +11,12 @@ PageType: "Adventure Amonth the Isles"
 PageCategory: Index
 PageOrder: 0
 ---
-# [[_Sundered Isles|Sundered Isles]]: Chapter 1 - Gameplay Guidelines
+# [[_Sundered Isles|SUNDERED ISLES]]
 > ## SECTION 1
 > # ADVENTURES AMONG THE ISLES
 
 ## Contents
-| Subject | Page |
+| | |
 | --- | :---: |
 | THE SETTING | [[SI_CH1_The Setting\|Page 6]] |
 | YOUR CHARACTER | [[SI_CH1_Your Characcter\|Page 10]] |
@@ -29,7 +29,8 @@ PageOrder: 0
 | INTERLUDES | [[SI_CH1_Interludes\|Page 46]] |
 | FACTIONS OF THE ISLES | [[SI_CH1_Factions of the Isles\|Page 48]] |
 | BEASTS OF THE ISLES | [[SI_CH1_Beasts of the Isles\|Page 56]] |
-*4 Adventures Among the Isles*
+
+*4 ADVENTURES AMONG THE ISLES*
 
 ## Tags
 

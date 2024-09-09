@@ -34,12 +34,12 @@ Maybe image here
 
 ## Stats
 | Edge | Heart | Iron | Shadow | Wits |
-| --- | --- | --- | --- | --- |
+| :---: | :---: | :---: | :---: | :---: |
 | `=this.Edge` | `=this.Heart` | `=this.Iron` | `=this.Shadow` | `=this.Wits` |
 
 ## Meters
 | Health | Spirit | Supply | Wealth | Momentum |
-| --- | --- | --- | --- | --- |
+| :---: | :---: | :---: | :---: | :---: |
 | `=this.Health` | `=this.Spirit` | `=this.Supply` | `=this.Wealth` | `=this.Momentum` |
 
 ## Impacts
@@ -51,7 +51,7 @@ Maybe image here
 
 ## Legacies
 | XP Earned | XP Spent |
-| --- | --- |
+| :---: | :---: |
 | `=this.Bonds_XPEarned+this.Discoveries_XPEarned+this.Quests_XPEarned` | `=this.XPSpent` |
 ### Bonds (Rolled Over? `=choice(this.Bonds_Progress > 40, "Yes", "No")`)
 ```dataview
@@ -74,5 +74,6 @@ TABLE Name, embed(link(meta(TrackImage).path, "150")) AS Progress
 FROM #incomplete WHERE file.name != "Progress_Template" 
 ```
 ## Assets
-Embed assets here like this:
-![[Assets/Path/Sniper]]
+> [!progress]- Starship [command vehicle]
+![[AST_Starship#^Header]]
+![[AST_Starship#^Ability1]]

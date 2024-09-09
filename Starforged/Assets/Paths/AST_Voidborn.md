@@ -59,17 +59,17 @@ ConditionLabels:
 ___
 > [!note] Ability 1
 > - [x] When you are in space (or a spacebound vehicle or station), increase your momentum reset by 1. 
-> - When you enter a planetside or high gravity environment, [[MV_Lose Momentum|Lose Momentum]] (-1). ^Ability1
+> - When you enter a planetside or high gravity environment, [[SF_CH3_Lose Momentum|Lose Momentum]] (-1). ^Ability1
 ___
 > [!info] Ability 2
-> - [ ] When you [[MV_Sojourn|Sojourn]] or [[MV_Make a Connection|Make a Connection]] within a spacebound community, add +1. 
-> 	- If you [[MV_Hearten|Hearten]] there and score a strong hit, take +1 spirit or +1 momentum. ^Ability2
+> - [ ] When you [[SF_CH3_Sojourn|Sojourn]] or [[SF_CH3_Make a Connection|Make a Connection]] within a spacebound community, add +1. 
+> 	- If you [[SF_CH3_Hearten|Hearten]] there and score a strong hit, take +1 spirit or +1 momentum. ^Ability2
 ___
 > [!todo] Ability 3
 > - [ ] When you make a move to perform an agile physical maneuver (such as leaping or evading) in a low gravity environment, add +1 and take +1 momentum on a hit. 
 > 	- On a strong hit with a match, you build speed or put yourself in perfect position; take another +1 momentum.
 > > [!faq]- Possible Moves
-> > [[MV_Face Danger|Face Danger (move)]] - [[MV_Secure an Advantage|Secure an Advantage (move)]] - [[MV_Gain Ground|Gain Ground (move)]] - [[MV_React Under Fire|React Under Fire (move)]] ^Ability3
+> > [[SF_CH3_Face Danger|Face Danger (move)]] - [[SF_CH3_Secure an Advantage|Secure an Advantage (move)]] - [[SF_CH3_Gain Ground|Gain Ground (move)]] - [[SF_CH3_React Under Fire|React Under Fire (move)]] ^Ability3
 ___
 
 ## Tags

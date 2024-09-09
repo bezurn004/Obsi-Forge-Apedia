@@ -23,13 +23,13 @@ OracleDescriptor: "Against all odds, life finds a way. Even in the emptiness of
 # [[_STRSM Oracles Index|Starsmith Oracles]] - [[_STRSM_OCL_Planet Oracles|Planets]]: Vital
 Against all odds, life finds a way. Even in the emptiness of space, tiny pockets of hope can be found, and this planet offers that. Liquid water exists here which has given a chance for both flora and fauna to flourish. If you can’t find exactly what you need here, you can at least find a moment of respite
 
-![[OCL_Planet-Vital#Oracle Vital Atmosphere]]
+![[SF_CH5_Planet-Vital#Oracle Vital Atmosphere]]
 
-![[OCL_Planet-Vital#Oracle Vital Settlements]]
+![[SF_CH5_Planet-Vital#Oracle Vital Settlements]]
 
-![[OCL_Planet-Vital#Oracle Vital Diversity]]
+![[SF_CH5_Planet-Vital#Oracle Vital Diversity]]
 
-![[OCL_Planet-Vital#Oracle Vital Biomes {Diversity}]]
+![[SF_CH5_Planet-Vital#Oracle Vital Biomes {Diversity}]]
 
 ## Oracle: Vital Quick Fauna
 > [!mechanics]- | Roll > %%GetDice%% | Guidance
@@ -389,7 +389,7 @@ Against all odds, life finds a way. Even in the emptiness of space, tiny pockets
 | 99-100 | ▶[[STRSM_OCL_Vault-Creation#Oracle Precursor Vault Outer First Look\|Precursor Vault]] (planetside) | ▶[[STRSM_OCL_Vault-Creation#Oracle Precursor Vault Outer First Look\|Precursor Vault]] (planetside) | ▶[[STRSM_OCL_Vault-Creation#Oracle Precursor Vault Outer First Look\|Precursor Vault]] (planetside) |
 ^table-PlanetsideFeature
 
-![[OCL_Planet-Vital#Oracle Vital Life]]
+![[SF_CH5_Planet-Vital#Oracle Vital Life]]
 
 ## Oracle: Vital Sample Names
 > [!mechanics]- | Roll > %%GetDice%% | Guidance

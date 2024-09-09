@@ -69,7 +69,7 @@ ___
 > [!note] Ability 1
 > - [x] When you make a move with the tractor beam, take +1 momentum on a hit.
 > > [!faq]- Possible Moves
-> > [[MV_Face Danger|Face Danger (move)]] - [[MV_Secure an Advantage|Secure an Advantage (move)]] ^Ability1
+> > [[SF_CH3_Face Danger|Face Danger (move)]] - [[SF_CH3_Secure an Advantage|Secure an Advantage (move)]] ^Ability1
 ___
 > [!info] Ability 2
 > - [ ] As above, but add +1 to the move as the beam splits into several smaller beams for finer manipulation of smaller objects. ^Ability2
@@ -77,8 +77,8 @@ ___
 > [!todo] Ability 3
 > - [ ] When you take a minute or so to invert the polarity of your tractor beam and charge it, roll +integrity or +wits.
 > - On a hit, the beam is reversed and charged, and it may be released in a single blast.
-> - On a weak hit, as above, but it takes time. [[MV_Lose Momentum|Lose Momentum]] (-1).
-> - On a miss, the charge fails and you must [[MV_Withstand Damage|Withstand Damage (move)]] (-2). #ConvertAbilityToMove 
+> - On a weak hit, as above, but it takes time. [[SF_CH3_Lose Momentum|Lose Momentum]] (-1).
+> - On a miss, the charge fails and you must [[SF_CH3_Withstand Damage|Withstand Damage (move)]] (-2). #ConvertAbilityToMove 
 > If you make a move to push a foe or obstacle away by releasing the charge, take an automatic strong hit.
 > > [!warning] Polarity Charged | <input type="checkbox" /> ^Ability3
 ___

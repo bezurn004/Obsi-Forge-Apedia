@@ -60,18 +60,18 @@ ConditionLabels: Broken
 > > - [ ] Broken ^Header
 ___
 > [!note] Ability 1
-> - [x] When you [[MV_Repair|Repair]] a battered support vehicle, spend 1 repair point (instead of 2). ^Ability1
+> - [x] When you [[SF_CH3_Repair|Repair]] a battered support vehicle, spend 1 repair point (instead of 2). ^Ability1
 ___
 > [!info] Ability 2
-> - [ ] When a support vehicle is destroyed, and you are able to retrieve its wreckage, you may [[MV_Ask the Oracle|Ask the Oracle]]  using the yes/no table if something can be salvaged from the mess. Make it 50/50. 
+> - [ ] When a support vehicle is destroyed, and you are able to retrieve its wreckage, you may [[SF_CH3_Ask the Oracle|Ask the Oracle]]  using the yes/no table if something can be salvaged from the mess. Make it 50/50. 
 > 	- On a yes, spend 1 experience to restore the support vehicle asset with all previously marked abilities.
-> 	- Until you [[MV_Repair|Repair]] and bring it back to full working order, the vehicle is battered with 0 integrity. ^Ability2
+> 	- Until you [[SF_CH3_Repair|Repair]] and bring it back to full working order, the vehicle is battered with 0 integrity. ^Ability2
 ___
 > [!todo] Ability 3
 > - [ ] When you make a move to launch from or land on your command vehicle in a perilous situation or environment, reroll any dice.
 > 	- On a hit take +1 momentum.
 > > [!faq]- Possible Moves
-> > [[MV_Face Danger|Face Danger (move)]] - [[MV_Gain Ground|Gain Ground (move)]] - [[MV_React Under Fire|React Under Fire (move)]] ^Ability3
+> > [[SF_CH3_Face Danger|Face Danger (move)]] - [[SF_CH3_Gain Ground|Gain Ground (move)]] - [[SF_CH3_React Under Fire|React Under Fire (move)]] ^Ability3
 ___
 
 ## Tags

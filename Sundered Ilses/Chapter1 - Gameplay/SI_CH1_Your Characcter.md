@@ -6,7 +6,7 @@ SourceLink:
 
 ## Page
 aliases: 
-  - "Your Character (Sundered Isles Gameplay)"
+  - "Your Character (SI Gameplay)"
 PageType: "Adventure Amonth the Isles"
 PageCategory: "Your Character"
 PageOrder: 2
@@ -174,6 +174,8 @@ The curated deck is a recommendation, not a mandate. Adjust as you like. Be mind
 | [[AST_Undead\|UNDEAD]] | Deed | 1 |  | 3 | 4 |  |
 | [[AST_Vanguard\|VANGUARD]] | Deed |  | 2 | 3 |  |  |
 
+*14 ADVENTURES AMONG THE ISLES*
+
 ### ASSEMBLING YOUR ASSET DECK
 Recommended assets shown here include a curated mix of assets drawn from _Starforged_ without content changes (2), and new options for the fantasy seafaring setting (1).
 
@@ -200,7 +202,7 @@ Print-and-play versions of asset cards are available at ironswornrpg.com. Prepri
 
 | Previous Page | Tags | Next Page |
 | :--- | :---: | ---: |
-| **[[SI_CH1_The Setting\|The Setting]]** | #SunderedIsles/Gameplay| **[[SI_CH1_Your Ship\|Your Ship]]** |
+| **[[SI_CH1_The Setting\|The Setting (SI Gameplay)]]** | #SunderedIsles/Gameplay| **[[SI_CH1_Your Ship\|Your Ship (SI Gameplay)]]** |
 
 
 <font size=-2>Copyright ©2024 Shawn Tomkin. The text of this work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license. For license details, visit ironswornrpg.com. Updated June 2024 MUH051V200-PDF</font>

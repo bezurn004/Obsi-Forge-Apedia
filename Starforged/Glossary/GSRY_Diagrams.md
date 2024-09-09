@@ -97,7 +97,7 @@
 > 	- Then, as you make a single move fueled by your powers, take an automatic strong hit.
 > 	- If you are in a fight, mark progress
 > > [!faq]- Possible Moves
-> > [[MV_Aid Your Ally|Aid Your Ally (move)]] - [[MV_Compel|Compel (move)]] - [[MV_Face Danger|Face Danger (move)]] - [[MV_Secure an Advantage|Secure an Advantage (move)]] - [[MV_Clash|Clash (move)]] - [[MV_Gain Ground|Gain Ground (move)]] - [[MV_React Under Fire|React Under Fire (move)]] - [[MV_Strike|Strike (move)]] - [[MV_Take Decisive Action|Take Decisive Action (move)]]
+> > [[SF_CH3_Aid Your Ally|Aid Your Ally (move)]] - [[SF_CH3_Compel|Compel (move)]] - [[SF_CH3_Face Danger|Face Danger (move)]] - [[SF_CH3_Secure an Advantage|Secure an Advantage (move)]] - [[SF_CH3_Clash|Clash (move)]] - [[SF_CH3_Gain Ground|Gain Ground (move)]] - [[SF_CH3_React Under Fire|React Under Fire (move)]] - [[SF_CH3_Strike|Strike (move)]] - [[SF_CH3_Take Decisive Action|Take Decisive Action (move)]]
 ^assets-kinetic-ability3
 
 | Oracle Dice |  | Oracle Result |
@@ -269,3 +269,20 @@ flowchart TD
 	style 3 stroke:#00aa88,stroke-width:4px
 ```
 
+
+|  | Protect Redhaven from the Raiders |
+| --- | --- |
+| 1) | Find weapons for the farmers |
+| 2) | Teach the farmers to fight |
+| 3) | Prepare fortifications |
+| 4) | Spy on the raiders to learn their plans |
+| 5) | Repel the raider attack |
+| 6) | Defeat the raider leader |
+|  | Profit??? | ^diagram-quest-moves-1
+
+
+**Troublesome** ![[hex-checkedG.svg\|20]] ![[hex-uncheckedG.svg\|20]] ![[hex-uncheckedG.svg\|20]] ![[hex-uncheckedG.svg\|20]] ![[hex-uncheckedG.svg\|20]] |
+| <font size=4> **Dangerous** </font> | ![[hex-checkedG.svg\|20]] ![[hex-checkedG.svg\|20]] ![[hex-uncheckedG.svg\|20]] ![[hex-uncheckedG.svg\|20]] ![[hex-uncheckedG.svg\|20]] |
+| <font size=4> **Formidable** </font> | ![[hex-checkedG.svg\|20]] ![[hex-checkedG.svg\|20]] ![[hex-checkedG.svg\|20]] ![[hex-uncheckedG.svg\|20]] ![[hex-uncheckedG.svg\|20]] |
+| <font size=4> **Extreme** </font> | ![[hex-checkedG.svg\|20]] ![[hex-checkedG.svg\|20]] ![[hex-checkedG.svg\|20]] ![[hex-checkedG.svg\|20]] ![[hex-uncheckedG.svg\|20]] |
+| <font size=4> **Epic** </font> | ![[hex-checkedG.svg\|20]] ![[hex-checkedG.svg\|20]] ![[hex-checkedG.svg\|20]] ![[hex-checkedG.svg\|20]] ![[hex-checkedG.svg\|20]] |

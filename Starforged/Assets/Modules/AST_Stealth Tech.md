@@ -61,16 +61,16 @@ ConditionLabels: Broken
 ___
 > [!note] Ability 1
 > - [x] When you make a move against a specific foe or threat to avoid detection, add +1. 
-> - If you [[MV_Enter the Fray|Enter The Fray]] by ambushing an unaware foe, add +1.
+> - If you [[SF_CH3_Enter the Fray|Enter The Fray]] by ambushing an unaware foe, add +1.
 > 	- On a strong hit mark progress.
 > > [!faq]- Possible Moves
-> > [[MV_Face Danger|Face Danger (move)]] - [[MV_Secure an Advantage|Secure an Advantage (move)]] - [[MV_Gain Ground|Gain Ground (move)]] - [[MV_React Under Fire|React Under Fire (move)]] ^Ability1
+> > [[SF_CH3_Face Danger|Face Danger (move)]] - [[SF_CH3_Secure an Advantage|Secure an Advantage (move)]] - [[SF_CH3_Gain Ground|Gain Ground (move)]] - [[SF_CH3_React Under Fire|React Under Fire (move)]] ^Ability1
 ___
 > [!info] Ability 2
-> - [ ] When you travel stealthily as you [[MV_Undertake an Expedition|Undertake an Expedition]] (+shadow), you may reroll your action die. ^Ability2
+> - [ ] When you travel stealthily as you [[SF_CH3_Undertake an Expedition|Undertake an Expedition]] (+shadow), you may reroll your action die. ^Ability2
 ___
 > [!todo] Ability 3
-> - [ ] When you are poised to [[MV_Strike|Strike]] from hiding, you may roll +shadow. If you do, choose one (before rolling).
+> - [ ] When you are poised to [[SF_CH3_Strike|Strike]] from hiding, you may roll +shadow. If you do, choose one (before rolling).
 > 		- Strike true: Reroll any dice.
 > 		- Strike hard: Mark progress on a hit. 
 > 	- On a strong hit with a match, you also remain totally undetected; take +2 momentum and add +1 on your next [MV_Strike|Strike (move)]. ^Ability3

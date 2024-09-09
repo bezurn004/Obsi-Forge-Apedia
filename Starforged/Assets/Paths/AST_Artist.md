@@ -58,13 +58,13 @@ ___
 > - [x] When you make a move to craft an artistic work, present an artistic gift or performance, or leave your artistic mark on an item or location, you may reroll your action die if its value is less than your spirit.
 > 	- On a strong hit, take +1 momentum or +1 spirit. 
 > > [!faq]- Possible moves
-> > [[MV_Resupply|Resupply (+wits)]] - [[MV_Secure an Advantage|Secure an Advantage (+wits]] - [[MV_Compel|Compel (+heart]] - [[MV_Develop a Relationship|Develop a Relationship (sharing a profound moment, giving them something of worth)]] ^Ability1
+> > [[SF_CH3_Resupply|Resupply (+wits)]] - [[SF_CH3_Secure an Advantage|Secure an Advantage (+wits]] - [[SF_CH3_Compel|Compel (+heart]] - [[SF_CH3_Develop a Relationship|Develop a Relationship (sharing a profound moment, giving them something of worth)]] ^Ability1
 ___
 > [!info] Ability 2
-> - [ ] When you [[MV_Gather Information|Gather Information]] or [[MV_Secure an Advantage|Secure an Advantage]] by studying the aesthetics of a being or culture, add +2. ^Ability2
+> - [ ] When you [[SF_CH3_Gather Information|Gather Information]] or [[SF_CH3_Secure an Advantage|Secure an Advantage]] by studying the aesthetics of a being or culture, add +2. ^Ability2
 ___
 > [!todo] Ability 3
-> - [ ] When you create or perform a significant artistic work as a public memorial or tribute, make the move [[MV_Commemorate|Commemorate]] or another move suitable to creating this artwork. ^Ability3
+> - [ ] When you create or perform a significant artistic work as a public memorial or tribute, make the move [[SF_CH3_Commemorate|Commemorate]] or another move suitable to creating this artwork. ^Ability3
 ___
 
 ## Tags

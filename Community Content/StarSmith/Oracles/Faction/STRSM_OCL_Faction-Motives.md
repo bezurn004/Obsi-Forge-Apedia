@@ -22,7 +22,7 @@ OracleDescriptor: "A Faction's broad generalization of their Projects and Quirks
 A Faction's broad generalization of their Projects and Quirks gleans insight onto their collective motives.
 
 ## Oracle: Faction Projects
-This oracle can be used to replace the one provided on [[OCL_Faction-Motives#Oracle Faction Projects|Faction Projects Oracle]].
+This oracle can be used to replace the one provided on [[SF_CH5_Faction-Motives#Oracle Faction Projects|Faction Projects Oracle]].
 
 > [!mechanics]- | Roll > %%GetDice%% | Guidance
 > This tells what the faction has been working on lately. ^guidance-STRSM-OCL-OclFactionProjects
@@ -65,7 +65,7 @@ This oracle can be used to replace the one provided on [[OCL_Faction-Motives#Ora
 ^table-STRSM-OCL-OclFactionProjects
 
 ## Oracle: Faction Quriks
-This oracle can be used to replace the one provided on [[OCL_Faction-Motives#Oracle Faction Quirks|Faction Quirks Oracle]].
+This oracle can be used to replace the one provided on [[SF_CH5_Faction-Motives#Oracle Faction Quirks|Faction Quirks Oracle]].
 
 > [!mechanics]- | Roll > %%GetDice%% | Guidance
 > This is some notable behavior that the faction partakes in. ^guidance-STRSM-OCL-OclFactionQuirks
