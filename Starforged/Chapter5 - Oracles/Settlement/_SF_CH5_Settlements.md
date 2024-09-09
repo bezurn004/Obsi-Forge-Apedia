@@ -6,7 +6,7 @@ SourceLink:
 
 ## Page
 aliases:
-  - "Settlements Oracle"
+  - "Settlements (SF Oracles)"
 PageType: Oracle
 PageCategory: SettlementIndex
 PageOrder: 0
@@ -17,14 +17,14 @@ Listed are the Oracles used to generate settlements during your travels through 
 ## [[SF_CH5_Settle-Creation|Settlement Creation Oracle]]
 To begin creating a settlement from scratch, start with this page which contains the **Location** a settlement and its rough **Population** based its region in the Forge. If you are generating a settlement as a prompt from another Oracle or source, you may already know one or both of these questions.
 
-## [[SF_CH5_Settle-Name|Settlement Name Oracle]]
-Once a location and rough population are chosen, give the settlement a **Name**. Optionally, add a **Name Tag** to enhance the meaning for the settlement.
-
 ## [[SF_CH5_Settle_Approach|Settlement Approach Oracle]]
 After the settlement is created, generally you can stop there. Only when you begin to interact directly or indirectly slowly introduce new aspects of the settlement. As you learn about its **First Look**, your **Initial Contact ** as you approach, and the ruling **Authority** of the settlement.
 
-## [[SF_CH5_Settle-Concerns|Settlement Councerns Oracle]]
+## [[SF_CH5_Settle-Concerns|Settlement Concerns Oracle]]
 As you spend more time with a settlement and get involved with its populace, start to get an idea of their concerns. These are the **Projects** they undertake to sustain themselves and the lurking **Troubles** that arise from life in the perilous Forge.
+
+## [[SF_CH5_Settle-Name|Settlement Name Oracle]]
+Once a location and initial nature of a settlement is chosen, give the settlement a **Name**. Optionally, add a **Name Tag** to enhance the meaning for the settlement.
 
 ## Settlement Oracles
 

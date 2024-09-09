@@ -6,11 +6,11 @@ SourceLink:
 
 ## Page
 aliases:
-  - "Settlement Name Oracle"
-  - "Settlement Name Tag Oracle"
+  - "Settlement Name (SF Oracles)"
+  - "Settlement Name Tag (SF Oracles)"
 PageType: Oracle
 PageCategory: Settlement
-PageOrder: 2
+PageOrder: 4
 
 ## Oracle
 Oracle: Settlement
@@ -21,10 +21,10 @@ OracleDescriptor: "After creating an settlement give it a Name. Optionally use t
  After creating an settlement give it a **Name**. Optionally use the **Name Tag** to provide the location a history and purpose.
 
 ## Oracle: Settlement Name
-> [!mechanics]- | Roll > %%GetDice%% | Guidance
+> [!mechanics]- | Roll > `dice: [[SF_CH5_Settle-Name#^table-OclSettlementNames]]` | Guidance
 > Choose a name appropriate to the nature of the settlement, or roll for a random result. Optionally pair this name with the [[SF_CH5_Settle-Name#Oracle Settlement Name Tag|Name Tag Oracle]]. ^guidance-OclSettlementNames
 
-| 1d100 | Result |
+| dice: 1d100 | Result |
 |:---:|:--- |
 | 1 | Aegis |
 | 2 | Altair |
@@ -32,7 +32,7 @@ OracleDescriptor: "After creating an settlement give it a Name. Optionally use t
 | 4 | Amity |
 | 5 | Apex |
 | 6 | Apogee |
-| 7[](SF_CH5_Settle-Name.md#Oracle%20Settlement%20Name%20Tag)| Brink |
+| 7 | Brink |
 | 12 | Bulwark |
 | 13 | Burnell |
 | 14 | Burrow |
@@ -125,10 +125,10 @@ OracleDescriptor: "After creating an settlement give it a Name. Optionally use t
 ^table-OclSettlementNames
 
 ## Oracle: Settlement Name Tag
-> [!mechanics]- | Roll > %%GetDice%% | Guidance
+> [!mechanics]- | Roll > `dice: [[SF_CH5_Settle-Name#^table-OclSettlementNameTag]]` | Guidance
 > If you choose, add a tag prefix or suffix to a settlement to give the location a history and purpose. ^guidance-OclSettlementNameTag
 
-| 1d100 | Result |
+| dice: 1d100 | Result |
 |:---:|:--- |
 | 1-10 | Base |
 | 11-20 | Citadel |
@@ -142,9 +142,11 @@ OracleDescriptor: "After creating an settlement give it a Name. Optionally use t
 | 91-100 | Terminal |
 ^table-OclSettlementNameTag
 
+*325 SETTLEMENTS*
+
 ## Tags
 | Previous Page | Tags | Next Page |
 |:--- |:---:| ---:|
-| **[[SF_CH5_Settle-Creation\|Settlement Creation Oracle]]** | #Starforged/Oracles/Settlements | **[[SF_CH5_Settle_Approach\|Settlement Approach Oracle]]** |
+| **[[SF_CH5_Settle-Concerns\|Settlement Concerns (SF Oracles)]]** | #Starforged/Oracles/Settlements | **[[_SF_CH5_Starships\|Starship (SF Oracles)]]** |
 
 <font size=-2>This work is based on Ironsworn: Starforged (found at [www.ironswornrpg.com](http://www.ironswornrpg.com)), created by Shawn Tomkin, and licensed for our use under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license  (creativecommons.org/licenses/by-nc-sa/4.0/).</font>

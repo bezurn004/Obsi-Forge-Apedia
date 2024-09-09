@@ -26,7 +26,7 @@ Introduce a feature at a waypoint as you explore outer space through the Forge.
 > [!mechanics]- | Roll > `dice: [[SF_CH5_Space-Sightings#^table-OclSpaceSighting-Terminus]]` | Guidance
 > Use the Space Sightings oracle to introduce a location or encounter on a spaceborne expedition. For example, roll on this table when you [[SF_CH3_Ask the Oracle|Ask the Oracle (move)]] to envision the primary feature of a waypoint as you [[SF_CH3_Undertake an Expedition|Undertake an Expedition (move)]]. ^guidance-OclSpaceSighting-Terminus
 
-| 1d100 | Result |
+| dice: 1d100 | Result |
 |:---:|:--- |
 | 1 - 15 | ▶[[SF_CH5_Stellar-Object#Oracle Stellar Object\|Stellar Object]] |
 | 16 - 35 | ▶[[_SF_CH5_Planets#Planetary Class - Rollabel\|Planet]] |
@@ -55,7 +55,7 @@ Introduce a feature at a waypoint as you explore outer space through the Forge.
 > [!mechanics]- | Roll > `dice: [[SF_CH5_Space-Sightings#^table-OclSpaceSighting-Outlands]]` | Guidance
 > Use the Space Sightings oracle to introduce a location or encounter on a spaceborne expedition. For example, roll on this table when you [[SF_CH3_Ask the Oracle|Ask the Oracle (move)]] to envision the primary feature of a waypoint as you [[SF_CH3_Undertake an Expedition|Undertake an Expedition (move)]]. ^guidance-OclSpaceSighting-Outlands
 
-| 1d100 | Result |
+| dice: 1d100 | Result |
 |:---:|:--- |
 | 1 - 15 | ▶[[SF_CH5_Stellar-Object#Oracle Stellar Object\|Stellar Object]] |
 | 16 - 35 | ▶[[_SF_CH5_Planets#Planetary Class - Rollabel\|Planet]] |
@@ -84,7 +84,7 @@ Introduce a feature at a waypoint as you explore outer space through the Forge.
 > [!mechanics]- | Roll > `dice: [[SF_CH5_Space-Sightings#^table-OclSpaceSighting-Expanse]]` | Guidance
 > Use the Space Sightings oracle to introduce a location or encounter on a spaceborne expedition. For example, roll on this table when you [[SF_CH3_Ask the Oracle|Ask the Oracle (move)]] to envision the primary feature of a waypoint as you [[SF_CH3_Undertake an Expedition|Undertake an Expedition (move)]]. ^guidance-OclSpaceSighting-Expanse
 
-| 1d100 | Result |
+| dice: 1d100 | Result |
 |:---:|:--- |
 | 1 - 15 | ▶[[SF_CH5_Stellar-Object#Oracle Stellar Object\|Stellar Object]] |
 | 16 - 35 | ▶[[_SF_CH5_Planets#Planetary Class - Rollabel\|Planet]] |

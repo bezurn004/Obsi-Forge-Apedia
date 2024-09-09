@@ -79,7 +79,7 @@ Planets are big. These oracles help set the stage, but won’t provide the momen
 *307 PLANETS*
 
 ## Oracle: Planet Names (All)
-> [!mechanics]- | Roll > %%GetDice%% | Guidance
+> [!mechanics]- | Roll > `dice: 1d100` | Guidance
 > Below is combined oracle of all planet names. Use this to have a wider variety of names irrespective of planetary class. ^guidance-OclPlanetNames-All
 
 | 1d100 | Desert | Furnace | Grave | Ice | Jovian | Jungle | Ocean | Rocky | Shattered | Tainted | Vital |

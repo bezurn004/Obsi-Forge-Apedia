@@ -132,7 +132,7 @@ Volcanic ruptures dot the surface of this planet allowing lava, ash and gas to e
 ^table-Life
 
 ## Oracle: Furnace Sample Names
-> [!mechanics]- | Roll > `dice: [[SF_CH5_Planet-Furnace#^table-Names]] | Guidance
+> [!mechanics]- | Roll > `dice: [[SF_CH5_Planet-Furnace#^table-Names]]` | Guidance
 > Sample names that are suited to this planet type. Feel free to mix and match or create your own. ^guidance-Names
 
 | dice: 1d100 | Result |

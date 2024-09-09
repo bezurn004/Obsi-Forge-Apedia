@@ -96,6 +96,8 @@ Against all odds, life finds a way. Even in the emptiness of space, tiny pocket
 | 99 - 100 | ▶[[SF_CH5_Vault-Exterior#Oracle Precursor Vault Outer First Look\|Precursor Vault (orbital)]] |
 ^table-ObservedFromSpace
 
+*318 CHAPTER 5: ORACLES*
+
 ## Oracle: Vital Diversity
 > [!mechanics]- | Roll > `dice: [[SF_CH5_Planet-Vital#^table-Diversity]]` | Guidance
 > Based on the level of diversity for this world, roll that number of times on the biomes table on the [[SF_CH5_Planet-Vital#Oracle Biomes|Biomes Oracle]]. ^guidance-Diversity
@@ -199,7 +201,6 @@ Against all odds, life finds a way. Even in the emptiness of space, tiny pocket
 | 96 - 100 | Valinor |
 ^table-Names
 
-*318 CHAPTER 5: ORACLES*
 *319 PLANETS*
 
 ## Tags

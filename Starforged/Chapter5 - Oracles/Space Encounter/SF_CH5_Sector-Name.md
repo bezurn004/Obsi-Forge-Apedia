@@ -80,7 +80,7 @@ When creating or learning about a new sector, generate a name with the prefix an
 ^table-OclSectorName-Prefix
 
 ## Oracle: Sector Name Suffix
-> [!mechanics]- | Roll > `dice: [[SF_CH5_Sector-Name#^table-OclSectorName-Suffix]] | Guidance
+> [!mechanics]- | Roll > `dice: [[SF_CH5_Sector-Name#^table-OclSectorName-Suffix]]` | Guidance
 > To generate a name for a sector or region of space, roll once for the prefix (the first word), and once for the suffix (the second word). Or just roll once, and choose a suitable prefix and suffix from anywhere in that row. ^guidance-OclSectorName-Suffix
 
 | dice: 1d100 | Result |
@@ -138,7 +138,7 @@ When creating or learning about a new sector, generate a name with the prefix an
 ^table-OclSectorName-Suffix
 
 ## Oracle: Sector Name Prefix and Suffix
-> [!mechanics]- | Roll > `dice: INSERT` | Guidance
+> [!mechanics]- Roll > `dice: 1d50` | Guidance
 > To generate a name for a sector or region of space, roll once for the prefix (the first word), and once for the suffix (the second word). Or just roll once, and choose a suitable prefix and suffix from anywhere in that row. ^guidance-OclSectorName-Combined
 
 | Row | 1d50 | Prefix | Suffix |

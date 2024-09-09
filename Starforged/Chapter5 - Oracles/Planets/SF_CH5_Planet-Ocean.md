@@ -31,7 +31,7 @@ Ocean worlds may be an endless sea of water, but some are made up of other thala
 
 | dice: 1d100 | Result |
 |:---:|:--- |
-| 1 - 5 None / thin |
+| 1 - 5 | None / thin |
 | 6 - 20 | Toxic |
 | 21 - 25 | Corrosive |
 | 26 - 60 | Marginal |
