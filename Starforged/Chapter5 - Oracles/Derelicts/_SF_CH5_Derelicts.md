@@ -6,7 +6,7 @@ SourceLink:
 
 ## Page
 aliases:
-  - "Derelicts Oracle"
+  - "Derelicts (SF Oracles)"
 PageType: Oracle
 PageCategory: Index
 PageOrder: 0
@@ -54,6 +54,6 @@ SORT PageOrder, asc
 ## Tags
 | Previous Section | Tags | Next Section | 
 | :--- | :---: | ---: |
-| **[[_SF_CH5_Factions\|Factions Oracle]]** | #Starforged/Oracles/Derelicts | **[[_SF_CH5_PrecursorVaults\|Precursor Vaults Oracle]]** |
+| **[[_SF_CH5_Factions\|Factions (SF Oracles)]]** | #Starforged/Oracles/Derelicts | **[[_SF_CH5_PrecursorVaults\|Precursor Vaults (SF Oracles)]]** |
 
 <font size=-2>This work is based on Ironsworn: Starforged (found at [www.ironswornrpg.com](http://www.ironswornrpg.com)), created by Shawn Tomkin, and licensed for our use under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license  (creativecommons.org/licenses/by-nc-sa/4.0/).</font>

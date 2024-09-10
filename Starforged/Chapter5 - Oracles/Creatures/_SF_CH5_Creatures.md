@@ -6,7 +6,7 @@ SourceLink:
 
 ## Page
 aliases:
-  - "Creatures Oracle"
+  - "Creatures (SF Oracles)"
 PageType: Oracle
 PageCategory: CreatureIndex
 PageOrder: 0
@@ -37,6 +37,6 @@ SORT SourceMaterial, asc
 ## Tags
 | Previous Section | Tags | Next Section | 
 | :--- | :---: | ---: |
-| **[[_SF_CH5_Characters\|Characters Oracle]]** | #Starforged/Oracles/Creatures | **[[_SF_CH5_Factions\|Factions Oracle]]** |
+| **[[_SF_CH5_Characters\|Characters (SF Oracles)]]** | #Starforged/Oracles/Creatures | **[[_SF_CH5_Factions\|Factions (SF Oracles)]]** |
 
 <font size=-2>This work is based on Ironsworn: Starforged (found at [www.ironswornrpg.com](http://www.ironswornrpg.com)), created by Shawn Tomkin, and licensed for our use under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license  (creativecommons.org/licenses/by-nc-sa/4.0/).</font>

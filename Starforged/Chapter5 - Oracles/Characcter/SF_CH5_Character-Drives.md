@@ -6,13 +6,13 @@ SourceLink:
 
 ## Page
 aliases:
-  - "Character Drives Oracle"
-  - "Character Role Oracle"
-  - "Character Goal Oracle"
-  - "Character Revealed Aspect Oracle"
+  - "Character Drives (SF Oracles)"
+  - "Character Role (SF Oracles)"
+  - "Character Goal (SF Oracles)"
+  - "Character Revealed Aspect (SF Oracles)"
 PageType: Oracle
 PageCategory: Character
-PageOrder: 3
+PageOrder: 2
 
 ## Oracle
 Oracle: Character
@@ -23,114 +23,114 @@ OracleDescriptor: "As more information is learned about a character use these or
 As more information is learned about a character use these oracles to flesh out their aspects.
 
 ## Oracle: Character Role
-> [!mechanics]- | Roll > %%GetDice%% | Guidance
-> Professions or occupation for a character. Generally this can be learned in simple conversations with an NPC that has some knowledge. However, some Role's may be more secretive, especially ones with illegal dealings. ^guidance-ISSF-Core1-0-OclCharacterRole
+> [!mechanics]- | Roll > `dice: [[SF_CH5_Character-Drives#^table-OclCharacterRole]]` | Guidance
+> Professions or occupation for a character. Generally this can be learned in simple conversations with an NPC that has some knowledge. However, some Role's may be more secretive, especially ones with illegal dealings. ^guidance-OclCharacterRole
 
-| 1d100 | Result |
+| dice: 1d100 | Result |
 |:---:|:--- |
-| 1-2 | Agent |
-| 3-4 | AI |
-| 5-6 | Artisan |
-| 7-8 | Assassin |
-| 9-10 | Bounty Hunter |
-| 11-12 | Courier |
-| 13-14 | Crew |
-| 15-16 | Criminal |
-| 17-18 | Cultist |
-| 19-20 | Diplomat |
-| 21-22 | Engineer |
-| 23-24 | Entertainer |
-| 25-26 | Explorer |
-| 27-28 | Farmer |
-| 29-30 | Fugitive |
-| 31-32 | Guard |
-| 33-34 | Guide |
-| 35-36 | Healer |
-| 37-38 | Historian |
-| 39-40 | Hunter |
-| 41-42 | Investigator |
-| 43-44 | Laborer |
-| 45-46 | Lawkeeper |
-| 47-48 | Leader |
-| 49-50 | Mercenary |
-| 51-52 | Merchant |
-| 53-54 | Miner |
-| 55-56 | Mystic |
-| 57-58 | Navigator |
-| 59-60 | Outcast |
-| 61-62 | Pilgrim |
-| 63-64 | Pilot |
-| 65-66 | Pirate |
-| 67-68 | Preacher |
-| 69-70 | Prophet |
-| 71-72 | Raider |
-| 73-74 | Researcher |
-| 75-76 | Scavenger |
-| 77-78 | Scholar |
-| 79-80 | Scout |
-| 81-82 | Shipwright |
-| 83-84 | Smuggler |
-| 85-86 | Soldier |
-| 87-88 | Spacer |
-| 89-90 | Technician |
-| 91-92 | Thief |
-| 93-95 | ▶[[SF_CH5_Core_Action-Theme#Oracle Action\|Action]] + [[SF_CH5_Core_Action-Theme#Oracle Theme\|Theme]] |
-| 96-100 | Roll Twice |
-^table-ISSF-Core1-0-OclCharacterRole
+| 1 - 2 | Agent |
+| 3 - 4 | AI |
+| 5 - 6 | Artisan |
+| 7 - 8 | Assassin |
+| 9 - 10 | Bounty Hunter |
+| 11 - 12 | Courier |
+| 13 - 14 | Crew |
+| 15 - 16 | Criminal |
+| 17 - 18 | Cultist |
+| 19 - 20 | Diplomat |
+| 21 - 22 | Engineer |
+| 23 - 24 | Entertainer |
+| 25 - 26 | Explorer |
+| 27 - 28 | Farmer |
+| 29 - 30 | Fugitive |
+| 31 - 32 | Guard |
+| 33 - 34 | Guide |
+| 35 - 36 | Healer |
+| 37 - 38 | Historian |
+| 39 - 40 | Hunter |
+| 41 - 42 | Investigator |
+| 43 - 44 | Laborer |
+| 45 - 46 | Lawkeeper |
+| 47 - 48 | Leader |
+| 49 - 50 | Mercenary |
+| 51 - 52 | Merchant |
+| 53 - 54 | Miner |
+| 55 - 56 | Mystic |
+| 57 - 58 | Navigator |
+| 59 - 60 | Outcast |
+| 61 - 62 | Pilgrim |
+| 63 - 64 | Pilot |
+| 65 - 66 | Pirate |
+| 67 - 68 | Preacher |
+| 69 - 70 | Prophet |
+| 71 - 72 | Raider |
+| 73 - 74 | Researcher |
+| 75 - 76 | Scavenger |
+| 77 - 78 | Scholar |
+| 79 - 80 | Scout |
+| 81 - 82 | Shipwright |
+| 83 - 84 | Smuggler |
+| 85 - 86 | Soldier |
+| 87 - 88 | Spacer |
+| 89 - 90 | Technician |
+| 91 - 92 | Thief |
+| 93 - 95 | ▶[[SF_CH5_Core_Action-Theme#Oracle Action\|Action]] + [[SF_CH5_Core_Action-Theme#Oracle Theme\|Theme]] |
+| 96 - 100 | Roll Twice |
+^table-OclCharacterRole
 
 ## Oracle: Character Goal
-> [!mechanics]- | Roll > %%GetDice%% | Guidance
-> Goals a character holds close to their heart, used to motivate their interactions through their interactions. ^guidance-ISSF-Core1-0-OclCharacterGoal
+> [!mechanics]- | Roll > `dice: [[SF_CH5_Character-Drives#^table-OclCharacterGoal]]` | Guidance
+> Goals a character holds close to their heart, used to motivate their interactions through their interactions. ^guidance-OclCharacterGoal
 
-| 1d100 | Result |
+| dice: 1d100 | Result |
 | :---: | --- |
-| 1-2 | Avenge a wrong |
-| 3-4 | Build a home |
-| 5-7 | Build a relationship |
-| 8-10 | Claim a resource |
-| 11-12 | Collect a debt |
-| 13-14 | Craft an object |
-| 15-16 | Cure an ill |
-| 17-18 | Defeat a rival |
-| 19-20 | Defend a person |
-| 21-23 | Defend a place |
-| 24-25 | Discover a truth |
-| 26-27 | End a conflict |
-| 28-29 | Escape a captor |
-| 30-31 | Fight injustice |
-| 32-33 | Find a person |
-| 34-35 | Form an alliance |
-| 36-37 | Gain knowledge |
-| 38-39 | Gain riches |
-| 40-41 | Maintain order |
-| 42-43 | Make an agreement |
-| 44-45 | Obtain an object |
-| 46-47 | Pay a debt |
-| 48-49 | Protect a lifeform |
-| 50-51 | Protect a secret |
-| 52-53 | Prove worthiness |
-| 54-55 | Rebel against power |
-| 56-57 | Refute a falsehood |
-| 58-59 | Repair a technology |
-| 60-61 | Resolve a dispute |
-| 62-63 | Restore a relationship |
-| 64-65 | Sabotage a technology |
-| 66-68 | Secure a resource |
-| 69-70 | Seek redemption |
-| 71-72 | Seize power |
-| 73-74 | Solve a mystery |
-| 75-76 | Spread faith |
-| 77-78 | Travel to a place |
-| 79-80 | Undermine a relationship |
-| 81-90 | ▶[[SF_CH5_Core_Action-Theme#Oracle Action\|Action]] + [[SF_CH5_Core_Action-Theme#Oracle Theme\|Theme]] |
-| 91-100 | Roll twice |
-^table-ISSF-Core1-0-OclCharacterGoal
+| 1 - 2 | Avenge a wrong |
+| 3 - 4 | Build a home |
+| 5 - 7 | Build a relationship |
+| 8 - 10 | Claim a resource |
+| 11 - 12 | Collect a debt |
+| 13 - 14 | Craft an object |
+| 15 - 16 | Cure an ill |
+| 17 - 18 | Defeat a rival |
+| 19 - 20 | Defend a person |
+| 21 - 23 | Defend a place |
+| 24 - 25 | Discover a truth |
+| 26 - 27 | End a conflict |
+| 28 - 29 | Escape a captor |
+| 30 - 31 | Fight injustice |
+| 32 - 33 | Find a person |
+| 34 - 35 | Form an alliance |
+| 36 - 37 | Gain knowledge |
+| 38 - 39 | Gain riches |
+| 40 - 41 | Maintain order |
+| 42 - 43 | Make an agreement |
+| 44 - 45 | Obtain an object |
+| 46 - 47 | Pay a debt |
+| 48 - 49 | Protect a lifeform |
+| 50 - 51 | Protect a secret |
+| 52 - 53 | Prove worthiness |
+| 54 - 55 | Rebel against power |
+| 56 - 57 | Refute a falsehood |
+| 58 - 59 | Repair a technology |
+| 60 - 61 | Resolve a dispute |
+| 62 - 63 | Restore a relationship |
+| 64 - 65 | Sabotage a technology |
+| 66 - 68 | Secure a resource |
+| 69 - 70 | Seek redemption |
+| 71 - 72 | Seize power |
+| 73 - 74 | Solve a mystery |
+| 75 - 76 | Spread faith |
+| 77 - 78 | Travel to a place |
+| 79 - 80 | Undermine a relationship |
+| 81 - 90 | ▶[[SF_CH5_Core_Action-Theme#Oracle Action\|Action]] + [[SF_CH5_Core_Action-Theme#Oracle Theme\|Theme]] |
+| 91 - 100 | Roll twice |
+^table-OclCharacterGoal
 
-## Oracle: Character Revealed Aspect {1-3}
-> [!mechanics]- | Roll > %%GetDice%% | Guidance
-> As you interact with a character and gain a deeper understanding of their nature and personality, roll on the character revealed aspect oracle to reveal new characteristics. You may ignore, reroll, or adjust contradictions. Or envision how those contradictions add interesting complexity to the character. ^guidance-ISSF-Core1-0-OclCharacterRevealedAspect
+## Oracle: Character Revealed Aspect
+> [!mechanics]- | Roll > `dice: [[SF_CH5_Character-Drives#^table-OclCharacterRevealedAspect]]` | Guidance
+> As you interact with a character and gain a deeper understanding of their nature and personality, roll on the character revealed aspect oracle to reveal new characteristics. You may ignore, reroll, or adjust contradictions. Or envision how those contradictions add interesting complexity to the character. ^guidance-OclCharacterRevealedAspect
 
-| 1d100 | Result |
+| dice: 1d100 | Result @1-3 |
 |:---:|:--- |
 | 1 | Addicted |
 | 2 | Adventurous |
@@ -232,12 +232,12 @@ As more information is learned about a character use these oracles to flesh out 
 | 98 | Weary |
 | 99 | Wild |
 | 100 | Wise |
-^table-ISSF-Core1-0-OclCharacterRevealedAspect
+^table-OclCharacterRevealedAspect
 
 ## Tags
-| Previous Page | Tags | Next Section |
+| Previous Page | Tags | Next Page |
 |:--- |:---:| ---:|
-| **[[SF_CH5_Character-Approach\|Character Approach Oracle]]** |  | **[[_SF_CH5_Creatures\|Creatures Oracle]]** |
+| **[[SF_CH5_Character-Approach\|Character Approach (SF Oracles)]]** |  | **[[SF_CH5_Character-Names\|Character Names (SF Oracles)]]** |
 
 #Starforged/Oracles/Characters 
 

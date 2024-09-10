@@ -281,8 +281,3 @@ flowchart TD
 |  | Profit??? | ^diagram-quest-moves-1
 
 
-**Troublesome** ![[hex-checkedG.svg\|20]] ![[hex-uncheckedG.svg\|20]] ![[hex-uncheckedG.svg\|20]] ![[hex-uncheckedG.svg\|20]] ![[hex-uncheckedG.svg\|20]] |
-| <font size=4> **Dangerous** </font> | ![[hex-checkedG.svg\|20]] ![[hex-checkedG.svg\|20]] ![[hex-uncheckedG.svg\|20]] ![[hex-uncheckedG.svg\|20]] ![[hex-uncheckedG.svg\|20]] |
-| <font size=4> **Formidable** </font> | ![[hex-checkedG.svg\|20]] ![[hex-checkedG.svg\|20]] ![[hex-checkedG.svg\|20]] ![[hex-uncheckedG.svg\|20]] ![[hex-uncheckedG.svg\|20]] |
-| <font size=4> **Extreme** </font> | ![[hex-checkedG.svg\|20]] ![[hex-checkedG.svg\|20]] ![[hex-checkedG.svg\|20]] ![[hex-checkedG.svg\|20]] ![[hex-uncheckedG.svg\|20]] |
-| <font size=4> **Epic** </font> | ![[hex-checkedG.svg\|20]] ![[hex-checkedG.svg\|20]] ![[hex-checkedG.svg\|20]] ![[hex-checkedG.svg\|20]] ![[hex-checkedG.svg\|20]] |

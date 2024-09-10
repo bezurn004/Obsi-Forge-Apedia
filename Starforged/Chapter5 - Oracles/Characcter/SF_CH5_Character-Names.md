@@ -6,10 +6,13 @@ SourceLink:
 
 ## Page
 aliases:
-  - "Character Names Oracle"
+  - "Character Names (SF Oracles)"
+  - "Character Name - Given (SF Oracles)"
+  - "Character Name = Family (SF Oracles)"
+  - "Character Name - Callsign (SF Oracles)"
 PageType: Oracle
 PageCategory: Character
-PageOrder: 1
+PageOrder: 3
 
 ## Oracle
 Oracle: Character
@@ -22,6 +25,9 @@ OracleDescriptor: "Given and family names are presented as an intended pair, so 
 Given and family names can often be reversed, or used independently as standalone names.
 
 Spacers are often known only by their callsigns, with their “dirtside names” reserved for family and close friends.
+
+> [!oracle]- Roll
+> `dice: 1d100`
 
 | 1d100 | Given Name | Family Name | Callsign |
 | :---: | :--- | :--- | :--- |
@@ -125,13 +131,13 @@ Spacers are often known only by their callsigns, with their “dirtside names”
 | 98 | Zari | Darwin | Wraith |
 | 99 | Zev | Pearson | Wrongway |
 | 100 | Zoya | Volkov | Zephyr |
-^table-ISSF-Core1-0-OclCharacterNames
+^table-OclCharacterNames
 
 ## Oracle: Character Given Name
-> [!mechanics]- | Roll > %%GetDice%% | Guidance
+> [!mechanics]- | Roll > `dice: [[SF_CH5_Character-Names#^table-OclCharacterGivenName]]` | Guidance
 > **Given** and **Family** names are presented as an intended pair, so you may roll once for both if you choose. Given and family names can often be reversed, or used independently as standalone names. These “dirtside names” are usually reserved for family and close friends. ^guidance-OclCharacterGivenName
 
-| 1d100 | Result |
+| dice: 1d100 | Result |
 |:---:|:--- |
 | 1 | Akim |
 | 2 | Alex |
@@ -233,13 +239,13 @@ Spacers are often known only by their callsigns, with their “dirtside names”
 | 98 | Zari |
 | 99 | Zev |
 | 100 | Zoya |
-^table-ISSF-Core1-0-OclCharacterGivenName
+^table-OclCharacterGivenName
 
 ## Oracle: Character Family Name
-> [!mechanics]- | Roll > %%GetDice%% | Guidance
+> [!mechanics]- | Roll > `dice: [[SF_CH5_Character-Names#^table-OclCharacterFamilyName]]` | Guidance
 >**Given** and **Family** names are presented as an intended pair, so you may roll once for both if you choose. Given and family names can often be reversed, or used independently as standalone names. These “dirtside names” are usually reserved for family and close friends. ^guidance-OclCharacterFamilyName
 
-| 1d100 | Result |
+| dice: 1d100 | Result |
 | :----: |:-------|
 | 1 | Kuzmin |
 | 2 | Durant |
@@ -341,13 +347,13 @@ Spacers are often known only by their callsigns, with their “dirtside names”
 | 98 | Darwin |
 | 99 | Pearson |
 | 100 | Volkov |
-^table-ISSF-Core1-0-OclCharacterFamilyName
+^table-OclCharacterFamilyName
 
 ## Oracle: Character Call Sign
-> [!mechanics]- | Roll > %%GetDice%% | Guidance
+> [!mechanics]- | Roll > `dice: [[SF_CH5_Character-Names#^table-OclCharacterCallSign]]` | Guidance
 >If you’d like to give a character a **Callsign**, which are the monikers used by spacers, you may roll separately or take the one provided for the selected name. Spacers are often known only by their callsigns. ^guidance-OclCharacterCallsign
 
-| 1d100 | Result |
+| dice: 1d100 | Result |
 | :----: |:-------|
 | 1 | Albatross |
 | 2 | Angler |
@@ -449,11 +455,11 @@ Spacers are often known only by their callsigns, with their “dirtside names”
 | 98 | Wraith |
 | 99 | Wrongway |
 | 100 | Zephyr |
-^table-ISSF-Core1-0-OclCharacterCallSign
+^table-OclCharacterCallSign
 
 ## Tags
-| Previous Page | Tags | Next Page |
+| Previous Page | Tags | Next Section |
 |:--- |:---:| ---:|
-| **[[_SF_CH5_Characters\|Characters Oracle]]** | #Starforged/Oracles/Characters | **[[SF_CH5_Character-Approach\|Character Approach Oracle]]** |
+| **[[SF_CH5_Character-Drives\|Character Drives (SF Oracles)]]** | #Starforged/Oracles/Characters | **[[_SF_CH5_Creatures\|Creatures (SF Oracles)]]** |
 
 <font size=-2>This work is based on Ironsworn: Starforged (found at [www.ironswornrpg.com](http://www.ironswornrpg.com)), created by Shawn Tomkin, and licensed for our use under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license  (creativecommons.org/licenses/by-nc-sa/4.0/).</font>

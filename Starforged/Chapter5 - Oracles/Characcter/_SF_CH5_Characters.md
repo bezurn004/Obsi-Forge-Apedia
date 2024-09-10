@@ -6,18 +6,13 @@ SourceLink:
 
 ## Page
 aliases:
-  - "Characters Oracle"
+  - "Characters (SF Oracles)"
 PageType: Oracle
 PageCategory: CharacterIndex
 PageOrder: 0
 ---
 # [[_Starforged|Starforged]] - [[_SF_CH5_Index|Oracle]]: Characters
 The oracles here provide inspiration to create aspects of characters, either NPC or player.  The oracles are condensed into related pages for concise content when peeling the onion during the character discovery process.
-
-## [[SF_CH5_Character-Names|Character Names Oracle]]
-- [[SF_CH5_Character-Names#Oracle: Character Given Name|Given Name]]: Character first name
-- [[SF_CH5_Character-Names#Oracle: Character Family Name|Family Name]]: Character last name
-- [[SF_CH5_Character-Names#Oracle: Character Call Sign|Call Sign]]: Character handle for communications
 
 ## [[SF_CH5_Character-Approach|Character Approach Oracle]]
 - [[SF_CH5_Character-Approach#Oracle Character First Look {1-2}|First Look]]: appearance on first impressions
@@ -27,6 +22,11 @@ The oracles here provide inspiration to create aspects of characters, either NPC
 - [[SF_CH5_Character-Drives#Oracle: Character Role|Chracter Role]]: learned skill or occupation
 - [[SF_CH5_Character-Drives#Oracle: Character Goal|Character Goal]]: driving purpose they pursue
 - [[SF_CH5_Character-Drives#Oracle Character Revealed Aspect {1-3}|Revealed Aspect]]: personality aspect revealed after deeper understanding
+
+## [[SF_CH5_Character-Names|Character Names Oracle]]
+- [[SF_CH5_Character-Names#Oracle: Character Given Name|Given Name]]: Character first name
+- [[SF_CH5_Character-Names#Oracle: Character Family Name|Family Name]]: Character last name
+- [[SF_CH5_Character-Names#Oracle: Character Call Sign|Call Sign]]: Character handle for communications
 
 ## Character Oracles
 
@@ -42,7 +42,7 @@ SORT SourceMaterial, asc & PageOrder, asc
 ## Tags
 | Previous Section | Tags | Next Section | 
 | :--- | :---: | ---: |
-| **[[_SF_CH5_Starships\|Starship Oracles]]** | #Starforged/Oracles/Characters | **[[_SF_CH5_Creatures\|Creatures Oracle]]** |
+| **[[_SF_CH5_Starships\|Starships (SF Oracles)]]** | #Starforged/Oracles/Characters | **[[_SF_CH5_Creatures\|Creatures (SF Oracles)]]** |
 
 
 

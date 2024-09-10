@@ -6,7 +6,7 @@ SourceLink:
 
 ## Page
 aliases:
-  - "Starship Name Oracle"
+  - "Starship Name (SF Oracles)"
 PageType: Oracle
 PageCategory: Starship
 PageOrder: 3
@@ -20,10 +20,10 @@ OracleDescriptor: "Give a starship a name when it has an important role in your 
 Give a starship a name when it has an important role in your story.
  
 ## Oracle: Starship Name
-> [!mechanics]- | Roll > %%GetDice%% | Guidance
+> [!mechanics]- | Roll > `dice: [[SF_CH5_Starship-Name#^table-OclStarshipNames]]` | Guidance
 > Give a starship a name when it has an important role in your story. Scan this table and select a name that fits what you know of the ship’s appearance and role. Or generate a random result and let any contradictions contribute to the ship’s history or nature. ^guidance-OclStarshipName
 
-| 1d100 | Result |
+| dice: 1d100 | Result |
 |:---:|:--- |
 | 1 | Arclight |
 | 2 | Argent Arrow |
@@ -127,9 +127,11 @@ Give a starship a name when it has an important role in your story.
 | 100 | Vulture |
 ^table-OclStarshipNames
 
+*329 STARSHIPS*
+
 ## Tags
 | Previous Page | Tags | Next Section |
 |:--- |:---:| ---:|
-| **[[SF_CH5_Starship-Approach\|Starship Approach]]** | #Starforged/Oracles/Starship | **[[_SF_CH5_Characters\|Characters Oracle]]** |
+| **[[SF_CH5_Starship-Approach\|Starship Approach (SF Oracles)]]** | #Starforged/Oracles/Starship | **[[_SF_CH5_Characters\|Characters (SF Oracles)]]** |
 
 <font size=-2>This work is based on Ironsworn: Starforged (found at [www.ironswornrpg.com](http://www.ironswornrpg.com)), created by Shawn Tomkin, and licensed for our use under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license  (creativecommons.org/licenses/by-nc-sa/4.0/).</font>

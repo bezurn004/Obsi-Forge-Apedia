@@ -6,7 +6,7 @@ SourceLink:
 
 ## Page
 aliases:
-  - "Factions Oracle"
+  - "Factions (SF Oracles)"
 PageType: Oracle
 PageCategory: Index
 PageOrder: 0
