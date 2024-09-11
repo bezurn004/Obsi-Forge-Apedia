@@ -12,32 +12,48 @@ PageCategory: StarshipIndex
 PageOrder: 0
 ---
 # [[_Starforged|Starforged]] - [[_SF_CH5_Index|Oracle]]: Starships
-As you come across other starship vessels in your journey's through the Forge, use the Starship Oracles to inspire the narrative of those encounters. 
+_As you come across other starship vessels in your journey's through the Forge, use the Starship Oracles to inspire the narrative of those encounters._
 
-## [[SF_CH5_Starship-Creation|Starship Type Oracle]]
-To begin creating a starship from scratch, start with this page which contains the **Type** of starship you encounter. If this is a **Fleet** of starships, then learn their general class (type) composition for their mission. Then if desired, give the starship a **Name** to reference in your story.
-
-## [[SF_CH5_Starship-Approach#|Starship Approach]]
-As you approach a starship start with either making **Initial Contact** or envisioning its **First Look** as your initial perception of the craft. Once you learn first hand, or by other means, you could choose to give the starship a **Mission**, which could also be used as a start of a spaceborne quest.
-
-## [[SF_CH5_Starship-Name|Starship Name Oracle]]
-When a starship will have significance in your story, choose or roll for its **Name**
+> ## Contents
+> ### [[SF_CH5_Starship-Creation|Starship Type Oracle]]
+> - Starship Type
+> 	- Fleet
+> 
+> _To begin creating a starship from scratch, start with this page which contains the **Type** of starship you encounter. If this is a **Fleet** of starships, then learn their general class (type) composition for their mission. Then if desired, give the starship a **Name** to reference in your story._
+> 
+> ### [[SF_CH5_Starship-Approach#|Starship Approach]]
+> - Starship Initial Contact
+> - Starship First Look
+> - Starship Mission
+> 	- Terminus
+> 	- Outlands
+> 	- Expanse
+> 
+> _As you approach a starship start with either making **Initial Contact** or envisioning its **First Look** as your initial perception of the craft. Once you learn first hand, or by other means, you could choose to give the starship a **Mission**, which could also be used as a start of a spaceborne quest._
+> 
+> ### [[SF_CH5_Starship-Name|Starship Name Oracle]]
+> - Starship Name
+>   
+>   _When a starship will have significance in your story, choose or roll for its **Name**_
 
 
 ## Campaign Oracles
 If you wish to provide very deep interaction with a Starship not of your own, you can make use of the Starship personality tables provided in Character Creation.
-- ![[SF_CH2_Board Your Starship#Giving The Starship a History]]
-- ![[SF_CH2_Board Your Starship#Envision The Starship]]
+> [!example]- Starship History
+> ![[SF_CH2_Board Your Starship#Giving The Starship a History]]
 
-## Starship Oracles
+> [!example]- Starship Quirks
+> ![[SF_CH2_Board Your Starship#Envision The Starship]]
 
+## All Ship Oracles
+_Below are all Starship oracles across all source material._
 ```dataview
 TABLE without ID
-	link(file.link, OracleFocus) As "Starship Oracle Focus",
+	link(file.link, OracleFocus) As "Oracle Focus",
 	SourceMaterial As "Source Material",
 	OracleDescriptor As "Description"
 WHERE contains(PageType, "Oracle") & contains(PageCategory, "Starship") & !contains(PageCategory, "Index") & !contains(file.path, "Template")
-SORT SourceMaterial, asc
+SORT SourceMaterial, asc AND PageOrder, asc
 ```
 
 ## Tags

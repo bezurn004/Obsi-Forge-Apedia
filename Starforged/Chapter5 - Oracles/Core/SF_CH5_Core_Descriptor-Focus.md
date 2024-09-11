@@ -135,7 +135,7 @@ Descriptor and Focus can answer questions such as:
 > [!mechanics]- | Roll > `dice: [[SF_CH5_Core_Descriptor-Focus#^table-OclDescriptior]]` | Guidance
 > When you [[SF_CH3_Ask the Oracle|Ask the Oracle]] to help define the nature of a location, discovery, or encounter, roll for a Descriptor and a Focus for an adjective/noun prompt. Other oracles will include prompts to check for a Descriptor and Focus (shown as “Descriptor + Focus”). That’s your cue to roll on these tables and interpret the result as appropriate to the situation. ^guidance-OclDescriptior
 
-| 1d100 | Result |
+| dice: 1d100 | Result |
 | :---: | --- |
 | 1 | Abandoned |
 | 2 | Abundant |
@@ -245,7 +245,7 @@ Descriptor and Focus can answer questions such as:
 > [!mechanics]- | Roll > `dice: [[SF_CH5_Core_Descriptor-Focus#^table-OclFocus]]` | Guidance
 > When you [[SF_CH3_Ask the Oracle|Ask the Oracle]] to help define the nature of a location, discovery, or encounter, roll for a Descriptor and a Focus for an adjective/noun prompt. Other oracles will include prompts to check for a Descriptor and Focus (shown as “Descriptor + Focus”). That’s your cue to roll on these tables and interpret the result as appropriate to the situation. ^guidance-OclFocus
 
-| 1d100 | Result |
+| dice: 1d100 | Result |
 | :---: | --- |
 | 1 | Alarm |
 | 2 | Anomaly |

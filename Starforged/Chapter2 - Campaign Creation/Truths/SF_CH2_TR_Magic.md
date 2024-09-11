@@ -22,7 +22,7 @@ Choose or envision the role that magical energies enhances those fortunate enoug
 ^table-choose-truths
 
 > [!oracle]- Roll`
-> `dice: [[TR_Magic#^table-choose-truths]]`
+> `dice: [[SF_CH2_TR_Magic#^table-choose-truths]]`
 
 ## Techno-Force
 **Magic does not exist.** ^truth-1-summary
@@ -47,7 +47,7 @@ While not magic in the truest sense, the abilities of the paragons are as close 
 ^table-truth-2
 
 > [!oracle]- Roll
-> `dice: [[TR_Magic#^table-truth-2]]`
+> `dice: [[SF_CH2_TR_Magic#^table-truth-2]]`
 
 > _Quest Starter_
 > A young paragon wields incredible power, but cannot control it. They have been shunned by family and friends. They are also hunted by a person or organization who seeks to use them as a weapon. Why are you sworn to protect the paragon? What fabled location might offer a new home for them? ^queststarter-2

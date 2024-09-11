@@ -45,7 +45,7 @@ ReferencedMoves:
 > > Envision what you will do next now that the objective is overcome. ^strong-hit
 
 > [!challenge-weak] On a weak hit
->  You achieve your objective, but not without cost. You must [[SF_CH3_Pay the Price|Pay the Price (move)]].
+>  You achieve your objective, but not without cost. You must [[SF_CH3_Pay the Price|Pay the Price]].
 > > [!cite]- Narrative prompt
 > > Envision both the success and cost suffered in achieving your objective. What will happen next? ^weak-hit
 

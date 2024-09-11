@@ -12,5 +12,5 @@
   <rect x="62" y="35" width="8" height="8" stroke="white" stroke-width="2" fill="white" transform="rotate(15 66 39)" />
 
   <!-- 3/4 circle 4px gap from stopwatch -->
-  <circle cx="50" cy="75" r="36" fill="white" />
+  <circle cx="50" cy="75" r="36" fill="black" />
 </svg>

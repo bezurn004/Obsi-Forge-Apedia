@@ -25,7 +25,7 @@ Jumping in with a prologue can help flesh out who you are and how you interact w
 
 Then, when the time is right, introduce the inciting incident to help drive your story forward.
 
-> If you didn’t think of an inciting incident, or aren’t particularly excited about it, you can also use the prologue to jump in and discover a dramatic situation through play. Introduce your character and allies going about their usual business. Ask questions about other characters, your setting, and the current situation. Draw conclusions to those questions or [[SF_CH3_Ask the Oracle|Ask the Oracle]]. Look for opportunities in the fiction to trigger a vow.
+> If you didn’t think of an inciting incident, or aren’t particularly excited about it, you can also use the prologue to jump in and discover a dramatic situation through play. Introduce your character and allies going about their usual business. Ask questions about other characters, your setting, and the current situation. Draw conclusions to those questions or [[SF_CH3_Ask the Oracle|Ask the Oracle (move)]]. Look for opportunities in the fiction to trigger a vow.
 
 ### Starting in Medias Res
 In medias res is a Latin term meaning “in the middle of things.” You start your story at a crucial point. Your inciting incident is happening now, or is an imminent threat. Raider ships appear on the settlement’s radar. A marauding creature attacks. The battered tradeship calls for help.

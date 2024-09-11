@@ -46,19 +46,21 @@ Use these oracles to...
 
 You can answer questions about a place using only the tables provided for a theme, such as when delving into an Infested cave. Or pair a theme with other location oracles for more flavor and variety; for example, you might explore a Haunted Grave World, a Ruined Derelict, a Sacred Precursor Vault, or an Inhabited Settlement.
 
-When mixing-and-matching a theme with another set of tables, use the techniques described for an oracle array (page 384) to determine which oracle you reference for that question or phase of your exploration.
+When mixing-and-matching a theme with another set of tables, use the techniques described for an [[SF_CH5_More Oracle Options#Oracle Arrays|oracle array]] (page 384) to determine which oracle you reference for that question or phase of your exploration.
 
 *371 LOCATION THEMES*
 
 ## Location Theme Oracles
 
+## All Location Theme Oracles
+_Below are all Location Theme oracles across all source material._
 ```dataview
 TABLE without ID
-	link(file.link, OracleFocus) As "Location Theme Oracle Focus",
-	OracleDescriptor As "Description",
-	PageOrder As "PageOrder"
-WHERE contains(PageType, "Oracle") & contains(PageCategory, "Location Theme") & !contains(PageCategory, "Index") & !contains(file.path, "Template") & !contains(file.path, "template")
-SORT SourceMaterial, asc & OracleFocus, asc
+	link(file.link, OracleFocus) As "Oracle Focus",
+	SourceMaterial As "Source Material",
+	OracleDescriptor As "Description"
+WHERE contains(PageType, "Oracle") & contains(PageCategory, "Location Theme") & !contains(PageCategory, "Index") & !contains(file.path, "Template")
+SORT SourceMaterial, asc AND PageOrder, asc
 ```
 
 ## Tags

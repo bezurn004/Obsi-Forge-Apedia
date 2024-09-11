@@ -59,7 +59,7 @@ If you want some direction for your starting paths, roll or pick from the table 
 ^table-profession-to-assets
 
 > [!oracle]- Roll
-> `dice: [[SF_CH2_Choose Your Assets#^table-profession-to-assets]]`
+> `dice: 1d100`
 
 *105 CREATE YOUR CHARACTER*
 
@@ -75,7 +75,7 @@ This time, you aren’t limited to picking a path. You can choose from any of th
 - ==[[_Companion Assets|Companion]]==: NPC helpers, including alien creatures and robots. 
 - ==[[_Path Assets|Path]]==: Background aspects, careers, interests, training, and skills.
 
-This asset, plus your two paths from earlier in this exercise, give your character a total of three starting assets along with your [[AST_Starship|Starship (asset)]].
+This asset, plus your two paths from earlier in this exercise, give your character a total of three starting assets along with your [[AST_Starship|STARSHIP]].
 
 *110 CHAPTER 2: LAUNCHING YOUR CAMPAIGN*
 

@@ -48,7 +48,7 @@ ReferencedMoves:
 ## Full Description
 Make this move when you are helping an ally (a protagonist played by another player) by taking a supporting action. You might be distracting a foe in combat, using the ship’s scanners to scout the path for your pilot on an expedition, or giving an ally encouragement as you stand against a dire threat.
 
-Outside of a fight, your effort is resolved using the Secure an Advantage, move. If you are in combat, use [[SF_CH3_Gain Ground|Gain Ground (move)]]. If you score a hit, your ally takes the mechanical and narrative benefit of your success.
+Outside of a fight, your effort is resolved using the Secure an Advantage, move. If you are in combat, use [[SF_CH3_Gain Ground|Gain Ground]]. If you score a hit, your ally takes the mechanical and narrative benefit of your success.
 
 In combat, this is a proactive move, made when you are in control.
 

@@ -8,37 +8,34 @@ SourceLink:
 aliases:
   - "Miscellaneous (SF Oracles)"
 PageType: Oracle
-PageCategory: MiscellaneousIndex
+PageCategory: "Miscellaneous Index"
 PageOrder: 0
 ---
 # [[_Starforged|Starforged]] - [[_SF_CH5_Index|Oracle]]: Miscellaneous
-The oracles below do not fit into any particular category.
+_The oracles below do not fit into any particular category._
 
-## [[SF_CH5_Story Complication|Story Complication Oracle]]
-Used to introduce narrative turns, troubles and revelations.
+> ## Contents
+> ### [[SF_CH5_Story Complication|Story Complication Oracle]]
+> _introduce narrative turns, troubles, and revelations at a perilous or pivotal point int he story.._
+> 
+> ### [[SF_CH5_Story Clue|Story Clue Oracle]]
+> _Uncover clues in the form of messages, rumors, eyewitness reports, data, or physical evidence as you [[SF_CH3_Gather Information|Gather Information]]._
+> 
+> ### [[SF_CH5_Anomaly Effect|Anomaly Effect Oracle]]
+> _Use sparingly when meddling to generate the effects of ancient tech, rituals, or other strange forces._
+> 
+> ### [[SF_CH5_Combat Action|Combat Action Oracle]]
+> _Inspire an action for a foe in a fight, particularly when in a bad spot._
 
-## [[SF_CH5_Story Clue|Story Clue Oracle]]
-Generate story clues related to the Gather Information move.
-
-## [[SF_CH5_Anomaly Effect|Anomaly Effect Oracle]]
-Use sparingly to resolve the effects of ancient tech, rituals, or other strange forces.
-
-## [[SF_CH5_Combat Action|Combat Action Oracle]]
-Inspire an action for a foe in a fight, particularly when in a bad spot.
-
-
-
-
-
-## Miscellaneous Oracles
-
+## All Misc Oracles
+_Below are all Misc oracles across all source material._
 ```dataview
 TABLE without ID
-	link(file.link, OracleFocus) As "Location Theme Oracle Focus",
-	OracleDescriptor As "Description",
-	SourceMaterial As "Source Material"
+	link(file.link, OracleFocus) As "Oracle Focus",
+	SourceMaterial As "Source Material",
+	OracleDescriptor As "Description"
 WHERE contains(PageType, "Oracle") & contains(Oracle, "Misc") & !contains(PageCategory, "Index") & !contains(file.path, "Template")
-SORT SourceMaterial, asc
+SORT SourceMaterial, asc AND PageOrder, asc
 ```
 
 ## Tags

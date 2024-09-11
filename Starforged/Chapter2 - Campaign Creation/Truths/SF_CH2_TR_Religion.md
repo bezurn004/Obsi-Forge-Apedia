@@ -22,7 +22,7 @@ Choose or envision the order religion brings to enable a hopeful future for the 
 ^table-choose-truths
 
 > [!oracle]- Roll
-> `dice: [[TR_Religion#^table-choose-truths]]`
+> `dice: [[SF_CH2_TR_Religion#^table-choose-truths]]`
 
 ## Agnostic Creed
 **Our gods failed us. We left them behind.** ^truth-1-summary

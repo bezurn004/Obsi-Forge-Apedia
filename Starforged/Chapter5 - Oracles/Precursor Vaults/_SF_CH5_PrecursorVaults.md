@@ -8,26 +8,11 @@ SourceLink:
 aliases:
   - "Precursor Vaults (SF Oracles)"
 PageType: Oracle
-PageCategory: "Precursor VaultIndex"
+PageCategory: "Precursor Vault Index"
 PageOrder: 0
 ---
 # [[_Starforged|Starforged]] - [[_SF_CH5_Index|Oracle]]: Precursor Vaults
-These are the order of oracles to utilize when uncovering an enigmatic precursor vault.
-
-## [[SF_CH5_Vault-Exterior|Precursor Vault Exterior Oracles]]
-Start here to choose from these oracles for various characteristics of the precursor vault.
-- **Location**: Where the vault is located
-- **Scale**: How large the vault is, likely impacting the rank of any expedition
-- **Form**: Type of site this vault conforms to.
-- **Shape**: Primary geometric shape of the vault.
-- **Material**: General composition of the vault.
-- **Outer First Look**: Initial aspect that surrounds the vault.
-
-## [[SF_CH5_Vault-Interior|Precursor Vault Interior Oracle]]
-Similar to a derelict site, precursor vaults can be explored when you [[SF_CH3_Undertake an Expedition|Undertake an Expedition (move)]]. Start with a **First Look**, of the initial entry and then occasionally choose various **Feature**. When your fortunes are bad, generate a **Peril** and take advantage of the **Opportunities** when they turn up.
-
-## [[SF_CH5_Vault-Sanctum|Vault Sanctum Oracle]]
-Once narratively appropriate, or you have filled in 6 boxes on the progress track of your expedition, you transition to the Sanctum. Continue the journey with new **Features** to ultimately learn the **Sanctum Purpose**. When your fortunes are bad, generate a **Peril** and take advantage of the **Opportunities** when they turn up.
+_When uncovering an enigmatic precursor vault, these oracles will guide you to their secrets._
 
 ## Summary: Exploring Precursor Vaults
 When you first come upon a vault, use the tables on the [[SF_CH5_Vault-Exterior|Vault Creation Oracle]] to help envision its form and nature. For a more abstract prompt, just use the [[SF_CH5_Core_Descriptor-Focus#Oracle Descriptor|Descriptor/Focus Oracle]]. In either case—if that’s enough detail for the role of the vault in your story, stop there. 
@@ -41,25 +26,48 @@ If the survey of a vault is a focus for your current quest, use the oracle table
 ### Delving the Sanctum
 Your passage from the Interior into the Sanctum is triggered by a rolled result on the [[SF_CH5_Vault-Interior#Oracle: Precursor Vault: Interior Feature|Interior Feature]] oracle: **“Transition into the Sanctum.”**
 
-If you [[SF_CH3_Undertake an Expedition|Undertake an Expedition (move)]] into a vault, you can also use the progress track as a gauge for your current location. Once you reach six or more filled progress boxes, you have reached the Sanctum.
+If you [[SF_CH3_Undertake an Expedition|Undertake an Expedition]] into a vault, you can also use the progress track as a gauge for your current location. Once you reach six or more filled progress boxes, you have reached the Sanctum.
 
 If you envision a vault as particularly strange and perilous, use the Sanctum as the framing for the entirety of your exploration. If it is relatively mundane, use only the Interior.
 
 ### Revealing the Vault's Purpose
-If the original function of the vault is a mystery, use the [[SF_CH5_Vault-Sanctum#Oracle Precursor Vault Purpose]] oracle to see what lies at its heart. Check this oracle when your story leads to a reveal of the site’s true nature, such as when you [[SF_CH3_Finish an Expedition|Finish an Expedition (move)]].
+If the original function of the vault is a mystery, use the [[SF_CH5_Vault-Sanctum#Oracle Precursor Vault Purpose]] oracle to see what lies at its heart. Check this oracle when your story leads to a reveal of the site’s true nature, such as when you [[SF_CH3_Finish an Expedition|Finish an Expedition]].
 
 ### Perils and Opportunities
 Use these oracles to help envision a complication or favorable circumstance within a vault, such as when you [[SF_CH3_Explore a Waypoint|Explore a Waypoint (move)]] and are prompted to envision a peril or opportunity.
 
-## Precursor Vault Oracles
+> ## Contents
+> ### [[SF_CH5_Vault-Exterior|Precursor Vault Exterior Oracles]]
+> - Precursor Vault Location
+> - Precursor Vault Scale
+> - Precursor Vault Form
+> - Precursor Vault Shape
+> - Precursor Vault Material
+> - Precursor Vault Outer First Look
+>   
+>   ### [[SF_CH5_Vault-Interior|Precursor Vault Interior Oracle]]
+> - Precursor Vault Interior
+> 	- First Look
+> 	- Feature
+> 	- Peril
+> 	- Opportunity
+>
+> ### [[SF_CH5_Vault-Sanctum|Vault Sanctum Oracle]]
+> - Precursor Vault Purpose
+> - Precursor Vault Scantum
+> 	- Feature
+> 	- Peril
+> 	- Opportunity
 
+## All Precursor Vault  Oracles
+_Below are all Precursor Vault oracles across all source material._
 ```dataview
 TABLE without ID
-	link(file.link, OracleFocus) As "Precursor Oracle Focus",
+	link(file.link, OracleFocus) As "Oracle Focus",
 	SourceMaterial As "Source Material",
 	OracleDescriptor As "Description"
-WHERE contains(PageType, "Oracle") & contains(PageCategory, "Vault") & !contains(PageCategory, "Index") & !contains(file.path, "Template")
-SORT SourceMaterial, asc
+WHERE contains(PageType, "Oracle") & contains(PageCategory, "Precursor Vault") & !contains(PageCategory, "Index") & !contains(file.path, "Template")
+SORT SourceMaterial, asc AND PageOrder, asc
 ```
 
 ## Tags

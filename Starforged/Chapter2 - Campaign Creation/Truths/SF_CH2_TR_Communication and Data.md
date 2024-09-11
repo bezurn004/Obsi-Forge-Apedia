@@ -22,7 +22,7 @@ Choose or envision how knowledge fared the Cataclysm and how humanity stays conn
 ^table-choose-truths
 
 > [!oracle]- Roll
-> `dice: [[TR_Communication and Data#^table-choose-truths]]`
+> `dice: [[SF_CH2_TR_Communication and Data#^table-choose-truths]]`
 
 ## Dark Data Age
 **Much was lost when we came to the Forge. It is a dark age.** ^truth-1-summary

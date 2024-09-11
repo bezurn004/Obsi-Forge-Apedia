@@ -38,7 +38,7 @@ Some moves or assets will prompt you to [[SF_CH3_Lose Momentum|Lose Momentum (mo
 For example, your momentum meter is at +7 and your action score is 4. You roll a 5 and an 9 on your challenge dice. This would normally be a miss, but you can burn momentum to make your action score 7 instead of 4. This shifts your result from a miss to a weak hit.
 
 > When you burn momentum, replace the action score with your momentum value.
-> ![[GSRY_Definitions#^momentum-diagram-1]]
+> ![[GSRY_Diagrams#^momentum-diagram-1]]
 
 Burning momentum is never required. Even if you score a miss on a move and have enough momentum to beat the challenge dice, you can choose to suffer the failure and save your momentum for a more crucial moment.
 

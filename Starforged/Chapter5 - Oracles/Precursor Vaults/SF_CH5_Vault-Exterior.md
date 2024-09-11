@@ -1,4 +1,4 @@
-	---
+---
 ## Source
 SourceMaterial: "Ironsworn: Starforged"
 SourceAuthor: "Shawn Tompkin"

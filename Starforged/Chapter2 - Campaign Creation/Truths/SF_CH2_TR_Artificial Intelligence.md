@@ -23,7 +23,7 @@ Choose or envision how artificial intelligence has evolved after the migration t
 ^table-choose-truths
 
 > [!oracle]- Roll
-> `dice: [[TR_Artificial Intelligence#^table-choose-truths]]`
+> `dice: [[SF_CH2_TR_Artificial Intelligence#^table-choose-truths]]`
 
 ## The Adepts
 **We no longer have access to advanced computer systems. Instead, we must rely on the seers we call Adepts.** ^truth-1-summary
@@ -38,7 +38,7 @@ The Adepts serve in place of those advanced systems. They utilize mind-altering 
 ^table-truth-1
 
 > [!oracle]- Roll
-> `dice: [[TR_Artificial Intelligence#^table-truth-1]]`
+> `dice: [[SF_CH2_TR_Artificial Intelligence#^table-truth-1]]`
 
 > _Quest Starter_
 > An Adept is tormented by a dire future they have seen for the inhabitants of the Forge. What does this vision show? ^queststarter-1

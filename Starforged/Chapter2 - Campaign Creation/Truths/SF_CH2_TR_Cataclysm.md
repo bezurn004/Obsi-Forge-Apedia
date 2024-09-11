@@ -22,7 +22,7 @@ Choose or envision why humanity was forced to flee earth and seek refuge in the 
 ^table-choose-truths
 
 > [!oracle]- Roll
-> `dice: [[TR_Cataclysm#^table-choose-truths]]`
+> `dice: [[SF_CH2_TR_Cataclysm#^table-choose-truths]]`
 
 ## The Sun Plague
 **The Sun Plague extinguished the stars in our home galaxy.** ^truth-1-summary
@@ -38,7 +38,7 @@ The anomaly traveled at incredible speeds, many times faster than light itself, 
 ^table-truth-1
 
 > [!oracle]- Roll
-> `dice: [[TR_Cataclysm#^table-truth-1]]`
+> `dice: [[SF_CH2_TR_Cataclysm#^table-truth-1]]`
 
 > **Quest Starter**
 > The galaxy your people left behind is a cold, lightless grave. But a solitary star still glows, a beacon in a vast darkness. How did this star survive the plague? Why do you vow to find the means to travel across the immeasurable gulf to this distant light? ^queststarter-1
@@ -60,7 +60,7 @@ Without warning, these implacable and enigmatic beings ravaged our homeworlds. W
 ^table-truth-2
 
 > [!oracle]- Roll
-> `dice: [[TR_Cataclysm#^table-truth-2]]`
+> `dice: [[SF_CH2_TR_Cataclysm#^table-truth-2]]`
 
 > **Quest Starter**
 > Here in the Forge, a rogue faction holds an artifact of these interdimensional entities. What is the nature of this relic? What power or dark fate does the faction intend to unleash? ^queststarter-2
@@ -82,7 +82,7 @@ Over millennia, we consumed resources and shattered lives as we fueled the engin
 ^table-truth-3
 
 > [!oracle]- Roll
-> `dice: [[TR_Cataclysm#^table-truth-3]]`
+> `dice: [[SF_CH2_TR_Cataclysm#^table-truth-3]]`
 
 > **Quest Starter**
 > A delegation of your dreaded foe arrives in the Forge. They claim to represent a rebel force seeking sanctuary. In return, they offer vital information. What news do they carry? ^queststarter-3

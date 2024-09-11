@@ -47,7 +47,7 @@ If you are playing solo, you may often play for only a few minutes a time, picki
 
 ### Begin a Session Table
 
-| dice: 1d100 | Result |
+| dice: 1d100 | `dice: [[SF_CH3_Begin a Session#^table-vignette]]` |
 | :---: | --- |
 | 1 - 10 | Flashback reveals an aspect of your background or nature |
 | 11 - 20 | Flashback reveals an aspect of another character, place, or faction |
@@ -60,9 +60,6 @@ If you are playing solo, you may often play for only a few minutes a time, picki
 | 81 - 90 | Peril lies ahead or lurks just out of view |
 | 91 - 100 | Unforeseen aid is on the way or within reach |
 ^table-vignette
-
-> [!oracle]- Roll
-> `dice: [[SF_CH3_Begin a Session#^table-vignette]]`
 
 *141 SESSION MOVES*
 

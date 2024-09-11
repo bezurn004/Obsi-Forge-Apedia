@@ -22,7 +22,7 @@ Choose or envision how humanity was able to make the impossible journey from the
 ^table-choose-truths
 
 > [!oracle]- Roll
-> `dice: [[TR_Exodus#^table-choose-truths]]`
+> `dice: [[SF_CH2_TR_Exodus#^table-choose-truths]]`
 
 ## Generation Ships
 **When the Exodus fleet set off on a ponderous journey to a new home outside our galaxy, they marked the Forge as their destination. Countless generations lived out their lives aboard those titanic ships during the millennia-long passage.** ^truth-1-summary

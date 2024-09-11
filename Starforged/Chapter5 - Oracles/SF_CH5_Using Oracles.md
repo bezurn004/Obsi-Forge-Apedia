@@ -55,7 +55,7 @@ Do this instead: When initially encountering a place, creature, or person, use t
 > [!cite] Narrative Example 
 > You encounter another character while exploring a remote planet. To set the stage for the encounter, you use the Character generator and roll on the First Look table. The result tells you that this person is “Wounded” and “Ill-equipped.” You envision someone who was clearly not prepared for an expedition on this perilous planet, and was gravely wounded following an encounter with a native creature. Next you roll on the Initial Disposition table to help envision their reaction. The oracle responds, “Suspicious.”
 
-Over time, you can build on the starting knowledge and [[SF_CH3_Ask the Oracle]] to reveal additional aspects.
+Over time, you can build on the starting knowledge and [[SF_CH3_Ask the Oracle|Ask the Oracle]] to reveal additional aspects.
 
 > [!cite] Narrative Example 
 > You manage to gain the trust of this unlucky fellow explorer, and patch them up enough to get them on their feet for a journey back to your ship. Through the course of your interaction, you envision asking questions to learn more about them and their predicament. You roll on the Name, Role, and Goal tables. Taking those responses and expanding on them with interpretation, you conclude that this person is a smuggler, abandoned here and left for dead by double-crossing crewmates. If you end up on a prolonged adventure with this character, you might roll on the Revealed Aspects table to learn more about their personality, quirks, and abilities.

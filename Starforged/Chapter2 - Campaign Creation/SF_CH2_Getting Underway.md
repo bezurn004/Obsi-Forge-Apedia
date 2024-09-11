@@ -15,19 +15,19 @@ PageOrder: 3
 Ready to go? Work through the exercises in this order.
 
 > 
-> - [ ] ![[d10-1-t.svg|60]] **Choose Your Truths ([[SF_CH2_Choose Your Truths\|page 81]])**
+> - [ ] ![[hexagon_white_num_1.svg|35]] **Choose Your Truths ([[SF_CH2_Choose Your Truths\|page 81]])**
 >	Decide what is true for your version of the Forge.
 
-> - [ ] ![[d10-2-t.svg|60]] **Create Your Character ([[_SF_CH2_Create Your Character\|page 100]])**
+> - [ ] ![[hexagon_white_num_2.svg|35]] **Create Your Character ([[_SF_CH2_Create Your Character\|page 100]])**
 >	Set your character’s background, abilities, and characteristics.
 
-> - [ ] ![[d10-3-t.svg|60]] **Build a Starting Sector ([[_SF_CH2_Build a Starting Sector\|page 114]])**
+> - [ ] ![[hexagon_white_num_3.svg|35]] **Build a Starting Sector ([[_SF_CH2_Build a Starting Sector\|page 114]])**
 > 	Create a location to explore at the start of your campaign.
 
-> - [ ] ![[d10-4-t.svg|60]] **Begin Your Adventure ([[_SF_CH2_Begin Your Adventure\|page 128]])**
+> - [ ] ![[hexagon_white_num_4.svg|35]] **Begin Your Adventure ([[_SF_CH2_Begin Your Adventure\|page 128]])**
 > 	Get your story underway as you face an inciting incident and swear an iron vow.
       
-One word of warning: You might find your creative batteries running low if you pack the exercises into a single session. Consider breaking each exercise into an individual session, or two exercises per session— whatever works for your group.
+One word of warning: You might find your creative batteries running low if you pack the exercises into a single session. Consider breaking each exercise into an individual session, or two exercises per session—whatever works for your group.
 
 Jump to the next page to begin forging your galaxy
 

@@ -22,7 +22,7 @@ Choose or envision how life in the Forge is portrayed in your travels exploring 
 ^table-choose-truths
 
 > [!oracle]- Roll
-> `dice: [[TR_Lifeforms#^table-choose-truths]]`
+> `dice: [[SF_CH2_TR_Lifeforms#^table-choose-truths]]`
 
 ## Adaptable Abundance
 **This is a perilous and often inhospitable galaxy, but life finds a way.** ^truth-1-summary

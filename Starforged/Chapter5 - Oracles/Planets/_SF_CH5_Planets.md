@@ -19,7 +19,7 @@ OracleDescriptor: "This oracle provides a simple method of generating a planetar
 ---
 # [[_Starforged|Starforged]] - [[_SF_CH5_Index|Oracle]]: Planets
 ## Oracle: Planetary Class
-> [!mechanics]- | Roll > `dice: [[_SF_CH5_Planets#^table-OclPlanetaryClass]]` | Guidance
+> [!mechanics]- | Roll > `dice: [[_SF_CH5_Planets#^table-OclPlanetaryClass]]` ▶Descriptor: `dice: [[SF_CH5_Core_Descriptor-Focus#^table-OclDescriptior]]` | Guidance
 > This oracle provides a simple method of generating a planetary class. If this is enough information, stop there and envision the world as appropriate to its type. For a bit more detail, make a roll on the [[SF_CH5_Core_Descriptor-Focus#Oracle Descriptor|Descriptor/Focus Oracle]] and envision how that aspect defines the nature of the planet or a specific planetside location. ^guidance-OclPlanetaryClass
 
 | 1d100 | Result | Description |
@@ -55,12 +55,12 @@ OracleDescriptor: "This oracle provides a simple method of generating a planetar
 ^table-OclPlanetaryClass
 
 ## Summary: Exploring Planets
-The chart on the previous page provides a simple method of generating a planetary class. If this is enough information, stop there and envision the world as appropriate to its type. For a bit more detail, make a roll on the Descriptor oracle (page 298) and envision how that aspect defines the nature of the planet or a specific planetside location.
+The chart on the previous page provides a simple method of generating a planetary class. If this is enough information, stop there and envision the world as appropriate to its type. For a bit more detail, make a roll on the [[SF_CH5_Core_Descriptor-Focus#Oracle Descriptor|Descriptor]] oracle (page 298) and envision how that aspect defines the nature of the planet or a specific planetside location.
 
 ### Detailed Planet Generation
 Using the planet dashboards on the following pages, you can generate details for the features of a planet if that place has a focus in your story.
 
-Start with the tables that describe features you’d detect at a distance, such as Atmosphere, Settlements, and Observed from Space. Then, if you investigate the planet, roll on the Planetside Feature and Life tables to uncover more about the nature of that place.
+Start with the tables that describe features you’d detect at a distance, such as **Atmosphere, Settlements, and Observed from Space.** Then, if you investigate the planet, roll on the **Planetside Feature** and **Life** tables to uncover more about the nature of that place.
 
 If you have advance information on a planet, you’ll have a more complete picture before you travel there. In that case, roll to determine its nature as you like. If you are the guide, assemble the characteristics of a planet as needed.
 
@@ -106,9 +106,20 @@ Planets are big. These oracles help set the stage, but won’t provide the momen
 | 96 - 100 | Vermillion | Vesuvius | Thrace | Varnholme | Zephyr | Viridian | Triton | Umbra | Zix | Xanthous | Valinor |
 ^table-OclPlanetNames-All
 
+## All Planet Oracles
+_Below are all Planet oracles across all source material._
+```dataview
+TABLE without ID
+	link(file.link, OracleFocus) As "Oracle Focus",
+	SourceMaterial As "Source Material",
+	OracleDescriptor As "Description"
+WHERE contains(PageType, "Oracle") & contains(PageCategory, "Planet") & !contains(PageCategory, "Index") & !contains(file.path, "Template")
+SORT SourceMaterial, asc AND PageOrder, asc
+```
+
 ## Tags
 | Previous Section | Tags | Next Section | 
 | :--- | :---: | ---: |
-| **[[_SF_CH5_Space-Encounters\|Space Encounters (SF Oracles)]]** | #Starforged/Oracles/Planet | **[[_SF_CH5_Settlements\|Settlements (SF Oracles)]]** |
+| **[[_SF_CH5_Space-Encounters\|Space Encounters (SF Oracles)]]** | #Starforged/Oracles/Planet - #TheGuide | **[[_SF_CH5_Settlements\|Settlements (SF Oracles)]]** |
 
 <font size=-2>This work is based on Ironsworn: Starforged (found at [www.ironswornrpg.com](http://www.ironswornrpg.com)), created by Shawn Tomkin, and licensed for our use under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license  (creativecommons.org/licenses/by-nc-sa/4.0/).</font>

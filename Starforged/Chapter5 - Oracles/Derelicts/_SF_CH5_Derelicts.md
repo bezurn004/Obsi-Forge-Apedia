@@ -12,18 +12,7 @@ PageCategory: Index
 PageOrder: 0
 ---
 # [[_Starforged|Starforged]] - [[_SF_CH5_Index|Oracle]]: Derelicts
-To begin with a derelict from scratch, follow these oracles to reveal more about this abandoned site.
-
-## [[SF_CH5_Derelict_Create|Derelict Create Oracle]]
-- Choose a **Location** for the derelict to begin with. This step may already be decided for you if the derelict is found as a result on the another oracle. #consider _Is this true, find sources that set derelict location and link_
-- Then choose which **Type** derelict is discovered based on its location.
-- To complete the initial creation of a derelict site determine the **Condition** it is found in.
-
-## [[SF_CH5_Derelict_Looks|Derelict Looks Oracle]]
-As you approach the derelict site, first get a good survey of its **Outer Look** to reveal more about its nature. Then should you choose to [[SF_CH3_Undertake an Expedition|Undertake an Expedition (move)]] to explore what is inside, get a close inspection of its **Inner Look** as you begin.
-
-## [[SF_CH5_Derelict_Zones|Derelict Zones Oracle]]
-As you begin your expedition, start with the [[SF_CH5_Derelict-Zone-Access#|Derelict Zone: Access Oracle]] as your entry point. Then as the adventure unfolds, generate new **Areas** of the zones as you explore them, occasionally adding **Features**. When your fortunes are bad, generate a **Peril** and take advantage of the **Opportunities** when they turn up.
+_To begin with a derelict from scratch, follow these oracles to reveal more about this abandoned site._
 
 ## Summary: Exploring Derelicts
 Derelicts are broken into zones for primary areas and functions. When you envision moving from one section to another while exploring a derelict, you may roll or choose on the zone chart on the opposite page to help identify what you find. If that’s enough detail, stop rolling and envision the nature of those spaces. You can also use the [[SF_CH5_Core_Descriptor-Focus#|Descriptor/Focus Oracle]] to generate additional aspects of a zone or as an alternative to rolling for a zone.
@@ -42,15 +31,47 @@ If you envision your character with a map or scan of the derelict, or the goal o
 
 *350 CHAPTER 5: ORACLES*
 
-## Derelict Oracles
+> ## Contents
+> ### [[SF_CH5_Derelict_Create|Derelict Create Oracle]]
+> - Derelict Location
+> - Derelict Type
+> 	- Planetside
+> 	- Orbital
+> 	- Deep Space
+> - Derelict Condition
+>   
+>   _Choose a **Location** for the derelict. This may already be decided if the derelict is found within the narrative. Then choose which **Type** derelict is discovered based on its location. To complete the initial creation of a derelict site determine the **Condition** it is found in._
+>   
+>   ### [[SF_CH5_Derelict_Looks|Derelict Looks Oracle]]
+>   - Derelict Outer - First Look
+>   - Derelict Inner - First Look
+>
+>  _As you approach the derelict site, first get a good survey of its **Outer Look** to reveal more about its nature. Then should you choose to [[SF_CH3_Undertake an Expedition|Undertake an Expedition]] to explore what is inside, get a close inspection of its **Inner Look** as you begin._
+>  
+>  ### [[SF_CH5_Derelict_Zones|Derelict Zones Oracle]]
+> - Derelict Zone - Starship
+> - Derelict Zone - Settlement
+> 	- Zone
+> 		- Access
+> 		- Community
+> 		- Engineering
+> 		- Living
+> 		- Medical
+> 		- Operations
+> 		- Production
+> 		- Research
+> 
+> _As you begin your expedition, start with the [[SF_CH5_Derelict-Zone-Access#|Derelict Zone: Access Oracle]] as your entry point. Then as the adventure unfolds, generate new **Areas** of the zones as you explore them, occasionally adding **Features**. When your fortunes are bad, generate a **Peril** and take advantage of the **Opportunities** when they turn up._
 
+## All Derelict Oracles
+_Below are all Derelict oracles across all source material._
 ```dataview
 TABLE without ID
-	link(file.link, OracleFocus) As "Derelict Oracle Focus",
+	link(file.link, OracleFocus) As "Oracle Focus",
 	SourceMaterial As "Source Material",
 	OracleDescriptor As "Description"
 WHERE contains(PageType, "Oracle") & contains(PageCategory, "Derelict") & !contains(PageCategory, "Index") & !contains(file.path, "Template")
-SORT PageOrder, asc
+SORT SourceMaterial, asc AND PageOrder, asc
 ```
 
 ## Tags

@@ -18,23 +18,37 @@ You can roll on these tables individually or combine them with results from othe
 
 The Core Oracles provide creative prompts suitable for many situations. In fact, for a lightweight approach, it’s possible to ignore the other oracles and focus on answering questions using only the [[SF_CH3_Ask the Oracle|Ask the Oracle (move)]] and these four tables.
 
-## [[SF_CH5_Core_Action-Theme|Action/Theme Oracle]]
-Use these oracle tables to reveal details about a goal, situation, or event. They provide a word or phrase that can be taken literally or interpreted as an abstraction.
+> ## Contents
+> ### [[SF_CH5_Core_Action-Theme|Action/Theme Oracle]]
+> - Action
+> - Theme
+>   
+> Use these oracle tables to reveal details about a goal, situation, or event. They provide a word or phrase that can be taken literally or interpreted as an abstraction. Action and Theme can answer questions such as:
+> - “What does this character want?”
+> - “What is this faction’s mission?”
+> - “What caused the downfall of this settlement?”
+> - “What is this device’s purpose?” 
+>   
+>### [[SF_CH5_Core_Descriptor-Focus|Descriptor/Focus Oracle]]
+> - Descriptor
+> - Focus
+>   
+>   Use these oracles to generate the details of a location, discovery, or encounter. The Descriptor oracle is particularly handy for quick generation of a location. For example, use it to describe the basic nature of a planet instead of rolling on the detailed planet oracles. Descriptor and Focus can answer questions such as:
+>   - “What is this ship’s cargo?”
+>   - “What is the nature of this planet?”
+>   - “What is inside this station?”
+>   - “What hazard do I encounter?”
 
-Action and Theme can answer questions such as:
-- “What does this character want?”
-- “What is this faction’s mission?”
-- “What caused the downfall of this settlement?”
-- “What is this device’s purpose?” 
-
-## [[SF_CH5_Core_Descriptor-Focus|Descriptor/Focus Oracle]]
-Use these oracles to generate the details of a location, discovery, or encounter. The Descriptor oracle is particularly handy for quick generation of a location. For example, use it to describe the basic nature of a planet instead of rolling on the detailed planet oracles.
-
-Descriptor and Focus can answer questions such as:
-- “What is this ship’s cargo?”
-- “What is the nature of this planet?”
-- “What is inside this station?”
-- “What hazard do I encounter?”
+## All Core Oracles
+_Below are all Planet oracles across all source material._
+```dataview
+TABLE without ID
+	link(file.link, OracleFocus) As "Oracle Focus",
+	SourceMaterial As "Source Material",
+	OracleDescriptor As "Description"
+WHERE contains(PageType, "Oracle") & contains(PageCategory, "Core") & !contains(PageCategory, "Index") & !contains(file.path, "Template")
+SORT SourceMaterial, asc AND PageOrder, asc
+```
 
 ## Tags
 | Previous Page | Tags | Next Section | 

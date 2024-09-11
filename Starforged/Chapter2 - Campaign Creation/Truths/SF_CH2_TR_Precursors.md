@@ -22,7 +22,7 @@ Choose or envision the nature of the mysterious precursors that lie dormant on t
 ^table-choose-truths
 
 > [!oracle]- Roll
-> `dice: [[TR_Precursors#^table-choose-truths]]`
+> `dice: [[SF_CH2_TR_Precursors#^table-choose-truths]]`
 
 ## Probing Grubs
 **Over eons, a vast number of civilizations rose and fell within the Forge. Today, the folk we call grubs—scavenger crews and audacious explorers—delve into the mysterious monuments and ruins of those ancient beings.** ^truth-1-summary

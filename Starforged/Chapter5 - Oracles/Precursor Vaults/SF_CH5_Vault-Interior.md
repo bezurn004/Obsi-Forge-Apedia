@@ -8,9 +8,9 @@ SourceLink:
 aliases:
   - "Precursor Vault Interior (SF Oracles)"
   - "Precursor Vault Interior - First Look (SF Oracles)"
-  - "Precursor Vault Interior - (SF Oracles)"
-  - "Precursor Vault Interior - (SF Oracles)"
-  - "Precursor Vault Interior - (SF Oracles)"
+  - "Precursor Vault Interior - Feature (SF Oracles)"
+  - "Precursor Vault Interior - Peril (SF Oracles)"
+  - "Precursor Vault Interior - Opportunity (SF Oracles)"
 PageType: Oracle
 PageCategory: "Precursor Vault"
 PageOrder: 2

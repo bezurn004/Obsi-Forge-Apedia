@@ -30,7 +30,7 @@ Make these ==quest moves== when you swear vows, make progress on your quests, an
 
 These sworn quests are the narrative engine of your adventures. In pursuit of your vows, you will undertake perilous expeditions, uncover clues, gain the support of others, recover important items, and defeat powerful foes. Your character will struggle to overcome their own limitations and find their preconceptions and loyalties challenged. 
 
-Overcoming obstacles isn’t just for dramatic purposes. Succeeding against trials, finding your way forward, enables you to [[SF_CH3_Reach a Milestone|Reach a Milestone (move)]] and mark progress on quests. When you [[SF_CH3_Fullfill Your Vow|Fullfill Your Vow (move)]], you gain experience through your quests legacy track that may be spent to improve your character and their resources. 
+Overcoming obstacles isn’t just for dramatic purposes. Succeeding against trials, finding your way forward, enables you to [[SF_CH3_Reach a Milestone|Reach a Milestone (move)]] and mark progress on quests. When you [[SF_CH3_Fullfill Your Vow|Fullfill Your Vow]], you gain experience through your quests legacy track that may be spent to improve your character and their resources. 
 
 But not every task or goal is a vow. If a situation is not dramatic or relevant to your character’s goals and principles, it’s probably not worthy of a sworn quest. It might be a milestone for another quest, or simply a narrative diversion as an opportunity for roleplaying or worldbuilding.
 

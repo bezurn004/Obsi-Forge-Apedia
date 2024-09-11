@@ -28,10 +28,10 @@ ReferencedMoves:
 >**When you follow a known route through perilous space, across hazardous terrain, or within a mysterious site...** ^trigger
 
 >[!error]- Improper Usage
->If the destination or route you are trail blazing is a new or lost discovery, use the [[SF_CH3_Undertake an Expedition|Undertake an Expedition (move)]] instead. ^improper
+>If the destination or route you are trail blazing is a new or lost discovery, use the [[SF_CH3_Undertake an Expedition|Undertake an Expedition]] instead. ^improper
 
 >[!tip]- Group Play
->Only one character needs to make this move for the group.  If another player has unique knowledge, skills or resources that could be helpful on the journey, then [[SF_CH3_Aid Your Ally|Aid Your Ally (move)]] ^group-play
+>Only one character needs to make this move for the group.  If another player has unique knowledge, skills or resources that could be helpful on the journey, then [[SF_CH3_Aid Your Ally|Aid Your Ally]] ^group-play
 
 > [!warning] Action Roll
 > Roll + supply ^action-roll

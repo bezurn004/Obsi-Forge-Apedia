@@ -18,9 +18,9 @@ When you have questions about what you find, how other characters in your settin
 
 When you do something or encounter a situation covered by a move, refer to the move. If it tells you to roll dice, do it.
 
-* (+)(+) **Strong hit** means you are in control. You are driving the narrative and taking proactive actions. What do you do next?
-* (+)(x) **Weak hit** means the situation is slipping out of your control. Instead of acting, you react. How do you respond?
-* (x)(x) **Miss** means you have lost control of the situation. You might need to overcome new dangers or face increasing risk. What happens next?
+* ![[outcome-strong-hit.svg|40]] **Strong hit** means you are in control. You are driving the narrative and taking proactive actions. What do you do next?
+* ![[outcome-weak-hit.svg|40]] **Weak hit** means the situation is slipping out of your control. Instead of acting, you react. How do you respond?
+* ![[outcome-miss.svg|40]] **Miss** means you have lost control of the situation. You might need to overcome new dangers or face increasing risk. What happens next?
 
 If you’re playing with a guide, they’ll help determine how the other characters respond and how the situation evolves. They may ask you questions. Otherwise, you rely on your intuition and occasional oracle rolls to drive the narrative.
 

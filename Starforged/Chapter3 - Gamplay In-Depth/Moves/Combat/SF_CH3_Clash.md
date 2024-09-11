@@ -63,7 +63,7 @@ On a miss, you fail, don’t mark progress, stay in a bad spot, and must [[SF_CH
 > [!cite]- Narrative example
 > You are attempting to hold off enemy troopers as your ally frantically preps the [[AST_Starship|STARSHIP]] for launch. Your foes burst through the docking bay entrance, firing wildly at you and the ship. You level your guns and Clash to shoot back, rolling +edge since you are at a distance. 
 
-*COMBAT MOVES 193*
+*193 COMBAT MOVES*
 
 ## Related Assets
 ```dataview

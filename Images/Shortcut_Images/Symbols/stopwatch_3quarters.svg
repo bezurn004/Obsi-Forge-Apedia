@@ -12,5 +12,5 @@
   <rect x="62" y="35" width="8" height="8" stroke="white" stroke-width="2" fill="white" transform="rotate(15 66 39)" />
 
   <!-- 3/4 circle 4px gap from stopwatch -->
-  <path d="M50,75 L50,39 A36,36 0 0,1 50,111 A36,36 0 0,1 14,75 L50,75 Z" fill="white" />
+  <path d="M50,75 L50,39 A36,36 0 0,1 50,111 A36,36 0 0,1 14,75 L50,75 Z" fill="black" />
 </svg>

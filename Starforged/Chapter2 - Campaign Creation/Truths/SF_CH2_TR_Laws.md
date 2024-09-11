@@ -22,7 +22,7 @@ Choose or envision how justice is enforced in the scattered settlements of the F
 ^table-choose-truths
 
 > [!oracle]- Roll
-> `dice: [[TR_Laws#^table-choose-truths]]`
+> `dice: [[SF_CH2_TR_Laws#^table-choose-truths]]`
 
 ## Lawless Forge
 **Much of the settled domains are a lawless frontier. Criminal factions and corrupt leaders often hold sway.** ^truth-1-summary

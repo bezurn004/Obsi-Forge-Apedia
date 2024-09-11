@@ -22,7 +22,7 @@ Choose or envision the availability of medical care in the isolated, retrograde,
 ^table-choose-truths
 
 > [!oracle]- Roll
-> `dice: [[TR_Medicine#^table-choose-truths]]`
+> `dice: [[SF_CH2_TR_Medicine#^table-choose-truths]]`
 
 ## Dull Scalpel
 **Our advanced medical technologies and expertise was lost during the Exodus.** ^truth-1-summary

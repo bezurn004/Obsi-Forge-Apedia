@@ -22,7 +22,7 @@ Choose or envision how humanity has fared life settling into the Forge...
 ^table-choose-truths
 
 > [!oracle]- Roll
-> `dice: [[TR_Communities#^table-choose-truths]]`
+> `dice: [[SF_CH2_TR_Communities#^table-choose-truths]]`
 
 ## Scattered and Few
 **Few survived the journey to the Forge, and we are scattered to the winds in this perilous place.** ^truth-1-summary

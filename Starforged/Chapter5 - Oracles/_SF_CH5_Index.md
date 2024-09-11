@@ -47,7 +47,6 @@ Individual Oracles are usually grouped by purpose. See the table for general gui
 ## All Oracles
 Below is a list of all Oracle pages across all source material. 
 
-| P
 ```dataview
 TABLE without ID
 	link(file.link, OracleFocus) As "Oracle Focus",

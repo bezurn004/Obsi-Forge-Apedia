@@ -17,7 +17,7 @@ PageOrder: 0
 > [!todo] [[_SF_CH1_The Basics|Chapter 1 - The Basics]] [Pages 17-73]
 > You’re reading it! This is an introduction to _Starforged_ and the fundamentals of the game. If you’re a returning Ironsworn player, this chapter will provide a refresher and introduce some changes. If you’re new to Ironsworn, it will get you up to speed. Feel free to just scan this chapter to get a sense of the fundamentals; if you have questions about a particular aspect of play, jump to that section and give it a closer read. 
 
-> [!progress] [[_SF_CH2_Contents|Chapter 2 - Launching Your Campaign]] [Pages 77-139]
+> [!progress] [[_SF_CH2_Contents|Chapter 2 - Launching Your Campaign]] [Pages 77-134]
 > This chapter includes a series of exercises to get your _Starforged_ campaign up and running. Work through these exercises to define the nature of your setting, create your character, setup a starting location, and begin your first quest.
 
 > [!success] [[_SF_CH3_Gameplay In Depth|Chapter 3 - Gameplay In Depth]] [Pages 139-247]

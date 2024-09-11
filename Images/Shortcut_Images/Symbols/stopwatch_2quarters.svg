@@ -15,5 +15,5 @@
   <rect x="66" y="30" width="8" height="8" stroke="white" stroke-width="2" fill="white" transform="rotate(18 66 39)" />
   
   <!-- Half-circle at the center, rotated 90 degrees to the right, filled white -->
-  <path d="M50,39 a36,36 0 0,1 0,72" fill="white" />
+  <path d="M50,39 a36,36 0 0,1 0,72" fill="black" />
 </svg>

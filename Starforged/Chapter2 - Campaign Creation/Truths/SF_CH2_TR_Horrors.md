@@ -23,7 +23,7 @@ Choose or envision entities of the supernatural are represented here in the Forg
 ^table-choose-truths
 
 > [!oracle]- Roll
-> `dice: [[TR_Horrors#^table-choose-truths]]`
+> `dice: [[SF_CH2_TR_Horrors#^table-choose-truths]]`
 
 ## Vengeful Spectre
 **Put enough alcohol in a spacer, and they’ll tell you stories of ghost ships crewed by vengeful undead. It’s nonsense.** ^truth-1-summary

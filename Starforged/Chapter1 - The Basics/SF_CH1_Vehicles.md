@@ -18,10 +18,10 @@ There are three types of vehicles you’ll rely on as your travel through the pe
 ## Command Vehicle
 Your ==command vehicle== is your [[AST_Starship|STARSHIP]], earned at character creation. It is an interstellar craft capable of faster-than-light travel. If you are playing with others, you and your allies share this asset. If you are playing in solo mode, you can fly the ship as a lone spacer thanks to automation and centralized controls. The command vehicle has an integrity meter, and can suffer from battered or cursed impacts.
 
-_See below table for a rough approximation of the diagram from the rulebook_  shown on pages 66–67 for a cutaway illustration of a typical STARSHIP.
+_See below table for a rough approximation of the diagram from the rulebook_  shown on pages 66–67 for a cutaway illustration of a typical [[AST_Starship|STARSHIP]].
 
 ## Support Vehicles
-==[[SF_CH1_Assets#Support Vehicles|Support vehicles]]== are assets that represent special secondary vehicles. They can be carried and launched by your [[AST_Starship|Starship (asset)]]. They have an integrity meter, and can suffer from the battered impact.
+==[[SF_CH1_Assets#Support Vehicles|Support vehicles]]== are assets that represent special secondary vehicles. They can be carried and launched by your [[AST_Starship|STARSHIP]]. They have an integrity meter, and can suffer from the battered impact.
 
 ## Incidental Vehicles
 An ==incidental vehicle== is one you temporarily acquire through the course of your story. For example, if you need to journey across the surface of an ocean world, you might borrow a sea-skimmer from a local settlement. Incidental vehicles have an integrity meter, but cannot be marked as battered. When you board an incidental vehicle, envision its nature and assign a max integrity as follows.

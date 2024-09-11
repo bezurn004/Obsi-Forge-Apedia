@@ -21,16 +21,35 @@ Other oracles in this section include:
 - Use the [[SF_CH5_Stellar-Object|Stellar Object Oracle]] to learn more about the primary star at a location. This is mostly to help you visualize your surroundings, but the strange or hazardous nature of some rare stars can incite new adventures.
 - The [[SF_CH5_Spacee-Fortunes|Spaceborne Peril Oracle]] and [[SF_CH5_Spacee-Fortunes#Oracle Spaceborne Opportunity|Spaceborne Opportunity Oracle]] can help identify the nature of a deep space event.
 
-To learn more about travel and exploration within the Forge, see [[SF_CH1_Navigating the Forge|Navigating the Forge (gameplay)]]. 
+To learn more about travel and exploration within the Forge, see [[SF_CH1_Navigating the Forge|Navigating The Forge (SF The Basics)]]. 
 
 > Reminder: A result with an arrow symbol (▶) indicates you can jump to another oracle to reveal more detail
 
+> ## Contents
+> ### [[SF_CH5_Space-Sightings|Space Sightings]]
+> - Space Sightings
+> 	- Terminus
+> 	- Outlands
+> 	- Expanse
+> ### [[SF_CH5_Sector-Name|Sector Name]]
+> - Sector Name
+> 	- Prefix
+> 	- Suffix
+> ### [[SF_CH5_Spacee-Fortunes|Spaceborne Fortunes]]
+> - Spaceborne Peril
+> - Spaceborne Opportunity
+> ### [[SF_CH5_Stellar-Object|Stellar Object]]
+> - Stellar Object
+
+## All Planet Oracles
+_Below are all Space Encounter oracles across all source material._
 ```dataview
 TABLE without ID
-	link(file.link, OracleFocus) As "Space Oracle Focus",
-	SourceMaterial As "Source Material"
-WHERE contains(PageType, "Oracle") & contains(PageCategory, "Space") & !contains(PageCategory, "Index")
-SORT OracleFocus, asc
+	link(file.link, OracleFocus) As "Oracle Focus",
+	SourceMaterial As "Source Material",
+	OracleDescriptor As "Description"
+WHERE contains(PageType, "Oracle") & contains(PageCategory, "Space") & !contains(PageCategory, "Index") & !contains(file.path, "Template")
+SORT SourceMaterial, asc AND PageOrder, asc
 ```
 
 ## Tags

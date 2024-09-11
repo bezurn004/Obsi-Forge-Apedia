@@ -45,7 +45,7 @@ Wounded, shaken, and unprepared can be cleared when you succeed on an appropriat
 
 Vehicle troubles are linked to a specific vehicle, either your command vehicle asset or a support vehicle asset. These impacts are only a factor when you are piloting or aboard that vehicle. Otherwise, they do not count as an impact and do not affect your maximum momentum and momentum reset.
 
-Battered can be overcome when you successfully [[SF_CH3_Repair|Repair (move)]] that vehicle and clear the trouble. Until you do so, you cannot raise the vehicle’s integrity. Cursed is a permanent impact and will forever plague your [[AST_Starship|STARSHIP]]. To learn more about [[_Vehicle Assets|Vehicle Assets]]. To learn more about [[SF_CH1_Vehicles|Vehicles (gameplay)]] in general in your _Starforged campaign_, see the prior linked page.
+Battered can be overcome when you successfully [[SF_CH3_Repair|Repair (move)]] that vehicle and clear the trouble. Until you do so, you cannot raise the vehicle’s integrity. Cursed is a permanent impact and will forever plague your [[AST_Starship|STARSHIP]]. To learn more about [[_Vehicle Assets|Vehicle Assets]]. To learn more about [[SF_CH1_Vehicles|Vehicles (The Basics)]] in general in your _Starforged campaign_, see the prior linked page.
 
 > [!tip] Group Play
 > If playing with allies, a vehicle trouble affects anyone on the vehicle, regardless of who owns or manages the vehicle asset.

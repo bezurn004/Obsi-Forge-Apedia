@@ -17,7 +17,7 @@ Take the ==[[AST_Starship|Starship]] command vehicle== asset card. This is your 
 
 > [!tip] **Flying with Allies**
 > If you are playing with allies, you share the [[AST_Starship|STARSHIP]]. You can put the asset in a place visible and accessible to everyone, or appoint one player to manage the card.
-> If you are playing with others, discuss whether your characters are co-owners of the ship, or if one of you is the primary owner. Alternatively, the ship can belong to another person or faction, and you are its crew. This is just a narrative embellishment; it has no effect on how the asset is used in play. Anyone aboard can use the [[AST_Starship|Starship]] asset abilities.
+> If you are playing with others, discuss whether your characters are co-owners of the ship, or if one of you is the primary owner. Alternatively, the ship can belong to another person or faction, and you are its crew. This is just a narrative embellishment; it has no effect on how the asset is used in play. Anyone aboard can use the [[AST_Starship|STARSHIP]] asset abilities.
 
 ## Flying Alone
 If you are playing Starforged solo, you are a lone spacer in a vast galaxy. Thanks to automation and centralized controls, your starship is fully capable of flying and fighting while operated by a single pilot.
@@ -31,20 +31,20 @@ If you are playing Starforged solo, you are a lone spacer in a vast galaxy. Than
 ## Giving The Starship a History
 Envision how you obtained or earned this ship. You can come up with your own origin, or roll or pick from the table below. If you use a result from the table, take a moment to consider and elaborate on the suggestion.
 
-| dice: 1d100 | Starship History | %% Source %% |
-| :---: |:--- | --- |
-| 1 – 8 | Acquired in trade for a precious family heirloom | %% IS:Starforged %% |
-| 9 – 17 | Built out of repurposed scrap | %% IS:Starforged %% |
-| 18 – 25 | Claimed as spoils of war | %% IS:Starforged %% |
-| 26 – 34 | Discovered as a derelict, and patched back together | %% IS:Starforged %% |
-| 35 – 42 | Earned in exchange for a promise or vow | %% IS:Starforged %% |
-| 43 – 50 | Found abandoned in perfect condition | %% IS:Starforged %% |
-| 51 – 58 | Granted by an organization or community | %% IS:Starforged %% |
-| 59 – 67 | Inherited from a relative or mentor | %% IS:Starforged %% |
-| 68 – 75 | Purchased at a suspiciously cheap price | %% IS:Starforged %% |
-| 76 – 84 | Stolen from a notorious crime boss or criminal organization | %% IS:Starforged %% |
-| 85 – 92 | Taken while fleeing an attack or disaster | %% IS:Starforged %% |
-| 93 – 100 | Won in a bet | %% IS:Starforged %% |
+| dice: 1d100 | Starship History |
+|:---:|:--- |
+| 1 – 8 | Acquired in trade for a precious family heirloom |
+| 9 – 17 | Built out of repurposed scrap |
+| 18 – 25 | Claimed as spoils of war |
+| 26 – 34 | Discovered as a derelict, and patched back together |
+| 35 – 42 | Earned in exchange for a promise or vow |
+| 43 – 50 | Found abandoned in perfect condition |
+| 51 – 58 | Granted by an organization or community |
+| 59 – 67 | Inherited from a relative or mentor |
+| 68 – 75 | Purchased at a suspiciously cheap price |
+| 76 – 84 | Stolen from a notorious crime boss or criminal organization |
+| 85 – 92 | Taken while fleeing an attack or disaster |
+| 93 – 100 | Won in a bet |
 ^table-starship-history
 
 > [!oracle]- Roll
@@ -79,7 +79,7 @@ Your ship is an important aspect of your character, and a character in its own r
 | 96 – 100 | Timers and clocks are always just a bit off |
 ^table-starship-quirks
 
-> [!oracle] Roll
+> [!oracle]- Roll
 > `dice: [[SF_CH2_Board Your Starship#^table-starship-quirks]]`
 
 ## Name Your Starship

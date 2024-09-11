@@ -97,11 +97,11 @@ If you score a miss with 0 health and those impacts are already marked, you have
 ## Endure Harm Miss Table
 | dice: 1d100 | `dice: [[SF_CH3_Endure Harm#^table-miss]]` |
 | :---: | --- |
-| 1–10 | You suffer mortal harm. [[SF_CH3_Face Death\|Face Death]]. |
-| 11–20 | You are dying. Within an hour or two, you must [[SF_CH3_Heal\|Heal]] and raise your health above 0, or [[SF_CH3_Face Death\|Face Death]]. |
-| 21–35 | You are unconscious and out of action. If left alone, you come back to your senses in an hour or two. If you are vulnerable to ongoing harm, [[SF_CH3_Face Death\|Face Death]] |
-| 36–50 | You are reeling. If you engage in any vigorous activity before taking a breather, roll on this table again (before resolving the other move). |
-| 51–100 | You are still standing |
+| 1 – 10 | You suffer mortal harm. [[SF_CH3_Face Death\|Face Death]]. |
+| 11 – 20 | You are dying. Within an hour or two, you must [[SF_CH3_Heal\|Heal]] and raise your health above 0, or [[SF_CH3_Face Death\|Face Death]]. |
+| 21 – 35 | You are unconscious and out of action. If left alone, you come back to your senses in an hour or two. If you are vulnerable to ongoing harm, [[SF_CH3_Face Death\|Face Death]] |
+| 36 – 50 | You are reeling. If you engage in any vigorous activity before taking a breather, roll on this table again (before resolving the other move). |
+| 51 – 100 | You are still standing |
 ^table-miss
 
 ## Related Assets

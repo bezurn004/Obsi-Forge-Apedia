@@ -22,7 +22,7 @@ Choose or envision the weight of war as communities vie for dominance of the sca
 ^table-choose-truths
 
 > [!oracle]- Roll
-> `dice: [[TR_War#^table-choose-truths]]`
+> `dice: [[SF_CH2_TR_War#^table-choose-truths]]`
 
 ## Scavenged Arms
 **Here in the Forge, resources are too precious to support organized fighting forces or advanced weaponry.** ^truth-1-summary

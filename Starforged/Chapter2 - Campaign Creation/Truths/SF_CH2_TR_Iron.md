@@ -22,7 +22,7 @@ Choose or envision the tradition an the order of the ironsworn honor their vows.
 ^table-choose-truths
 
 > [!oracle]- Roll
-> `dice: [[TR_Iron#^table-choose-truths]]`
+> `dice: [[SF_CH2_TR_Iron#^table-choose-truths]]`
 
 ## Exodus Iron
  **Iron vows are sworn upon the remnants of ships that carried our people to the Forge.** ^truth-1-summary

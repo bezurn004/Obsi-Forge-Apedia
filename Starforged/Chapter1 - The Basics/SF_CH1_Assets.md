@@ -50,7 +50,7 @@ The command vehicle has an [[SF_CH1_Condition Meters#Asset Condition Meters|inte
 
 These assets are earned and managed by a single character. They can be shared with allies, but only if it’s practical for them to make use of it (not everyone may know how to use a [[AST_Research Lab|RESEARCH LAB]].
 
-When you [[SF_CH3_Withstand Damage|Withstand Damage (move)]] and score a miss, you can mark a module as broken to offset further danger for your [[AST_Starship|Starship (asset)]]. Flip the card over to indicate its broken state. A broken module cannot be used until you successfully [[SF_CH3_Repair|Repair (move)]] it.
+When you [[SF_CH3_Withstand Damage|Withstand Damage (move)]] and score a miss, you can mark a module as broken to offset further danger for your [[AST_Starship|STARSHIP]]. Flip the card over to indicate its broken state. A broken module cannot be used until you successfully [[SF_CH3_Repair|Repair (move)]] it.
 
 > [!example]- RESEARCH LAB [module]
 > ![[AST_Research Lab#^Header]]
