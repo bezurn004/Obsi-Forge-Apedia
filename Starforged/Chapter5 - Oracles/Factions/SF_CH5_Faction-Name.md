@@ -33,10 +33,10 @@ An alternative approach to generating a faction from scratch is to start with a 
 
 | dice: 1d100 | Result |
 |:---:|:--- |
-| 1-40 | [[SF_CH5_Faction-Name#Oracle Faction Name - Legacy\|▶Legacy]] + [[SF_CH5_Faction-Name#Oracle Faction Name - Affiliation\|▶Affiliation]] |
-| 41-55 | [[SF_CH5_Faction-Name#Oracle: Faction Name - Legacy\|▶Legacy]] + [[SF_CH5_Faction-Name#Oracle - Faction Name: Identity\|▶Identity]] |
-| 56-70 | [[SF_CH5_Faction-Name#Oracle - Faction Name: Identity\|▶Identity]] of the [[SF_CH5_Faction-Name#Oracle -  Faction Name: Affiliation\|▶Affiliation]] |
-| 71-100 | [[SF_CH5_Faction-Name#Oracle: Faction Name - Affiliation\|▶Affiliation]] of the [[SF_CH5_Faction-Name#Oracle - Faction Name: Legacy\|▶Legacy]] |
+| 1 - 40 | [[SF_CH5_Faction-Name#Oracle Faction Name - Legacy\|▶Legacy]] + [[SF_CH5_Faction-Name#Oracle Faction Name - Affiliation\|▶Affiliation]] |
+| 41 - 55 | [[SF_CH5_Faction-Name#Oracle: Faction Name - Legacy\|▶Legacy]] + [[SF_CH5_Faction-Name#Oracle - Faction Name: Identity\|▶Identity]] |
+| 56 - 70 | [[SF_CH5_Faction-Name#Oracle - Faction Name: Identity\|▶Identity]] of the [[SF_CH5_Faction-Name#Oracle -  Faction Name: Affiliation\|▶Affiliation]] |
+| 71 - 100 | [[SF_CH5_Faction-Name#Oracle: Faction Name - Affiliation\|▶Affiliation]] of the [[SF_CH5_Faction-Name#Oracle - Faction Name: Legacy\|▶Legacy]] |
 ^table-OclFactionNameTemplate
 
 ## Oracle: Faction Name - Legacy
@@ -96,6 +96,8 @@ An alternative approach to generating a faction from scratch is to start with a 
 | 97 - 98 | Veiled |
 | 99 - 100 | Wandering |
 ^table-OclFactionName-Legacy
+
+*344 CHAPTER 5: ORACLES*
 
 ## Oracle: Faction Name - Affiliation
 > [!mechanics]- | Roll > `dice: [[SF_CH5_Faction-Name#^table-OclFactionName-Alliance]]` | Guidance
@@ -187,6 +189,8 @@ An alternative approach to generating a faction from scratch is to start with a 
 | 97 - 98 | Wreckers |
 | 99 - 100 | Wrights |
 ^table-OclFactionName-Identity
+
+*345 FACTIONS*
 
 ## Tags
 | Previous Page | Tags | Next Page |

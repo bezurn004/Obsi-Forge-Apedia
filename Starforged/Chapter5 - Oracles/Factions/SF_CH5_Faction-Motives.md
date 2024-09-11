@@ -62,6 +62,8 @@ OracleDescriptor: "A Faction's broad generalization of their Projects and Quirks
 | 97 - 100 | ▶[[SF_CH5_Core_Action-Theme#Oracle Action\|Action]] + [[SF_CH5_Core_Action-Theme#Oracle Theme\|Theme]] |
 ^table-OclFactionProjects
 
+*342 CHAPTER 5: ORACLES*
+
 ## Oracle: Faction Quirks
 > [!mechanics]- | Roll > `dice: [[SF_CH5_Faction-Motives#^table-OclFactionQuirks]]` | Guidance
 > Roll or pick known characteristics of the faction and its members using this table. But keep in mind that even within a small or specialized faction, there are no absolutes. These quirks represent common attitudes, practices, or approaches, but are not universal to every member of that faction. Leave room in your portrayal for diversity and contradictions. ^guidance-OclFactionQuirks
@@ -102,6 +104,8 @@ OracleDescriptor: "A Faction's broad generalization of their Projects and Quirks
 | 94 - 96 | Work or environment causes mutations |
 | 97 - 100 | ▶[[SF_CH5_Core_Action-Theme#Oracle Action\|Action]] + [[SF_CH5_Core_Action-Theme#Oracle Theme\|Theme]] |
 ^table-OclFactionQuirks
+
+*348 CHAPTER 5: ORACLES*
 
 ## Tags
 | Previous Page | Tags | Next Page |

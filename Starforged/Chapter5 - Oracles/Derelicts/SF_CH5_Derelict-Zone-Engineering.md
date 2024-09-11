@@ -49,7 +49,7 @@ _The primary infrastructure at the heart of this now abandoned derelict._
 
 | dice: 1d100 | Result |
 | :---: | :--- |
-| 1 – 8 | Cluttered workbench |
+| 1 - 8 | Cluttered workbench |
 | 9 - 16 | Control terminal |
 | 17 - 24 | Crane or lift |
 | 25 - 32 | Disassembled equipment |
@@ -88,12 +88,14 @@ _The primary infrastructure at the heart of this now abandoned derelict._
 
 | dice: 1d100 | Result |
 | :---: | :--- |
-| 1 – 20 | Advanced or experimental equipment |
+| 1 - 20 | Advanced or experimental equipment |
 | 21 - 40 | Chance to restore power or function |
 | 41 - 60 | Helpful plans or schematics |
 | 61 - 80 | Helpful utility bot |
 | 81 - 100 | Useful tool or device |
 ^table-OclDerelictZone-Engineering-Opportunity
+
+*354 CHAPTER 5: ORACLES*
 
 ## Tags
 | Previous Page | Tags | Next Page |

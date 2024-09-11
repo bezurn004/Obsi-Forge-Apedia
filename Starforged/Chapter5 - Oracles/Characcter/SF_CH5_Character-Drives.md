@@ -126,6 +126,8 @@ As more information is learned about a character use these oracles to flesh out 
 | 91 - 100 | Roll twice |
 ^table-OclCharacterGoal
 
+*331 CHARACTERS*
+
 ## Oracle: Character Revealed Aspect
 > [!mechanics]- | Roll > `dice: [[SF_CH5_Character-Drives#^table-OclCharacterRevealedAspect]]` | Guidance
 > As you interact with a character and gain a deeper understanding of their nature and personality, roll on the character revealed aspect oracle to reveal new characteristics. You may ignore, reroll, or adjust contradictions. Or envision how those contradictions add interesting complexity to the character. ^guidance-OclCharacterRevealedAspect
@@ -233,6 +235,8 @@ As more information is learned about a character use these oracles to flesh out 
 | 99 | Wild |
 | 100 | Wise |
 ^table-OclCharacterRevealedAspect
+
+*332 CHAPTER 5: ORACLES*
 
 ## Tags
 | Previous Page | Tags | Next Page |

@@ -154,6 +154,8 @@ After finding the [[SF_CH5_Creature-Environment-Scale|environment and scale]] of
 | 91 - 100 | Roll twice |
 ^table-OcllCreatureForm-Air
 
+*337 CREATURES*
+
 ## Tags
 | Previous Page | Tags | Next Page |
 |:--- |:---:| ---:|

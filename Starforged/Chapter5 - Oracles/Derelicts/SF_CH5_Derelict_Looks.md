@@ -79,6 +79,8 @@ Derelicts are the forsaken relics of human endeavors. Use these First Look table
 | 94 - 100 | ▶[[SF_CH5_Core_Descriptor-Focus#Oracle Descriptor\|Descriptor]] + [[SF_CH5_Core_Descriptor-Focus#Oracle Focus\|Focus]] |
 ^table-OclDerelictFirstLookInner
 
+*349 DERELICTS*
+
 ## Tags
 | Previous Page | Tags | Next Page |
 |:--- |:---:| ---:|

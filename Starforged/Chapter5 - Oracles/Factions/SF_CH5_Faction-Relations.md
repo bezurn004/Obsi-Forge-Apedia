@@ -37,6 +37,8 @@ The overall influence of a Faction throughout the Forge. Also, how a Faction rel
 | 96 - 100 | Inescapable - Pervasive influence across inhabited space |
 ^table-OclFactionInfluence
 
+*340 CHAPTER 5: ORACLES*
+
 ## Oracle: Faction Relationship
 > [!mechanics]- | Roll > `dice: [[SF_CH5_Faction-Relations#^table-OclFactionRelationship]]` | Guidance
 > Don’t overload your campaign with factions. Instead, focus on your interactions and entanglements with members of a few interesting factions. Then, when you have a question about the relationship of one faction to another, use this table. The result is the commonly understood connection between those factions. Further investigations or events may reveal a deeper or alternate truth. ^guidance-OclFactionRelationship
@@ -72,6 +74,8 @@ The overall influence of a Faction throughout the Forge. Also, how a Faction rel
 | 93 - 96 | Warring with |
 | 97 - 100 | Roll twice |
 ^table-OclFactionRelationship
+
+*343 FACTIONS*
 
 ## Oracle: Faction Rumors
 > [!mechanics]- | Roll > `dice: [[SF_CH5_Faction-Relations#^table-OclFactionRumors]]` | Guidance
@@ -113,6 +117,8 @@ The overall influence of a Faction throughout the Forge. Also, how a Faction rel
 | 94 - 96 | Vulnerable to attack or aggression |
 | 97 - 100 | ▶[[SF_CH5_Core_Action-Theme#Oracle Action\|Action]] + [[SF_CH5_Core_Action-Theme#Oracle Theme\|Theme]] |
 ^table-OclFactionRumors
+
+*347 FACTIONS*
 
 ## Tags
 | Previous Page | Tags | Next Section |

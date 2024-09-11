@@ -95,6 +95,8 @@ _Crates strewn about while still workshops lie unutilized._
 | 81 - 100 | Valuable cargo |
 ^table-OclDerelictZone-Production-Opportunity
 
+*358 CHAPTER 5: ORACLES*
+
 ## Tags
 | Previous Page | Tags | Next Page |
 |:--- |:---:| ---:|

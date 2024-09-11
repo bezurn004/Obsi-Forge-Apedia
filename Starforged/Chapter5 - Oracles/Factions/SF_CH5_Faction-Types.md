@@ -34,6 +34,8 @@ Create a faction by choosing the type of organization it is modeled after.
 | 71 - 100 | ▶[[SF_CH5_Faction-Types#Oracle Faction Fringe Group\|Fringe Group]] - Band of outlaws, outcasts, or rogues |
 ^table-OclFactionTypes
 
+*340 CHAPTER 5: ORACLES*
+
 ## Oracle: Faction Dominion
 > [!mechanics]- | Roll > `dice: [[SF_CH5_Faction-Types#^table-OclFactionType-Dominion]]`1 | Guidance
 > The tenants and focus' for this Dominion faction. ^guidnace-OclFactionType-Dominion
@@ -126,6 +128,8 @@ Create a faction by choosing the type of organization it is modeled after.
 | 86 - 95 | Smugglers |
 | 96 - 100 | Roll twice |
 ^table-OclFactionType-FringeGroup
+
+*341 FACTIONS*
 
 ## Tags
 | Previous Page | Tags | Next Page |

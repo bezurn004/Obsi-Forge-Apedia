@@ -34,7 +34,7 @@ _Empty chairs at empty tables. Silent halls and dishevled displays._
 | 17 - 24 | Concourse or hub |
 | 25 - 32 | Entertainment |
 | 33 - 40 | Gym or fitness |
-| 41-  48 | Market or trade |
+| 41 - 48 | Market or trade |
 | 49 - 56 | Park or garden |
 | 57 - 64 | Promenade or overlook |
 | 65 - 72 | Restaurant or dining |
@@ -49,7 +49,7 @@ _Empty chairs at empty tables. Silent halls and dishevled displays._
 
 | dice: 1d100 | Result |
 | :---: | :--- |
-| 1 – 8 | Ad-hoc memorials |
+| 1 - 8 | Ad-hoc memorials |
 | 9 - 16 | Art depicting historic event |
 | 17 - 24 | Artificial environment |
 | 25 - 32 | Automated announcements |
@@ -88,12 +88,14 @@ _Empty chairs at empty tables. Silent halls and dishevled displays._
 
 | dice: 1d100 | Result |
 | :---: | :--- |
-| 1 – 20 | Culturally significant object or artifact |
+| 1 - 20 | Culturally significant object or artifact |
 | 21 - 40 | Salvageable goods or resources |
 | 41 - 60 | Secure area offers a moment of peace |
 | 61 - 80 | Terminal with access to site details |
 | 81 - 100 | Valuable item |
 ^table-OclDerelictZone-Community-Opportunity
+
+*353 DERELICTS*
 
 ## Tags
 | Previous Page | Tags | Next Page |

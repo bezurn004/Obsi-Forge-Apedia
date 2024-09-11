@@ -95,6 +95,8 @@ _Half finished experiments and papers litter the shelves, untold knowledge possi
 | 81 - 100 | Useful navigational data |
 ^table-OclDerelictZone-Research-Opportunity
 
+*359 DERELICTS*
+
 ## Tags
 | Previous Page | Tags | Next Section |
 |:--- |:---:| ---:|

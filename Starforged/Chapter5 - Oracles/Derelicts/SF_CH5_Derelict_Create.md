@@ -84,6 +84,8 @@ Once complete, continue to the [[SF_CH5_Derelict_Looks#Oracle Derelict First Loo
 | 99 - 100 | Impending destruction |
 ^table-OclDerelictCondition
 
+*348 CHAPTER 5: ORACLES*
+
 ## Tags
 | Section Page | Tags | Next Page |
 |:--- |:---:| ---:|

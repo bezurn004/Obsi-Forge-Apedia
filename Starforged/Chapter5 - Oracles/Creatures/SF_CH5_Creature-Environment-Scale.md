@@ -61,6 +61,8 @@ For a new creature choose its primary **Environment** where it lives and the **S
 | 100 | Vast (planet-sized) |
 ^table-OcllCreatureUltraScale
 
+*336 CHAPTER 5: ORACLES*
+
 ## Tags
 | Section Page | Tags | Next Page |
 |:--- |:---:| ---:|

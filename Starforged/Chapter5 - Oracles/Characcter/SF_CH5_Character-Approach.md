@@ -88,6 +88,8 @@ Use the **First Look** and **Initial Disposition** oracles to get the first impr
 | 95 - 100 | Hostile |
 ^table-OclCharacterInitialDisposition
 
+*330 CHAPTER 5: ORACLES*
+
 ## Tags
 | Section Page | Tags | Next Page |
 |:--- |:---:| ---:|

@@ -23,7 +23,7 @@ OracleDescriptor: "As you spend time with a creature begin to apprach it, add la
 As you spend time with a creature begin to apprach it, add layers to their appearance and behavior.
 
 ## Oracle: Creature First Look
-> [!mechanics]- | Roll > `dice: [[SF_CH5_Creature-Approach#^tableOclCreatureFirstLook]]` | Guidance
+> [!mechanics]- | Roll > `dice: [[SF_CH5_Creature-Approach#^table-OclCreatureFirstLook]]` | Guidance
 > Roll for a [[SF_CH5_Creature-Basic Form|Basic Form]], and flesh out the creature’s appearance with this oracle. ^guidance-OcllCreatureFirstLook
 
 | dice: 1d100 | Result @1-2 |
@@ -78,10 +78,10 @@ As you spend time with a creature begin to apprach it, add layers to their appea
 | 95 - 96 | Tentacles or tendrils |
 | 97 - 98 | Translucent |
 | 99 - 100 | Visible symbiote |
-^tableOclCreatureFirstLook
+^table-OclCreatureFirstLook
 
 ## Oracle: Creature Encountered Behavior
-> [!mechanics]- | Roll > `dice: [[SF_CH5_Creature-Approach#^tableOcllCreatureEncounteredBehavior]]` | Guidance
+> [!mechanics]- | Roll > `dice: [[SF_CH5_Creature-Approach#^table-OcllCreatureEncounteredBehavior]]` | Guidance
 > Roll once on this oracle to define this creature’s motivation and frame how the encounter begins. ^guidance-OcllCreatureEncounteredBehavior
 
 | dice: 1d100 | Result |
@@ -107,10 +107,13 @@ As you spend time with a creature begin to apprach it, add layers to their appea
 | 86 - 90 | Tracker |
 | 91 - 95 | Trapper |
 | 96 - 100 | Roll twice |
-^tableOcllCreatureEncounteredBehavior
+^table-OcllCreatureEncounteredBehavior
+
+
+*338 CHAPTER 5: ORACLES*
 
 ## Oracle: Creature Revealed Aspect
-> [!mechanics]- | Roll > `dice: [[SF_CH5_Creature-Approach#^tableOcllCreatureRevealedAspect]]` | Guidance
+> [!mechanics]- | Roll > `dice: [[SF_CH5_Creature-Approach#^table-OcllCreatureRevealedAspect]]` | Guidance
 > Roll on this oracle as you interact with the creature to introduce new features or behaviors. Some results may contradict the established nature of a creature. For example, an amorphous creature that you envisioned as a mass of pure energy would not have typical physical features. If a result doesn’t fit, feel free to ignore, reroll, or adjust. Or envision how this contradiction signals a new understanding or unexpected transformation. ^guidance-OcllCreatureRevealedAspect
 
 | dice: 1d100 | Result @1-2 |
@@ -165,7 +168,9 @@ As you spend time with a creature begin to apprach it, add layers to their appea
 | 95 - 96 | Teleportation |
 | 97 - 98 | Territorial |
 | 99 - 100 | Toxic spew |
-^tableOcllCreatureRevealedAspect
+^table-OcllCreatureRevealedAspect
+
+*339 CREATURES*
 
 ## Tags
 | Previous Page | Tags | Next Section |

@@ -40,6 +40,8 @@ If you encounter a prompt for a “New Zone” when rolling for an area, you are
 ### Surveying a Prepared Site
 If you envision your character with a map or scan of the derelict, or the goal of your exploration is to reach a specific zone (such as the bridge on a derelict starship), you can create a simple flow chart of the layout. Include zones and the access types that connect them. Leave some blank zones to discover during play. Use this map—along with rolls on the zone oracles as appropriate—to help envision your path through the site.
 
+*350 CHAPTER 5: ORACLES*
+
 ## Derelict Oracles
 
 ```dataview

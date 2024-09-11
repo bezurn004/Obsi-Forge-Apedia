@@ -45,7 +45,7 @@ _Deserted passageways and broken entries_
 
 | dice: 1d100 | Result |
 | :---: | :--- |
-| 1 – 5 | Abandoned gear |
+| 1 - 5 | Abandoned gear |
 | 6 - 10 | Blood trail |
 | 11 - 15 | Breached door or hatch |
 | 16 - 20 | Control or terminal station |
@@ -73,7 +73,7 @@ _Deserted passageways and broken entries_
 
 | dice: 1d100 | Result |
 | :---: | :--- |
-| 1 – 10 | Alarm or failsafe is triggered |
+| 1 - 10 | Alarm or failsafe is triggered |
 | 11 - 20 | Automated defenses |
 | 21 - 30 | Blocked or sealed path |
 | 31 - 40 | Dreadful scene of death or violence |
@@ -92,12 +92,14 @@ _Deserted passageways and broken entries_
 
 | dice: 1d100 | Result |
 | :---: | :--- |
-| 1 – 20 | Directions, shortcut, or alternate pat |
+| 1 - 20 | Directions, shortcut, or alternate pat |
 | 21 - 40 | Encounter with a friendly survivor, explorer, or denizen |
 | 41 - 60 | Hopeful signs of life |
 | 61 - 80 | Opening to outmaneuver or escape a threat or foe |
 | 81 - 100 | Useful equipment |
 ^table-OclDerelictZone-Access-Opportunity
+
+*352 CHAPTER 5: ORACLES*
 
 ## Tags
 | Previous Page | Tags | Next Page |

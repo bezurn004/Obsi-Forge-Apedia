@@ -133,6 +133,10 @@ Spacers are often known only by their callsigns, with their “dirtside names”
 | 100 | Zoya | Volkov | Zephyr |
 ^table-OclCharacterNames
 
+*333 CHARACTERS*
+*334 CHAPTER 5: ORACLES*
+*335 CHARACTERS*
+
 ## Oracle: Character Given Name
 > [!mechanics]- | Roll > `dice: [[SF_CH5_Character-Names#^table-OclCharacterGivenName]]` | Guidance
 > **Given** and **Family** names are presented as an intended pair, so you may roll once for both if you choose. Given and family names can often be reversed, or used independently as standalone names. These “dirtside names” are usually reserved for family and close friends. ^guidance-OclCharacterGivenName

@@ -95,6 +95,8 @@ _Dormant beds and healing supplies that lie empty and wasted._
 | 81 - 100 | Useful medical equipment |
 ^table-OclDerelictZone-Medical-Opportunity
 
+*356 CHAPTER 5: ORACLES*
+
 ## Tags
 | Previous Page | Tags | Next Page |
 |:--- |:---:| ---:|

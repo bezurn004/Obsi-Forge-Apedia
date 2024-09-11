@@ -95,6 +95,8 @@ _Once places of rest and respite, now lie vacant._
 | 81 - 100 | Useful personal gear |
 ^table-OclDerelictZone-Living-Opportunity
 
+*355 DERELICTS*
+
 ## Tags
 | Previous Page | Tags | Next Page |
 |:--- |:---:| ---:|

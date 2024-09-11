@@ -95,6 +95,8 @@ _Silent comm stations and disheveled offices._
 | 81 - 100 | Secure area offers a moment of peace |
 ^table-OclDerelictZone-Operations-Opportunity
 
+*357 DERELICTS*
+
 ## Tags
 | Previous Page | Tags | Next Page |
 |:--- |:---:| ---:|

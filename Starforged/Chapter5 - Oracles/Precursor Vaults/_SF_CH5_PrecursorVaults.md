@@ -6,13 +6,13 @@ SourceLink:
 
 ## Page
 aliases:
-  - "Precursor Vaults Oracles"
+  - "Precursor Vaults (SF Oracles)"
 PageType: Oracle
 PageCategory: "Precursor VaultIndex"
 PageOrder: 0
 ---
 # [[_Starforged|Starforged]] - [[_SF_CH5_Index|Oracle]]: Precursor Vaults
-These are the order of oracles to utilize when uncovering an eneigmatic precursor vault.
+These are the order of oracles to utilize when uncovering an enigmatic precursor vault.
 
 ## [[SF_CH5_Vault-Exterior|Precursor Vault Exterior Oracles]]
 Start here to choose from these oracles for various characteristics of the precursor vault.
@@ -65,6 +65,6 @@ SORT SourceMaterial, asc
 ## Tags
 | Previous Section | Tags | Next Section | 
 | :--- | :---: | ---: |
-| **[[_SF_CH5_Derelicts\|Derelicts Oracle]]** | #Starforged/Oracles/PrecursorVaults | **[[_SF_CH5_LocationThemes\|Location Themes Oracle]]** |
+| **[[_SF_CH5_Derelicts\|Derelicts (SF Oracles)]]** | #Starforged/Oracles/PrecursorVaults | **[[_SF_CH5_LocationThemes\|Location Themes (SF Oracles)]]** |
 
 <font size=-2>This work is based on Ironsworn: Starforged (found at [www.ironswornrpg.com](http://www.ironswornrpg.com)), created by Shawn Tomkin, and licensed for our use under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license  (creativecommons.org/licenses/by-nc-sa/4.0/).</font>
