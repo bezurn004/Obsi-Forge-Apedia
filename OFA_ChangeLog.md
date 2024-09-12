@@ -1,6 +1,42 @@
 # OFA - Change Log
 
-#### V0.4.1
+## Planned Changes
+- [ ] Nail down templates prior to new content additions
+
+- [ ] Add community content
+	- [ ] Starsmith Mecha
+	- [ ] Starsmith Cultures
+- [ ] Full Chapter content for SI
+	- [ ] Complete linking for whole chapter pages
+
+## V0.4.2
+- [ ] Oracle tables / rollers revamp
+	- [ ] Change for full 1 - 100 results to use look up rollers where possible
+	- [ ] Build tables for community content
+	- [ ] Build tables for any non-oracle overlooked content
+	- [ ] Add rollers for new community content
+	- [ ] Add oracle rollers to Oracle pages within the "Guidance" call out
+	- [ ] Add oracle rollers to Moves and Source material tables
+- [ ] Starsmith Oracles
+	- [ ] Revise structure of tables to match SF / SI style
+	- [ ] Shorten length of block callouts for abbreviated linking
+
+## V0.4.1.1-3
+- [x] Restructure to Index page for new Sundered Isles content
+	- [x] Added cover pictures of the two main source books
+- [x] Re-work on Starforged material to match style of Sundered Isles material
+	- [x] H1 Breadcrumbs consistent
+	- [x] Chapter indexes and Section indexes with static TOC
+	- [x] Rollable oracle tables
+	- [x] Missing art filled in in campaign creation, Foes and Encounters
+	- [x] Page numbers added
+	- [x] Various style, linking and typo revisions
+	- [x] Various dataview query revisions
+- [x] Fixed many errors on Oracle Roller page due to changes in Oracle headings / possible file corruption (I blame one-drive)
+- [x] Moved Starsmith Faction Influence Oracle to the Leadership page. Renamed page to "Sway"
+- [x] Various typos, formatting, and style corrections
+
+## V0.4.1
 - [x] Add Sundered Ilse material
       
 This revision adds the full source of Sundered Isles. While importing this content the aim was to retain a more pure of the content with only slight alterations for formatting purposes. Page numbers are retained, though not sure what their purpose will be besides being references to the full source material
@@ -13,8 +49,8 @@ This revision adds the full source of Sundered Isles. While importing this conte
 - [x] Moves
 	- [x] Imported moves without braking the structure into component callouts.
 	- [x] Links to these moves point to the Move Card for more focused peek ahead.
-- [ ] Full Chapter content
-	- [ ] Complete linking for whole chapter pages
+	- [x] Full Chapter content for SI
+
 
 ## V0.4
 - [x] Added community content folder along with the following source material
@@ -53,26 +89,6 @@ This revision adds the full source of Sundered Isles. While importing this conte
 - [x] Initial work on building a glossary
 - [x] Tried to identify where # additions were made to elaborate. Most tags are hidden in comments, and the elaborated content is _itialisized_
 - [x] Various corrections to spelling, grammar, formatting
-
-##### Bug Fixes V0.4.0.x
-- [x] Fixed many errors on Oracle Roller page due to changes in Oracle headings / possible file corruption (I blame one-drive)
-- [x] Moved Starsmith Faction Influence Oracle to the Leadership page. Renamed page to "Sway"
-- [x] Various typos, formatting, and style corrections
-
-#### V0.4.2 #incomplete 
-- [ ] Nail down templates prior to new content additions
-- [ ] Oracle tables / rollers revamp
-	- [ ] Change for full 1 - 100 results to use look up rollers
-	- [ ] Build tables for community content
-	- [ ] Build tables for any non-oracle overlooked content
-	- [ ] Add rollers for new community content
-	- [ ] Add oracle rollers to Oracle pages within the "Guidance" call out
-	- [ ] Add oracle rollers to Moves and Source material tables
-- [ ] Add community content
-	- [ ] Starsmith Mecha
-	- [ ] Starsmith Cultures
-
-
 ## v0.3
 - Created roll tables as a hub for rolling oracles and linked to their source pages for reference.
 - Restructured Asset from headings to callouts so that each has a heading and ability 1-3 section that can be linked into a character sheet
