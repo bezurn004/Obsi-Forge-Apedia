@@ -3,5 +3,7 @@
   "templater-obsidian",
   "table-editor-obsidian",
   "obsidian-admonition",
-  "obsidian-dice-roller"
+  "obsidian-dice-roller",
+  "metadata-menu",
+  "webpage-html-export"
 ]

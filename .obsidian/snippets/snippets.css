@@ -6,6 +6,14 @@
     Purple: 139, 108, 239   #8B6CEF
 */
 
+/* Apply inversion only in dark mode for images with the 'invert' class */
+@media (prefers-color-scheme: dark) {
+  .invert-image {
+    filter: invert(100%);
+  }
+}
+
+
 /* Color Code Needed for Oracle Callout to Work in Light/Dark Mode */
 .theme-light {
     --color-code: 0, 0, 0;

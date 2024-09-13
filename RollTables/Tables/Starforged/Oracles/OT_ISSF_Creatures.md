@@ -413,16 +413,16 @@
 | 88 | Starfish / symmetrical |
 | 89 | Worm / slug / larva |
 | 90 | Worm / slug / larva |
-| 91 | ▶R2 `dice [[OT_ISSF_Creatures#^OclCreatureForm-Space]]` + `dice [[OT_ISSF_Creatures#^OclCreatureForm-Space]]` |
-| 92 | ▶R2 `dice [[OT_ISSF_Creatures#^OclCreatureForm-Space]]` + `dice [[OT_ISSF_Creatures#^OclCreatureForm-Space]]` |
-| 93 | ▶R2 `dice [[OT_ISSF_Creatures#^OclCreatureForm-Space]]` + `dice [[OT_ISSF_Creatures#^OclCreatureForm-Space]]` |
-| 94 | ▶R2 `dice [[OT_ISSF_Creatures#^OclCreatureForm-Space]]` + `dice [[OT_ISSF_Creatures#^OclCreatureForm-Space]]` |
-| 95 | ▶R2 `dice [[OT_ISSF_Creatures#^OclCreatureForm-Space]]` + `dice [[OT_ISSF_Creatures#^OclCreatureForm-Space]]` |
-| 96 | ▶R2 `dice [[OT_ISSF_Creatures#^OclCreatureForm-Space]]` + `dice [[OT_ISSF_Creatures#^OclCreatureForm-Space]]` |
-| 97 | ▶R2 `dice [[OT_ISSF_Creatures#^OclCreatureForm-Space]]` + `dice [[OT_ISSF_Creatures#^OclCreatureForm-Space]]` |
-| 98 | ▶R2 `dice [[OT_ISSF_Creatures#^OclCreatureForm-Space]]` + `dice [[OT_ISSF_Creatures#^OclCreatureForm-Space]]` |
-| 99 | ▶R2 `dice [[OT_ISSF_Creatures#^OclCreatureForm-Space]]` + `dice [[OT_ISSF_Creatures#^OclCreatureForm-Space]]` |
-| 100 | ▶R2 `dice [[OT_ISSF_Creatures#^OclCreatureForm-Space]]` + `dice [[OT_ISSF_Creatures#^OclCreatureForm-Space]]` |
+| 91 | ▶R2 `dice: [[OT_ISSF_Creatures#^OclCreatureForm-Space]]` + `dice: [[OT_ISSF_Creatures#^OclCreatureForm-Space]]` |
+| 92 | ▶R2 `dice: [[OT_ISSF_Creatures#^OclCreatureForm-Space]]` + `dice: [[OT_ISSF_Creatures#^OclCreatureForm-Space]]` |
+| 93 | ▶R2 `dice: [[OT_ISSF_Creatures#^OclCreatureForm-Space]]` + `dice: [[OT_ISSF_Creatures#^OclCreatureForm-Space]]` |
+| 94 | ▶R2 `dice: [[OT_ISSF_Creatures#^OclCreatureForm-Space]]` + `dice: [[OT_ISSF_Creatures#^OclCreatureForm-Space]]` |
+| 95 | ▶R2 `dice: [[OT_ISSF_Creatures#^OclCreatureForm-Space]]` + `dice: [[OT_ISSF_Creatures#^OclCreatureForm-Space]]` |
+| 96 | ▶R2 `dice: [[OT_ISSF_Creatures#^OclCreatureForm-Space]]` + `dice: [[OT_ISSF_Creatures#^OclCreatureForm-Space]]` |
+| 97 | ▶R2 `dice: [[OT_ISSF_Creatures#^OclCreatureForm-Space]]` + `dice: [[OT_ISSF_Creatures#^OclCreatureForm-Space]]` |
+| 98 | ▶R2 `dice: [[OT_ISSF_Creatures#^OclCreatureForm-Space]]` + `dice: [[OT_ISSF_Creatures#^OclCreatureForm-Space]]` |
+| 99 | ▶R2 `dice: [[OT_ISSF_Creatures#^OclCreatureForm-Space]]` + `dice: [[OT_ISSF_Creatures#^OclCreatureForm-Space]]` |
+| 100 | ▶R2 `dice: [[OT_ISSF_Creatures#^OclCreatureForm-Space]]` + `dice: [[OT_ISSF_Creatures#^OclCreatureForm-Space]]` |
 ^OclCreatureForm-Space
 
 #### Creature Form - Interior
@@ -519,16 +519,16 @@
 | 88 | Worm / slug / larva |
 | 89 | Worm / slug / larva |
 | 90 | Worm / slug / larva |
-| 91 | ▶R2 `dice [[OT_ISSF_Creatures#^OclCreatureForm-Interior]]` + `dice [[OT_ISSF_Creatures#^OclCreatureForm-Interior]]` |
-| 92 | ▶R2 `dice [[OT_ISSF_Creatures#^OclCreatureForm-Interior]]` + `dice [[OT_ISSF_Creatures#^OclCreatureForm-Interior]]` |
-| 93 | ▶R2 `dice [[OT_ISSF_Creatures#^OclCreatureForm-Interior]]` + `dice [[OT_ISSF_Creatures#^OclCreatureForm-Interior]]` |
-| 94 | ▶R2 `dice [[OT_ISSF_Creatures#^OclCreatureForm-Interior]]` + `dice [[OT_ISSF_Creatures#^OclCreatureForm-Interior]]` |
-| 95 | ▶R2 `dice [[OT_ISSF_Creatures#^OclCreatureForm-Interior]]` + `dice [[OT_ISSF_Creatures#^OclCreatureForm-Interior]]` |
-| 96 | ▶R2 `dice [[OT_ISSF_Creatures#^OclCreatureForm-Interior]]` + `dice [[OT_ISSF_Creatures#^OclCreatureForm-Interior]]` |
-| 97 | ▶R2 `dice [[OT_ISSF_Creatures#^OclCreatureForm-Interior]]` + `dice [[OT_ISSF_Creatures#^OclCreatureForm-Interior]]` |
-| 98 | ▶R2 `dice [[OT_ISSF_Creatures#^OclCreatureForm-Interior]]` + `dice [[OT_ISSF_Creatures#^OclCreatureForm-Interior]]`e |
-| 99 | ▶R2 `dice [[OT_ISSF_Creatures#^OclCreatureForm-Interior]]` + `dice [[OT_ISSF_Creatures#^OclCreatureForm-Interior]]` |
-| 100 | ▶R2 `dice [[OT_ISSF_Creatures#^OclCreatureForm-Interior]]` + `dice [[OT_ISSF_Creatures#^OclCreatureForm-Interior]]`e |
+| 91 | ▶R2 `dice: [[OT_ISSF_Creatures#^OclCreatureForm-Interior]]` + `dice: [[OT_ISSF_Creatures#^OclCreatureForm-Interior]]` |
+| 92 | ▶R2 `dice: [[OT_ISSF_Creatures#^OclCreatureForm-Interior]]` + `dice: [[OT_ISSF_Creatures#^OclCreatureForm-Interior]]` |
+| 93 | ▶R2 `dice: [[OT_ISSF_Creatures#^OclCreatureForm-Interior]]` + `dice: [[OT_ISSF_Creatures#^OclCreatureForm-Interior]]` |
+| 94 | ▶R2 `dice: [[OT_ISSF_Creatures#^OclCreatureForm-Interior]]` + `dice: [[OT_ISSF_Creatures#^OclCreatureForm-Interior]]` |
+| 95 | ▶R2 `dice: [[OT_ISSF_Creatures#^OclCreatureForm-Interior]]` + `dice: [[OT_ISSF_Creatures#^OclCreatureForm-Interior]]` |
+| 96 | ▶R2 `dice: [[OT_ISSF_Creatures#^OclCreatureForm-Interior]]` + `dice: [[OT_ISSF_Creatures#^OclCreatureForm-Interior]]` |
+| 97 | ▶R2 `dice: [[OT_ISSF_Creatures#^OclCreatureForm-Interior]]` + `dice: [[OT_ISSF_Creatures#^OclCreatureForm-Interior]]` |
+| 98 | ▶R2 `dice: [[OT_ISSF_Creatures#^OclCreatureForm-Interior]]` + `dice: [[OT_ISSF_Creatures#^OclCreatureForm-Interior]]`e |
+| 99 | ▶R2 `dice: [[OT_ISSF_Creatures#^OclCreatureForm-Interior]]` + `dice: [[OT_ISSF_Creatures#^OclCreatureForm-Interior]]` |
+| 100 | ▶R2 `dice: [[OT_ISSF_Creatures#^OclCreatureForm-Interior]]` + `dice: [[OT_ISSF_Creatures#^OclCreatureForm-Interior]]`e |
 ^OclCreatureForm-Interior
 
 #### Creature Form - Land
@@ -625,16 +625,16 @@
 | 88 | Worm / slug / larva |
 | 89 | Worm / slug / larva |
 | 90 | Worm / slug / larva |
-| 91 | ▶R2 `dice [[OT_ISSF_Creatures#^OclCreatureForm-Land]]` + `dice [[OT_ISSF_Creatures#^OclCreatureForm-Land]]` |
-| 92 | ▶R2 `dice [[OT_ISSF_Creatures#^OclCreatureForm-Land]]` + `dice [[OT_ISSF_Creatures#^OclCreatureForm-Land]]` |
-| 93 | ▶R2 `dice [[OT_ISSF_Creatures#^OclCreatureForm-Land]]` + `dice [[OT_ISSF_Creatures#^OclCreatureForm-Land]]` |
-| 94 | ▶R2 `dice [[OT_ISSF_Creatures#^OclCreatureForm-Land]]` + `dice [[OT_ISSF_Creatures#^OclCreatureForm-Land]]` |
-| 95 | ▶R2 `dice [[OT_ISSF_Creatures#^OclCreatureForm-Land]]` + `dice [[OT_ISSF_Creatures#^OclCreatureForm-Land]]` |
-| 96 | ▶R2 `dice [[OT_ISSF_Creatures#^OclCreatureForm-Land]]` + `dice [[OT_ISSF_Creatures#^OclCreatureForm-Land]]` |
-| 97 | ▶R2 `dice [[OT_ISSF_Creatures#^OclCreatureForm-Land]]` + `dice [[OT_ISSF_Creatures#^OclCreatureForm-Land]]` |
-| 98 | ▶R2 `dice [[OT_ISSF_Creatures#^OclCreatureForm-Land]]` + `dice [[OT_ISSF_Creatures#^OclCreatureForm-Land]]` |
-| 99 | ▶R2 `dice [[OT_ISSF_Creatures#^OclCreatureForm-Land]]` + `dice [[OT_ISSF_Creatures#^OclCreatureForm-Land]]` |
-| 100 | ▶R2 `dice [[OT_ISSF_Creatures#^OclCreatureForm-Land]]` + `dice [[OT_ISSF_Creatures#^OclCreatureForm-Land]]` |
+| 91 | ▶R2 `dice: [[OT_ISSF_Creatures#^OclCreatureForm-Land]]` + `dice: [[OT_ISSF_Creatures#^OclCreatureForm-Land]]` |
+| 92 | ▶R2 `dice: [[OT_ISSF_Creatures#^OclCreatureForm-Land]]` + `dice: [[OT_ISSF_Creatures#^OclCreatureForm-Land]]` |
+| 93 | ▶R2 `dice: [[OT_ISSF_Creatures#^OclCreatureForm-Land]]` + `dice: [[OT_ISSF_Creatures#^OclCreatureForm-Land]]` |
+| 94 | ▶R2 `dice: [[OT_ISSF_Creatures#^OclCreatureForm-Land]]` + `dice: [[OT_ISSF_Creatures#^OclCreatureForm-Land]]` |
+| 95 | ▶R2 `dice: [[OT_ISSF_Creatures#^OclCreatureForm-Land]]` + `dice: [[OT_ISSF_Creatures#^OclCreatureForm-Land]]` |
+| 96 | ▶R2 `dice: [[OT_ISSF_Creatures#^OclCreatureForm-Land]]` + `dice: [[OT_ISSF_Creatures#^OclCreatureForm-Land]]` |
+| 97 | ▶R2 `dice: [[OT_ISSF_Creatures#^OclCreatureForm-Land]]` + `dice: [[OT_ISSF_Creatures#^OclCreatureForm-Land]]` |
+| 98 | ▶R2 `dice: [[OT_ISSF_Creatures#^OclCreatureForm-Land]]` + `dice: [[OT_ISSF_Creatures#^OclCreatureForm-Land]]` |
+| 99 | ▶R2 `dice: [[OT_ISSF_Creatures#^OclCreatureForm-Land]]` + `dice: [[OT_ISSF_Creatures#^OclCreatureForm-Land]]` |
+| 100 | ▶R2 `dice: [[OT_ISSF_Creatures#^OclCreatureForm-Land]]` + `dice: [[OT_ISSF_Creatures#^OclCreatureForm-Land]]` |
 ^OclCreatureForm-Land
 
 #### Creature Form - Liquid
@@ -731,16 +731,16 @@
 | 88 | Worm / slug / larva |
 | 89 | Worm / slug / larva |
 | 90 | Worm / slug / larva |
-| 91 | ▶R2 `dice [[OT_ISSF_Creatures#^OclCreatureForm-Liquid]]` + `dice [[OT_ISSF_Creatures#^OclCreatureForm-Liquid]]` |
-| 92 | ▶R2 `dice [[OT_ISSF_Creatures#^OclCreatureForm-Liquid]]` + `dice [[OT_ISSF_Creatures#^OclCreatureForm-Liquid]]` |
-| 93 | ▶R2 `dice [[OT_ISSF_Creatures#^OclCreatureForm-Liquid]]` + `dice [[OT_ISSF_Creatures#^OclCreatureForm-Liquid]]` |
-| 94 | ▶R2 `dice [[OT_ISSF_Creatures#^OclCreatureForm-Liquid]]` + `dice [[OT_ISSF_Creatures#^OclCreatureForm-Liquid]]` |
-| 95 | ▶R2 `dice [[OT_ISSF_Creatures#^OclCreatureForm-Liquid]]` + `dice [[OT_ISSF_Creatures#^OclCreatureForm-Liquid]]` |
-| 96 | ▶R2 `dice [[OT_ISSF_Creatures#^OclCreatureForm-Liquid]]` + `dice [[OT_ISSF_Creatures#^OclCreatureForm-Liquid]]` |
-| 97 | ▶R2 `dice [[OT_ISSF_Creatures#^OclCreatureForm-Liquid]]` + `dice [[OT_ISSF_Creatures#^OclCreatureForm-Liquid]]` |
-| 98 | ▶R2 `dice [[OT_ISSF_Creatures#^OclCreatureForm-Liquid]]` + `dice [[OT_ISSF_Creatures#^OclCreatureForm-Liquid]]` |
-| 99 | ▶R2 `dice [[OT_ISSF_Creatures#^OclCreatureForm-Liquid]]` + `dice [[OT_ISSF_Creatures#^OclCreatureForm-Liquid]]` |
-| 100 | ▶R2 `dice [[OT_ISSF_Creatures#^OclCreatureForm-Liquid]]` + `dice [[OT_ISSF_Creatures#^OclCreatureForm-Liquid]]` |
+| 91 | ▶R2 `dice: [[OT_ISSF_Creatures#^OclCreatureForm-Liquid]]` + `dice: [[OT_ISSF_Creatures#^OclCreatureForm-Liquid]]` |
+| 92 | ▶R2 `dice: [[OT_ISSF_Creatures#^OclCreatureForm-Liquid]]` + `dice: [[OT_ISSF_Creatures#^OclCreatureForm-Liquid]]` |
+| 93 | ▶R2 `dice: [[OT_ISSF_Creatures#^OclCreatureForm-Liquid]]` + `dice: [[OT_ISSF_Creatures#^OclCreatureForm-Liquid]]` |
+| 94 | ▶R2 `dice: [[OT_ISSF_Creatures#^OclCreatureForm-Liquid]]` + `dice: [[OT_ISSF_Creatures#^OclCreatureForm-Liquid]]` |
+| 95 | ▶R2 `dice: [[OT_ISSF_Creatures#^OclCreatureForm-Liquid]]` + `dice: [[OT_ISSF_Creatures#^OclCreatureForm-Liquid]]` |
+| 96 | ▶R2 `dice: [[OT_ISSF_Creatures#^OclCreatureForm-Liquid]]` + `dice: [[OT_ISSF_Creatures#^OclCreatureForm-Liquid]]` |
+| 97 | ▶R2 `dice: [[OT_ISSF_Creatures#^OclCreatureForm-Liquid]]` + `dice: [[OT_ISSF_Creatures#^OclCreatureForm-Liquid]]` |
+| 98 | ▶R2 `dice: [[OT_ISSF_Creatures#^OclCreatureForm-Liquid]]` + `dice: [[OT_ISSF_Creatures#^OclCreatureForm-Liquid]]` |
+| 99 | ▶R2 `dice: [[OT_ISSF_Creatures#^OclCreatureForm-Liquid]]` + `dice: [[OT_ISSF_Creatures#^OclCreatureForm-Liquid]]` |
+| 100 | ▶R2 `dice: [[OT_ISSF_Creatures#^OclCreatureForm-Liquid]]` + `dice: [[OT_ISSF_Creatures#^OclCreatureForm-Liquid]]` |
 ^OclCreatureForm-Liquid
 
 #### Creature Form - Air
@@ -837,16 +837,16 @@
 | 88 | Starfish / symmetrical |
 | 89 | Worm / slug / larva |
 | 90 | Worm / slug / larva |
-| 91 | ▶R2 `dice [[OT_ISSF_Creatures#^OclCreatureForm-Air]]` + `dice [[OT_ISSF_Creatures#^OclCreatureForm-Air]]` |
-| 92 | ▶R2 `dice [[OT_ISSF_Creatures#^OclCreatureForm-Air]]` + `dice [[OT_ISSF_Creatures#^OclCreatureForm-Air]]` |
-| 93 | ▶R2 `dice [[OT_ISSF_Creatures#^OclCreatureForm-Air]]` + `dice [[OT_ISSF_Creatures#^OclCreatureForm-Air]]` |
-| 94 | ▶R2 `dice [[OT_ISSF_Creatures#^OclCreatureForm-Air]]` + `dice [[OT_ISSF_Creatures#^OclCreatureForm-Air]]` |
-| 95 | ▶R2 `dice [[OT_ISSF_Creatures#^OclCreatureForm-Air]]` + `dice [[OT_ISSF_Creatures#^OclCreatureForm-Air]]` |
-| 96 | ▶R2 `dice [[OT_ISSF_Creatures#^OclCreatureForm-Air]]` + `dice [[OT_ISSF_Creatures#^OclCreatureForm-Air]]` |
-| 97 | ▶R2 `dice [[OT_ISSF_Creatures#^OclCreatureForm-Air]]` + `dice [[OT_ISSF_Creatures#^OclCreatureForm-Air]]` |
-| 98 | ▶R2 `dice [[OT_ISSF_Creatures#^OclCreatureForm-Air]]` + `dice [[OT_ISSF_Creatures#^OclCreatureForm-Air]]` |
-| 99 | ▶R2 `dice [[OT_ISSF_Creatures#^OclCreatureForm-Air]]` + `dice [[OT_ISSF_Creatures#^OclCreatureForm-Air]]` |
-| 100 | ▶R2 `dice [[OT_ISSF_Creatures#^OclCreatureForm-Air]]` + `dice [[OT_ISSF_Creatures#^OclCreatureForm-Air]]` |
+| 91 | ▶R2 `dice: [[OT_ISSF_Creatures#^OclCreatureForm-Air]]` + `dice: [[OT_ISSF_Creatures#^OclCreatureForm-Air]]` |
+| 92 | ▶R2 `dice: [[OT_ISSF_Creatures#^OclCreatureForm-Air]]` + `dice: [[OT_ISSF_Creatures#^OclCreatureForm-Air]]` |
+| 93 | ▶R2 `dice: [[OT_ISSF_Creatures#^OclCreatureForm-Air]]` + `dice: [[OT_ISSF_Creatures#^OclCreatureForm-Air]]` |
+| 94 | ▶R2 `dice: [[OT_ISSF_Creatures#^OclCreatureForm-Air]]` + `dice: [[OT_ISSF_Creatures#^OclCreatureForm-Air]]` |
+| 95 | ▶R2 `dice: [[OT_ISSF_Creatures#^OclCreatureForm-Air]]` + `dice: [[OT_ISSF_Creatures#^OclCreatureForm-Air]]` |
+| 96 | ▶R2 `dice: [[OT_ISSF_Creatures#^OclCreatureForm-Air]]` + `dice: [[OT_ISSF_Creatures#^OclCreatureForm-Air]]` |
+| 97 | ▶R2 `dice: [[OT_ISSF_Creatures#^OclCreatureForm-Air]]` + `dice: [[OT_ISSF_Creatures#^OclCreatureForm-Air]]` |
+| 98 | ▶R2 `dice: [[OT_ISSF_Creatures#^OclCreatureForm-Air]]` + `dice: [[OT_ISSF_Creatures#^OclCreatureForm-Air]]` |
+| 99 | ▶R2 `dice: [[OT_ISSF_Creatures#^OclCreatureForm-Air]]` + `dice: [[OT_ISSF_Creatures#^OclCreatureForm-Air]]` |
+| 100 | ▶R2 `dice: [[OT_ISSF_Creatures#^OclCreatureForm-Air]]` + `dice: [[OT_ISSF_Creatures#^OclCreatureForm-Air]]` |
 ^OclCreatureForm-Air
 
 #### Creature Location
