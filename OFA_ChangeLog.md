@@ -1,6 +1,105 @@
 # OFA - Change Log
 
+<<<<<<< Updated upstream
 ### v0.3
+=======
+## Future Changes
+- [ ] Nail down templates prior to new content additions
+
+- [ ] Add community content
+	- [ ] Starsmith Mecha
+	- [ ] Starsmith Cultures
+- [ ] Full Chapter contents
+	- [ ] Complete SI linking
+	- [ ] Begin import of SF source
+
+## V0.4.2
+- [ ] Oracle tables / rollers revamp
+	- [ ] Change for full 1 - 100 results to use look up rollers where possible
+	- [ ] Build tables for community content
+	- [ ] Build tables for any non-oracle overlooked content
+	- [ ] Add rollers for new community content
+	- [ ] Add oracle rollers to Oracle pages within the "Guidance" call out
+	- [ ] Add oracle rollers to Moves and Source material tables
+- [ ] Starsmith Oracles
+	- [ ] Revise structure of tables to match SF / SI style
+	- [ ] Shorten length of block callouts for abbreviated linking
+	- [ ] Match H1 headings with SF/SI breadcrumb structure
+	- [ ] Move multiple results to the "Result" column header on the tables
+	- [ ] Section contents page alignment to SF/SI structure
+	- [ ] Tags Previous / Next links note source in paranthesis, remove "Pedia" generic entries
+	- [ ] Pad "-" in tables with spaces
+
+## V0.4.1.1-3
+- [x] Restructure to Index page for new Sundered Isles content
+	- [x] Added cover pictures of the two main source books
+- [x] Re-work on Starforged material to match style of Sundered Isles material
+	- [x] H1 Breadcrumbs consistent
+	- [x] Chapter indexes and Section indexes with static TOC
+	- [x] Rollable oracle tables
+	- [x] Missing art filled in in campaign creation, Foes and Encounters
+	- [x] Page numbers added
+	- [x] Various style, linking and typo revisions
+	- [x] Various dataview query revisions
+- [x] Fixed many errors on Oracle Roller page due to changes in Oracle headings / possible file corruption (I blame one-drive)
+- [x] Moved Starsmith Faction Influence Oracle to the Leadership page. Renamed page to "Sway"
+- [x] Various typos, formatting, and style corrections
+
+## V0.4.1
+- [x] Add Sundered Ilse material
+      
+This revision adds the full source of Sundered Isles. While importing this content the aim was to retain a more pure of the content with only slight alterations for formatting purposes. Page numbers are retained, though not sure what their purpose will be besides being references to the full source material
+
+- [x] Assets - Adjusted dataview tables for 3 content types, SF, SI, Community Content
+	- [x] Added look up tables for asset decks for various sources
+- [x] Oracles
+	- [x] Added look up rollers for community content
+	- [x] Links to all source content in the page structure content
+- [x] Moves
+	- [x] Imported moves without braking the structure into component callouts.
+	- [x] Links to these moves point to the Move Card for more focused peek ahead.
+	- [x] Full Chapter content for SI
+
+
+## V0.4
+- [x] Added community content folder along with the following source material
+	- [x] Starsmith Assets
+	- [x] Starsmith Oracles
+- [x] Chapter 1 - closer alignment with source material
+	- [x] Highlighted key terms, playing around with linking from Glossary
+	- [x] Added diagrams as substitutes for missing art in most cases
+	- [x] Corrected omissions and re-arrangement of pages to return to same order as the source
+- [x] Chapter 2 - closer alignment with source material
+	- [x] Truths
+		- [x] Re-added quest-starters under each heading
+		- [x] Added blocks to Truths for tables, heading, body, quesstarters
+	- [x] Character / Sector / Incident Creation
+		- [x] Added missing diagrams and art using native obsidian tools
+- [x] Chapter 3: Moves - closer alignment with source material
+	- [x] Added "PageOrder", "MoveName", and "ReferencedMoves" fields
+	- [x] Added block ID's for each section of the move
+	- [x] Altered "Related Moves" dataview query to use new fields
+- [x] Chapter 4 Foes and Encounter
+	- [x] Added an Index page for the chapter and each section
+	- [x] Merged Denizen's section into this chapter's meta-data fields. Will retain Denizen link on Index for quick access.
+	- [x] Transposed Sample NPC component table, added "this" meta-data inline scripts
+	- [x] Tweaked Denizen meta-data fields and values
+- [x] Chapter 5: Oracles pages to alignment with Starsmith additions
+	- [x] Added Guidance call outs and positioned them under all headings rather than above the headings
+	- [x] Added Oracle Description to meta data and the opening blurb before any sub-headings for combined oracles
+	- [x] Added number of rolls per Oracle in the sub-heading with "{#-#}" notation
+	- [x] For combined Oracle pages, each oracle on the page is now an alias to easily find when looking to link / import.
+- [x] Chapter 6: Asset pages to align with Starsmith addition)
+	- [x] Added AssetName to properties section of meta-data
+	- [x] Add all CAPS aliases to the assets to match styling of book, retained original (asset) alias
+	- [x] Reformat all references (may have missed some) of Assets in Guidelines / Moves to use ALL CAPS style
+- [x] Refactored the "Tags" headings on all pages to provide a consistent previous / next page, allowing a sequential navigation method
+- [x] Add or adjust missing core ruleset content from first pass of the PDF
+- [x] Initial work on building a glossary
+- [x] Tried to identify where # additions were made to elaborate. Most tags are hidden in comments, and the elaborated content is _itialisized_
+- [x] Various corrections to spelling, grammar, formatting
+## v0.3
+>>>>>>> Stashed changes
 - Created roll tables as a hub for rolling oracles and linked to their source pages for reference.
 - Restructured Asset from headings to callouts so that each has a heading and ability 1-3 section that can be linked into a character sheet
 - Initial work on defining which moves are applicable to ambiguous assets
