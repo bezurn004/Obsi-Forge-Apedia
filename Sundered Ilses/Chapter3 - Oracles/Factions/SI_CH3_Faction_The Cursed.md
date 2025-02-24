@@ -22,7 +22,7 @@ OracleDescriptor: "Cursed factions include people and beings of a strange, super
 Cursed factions include people and beings of a strange, supernatural, or dreadful nature, as well as factions dedicated to opposing those entities.
 
 ## Oracle: Cursed Faction Role
-> [!mechanics]- | Roll > `dice: [[SI_CH3_Faction_The Cursed#^table-OclCursedFactionRole]]` | Guidance
+> [!mechanics]- | Roll > `dice: [[OT_ISSI_Factions#^Cursed-Faction-Role]]` | Guidance
 > Use this table to reveal the personas of a cursed faction. For cursed factions that function as an organization, use the _Organization Methods_ or _Organization Secrets_ tables (page 180) for additional details. To reveal a current goal for a cursed faction or its leaders, use the _Cursed Character Goals_ table [(page 193)]. You can also add one or more Cursed Faction Aspects (below). ^guidance-OclCursedFactionRole
 
 | dice: 1d100 | Result |
@@ -44,10 +44,10 @@ Cursed factions include people and beings of a strange, supernatural, or dreadfu
 ^table-OclCursedFactionRole
 
 ## Oracle: Cursed Faction Aspects
-> [!mechanics]- | Roll > `dice: [[SI_CH3_Faction_The Cursed#^table-OclCursedFactionAspects]]` | Guidance
+> [!mechanics]- | Roll > ▶1 `dice: [[OT_ISSI_Factions#^Cursed-Faction-Aspects]]`<br>▶2 `dice: [[OT_ISSI_Factions#^Cursed-Faction-Aspects]]` | Guidance
 > Use this table to reveal uncanny aspects of a faction or its members.  ^guidance-OclCursedFactionAspects
 
-| dice: 1d100 | Result |
+| dice: 1d100 | Result @1-2 |
 | :---: | --- |
 | 1 - 3 | Adopts multiple identities or forms |
 | 4 - 6 | Aided by a monstrous guardian |

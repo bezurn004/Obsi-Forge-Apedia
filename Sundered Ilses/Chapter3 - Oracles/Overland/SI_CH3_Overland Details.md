@@ -21,7 +21,7 @@ OracleDescriptor: "Generate **details** for an overland expedition to enhance ev
 _Generate **details** for an overland expedition to enhance events along the journey._
 
 ## Oracle: Overland Details
-> [!mechanics]- | Roll > `dice: [[SI_CH3_Overland Details#^table-OclOverlandDetails]]` | Guidance
+> [!mechanics]- | Roll > [skull] `dice: [[SI_CH3_The Cursed Die#^table-Cursed]]` `dice: [[OT_ISSI_Overland^Details]]` | Guidance
 > This table reveals occurrences on an overland expedition. Possible results include locations, events, sightings, and encounters. ^guidance-OclOverlandDetails
 
 | dice: 1d100 | Results [skull] _[[#Oracle Overland Cursed Details\|pg 161]]_ |
@@ -133,7 +133,7 @@ _Generate **details** for an overland expedition to enhance events along the jou
 *158 ORACLES*
 
 ## Oracle: Overland Cursed Details
-> [!mechanics]- | Roll > `dice: [[SI_CH3_Overland Details#^table-OclOverlandCursedDetails]]` | Guidance
+> [!mechanics]- | Roll > `dice: [[OT_ISSI_Overland^Cursed-Details]]` | Guidance
 > _When a curse is triggered on the Overland Details oracle, add an element of the unexpected to the journey._ ^guidance-OclOverlandCursedDetails
 
 | dice: 1d100 | Results |

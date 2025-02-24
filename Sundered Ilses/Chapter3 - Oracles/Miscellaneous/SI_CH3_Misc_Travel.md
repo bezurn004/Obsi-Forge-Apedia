@@ -22,7 +22,7 @@ OracleDescriptor: ""
 Text
 
 ## Oracle: Local Seas
-> [!mechanics]- | Roll > <br>Prefix: `dice: [[SI_CH3_Misc_Travel#^table-OclLocalSeas]]|Prefix` <br>Suffix: `dice: [[SI_CH3_Misc_Travel#^table-OclLocalSeas]]|Suffix` | Guidance
+> [!mechanics]- | Roll > <br>Prefix: `dice: [[OT_ISSI_Misc#^Local-Seas]]|Prefix` <br>Suffix: `dice: [[OT_ISSI_Misc#^Local-Seas]]|Suffix` | Guidance
 > To generate a name for a local area—a collection of islands and surrounding waters—roll once for the prefix (the first word), and once for the suffix (the second word). Or just roll once, and choose a suitable prefix and suffix from anywhere in that row. ^guidance-OclLocalSeas
 
 | Roll | Prefix | Suffix |
@@ -82,7 +82,7 @@ Text
 *227 MISCELLANEOUS ORACLES*
 
 ## Oracle: Interlude Scene
-> [!mechanics]- | Roll > `dice: [[SI_CH3_Misc_Travel^table-OclInterludeScene]]` | Guidance
+> [!mechanics]- | Roll > `dice: [[OT_ISSI_Misc#^Interlude-Scene]]` | Guidance
 > If you want to explore a character interlude, or are prompted by another table to trigger an interlude at a waypoint, check the table below for inspiration. Then, for more detail on a scene’s focus—such as the nature of a dream or the cause of a dispute—roll on any combination of the _[[_SI_CH3_Core Oracles|Core Oracles]]_ (pages 116–119) and interpret the response. To learn more about character [[SI_CH1_Interludes|interludes]], see page 46. 
 > > The cursed die is not rolled by default on the Interlude Scene table. However, if you’re interested in giving the scene a supernatural atmosphere, add the cursed die to your roll—or just make it happen.
 > 
@@ -123,42 +123,6 @@ Text
 
 *228 ORACLES*
 *229 MISCELLANEOUS ORACLES*
-
-### Interlude Scene - Rollable
-
-| dice: 1d100 | Result |
-|:---:| --- |
-| 1 - 4 | Chronicle your adventures |
-| 5 - 8 | Commune with nature |
-| 9 - 11 | Concoct a plan |
-| 12 - 14 | Conduct research |
-| 15 - 17 | Conduct training |
-| 18 - 20 | Confess a secret |
-| 21 - 24 | Conjure up the past |
-| 25 - 27 | Create an object or artwork |
-| 28 - 31 | Experience a dream or vision |
-| 32 - 34 | Fight in a sparring match |
-| 35 - 37 | Find peace |
-| 38 - 40 | Hear a confession |
-| 41 - 43 | Indulge a vice |
-| 44 - 47 | Join an event |
-| 48 - 50 | Lead or join a song |
-| 51 - 53 | Motivate others |
-| 54 - 56 | Play a game |
-| 57 - 60 | Practice a skill |
-| 61 - 64 | Ready your gear |
-| 65 - 67 | Record a message |
-| 68 - 70 | Reinvent your look |
-| 71 - 73 | Settle a conflict |
-| 74 - 76 | Share intimacy |
-| 77 - 79 | Share your heritage |
-| 80 - 82 | Stay vigilant |
-| 83 - 85 | Stir up trouble |
-| 86 - 89 | Take in the view |
-| 90 - 92 | Tell a tale |
-| 93 - 96 | Undertake a communal labor |
-| 97 - 100 | Undertake a menial task |
-^table-OclInterludeScene
 
 ## Tags
 

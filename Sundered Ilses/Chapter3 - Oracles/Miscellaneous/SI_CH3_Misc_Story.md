@@ -23,7 +23,7 @@ OracleDescriptor: ""
 Text
 
 ## Oracle: Prompts
-> [!mechanics]- | Roll > `dice: [[SI_CH3_Misc_Story^table-OclPrompts]]` | Guidance
+> [!mechanics]- | Roll > `dice: [[OT_ISSI_Misc#^Story-Prompt]]` | Guidance
 > Use this table to choose a structured prompt from among the _[[_SI_CH3_Core Oracles|Core Oracles]]_ (pages 116–119). Roll on each of the referenced tables and interpret the response as appropriate to the question and situation. ^guidance-OclPrompts
 
 | dice: 1d100 | Result |
@@ -38,7 +38,7 @@ Text
 *226 ORACLES*
 
 ## Oracle: Story Complication
-> [!mechanics]- | Roll > `dice: [[SI_CH3_Misc_Story^table-OclStoryComplication]]` | Guidance
+> [!mechanics]- | Roll > `dice: [[OT_ISSI_Misc#^Story-Complication]]` | Guidance
 > This oracle will introduce narrative turns, troubles, and revelations. It can be used as an alternative to the [[SF_CH3_Pay the Price|Pay the Price (move)]] table when you encounter a negative outcome at a crucial moment. In particular, you might use this table after rolling matched 10s on the challenge dice. ^guidance-OclStoryComplication
 
 | dice: 1d100 | Result |
@@ -77,7 +77,7 @@ Text
 *230 ORACLES*
 
 ## Oracle: Story Clue
-> [!mechanics]- | Roll > `dice: [[SI_CH3_Misc_Story^table-OclStoryClue]]` | Guidance
+> [!mechanics]- | Roll > `dice: [[OT_ISSI_Misc#^Story-Clue]]` | Guidance
 > When you [[SI_CH4_Gather Information#Gather Information Move Card|Gather Information]] to investigate a mystery, you might uncover clues in the form of messages, records, rumors, eyewitness reports, or physical evidence. You can use this oracle to help reveal what this evidence connects to or implicates. Then, use the outcome of the [[SI_CH4_Gather Information#Gather Information Move Card|Gather Information]] roll—strong hit, weak hit, or miss—to guide whether the clue brings clarity or complications. ^guidance-OclStoryClue
 
 | dice: 1d100 | Result |

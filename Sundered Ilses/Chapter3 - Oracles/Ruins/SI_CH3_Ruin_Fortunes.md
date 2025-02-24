@@ -22,7 +22,7 @@ OracleDescriptor: ""
 Text
 
 ## Oracle: Ruin Peril
-> [!mechanics]- | Roll > `dice: [[SI_CH3_Ruin_Fortunes^table-OclRuinPeril]]` | Guidance
+> [!mechanics]- | Roll > `dice: [[OT_ISSI_Ruins#^Peril]]` | Guidance
 > Text ^guidance-OclRuinPeril
 
 | dice: 1d100 | Result |
@@ -64,7 +64,7 @@ Text
 ^table-OclRuinPeril
 
 ## Oracle: Ruin Opportunity
-> [!mechanics]- | Roll > `dice: [[SI_CH3_Ruin_Fortunes^table-OclRuinOpportunity]]` | Guidance
+> [!mechanics]- | Roll > `dice: [[OT_ISSI_Ruins#^Opportunity]]` | Guidance
 > Text ^guidance-OclRuinOpportunity
 
 | dice: 1d100 | Result |
@@ -97,6 +97,6 @@ Text
 
 | Previous Page | Tags | Next Section |
 | :--- | :---: | ---: |
-| **[[SI_CH3_Ruin_Investigation\|Ruin Investigation (SI Oracles)]]** | #SunderedIsles/Oracles/Ruins | **[[_SI_Ch3_Misc Oracles\|Miscellaneous (SI Oracles)]]** |
+| **[[SI_CH3_Ruin_Investigation\|Ruin Investigation (SI Oracles)]]** | #SunderedIsles/Oracles/Ruins | **[[_SI_CH3_Treasure Oracles\|Treature (SI Oracles)]]** |
 
 <font size=-2>Copyright ©2024 Shawn Tomkin. The text of this work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license. For license details, visit ironswornrpg.com. Updated June 2024 MUH051V200-PDF</font>

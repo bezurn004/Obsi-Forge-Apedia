@@ -22,7 +22,7 @@ OracleDescriptor: ""
 Text
 
 ## Oracle: Shipwreck Peril
-> [!mechanics]- | Roll > `dice: [[SI_CH3_Shipwreck_Fortunes^table-OclShipwreckPeril]]` | Guidance
+> [!mechanics]- | Roll > `dice: [[OT_ISSI_Shipwrecks#^Peril]]` | Guidance
 > Text ^guidance-OclShipwreckPeril
 
 | dice: 1d100 | Result |
@@ -50,7 +50,7 @@ Text
 ^table-OclShipwreckPeril
 
 ## Oracle: Shipwreck Opportunity
-> [!mechanics]- | Roll > `dice: [[SI_CH3_Shipwreck_Fortunes^table-OclShipwreckOpportunity]]` | Guidance
+> [!mechanics]- | Roll > `dice: [[OT_ISSI_Shipwrecks#^Opportunity]]` | Guidance
 > Text ^guidance-OclShipwreckOpportunity
 
 | dice: 1d100 | Result |

@@ -32,16 +32,19 @@ OracleDescriptor: ""
 Choose a template for a faction name from the options below.
 
 **Society**
+`dice: [[OT_ISSI_Factions#^Template-Society]]`
 - ▶[[#Oracle Faction Name - Culture\|Culture]]
 - ▶[[#Oracle Faction Name - Culture\|Culture]] + ▶[[SI_CH3_Faction_Society#Oracle Society Identity|Society Identity]]
 - ▶[[#Oracle Faction Name - Culture\|Culture]] + ▶[[#Faction Name Themes|Theme Persona]]
 
 **Organization**
+`dice: [[OT_ISSI_Factions#^Template-Organization]]`
 - ▶[[#Faction Name Themes|Theme Aspect]] + ▶[[#Faction Name Themes|Theme Persona]]
 - ▶[[#Faction Name Themes|Theme Aspect]] + ▶[[SI_CH3_Faction_Organization#Oracle Organization Identity|Organization Identity]]
 - ▶[[SI_CH3_Faction_Organization#Oracle Organization Identity|Organization Identity]] of the ▶[[#Faction Name Themes|Theme Aspect]] + ▶[[#Faction Name Themes|Theme Persona]]
 
 **Empire**
+`dice: [[OT_ISSI_Factions#^Template-Empire]]`
 - ▶[[SI_CH3_Faction_Empire#Oracle Imperial Identity|Empire Identity]]
 - ▶[[#Oracle Faction Name - Culture\|Culture]] + ▶[[SI_CH3_Faction_Empire#Oracle Imperial Identity|Empire Identity]]
 - ▶[[SI_CH3_Faction_Empire#Oracle Imperial Identity|Empire Identity]] of ▶[[#Oracle Faction Name - Culture\|Culture]]
@@ -49,11 +52,11 @@ Choose a template for a faction name from the options below.
 - ▶[[#Faction Name Themes|Theme Aspect]] + ▶[[SI_CH3_Faction_Empire#Oracle Imperial Identity|Empire Identity]]
 
 ## Oracle: Faction Name - Culture
-> [!mechanics]- | Roll > `dice: [[SI_CH3_Faction Name and Themes#^table-OclFactionName-Culture]]` | Guidance
+> [!mechanics]- | Roll > `dice: [[OT_ISSI_Factions#^Name-Culture]]` | Guidance
 > Text ^guidance-OclFactionName-Culture
 
 | dice: 1d100 | Result |
-|:---: | --- |
+| :---: | --- |
 | 1 - 2 | Akani |
 | 3 - 4 | Altarian |
 | 5 - 6 | Ankara |
@@ -107,11 +110,11 @@ Choose a template for a faction name from the options below.
 ^table-OclFactionName-Culture
 
 ## Faction Name Themes
-> [!mechanics]- | Roll > `dice: [[SI_CH3_Faction Name and Themes#^table-OclFactionNameTheme]]` | Guidance
+> [!mechanics]- | Roll ><br>`dice: [[OT_ISSI_Factions#^Name-Themes]]` | Guidance
 > Text ^guidance-OclFactionNameTheme
 
 | dice: 1d100 | Theme |
-|:---:| --- |
+| :---: | --- |
 | 1 - 10 | ▶[[#Oracle Theme - Affluence\|Affluence]] |
 | 11 - 20 | ▶[[#Oracle Theme - Craft\|Craft]] |
 | 21 - 30 | ▶[[#Oracle Theme - Discovery\|Discovery]] |
@@ -125,7 +128,7 @@ Choose a template for a faction name from the options below.
 ^table-OclFactionNameTheme
 
 ### Oracle: Theme - Affluence
-> [!mechanics]- | Roll > <br>Aspect: `dice: [[SI_CH3_Faction Name and Themes^table-OclFactionNameTheme-Affluence]]|Aspect`<br>Persona: `dice: [[SI_CH3_Faction Name and Themes^table-OclFactionNameTheme-Affluence]]|Persona` | Guidance
+> [!mechanics]- | Roll > <br>Aspect: `dice: [[OT_ISSI_Factions#^Theme-Affluence]]\|Aspect`<br>Persona: `dice: [[OT_ISSI_Factions^Theme-Affluence]]\|Persona` | Guidance
 > Text ^guidance-OclFactionNameTheme-Affluence
 
 | Roll | Aspect | Persona |
@@ -143,7 +146,7 @@ Choose a template for a faction name from the options below.
 ^table-OclFactionNameTheme-Affluence
 
 ### Oracle: Theme - Craft
-> [!mechanics]- | Roll > <br>Aspect: `dice: [[SI_CH3_Faction Name and Themes^table-OclFactionNameTheme-Craft]]|Aspect`<br>Persona: `dice: [[SI_CH3_Faction Name and Themes^table-OclFactionNameTheme-Craft]]|Persona` | Guidance
+> [!mechanics]- | Roll > <br>Aspect: `dice: [[OT_ISSI_Factions#^Theme-Craft]]\|Aspect`<br>Persona: `dice: [[OT_ISSI_Factions#^Theme-Craft]]\|Persona` | Guidance
 > Text ^guidance-OclFactionNameTheme-Craft
 
 | Roll | Aspect | Persona |
@@ -161,10 +164,10 @@ Choose a template for a faction name from the options below.
 ^table-OclFactionNameTheme-Craft
 
 ### Oracle: Theme - Discovery
-> [!mechanics]- | Roll > <br>Aspect: `dice: [[SI_CH3_Faction Name and Themes^table-OclFactionNameTheme-Discovery]]|Aspect`<br>Persona: `dice: [[SI_CH3_Faction Name and Themes^table-OclFactionNameTheme-Discovery]]|Persona` | Guidance
+> [!mechanics]- | Roll > <br>Aspect: `dice: [[OT_ISSI_Factions#^Theme-Discovery]]|Aspect`<br>Persona: `dice: [[OT_ISSI_Factions#^Theme-Discovery]]|Persona` | Guidance
 > Text ^guidance-OclFactionNameTheme-Discovery
 
-| dRoll | Aspect | Persona |
+| Roll | Aspect | Persona |
 | :---: | --- | --- |
 | 1 - 10 | Bannersworn | Allies |
 | 11 - 20 | Bonded | Bulwarks |
@@ -179,7 +182,7 @@ Choose a template for a faction name from the options below.
 ^table-OclFactionNameTheme-Discovery
 
 ### Oracle: Theme - Faith
-> [!mechanics]- | Roll > <br>Aspect: `dice: [[SI_CH3_Faction Name and Themes^table-OclFactionNameTheme-Faith]]|Aspect`<br>Persona: `dice: [[SI_CH3_Faction Name and Themes^table-OclFactionNameTheme-Faith]]|Persona` | Guidance
+> [!mechanics]- | Roll > <br>Aspect: `dice: [[OT_ISSI_Factions#^Theme-Faith]]|Aspect`<br>Persona: `dice: [[OT_ISSI_Factions#^Theme-Faith]]|Persona` | Guidance
 > Text ^guidance-OclFactionNameTheme-Faith
 
 | Roll | Aspect | Persona |
@@ -197,7 +200,7 @@ Choose a template for a faction name from the options below.
 ^table-OclFactionNameTheme-Faith
 
 ### Oracle: Theme - Loyalty
-> [!mechanics]- | Roll > <br>Aspect: `dice: [[SI_CH3_Faction Name and Themes^table-OclFactionNameTheme-Loyalty]]|Aspect`<br>Persona: `dice: [[SI_CH3_Faction Name and Themes^table-OclFactionNameTheme-Loyalty]]|Persona` | Guidance
+> [!mechanics]- | Roll > <br>Aspect: `dice: [[OT_ISSI_Factions#^Theme-Loyalty]]|Aspect`<br>Persona: `dice: [[OT_ISSI_Factions#^Theme-Loyalty]]|Persona` | Guidance
 > Text ^guidance-OclFactionNameTheme-Loyalty
 
 | Roll | Aspect | Persona |
@@ -215,7 +218,7 @@ Choose a template for a faction name from the options below.
 ^table-OclFactionNameTheme-Loyalty
 
 ### Oracle: Theme - Mysticism
-> [!mechanics]- | Roll > <br>Aspect: `dice: [[SI_CH3_Faction Name and Themes^table-OclFactionNameTheme-Mysticism]]|Aspect`<br>Persona: `dice: [[SI_CH3_Faction Name and Themes^table-OclFactionNameTheme-Mysticism]]|Persona` | Guidance
+> [!mechanics]- | Roll > <br>Aspect: `dice: [[OT_ISSI_Factions#^Theme-Mysticism]]|Aspect`<br>Persona: `dice: [[OT_ISSI_Factions#^Theme-Mysticism]]|Persona` | Guidance
 > Text ^guidance-OclFactionNameTheme-Mysticism
 
 | Roll | Aspect | Persona |
@@ -235,7 +238,7 @@ Choose a template for a faction name from the options below.
 *184 ORACLES*
 
 ### Oracle: Theme - Rebellion
-> [!mechanics]- | Roll > <br>Aspect: `dice: [[SI_CH3_Faction Name and Themes^table-OclFactionNameTheme-Rebellion]]|Aspect`<br>Persona: `dice: [[SI_CH3_Faction Name and Themes^table-OclFactionNameTheme-Rebellion]]|Persona` | Guidance
+> [!mechanics]- | Roll > <br>Aspect: `dice: [[OT_ISSI_Factions#^Theme-Rebellion]]|Aspect`<br>Persona: `dice: [[OT_ISSI_Factions#^Theme-Rebellion]]|Persona` | Guidance
 > Text ^guidance-OclFactionNameTheme-Rebellion
 
 | Roll | Aspect | Persona |
@@ -253,7 +256,7 @@ Choose a template for a faction name from the options below.
 ^table-OclFactionNameTheme-Rebellion
 
 ### Oracle: Theme - Secrecy
-> [!mechanics]- | Roll > <br>Aspect: `dice: [[SI_CH3_Faction Name and Themes^table-OclFactionNameTheme-Secrecy]]|Aspect`<br>Persona: `dice: [[SI_CH3_Faction Name and Themes^table-OclFactionNameTheme-Secrecy]]|Persona` | Guidance
+> [!mechanics]- | Roll > <br>Aspect: `dice: [[OT_ISSI_Factions#^Theme-Secrecy]]|Aspect`<br>Persona: `dice: [[OT_ISSI_Factions#^Theme-Secrecy]]|Persona` | Guidance
 > Text ^guidance-OclFactionNameTheme-Secrecy
 
 | Roll | Aspect | Persona |
@@ -271,7 +274,7 @@ Choose a template for a faction name from the options below.
 ^table-OclFactionNameTheme-Secrecy
 
 ### Oracle: Theme - War
-> [!mechanics]- | Roll > <br>Aspect: `dice: [[SI_CH3_Faction Name and Themes^table-OclFactionNameTheme-War]]|Aspect`<br>Persona: `dice: [[SI_CH3_Faction Name and Themes^table-OclFactionNameTheme-War]]|Persona` | Guidance
+> [!mechanics]- | Roll > <br>Aspect: `dice: [[OT_ISSI_Factions#^Theme-War]]|Aspect`<br>Persona: `dice: [[OT_ISSI_Factions#^Theme-War]]|Persona` | Guidance
 > Text ^guidance-OclFactionNameTheme-War
 
 | Roll | Aspect | Persona |
@@ -289,7 +292,7 @@ Choose a template for a faction name from the options below.
 ^table-OclFactionNameTheme-War
 
 ### Oracle: Theme - Curses
-> [!mechanics]- | Roll > <br>Aspect: `dice: [[SI_CH3_Faction Name and Themes^table-OclFactionNameTheme-Curses]]|Aspect`<br>Persona: `dice: [[SI_CH3_Faction Name and Themes^table-OclFactionNameTheme-Curses]]|Persona` | Guidance
+> [!mechanics]- | Roll > <br>Aspect: `dice: [[OT_ISSI_Factions#^Theme-Curses]]|Aspect`<br>Persona: `dice: [[OT_ISSI_Factions#^Theme-Curses]]|Persona` | Guidance
 > Text ^guidance-OclFactionNameTheme-Curses
 
 | Roll | Aspect | Persona |

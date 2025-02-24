@@ -25,10 +25,10 @@ OracleDescriptor: ""
 Text
 
 ## Oracle: Treasure Aspects
-> [!mechanics]- | Roll > %%GetDice%% | Guidance
+> [!mechanics]- | Roll > [skull] `dice: [[SI_CH3_The Cursed Die#^table-Cursed]]`<br>▶1 `dice: [[OT_ISSI_Treasure^Aspect]]`<br>▶2 `dice: [[OT_ISSI_Treasure^Aspect]]` | Guidance
 > Use this table to reveal characteristics of a treasure or its surroundings. Since the results often involve twists and complications, it is best reserved for notable finds and dramatic situations. Also, keep in mind that an aspect might be outside your character’s immediate viewpoint—if so, make note of it as a future trouble or opportunity. ^guidance-OclTreasureAspects
 
-| Roll | Result \| @1-2 \| [skull] _below_ |
+| dice: 1d100 | Result @1-2 [skull] _[[SI_CH3_Treasure Details#Oracle Cursed Treasure Aspects\|below]]_ |
 | :---: | --- |
 | 1 - 8 | Bears the mark of a notorious figure |
 | 9 - 16 | Contains a long-lost object or artifact |
@@ -49,10 +49,10 @@ Text
 ^table-OclTreasureAspects
 
 ## Oracle: Cursed Treasure Aspects
-> [!mechanics]- | Roll > %%GetDice%% | Guidance
+> [!mechanics]- | Roll > `dice: [[OT_ISSI_Treasure^Cursed-Aspect]]` | Guidance
 > Text ^guidance-OclCursedTreasureAspects
 
-| Roll | Result |
+| dice: 1d100 | Result |
 | :---: | --- |
 | 1 - 4 | Attracts foul creatures or vermin |
 | 5 - 12 | Awakens the dead |
@@ -79,10 +79,10 @@ Text
 *222 ORACLES*
 
 ## Oracle: Precious Items
-> [!mechanics]- | Roll > %%GetDice%% | Guidance
+> [!mechanics]- | Roll > `dice: [[OT_ISSI_Treasure^Precious-Items]]` | Guidance
 > Roll or select a number of items on this table as set by the treasure’s _Value_ ([page 221]). Each result represents a quantity of that item, such as a strongbox filled with pearls, barrels of aged rum, or a stack of precious metal ingots. To instead reveal a specific item of intrinsic or personal worth, check the _Tokens_ table (below). ^guidance-OclPreciousItems
 
-| Roll | Result |
+| dice: 1d100 | Result |
 | :---: | --- |
 | 1 - 20 | Cache of coins, gems, and jewels |
 | 21 - 24 | Aged rum |
@@ -106,17 +106,17 @@ Text
 | 75 - 76 | Sacred relics |
 | 77 - 80 | Secret documents |
 | 81 - 84 | Unworked gemstones |
-| 85 - 88 | ▶[Descriptor] + [Focus] |
-| 89 - 100 | ▶[Token] |
+| 85 - 88 | ▶[[SI_CH3_Core_Descriptor Focus#DESCRIPTOR\|Descriptor]] + ▶[[SI_CH3_Core_Descriptor Focus#FOCUS\|Focus]]; _pg 118-119_ |
+| 89 - 100 | ▶[[SI_CH3_Treasure Details#Oracle Tokens\|Token]]; _below_ |
 ^table-OclPreciousItems
 
 *223 TREASURE ORACLES*
 
 ## Oracle: Tokens
-> [!mechanics]- | Roll > %%GetDice%% | Guidance
+> [!mechanics]- | Roll > [skull] `dice: [[SI_CH3_The Cursed Die#^table-Cursed]]` `dice: [[OT_ISSI_Treasure^Tokens]]` | Guidance
 > A token is an item of personal significance—such as a memento, heirloom, or individual treasure. Use this table when prompted by another table, or to add detail to a character. A token might have intrinsic value, but is often a thing of worth only to its owner. Not all treasures are silver and gold. ^guidance-OclTokens
 
-| Roll | Result \| [skull] _pg 225_ |
+| dice: 1d100 | Result [skull] _[[SI_CH3_Treasure Details#Oracle Cursed Tokens\|pg 225]]_ |
 | :---: | --- |
 | 1 | Ancestral ring with a missing gemstone |
 | 2 | Ancient codex with cryptic secrets |
@@ -223,10 +223,10 @@ Text
 *224 ORACLES*
 
 ## Oracle: Cursed Tokens
-> [!mechanics]- | Roll > %%GetDice%% | Guidance
+> [!mechanics]- | Roll > `dice: [[OT_ISSI_Treasure^Cursed-Tokens]]` | Guidance
 > Text ^guidance-OclCursedTokens
 
-| Roll | Result |
+| dice: 1d100 | Result |
 | :---: | --- |
 | 1 - 2 | Astrolabe with complex workings that signal a portentous cosmic event |
 | 3 - 4 | Black candle that reveals shadowy forms in its sputtering light |

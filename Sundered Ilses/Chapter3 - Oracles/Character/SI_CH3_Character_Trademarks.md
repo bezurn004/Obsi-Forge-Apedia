@@ -23,7 +23,7 @@ OracleDescriptor: ""
 Text
 [[SI_CH3_Character_Trademarks]]
 ## Oracle: Trademark Accessory
-> [!mechanics]- | Roll > `dice: [[SI_CH3_Character_Trademarks^table-OclCharacterTrademarkAccessory]]` | Guidance
+> [!mechanics]- | Roll > ▶1 `dice: [[OT_ISSI_Characters#^Trademark-Accessory]]`<br>▶2 `dice: [[OT_ISSI_Characters#^Trademark-Accessory]]` | Guidance
 > This table includes conspicuous gear, adornment, and clothing. Use it to help envision the look of a notable character, particularly one who is a seafarer or adventurer. ^guidance-OclCharacterTrademarkAccessory
 
 | dice: 1d100 | Result @1-2 |
@@ -83,7 +83,7 @@ Text
 *190 ORACLES*
 
 ## Oracle: Trademark Weapon
-> [!mechanics]- | Roll > [skull] `dice: [[SI_CH3_The Cursed Die#^table-Cursed]]` `dice: [[SI_CH3_Character_Trademarks^table-OclCharacterTrademarkWeapon]]` | Guidance
+> [!mechanics]- | Roll > [skull] `dice: [[SI_CH3_The Cursed Die#^table-Cursed]]` `dice: [[OT_ISSI_Characters#^Trademark-Weapon]]` | Guidance
 > Use this table to arm a notable character with a favorite weapon. ^guidance-OclCharacterTrademarkWeapon
 
 | dice: 1d100 | Result [skull] _[[SI_CH3_Character_Trademarks#Oracle Cursed Weapon Detail\|below]]_ |
@@ -129,7 +129,7 @@ Text
 ^table-OclCharacterTrademarkWeapon
 
 ## Oracle: Cursed Weapon Detail
-> [!mechanics]- | Roll > `dice: [[SI_CH3_Character_Trademarks^table-OclCharacterCursedWeaponDetail]]` | Guidance
+> [!mechanics]- | Roll > `dice: [[OT_ISSI_Characters#^Trademark-Cursed-Weapon-Detail]]` | Guidance
 > If you roll a _[[#Oracle Trademark Weapon|Trademark Weapon]]_ curse, take your result and give that weapon a cursed aspect from the table below. ^guidance-OclCharacterCursedWeaponDetail
 
 | dice: 1d100 | Result |

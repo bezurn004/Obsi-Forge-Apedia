@@ -24,7 +24,7 @@ OracleDescriptor: ""
 Text
 
 ## Oracle: Shipwreck First Look
-> [!mechanics]- | Roll > `dice: [[SI_CH3_The Cursed Die#^table-Cursed]]` `dice: [[SI_CH3_Shipreck_Approach^table-OclShipwreckFirstLook]]` | Guidance
+> [!mechanics]- | Roll > [skull] `dice: [[SI_CH3_The Cursed Die#^table-Cursed]]`<br>▶1 `dice: [[OT_ISSI_Shipwrecks#^First-Look]]`<br>▶2 `dice: [[OT_ISSI_Shipwrecks#^First-Look]]` | Guidance
 > Use this table to reveal the characteristics of the wreck and its surroundings—as perceived on approach. ^guidance-OclShipwreckFirstLook
 
 | dice: 1d100 | Result @1-2 [skull] _[[#Oracle Cursed Shipwreck First Look\|below]]_ |
@@ -66,7 +66,7 @@ Text
 ^table-OclShipwreckFirstLook
 
 ## Oracle: Cursed Shipwreck First Look
-> [!mechanics]- | Roll > `dice: [[SI_CH3_Shipreck_Approach^table-OclShipwreckFirstLook]]` | Guidance
+> [!mechanics]- | Roll > `dice: [[OT_ISSI_Shipwrecks#^Cursed-First-Look]]` | Guidance
 > Text ^guidance-OclCursedShipwreckFirstLook
 
 | dice: 1d100 | Result |
@@ -104,7 +104,7 @@ Text
 *200 ORACLES*
 
 ## Oracle: Shipwreck Details
-> [!mechanics]- | Roll > [skull] `dice: [[SI_CH3_The Cursed Die#^table-Cursed]]` `dice: [[SI_CH3_Shipreck_Approach^table-OclShipwreckFirstLook]]` | Guidance
+> [!mechanics]- | Roll > [skull] `dice: [[SI_CH3_The Cursed Die#^table-Cursed]]`<br>▶1 `dice: [[OT_ISSI_Shipwrecks#^Details]]`<br>▶2 `dice: [[OT_ISSI_Shipwrecks#^Details]]`<br>▶3 `dice: [[OT_ISSI_Shipwrecks#^Details]]` | Guidance
 > Use this table to reveal details of a wreck. Roll once or twice when searching a small ship, and up to three times when surveying a large vessel. These details are revealed in the context of another move—such as [[SI_CH4_Explore a Waypoint#Explore a Waypoint Move Card|Explore a Waypoint]] or [[SI_CH4_Gather Information#Gather Information Move Card|Gather Information]]—but might prompt additional actions or investigations. See [[_SI_CH3_Shipwreck Oracles#SUMMARY EXPLORING A SHIPWRECK|page 201]] for details on searching a wreck. ^guidance-OclShipwreckDetails
 
 | dice: 1d100 | Result  @1-3 [skull] _[[#Oracle Cursed Shipwreck Details\|below]]_ |
@@ -142,7 +142,7 @@ Text
 ^table-OclShipwreckDetails
 
 ## Oracle: Cursed Shipwreck Details
-> [!mechanics]- | Roll > `dice: [[SI_CH3_Shipreck_Approach^table-OclShipwreckFirstLook]]` | Guidance
+> [!mechanics]- | Roll > `dice: [[OT_ISSI_Shipwrecks#^Cursed-Details]]` | Guidance
 > Text ^guidance-OclCursedShipwreckDetails
 
 | dice: 1d100 | Result |

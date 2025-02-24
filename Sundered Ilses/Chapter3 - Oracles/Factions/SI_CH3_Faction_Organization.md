@@ -24,7 +24,7 @@ OracleDescriptor: ""
 Text
 
 ## Oracle: Organization Type
-> [!mechanics]- | Roll > `dice: [[SI_CH3_Faction_Organization#^table-OclOrganizationType]]` | Guidance
+> [!mechanics]- | Roll > `dice: [[OT_ISSI_Factions#^Organization-Type]]` | Guidance
 > Text ^guidance-OclOrganizationType
 
 | dice: 1d100 | Result |
@@ -53,10 +53,10 @@ Text
 ^table-OclOrganizationType
 
 ## Oracle: Organization Methods
-> [!mechanics]- | Roll > `dice: [[SI_CH3_Faction_Organization#^table-OclOrganizationMethods]]` | Guidance
+> [!mechanics]- | Roll > ▶1 `dice: [[OT_ISSI_Factions#^Organization-Methods]]`<br>▶2 `dice: [[OT_ISSI_Factions#^Organization-Methods]]`<br> | Guidance
 > Text ^guidance-OclOrganizationMethods
 
-| dice: 1d100 | Result |
+| dice: 1d100 | Result @1-2 |
 | :---: | --- |
 | 1 - 4 | Evaluates recruits with elaborate tests |
 | 5 - 8 | Governed by a shadowy court or council |
@@ -91,10 +91,10 @@ Text
 ^table-OclOrganizationMethods
 
 ## Oracle: Organization Secrets
-> [!mechanics]- | Roll > `dice: [[SI_CH3_Faction_Organization#^table-OclOrganizationSecrets]]` | Guidance
+> [!mechanics]- | Roll > ▶1 `dice: [[OT_ISSI_Factions#^Organization-Secrets]]`<br>▶2 `dice: [[OT_ISSI_Factions#^Organization-Secrets]]` | Guidance
 > Text ^guidance-OclOrganizationSecrets
 
-| dice: 1d100 | Result |
+| dice: 1d100 | Result @1-2 |
 | :---: | --- |
 | 1 - 5 | Acquired an unexpected fortune |
 | 6 - 10 | Colluding with a criminal enterprise |
@@ -120,10 +120,10 @@ Text
 
 *180 ORACLES*
 
-## Faction Name+
+## Faction Name
 
 ### Oracle: Organization Identity
-> [!mechanics]- | Roll > `dice: [[SI_CH3_Faction_Organization#^table-OclOrganizationIdentity]]` | Guidance
+> [!mechanics]- | Roll > `dice: [[OT_ISSI_Factions#^Society-Identity]]` | Guidance
 >  _Use this oracle to assist in generating a faction name from the below templates._
 > - ▶[[SI_CH3_Faction Name and Themes#Faction Name Themes|Theme Aspect]] + ▶[[SI_CH3_Faction Name and Themes#Faction Name Themes|Theme Persona]]
 > - ▶[[SI_CH3_Faction Name and Themes#Faction Name Themes|Theme Aspect]] + ▶[[#Oracle Organization Identity|Organization Identity]]

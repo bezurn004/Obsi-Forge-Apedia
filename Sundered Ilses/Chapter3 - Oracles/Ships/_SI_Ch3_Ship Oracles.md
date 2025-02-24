@@ -15,7 +15,7 @@ PageOrder: 0
 Below are condensed oracle pages the roughly follow those used in the four phases of a ship encounter, as detailed in [[SI_CH1_Naval Encounters|Naval Encounters (Sundered Isles Gameplay)]]
 
 > ## Contents
-> ### [[SI_CH3_Shp Sighting|Ship Sighting]]
+> ### [[SI_CH3_Ship Sighting|Ship Sighting]]
 > - Ship Size
 > - Ship Range
 > - Ship Status

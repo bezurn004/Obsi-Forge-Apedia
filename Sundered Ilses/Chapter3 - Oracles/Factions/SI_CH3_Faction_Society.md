@@ -24,10 +24,10 @@ OracleDescriptor: ""
 Text
 
 ## Oracle: Society Chronicles
-> [!mechanics]- | Roll > `dice: [[SI_CH3_Faction_Society#^table-OclSocietyChronicles]]` | Guidance
+> [!mechanics]- | Roll >▶1 `dice: [[OT_ISSI_Factions#^Society-Chronicles]]`<br>▶2 `dice: [[OT_ISSI_Factions#^Society-Chronicles]]`<br>▶3 `dice: [[OT_ISSI_Factions#^Society-Chronicles]]`<br> | Guidance
 > Use this table to generate a history of notable events that shaped a society. Create a timeline of two or three milestones, envisioning how they led the society to its current place among the isles. The most recent event can help inspire a current situation that creates troubles or opportunities for these people. ^guidance-OclSocietyChronicles
 
-| dice: 1d100 | Result @2-3|
+| dice: 1d100 | Result @2-3 |
 | :---: | --- |
 | 1 - 2 | Betrayed by a longtime ally |
 | 3 - 4 | Betrayed by a treacherous leader |
@@ -76,7 +76,7 @@ Text
 ^table-OclSocietyChronicles
 
 ## Oracle: Society Overseers
-> [!mechanics]- | Roll > `dice: [[SI_CH3_Faction_Society#^table-OclSocietyOverseers]]` | Guidance
+> [!mechanics]- | Roll > `dice: [[OT_ISSI_Factions#^Overseers]]` | Guidance
 > Use this table to reveal the most influential or powerful leaders within a society. ^guidance-OclSocietyOverseers
 
 | dice: 1d100 | Result |
@@ -100,10 +100,10 @@ Text
 *178 ORACLES*
 
 ## Oracle: Society Touchstone
-> [!mechanics]- | Roll > `dice: [[SI_CH3_Faction_Society#^table-OclSocietyTouchstone]]` | Guidance
+> [!mechanics]- | Roll > ▶1 `dice: [[OT_ISSI_Factions#^Touchstone]]`<br>▶2 `dice: [[OT_ISSI_Factions#^Touchstone]]`<br>▶3 `dice: [[OT_ISSI_Factions#^Touchstone]]` | Guidance
 > These touchstones represent common aspects of a society—not universal truths. Individual people and communities can contradict these assumptions with their own touchstones. If you encounter a far-flung community that is part of a known society, you can recheck this table for unique characteristics.  ^guidance-OclSocietyTouchstone
 
-| dice: 1d100 | Result |
+| dice: 1d100 | Result @1-3 |
 | :---: | --- |
 | 1 | Affinity for celestial objects and motifs |
 | 2 | Affinity for nature and related motifs |
@@ -176,7 +176,7 @@ Text
 ## Society Faction Name
 
 ### Oracle: Society Identity
-> [!mechanics]- | Roll > `dice: [[SI_CH3_Faction_Society#^table-OclSocietyIdentity]]` | Guidance
+> [!mechanics]- | Roll > `dice: [[OT_ISSI_Factions#^Society-Identity]]` | Guidance
 > _Use this oracle to assist in generating a faction name from the below templates._
 > - ▶[[SI_CH3_Faction Name and Themes#Oracle Faction Name - Culture|Culture]]
 > - ▶[[SI_CH3_Faction Name and Themes#Oracle Faction Name - Culture|Culture]] + ▶[[#Oracle Society Identity|Society Identity]]

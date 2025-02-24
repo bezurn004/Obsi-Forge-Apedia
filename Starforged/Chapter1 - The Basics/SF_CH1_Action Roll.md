@@ -20,7 +20,7 @@ The ==action roll== is the most common test you’ll make for your character. Wh
 
 > ==**Challenge Dice**==
 > Two ten-sided dice (d10)
-> #missingArt _Two 2d perspective blank faced_
+> #missingArt _Two 2d10 perspective blank faced_
 
 After rolling, add a ==stat== to your action die. The move will tell you what stat to add (phrased as “roll +stat”), or may give you a choice. Some moves will tell you to use one of your ==condition meters==, such as health or supply, in place of a stat. You may also have an opportunity to apply one or more bonuses called ==adds== (phrased as “add +X”).
 

@@ -28,25 +28,25 @@ OracleDescriptor: ""
 For tips on managing treasure and wealth in your campaign, see [page 28].
 
 ## Oracle: Treasure Location
-> [!mechanics]- | Roll > %%GetDice%% | Guidance
+> [!mechanics]- | Roll > `dice: [[OT_ISSI_Treasure#^Location]]` | Guidance
 > If you’re not sure of a treasure’s location—such as when chasing down a rumored
 treasure or gathering details on a treasure-related quest—check this table. ^guidance-OclTreasureLocation
 
-| Roll | Result \| [skull] _below_ |
+| dice: 1d100 | Result [skull] _[[#Oracle Cursed Treasure Location\|below]]_ |
 | :---: | --- |
-| 1 - 25 | Borne on a ▶[Ship] |
-| 26 - 50 | Lost with a ▶[Shipwreck] |
-| 51 - 70 | Hidden on an ▶[Island] |
-| 71 - 85 | Sheltered in a ▶[Cave] |
-| 86 - 95 | Secured in a ▶[Settlement] |
-| 96 - 100 | Preserved in a ▶[Ruin] |
+| 1 - 25 | Borne on a ▶[[_SI_Ch3_Ship Oracles\|Ship]]; _pg 132_ |
+| 26 - 50 | Lost with a ▶[[_SI_CH3_Shipwreck Oracles\|Shipwreck]]; _pg 198_ |
+| 51 - 70 | Hidden on an ▶[[_SI_CH3_Island Oracles\|Island]]; _pg 142_ |
+| 71 - 85 | Sheltered in a ▶[[_SI_CH3_Cave Oracles\|Cave]]; _pg 204_ |
+| 86 - 95 | Secured in a ▶[[_SI_CH3_Settlement Oracles\|Settlement]]; _164_ |
+| 96 - 100 | Preserved in a ▶[[_SI_CH3_Ruin Oracles\|Ruin]]; _212_ |
 ^table-OclTreasureLocation
 
 ## Oracle: Cursed Treasure Location
-> [!mechanics]- | Roll > %%GetDice%% | Guidance
+> [!mechanics]- | Roll > `dice: [[OT_ISSI_Treasure#^Cursed-Location]]` | Guidance
 > Text ^guidance-OclTreasureLocation
 
-| Roll | Result |
+| dice: 1d100 | Result |
 | :---: | --- |
 | 1 - 5 | Banished to the realm of the dead |
 | 6 - 10 | Consumed by a monstrous beast |
@@ -63,7 +63,7 @@ treasure or gathering details on a treasure-related quest—check this table. ^g
 *220 ORACLES*
 
 ## Oracle: Treasure Repository
-> [!mechanics]- | Roll > %%GetDice%% | Guidance
+> [!mechanics]- | Roll > `dice: [[OT_ISSI_Treasure#^Repository]]` | Guidance
 > Choose the scale of the treasure’s repository—small, medium, large, or vast—as appropriate to situation and location. See the examples in the table below. If unsure, roll for the answer. The result helps set the potential _Value_ of the treasure. ^guidance-OclTreasureRepository
 
 | Roll | Size | Examples |
@@ -94,30 +94,30 @@ treasure or gathering details on a treasure-related quest—check this table. ^g
 *221 TREASURE ORACLES*
 
 ### Oracle: Treasure Value - Small
-> [!mechanics]- | Roll > %%GetDice%% | Guidance
+> [!mechanics]- | Roll > `dice: [[OT_ISSI_Treasure#^Value-Small]]` | Guidance
 > Text ^guidance-OclTreasureValue-Small
 
-| Small | Result | Details |
+| dice: 1d100 | Result | Details |
 | :---: | --- | --- |
 | 1  - 80 | Trifle | One ▶Precious Item; [pg 223] |
 | 81 - 100 | Stash | Roll the action die and reveal that many ▶Precious Items; [pg 223] |
 ^table-OclTreasureValue-Small
 
 ### Oracle: Treasure Value - Medium
-> [!mechanics]- | Roll > %%GetDice%% | Guidance
+> [!mechanics]- | Roll > `dice: [[OT_ISSI_Treasure#^Value-Medium]]` | Guidance
 > Text ^guidance-OclTreasureValue-Medium
 
-| Medium | Result | Details |
+| dice: 1d100 | Result | Details |
 | :---: | --- | --- |
 | 1 - 60 | Trifle | One ▶Precious Item; [pg 223] |
 | 61 - 100 | Stash | Roll the action die and reveal that many ▶Precious Items; [pg 223] |
 ^table-OclTreasureValue-Medium
 
 ### Oracle: Treasure Value - Large
-> [!mechanics]- | Roll > %%GetDice%% | Guidance
+> [!mechanics]- | Roll > `dice: [[OT_ISSI_Treasure#^Value-Large]]` | Guidance
 > Text ^guidance-OclTreasureValue-Large
 
-| Large | Result | Details |
+| dice: 1d100 | Result | Details |
 |:---:| --- | --- |
 | 1 - 30 | Trifle | One ▶Precious Item; [pg 223] |
 | 31 - 98 | Stash | Roll the action die and reveal that many ▶Precious Items; [pg 223] |
@@ -125,10 +125,10 @@ treasure or gathering details on a treasure-related quest—check this table. ^g
 ^table-OclTreasureValue-Large
 
 ### Oracle: Treasure Value - Vast
-> [!mechanics]- | Roll > %%GetDice%% | Guidance
+> [!mechanics]- | Roll > `dice: [[OT_ISSI_Treasure#^Value-Vast]]` | Guidance
 > Text ^guidance-OclTreasureValue-Vast
 
-| Vast | Result | Details |
+| dice: 1d100 | Result | Details |
 |:---:| --- | --- |
 | 1 - 10 | Trifle | One ▶Precious Item; [pg 223] |
 | 11 - 93 | Stash | Roll the action die and reveal that many ▶Precious Items; [pg 223] |

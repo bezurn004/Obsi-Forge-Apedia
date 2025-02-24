@@ -22,10 +22,10 @@ OracleFocus: Creation
 OracleDescriptor: ""
 ---
 # [[_Sundered Isles|Sundered Isles]] - [[_SI_Ch3_Contents|Oracles]] - [[_SI_CH3_Ruin Oracles|Ruin]]: Creation
-See [page 215] for guidance on conducting expeditions within ruins.
+See [[_SI_CH3_Ruin Oracles#SUMMARY EXPLORING A RUIN| page 215]] for guidance on conducting expeditions within ruins.
 
 ## Oracle: Ruin Location
-> [!mechanics]- | Roll >  `dice: [[SI_CH3_Ruin_Creation^table-OclRuinLocation]]` | Guidance
+> [!mechanics]- | Roll >  `dice: [[OT_ISSI_Ruins#^Location]]` | Guidance
 > When learning about a distant ruin, use this table to reveal its location. If you come upon a ruin in your travels, pick a location as appropriate to your surroundings. ^guidance-OclRuinLocation
 
 | Roll | Result | Description |
@@ -38,7 +38,7 @@ See [page 215] for guidance on conducting expeditions within ruins.
 *212 ORACLES*
 
 ## Oracle: Ruin Condition
-> [!mechanics]- | Roll > `dice: [[SI_CH3_Ruin_Creation^table-OclRuinCondition]]` | Guidance
+> [!mechanics]- | Roll > `dice: [[OT_ISSI_Ruins#^Condition]]` | Guidance
 > Text ^guidance-OclRuinCondition
 
 | Roll | Result | Details |
@@ -52,30 +52,8 @@ See [page 215] for guidance on conducting expeditions within ruins.
 | 91 - 95 | Well-preserved | In remarkable condition |
 | 96 - 100 | Rebuilding | In the process or restoration |
 
-### Ruin Location / Condition - Rollable
-
-| dice: 1d100 | Result |
-|:---:| --- |
-| 1 - 20 | SEA |
-| 21 - 60 | SHORE |
-| 61 - 90 | INLAND |
-| 91 - 100 | BURIED |
-^table-OclRuinLocation
-
-| dice: 1d100 | Result |
-|:---:| --- |
-| 1 - 10 | Devastated |
-| 11 - 25 | Unrecognizable |
-| 26 - 40 | Collapsed |
-| 41 - 60 | Unstable |
-| 61 - 80 | Timeworn |
-| 81 - 90 | Whole |
-| 91 - 95 | Well-preserved |
-| 96 - 100 | Rebuilding |
-^table-OclRuinCondition
-
 ## Oracle: Ruin Scope
-> [!mechanics]- | Roll > `dice: [[SI_CH3_Ruin_Creation^table-OclRuinScope]]` | Guidance
+> [!mechanics]- | Roll > `dice: [[OT_ISSI_Ruins#^Scope]]` | Guidance
 > Text ^guidance-OclRuinScope
 
 | dice: 1d100 | Result |
@@ -91,7 +69,7 @@ See [page 215] for guidance on conducting expeditions within ruins.
 ^table-OclRuinScope
 
 ## Oracle: Ruin First Look
-> [!mechanics]- | Roll > `dice: [[SI_CH3_Ruin_Creation^table-OclRuinFirstLook]]` | Guidance
+> [!mechanics]- | Roll > ▶1 `dice: [[OT_ISSI_Ruins#^First-Look]]`<br>▶2 `dice: [[OT_ISSI_Ruins#^First-Look]]` | Guidance
 > Text ^guidance-OclRuinFirstLook
 
 | dice: 1d100 | Result @1-2 [skull] _[[#Oracle Cursed Ruin First Look\|below]]_ |
@@ -141,7 +119,7 @@ See [page 215] for guidance on conducting expeditions within ruins.
 ^table-OclRuinFirstLook
 
 ## Oracle: Cursed Ruin First Look
-> [!mechanics]- | Roll > `dice: [[SI_CH3_Ruin_Creation^table-OclRuinCursedFirstLook]]` | Guidance
+> [!mechanics]- | Roll > `dice: [[OT_ISSI_Ruins#^Cursed-First-Look]]` | Guidance
 > Text ^guidance-OclRuinCursedFirstLook
 
 | dice: 1d100 | Result |

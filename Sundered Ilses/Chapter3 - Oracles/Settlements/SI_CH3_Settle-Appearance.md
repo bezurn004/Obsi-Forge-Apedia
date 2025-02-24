@@ -23,10 +23,10 @@ OracleDescriptor: "As you approach a settlement, envision the appearance with th
 _As you approach a settlement, envision the appearance with the **Aesthetics** and **First Look** oracles._
 
 ## Oracle: Settlement Aesthetics
-> [!mechanics]- | Roll > `dice: [[SI_CH3_Settle-Appearance^table-OclSettleAesthetics-Rollable]]` | Guidance
+> [!mechanics]- | Roll ><br>▶1 `dice: [[OT_ISSI_Settlements^Aesthetics]]`<br>▶2 `dice: [[OT_ISSI_Settlements^Aesthetics]]` | Guidance
 > Use this table to reveal the ambiance and architecture of the settlement. Smaller settlements likely have a single style, while larger settlements might have multiple styles across sections or districts.  ^guidance-OclSettleAesthetics
 
-| Roll | Results | Detail |
+| Roll | Results | Detail @1-2 |
 | :---: | --- | --- |
 | 1 - 10 | Ancient | Ancestral structures that have stood the test of time |
 | 11 - 20 | Dismal | Gloomy, tightly-packed structures and shadowed paths |
@@ -43,32 +43,13 @@ _As you approach a settlement, envision the appearance with the **Aesthetics** a
 | 96 - 100 | Wondrous | Enigmatic structures of awe-inspiring design or function. |
 ^table-OclSettleAesthetics
 
-### Settlement Aesthetics - Rollable
-
-| dice: 1d100 | Results |
-| :---: | --- |
-| 1 - 10 | **Ancient**<br>Ancestral structures that have stood the test of time |
-| 11 - 20 | **Dismal**<br>Gloomy, tightly-packed structures and shadowed paths |
-| 21 - 25 | **Earthen**<br>Carved into the terrain |
-| 26 - 35 | **Foreboding**<br>Structures with ornate, dramatic forms and cavernous interiors |
-| 36 - 45 | **Fortified**<br>Imposing structures hardened against assaults |
-| 46 - 50 | **Garish**<br>Structures with tacky design and showy adornments |
-| 51 - 55 | **Grand**<br>Majestic structures with opulent details |
-| 56 - 65 | **Idyllic**<br>Organic forms and materials, at one with the landscape |
-| 66 - 70 | **Industrial**<br>Grim, utilitarian structures, built for function over form |
-| 71 - 75 | **Makeshift**<br>Temporary shelters for nomadic or displaced people |
-| 76 - 85 | **Modest**<br>Practical, charming structures |
-| 86 - 95 | **Ramshackle**<br>Haphazard structures using scavenged or repurposed materials |
-| 96 - 100 | **Wondrous**<br>Enigmatic structures of awe-inspiring design or function |
-^table-OclSettleAesthetics-Rollable
-
 *165 SETTLEMENT ORACLES*
 
 ## Oracle: Settlement First Look
-> [!mechanics]- | Roll > [skull] `dice: [[SI_CH3_The Cursed Die#^table-Cursed]]` `dice: [[SI_CH3_Settle-Appearance#^table-OclSettleFirstLook]]` | Guidance
+> [!mechanics]- | Roll > [skull] `dice: [[SI_CH3_The Cursed Die#^table-Cursed]]`<br>▶1 `dice: [[OT_ISSI_Settlements^First-Look]]`<br>▶2 `dice: [[OT_ISSI_Settlements^First-Look]]` | Guidance
 > _Get the first impression when approaching a settlement._ ^guidance-OclSettleFirstLook
 
-| dice: 1d100 | Results @1-2 [skull] _[[#Oracle Cursed Settlement First Look\|pg 167]]_ |
+| dice: 1d100 | Result @1-2 [skull] _[[#Oracle Cursed Settlement First Look\|pg 167]]_ |
 | :---: | --- |
 | 1 - 2 | Adorned with colorful banners |
 | 3 - 4 | Among sprawling trees |
@@ -113,16 +94,16 @@ _As you approach a settlement, envision the appearance with the **Aesthetics** a
 | 81 - 82 | Veiled with a haze of mist or smoke |
 | 83 - 84 | Visited by large fleet or caravan |
 | 85 - 90 | Built among a ▶[[SI_CH3_Ruin_Creation\|Ruin]]; _pg 212_ |
-| 91 - 100 | ▶[[SI_CH3_Core_Descriptor Focus#DESCRIPTOR\|Descriptor]] + ▶[[SI_CH3_Core_Descriptor Focus#FOCUS\|Focus]]; _pg 118 - 119_
+| 91 - 100 | ▶[[SI_CH3_Core_Descriptor Focus#DESCRIPTOR\|Descriptor]] + ▶[[SI_CH3_Core_Descriptor Focus#FOCUS\|Focus]]; _pg 118 - 119_ |
 ^table-OclSettleFirstLook
 
 *166 ORACLES*
 
 ## Oracle: Cursed Settlement First Look
-> [!mechanics]- | Roll > `dice: [[SI_CH3_Settle-Appearance#^table-OclCursedSettleFirstLook]]` | Guidance
+> [!mechanics]- | Roll > `dice: [[OT_ISSI_Settlements^Cursed-First-Look]]` | Guidance
 > _Get an ominous first impression when approaching a settlement._ ^guidance-OclCursedSettleFirstLook
 
-| dice: 1d100 | Results |
+| dice: 1d100 | Result |
 | :---: | --- |
 | 1 - 2 | Armed with sorcerous weapons |
 | 3 - 6 | Assailed by a monstrous beast |

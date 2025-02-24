@@ -21,11 +21,11 @@ OracleDescriptor: "Generate a **name** for an Island that will be notable in you
 _Generate a **name** for an Island that will be notable in your adventures._
 
 ## Oracle: Island Name
-> [!mechanics]- | Roll > [skull] `dice: [[SI_CH3_The Cursed Die#^table-Cursed]]` `dice: [[SI_CH3_Island_Name#^table-OclIslandName]]`  | Guidance
+> [!mechanics]- | Roll > [skull] `dice: [[SI_CH3_The Cursed Die#^table-Cursed]]` `dice: [[OT_ISSI_Islands^Island-Name]]`  | Guidance
 > Optionally, Create a compound name for an island or island group by taking your result and adding a word from the list to the right. For example, Flint Islands or Shipwreck Cay.
-> - **[[#Island Name Decorator|Group]]:** `dice: [[SI_CH3_Island_Name#^table-Decorator-Group]]`
-> - **[[#Island Name Decorator|Typical Island]]:** `dice: [[SI_CH3_Island_Name#^table-Decorator-Typical]]`
-> - **[[#Island Name Decorator|Small Island]]:** `dice: [[SI_CH3_Island_Name#^table-Decorator-Small]]` ^guidance-OclIslandName
+> - **[[#Island Name Decorator|Group]]:** `dice: [[OT_ISSI_Islands#^Decorator-Group]]`
+> - **[[#Island Name Decorator|Typical Island]]:** `dice: [[OT_ISSI_Islands#^Decorator-Typical]]`
+> - **[[#Island Name Decorator|Small Island]]:** `dice: [[OT_ISSI_Islands#^Decorator-Small]]` ^guidance-OclIslandName
 
 | dice: 1d100 | Result [skull] _[[#Oracle Cursed Island Name\|below]]_ |
 | :---: | --- |
@@ -133,11 +133,11 @@ _Generate a **name** for an Island that will be notable in your adventures._
 
 
 ## Oracle: Cursed Island Name
-> [!mechanics]- | Roll > %`dice: [[SI_CH3_Island_Name#^table-OclCursedIslandName]]` | Guidance
+> [!mechanics]- | Roll > `dice: [[OT_ISSI_Islands^Cursed-Island-Name]]` | Guidance
 > Optionally, Create a compound name for an island or island group by taking your result and adding a word from the list to the right. For example, Flint Islands or Shipwreck Cay.
-> - **[[#Island Name Decorator|Group]]:** `dice: [[SI_CH3_Island_Name#^table-Decorator-Group]]`
-> - **[[#Island Name Decorator|Typical Island]]:** `dice: [[SI_CH3_Island_Name#^table-Decorator-Typical]]`
-> - **[[#Island Name Decorator|Small Island]]:** `dice: [[SI_CH3_Island_Name#^table-Decorator-Small]]`  ^guidance-OclCursedIslandName
+> - **[[#Island Name Decorator|Group]]:** `dice: [[OT_ISSI_Islands#^Decorator-Group]]`
+> - **[[#Island Name Decorator|Typical Island]]:** `dice: [[OT_ISSI_Islands#^Decorator-Typical]]`
+> - **[[#Island Name Decorator|Small Island]]:** `dice: [[OT_ISSI_Islands#^Decorator-Small]]`  ^guidance-OclCursedIslandName
 
 | dice: 1d100 | Result |
 | :---: | --- |
@@ -197,27 +197,27 @@ _Generate a **name** for an Island that will be notable in your adventures._
 > - **Typical Island:** Atoll, Isle, Island
 > - **Small Island:** Cay, Islet, Key, Skerry
 
-| dice: 1d3 | Result |
+| dice: 1d100 | Result |
 |:---:| --- |
-| 1 | Archipelago |
-| 2 | Isles |
-| 3 | Islands |
-^table-Decorator-Group
+| 1-30 | Archipelago |
+| 31-60 | Isles |
+| 61-100 | Islands |
+^Decorator-Group
 
-| dice: 1d3 | Result |
+| dice: 1d100 | Result |
 |:---:| --- |
-| 1 | Atoll |
-| 2 | Isle |
-| 3 | Island |
-^table-Decorator-Typical
+| 1-30 | Atoll |
+| 31-60 | Isle |
+| 61-100 | Island |
+^Decorator-Typical
 
-| dice: 1d4 | Result |
+| dice: 1d100 | Result |
 |:---:| --- |
-| 1 | Cay |
-| 2 | Islet |
-| 3 | Key |
-| 4 | Skerry |
-^table-Decorator-Small
+| 1-25 | Cay |
+| 26-50 | Islet |
+| 51-75 | Key |
+| 76-100 | Skerry |
+^Decorator-Small
 
 ## Tags
 

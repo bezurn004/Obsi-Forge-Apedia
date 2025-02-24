@@ -23,7 +23,7 @@ OracleDescriptor: ""
 Text
 
 ## Oracle: Combat Action
-> [!mechanics]- | Roll > `dice: [[SI_CH3_Misc_Combat^table-OclCombatAction]]` | Guidance
+> [!mechanics]- | Roll > `dice: [[OT_ISSI_Misc#^Combat-Action]]` | Guidance
 > Use this oracle to help inspire an action for a foe in a fight. When you’re not sure what an enemy does next, particularly when they have you in a bad spot, roll on this table and interpret the result as appropriate to the nature of the enemy and battleground. ^guidance-OclCombatAction
 
 | dice: 1d100 | Result |
@@ -66,7 +66,7 @@ Text
 *232 ORACLES*
 
 ## Oracle: Sea Battle Feature
-> [!mechanics]- | Roll > `dice: [[SI_CH3_Misc_Combat^table-OclSeaBattleFeature]]` | Guidance
+> [!mechanics]- | Roll > `dice: [[OT_ISSI_Misc#^Sea-Battle-Feature]]` | Guidance
 > Use this table to introduce terrain and environment features for a sea battle. This can help enliven the battle with obstacles and opportunities. ^guidance-OclSeaBattleFeature
 
 | dice: 1d100 | Result @1-2 |
@@ -95,7 +95,7 @@ Text
 ^table-OclSeaBattleFeature
 
 ## Oracle: Ship Damage
-> [!mechanics]- | Roll > <br>Bothersome: `dice: [[SI_CH3_Misc_Combat^table-OclShipDamage-Bothersome]]`<br>Bad: `dice: [[SI_CH3_Misc_Combat^table-OclShipDamage-Bad]]`<br>Critical: `dice: [[SI_CH3_Misc_Combat^table-OclShipDamage-Critical]]`  | Guidance
+> [!mechanics]- | Roll > <br>Bothersome: `dice: [[OT_ISSI_Misc#^Ship-Damage-Bothersome]]`<br>Bad: `dice: [[OT_ISSI_Misc#^Ship-Damage-Bad]]`<br>Critical: `dice: [[OT_ISSI_Misc#^Ship-Damage-Critical]]`  | Guidance
 > Use this table to help envision the nature of damage to your ship or impact on your crew. Use this in dramatic situations, such as suffering a miss with a match in a naval fight, or rolling a miss to [[SI_CH4_Withstand Damage#Withstand Damage Move Card|Withstand Damage]]. The result will introduce complications and looming catastrophes that must be dealt with.
 > 
 > For an initial hit, make the issue bothersome, and roll to learn what aspect of your ship is impacted. Then, if you don’t address the problem or suffer another hard hit, step up the severity. For example, a weakened mast is splintering, or a shaken crew is breaking. You should treat critical damage separately from your ship’s general integrity, requiring the “repair any other component or device” option in the Repair move.
@@ -119,56 +119,6 @@ Text
 ^table-OclShipDamage
 
 *233 MISCELLANEOUS ORACLES*
-
-### Ship Damage - Rollable
-
-| dice: 1d100 | Bothersome Damage |
-|:---:| --- |
-| 1 - 10 | Shaken morale |
-| 11 - 20 | Minor casualties |
-| 21 - 30 | Tangled rigging |
-| 31 - 40 | Weakened mast |
-| 41 - 50 | Fouled sail |
-| 51 - 55 | Damaged rudder |
-| 56 - 65 | Fire on deck |
-| 66 - 75 | Swamped deck |
-| 76 - 80 | Dismounted cannons |
-| 81 - 90 | Battered hull |
-| 91 - 95 | Damaged compartment,<br>module, or support vehicle |
-| 96 - 100 | Roll twice; if the same result, step up the severity |
-^table-OclShipDamage-Bothersome
-
-| dice: 1d100 | Bad Damage |
-|:---:| --- |
-| 1 - 10 | Breaking morale |
-| 11 - 20 | Severe casualties |
-| 21 - 30 | Fraying rigging |
-| 31 - 40 | Splintering mast |
-| 41 - 50 | Torn sail |
-| 51 - 55 | Jammed rudder |
-| 56 - 65 | Fire below decks |
-| 66 - 75 | Flooded bilge |
-| 76 - 80 | Damaged cannons |
-| 81 - 90 | Buckling hull |
-| 91 - 95 | Failing compartment,<br>module, or support vehicle |
-| 96 - 100 | Roll twice; if the same result, step up the severity |
-^table-OclShipDamage-Bad
-
-| dice: 1d100 | Critical Damage |
-|:---:| --- |
-| 1 - 10 | Broken morale |
-| 11 - 20 | Horrible casualties |
-| 21 - 30 | Broken rigging |
-| 31 - 40 | Broken mast |
-| 41 - 50 | Mangled sail |
-| 51 - 55 | Broken rudder |
-| 56 - 65 | Burning magazine |
-| 66 - 75 | Keeling over |
-| 76 - 80 | Destroyed cannons |
-| 81 - 90 | Breached hull |
-| 91 - 95 | Broken compartment,<br>module, or support vehicle |
-| 96 - 100 | Roll twice; if the same result, step up the severity |
-^table-OclShipDamage-Critical
 
 ## Tags
 

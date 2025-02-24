@@ -35,7 +35,7 @@ On [[SI_CH2_Character Backstory|pages 92-93]], you’ll find tables and prompts 
 ### STEP 3: CHOOSE TWO PATHS
 Select two path assets from your _Sundered Isles_ deck ([[SI_CH1_Your Characcter#Asset Guide|pages 14-15]]). Choose assets that support an interesting character concept, reflect the nature of your world, and foster the stories that you and other players want to explore.
 
-For guidance or inspiration, check the Persona tables on ([[SI_CH@_Characteristics and Persona|pages 94-95]]).
+For guidance or inspiration, check the Persona tables on ([[SI_CH2_Characteristics and Persona|pages 94-95]]).
 
 *90 GETTING UNDERWAY*
 

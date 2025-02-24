@@ -23,7 +23,7 @@ OracleDescriptor: "Spruce up the the **aspects** and **observations** of the Isl
 _Spruce up the **aspects** and **observations** of the Island as your learn more of its nature._
 
 ## Oracle: Island Coastal Aspects
-> [!mechanics]- | Roll > `dice: [[SI_CH3_Island_Surroundings#^table-OclIslandCoastalAspects]]` | Guidance
+> [!mechanics]- | Roll <br>▶1 `dice: [[OT_ISSI_Islands^Coastline-Aspects]]`<br>▶2 `dice: [[OT_ISSI_Islands^Coastline-Aspects]]` | Guidance
 > This table reveals topographic features of the nearby island coast. If you roll twice, those aspects are combined or close together. When you travel further up the shore of a sizable island, you may reroll on this table.
 > 
 > If a result is at odds with the _[[SI_CH3_Island_Landscape#Oracle Island Terrain|Terrain]]_ or _[[SI_CH3_Island_Landscape#Oracle Island Vitality|Vitality]]_ results (see previous pages), envision how the island includes both features. For example, shoreline cliffs can surround a flat island interior, as with an ancient volcanic Caldera. Or an isolated thicket of mangroves can grow on the shores of an otherwise desolate island.
@@ -63,7 +63,7 @@ _Spruce up the **aspects** and **observations** of the Island as your learn more
 *144 ORACLES*
 
 ## Oracle: Island Offshore Observations
-> [!mechanics]- | Roll > [skull] `dice: [[SI_CH3_The Cursed Die#^table-Cursed]]` `dice: [[SI_CH3_Island_Surroundings#^table-OclIslandOffshoreObservations]]` | Guidance
+> [!mechanics]- | Roll > [skull] `dice: [[SI_CH3_The Cursed Die#^table-Cursed]]`<br>▶1 `dice: [[OT_ISSI_Islands^Offshore-Observations]]`<br>▶2 `dice: [[OT_ISSI_Islands^Offshore-Observations]]` | Guidance
 > This table reveals more details of the shore and coastal waters as you observe or approach the island. ^guidance-OclIslandOffshoreObservations
 
 | dice: 1d100 | Result @1-2 [skull] _[[#Oracle Cursed Island Observations\|pg 146]]_ |
@@ -115,7 +115,7 @@ _Spruce up the **aspects** and **observations** of the Island as your learn more
 *145 ISLAND ORACLES*
 
 ## Oracle: Cursed Island Observations
-> [!mechanics]- | Roll > `dice: [[SI_CH3_Island_Surroundings#^table-OclCursedIslandObservations]]` | Guidance
+> [!mechanics]- | Roll > `dice: [[OT_ISSI_Islands^Cursed-Offshore-Observation]]` | Guidance
 > This table reveals more details of the shore and coastal waters as you observe or approach the island. ^guidance-OclCursedIslandObservations
 
 | dice: 1d100 | Result |

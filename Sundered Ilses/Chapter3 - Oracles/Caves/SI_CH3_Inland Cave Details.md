@@ -25,7 +25,7 @@ OracleDescriptor: ""
 Text
 [[SI_CH3_Inland Cave Details]]
 ### Oracle: Inland Cave Feature
-> [!mechanics]- | Roll > [skull] `dice: [[SI_CH3_The Cursed Die#^table-Cursed]]` `dice: [[SI_CH3_Inland Cave Details^table-OclInlandCaveFeature]]` | Guidance
+> [!mechanics]- | Roll > [skull] `dice: [[SI_CH3_The Cursed Die#^table-Cursed]]`<br>▶1 `dice: [[OT_ISSI_Caves#^Inland-Cave-Feature]]`<br>▶2 `dice: [[OT_ISSI_Caves#^Inland-Cave-Feature]]` | Guidance
 > Text ^guidance-OclInlandCaveFeature
 
 | dice: 1d100 | Result @1-2 [skull] _[[#Oracle Inland Cave Cursed Feature\|pg 211]]_ |
@@ -103,7 +103,7 @@ Text
 *210 ORACLES*
 
 ### Oracle: Inland Cave Cursed Feature
-> [!mechanics]- | Roll > `dice: [[SI_CH3_Inland Cave Details^table-OclInlandCaveCursedFeature]]` | Guidance
+> [!mechanics]- | Roll > `dice: [[OT_ISSI_Caves#^Cursed-Inland-Cave-Feature]]` | Guidance
 > Text ^guidance-OclInlandCaveCursedFeature
 
 | dice: 1d100 | Result |
@@ -131,7 +131,7 @@ Text
 ^table-OclInlandCaveCursedFeature
 
 ### Oracle: Inland Cave Peril
-> [!mechanics]- | Roll > `dice: [[SI_CH3_Inland Cave Details^table-OclInlandCavePeril]]` | Guidance
+> [!mechanics]- | Roll > `dice: [[OT_ISSI_Caves#^Inland-Cave-Peril]]` | Guidance
 > Text ^guidance-OclInlandCavePeril
 
 | dice: 1d100 | Result |
@@ -161,7 +161,7 @@ Text
 ^table-OclInlandCavePeril
 
 ### Oracle: Inland Cave Opportunity
-> [!mechanics]- | Roll > `dice: [[SI_CH3_Inland Cave Details^table-OclInlandCaveOpportunity]]` | Guidance
+> [!mechanics]- | Roll > `dice: [[OT_ISSI_Caves#^Inland-Cave-Opportunity]]` | Guidance
 > Text ^guidance-OclInlandCaveOpportunity
 
 | dice: 1d100 | Result |
@@ -179,7 +179,7 @@ Text
 ^table-OclInlandCaveOpportunity
 
 ### Oracle: Inland Cave Heart
-> [!mechanics]- | Roll > `dice: [[SI_CH3_Inland Cave Details^table-OclInlandCaveHeart]]` | Guidance
+> [!mechanics]- | Roll > `dice: [[OT_ISSI_Caves#^Inland-Cave-Heart]]` | Guidance
 > Text ^guidance-OclInlandCaveHeart
 
 | dice: 1d100 | Result |

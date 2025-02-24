@@ -43,7 +43,7 @@ If you face a cost in your travels, such as when you roll a miss as you [[SI_CH4
 *148 ORACLES*
 
 ### Oracle: Overland Waypoint - Myriads
-> [!mechanics]- | Roll > `dice: [[SI_CH3_Overland Waypoints#^table-OverlandWaypoint-Myriads]]` | Guidance
+> [!mechanics]- | Roll > `dice: [[OT_ISSI_Overland#^Waypoint-Myriads]]` | Guidance
 > Use this table to trigger locations, events, and encounters on an overland expedition. ^guidance-OverlandWaypoint-Myriads
 
 | dice: 1d100 | Result |
@@ -59,7 +59,7 @@ If you face a cost in your travels, such as when you roll a miss as you [[SI_CH4
 ^table-OverlandWaypoint-Myriads
 
 ### Oracle: Overland Waypoint - Margins
-> [!mechanics]- | Roll > `dice: [[SI_CH3_Overland Waypoints#^table-OverlandWaypoint-Margins]]` | Guidance
+> [!mechanics]- | Roll > `dice: [[OT_ISSI_Overland#^Waypoint-Margins]]` | Guidance
 > Use this table to trigger locations, events, and encounters on an overland expedition. ^guidance-OverlandWaypoint-Margins
 
 | dice: 1d100 | Result |
@@ -75,7 +75,7 @@ If you face a cost in your travels, such as when you roll a miss as you [[SI_CH4
 ^table-OverlandWaypoint-Margins
 
 ### Oracle: Overland Waypoint - Reaches
-> [!mechanics]- | Roll > `dice: [[SI_CH3_Overland Waypoints#^table-OverlandWaypoint-Reaches]]` | Guidance
+> [!mechanics]- | Roll > `dice: [[OT_ISSI_Overland#^Waypoint-Reaches]]` | Guidance
 > Use this table to trigger locations, events, and encounters on an overland expedition. ^guidance-OverlandWaypoint-Reaches
 
 | dice: 1d100 | Result |

@@ -27,7 +27,7 @@ A strong hit with a match or a miss with a match as you [[SI_CH4_Explore a Waypo
 If you investigate a shipwreck for clues related to a quest, make the [[SI_CH4_Gather Information#Gather Information Move Card|Gather Information]]. Use the outcome of the move to help guide the nature of what you uncover—whether that discovery is favorable or unfavorable. For inspiration, use the _[[SI_CH3_Misc_Story#Oracle Story Clue|Story Clue]]_ table (page 231).
 
 ### SCAVENGING A WRECK
-If you seek to scavenge a shipwreck, make the Resupply move. On a strong hit, you are successful. A strong hit with a match might offer an opportunity (in addition to the supplies), while a weak hit or miss can reveal a peril.
+If you seek to scavenge a shipwreck, make the [[SI_CH4_Resupply|Resupply]] move. On a strong hit, you are successful. A strong hit with a match might offer an [[SI_CH3_Shipwreck_Fortunes#Oracle Shipwreck Opportunity|Opportunity]]  (in addition to the supplies), while a weak hit or miss can reveal a [[SI_CH3_Shipwreck_Fortunes#Oracle Shipwreck Peril|Peril]].
 
 ### MORE DETAILS
 Use the _[[SI_CH3_Shipreck_Approach#Oracle Shipwreck Details|Shipwreck Details]]_ table (page 202) to reveal other aspects of the site.

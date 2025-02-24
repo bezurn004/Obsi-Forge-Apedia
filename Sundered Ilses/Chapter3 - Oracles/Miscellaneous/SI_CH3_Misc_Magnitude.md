@@ -47,9 +47,14 @@ Use this table to help answer a question related to the scale, extent, or capabi
 
 ### Oracle: Magnitude - Size
 > [!mechanics]- | Roll > `dice: [[SI_CH3_Misc_Magnitude^table-OclMagnitude-Size]]` | Guidance
-> Text ^guidance-OclMagnitude-Size
+> Use this table to help answer a question related to the scale, extent, or capability of something. Ask your question, choose one of the columns below, and roll to reveal the answer. For example:
+> - **Number:** “How many ships are docked here?”
+> - **Power:** “How strong are the fort’s defenses?”
+> - **Complexity:** “How tricky is the lock?”
+> - **Value:** “How rare is this artifact?”
+> - **Rank:** “What is the challenge rank of this expedition?” ^guidance-OclMagnitude-Size
 
-| dice: 1d100 | Size |
+| dice: 1d100 | Result |
 | :---: | --- |
 | 1 - 15 | Undersized |
 | 16 - 35 | Small |
@@ -59,10 +64,15 @@ Use this table to help answer a question related to the scale, extent, or capabi
 ^table-OclMagnitude-Size
 
 ### Oracle: Magnitude - Number
-> [!mechanics]- | Roll > `dice: [[SI_CH3_Misc_Magnitude#^table-OclMagnitude-Number]]` | Guidance
-> Text ^guidance-OclMagnitude-Number
+> [!mechanics]- | Roll > `dice: [[OT_ISSI_Misc^Magnitude-Number]]` | Guidance
+> Use this table to help answer a question related to the scale, extent, or capability of something. Ask your question, choose one of the columns below, and roll to reveal the answer. For example:
+> - **Number:** “How many ships are docked here?”
+> - **Power:** “How strong are the fort’s defenses?”
+> - **Complexity:** “How tricky is the lock?”
+> - **Value:** “How rare is this artifact?”
+> - **Rank:** “What is the challenge rank of this expedition?” ^guidance-OclMagnitude-Number
 
-| dice: 1d100 | Number |
+| dice: 1d100 | Result |
 | :---: | --- |
 | 1 - 15 | None / one |
 | 16 - 35 | Few |
@@ -72,10 +82,15 @@ Use this table to help answer a question related to the scale, extent, or capabi
 ^table-OclMagnitude-Number
 
 ### Oracle: Magnitude - Distance
-> [!mechanics]- | Roll > `dice: [[SI_CH3_Misc_Magnitude^table-OclMagnitude-Distance]]` | Guidance
-> Text ^guidance-OclMagnitude-Distance
+> [!mechanics]- | Roll > `dice: [[OT_ISSI_Misc^Magnitude-Distance]]` | Guidance
+> Use this table to help answer a question related to the scale, extent, or capability of something. Ask your question, choose one of the columns below, and roll to reveal the answer. For example:
+> - **Number:** “How many ships are docked here?”
+> - **Power:** “How strong are the fort’s defenses?”
+> - **Complexity:** “How tricky is the lock?”
+> - **Value:** “How rare is this artifact?”
+> - **Rank:** “What is the challenge rank of this expedition?” ^guidance-OclMagnitude-Distance
 
-| dice: 1d100 | Distance |
+| dice: 1d100 | Result |
 | :---: | --- |
 | 1 - 15 | Very close |
 | 16 - 35 | Near |
@@ -85,8 +100,13 @@ Use this table to help answer a question related to the scale, extent, or capabi
 ^table-OclMagnitude-Distance
 
 ### Oracle: Magnitude - Speed
-> [!mechanics]- | Roll > `dice: [[SI_CH3_Misc_Magnitude^table-OclMagnitude-Speed]]` | Guidance
-> Text ^guidance-OclMagnitude-Speed
+> [!mechanics]- | Roll > `dice: [[OT_ISSI_Misc^Magnitude-Speed]]` | Guidance
+> Use this table to help answer a question related to the scale, extent, or capability of something. Ask your question, choose one of the columns below, and roll to reveal the answer. For example:
+> - **Number:** “How many ships are docked here?”
+> - **Power:** “How strong are the fort’s defenses?”
+> - **Complexity:** “How tricky is the lock?”
+> - **Value:** “How rare is this artifact?”
+> - **Rank:** “What is the challenge rank of this expedition?” ^guidance-OclMagnitude-Speed
 
 | dice: 1d100 | Speed |
 | :---: | --- |
@@ -98,10 +118,15 @@ Use this table to help answer a question related to the scale, extent, or capabi
 ^table-OclMagnitude-Speed
 
 ### Oracle: Magnitude - Power
-> [!mechanics]- | Roll > `dice: [[SI_CH3_Misc_Magnitude#^table-OclMagnitude-Power]]` | Guidance
-> Text ^guidance-OclMagnitude-Power
+> [!mechanics]- | Roll > `dice: [[OT_ISSI_Misc^Magnitude-Power]]` | Guidance
+> Use this table to help answer a question related to the scale, extent, or capability of something. Ask your question, choose one of the columns below, and roll to reveal the answer. For example:
+> - **Number:** “How many ships are docked here?”
+> - **Power:** “How strong are the fort’s defenses?”
+> - **Complexity:** “How tricky is the lock?”
+> - **Value:** “How rare is this artifact?”
+> - **Rank:** “What is the challenge rank of this expedition?” ^guidance-OclMagnitude-Power
 
-| dice: 1d100 | Power |
+| dice: 1d100 | Result |
 | :---: | --- |
 | 1 - 15 | Weak |
 | 16 - 35 | Minor |
@@ -111,10 +136,15 @@ Use this table to help answer a question related to the scale, extent, or capabi
 ^table-OclMagnitude-Power
 
 ### Oracle: Magnitude - Complexity
-> [!mechanics]- | Roll > `dice: [[SI_CH3_Misc_Magnitude^table-OclMagnitude-Complexity]]` | Guidance
-> Text ^guidance-OclMagnitude-Complexity
+> [!mechanics]- | Roll > `dice: [[OT_ISSI_Misc^Magnitude-Complexity]]` | Guidance
+> Use this table to help answer a question related to the scale, extent, or capability of something. Ask your question, choose one of the columns below, and roll to reveal the answer. For example:
+> - **Number:** “How many ships are docked here?”
+> - **Power:** “How strong are the fort’s defenses?”
+> - **Complexity:** “How tricky is the lock?”
+> - **Value:** “How rare is this artifact?”
+> - **Rank:** “What is the challenge rank of this expedition?” ^guidance-OclMagnitude-Complexity
 
-| dice: 1d100 | Complexity |
+| dice: 1d100 | Result |
 | :---: | --- |
 | 1 - 15 | Simple |
 | 16 - 35 | Basic |
@@ -124,10 +154,15 @@ Use this table to help answer a question related to the scale, extent, or capabi
 ^table-OclMagnitude-Complexity
 
 ### Oracle: Magnitude - Quality
-> [!mechanics]- | Roll > `dice: [[SI_CH3_Misc_Magnitude#^table-OclMagnitude-Quality]]` | Guidance
-> Text ^guidance-OclMagnitude-Quality
+> [!mechanics]- | Roll > `dice: [[OT_ISSI_Misc^Magnitude-Quality]]` | Guidance
+> Use this table to help answer a question related to the scale, extent, or capability of something. Ask your question, choose one of the columns below, and roll to reveal the answer. For example:
+> - **Number:** “How many ships are docked here?”
+> - **Power:** “How strong are the fort’s defenses?”
+> - **Complexity:** “How tricky is the lock?”
+> - **Value:** “How rare is this artifact?”
+> - **Rank:** “What is the challenge rank of this expedition?”^guidance-OclMagnitude-Quality
 
-| dice: 1d100 | Quality |
+| dice: 1d100 | Result |
 | :---: | --- |
 | 1 - 15 | Broken |
 | 16 - 35 | Fragile |
@@ -137,10 +172,15 @@ Use this table to help answer a question related to the scale, extent, or capabi
 ^table-OclMagnitude-Quality
 
 ### Oracle: Magnitude - Value
-> [!mechanics]- | Roll > `dice: [[SI_CH3_Misc_Magnitude^table-OclMagnitude-Value]]` | Guidance
-> Text ^guidance-OclMagnitude-Value
+> [!mechanics]- | Roll > `dice: [[OT_ISSI_Misc^Magnitude-Value]]` | Guidance
+> Use this table to help answer a question related to the scale, extent, or capability of something. Ask your question, choose one of the columns below, and roll to reveal the answer. For example:
+> - **Number:** “How many ships are docked here?”
+> - **Power:** “How strong are the fort’s defenses?”
+> - **Complexity:** “How tricky is the lock?”
+> - **Value:** “How rare is this artifact?”
+> - **Rank:** “What is the challenge rank of this expedition?” ^guidance-OclMagnitude-Value
 
-| dice: 1d100 | Value |
+| dice: 1d100 | Result |
 | :---: | --- |
 | 1 - 15 | Worthless |
 | 16 - 35 | Cheap |
@@ -150,10 +190,15 @@ Use this table to help answer a question related to the scale, extent, or capabi
 ^table-OclMagnitude-Value
 
 ### Oracle: Magnitude - Disposition
-> [!mechanics]- | Roll > `dice: [[SI_CH3_Misc_Magnitude^table-OclMagnitude-Disposition]]` | Guidance
-> Text ^guidance-OclMagnitude-Disposition
+> [!mechanics]- | Roll > `dice: [[OT_ISSI_Misc^Magnitude-Disposition]]` | Guidance
+> Use this table to help answer a question related to the scale, extent, or capability of something. Ask your question, choose one of the columns below, and roll to reveal the answer. For example:
+> - **Number:** “How many ships are docked here?”
+> - **Power:** “How strong are the fort’s defenses?”
+> - **Complexity:** “How tricky is the lock?”
+> - **Value:** “How rare is this artifact?”
+> - **Rank:** “What is the challenge rank of this expedition?” ^guidance-OclMagnitude-Disposition
 
-| dice: 1d100 | Disposition |
+| dice: 1d100 | Result |
 | :---: | --- |
 | 1 - 15 | Friendly |
 | 16 - 35 | Open |
@@ -162,11 +207,16 @@ Use this table to help answer a question related to the scale, extent, or capabi
 | 86 - 100 | Hostile |
 ^table-OclMagnitude-Disposition
 
-### Oracle: Magnitude - Rank
-> [!mechanics]- | Roll > `dice: [[SI_CH3_Misc_Magnitude^table-OclMagnitude-Rank]]` | Guidance
-> Text ^guidance-OclMagnitude-Rank
+### Oracle: Magnitude - Result
+> [!mechanics]- | Roll > `dice: [[OT_ISSI_Misc^Magnitude-Rank]]` | Guidance
+> Use this table to help answer a question related to the scale, extent, or capability of something. Ask your question, choose one of the columns below, and roll to reveal the answer. For example:
+> - **Number:** “How many ships are docked here?”
+> - **Power:** “How strong are the fort’s defenses?”
+> - **Complexity:** “How tricky is the lock?”
+> - **Value:** “How rare is this artifact?”
+> - **Rank:** “What is the challenge rank of this expedition?” ^guidance-OclMagnitude-Rank
 
-| dice: 1d100 | Rank |
+| dice: 1d100 | Result |
 | :---: | --- |
 | 1 - 15 | Troublesome |
 | 16 - 35 | Dangerous |

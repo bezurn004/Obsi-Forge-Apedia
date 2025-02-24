@@ -37,7 +37,11 @@ Or [[SI_CH4_Swear an Iron Vow#INSERT Move Card|Swear an Iron Vow (SI Moves)]] an
 
 *57 BEASTS OF THE ISLES*
 
-> ## BEASTS OF THE SEA ^beasts-sea
+> ## BEASTS OF THE SEA
+^beasts-sea
+
+> [!oracle]- Roll
+> `dice: [[OT_ISSI_Campaign#^Beasts-Sea]]`
 
 | 1D100 | Name | Rank | Description |
 | :---: | --- | --- | --- |
@@ -61,7 +65,10 @@ Or [[SI_CH4_Swear an Iron Vow#INSERT Move Card|Swear an Iron Vow (SI Moves)]] an
 *58 ADVENTURES AMONG THE ISLES*
 *59 BEASTS OF THE ISLES*
 
-> ## BEASTS OF THE LAND ^beasts-land
+> ## BEASTS OF THE LAND 
+> 
+> > [!oracle]- Roll
+> > `dice: [[OT_ISSI_Campaign#^Beasts-Land]]` ^beasts-land
 
 | 1D100 | Name | Rank | Description |
 | :---: | --- | --- | --- |
@@ -84,7 +91,10 @@ Or [[SI_CH4_Swear an Iron Vow#INSERT Move Card|Swear an Iron Vow (SI Moves)]] an
 *60 ADVENTURES AMONG THE ISLES*
 *61 BEASTS OF THE ISLES*
 
-> ## BEASTS OF THE SHORE AND RIVER ^beasts-shore-river
+> ## BEASTS OF THE SHORE AND RIVER
+> 
+> > [!oracle]- Roll
+> > `dice: [[OT_ISSI_Campaign#^Beasts-Shore-River]]` ^beasts-shore-river
 
 | 1D100 | Name | Rank | Description |
 | :---: | --- | --- | --- |
@@ -99,7 +109,10 @@ Or [[SI_CH4_Swear an Iron Vow#INSERT Move Card|Swear an Iron Vow (SI Moves)]] an
 
 *62 ADVENTURES AMONG THE ISLES*
 
-> ## BEASTS OF THE SKY ^beasts-sky
+> ## BEASTS OF THE SKY
+> 
+> > [!oracle]- Roll
+> > `dice: [[OT_ISSI_Campaign#^Beasts-Sky]]` ^beasts-sky
 
 | 1D100 | Name | Rank | Description |
 | :---: | --- | --- | --- |

@@ -27,29 +27,21 @@ For details on using factions in your campaign, [[SI_CH1_Factions of the Isles|s
 *177 FACTION ORACLES*
 
 ## Oracle: Faction Type
-> [!mechanics]- | Roll > `dice: [[SI_CH3_Faction_Type and Relations#^table-OclFactionType-Rollable]]` | Guidance
+> [!mechanics]- | Roll > `dice: [[OT_ISSI_Factions#^Type]]` | Guidance
 > [skull] On a cursed result, choose one: Make the faction one of _[[SI_CH3_Faction_The Cursed|The Cursed]]_, or keep the result and add _[[SI_CH3_Faction_The Cursed#Oracle Cursed Faction Aspects|Cursed Faction Aspects]]_. See page 182 for cursed tables. ^guidance-OclFactionType
 
-| Roll | Result | Description |
-|:---:| --- | --- |
+| dice: 1d100 | Result | Description |
+| :---: | --- | --- |
 | 1 – 50 | ▶[[SI_CH3_Faction_Society\|Society]] | People who share traditions and a way of life _pg 178–178_ |
 | 51 – 80 | ▶[[SI_CH3_Faction_Organization\|Organization]] | People joined in a collective trade, pursuit, or goal _pg 180_ |
 | 81 – 100 | ▶[[SI_CH3_Faction_Empire\|Empire]] | People seeking dominion over the isles _pg 181_ |
 ^table-OclFactionType
 
-### Faction Type - Rollable
-| dice: 1d100 | Result |
-|:---:| --- | --- |
-| 1 – 50 | ▶[[SI_CH3_Faction_Society\|Society]] |
-| 51 – 80 | ▶[[SI_CH3_Faction_Organization\|Organization]] |
-| 81 – 100 | ▶[[SI_CH3_Faction_Empire\|Empire]] |
-^table-OclFactionType-Rollable
-
 ## Oracle: Faction Influence
-> [!mechanics]- | Roll > `dice: [[SI_CH3_Faction_Type and Relations#^table-OclFactionInfluence-Rollable]]` | Guidance
+> [!mechanics]- | Roll > `dice: [[OT_ISSI_Factions#^Influence]]` | Guidance
 > Text ^guidance-OclFactionInfluence
 
-| Roll | Result | Summary |
+| dice: 1d100 | Result | Summary |
 | :---: | --- | --- |
 | 1 - 10 | Forsaken | Banished or forgotten |
 | 11 - 30 | Isolated | Limited influence in a remote location |
@@ -60,23 +52,10 @@ For details on using factions in your campaign, [[SI_CH1_Factions of the Isles|s
 | 96 - 100 | Inescapable | Pervasive influence across a vast area |
 ^table-OclFactionInfluence
 
-### Faction Influence - Rollable
-
-| dice: 1d100 | Result |
-| :---: | --- |
-| 1 - 10 | **Forsaken**<br>Banished or forgotten |
-| 11 - 30 | **Isolated**<br>Limited influence in a remote location |
-| 31 - 50 | **Localized**<br>Marginal influence in a small area |
-| 51 - 70 | **Established**<br>Strong influence in a small area |
-| 71 - 85 | **Notable**<br>Dispersed influence across a moderate area |
-| 86 - 95 | **Dominant**<br>Far-reaching influence across a large area |
-| 96 - 100 | **Inescapable**<br>Pervasive influence across a vast area |
-^table-OclFactionInfluence-Rollable
-
 *176 ORACLES*
 
 ## Oracle: Faction Relationship
-> [!mechanics]- | Roll > `dice: [[SI_CH3_Faction_Type and Relations#^table-OclFactionRelationship]]` | Guidance
+> [!mechanics]- | Roll > `dice: [[OT_ISSI_Factions#^Relationship]]` | Guidance
 > When you have a question about the relationship of one faction to another—or how an individual relates to a faction—use this table. The result is the commonly understood connection, but might not tell the whole story. ^guidance-OclFactionRelationship
 
 | dice: 1d100 | Result |

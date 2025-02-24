@@ -33,6 +33,9 @@ Keep in mind that you can start with the sketchiest idea for your character and 
 > [5] Remarkable technologies
 > [7] Only for co-op or guided play with allies
 
+> [!oracle]- Roll
+> `dice: [[OT_ISSI_Campaign#^Character-Persona]]`
+
 | Roll | Usage | Result | Starting Paths |
 | :---: | :---: | --- | --- |
 | 1–3 |  | Apothecary | [[AST_Healer\|HEALER]], [[AST_Peddler\|PEDDLER]] |

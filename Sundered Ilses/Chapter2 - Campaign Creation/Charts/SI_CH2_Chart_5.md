@@ -17,6 +17,12 @@ Next, add one to three other locations to your starting area. This can include s
 
 ### LOCATION DETAILS @1–3 | [skull] page 105
 
+> [!oracle]- Roll
+> ▶1 [skull] `dice: [[SI_CH3_The Cursed Die#^table-Cursed]]` `dice: [[OT_ISSI_Campaign#^Landmark-Location-Details]]`
+> ▶2 [skull] `dice: [[SI_CH3_The Cursed Die#^table-Cursed]]` `dice: [[OT_ISSI_Campaign#^Landmark-Location-Details]]`
+> ▶3 [skull] `dice: [[SI_CH3_The Cursed Die#^table-Cursed]]` `dice: [[OT_ISSI_Campaign#^Landmark-Location-Details]]`
+
+
 | Roll | Location | Question |
 | :---: | --- | --- |
 | 1 - 4 | Abyssal sinkhole | What is rumored to lie at the bottom of these depths? |
@@ -50,6 +56,9 @@ Next, add one to three other locations to your starting area. This can include s
 
 *104 GETTING UNDERWAY*
 ### [skull] CURSED LOCATION DETAILS
+
+> [!oracle]- Roll
+> `dice: [[OT_ISSI_Campaign#^Cursed-Landmark-Location-Details]]`
 
 | Roll | Location | Question |
 | :---: | --- | --- |

@@ -22,9 +22,9 @@ OracleDescriptor: ""
 ---
 # [[_Sundered Isles|Sundered Isles]] - [[_SI_Ch3_Contents|Oracles]] - [[_SI_CH3_Cave Oracles|Cave]]: Creation
 Text
-`dice: [[SI_CH3_Cave_Creation^table-INSERT]]`
+
 ## Oracle: Cave Type
-> [!mechanics]- | Roll > `dice: [[SI_CH3_Cave_Creation^table-OclCaveType]]` | Guidance
+> [!mechanics]- | Roll > `dice: [[OT_ISSI_Caves#^Type]]` | Guidance
 > When learning about a distant cave, use the table below to reveal its location. If you come upon a cave in your travels, pick a location as appropriate to your surroundings. ^guidance-OclCaveType
 
 | Roll | Result | Description |
@@ -32,16 +32,8 @@ Text
 | 1 - 60 | **▶[[SI_CH3_Sea Cave Details#Oracle Sea Cave Feature\|SEA CAVE]]** (_pg 208_) | Caves of watery passages; carved by the tides |
 | 61 - 100 | **▶[[SI_CH3_Inland Cave Details#Oracle Inland Cave Feature\|INLAND CAVE]]** (_pg 210_) | Caves of echoing stone; plunging deep into the earth |
 
-### Cave Type - Rollable
-
-| dice: 1d100 | Result |
-| :---: | --- |
-| 1 - 60 | **SEA CAVE** |
-| 61 - 100 | **INLAND CAVE** |
-^table-OclCaveType
-
 ## Oracle: Cave Scale
-> [!mechanics]- | Roll > <br>Sea Cave: `dice: [[SI_CH3_Cave_Creation^table-OclCaveScale-Sea]]`<br>Inland Cave:  `dice: [[SI_CH3_Cave_Creation^table-OclCaveScale-Inland]]` | Guidance
+> [!mechanics]- | Roll > <br>Sea Cave: `dice: [[OT_ISSI_Caves#^Scale-Sea]]`<br>Inland Cave:  `dice: [[OT_ISSI_Caves#^Scale-Inland]]` | Guidance
 > Text ^guidance-OclCaveScale
 
 | Sea Cave | Inland Cave | Rank | Details |
@@ -52,30 +44,10 @@ Text
 | 86 - 95 | 76 - 90 | Extreme | Vast cave system |
 | 96 - 100 | 91 - 100 | Epic | Fathomless cave system |
 
-### Cave Scale - Rollable
-
-| dice: 1d100 | Rank |
-|:---:| --- |
-| 1 - 30 | Troublesome |
-| 31 - 70 | Dangerous |
-| 71 - 85 | Formidable |
-| 86 - 95 | Extreme |
-| 96 - 100 | Epic |
-^table-OclCaveScale-Sea
-
-| dice: 1d100 | Rank |
-|:---:| --- |
-| 1 - 20 | Troublesome |
-| 21 - 50 | Dangerous |
-| 51 - 75 | Formidable |
-| 76 - 90 | Extreme |
-| 91 - 100 | Epic |
-^table-OclCaveScale-Inland
-
 *204 ORACLES*
 
 ## Oracle: Cave Threshold
-> [!mechanics]- | Roll > [skull] `dice: [[SI_CH3_The Cursed Die#^table-Cursed]]` `dice: [[SI_CH3_Cave_Creation^table-OclCaveThreshold]]` | Guidance
+> [!mechanics]- | Roll > [skull] `dice: [[SI_CH3_The Cursed Die#^table-Cursed]]`<br>▶1 `dice: [[OT_ISSI_Caves#^Threshold]]`<br>▶2 `dice: [[OT_ISSI_Caves#^Threshold]]` | Guidance
 > Text ^guidance-OclCaveThreshold
 
 | dice: 1d100 | Result @1-2 [skull] _[[#Oracle Cursed Cave Threshold\|below]]_ |
@@ -99,7 +71,7 @@ Text
 ^table-OclCaveThreshold
 
 ## Oracle: Cursed Cave Threshold
-> [!mechanics]- | Roll > `dice: [[SI_CH3_Cave_Creation^table-OclCursedCaveThreshold]]` | Guidance
+> [!mechanics]- | Roll > `dice: [[OT_ISSI_Caves#^Cursed-Threshold]]` | Guidance
 > Text ^guidance-OclCursedCaveThreshold
 
 | dice: 1d100 | Result |
@@ -126,6 +98,6 @@ Text
 
 | Contents Page | Tags | Next Page |
 | :--- | :---: | ---: |
-| **[[_SI_CH3_Cave Oracles\|Caves (SI Oracles)]]** | #SunderedIsles/Oracles/Caves| **[[SI_CH3_Cave_Threats\|Cave Depths (SI Oracles)]]** |
+| **[[_SI_CH3_Cave Oracles\|Caves (SI Oracles)]]** | #SunderedIsles/Oracles/Caves| **[[SI_CH3_Cave_Threats\|Cave Threats (SI Oracles)]]** |
 
 <font size=-2>Copyright ©2024 Shawn Tomkin. The text of this work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license. For license details, visit ironswornrpg.com. Updated June 2024 MUH051V200-PDF</font>

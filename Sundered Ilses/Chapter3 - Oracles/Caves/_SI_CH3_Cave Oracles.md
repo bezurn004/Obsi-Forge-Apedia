@@ -37,8 +37,8 @@ When you [[SI_CH4_Finish an Expedition#Finish an Expedition Move Card|Finish an 
 > ### [[SI_CH3_Cave_Creation|Cave Creation]]
 > - Cave Type
 > - Cave Scale
-> - Cave Thrashold
-> - Cursed Cave Threashold
+> - Cave Threshold
+> - Cursed Cave Threshold
 > 
 > ### [[SI_CH3_Cave_Threats|Cave Threats]]
 > - Cave Lurking Threat

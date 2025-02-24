@@ -27,7 +27,7 @@ Other oracle tables include prompts to check for a Descriptor and Focus (shown a
 > [!mechanics]- | Roll > `dice: [[SI_CH3_Core_Descriptor Focus#^table-OclDescriptor]]` | Guidance
 > Text ^guidance-OclDescriptor
 
-| Roll | Result |
+| dice: 1d100 | Result |
 | :---: | --- |
 | 1 | Abandoned |
 | 2 | Abundant |
@@ -137,7 +137,7 @@ Other oracle tables include prompts to check for a Descriptor and Focus (shown a
 > [!mechanics]- | Roll > `dice: [[SI_CH3_Core_Descriptor Focus#^table-OclFocus]]` | Guidance
 > Text ^guidance-OclFocus
 
-| Roll | Result |
+| dice: 1d100 | Result |
 | :---: | --- |
 | 1 | Ammunition |
 | 2 | Anchorage |

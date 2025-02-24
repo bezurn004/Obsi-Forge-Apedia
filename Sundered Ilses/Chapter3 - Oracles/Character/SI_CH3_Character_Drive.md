@@ -24,7 +24,7 @@ OracleDescriptor: ""
 Text
 
 ## Oracle: Character Details
-> [!mechanics]- | Roll > [skull] `dice: [[SI_CH3_The Cursed Die#^table-Cursed]]` `dice: [[SI_CH3_Character_Drive^table-OclCharacterDetails]]` | Guidance
+> [!mechanics]- | Roll > [skull] `dice: [[SI_CH3_The Cursed Die#^table-Cursed]]`<br>▶1 `dice: [[OT_ISSI_Characters#^Details]]`<br>▶2 `dice: [[OT_ISSI_Characters#^Details]]` | Guidance
 > As you interact with a person to gain a deeper understanding of their nature and personality, roll on this table to reveal new characteristics. Feel free to ignore, reroll, or adjust contradictions. Or envision how those contradictions add interesting complexity to the character. ^guidance-OclCharacterDetails
 
 | dice: 1d100 | Result @1-2 [skull] _[[#Oracle Cursed Character Details\|below]]_ |
@@ -132,7 +132,7 @@ Text
 ^table-OclCharacterDetails
 
 ## Oracle: Cursed Character Details
-> [!mechanics]- | Roll > `dice: [[SI_CH3_Character_Drive^table-OclCursedCharacterDetails]]` | Guidance
+> [!mechanics]- | Roll > `dice: [[OT_ISSI_Characters#^Cursed-Details]]` | Guidance
 > Text ^guidance-OclCursedCharacterDetails
 
 | dice: 1d100 | Result |
@@ -158,7 +158,7 @@ Text
 *192 ORACLES*
 
 ## Oracle: Character Goals
-> [!mechanics]- | Roll > [skull] `dice: [[SI_CH3_The Cursed Die#^table-Cursed]]` `dice: [[SI_CH3_Character_Drive^table-OclCharacterGoals]]` | Guidance
+> [!mechanics]- | Roll > [skull] `dice: [[SI_CH3_The Cursed Die#^table-Cursed]]`<br>▶1 `dice: [[OT_ISSI_Characters#^Goals]]`<br>▶2 `dice: [[OT_ISSI_Characters#^Goals]]` | Guidance
 > Text ^guidance-OclCharacterGoals
 
 | dice: 1d100 | Result @1-2 [skull] _[[#Oracle Cursed Character Goals\|below]]_ |
@@ -214,7 +214,7 @@ Text
 ^table-OclCharacterGoals
 
 ## Oracle: Cursed Character Goals
-> [!mechanics]- | Roll > `dice: [[SI_CH3_Character_Drive^table-OclCursedCharacterGoals]]` | Guidance
+> [!mechanics]- | Roll > `dice: [[OT_ISSI_Characters#^Cursed-Goals]]` | Guidance
 > Text ^guidance-OclCursedCharacterGoals
 
 | dice: 1d100 | Result |

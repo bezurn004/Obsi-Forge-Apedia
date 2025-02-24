@@ -30,7 +30,7 @@
 | 143 - 149 | Mountainous dunes undergoing an avalanche of sand |
 | 150 - 156 | Pocket caves dug by the claws of a long-dead creature |
 | 157 - 163 | Rock archways eroded by wind |
-| 164 - 170 | Sand gathered in a pyramid - like structure |
+| 164 - 170 | Sand gathered in a pyramid-like structure |
 | 171 - 177 | Seas of glaring white sand |
 | 178 - 184 | Small area that could be an oasis given rain |
 | 185 - 191 | Static charges rippling across churning sand |
@@ -38,7 +38,7 @@
 | 199 - 200 | ▶[[STRSM_OCL_Vault-Creation#Oracle Precursor Vault Outer First Look\|Precursor Vault (planetside)]] `dice: [[OT_STRSM_OCL_Vaults#^Vault-Outer-First-Look]]` |
 | 201 - 207 | Concave sand dunes spilling ever forward |
 | 208 - 214 | Deep cylindrical hole with rocky walls and water at the bottom |
-| 215 - 221 | Field of lightning - shaped glass shards |
+| 215 - 221 | Field of lightning-shaped glass shards |
 | 222 - 228 | Flat sand sheets undulating with tiny ripples in the wind |
 | 229 - 235 | Granite boulders still eroding |
 | 236 - 242 | Heat waves distorting distant mountains |
@@ -147,7 +147,7 @@
 | 212 - 222 | Dry endorheic basins that once gathered rain water |
 | 223 - 233 | Large alluvial fans |
 | 234 - 244 | Mountains cracked and crumbling into limestone boulders |
-| 245 - 255 | Mountain - sized dust devils in a complicated dance |
+| 245 - 255 | Mountain-sized dust devils in a complicated dance |
 | 256 - 266 | Stones covered in desert varnish made by clay - eating bacteria |
 | 267 - 277 | Tiny dots of color amidst the sandy brown |
 | 278 - 288 | Variable winds cause large star dunes piling higher and higher |
@@ -285,7 +285,7 @@
 | 45 - 55 | Massive supervolcano |
 | 56 - 66 | Once verdant terrain |
 | 67 - 77 | Towering mountain ranges |
-| 78 - 88 | World - spanning fissures |
+| 78 - 88 | World-spanning fissures |
 | 89 - 98 | ▶D+F `dice: [[OT_STRSM_OCL_Core^Core-Descriptor]]` + `dice: [[OT_STRSM_OCL_Core^Core-Focus]]` |
 | 99 - 100 | ▶[[STRSM_OCL_Vault-Creation#Oracle Precursor Vault Outer First Look\|Precursor Vault (orbital)]] `dice: [[OT_STRSM_OCL_Vaults#^Vault-Outer-First-Look]]` |
 | 101 - 111 | Continent - sized crater filled with lava |
@@ -299,7 +299,7 @@
 | 189 - 198 | ▶D+F `dice: [[OT_STRSM_OCL_Core^Core-Descriptor]]` + `dice: [[OT_STRSM_OCL_Core^Core-Focus]]` |
 | 199 - 200 | ▶[[STRSM_OCL_Vault-Creation#Oracle Precursor Vault Outer First Look\|Precursor Vault (orbital)]] `dice: [[OT_STRSM_OCL_Vaults#^Vault-Outer-First-Look]]` |
 | 201 - 211 | Canals of lava flowing towards an ocean of molten rock |
-| 212 - 222 | Continent - sized crater filled with obsidian |
+| 212 - 222 | Continent-sized crater filled with obsidian |
 | 223 - 233 | Gigantic trench in the scorched ocean bed |
 | 234 - 244 | Large arachnoids, radial ground fissures near volcanoes |
 | 245 - 255 | Massive pancake dome volcano engorged with lava |
@@ -358,7 +358,7 @@
 | 264 - 270 | Indications of a corrupt or brutal system of justice  |
 | 271 - 277 | Poisoned spring waters |
 | 278 - 284 | Rotted vertical farms |
-| 285 - 291 | Stash of time - worn weapons |
+| 285 - 291 | Stash of time-worn weapons |
 | 292 - 298 | ▶D+F `dice: [[OT_STRSM_OCL_Core^Core-Descriptor]]` + `dice: [[OT_STRSM_OCL_Core^Core-Focus]]` |
 | 299 - 300 | ▶[[STRSM_OCL_Vault-Creation#Oracle Precursor Vault Outer First Look\|Precursor Vault (planetside)]] `dice: [[OT_STRSM_OCL_Vaults#^Vault-Outer-First-Look]]` |
 ^Grave-Planetside-Feature
@@ -439,7 +439,7 @@
 | 34 - 44 | Irradiated Atmosphere |
 | 45 - 55 | Orbiting ship graveyard |
 | 56 - 66 | Perpetual overcast |
-| 67 - 77 | Sky - breaching ruins |
+| 67 - 77 | Sky-breaching ruins |
 | 78 - 88 | Vast wastelands |
 | 89 - 98 | ▶D+F `dice: [[OT_STRSM_OCL_Core^Core-Descriptor]]` + `dice: [[OT_STRSM_OCL_Core^Core-Focus]]` |
 | 99 - 100 | ▶[[STRSM_OCL_Vault-Creation#Oracle Precursor Vault Outer First Look\|Precursor Vault (orbital)]] `dice: [[OT_STRSM_OCL_Vaults#^Vault-Outer-First-Look]]` |
@@ -483,7 +483,7 @@
 | 64 - 70 | Steaming hot springs |
 | 71 - 77 | Subsurface liquid oceans |
 | 78 - 84 | Vibrant auroras |
-| 85 - 91 | Wind - carved ice formations |
+| 85 - 91 | Wind-carved ice formations |
 | 92 - 98 | ▶D+F `dice: [[OT_STRSM_OCL_Core^Core-Descriptor]]` + `dice: [[OT_STRSM_OCL_Core^Core-Focus]]` |
 | 99 - 100 | ▶[[STRSM_OCL_Vault-Creation#Oracle Precursor Vault Outer First Look\|Precursor Vault (planetside)]] `dice: [[OT_STRSM_OCL_Vaults#^Vault-Outer-First-Look]]` |
 | 101 - 107 | Avalanche of ice and snow |
@@ -512,7 +512,7 @@
 | 257 - 263 | Liquid lake warmed by geothermal heat |
 | 264 - 270 | Plains of tightly packed snow and howling wind |
 | 271 - 277 | Pockets of gas frozen in ice |
-| 278 - 284 | Sea with super - dense ice on the floor |
+| 278 - 284 | Sea with super-dense ice on the floor |
 | 285 - 291 | Vertical cliffs of ice |
 | 292 - 298 | ▶D+F `dice: [[OT_STRSM_OCL_Core^Core-Descriptor]]` + `dice: [[OT_STRSM_OCL_Core^Core-Focus]]` |
 | 299 - 300 | ▶[[STRSM_OCL_Vault-Creation#Oracle Precursor Vault Outer First Look\|Precursor Vault (planetside)]] `dice: [[OT_STRSM_OCL_Vaults#^Vault-Outer-First-Look]]` |
@@ -592,7 +592,7 @@
 | 12 - 22 | Frozen Oceans |
 | 23 - 33 | Rocky glacial islands |
 | 34 - 44 | Snowbound mountains |
-| 45 - 55 | Sky - breaching geysers |
+| 45 - 55 | Sky-breaching geysers |
 | 56 - 66 | Supersized ice volcano |
 | 67 - 77 | Vibrantly colored ice |
 | 78 - 88 | World - spanning ice canyon |
@@ -634,7 +634,7 @@
 | 36 - 42 | Pockets of explosive gases |
 | 43 - 49 | Powerful vortexes |
 | 50 - 56 | Radiation fields |
-| 57 - 63 | Storm - swept rocky debris |
+| 57 - 63 | Storm-swept rocky debris |
 | 64 - 70 | Torrential rain |
 | 71 - 77 | Towering thunderheads |
 | 78 - 84 | Violent turbulence |
@@ -648,7 +648,7 @@
 | 129 - 135 | Irresistable air currents |
 | 136 - 142 | Liquid vortex |
 | 143 - 149 | Metallic rains |
-| 150 - 156 | Moon - like structures within the Atmosphere |
+| 150 - 156 | Moon-like structures within the Atmosphere |
 | 157 - 163 | Pockets of calm that form and reform |
 | 164 - 170 | Pockets of noxious vapors |
 | 171 - 177 | Rain composed of supercooled gaseous elements |
@@ -758,14 +758,14 @@
 | 112 - 122 | Asteroid belt near the planet's orbit |
 | 123 - 133 | Atmosphere constantly changing colors |
 | 134 - 144 | Cloud nebula surrounding the planet |
-| 145 - 155 | Hyper - dense Atmosphere |
+| 145 - 155 | Hyper-dense Atmosphere |
 | 156 - 166 | Pulsing magnetic field |
 | 167 - 177 | Supercooled Atmosphere |
 | 178 - 188 | Superstorm that produces an aurora |
 | 189 - 198 | ▶D+F `dice: [[OT_STRSM_OCL_Core^Core-Descriptor]]` + `dice: [[OT_STRSM_OCL_Core^Core-Focus]]` |
 | 199 - 200 | ▶[[STRSM_OCL_Vault-Creation#Oracle Precursor Vault Outer First Look\|Precursor Vault (orbital)]] `dice: [[OT_STRSM_OCL_Vaults#^Vault-Outer-First-Look]]` |
 | 201 - 211 | Atmospheric pocket where all colors turn gray |
-| 212 - 222 | Continent - sized tornado of swirling color |
+| 212 - 222 | Continent-sized tornado of swirling color |
 | 223 - 233 | Gravity waves pushing away from the planet |
 | 234 - 244 | Radiation in specific Atmosphere layers |
 | 245 - 255 | Second planet following behind in the Jovian's orbit |
@@ -787,7 +787,7 @@
 | 15 - 21 | Extensive exposed root systems |
 | 22 - 28 | Immense tiered waterfalls |
 | 29 - 35 | Languid rivers |
-| 36 - 42 | Low - lying fog |
+| 36 - 42 | Low-lying fog |
 | 43 - 49 | Plunging sinkholes |
 | 50 - 56 | Scarred clearings |
 | 57 - 63 | Sinking quagmires |
@@ -808,7 +808,7 @@
 | 157 - 163 | Monstrous monsoons |
 | 164 - 170 | Newly flooded lowlands |
 | 171 - 177 | Noxious tar pits |
-| 178 - 184 | Rivers joining whose multi - colored waters don&#x27;t mix |
+| 178 - 184 | Rivers joining whose multi-colored waters don&#x27;t mix |
 | 185 - 191 | Trees intertwined in symbiosis |
 | 192 - 198 | ▶D+F `dice: [[OT_STRSM_OCL_Core^Core-Descriptor]]` + `dice: [[OT_STRSM_OCL_Core^Core-Focus]]` |
 | 199 - 200 | ▶[[STRSM_OCL_Vault-Creation#Oracle Precursor Vault Outer First Look\|Precursor Vault (planetside)]] `dice: [[OT_STRSM_OCL_Vaults#^Vault-Outer-First-Look]]` |
@@ -899,7 +899,7 @@
 
 | dice: 1d300 | Result |
 | :---------: | :----- |
-| 1 - 11 | Cloud - breaching trees |
+| 1 - 11 | Cloud-breaching trees |
 | 12 - 22 | Expansive rivers or wetlands |
 | 23 - 33 | Inland seas |
 | 34 - 44 | Massive canyons |
@@ -941,7 +941,7 @@
 | 8 - 14 | Living islands |
 | 15 - 21 | Luminescent seas |
 | 22 - 28 | Roaming icebergs |
-| 29 - 35 | Shallow - water plains |
+| 29 - 35 | Shallow-water plains |
 | 36 - 42 | Subsurface volcanoes |
 | 43 - 49 | Titanic waves |
 | 50 - 56 | Undersea air pockets |
@@ -954,7 +954,7 @@
 | 99 - 100 | ▶[[STRSM_OCL_Vault-Creation#Oracle Precursor Vault Outer First Look\|Precursor Vault (planetside)]] `dice: [[OT_STRSM_OCL_Vaults#^Vault-Outer-First-Look]]` |
 | 101 - 107 | Abyssal plains |
 | 108 - 114 | Airborne solid particles like a dry rain |
-| 115 - 121 | Algae - covered remains of a great creature |
+| 115 - 121 | Algae-covered remains of a great creature |
 | 122 - 128 | Continental slope in mid - formation |
 | 129 - 135 | Dazzling lightning storms |
 | 136 - 142 | Flat plains of thin ice |
@@ -1066,7 +1066,7 @@
 | 99 - 100 | ▶[[STRSM_OCL_Vault-Creation#Oracle Precursor Vault Outer First Look\|Precursor Vault (orbital)]] `dice: [[OT_STRSM_OCL_Vaults#^Vault-Outer-First-Look]]` |
 | 101 - 111 | Eerie glow from active subsurface volcanoes |
 | 112 - 122 | Floating isles of barren volcanic rock |
-| 123 - 133 | Hemisphere - spanning whirpool |
+| 123 - 133 | Hemisphere-spanning whirpool |
 | 134 - 144 | Jungles of algae blooms and kelp |
 | 145 - 155 | Lonely land mass |
 | 156 - 166 | Multiple moons producing a swift tide cycle |
@@ -1081,7 +1081,7 @@
 | 245 - 255 | Constant rain |
 | 256 - 266 | Floatings sections of congealing mud and sand |
 | 267 - 277 | Highly reflective waters |
-| 278 - 288 | Island - sized sponges |
+| 278 - 288 | Island-sized sponges |
 | 289 - 298 | ▶D+F `dice: [[OT_STRSM_OCL_Core^Core-Descriptor]]` + `dice: [[OT_STRSM_OCL_Core^Core-Focus]]` |
 | 299 - 300 | ▶[[STRSM_OCL_Vault-Creation#Oracle Precursor Vault Outer First Look\|Precursor Vault (orbital)]] `dice: [[OT_STRSM_OCL_Vaults#^Vault-Outer-First-Look]]` |
 ^Ocean-Observed-From-Space
@@ -1100,8 +1100,8 @@
 | 36 - 42 | Glassy impact craters |
 | 43 - 49 | Massive dust dunes |
 | 50 - 56 | Powerful magnetic fields |
-| 57 - 63 | Rubble - strewn lava fields  |
-| 64 - 70 | Steam - heated caves |
+| 57 - 63 | Rubble-strewn lava fields  |
+| 64 - 70 | Steam-heated caves |
 | 71 - 77 | Subsurface magma flows |
 | 78 - 84 | Swirling low - lying gases |
 | 85 - 91 | Towering rocky spires |
@@ -1134,7 +1134,7 @@
 | 264 - 270 | Small pools of lava leaking up to the surface |
 | 271 - 277 | Subsurface lake |
 | 278 - 284 | Terrifying electric storm |
-| 285 - 291 | Wind - carved rock formations |
+| 285 - 291 | Wind-carved rock formations |
 | 292 - 298 | ▶D+F `dice: [[OT_STRSM_OCL_Core^Core-Descriptor]]` + `dice: [[OT_STRSM_OCL_Core^Core-Focus]]` |
 | 299 - 300 | ▶[[STRSM_OCL_Vault-Creation#Oracle Precursor Vault Outer First Look\|Precursor Vault (planetside)]] `dice: [[OT_STRSM_OCL_Vaults#^Vault-Outer-First-Look]]` |
 ^Rocky-Planetside-Feature
@@ -1219,8 +1219,8 @@
 | 78 - 88 | Towering plateaus |
 | 89 - 98 | ▶D+F `dice: [[OT_STRSM_OCL_Core^Core-Descriptor]]` + `dice: [[OT_STRSM_OCL_Core^Core-Focus]]` |
 | 99 - 100 | ▶[[STRSM_OCL_Vault-Creation#Oracle Precursor Vault Outer First Look\|Precursor Vault (orbital)]] `dice: [[OT_STRSM_OCL_Vaults#^Vault-Outer-First-Look]]` |
-| 101 - 111 | Cloud - breaching volcanoes |
-| 112 - 122 | Continent - spanning canyons |
+| 101 - 111 | Cloud-breaching volcanoes |
+| 112 - 122 | Continent-spanning canyons |
 | 123 - 133 | Erratic orbit |
 | 134 - 144 | Light and dark side of the planet |
 | 145 - 155 | Massive comets in a slowly decaying orbit |
@@ -1233,7 +1233,7 @@
 | 212 - 222 | Giant duststorm |
 | 223 - 233 | Planet has no rotation |
 | 234 - 244 | Solitary moon |
-| 245 - 255 | Super - dense core (high gravity) |
+| 245 - 255 | Super-dense core (high gravity) |
 | 256 - 266 | System of concentric rings |
 | 267 - 277 | Vast rocky desert |
 | 278 - 288 | Visible fault lines |
@@ -1404,10 +1404,10 @@
 |:----:|:-------|
 | 1 - 7 | Caustic gas storms |
 | 8 - 14 | Corrosive, low - lying fog |
-| 15 - 21 | Fungus - encrusted caves |
+| 15 - 21 | Fungus-encrusted caves |
 | 22 - 28 | Gelatinous ponds |
 | 29 - 35 | Hallucinogenic toxins |
-| 36 - 42 | Layers of fast - growing lichen |
+| 36 - 42 | Layers of fast-growing lichen |
 | 43 - 49 | Moldering bones |
 | 50 - 56 | Mutated flora |
 | 57 - 63 | Poisonous gas vents |
@@ -1423,8 +1423,8 @@
 | 122 - 128 | Lightning storms setting fungus ablaze |
 | 129 - 135 | Mutated fauna |
 | 136 - 142 | Plains of bursting fungi |
-| 143 - 149 | Sinkholes with fungus - lined walls |
-| 150 - 156 | Sleep - inducing toxins |
+| 143 - 149 | Sinkholes with fungus-lined walls |
+| 150 - 156 | Sleep-inducing toxins |
 | 157 - 163 | Slow moving viscous flood |
 | 164 - 170 | Steaming gas vents |
 | 171 - 177 | Torrential downpour |
@@ -1438,9 +1438,9 @@
 | 222 - 228 | Euphoric toxins |
 | 229 - 235 | Forest of fungus acidic to touch |
 | 236 - 242 | Geysers of sludge |
-| 243 - 249 | Mind - controlling fungal infestations |
+| 243 - 249 | Mind-controlling fungal infestations |
 | 250 - 256 | Rain of spores that swiftly take root |
-| 257 - 263 | Remains uncannily perserved under a layer of slime |
+| 257 - 263 | Remains uncannily preserved under a layer of slime |
 | 264 - 270 | Slimy cliff of sporadically falling fungus |
 | 271 - 277 | Stream full of water absorbing fungus |
 | 278 - 284 | Terrain with false surfaces of fungus |
@@ -1522,8 +1522,8 @@
 | 1 - 11 | Expansive fungal plains |
 | 12 - 22 | Fungal forests |
 | 23 - 33 | Scabrous, infected terrain |
-| 34 - 44 | Sky - breaching fungus |
-| 45 - 55 | Sludge - filled river networks |
+| 34 - 44 | Sky-breaching fungus |
+| 45 - 55 | Sludge-filled river networks |
 | 56 - 66 | Stagnant cloud cover |
 | 67 - 77 | Thick, murky Atmosphere |
 | 78 - 88 | Toxic seas |
@@ -1651,7 +1651,7 @@
 | 201 - 205 | Anahit |
 | 206 - 210 | Ankur |
 | 211 - 215 | Borvo |
-| 216 - 220 | Chae - Won |
+| 216 - 220 | Chae-Won |
 | 221 - 225 | Enid |
 | 226 - 230 | Erinle |
 | 231 - 235 | Feronia |
@@ -1673,9 +1673,7 @@
 ### Observed From Space
 
 | dice: 1d300 | Result |
-| :---------: | :----- |
-| dice: 1d100 | Result |
-|:  -    -    -  :|:  -    -    -   |
+|:---:|:--- |
 | 1 - 11 | Complex ring system |
 | 12 - 22 | Dramatic seasonal variation |
 | 23 - 33 | High gravity |
@@ -1872,7 +1870,7 @@
 | 91 - 93 | Worrying arrival of a ship or vehicle |
 | 94 - 96 | Wreckage or ruins portend a new threat |
 | 97 - 99 | ▶A+T `dice: [[OT_STRSM_OCL_Core^Core-Action]]` + `dice: [[OT_STRSM_OCL_Core^Core-Theme]]` |
-| 100 - 100 | ▶R2 |
+| 100 - 100 | ▶R2 `dice: [[OT_STRSM_OCL_Planets#^Lifebearing-Peril]]` + `dice: [[OT_STRSM_OCL_Planets#^Lifebearing-Peril]]` |
 | 101 - 103 | Injured lifeform draws near |
 | 104 - 106 | Lifeform hiding from predator |
 | 107 - 109 | Lifeform nursery |
@@ -1906,7 +1904,7 @@
 | 191 - 193 | Trapped with no apparent way out |
 | 194 - 196 | Worrying arrival of a person |
 | 197 - 199 | ▶A+T `dice: [[OT_STRSM_OCL_Core^Core-Action]]` + `dice: [[OT_STRSM_OCL_Core^Core-Theme]]` |
-| 200 - 200 | ▶R2 |
+| 200 - 200 | ▶R2 `dice: [[OT_STRSM_OCL_Planets#^Lifebearing-Peril]]` + `dice: [[OT_STRSM_OCL_Planets#^Lifebearing-Peril]]` |
 | 201 - 203 | Aggressive or territorial lifeform |
 | 204 - 206 | Lifeform in need draws near |
 | 207 - 209 | Lifeform watering hole |
@@ -1940,7 +1938,7 @@
 | 291 - 293 | Vanguard of a great approaching force |
 | 294 - 296 | Wreckage or ruins portend the loss of an ally |
 | 297 - 299 | ▶A+T `dice: [[OT_STRSM_OCL_Core^Core-Action]]` + `dice: [[OT_STRSM_OCL_Core^Core-Theme]]` |
-| 300 - 300 | ▶R2 |
+| 300 - 300 | ▶R2 `dice: [[OT_STRSM_OCL_Planets#^Lifebearing-Peril]]` + `dice: [[OT_STRSM_OCL_Planets#^Lifebearing-Peril]]` |
 ^Lifebearing-Peril
 
 ## Lifeless Opportunity
@@ -2038,7 +2036,7 @@
 | 88 - 91 | Worrying arrival of a ship or vehicle |
 | 92 - 95 | Wreckage or ruins portend a new threat |
 | 96 - 99 | ▶A+T `dice: [[OT_STRSM_OCL_Core^Core-Action]]` + `dice: [[OT_STRSM_OCL_Core^Core-Theme]]` |
-| 100 | ▶R2 |
+| 100 | ▶R2 `dice: [[OT_STRSM_OCL_Planets#^Lifeless-Peril]]` + `dice: [[OT_STRSM_OCL_Planets#^Lifeless-Peril]]` |
 | 101 - 103 | Evidence of life recently deceased is revealed |
 | 104 - 107 | Avalanche or landslide |
 | 108 - 111 | Disturbing implements of death |
@@ -2064,7 +2062,7 @@
 | 188 - 191 | Trapped with no apparent way out |
 | 192 - 195 | Worrying arrival of a person |
 | 196 - 199 | ▶A+T `dice: [[OT_STRSM_OCL_Core^Core-Action]]` + `dice: [[OT_STRSM_OCL_Core^Core-Theme]]` |
-| 200 | ▶R2 |
+| 200 | ▶R2 `dice: [[OT_STRSM_OCL_Planets#^Lifeless-Peril]]` + `dice: [[OT_STRSM_OCL_Planets#^Lifeless-Peril]]` |
 | 201 - 203 | Evidence of endangered life is revealed |
 | 204 - 207 | Abrupt change in the path&#x27;s direction |
 | 208 - 211 | Dangerous interaction between equipment |
@@ -2090,6 +2088,6 @@
 | 288 - 291 | Vanguard of a great approaching force |
 | 292 - 295 | Wreckage or ruins portend the loss of an ally |
 | 296 - 299 | ▶A+T `dice: [[OT_STRSM_OCL_Core^Core-Action]]` + `dice: [[OT_STRSM_OCL_Core^Core-Theme]]` |
-| 300 | ▶R2 |
+| 300 | ▶R2 `dice: [[OT_STRSM_OCL_Planets#^Lifeless-Peril]]` + `dice: [[OT_STRSM_OCL_Planets#^Lifeless-Peril]]` |
 ^Lifeless-Peril
 

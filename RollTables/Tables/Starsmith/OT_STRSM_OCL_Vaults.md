@@ -161,7 +161,7 @@
 | 83 - 85 | Vertical shaft |
 | 86 - 90 | Transition into the ▶[Sanctum](Vaults_Sanctum_Feature.md) |
 | 91 - 95 | ▶D+F `dice: [[OT_STRSM_OCL_Core^Core-Descriptor]]` + `dice: [[OT_STRSM_OCL_Core^Core-Focus]]` |
-| 96 - 100 | ▶R2 |
+| 96 - 100 | ▶R2 `dice: [[OT_STRSM_OCL_Vaults^Vault-Interior-Feature]]` + `dice: [[OT_STRSM_OCL_Vaults^Vault-Interior-Feature]]` |
 | 101 - 103 | Bulkheads closing off passages |
 | 104 - 106 | Ceremonial conference chamber |
 | 107 - 108 | Choking gases |
@@ -196,7 +196,7 @@
 | 183 - 185 | Violent shaking |
 | 186 - 190 | Transition into the ▶[Sanctum](Vaults_Sanctum_Feature.md) |
 | 191 - 195 | ▶D+F `dice: [[OT_STRSM_OCL_Core^Core-Descriptor]]` + `dice: [[OT_STRSM_OCL_Core^Core-Focus]]` |
-| 196 - 200 | ▶R2 |
+| 196 - 200 | ▶R2 `dice: [[OT_STRSM_OCL_Vaults^Vault-Interior-Feature]]` + `dice: [[OT_STRSM_OCL_Vaults^Vault-Interior-Feature]]` |
 | 201 - 203 | Congealed liquids |
 | 204 - 206 | Controls with a flashing countdown |
 | 207 - 208 | Cramped and cluttered paths |
@@ -231,7 +231,7 @@
 | 283 - 285 | Trash compactor |
 | 286 - 290 | Transition into the ▶[Sanctum](Vaults_Sanctum_Feature.md) |
 | 291 - 295 | ▶D+F `dice: [[OT_STRSM_OCL_Core^Core-Descriptor]]` + `dice: [[OT_STRSM_OCL_Core^Core-Focus]]` |
-| 296 - 300 | ▶R2 |
+| 296 - 300 | ▶R2 `dice: [[OT_STRSM_OCL_Vaults^Vault-Interior-Feature]]` + `dice: [[OT_STRSM_OCL_Vaults^Vault-Interior-Feature]]` |
 ^Vault-Interior-Feature
 
 ## Vault Interior - Opportunity
@@ -294,7 +294,7 @@
 | 86 - 90 | Toxic atmosphere |
 | 91 - 95 | Unnerving sound or sensation |
 | 96 - 99 | ▶A+T `dice: [[OT_STRSM_OCL_Core^Core-Action]]` + `dice: [[OT_STRSM_OCL_Core^Core-Theme]]` |
-| 100 - 100 | ▶R2 |
+| 100 - 100 | ▶R2 `dice: [[OT_STRSM_OCL_Vaults^Vault-Interior-Peril]]` + `dice: [[OT_STRSM_OCL_Vaults^Vault-Interior-Peril]]` |
 | 101 - 105 | Betrayed by false sensor readings |
 | 106 - 110 | Blinding or overwhelming lights |
 | 111 - 115 | Blocked path |
@@ -315,7 +315,7 @@
 | 186 - 190 | Structural collapse pins important object |
 | 191 - 195 | Valuable data being erased or degraded |
 | 196 - 199 | ▶A+T `dice: [[OT_STRSM_OCL_Core^Core-Action]]` + `dice: [[OT_STRSM_OCL_Core^Core-Theme]]` |
-| 200 - 200 | ▶R2 |
+| 200 - 200 | ▶R2 `dice: [[OT_STRSM_OCL_Vaults^Vault-Interior-Peril]]` + `dice: [[OT_STRSM_OCL_Vaults^Vault-Interior-Peril]]` |
 | 201 - 205 | Adhesive or difficult terrain |
 | 206 - 210 | Automated defense system activated |
 | 211 - 215 | Crippling waves of emotion |
@@ -336,7 +336,7 @@
 | 286 - 290 | Stellar activity interferes with equipment |
 | 291 - 295 | Sterilizing agents released |
 | 296 - 299 | ▶A+T `dice: [[OT_STRSM_OCL_Core^Core-Action]]` + `dice: [[OT_STRSM_OCL_Core^Core-Theme]]` |
-| 300 - 300 | ▶R2 |
+| 300 - 300 | ▶R2 `dice: [[OT_STRSM_OCL_Vaults^Vault-Interior-Peril]]` + `dice: [[OT_STRSM_OCL_Vaults^Vault-Interior-Peril]]` |
 ^Vault-Interior-Peril
 
 ## Vault Material
@@ -352,7 +352,7 @@
 | 83 - 86 | Plant-like |
 | 87 - 88 | Energy |
 | 89 - 90 | Liquid |
-| 91 - 100 | ▶R2 |
+| 91 - 100 | ▶R2 `dice: [[OT_STRSM_OCL_Vaults^Vault-Material]]` + `dice: [[OT_STRSM_OCL_Vaults^Vault-Material]]` |
 | 101 - 130 | Metallic (grooved) |
 | 131 - 160 | Metallic (pitted) |
 | 161 - 170 | Packed earth |
@@ -362,7 +362,7 @@
 | 183 - 186 | Wood-like |
 | 187 - 188 | Plasma |
 | 189 - 190 | Gaseous |
-| 191 - 200 | ▶R2 |
+| 191 - 200 | ▶R2 `dice: [[OT_STRSM_OCL_Vaults^Vault-Material]]` + `dice: [[OT_STRSM_OCL_Vaults^Vault-Material]]` |
 | 201 - 230 | Metallic (jagged) |
 | 231 - 260 | Metallic (layered) |
 | 261 - 270 | Concrete-like |
@@ -372,7 +372,7 @@
 | 283 - 286 | Stringed or corded |
 | 287 - 288 | Force fields |
 | 289 - 290 | Packed ice |
-| 291 - 300 | ▶R2 |
+| 291 - 300 | ▶R2 `dice: [[OT_STRSM_OCL_Vaults^Vault-Material]]` + `dice: [[OT_STRSM_OCL_Vaults^Vault-Material]]` |
 ^Vault-Material
 
 ## Vault Outer - First Look
@@ -503,7 +503,7 @@
 | 84 - 87 | Transformation of terrain or environments |
 | 88 - 90 | Worship of a god or being |
 | 91 - 95 | ▶A+T `dice: [[OT_STRSM_OCL_Core^Core-Action]]` + `dice: [[OT_STRSM_OCL_Core^Core-Theme]]` |
-| 96 - 100 | ▶R2 |
+| 96 - 100 | ▶R2 `dice: [[OT_STRSM_OCL_Vaults^Vault-Purpose]]` + `dice: [[OT_STRSM_OCL_Vaults^Vault-Purpose]]` |
 | 101 - 103 | Augmenting of lifeforms |
 | 104 - 106 | Blockading a location |
 | 107 - 109 | Caring for the unborn |
@@ -532,7 +532,7 @@
 | 184 - 187 | Surveillance center |
 | 188 - 190 | Veneration of a leader |
 | 191 - 195 | ▶A+T `dice: [[OT_STRSM_OCL_Core^Core-Action]]` + `dice: [[OT_STRSM_OCL_Core^Core-Theme]]` |
-| 196 - 200 | ▶R2 |
+| 196 - 200 | ▶R2 `dice: [[OT_STRSM_OCL_Vaults^Vault-Purpose]]` + `dice: [[OT_STRSM_OCL_Vaults^Vault-Purpose]]` |
 | 201 - 203 | Breeding dangerous creatures |
 | 204 - 206 | Containment of a spacetime rift |
 | 207 - 209 | Coordination of vast network |
@@ -561,7 +561,7 @@
 | 284 - 287 | Subdual or re-education of inhabitants |
 | 288 - 290 | Territorial expansion or conquest |
 | 291 - 295 | ▶A+T `dice: [[OT_STRSM_OCL_Core^Core-Action]]` + `dice: [[OT_STRSM_OCL_Core^Core-Theme]]` |
-| 296 - 300 | ▶R2 |
+| 296 - 300 | ▶R2 `dice: [[OT_STRSM_OCL_Vaults^Vault-Purpose]]` + `dice: [[OT_STRSM_OCL_Vaults^Vault-Purpose]]` |
 ^Vault-Purpose
 
 ## Vault Sanctum - Feature
@@ -602,7 +602,7 @@
 | 86 - 88 | Warped or misshapen spaces |
 | 89 - 90 | Whispering voices speak to you |
 | 91 - 95 | ▶D+F `dice: [[OT_STRSM_OCL_Core^Core-Descriptor]]` + `dice: [[OT_STRSM_OCL_Core^Core-Focus]]` |
-| 96 - 100 | ▶R2 |
+| 96 - 100 | ▶R2 `dice: [[OT_STRSM_OCL_Vaults^Vault-Sanctum-Feature]]` + `dice: [[OT_STRSM_OCL_Vaults^Vault-Sanctum-Feature]]` |
 | 101 - 102 | Activity monitors showing unreadable data |
 | 103 - 105 | Barrier of thrumming force |
 | 106 - 107 | Bigger on the inside |
@@ -637,7 +637,7 @@
 | 186 - 188 | Tubules and vents |
 | 189 - 190 | Visions of this place in possible futures |
 | 191 - 195 | ▶D+F `dice: [[OT_STRSM_OCL_Core^Core-Descriptor]]` + `dice: [[OT_STRSM_OCL_Core^Core-Focus]]` |
-| 196 - 200 | ▶R2 |
+| 196 - 200 | ▶R2 `dice: [[OT_STRSM_OCL_Vaults^Vault-Sanctum-Feature]]` + `dice: [[OT_STRSM_OCL_Vaults^Vault-Sanctum-Feature]]` |
 | 201 - 202 | Abandoned hive |
 | 203 - 205 | Altered pressure |
 | 206 - 207 | Banks of unmoving automatons |
@@ -672,8 +672,8 @@
 | 286 - 288 | Unresponsive drones or servant bots |
 | 289 - 290 | Visions of a connected vault or network |
 | 291 - 295 | ▶D+F `dice: [[OT_STRSM_OCL_Core^Core-Descriptor]]` + `dice: [[OT_STRSM_OCL_Core^Core-Focus]]` |
-| 296 - 300 | ▶R2 |
-^Vault-Sanctum-INSERT
+| 296 - 300 | ▶R2 `dice: [[OT_STRSM_OCL_Vaults^Vault-Sanctum-Feature]]` + `dice: [[OT_STRSM_OCL_Vaults^Vault-Sanctum-Feature]]` |
+^Vault-Sanctum-Feature
 
 ## Vault Sanctum - Opportunity
 
@@ -735,7 +735,7 @@
 | 86 - 90 | Temptations to linger or remain in this site |
 | 91 - 95 | You are marked by physical corruption or mutation |
 | 96 - 99 | ▶A+T `dice: [[OT_STRSM_OCL_Core^Core-Action]]` + `dice: [[OT_STRSM_OCL_Core^Core-Theme]]` |
-| 100 - 100 | ▶R2 |
+| 100 - 100 | ▶R2 `dice: [[OT_STRSM_OCL_Vaults^Vault-Sanctum-Peril]]` + `dice: [[OT_STRSM_OCL_Vaults^Vault-Sanctum-Peril]]` |
 | 101 - 105 | Assaulted by the spirits of those who came before |
 | 106 - 110 | Automated weapons take aim |
 | 111 - 115 | Backed into a corner by foes |
@@ -756,7 +756,7 @@
 | 186 - 190 | Visions of past failure cause dangerous hesitation |
 | 191 - 195 | You are marked by spiritual corruption |
 | 196 - 199 | ▶A+T `dice: [[OT_STRSM_OCL_Core^Core-Action]]` + `dice: [[OT_STRSM_OCL_Core^Core-Theme]]` |
-| 200 - 200 | ▶R2 |
+| 200 - 200 | ▶R2 `dice: [[OT_STRSM_OCL_Vaults^Vault-Sanctum-Peril]]` + `dice: [[OT_STRSM_OCL_Vaults^Vault-Sanctum-Peril]]` |
 | 201 - 205 | Adaptive systems respond to confound you |
 | 206 - 210 | Artificially housed consciousnesses direct foes |
 | 211 - 215 | Chains, physical or emotional, bind you here |
@@ -777,7 +777,7 @@
 | 286 - 290 | Slow drain of humanity and empathy |
 | 291 - 295 | Thrust into a most dangerous game |
 | 296 - 299 | ▶A+T `dice: [[OT_STRSM_OCL_Core^Core-Action]]` + `dice: [[OT_STRSM_OCL_Core^Core-Theme]]` |
-| 300 - 300 | ▶R2 |
+| 300 - 300 | ▶R2 `dice: [[OT_STRSM_OCL_Vaults^Vault-Sanctum-Peril]]` + `dice: [[OT_STRSM_OCL_Vaults^Vault-Sanctum-Peril]]` |
 ^Vault-Sanctum-Peril
 
 ## Vault Shape
@@ -799,7 +799,7 @@
 | 74 - 76 | Sculptural or effigy |
 | 77 - 79 | Amorphous |
 | 80 - 85 | Transforming |
-| 86 - 100 | ▶R2 |
+| 86 - 100 | ▶R2 `dice: [[OT_STRSM_OCL_Vaults^Vault-Shape]]` + `dice: [[OT_STRSM_OCL_Vaults^Vault-Shape]]` |
 | 101 - 115 | Rotating wheel |
 | 116 - 120 | Geometric (cone) |
 | 121 - 125 | Geometric (cylinder) |
@@ -815,7 +815,7 @@
 | 174 - 176 | Coffin - like |
 | 177 - 179 | Fractal |
 | 180 - 185 | Chained modules |
-| 186 - 200 | ▶R2 |
+| 186 - 200 | ▶R2 `dice: [[OT_STRSM_OCL_Vaults^Vault-Shape]]` + `dice: [[OT_STRSM_OCL_Vaults^Vault-Shape]]` |
 | 201 - 215 | Asteroidal |
 | 216 - 220 | Geometric (anticube) |
 | 221 - 225 | Geometric (Archimedean) |
@@ -831,5 +831,5 @@
 | 274 - 276 | Columned |
 | 277 - 279 | Undulating |
 | 280 - 285 | Periodic or function - based shapeshifts |
-| 286 - 300 | ▶R2 |
+| 286 - 300 | ▶R2 `dice: [[OT_STRSM_OCL_Vaults^Vault-Shape]]` + `dice: [[OT_STRSM_OCL_Vaults^Vault-Shape]]` |
 ^Vault-Shape

@@ -23,7 +23,7 @@ OracleDescriptor:
 Text
 
 ## Oracle: Ship Size
-> [!mechanics]- | Guidance
+> [!mechanics]- | Roll > `dice: [[OT_ISSI_Ships^Size]]` | Guidance
 > Use this table to generate the scale of a ship sighting, ranging from a single small ship to a massive armada. The challenge ranks shown here are a starting place. Set the rank of a naval fight as appropriate to the capability of your forces and the complexity of your objectives. Also, keep in mind that ships operate at a scale relative to other large vehicles and creatures. For tips on handling naval encounters, [[SI_CH1_Naval Encounters|see page 36]]. ^guidance-OclShipSize
 
 | Roll | Result | Such as | Rigging | Crew | Rank |
@@ -40,23 +40,8 @@ Text
 *132 ORACLES*
 *133 SHIP ORACLES*
 
-### Oracle: Ship Size - Rollable
-> [!mechanics]- | Roll > `dice: [[SI_CH3_Shp Sighting#^table-OclShipSize-Rollable]]`
-
-| dice: 1d100 | Result |
-| :---: | --- |
-| 1 - 30 | **Small** - Cutter, Sloop<br>Masts: One to two masts<br>Crew: 5 - 25<br>Rank: Troublesome or Dangerous |
-| 31 - 60 | **Medium** - Corvette, Schooner<br>Masts: wo to three masts<br>Crew: 25 - 50<br>Rank: Dangerous or Formidable |
-| 61 - 80 | **Large** - Frigate, Galleon<br>Masts: Three or more masts<br>Crew: 50 - 200<br>Rank: Formidable or Extreme |
-| 81 - 85 | **Colossal** - Dreadnought, Titan<br>Masts: Four or more masts<br>Crew: 200 - 500<br>Rank: Extreme or Epic |
-| 86 - 95 | **Flotilla** - Medium flagship and a few other ships<br>Masts: Two or three masts<br>Rank: Formidable + |
-| 96 - 99 | **Fleet** - Large flagship and many other ships<br>Masts: Three or more masts<br>Rank: Extreme + |
-| 100 | **Armada** - Colossal flagship and countless other ships<br>Masts: Four or more masts<br>Rank: Epic |
-^table-OclShipSize-Rollable
-
-
 ## Oracle: Ship Range
-> [!mechanics]- | Roll > `dice: [[SI_CH3_Shp Sighting#^table-OclShipRange]]` | Guidance
+> [!mechanics]- | Roll > `dice: [[OT_ISSI_Ships^Range]]` | Guidance
 > Set the range of the encounter and the ship’s initial status as appropriate to the situation and environment. If unsure, check the tables below. ^guidance-OclShipRange
 
 | dice: 1d100 | Result |
@@ -68,7 +53,7 @@ Text
 ^table-OclShipRange
 
 ## Oracle: Ship Status
-> [!mechanics]- | Roll > `dice: [[SI_CH3_Shp Sighting#^table-OclShipStatus]]` | Guidance
+> [!mechanics]- | Roll > `dice: [[OT_ISSI_Ships^Status]]` | Guidance
 > Set the range of the encounter and the ship’s initial status as appropriate to the situation and environment. If unsure, check the tables below. ^guidance-OclShipStatus
 
 | dice: 1d100 | Result |

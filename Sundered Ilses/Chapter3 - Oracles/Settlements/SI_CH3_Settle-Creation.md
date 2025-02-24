@@ -25,7 +25,7 @@ OracleDescriptor: "Begin creating a settlement by determining its **Location** a
 _Begin creating a settlement by determining its **Location** and the **Size** of its population.._
 
 ## Oracle: Settlement Location
-> [!mechanics]- | Roll > `dice: [[SI_CH3_Settle-Creation#^table-OclSettleLocation-Rollable]]` | Guidance
+> [!mechanics]- | Roll > `dice: [[OT_ISSI_Settlements^Location]]` | Guidance
 > Roll for a location when learning about a distant settlement. If you come upon a settlement in your travels, choose a location appropriate to your surroundings.
  ^guidance-OclSettleLocation
 
@@ -35,14 +35,6 @@ _Begin creating a settlement by determining its **Location** and the **Size** of
 | 81 - 100 | Waterside  |  By a major inland waterway |
 | 61 - 80 | Inland  |  Within the island interior |
 ^table-OclSettleLocation
-
-### Settlement Location - Rollable
-| dice: 1d100 | Result |
-|:---:| --- |
-| 1 - 60 | Shore |
-| 81 - 100 | Waterside |
-| 61 - 80 | Inland |
-^table-OclSettleLocation-Rollable
 
 ## Oracle: Settlement Size
 > [!mechanics]- | Guidance
@@ -57,7 +49,7 @@ _Begin creating a settlement by determining its **Location** and the **Size** of
 ^table-OclSettleSize
 
 ### Oracle: Settlement Size - Myriads
-> [!mechanics]- | Roll > `dice: [[SI_CH3_Settle-Creation#^table-OclSettleSize-Myriads]]` | Guidance
+> [!mechanics]- | Roll > `dice: [[OT_ISSI_Settlements^Size-Myriads]]` | Guidance
 > Central Seas ^guidance-OclSettleSize-Myriads
 
 | dice: 1d100 | Type / Population |
@@ -69,7 +61,7 @@ _Begin creating a settlement by determining its **Location** and the **Size** of
 ^table-OclSettleSize-Myriads
 
 ### Oracle: Settlement Size - Margins
-> [!mechanics]- | Roll > `dice: [[SI_CH3_Settle-Creation#^table-OclSettleSize-Margins]]` | Guidance
+> [!mechanics]- | Roll > `dice: [[OT_ISSI_Settlements^Size-Margins]]` | Guidance
 > Outer Seas ^guidance-OclSettleSize-Margins
 
 | dice: 1d100 | Type / Population |
@@ -81,7 +73,7 @@ _Begin creating a settlement by determining its **Location** and the **Size** of
 ^table-OclSettleSize-Margins
 
 ### Oracle: Settlement Size - Reaches
-> [!mechanics]- | Roll >`dice: [[SI_CH3_Settle-Creation#^table-OclSettleSize-Reaches]]` | Guidance
+> [!mechanics]- | Roll >`dice: [[OT_ISSI_Settlements^Size-Reaches]]` | Guidance
 > Remote Seas ^guidance-OclSettleSize-Reaches
 
 | dice: 1d100 | Type / Population |

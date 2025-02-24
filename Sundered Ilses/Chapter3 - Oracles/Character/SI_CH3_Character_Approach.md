@@ -23,10 +23,10 @@ OracleDescriptor: "When encountering a character, focus on what you learn or per
 "When encountering a character, focus on what you learn or perceive as a first impression using tables such as _[[SI_CH3_Character_Approach#Oracle Character First Look|Character First Look]]_ and _[[SI_CH3_Character_Approach#Oracle Character Disposition|Character Dispostion]]_. Then envision or generate additional details over time."
 
 ## Oracle: Character First Look
-> [!mechanics]- | Roll > `dice: [[SI_CH3_Character_Approach#^table-OclCharacterFirstLook]]` | Guidance
+> [!mechanics]- | Roll > [skull] `dice: [[SI_CH3_The Cursed Die#^table-Cursed]]`<br>▶1 `dice: [[OT_ISSI_Characters#^First-Look]]`<br>▶2 `dice: [[OT_ISSI_Characters#^First-Look]]` | Guidance
 > Text ^guidance-OclCharacterFirstLook
 
-| dice: 1d100 | Result |
+| dice: 1d100 | Result @1-2 [skull] _[[SI_CH3_Character_Approach#Oracle Cursed Character First Look\|below]]_ |
 | :---: | --- |
 | 1 - 2 | Accented |
 | 3 - 5 | Aged |
@@ -71,7 +71,7 @@ OracleDescriptor: "When encountering a character, focus on what you learn or per
 ^table-OclCharacterFirstLook
 
 ## Oracle: Cursed Character First Look
-> [!mechanics]- | Roll > `dice: [[SI_CH3_Character_Approach#^table-OclCursedCharacterFirstLook]]` | Guidance
+> [!mechanics]- | Roll > `dice: [[OT_ISSI_Characters#^Cursed-First-Look]]` | Guidance
 > Text ^guidance-OclCursedCharacterFirstLook
 
 | dice: 1d100 | Result |
@@ -91,7 +91,7 @@ OracleDescriptor: "When encountering a character, focus on what you learn or per
 ^table-OclCursedCharacterFirstLook
 
 ## Oracle: Character Disposition
-> [!mechanics]- | Roll > `dice: [[SI_CH3_Character_Approach#^table-OclCharacterDisposition]]` | Guidance
+> [!mechanics]- | Roll > `dice: [[OT_ISSI_Characters#^Disposition]]` | Guidance
 > Text ^guidance-OclCharacterDisposition
 
 | dice: 1d100 | Result |

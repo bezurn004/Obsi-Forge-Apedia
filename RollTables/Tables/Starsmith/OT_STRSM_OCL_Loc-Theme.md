@@ -1,15 +1,39 @@
 # Location Theme
 
+# Locations
+
+| dice: 1d200 | Result |
+| :---: | --- |
+| 1 - 15 | [[SF_CH5_LocationTheme-Chaotic\|▶Chaotic]] |
+| 16 - 25 | [[SF_CH5_LocationTheme-Fortified\|▶Fortified]] |
+| 26 - 35 | [[SF_CH5_LocationTheme-Haunted\|▶Haunted]] |
+| 36 - 50 | [[SF_CH5_LocationTheme-Infested\|▶Infested]] |
+| 51 - 60 | [[SF_CH5_LocationTheme-Inhabited\|▶Inhabited]] |
+| 61 - 75 | [[SF_CH5_LocationTheme-Mechanical\|▶Mechanical]] |
+| 76 - 90 | [[SF_CH5_LocationTheme-Ruined\|▶Ruined]] |
+| 91 -  100 | [[SF_CH5_LocationTheme-Sacred\|▶Sacred]] |
+| 101 - 110 | [[STRSM_OCL_LocationTheme-Arid\|▶Arid]] |
+| 111 - 120 | [[STRSM_OCL_LocationTheme-Chronal\|▶Chronal]] |
+| 121 - 130 | [[STRSM_OCL_LocationTheme-Floating\|▶Floating]] |
+| 131 - 140 | [[STRSM_OCL_LocationTheme-Flooded\|▶Flooded]] |
+| 141 - 150 | [[STRSM_OCL_LocationTheme-Frozen\|▶Frozen]] |
+| 151 - 160 | [[STRSM_OCL_LocationTheme-Inferno\|▶Inferno]] |
+| 161 - 170 | [[STRSM_OCL_LocationTheme-Lifeform\|▶Lifeform]] |
+| 171 - 180 | [[STRSM_OCL_LocationTheme-Mystical\|▶Mystical]] |
+| 181 - 190 | [[STRSM_OCL_LocationTheme-Overgrown\|▶Overgrown]] |
+| 191 - 200 | [[STRSM_OCL_LocationTheme-War Zone\|▶War Zone]] |
+^Location-Themes
+
 ## Arid
 
 ### Feature
 
-| dice: 1d300 | Result |
+| dice: 1d100 | Result |
 |:----:|:-------|
 | 1 - 8 | Dried wadi awaiting the rainy season |
 | 9 - 16 | Intricate rock formation sculpted by the wind |
 | 17 - 24 | Large sinkhole of swirling sand |
-| 25 - 32 | Light - bending waves of heat or cold |
+| 25 - 32 | Light-bending waves of heat or cold |
 | 33 - 40 | Mazelike passageways through canyons |
 | 41 - 48 | Mountainous dunes of sand |
 | 49 - 56 | Natural bridge or arch of stone |
@@ -23,7 +47,7 @@
 
 ### Opportunity
 
-| dice: 1d300 | Result |
+| dice: 1d100 | Result |
 |:----:|:-------|
 | 1 - 20 | Blowing sands reveal rare resource deposit |
 | 21 - 40 | Cave entrance offers shelter |
@@ -34,7 +58,7 @@
 
 ### Peril
 
-| dice: 1d300 | Result |
+| dice: 1d100 | Result |
 |:----:|:-------|
 | 1 - 9 | Billowing sandstorm chokes the air |
 | 10 - 18 | Extreme temperatures |
@@ -54,7 +78,7 @@
 
 ### Feature
 
-| dice: 1d300 | Result |
+| dice: 1d100 | Result |
 |:----:|:-------|
 | 1 - 8 | Ambient lifeforms feeding off chronal energy |
 | 9 - 16 | Artifact or natural occurrence acting as a focal point |
@@ -73,7 +97,7 @@
 
 ### Opportunity
 
-| dice: 1d300 | Result |
+| dice: 1d100 | Result |
 |:----:|:-------|
 | 1 - 20 | Butterfly point offers a dangerous gamble |
 | 21 - 40 | Contact with a helpful ally outside your time |
@@ -84,7 +108,7 @@
 
 ### Peril
 
-| dice: 1d300 | Result |
+| dice: 1d100 | Result |
 |:----:|:-------|
 | 1 - 9 | Caught in a time paradox |
 | 10 - 18 | Changes in timeline slip from memory |
@@ -104,7 +128,7 @@
 
 ### Feature
 
-| dice: 1d300 | Result |
+| dice: 1d100 | Result |
 |:----:|:-------|
 | 1 - 8 | Areas of variable gravity |
 | 9 - 16 | Bridge connecting islands or platforms |
@@ -123,7 +147,7 @@
 
 ### Opportunity
 
-| dice: 1d300 | Result |
+| dice: 1d100 | Result |
 |:----:|:-------|
 | 1-20 | Access to a rare resource |
 | 21-40 | Access to useful equipment |
@@ -134,7 +158,7 @@
 
 ### Peril
 
-| dice: 1d300 | Result |
+| dice: 1d100 | Result |
 |:----:|:-------|
 | 1 - 9 | Airborne foe moves to attack |
 | 10 - 18 | Crumbling islands beneath your feet |
@@ -154,7 +178,7 @@
 
 ### Feature
 
-| dice: 1d300 | Result |
+| dice: 1d100 | Result |
 |:----:|:-------|
 | 1 - 8 | Deep and murky waters |
 | 9 - 16 | Flotsam and jetsam |
@@ -173,7 +197,7 @@
 
 ### Opportunity
 
-| dice: 1d300 | Result |
+| dice: 1d100 | Result |
 |:----:|:-------|
 | 1 - 20 | Draining water reveals a secret or clue |
 | 21 - 40 | Erosion opens a shortcut or safer passage |
@@ -184,7 +208,7 @@
 
 ### Peril
 
-| dice: 1d300 | Result |
+| dice: 1d100 | Result |
 |:----:|:-------|
 | 1 - 9 | Eroding passageways |
 | 10 - 18 | Large, swift moving debris |
@@ -204,7 +228,7 @@
 
 ### Feature
 
-| dice: 1d300 | Result |
+| dice: 1d100 | Result |
 |:----:|:-------|
 | 1 - 8 | Abandoned equipment frozen solid |
 | 9 - 16 | Frozen river or lake |
@@ -223,7 +247,7 @@
 
 ### Opportunity
 
-| dice: 1d300 | Result |
+| dice: 1d100 | Result |
 |:----:|:-------|
 | 1 - 20 | Condensed ice crystal acts as temporary power booster |
 | 21 - 40 | Evidence of prior explorers preserved in ice |
@@ -234,7 +258,7 @@
 
 ### Peril
 
-| dice: 1d300 | Result |
+| dice: 1d100 | Result |
 |:----:|:-------|
 | 1 - 9 | Avalanche |
 | 10 - 18 | Deceptively deep snow |
@@ -254,7 +278,7 @@
 
 ### Feature
 
-| dice: 1d300 | Result |
+| dice: 1d100 | Result |
 |:----:|:-------|
 | 1 - 8 | Ash - covered terrain |
 | 9 - 16 | Geysers of lava |
@@ -273,7 +297,7 @@
 
 ### Opportunity
 
-| dice: 1d300 | Result |
+| dice: 1d100 | Result |
 |:----:|:-------|
 | 1 - 20 | Ancient complex that used the heat as a power source |
 | 21 - 40 | Chance to observe a scientific curiosity |
@@ -284,7 +308,7 @@
 
 ### Peril
 
-| dice: 1d300 | Result |
+| dice: 1d100 | Result |
 |:----:|:-------|
 | 1 - 9 | Ash, soot, and smoke hide dangers |
 | 10 - 18 | Explosive eruption |
@@ -304,7 +328,7 @@
 
 ### Feature
 
-| dice: 1d300 | Result |
+| dice: 1d100 | Result |
 |:----:|:-------|
 | 1 - 8 | Bundles of nerve fibers |
 | 9 - 16 | Decaying or dying cells |
@@ -323,7 +347,7 @@
 
 ### Opportunity
 
-| dice: 1d300 | Result |
+| dice: 1d100 | Result |
 |:----:|:-------|
 | 1 - 20 | Access to rare biological resource |
 | 21 - 40 | Genetic clue or evidence |
@@ -334,7 +358,7 @@
 
 ### Peril
 
-| dice: 1d300 | Result |
+| dice: 1d100 | Result |
 |:----:|:-------|
 | 1 - 9 | Acidic digestive juices |
 | 10 - 18 | Biological contaminants |
@@ -354,7 +378,7 @@
 
 ### Feature
 
-| dice: 1d300 | Result |
+| dice: 1d100 | Result |
 |:----:|:-------|
 | 1 - 8 | Accoutrements of ceremony |
 | 9 - 16 | Animated cleaning tools or equipment |
@@ -369,22 +393,22 @@
 | 81 - 88 | Magic-infused technology |
 | 89 - 96 | Strange specimens magically caged |
 | 97 - 100 | ▶D+F `dice: [[OT_STRSM_OCL_Core^Core-Descriptor]]` + `dice: [[OT_STRSM_OCL_Core^Core-Focus]]` |
-^Mystical-Feature
+^Mystic-Feature
 
 ### Opportunity
 
-| dice: 1d300 | Result |
+| dice: 1d100 | Result |
 |:----:|:-------|
 | 1-20 | Ability to tap into a ley line&#x27;s power |
 | 21-40 | Artifact of arcane might or significance |
 | 41-60 | Helpful magical device or lifeform |
 | 61-80 | Regenerative empowerment |
 | 81-100 | Valuable notes on mystic powers |
-^Mystical-Opportunity
+^Mystic-Opportunity
 
 ### Peril
 
-| dice: 1d300 | Result |
+| dice: 1d100 | Result |
 |:----:|:-------|
 | 1 - 9 | Arcane knowledge in the wrong hands |
 | 10 - 18 | Important equipment malfunctions |
@@ -397,14 +421,14 @@
 | 73 - 81 | Temptations to unlease a darker force |
 | 82 - 90 | Trapped by mystic energies |
 | 91 - 98 | ▶A+T `dice: [[OT_STRSM_OCL_Core^Core-Action]]` + `dice: [[OT_STRSM_OCL_Core^Core-Theme]]` |
-| 99 - 100 | ▶R2 `dice: [[OT_STRSM_OCL_Loc-Theme#^Mystical-Peril]]` + `dice: [[OT_STRSM_OCL_Loc-Theme#^Mystical-Peril]]` |
-^Mystical-Peril
+| 99 - 100 | ▶R2 `dice: [[OT_STRSM_OCL_Loc-Theme#^Mystic-Peril]]` + `dice: [[OT_STRSM_OCL_Loc-Theme#^Mystic-Peril]]` |
+^Mystic-Peril
 
 ## Overgrown
 
 ### Feature
 
-| dice: 1d300 | Result |
+| dice: 1d100 | Result |
 |:----:|:-------|
 | 1 - 8 | Cacophony of calls and shrieks |
 | 9 - 16 | Caracass picked clean |
@@ -423,7 +447,7 @@
 
 ### Opportunity
 
-| dice: 1d300 | Result |
+| dice: 1d100 | Result |
 |:----:|:-------|
 | 1 - 20 | Access to area untouched for ages |
 | 21 - 40 | Access to rare biological specimen |
@@ -434,7 +458,7 @@
 
 ### Peril
 
-| dice: 1d300 | Result |
+| dice: 1d100 | Result |
 |:----:|:-------|
 | 1 - 9 | Aggressive and armored lifeforms |
 | 10 - 18 | Apex predator on the prowl |
@@ -454,7 +478,7 @@
 
 ### Feature
 
-| dice: 1d300 | Result |
+| dice: 1d100 | Result |
 |:----:|:-------|
 | 1 - 8 | Battle standard or beacon buoy |
 | 9 - 16 | Combatants fleeing the battle |
@@ -473,7 +497,7 @@
 
 ### Opportunity
 
-| dice: 1d300 | Result |
+| dice: 1d100 | Result |
 |:----:|:-------|
 | 1 - 20 | Helping a combatant in need may yield an ally |
 | 21 - 40 | Insight into the nature of the conflict |
@@ -484,7 +508,7 @@
 
 ### Peril
 
-| dice: 1d300 | Result |
+| dice: 1d100 | Result |
 |:----:|:-------|
 | 1 - 9 | Ambushed by a lurking foe |
 | 10 - 18 | Automated suppressing fire |

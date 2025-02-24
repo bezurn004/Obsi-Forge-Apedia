@@ -36,6 +36,6 @@ Text
 
 | Previous Section | Tags | Next Chapter |
 | :--- | :---: | ---: |
-| **[[_SI_CH3_Treasure Oracles\|Treature (SI Oracles)]]** | #SunderedIsles/Oracles | **[[SI_CH4_Quick Reference\|Quick Reference (SI)]]** |
+| **[[_SI_CH3_Treasure Oracles\|Treature (SI Oracles)]]** | #SunderedIsles/Oracles | **[[_SI_CH4_Contents\|Chapter 4 - Moves Reference (SI)]]** |
 
 <font size=-2>Copyright ©2024 Shawn Tomkin. The text of this work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license. For license details, visit ironswornrpg.com. Updated June 2024 MUH051V200-PDF</font>

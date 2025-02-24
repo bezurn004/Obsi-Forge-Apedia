@@ -25,7 +25,7 @@ OracleDescriptor: ""
 Text
 
 ### Oracle: Sea Cave Feature
-> [!mechanics]- | Roll > [skull] `dice: [[SI_CH3_The Cursed Die#^table-Cursed]]` `dice: [[SI_CH3_Sea Cave Details^table-OclSeaCaveFeature]]` | Guidance
+> [!mechanics]- | Roll > [skull] `dice: [[SI_CH3_The Cursed Die#^table-Cursed]]`<br>▶1 `dice: [[OT_ISSI_Caves#^Sea-Cave-Feature]]`<br>▶2 `dice: [[OT_ISSI_Caves#^Sea-Cave-Feature]]` | Guidance
 > Text ^guidance-OclCaveFeature-Sea
 
 | dice: 1d100 | Result @1-2 [skull] _[[#Oracle Sea Cave Cursed Feature\|pg 209]]_ |
@@ -103,7 +103,7 @@ Text
 *208 ORACLES*
 
 ### Oracle: Sea Cave Cursed Feature
-> [!mechanics]- | Roll > `dice: [[SI_CH3_Sea Cave Details^table-OclSeaCaveCursedFeature]]` | Guidance
+> [!mechanics]- | Roll > `dice: [[OT_ISSI_Caves#^Cursed-Sea-Cave-Feature]]` | Guidance
 > Text ^guidance-OclSeaCaveCursedFeature
 
 | dice: 1d100 | Result |
@@ -131,7 +131,7 @@ Text
 ^table-OclSeaCaveCursedFeature
 
 ### Oracle: Sea Cave Peril
-> [!mechanics]- | Roll > `dice: [[SI_CH3_Sea Cave Details^table-OclSeaCavePeril]]` | Guidance
+> [!mechanics]- | Roll > `dice: [[OT_ISSI_Caves#^Sea-Cave-Peril]]` | Guidance
 > Text ^guidance-OclSeaCavePeril
 
 | dice: 1d100 | Result |
@@ -161,7 +161,7 @@ Text
 ^table-OclSeaCavePeril
 
 ### Oracle: Sea Cave Opportunity
-> [!mechanics]- | Roll > `dice: [[SI_CH3_Sea Cave Details^table-OclseaCaveOpportunity]]` | Guidance
+> [!mechanics]- | Roll > `dice: [[OT_ISSI_Caves#^Sea-Cave-Opportunity]]` | Guidance
 > Text ^guidance-OclseaCaveOpportunity
 
 | dice: 1d100 | Result |
@@ -176,10 +176,10 @@ Text
 | 71 - 80 | Washed up or lost ▶[[SI_CH3_Ship Boarding#Oracle Ship Cargo\|Cargo]] |
 | 81 - 90 | ▶[[SI_CH3_Treasure Creation#Oracle Treasure Value - Small\|Treasure]] (small repository) |
 | 91 - 100 | ▶[[SI_CH3_Treasure Creation#Oracle Treasure Value - Medium\|Treasure]] (medium repository) |
-^table-OclseaCaveOpportunity
+^table-OclSeaCaveOpportunity
 
 ## Oracles: Sea Cave Heart
-> [!mechanics]- | Roll > `dice: [[SI_CH3_Sea Cave Details^table-OclSeaCaveHeart]]` | Guidance
+> [!mechanics]- | Roll > `dice: [[OT_ISSI_Caves#^Sea-Cave-Heart]]` | Guidance
 > Text ^guidance-OclSeaCaveHeart
 
 | dice: 1d100 | Result |

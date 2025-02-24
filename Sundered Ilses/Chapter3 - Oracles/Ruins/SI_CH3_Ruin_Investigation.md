@@ -26,7 +26,7 @@ OracleDescriptor: ""
 Text
 
 ## Oracle: Ruin Mystery
-> [!mechanics]- | Roll > [skull] `dice: [[SI_CH3_The Cursed Die#^table-Cursed]]` `dice: [[SI_CH3_Ruin_Investigation#^table-OclRuinMystery]]` | Guidance
+> [!mechanics]- | Roll > [skull] `dice: [[SI_CH3_The Cursed Die#^table-Cursed]]`<br>▶1 `dice: [[OT_ISSI_Ruins#^Mystery]]`<br>▶2 `dice: [[OT_ISSI_Ruins#^Mystery]]` | Guidance
 > Text ^guidance-OclRuinMystery
 
 | Roll | Result | Details @1-2 [skull] _[[#Oracle Cursed Ruin Mystery\|below]]_ |
@@ -43,7 +43,7 @@ Text
 | 91 - 100 | Unusual purpose | What unexpected function did this site serve? |
 
 ## Oracle: Cursed Ruin Mystery
-> [!mechanics]- | Roll > `dice: [[SI_CH3_Ruin_Investigation#^table-OclCursedRuinMystery]]` | Guidance
+> [!mechanics]- | Roll > `dice: [[OT_ISSI_Ruins#^Cursed-Mystery]]` | Guidance
 > Text ^guidance-OclCursedRuinMystery
 
 | Roll | Result | Details |
@@ -59,38 +59,8 @@ Text
 | 81 - 90 | Sorcerous nexus | What dangerous arcane powers are harnessed here? |
 | 91 - 100 | Tormented undead | What is the key to putting these souls to rest? |
 
-### Ruin Mystery - Rollable
-
-| dice: 1d100 | Result |
-| :---: | --- |
-| 1 - 10 | **Calamitous downfall**<br>What brought this place to ruin? |
-| 11 - 20 | **Cultural legacy**<br>What unique beliefs or customs were practiced here? |
-| 21 - 30 | **Enemy schemes**<br>What purpose does a foe or rival have in this place? |
-| 31 - 40 | **Enigmatic waymarker**<br>What greater site or discovery does this place lead to? |
-| 41 - 50 | **Fabled relic**<br>What legendary artifact or treasure is held here? |
-| 51 - 60 | **Heroes' rest**<br>What legendary figure is entombed here? |
-| 61 - 70 | **Lost people**<br>What became of the people who once inhabited this site? |
-| 71 - 80 | **Personal heritage**<br>What connection does this place have to your culture or calling? |
-| 81 - 90 | **Unfulfilled promise**<br>What forsaken vow or lost destiny hangs heavy over this place? |
-| 91 - 100 | **Unusual purpose**<br>What unexpected function did this site serve? |
-^table-OclRuinMystery
-
-| dice: 1d100 | Result |
-| :---: | --- |
-| 1 - 10 | **Corrupted religion**<br>What does an eldritch cult seek to accomplish in this place? |
-| 11 - 20 | **Cursed artifact**<br>What eldritch relic or treasure is held here? |
-| 21 - 30 | **Eternal defenders**<br>What beings or creatures are cursed to forever guard this place? |
-| 31 - 40 | **Grim portent**<br>What new calamity does this place forebode? |
-| 41 - 50 | **Imprisoned entity**<br>What eldritch being or beast is bound to this site? |
-| 51 - 60 | **Infernal machines**<br>What strange technology did these people unleash? |
-| 61 - 70 | **Lingering curse**<br>What is the secret to breaking this site's curse? |
-| 71 - 80 | **Mystic gateway**<br>What otherworldly realm does this place connect to? |
-| 81 - 90 | **Sorcerous nexus**<br>What dangerous arcane powers are harnessed here? |
-| 91 - 100 | **Tormented undead**<br>What is the key to putting these souls to rest? |
-^table-OclCursedRuinMystery
-
 ## Oracle: Ruin Cipher
-> [!mechanics]- | Roll > [skull] `dice: [[SI_CH3_The Cursed Die#^table-Cursed]]` `dice: [[SI_CH3_Ruin_Investigation#^table-OclRuinCipher]]` | Guidance
+> [!mechanics]- | Roll > [skull] `dice: [[SI_CH3_The Cursed Die#^table-Cursed]]` `dice: [[OT_ISSI_Ruins#^Cipher]]` | Guidance
 > Text ^guidance-OclRuinCipher
 
 | dice: 1d100 | Result [skull] _[[#Oracle Cursed Ruin Cipher\|adjacent]]_ |
@@ -108,7 +78,7 @@ Text
 ^table-OclRuinCipher
 
 ## Oracle: Cursed Ruin Cipher
-> [!mechanics]- | Roll > `dice: [[SI_CH3_Ruin_Investigation#^table-OclCursedRuinCipher]]` | Guidance
+> [!mechanics]- | Roll > `dice: [[OT_ISSI_Ruins#^Cursed-Cipher]]` | Guidance
 > Text ^guidance-OclCursedRuinCipher
 
 | dice: 1d100 | Result |
@@ -128,7 +98,7 @@ Text
 *216 ORACLES*
 
 ## Oracle: Ruin Feature
-> [!mechanics]- | Roll > [skull] `dice: [[SI_CH3_The Cursed Die#^table-Cursed]]` `dice: [[SI_CH3_Ruin_Investigation#^table-OclRuinFeature]]` | Guidance
+> [!mechanics]- | Roll > [skull] `dice: [[SI_CH3_The Cursed Die#^table-Cursed]]`<br>▶1 `dice: [[OT_ISSI_Ruins#^Feature]]`<br>▶2 `dice: [[OT_ISSI_Ruins#^Feature]]` | Guidance
 > Text ^guidance-OclRuinFeature
 
 | dice: 1d100 | Result @1-2 [skull] _[[#Oracle Cursed Ruin First Look\|pg 218]]_ |
@@ -234,7 +204,7 @@ Text
 *217 RUIN ORACLES*
 
 ## Oracle: Cursed Ruin Feature
-> [!mechanics]- | Roll > `dice: [[SI_CH3_Ruin_Investigation#^table-OclCursedRuinFeature]]` | Guidance
+> [!mechanics]- | Roll > `dice: [[OT_ISSI_Ruins#^Cursed-Feature]]` | Guidance
 > Text ^guidance-OclCursedRuinFirstLook
 
 | dice: 1d100 | Result |

@@ -25,10 +25,10 @@ OracleDescriptor:
 Once you are close enough to observe notable features of the ship, check these tables.
 
 ## Oracle: Ship First Look
-> [!mechanics]- | Roll > [skull] `dice: [[SI_CH3_The Cursed Die#^table-Cursed]]` `dice: [[SI_CH3_Ship Approach#^table-OclShipFirstLook]]` | Guidance
+> [!mechanics]- | Roll > [skull] `dice: [[SI_CH3_The Cursed Die#^table-Cursed]]`<br>▶1 `dice: [[OT_ISSI_Ships^First-Look]]`<br>▶2 `dice: [[OT_ISSI_Ships^First-Look]]` | Guidance
 > Once you are close enough to observe notable features of the ship, check this table. ^guidance-OclShipFirstLook
 
-| Roll | Result \| @1-2 \| [skull] _[[#Oracle Cursed Ship First Look\|pg 135]]_ |
+| dice: 1d100 | Result @1-2 [skull] _[[#Oracle Cursed Ship First Look\|pg 135]]_ |
 | :---: | --- |
 | 1 - 2 | Accompanied by creatures |
 | 3 - 5 | Adorned with colorful pennants |
@@ -69,16 +69,16 @@ Once you are close enough to observe notable features of the ship, check these t
 | 89 - 90 | Trailing smoke |
 | 91 - 93 | Twin-hulled (catamaran) |
 | 94 - 95 | Undergunned or unarmed | 
-| 96 - 100 | ▶[[SI_CH3_Core_Descriptor Focus#DESCRIPTOR\|Descriptor]] + ▶[[SI_CH3_Core_Descriptor Focus#FOCUS\|Focus]] |
+| 96 - 100 | ▶[[SI_CH3_Core_Descriptor Focus#DESCRIPTOR\|Descriptor]] + ▶[[SI_CH3_Core_Descriptor Focus#FOCUS\|Focus]]; _pg 118-119_ |
 ^table-OclShipFirstLook
 
 *134 ORACLES*
 
 ## Oracle: Cursed Ship First Look
-> [!mechanics]- | Roll > `dice: [[SI_CH3_Ship Approach#^table-OclCursedShipFirstLook]]` | Guidance
+> [!mechanics]- | Roll > `dice: [[OT_ISSI_Ships^Cursed-First-Look]]` | Guidance
 > Once you are close enough to observe notable features of the ship, check this table. ^guidance-OclCursedShipFirstLook
 
-| Roll | Result |
+| dice: 1d100 | Result |
 | :---: | --- |
 | 1 - 3 | Accompanied by a monstrous beast |
 | 4 - 5 | Alight with unnatural flames |
@@ -136,7 +136,7 @@ Once you are close enough to observe notable features of the ship, check these t
 ^table-OclShipControllingFaction
 
 ### Oracle: Ship Controlling Faction - Myriads
-> [!mechanics]- | Roll > `dice: [[SI_CH3_Ship Approach#^table-OclShipControllingFaction-Myriads]]` | Guidance
+> [!mechanics]- | Roll > `dice: [[OT_ISSI_Ships^Controlling-Faction-Myriads]]` | Guidance
 > If the first impressions of a ship don’t reveal its identity, check the table below. If a known faction commands the ship, roll or choose on your [[SI_CH1_Factions of the Isles#FACTION INFLUENCE GRID|faction influence grid]] (page 50). If it is independent or aligned with an Unknown faction, use other tables such as _[[SI_CH3_Ship Approach|Ship Symbol]]_ and _[[SI_CH3_Ship Engagement|Ship Mission]]_ to help envision its nature, allegiances, and purpose. ^guidance-OclShipControllingFaction-Myriads
 
 | dice: 1d100 | Result |
@@ -147,7 +147,7 @@ Once you are close enough to observe notable features of the ship, check these t
 ^table-OclShipControllingFaction-Myriads
 
 ### Oracle: Ship Controlling Faction - Margins
-> [!mechanics]- | Roll > `dice: [[SI_CH3_Ship Approach#^table-OclShipControllingFaction-Margins]]` | Guidance
+> [!mechanics]- | Roll > `dice: [[OT_ISSI_Ships^Controlling-Faction-Margins]]` | Guidance
 > If the first impressions of a ship don’t reveal its identity, check the table below. If a known faction commands the ship, roll or choose on your [[SI_CH1_Factions of the Isles#FACTION INFLUENCE GRID|faction influence grid]] (page 50). If it is independent or aligned with an Unknown faction, use other tables such as _[[SI_CH3_Ship Approach|Ship Symbol]]_ and _[[SI_CH3_Ship Engagement|Ship Mission]]_ to help envision its nature, allegiances, and purpose. ^guidance-OclShipControllingFaction-Margins
 
 | dice: 1d100 | Result |
@@ -158,7 +158,7 @@ Once you are close enough to observe notable features of the ship, check these t
 ^table-OclShipControllingFaction-Margins
 
 ### Oracle: Ship Controlling Faction - Reaches
-> [!mechanics]- | Roll > `dice: [[SI_CH3_Ship Approach#^table-OclShipControllingFaction-Reaches]]` | Guidance
+> [!mechanics]- | Roll > `dice: [[OT_ISSI_Ships^Controlling-Faction-Reaches]]` | Guidance
 > If the first impressions of a ship don’t reveal its identity, check the table below. If a known faction commands the ship, roll or choose on your [[SI_CH1_Factions of the Isles#FACTION INFLUENCE GRID|faction influence grid]] (page 50). If it is independent or aligned with an Unknown faction, use other tables such as _[[SI_CH3_Ship Approach|Ship Symbol]]_ and _[[SI_CH3_Ship Engagement|Ship Mission]]_ to help envision its nature, allegiances, and purpose. ^guidance-OclShipControllingFaction-Reaches
 
 | dice: 1d100 | Result |
@@ -169,7 +169,7 @@ Once you are close enough to observe notable features of the ship, check these t
 ^table-OclShipControllingFaction-Reaches
 
 ## Oracle: Ship Symbol
-> [!mechanics]- | Roll > [skull] `dice: [[SI_CH3_The Cursed Die#^table-Cursed]]` `dice: [[SI_CH3_Ship Approach#^table-ShipSymbol]]` | Guidance
+> [!mechanics]- | Roll > [skull] `dice: [[OT_ISSI_Ships^Symbol]]` `dice: [[OT_ISSI_Ships^Symbol]]` | Guidance
 > Use this table to reveal the design of a ship’s figurehead, flag, or other motifs. This may help inspire the character of the vessel—especially if it is independent or part of an unknown faction. ^guidance-ShipSymbol
 
 | Roll | Result \| [skull] _[[#Oracle Cursed Ship Symbol\|Below]]_ |
@@ -225,7 +225,7 @@ Once you are close enough to observe notable features of the ship, check these t
 ^table-ShipSymbol
 
 ## Oracle: Cursed Ship Symbol
-> [!mechanics]- | Roll > `dice: [[SI_CH3_Ship Approach#^table-CursedShipSymbol]]` | Guidance
+> [!mechanics]- | Roll > `dice: [[OT_ISSI_Ships^Cursed-Symbol]]]` | Guidance
 > Use this table to reveal the design of a ship’s figurehead, flag, or other motifs. This may help inspire the character of the vessel—especially if it is independent or part of an unknown faction. ^guidance-CursedShipSymbol
 
 | dice: 1d100 | Result |
@@ -250,6 +250,6 @@ Once you are close enough to observe notable features of the ship, check these t
 
 | Previous Page | Tags | Next Page |
 | :--- | :---: | ---: |
-| **[[SI_CH3_Shp Sighting\|Ship Sighting (SI Oracles)]]** | #SunderedIsles/Oracles/Ship | **[[SI_CH3_Ship Engagement\|Ship Engagement (SI Oracles)]]** |
+| **[[SI_CH3_Ship Sighting\|Ship Sighting (SI Oracles)]]** | #SunderedIsles/Oracles/Ship | **[[SI_CH3_Ship Engagement\|Ship Engagement (SI Oracles)]]** |
 
 <font size=-2>Copyright ©2024 Shawn Tomkin. The text of this work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license. For license details, visit ironswornrpg.com. Updated June 2024 MUH051V200-PDF</font>

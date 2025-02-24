@@ -28,8 +28,8 @@ OracleDescriptor: ""
 Shipwrecks are monuments to lost souls and forsaken quests
 
 ## Oracle: Shipwreck Location
-> [!mechanics]- | Roll > `dice: [[SI_CH3_Shipwreck_Creation^table-OclShipwreckLocation]]` | Guidance
-> When learning about a distant shipwreck, use the table below to reveal where it met its sad fate. If you come upon a wreck in your travels, pick a location as appropriate to your surroundings. ^guidance-INSERT
+> [!mechanics]- | Roll > `dice: [[OT_ISSI_Shipwrecks#^Location]]` | Guidance
+> When learning about a distant shipwreck, use the table below to reveal where it met its sad fate. If you come upon a wreck in your travels, pick a location as appropriate to your surroundings. ^guidance-OclShipwreckLocation
 
 | Roll | Result | Description |
 | :---: | --- | --- |
@@ -39,17 +39,6 @@ Shipwrecks are monuments to lost souls and forsaken quests
 | 99 - 100 | **INLAND** | Away from the sea |
 | 26 - 65 | **SHORE** | Where land meets the sea |
 | 86 - 98 | **RIVER** | Along an inland waterway |
-
-### Shipwreck Location - Rollable
-
-| dice: 1d100 | Result |
-|:---:| --- |
-| 1 - 25 | **SEA** |
-| 76 - 85 | **SWAMP** |
-| 66 - 75 | **SEA CAVE** |
-| 99 - 100 | **INLAND** |
-| 26 - 65 | **SHORE** |
-| 86 - 98 | **RIVER** |
 ^table-OclShipwreckLocation
 
 ## Oracle: Shipwreck Position
@@ -71,7 +60,8 @@ Shipwrecks are monuments to lost souls and forsaken quests
 ^table-OclShipwreckPosition
 
 ### Oracle: Shipwreck Position - Inland
-> [!mechanics]- | Roll > `dice: [[SI_CH3_Shipwreck_Creation^table-OclShipwreckPosition-Inland]]` | Guidance
+> [!mechanics]- | Roll > `dice: [[OT_ISSI_Shipwrecks#^Position-Inland]]` | Guidance
+> [!mechanics]- | Roll > | Guidance
 > Use the Shipwreck Position table to reveal the state of the wreck, which can help frame the challenges of accessing or exploring the site. [[_SI_CH3_Shipwreck Oracles|See page 201]] for suggested gameplay procedures when searching a shipwreck. ^guidance-OclShipwreckPosition-Inland
 
 | dice: 1d100 | Position |
@@ -81,7 +71,7 @@ Shipwrecks are monuments to lost souls and forsaken quests
 ^table-OclShipwreckPosition-Inland
 
 ### Oracle: Shipwreck Position - River
-> [!mechanics]- | Roll > `dice: [[SI_CH3_Shipwreck_Creation^table-OclShipwreckPosition-River]]` | Guidance
+> [!mechanics]- | Roll > `dice: [[OT_ISSI_Shipwrecks#^Position-River]]` | Guidance
 > Use the Shipwreck Position table to reveal the state of the wreck, which can help frame the challenges of accessing or exploring the site. [[_SI_CH3_Shipwreck Oracles|See page 201]] for suggested gameplay procedures when searching a shipwreck. ^guidance-OclShipwreckPosition-River
 
 | dice: 1d100 | Position |
@@ -95,7 +85,7 @@ Shipwrecks are monuments to lost souls and forsaken quests
 ^table-OclShipwreckPosition-River
 
 ### Oracle: Shipwreck Position - Sea
-> [!mechanics]- | Roll > `dice: [[SI_CH3_Shipwreck_Creation^table-OclShipwreckPosition-Sea]]` | Guidance
+> [!mechanics]- | Roll > `dice: [[OT_ISSI_Shipwrecks#^Position-Sea]]` | Guidance
 > Use the Shipwreck Position table to reveal the state of the wreck, which can help frame the challenges of accessing or exploring the site. [[_SI_CH3_Shipwreck Oracles|See page 201]] for suggested gameplay procedures when searching a shipwreck. ^guidance-OclShipwreckPosition-Sea
 
 | dice: 1d100 | Position |
@@ -109,7 +99,7 @@ Shipwrecks are monuments to lost souls and forsaken quests
 ^table-OclShipwreckPosition-Sea
 
 ### Oracle: Shipwreck Position - Sea Cave
-> [!mechanics]- | Roll > `dice: [[SI_CH3_Shipwreck_Creation^table-OclShipwreckPosition-SeaCave]]` | Guidance
+> [!mechanics]- | Roll > `dice: [[OT_ISSI_Shipwrecks#^Position-Sea-Cave]]` | Guidance
 > Use the Shipwreck Position table to reveal the state of the wreck, which can help frame the challenges of accessing or exploring the site. [[_SI_CH3_Shipwreck Oracles|See page 201]] for suggested gameplay procedures when searching a shipwreck. ^guidance-OclShipwreckPosition-SeaCave
 
 | dice: 1d100 | Position |
@@ -123,7 +113,7 @@ Shipwrecks are monuments to lost souls and forsaken quests
 ^table-OclShipwreckPosition-SeaCave
 
 ### Oracle: Shipwreck Position - Shore
-> [!mechanics]- | Roll > `dice: [[SI_CH3_Shipwreck_Creation^table-OclShipwreckPosition-Shore]]` | Guidance
+> [!mechanics]- | Roll > `dice: [[OT_ISSI_Shipwrecks#^Position-Shore]]` | Guidance
 > Use the Shipwreck Position table to reveal the state of the wreck, which can help frame the challenges of accessing or exploring the site. [[_SI_CH3_Shipwreck Oracles|See page 201]] for suggested gameplay procedures when searching a shipwreck. ^guidance-OclShipwreckPosition-Shore
 
 | dice: 1d100 | Position |
@@ -137,7 +127,7 @@ Shipwrecks are monuments to lost souls and forsaken quests
 ^table-OclShipwreckPosition-Shore
 
 ### Oracle: Shipwreck Position - Swamp
-> [!mechanics]- | Roll > `dice: [[SI_CH3_Shipwreck_Creation^table-OclShipwreckPosition-Swamp]]` | Guidance
+> [!mechanics]- | Roll > `dice: [[OT_ISSI_Shipwrecks#^Position-Swamp]]` | Guidance
 > Use the Shipwreck Position table to reveal the state of the wreck, which can help frame the challenges of accessing or exploring the site. [[_SI_CH3_Shipwreck Oracles|See page 201]] for suggested gameplay procedures when searching a shipwreck. ^guidance-OclShipwreckPosition-Swamp
 
 | dice: 1d100 | Position |
@@ -152,7 +142,7 @@ Shipwrecks are monuments to lost souls and forsaken quests
 
 
 ## Oracle: Shipwreck Scale
-> [!mechanics]- | Roll > `dice: [[SI_CH3_Shipwreck_Creation^table-OclShipwreckScale]]` | Guidance
+> [!mechanics]- | Roll > `dice: [[OT_ISSI_Shipwrecks#^Scale]]` | Guidance
 > Use the Shipwreck Scale table to reveal the state of the wreck, which can help frame the challenges of accessing or exploring the site. [[_SI_CH3_Shipwreck Oracles|See page 201]] for suggested gameplay procedures when searching a shipwreck ^guidance-OclShipwreckScale
 
 | dice: 1d100 | Result |
@@ -166,7 +156,7 @@ Shipwrecks are monuments to lost souls and forsaken quests
 ^table-OclShipwreckScale
 
 ## Oracle: Wholeness
-> [!mechanics]- | Roll > `dice: [[SI_CH3_Shipwreck_Creation^table-OclShipwreckWholeness]]` | Guidance
+> [!mechanics]- | Roll > `dice: [[OT_ISSI_Shipwrecks#^Wholeness]]` | Guidance
 > Use the Shipwreck Wholeness table to reveal the state of the wreck, which can help frame the challenges of accessing or exploring the site. [[_SI_CH3_Shipwreck Oracles|See page 201]] for suggested gameplay procedures when searching a shipwreck ^guidance-OclShipwreckWholeness
 
 | dice: 1d100 | Result |

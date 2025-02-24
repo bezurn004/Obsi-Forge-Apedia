@@ -36,7 +36,7 @@ OracleDescriptor: "Envision a character’s background or occupation using the b
 Envision a character’s background or occupation using the broad categories below. For more detail, check the related subtable.
 
 ## Oracle: Character Roles
-> [!mechanics]- | Roll > `dice: [[SI_CH3_Chracter_Roles^table-OclCharacterRoles]]` | Guidance
+> [!mechanics]- | Roll > `dice: [[OT_ISSI_Characters#^Roles]]` | Guidance
 > Envision a character’s background or occupation using the broad categories below. For more detail, check the related subtable. ^guidance-OclCharacterRoles
 
 | dice: 1d100 | Result |
@@ -64,7 +64,7 @@ Envision a character’s background or occupation using the broad categories bel
 *187 CHARACTER ORACLES*
 
 ### Oracle: Role Detail - Academic
-> [!mechanics]- | Roll > `dice: [[SI_CH3_Chracter_Roles^table-OclCharacterRoleDetail-Academic]]` | Guidance
+> [!mechanics]- | Roll > `dice: [[OT_ISSI_Characters#^Role-Academic]]` | Guidance
 > Text ^guidance-OclCharacterRoleDetail-Academic
 
 | dice: 1d100 | Result |
@@ -76,8 +76,21 @@ Envision a character’s background or occupation using the broad categories bel
 | 81 - 100 | Philosopher |
 ^table-OclCharacterRoleDetail-Academic
 
+### Oracle: Role Detail - Agent
+> [!mechanics]- | Roll > `dice: [[OT_ISSI_Characters#^Role-Agent]]` | Guidance
+> Text ^guidance-OclCharacterRoleDetail-Agent
+
+| dice: 1d100 | Result |
+| :---: | --- |
+| 1 - 20 | Assassin |
+| 21 - 40 | Bounty Hunter / Pirate hunter |
+| 41 - 60 | Courier |
+| 61 - 80 | Investigator |
+| 81 - 100 | Spy |
+^table-OclCharacterRoleDetail-Agent
+
 ### Oracle: Role Detail - Caregiver
-> [!mechanics]- | Roll > `dice: [[SI_CH3_Chracter_Roles^table-OclCharacterRoleDetail-Caregiver]]` | Guidance
+> [!mechanics]- | Roll > `dice: [[OT_ISSI_Characters#^Role-Caregiver]]` | Guidance
 > Text ^guidance-OclCharacterRoleDetail-Caregiver
 
 | dice: 1d100 | Result |
@@ -89,8 +102,21 @@ Envision a character’s background or occupation using the broad categories bel
 | 81 - 100 | Physician |
 ^table-OclCharacterRoleDetail-Caregiver
 
+### Oracle: Role Detail - Combatant
+> [!mechanics]- | Roll > `dice: [[OT_ISSI_Characters#^Role-Combatant]]` | Guidance
+> Text ^guidance-OclCharacterRoleDetail-Combatant
+
+| dice: 1d100 | Result |
+| :---: | --- |
+| 1 - 20 | Duelist |
+| 21 - 40 | Guard / Militia |
+| 41 - 60 | Mercenary |
+| 61 - 80 | Soldier |
+| 81 - 100 | Vigilante |
+^table-OclCharacterRoleDetail-Combatant
+
 ### Oracle: Role Detail - Devotant
-> [!mechanics]- | Roll > `dice: [[SI_CH3_Chracter_Roles^table-OclCharacterRoleDetail-Devotant]]` | Guidance
+> [!mechanics]- | Roll > `dice: [[OT_ISSI_Characters#^Role-Devotant]]` | Guidance
 > Text ^guidance-OclCharacterRoleDetail-Devotant
 
 | dice: 1d100 | Result |
@@ -102,8 +128,21 @@ Envision a character’s background or occupation using the broad categories bel
 | 81 - 100 | Pilgrim |
 ^table-OclCharacterRoleDetail-Devotant
 
+### Oracle: Role Detail - Laborer
+> [!mechanics]- | Roll > `dice: [[OT_ISSI_Characters#^Role-Laborer]]` | Guidance
+> Text ^guidance-OclCharacterRoleDetail-Laborer
+
+| dice: 1d100 | Result |
+| :---: | --- |
+| 1 - 20 | Bricklayer |
+| 21 - 40 | Farmer |
+| 41 - 60 | Lumberer |
+| 61 - 80 | Miner |
+| 81 - 100 | Servant |
+^table-OclCharacterRoleDetail-Laborer
+
 ### Oracle: Role Detail - Merchant
-> [!mechanics]- | Roll > `dice: [[SI_CH3_Chracter_Roles^table-OclCharacterRoleDetail-Merchant]]` | Guidance
+> [!mechanics]- | Roll > `dice: [[OT_ISSI_Characters#^Role-Merchant]]` | Guidance
 > Text ^guidance-OclCharacterRoleDetail-Merchant
 
 | dice: 1d100 | Result |
@@ -115,48 +154,9 @@ Envision a character’s background or occupation using the broad categories bel
 | 81 - 100 | Traveling merchant |
 ^table-OclCharacterRoleDetail-Merchant
 
-### Oracle: Role Detail - Outcast
-> [!mechanics]- | Roll > `dice: [[SI_CH3_Chracter_Roles^table-OclCharacterRoleDetail-Outcast]]` | Guidance
-> Text ^guidance-OclCharacterRoleDetail-Outcast
-
-| dice: 1d100 | Result |
-| :---: | --- |
-| 1 - 20 | Assassin |
-| 21 - 40 | Bounty Hunter / Pirate hunter |
-| 41 - 60 | Courier |
-| 61 - 80 | Investigator |
-| 81 - 100 | Spy |
-^table-OclCharacterRoleDetail-Outcast
-
-### Oracle: Role Detail - Agent
-> [!mechanics]- | Roll > `dice: [[SI_CH3_Chracter_Roles^table-OclCharacterRoleDetail-Agent]]` | Guidance
-> Text ^guidance-OclCharacterRoleDetail-Agent
-
-| dice: 1d100 | Result |
-| :---: | --- |
-| 1 - 20 | Duelist |
-| 21 - 40 | Guard / Militia |
-| 41 - 60 | Mercenary |
-| 61 - 80 | Soldier |
-| 81 - 100 | Vigilante |
-^table-OclCharacterRoleDetail-Agent
-
-### Oracle: Role Detail - Combatant
-> [!mechanics]- | Roll > `dice: [[SI_CH3_Chracter_Roles^table-OclCharacterRoleDetail-Combatant]]` | Guidance
-> Text ^guidance-OclCharacterRoleDetail-Combatant
-
-| dice: 1d100 | Result |
-| :---: | --- |
-| 1 - 20 | Bricklayer |
-| 21 - 40 | Farmer |
-| 41 - 60 | Lumberer |
-| 61 - 80 | Miner |
-| 81 - 100 | Servant |
-^table-OclCharacterRoleDetail-Combatant
-
-### Oracle: Role Detail - Laborer
-> [!mechanics]- | Roll > `dice: [[SI_CH3_Chracter_Roles^table-OclCharacterRoleDetail-Laborer]]` | Guidance
-> Text ^guidance-OclCharacterRoleDetail-Laborer
+### Oracle: Role Detail - Mystic
+> [!mechanics]- | Roll > `dice: [[OT_ISSI_Characters#^Role-Mystic]]` | Guidance
+> Text ^guidance-OclCharacterRoleDetail-Mystic
 
 | dice: 1d100 | Result |
 | :---: | --- |
@@ -165,11 +165,11 @@ Envision a character’s background or occupation using the broad categories bel
 | 41 - 60 | Necromancer |
 | 61 - 80 | Seer |
 | 81 - 100 | Sorcerer / Shaman |
-^table-OclCharacterRoleDetail-Laborer
+^table-OclCharacterRoleDetail-Mystic
 
-### Oracle: Role Detail - Mystic
-> [!mechanics]- | Roll > `dice: [[SI_CH3_Chracter_Roles^table-OclCharacterRoleDetail-Mystic]]` | Guidance
-> Text ^guidance-OclCharacterRoleDetail-Mystic
+### Oracle: Role Detail - Outcast
+> [!mechanics]- | Roll > `dice: [[OT_ISSI_Characters#^Role-Outcast]]` | Guidance
+> Text ^guidance-OclCharacterRoleDetail-Outcast
 
 | dice: 1d100 | Result |
 |:---:| --- |
@@ -183,12 +183,12 @@ Envision a character’s background or occupation using the broad categories bel
 | 71 - 80 | Refugee |
 | 81 - 90 | Urchin |
 | 91 - 100 | Vagabond |
-^table-OclCharacterRoleDetail-Mystic
+^table-OclCharacterRoleDetail-Outcast
 
 *188 ORACLES*
 
 ### Oracle: Role Detail - Outlander
-> [!mechanics]- | Roll > `dice: [[SI_CH3_Chracter_Roles^table-OclCharacterRoleDetail-Outlander]]` | Guidance
+> [!mechanics]- | Roll > `dice: [[OT_ISSI_Characters#^Role-Outlander]]` | Guidance
 > Text ^guidance-OclCharacterRoleDetail-Outlander
 
 | dice: 1d100 | Result |
@@ -200,34 +200,8 @@ Envision a character’s background or occupation using the broad categories bel
 | 81 - 100 | Scout |
 ^table-OclCharacterRoleDetail-Outlander
 
-### Oracle: Role Detail - Performer
-> [!mechanics]- | Roll > `dice: [[SI_CH3_Chracter_Roles^table-OclCharacterRoleDetail-Performer]]` | Guidance
-> Text ^guidance-OclCharacterRoleDetail-Performer
-
-| dice: 1d100 | Result |
-| :---: | --- |
-| 1 - 20 | Acrobat |
-| 21 - 40 | Actor |
-| 41 - 60 | Dancer |
-| 61 - 80 | Musician |
-| 81 - 100 | Singer |
-^table-OclCharacterRoleDetail-Performer
-
-### Oracle: Role Detail - Scavenger
-> [!mechanics]- | Roll > `dice: [[SI_CH3_Chracter_Roles^table-OclCharacterRoleDetail-Scavenger]]` | Guidance
-> Text ^guidance-OclCharacterRoleDetail-Scavenger
-
-| dice: 1d100 | Result |
-| :---: | --- |
-| 1 - 20 | Beachcomber |
-| 21 - 40 | Grave Robber |
-| 41 - 60 | Relic hunter |
-| 61 - 80 | Shipbreaker |
-| 81 - 100 | Wreck diver |
-^table-OclCharacterRoleDetail-Scavenger
-
 ### Oracle: Role Detail - Outlaw
-> [!mechanics]- | Roll > `dice: [[SI_CH3_Chracter_Roles^table-OclCharacterRoleDetail-Outlaw]]` | Guidance
+> [!mechanics]- | Roll > `dice: [[OT_ISSI_Characters#^Role-Outlander]]` | Guidance
 > Text ^guidance-OclCharacterRoleDetail-Outlaw
 
 | dice: 1d100 | Result |
@@ -244,8 +218,21 @@ Envision a character’s background or occupation using the broad categories bel
 | 91 - 100 | Smuggler |
 ^table-OclCharacterRoleDetail-Outlaw
 
+### Oracle: Role Detail - Performer
+> [!mechanics]- | Roll > `dice: [[OT_ISSI_Characters#^Role-Performer]]` | Guidance
+> Text ^guidance-OclCharacterRoleDetail-Performer
+
+| dice: 1d100 | Result |
+| :---: | --- |
+| 1 - 20 | Acrobat |
+| 21 - 40 | Actor |
+| 41 - 60 | Dancer |
+| 61 - 80 | Musician |
+| 81 - 100 | Singer |
+^table-OclCharacterRoleDetail-Performer
+
 ### Oracle: Role Detail - Sailor
-> [!mechanics]- | Roll > `dice: [[SI_CH3_Chracter_Roles^table-OclCharacterRoleDetail-Sailor]]` | Guidance
+> [!mechanics]- | Roll > `dice: [[OT_ISSI_Characters#^Role-Sailor]]` | Guidance
 > Text ^guidance-OclCharacterRoleDetail-Sailor
 
 | dice: 1d100 | Result |
@@ -262,26 +249,21 @@ Envision a character’s background or occupation using the broad categories bel
 | 91 - 100 | Quartermaster |
 ^table-OclCharacterRoleDetail-Sailor
 
-### Oracle: Role Detail - Tradesperson
-> [!mechanics]- | Roll > `dice: [[SI_CH3_Chracter_Roles^table-OclCharacterRoleDetail-Tradesperson]]` | Guidance
-> Text ^guidance-OclCharacterRoleDetail-Tradesperson
+### Oracle: Role Detail - Scavenger
+> [!mechanics]- | Roll > `dice: [[OT_ISSI_Characters#^Role-Scavenger]]` | Guidance
+> Text ^guidance-OclCharacterRoleDetail-Scavenger
 
 | dice: 1d100 | Result |
 | :---: | --- |
-| 1 - 10 | Baker |
-| 11 - 20 | Brewer / Winemaker |
-| 21 - 30 | Butcher |
-| 31 - 40 | Mason |
-| 41 - 50 | Metal worker |
-| 51 - 60 | Shipwright / boatwright |
-| 61 - 70 | Tattooist |
-| 71 - 80 | Tinker / Engineer |
-| 81 - 90 | Undertaker |
-| 91 - 100 | Woodworker |
-^table-OclCharacterRoleDetail-Tradesperson
+| 1 - 20 | Beachcomber |
+| 21 - 40 | Grave Robber |
+| 41 - 60 | Relic hunter |
+| 61 - 80 | Shipbreaker |
+| 81 - 100 | Wreck diver |
+^table-OclCharacterRoleDetail-Scavenger
 
 ### Oracle: Role Detail - Statesperson
-> [!mechanics]- | Roll > `dice: [[SI_CH3_Chracter_Roles^table-OclCharacterRoleDetail-Statesperson]]` | Guidance
+> [!mechanics]- | Roll > `dice: [[OT_ISSI_Characters#^Role-Statesperson]]` | Guidance
 > Text ^guidance-OclCharacterRoleDetail-Statesperson
 
 | dice: 1d100 | Result |
@@ -297,6 +279,24 @@ Envision a character’s background or occupation using the broad categories bel
 | 81 - 90 | Politician |
 | 91 - 100 | Tax collector |
 ^table-OclCharacterRoleDetail-Statesperson
+
+### Oracle: Role Detail - Tradesperson
+> [!mechanics]- | Roll > `dice: [[OT_ISSI_Characters#^Role-Tradesperson]]` | Guidance
+> Text ^guidance-OclCharacterRoleDetail-Tradesperson
+
+| dice: 1d100 | Result |
+| :---: | --- |
+| 1 - 10 | Baker |
+| 11 - 20 | Brewer / Winemaker |
+| 21 - 30 | Butcher |
+| 31 - 40 | Mason |
+| 41 - 50 | Metal worker |
+| 51 - 60 | Shipwright / boatwright |
+| 61 - 70 | Tattooist |
+| 71 - 80 | Tinker / Engineer |
+| 81 - 90 | Undertaker |
+| 91 - 100 | Woodworker |
+^table-OclCharacterRoleDetail-Tradesperson
 
 *189 CHARACTER ORACLES*
 

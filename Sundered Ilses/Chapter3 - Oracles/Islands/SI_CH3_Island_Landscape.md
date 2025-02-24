@@ -25,7 +25,7 @@ OracleDescriptor:
 Text
 
 ## Oracle: Island Size
-> [!mechanics]- | Roll > `dice: [[SI_CH3_Island_Landscape#^table-OclIslandSize-Rollable]]` | Guidance
+> [!mechanics]- | Roll > `dice: [[OT_ISSI_Islands^Size]]` | Guidance
 > _Determine the size of the island, measured in the time it would take to walk the circumference of the shore with no hazards._ ^guidance-OclIslandSize
 
 | Roll | Result | Time to Walk the Island Circumference |
@@ -36,17 +36,8 @@ Text
 | 91 - 100 | Vast | Weeks |
 ^table-OclIslandSize
 
-### Island Size - Rollable
-| dice: 1d100 | Size / circumference estimate |
-| :---: | --- | --- |
-| 1 - 30 | Small / 5 - 10 miles 
-| 31 - 70 | Medium / 20 - 40 miles |
-| 71 - 90 | Large / 80 - 120 miles |
-| 91 - 100 | Vast / 280 - 360 miles |
-^table-OclIslandSize-Rollable
-
 ## Oracle: Island Terrain
-> [!mechanics]- | Roll > `dice: [[SI_CH3_Island_Landscape#^table-OclIslandTerrain-Rollable]]` | Guidance
+> [!mechanics]- | Roll > `dice: [[OT_ISSI_Islands^Terrain]]` | Guidance
 > The _Terrain_ of sizable islands may vary. Your initial results represent the dominant aspects that are visible on approach. Further exploration may reveal other characteristics. ^guidance-OclIslandTerrain
 
 | Roll | Result | Detail |
@@ -61,22 +52,8 @@ Text
 | 91 - 100 | Volcanic | Active volcanoes and lava fields |
 ^table-OclIslandTerrain
 
-### Island Terrain - Rollable
-
-| dice: 1d100 | Result |
-| :---: | --- |
-| 1 - 10 | **Sodden**<br>Low-lying wetlands |
-| 11 - 20 | **Flat**<br>Expansive plains |
-| 21 - 30 | **Rolling**<br>Hills or dunes |
-| 31 - 40 | **Elevated**<br>Sheer cliffs rising to a mesa or plateau |
-| 41 - 50 | **Sloped**<br>Terrain rising gradually to a prominent ridge or peak |
-| 51 - 70 | **Rugged**<br>Varied terrain of craggy hills and dramatic rock formations |
-| 71 - 90 | **Mountainous**<br>Imposing heights and deep valleys |
-| 91 - 100 | **Volcanic**<br>Active volcanoes and lava fields |
-^table-OclIslandTerrain-Rollable
-
 ## Oracle: Island Vitality
-> [!mechanics]- | Roll > %%GetDice%% | Guidance
+> [!mechanics]- | Guidance
 > The _Vitality_ of sizable islands may vary. Your initial results represent the dominant aspects that are visible on approach. Further exploration may reveal other characteristics. ^guidance-OclIslandVitality
 
 | Myriads<br>_Central Seas_ | Margins<br>_Outer Seas_ | Reaches<br>_Remote Seas_ | Result |
@@ -92,10 +69,10 @@ Text
 *142 ORACLES*
 
 ### Oracle: Island Vitality - Myriads
-> [!mechanics]- | Roll > `dice: [[SI_CH3_Island_Landscape#^table-OclIslandVitality-Myriads]]` | Guidance
+> [!mechanics]- | Roll > `dice: [[OT_ISSI_Islands^Vitality-Myriads]]` | Guidance
 > The _Vitality_ of sizable islands may vary. Your initial results represent the dominant aspects that are visible on approach. Further exploration may reveal other characteristics. ^guidance-OclIslandVitality-Myriads
 
-| Mdice: 1d100 | Result |
+| dice: 1d100 | Result |
 |:---:| --- |
 | 1 - 15 | Devastated Ravaged by natural forces or razed by despoilers |
 | 16 - 30 | Dying Withered woodlands, blighted scrub, or sickly marshes |
@@ -106,7 +83,7 @@ Text
 ^table-OclIslandVitality-Myriads
 
 ### Oracle: Island Vitality - Margins
-> [!mechanics]- | Roll > `dice: [[SI_CH3_Island_Landscape#^table-OclIslandVitality-Margins]]` | Guidance
+> [!mechanics]- | Roll > `dice: [[OT_ISSI_Islands^Vitality-Margins]]` | Guidance
 > The _Vitality_ of sizable islands may vary. Your initial results represent the dominant aspects that are visible on approach. Further exploration may reveal other characteristics. ^guidance-OclIslandVitality-Margins
 
 | dice: 1d100 | Result |
@@ -120,7 +97,7 @@ Text
 ^table-OclIslandVitality-Margins
 
 ### Oracle: Island Vitality - Reaches
-> [!mechanics]- | Roll > `dice: [[SI_CH3_Island_Landscape#^table-OclIslandVitality-Reaches]]` | Guidance
+> [!mechanics]- | Roll > `dice: [[OT_ISSI_Islands^Vitality-Reaches]]` | Guidance
 > The _Vitality_ of sizable islands may vary. Your initial results represent the dominant aspects that are visible on approach. Further exploration may reveal other characteristics. ^guidance-OclIslandVitality-Reaches
 
 | dice: 1d100 | Result |
@@ -134,7 +111,7 @@ Text
 ^table-OclIslandVitality-Reaches
 
 ## Oracle: Island Visible Habitation
-> [!mechanics]- | Roll > %%GetDice%% | Guidance
+> [!mechanics]- | Guidance
 > The _Visible Habitation_ of sizable islands may vary. Your initial results represent the dominant aspects that are visible on approach. Further exploration may reveal other characteristics. ^guidance-OclIslandVisibleHabitation
 
 | Myriads<br>_Central Seas_ | Margins<br>_Outer Seas_ | Reaches<br>_Remote Seas_ | Result |
@@ -148,7 +125,7 @@ Text
 ^table-OclIslandVisibleHabitation
 
 ### Oracle: Island Visible Habitation - Myriads
-> [!mechanics]- | Roll > `dice: [[SI_CH3_Island_Landscape#^table-OclIslandVisibleHabitation-Myriads]]` | Guidance
+> [!mechanics]- | Roll > `dice: [[OT_ISSI_Islands^Visible-Habitation-Myriads]]` | Guidance
 > The _Visible Habitation_ of sizable islands may vary. Your initial results represent the dominant aspects that are visible on approach. Further exploration may reveal other characteristics. ^guidance-OclIslandVisibleHabitation-Myriads
 
 | dice: 1d100 | Result |
@@ -162,7 +139,7 @@ Text
 ^table-OclIslandVisibleHabitation-Myriads
 
 ### Oracle: Island Visible Habitation - Margins
-> [!mechanics]- | Roll > `dice: [[SI_CH3_Island_Landscape#^table-OclIslandVisibleHabitation-Margins]]` | Guidance
+> [!mechanics]- | Roll > `dice: [[OT_ISSI_Islands^Visible-Habitation-Margins]]` | Guidance
 > The _Visible Habitation_ of sizable islands may vary. Your initial results represent the dominant aspects that are visible on approach. Further exploration may reveal other characteristics. ^guidance-OclIslandVisibleHabitation-Margins
 
 | dice: 1d100 | Result |
@@ -176,7 +153,7 @@ Text
 ^table-OclIslandVisibleHabitation-Margins
 
 ### Oracle: Island Visible Habitation - Reaches
-> [!mechanics]- | Roll > `dice: [[SI_CH3_Island_Landscape#^table-OclIslandVisibleHabitation-Reaches]]` | Guidance
+> [!mechanics]- | Roll > `dice: [[OT_ISSI_Islands^Visible-Habitation-Reaches]]` | Guidance
 > The _Visible Habitation_ of sizable islands may vary. Your initial results represent the dominant aspects that are visible on approach. Further exploration may reveal other characteristics. ^guidance-OclIslandVisibleHabitation-Reaches
 
 | dice: 1d100 | Result |
@@ -190,7 +167,7 @@ Text
 ^table-OclIslandVisibleHabitation-Reaches
 
 ## Oracle: Nearby Islands
-> [!mechanics]- | Roll > %%GetDice%% | Guidance
+> [!mechanics]- | Guidance
 > _Determine if there are other lislands within sight _ ^guidance-OclNearbyIslands
 
 | Myriads<br>_Central Seas_ | Margins<br>_Outer Seas_ | Reaches<br>_Remote Seas_ | Result |
@@ -203,8 +180,8 @@ Text
 *143 ISLAND ORACLES*
 
 ### Oracle: Nearby Islands - Myriads
-> [!mechanics]- | Roll > `dice: [[SI_CH3_Island_Landscape#^table-OclNearbyIslands-Myriads]]` | Guidance
-> _Determine if there are other lislands within sight _ ^guidance-OclNearbyIslands-Myriads
+> [!mechanics]- | Roll > `dice: [[OT_ISSI_Islands^Nearby-Islands-Myriads]]` | Guidance
+> _Determine if there are other islands within sight _ ^guidance-OclNearbyIslands-Myriads
 
 | dice: 1d100 | Result |
 |:---:| --- |
@@ -214,8 +191,8 @@ Text
 ^table-OclNearbyIslands-Myriads
 
 ### Oracle: Nearby Islands - Margins
-> [!mechanics]- | Roll > `dice: [[SI_CH3_Island_Landscape#^table-OclNearbyIslands-Margins]]` | Guidance
-> _Determine if there are other lislands within sight _ ^guidance-OclNearbyIslands-Margins
+> [!mechanics]- | Roll > `dice: [[OT_ISSI_Islands^Nearby-Islands-Margins]]` | Guidance
+> _Determine if there are other islands within sight _ ^guidance-OclNearbyIslands-Margins
 
 | dice: 1d100 | Result |
 |:---:| --- |
@@ -225,8 +202,8 @@ Text
 ^table-OclNearbyIslands-Margins
 
 ### Oracle: Nearby Islands - Reaches
-> [!mechanics]- | Roll > `dice: [[SI_CH3_Island_Landscape#^table-OclNearbyIslands-Reaches]]` | Guidance
-> _Determine if there are other lislands within sight _ ^guidance-OclNearbyIslands-Reaches
+> [!mechanics]- | Roll > `dice: [[OT_ISSI_Islands^Nearby-Islands-Reaches]]` | Guidance
+> _Determine if there are other islands within sight _ ^guidance-OclNearbyIslands-Reaches
 
 | dice: 1d100 | Result |
 |:---:| --- |

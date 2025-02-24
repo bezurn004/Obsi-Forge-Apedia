@@ -29,7 +29,7 @@ OracleDescriptor: ""
 Text
 
 ## Oracle: Character Name
-> [!mechanics]- | Guidance
+> [!mechanics]- Roll > Row: `dice: 1d100` | Guidance
 > This table provides pairs of given and family names. When choosing or rolling for a character name, select a pair or mix and match from among the options in a row. Given and family names can often be reversed, or used independently as stand-alone names.
 > 
 > This table also includes monikers, one to each row. Not all characters have monikers, but sailors are often given a nickname by their shipmates, or adopt one of their own. Monikers can be used as a stand-alone name (for example, “Redbeard” or “Stormcrow”) or paired with a given name or family name (“Crimson Jack” or “Hardtack Hobbs”). Roll or select an appropriate moniker as you like. 
@@ -256,7 +256,7 @@ Text
 > Text ^guidance-OclCharacterName-Family
 
 | Roll | Family Name 1-3 | Family Name 4-6 |
-|:---:| --- | --- |
+| :---: | --- | --- |
 | 1 | Qadir | Mahdi |
 | 2 | Whitlock | Barrow |
 | 3 | Toprak | Merrick |
@@ -468,7 +468,7 @@ Text
 ^table-OclCharacterName-Moniker
 
 ## Oracle: Cursed Moniker
-> [!mechanics]- | Roll > `dice: [[SI_CH3_Character_Names^table-OclCursedMoniker]]` | Guidance
+> [!mechanics]- | Roll > `dice: [[OT_ISSI_Characters#^Name-Cursed-Moniker]]` | Guidance
 > Use these tables to reveal an epitaph for a dreadful, eldritch, ill-fated, or mechanical character. For example, a pirate captain who adopts a much-feared identity would have a _Dreadful Persona_. A wretched, outcast mariner would have an _Ill-Fated Nature_. Use the result alone, combine with a name, or pair results from two _Cursed Moniker_ categories. ^guidance-OclCursedMoniker
 
 | dice: 1d100 | Result |
@@ -480,7 +480,7 @@ Text
 ^table-OclCursedMoniker
 
 ### Oracle: Cursed Moniker - Dreadful Persona
-> [!mechanics]- | Roll > `dice: [[SI_CH3_Character_Names^table-OclCursedMoniker-DreadfulPersona]]` | Guidance
+> [!mechanics]- | Roll > `dice: [[OT_ISSI_Characters#^Cursed-Moniker-Dreadful-Persona]]` | Guidance
 > Text ^guidance-OclCursedMoniker-DreadfulPersona
 
 | dice: 1d100 | Result |
@@ -524,7 +524,7 @@ Text
 ^table-OclCursedMoniker-DreadfulPersona
 
 ### Oracle: Cursed Moniker - Eldritch Powers
-> [!mechanics]- | Roll > `dice: [[SI_CH3_Character_Names^table-OclCursedMoniker-EldritchPowers]]` | Guidance
+> [!mechanics]- | Roll > `dice: [[OT_ISSI_Characters#^Cursed-Moniker-Eldritch-Powers]]` | Guidance
 > Text ^guidance-OclCursedMoniker-EldritchPowers
 
 | dice: 1d100 | Result |
@@ -556,7 +556,7 @@ Text
 ^table-OclCursedMoniker-EldritchPowers
 
 ### Oracle: Cursed Moniker - Ill-Fated Nature
-> [!mechanics]- | Roll > `dice: [[SI_CH3_Character_Names^table-OclCursedMoniker-Ill-FatedNature]]` | Guidance
+> [!mechanics]- | Roll > `dice: [[OT_ISSI_Characters#^Cursed-Moniker-Ill-Fated-Nature]]` | Guidance
 > Text ^guidance-OclCursedMoniker-Ill-FatedNature
 
 | dice: 1d100 | Result |
@@ -584,7 +584,7 @@ Text
 ^table-OclCursedMoniker-Ill-FatedNature
 
 ### Oracle: Cursed Moniker - Mechanical Form
-> [!mechanics]- | Roll > `dice: [[SI_CH3_Character_Names^table-OclCursedMoniker-MechanicalForm]]` | Guidance
+> [!mechanics]- | Roll > `dice: [[OT_ISSI_Characters#^Cursed-Moniker-Mechanical-Form]]` | Guidance
 > Text ^guidance-OclCursedMoniker-MechanicalForm
 
 | dice: 1d100 | Result |

@@ -24,7 +24,7 @@ OracleDescriptor: "When getting onto a ship you will likely learn its **cargo** 
 _When getting onto a ship you will likely learn its **cargo** it carries and the **name** of the ship._
 
 ## Oracle: Ship Cargo
-> [!mechanics]- | Roll > [skull] `dice: [[SI_CH3_The Cursed Die#^table-Cursed]]` `dice: [[SI_CH3_Ship Boarding#^table-OclShipCargo]]` | Guidance
+> [!mechanics]- | Roll > [skull] `dice: [[SI_CH3_The Cursed Die#^table-Cursed]]` <br>▶1 `dice: [[OT_ISSI_Ships^Cargo]]`<br>▶2 `dice: [[OT_ISSI_Ships^Cargo]]`<br>▶3 `dice: [[OT_ISSI_Ships^Cargo]]`<br>▶4 `dice: [[OT_ISSI_Ships^Cargo]]` | Guidance
 > Use this table when surveying a ship’s hold or if coming upon lost or abandoned cargo. Roll a number of times as appropriate to the nature of the find. For example, once for the hold of a typical warship, or up to four times for a fully loaded tradeship. Ships also typically carry basic munitions and provisions for the crew, but this table reveals the details of bulk cargo such as trade goods and plunder. @1–4 ^guidance-OclShipCargo
 
 | dice: 1d100 | Result @1-4 [skull] _[[#Oracle Cursed Ship Cargo\|below]]_ |
@@ -71,12 +71,12 @@ _When getting onto a ship you will likely learn its **cargo** it carries and the
 | 88 - 90 | Whale oil |
 | 91 - 92 | Wild animals |
 | 93 - 94 | Wine |
-| 95 - 98 | ▶[[SI_CH3_Core_Descriptor Focus#DESCRIPTOR\|Descriptor]] + ▶[[SI_CH3_Core_Descriptor Focus#FOCUS\|Focus]] |
-| 99 - 100 | ▶[[SI_CH3_Treasure Creation\|Treasure]] |
+| 95 - 98 | ▶[[SI_CH3_Core_Descriptor Focus#DESCRIPTOR\|Descriptor]] + ▶[[SI_CH3_Core_Descriptor Focus#FOCUS\|Focus]]; _pg 118-119_ |
+| 99 - 100 | ▶[[SI_CH3_Treasure Creation\|Treasure]]; _pg 220_ |
 ^table-OclShipCargo
 
 ## Oracle: Cursed Ship Cargo
-> [!mechanics]- | Roll > `dice: [[SI_CH3_Ship Boarding#^table-OclCursedShipCargo]]` | Guidance
+> [!mechanics]- | Roll > `dice: [[OT_ISSI_Ships^Cursed-Cargo]]` | Guidance
 > Use this table when surveying a ship’s hold or if coming upon lost or abandoned cargo. Roll a number of times as appropriate to the nature of the find. For example, once for the hold of a typical warship, or up to four times for a fully loaded tradeship. Ships also typically carry basic munitions and provisions for the crew, but this table reveals the details of bulk cargo such as trade goods and plunder. @1–4 ^guidance-OclCursedShipCargo
 
 | dice: 1d100 | Result |
@@ -102,10 +102,10 @@ _When getting onto a ship you will likely learn its **cargo** it carries and the
 *139 SHIP ORACLES*
 
 ## Oracle: Ship Name
-> [!mechanics]- | Roll > [skull] `dice: [[SI_CH3_Ship Boarding#^table-OclShipName]]` | Guidance
+> [!mechanics]- | Roll > [skull] `dice: [[OT_ISSI_Ships^Name]]` | Guidance
 > _Use the Ship Name table for ships that will play a significant role in your story_ ^guidance-OclShipName
 
-| dice: 1d100 | Result \| [skull] _pg 141_ |
+| dice: 1d100 | Result [skull] _[[#Oracle Cursed Ship Name\|pg 141]]_ |
 | :---: | --- |
 | 1 | Aegis |
 | 2 | Akiya |
@@ -208,8 +208,10 @@ _When getting onto a ship you will likely learn its **cargo** it carries and the
 | 99 - 100 | Unbroken Vow |
 ^table-OclShipName
 
+*140 ORACLES*
+
 ## Oracle: Cursed Ship Name
-> [!mechanics]- | Roll > `dice: [[SI_CH3_Ship Boarding#^table-OcCursedlShipName]]` | Guidance
+> [!mechanics]- | Roll > `dice: [[OT_ISSI_Ships^Cursed-Name]]` | Guidance
 > Use the Cursed Ship Name table for ships with a cursed nature, or for warships and pirate ships with an intimidating reputation.
  ^guidance-OcCursedlShipName
 
@@ -316,7 +318,7 @@ _When getting onto a ship you will likely learn its **cargo** it carries and the
 | 99 - 100 | Forsaken Vow |
 ^table-OcCursedlShipName
 
-*140 ORACLES*
+*141 SHIP ORACLES*
 
 ## Tags
 

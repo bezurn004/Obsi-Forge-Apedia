@@ -28,7 +28,7 @@ A ship’s faction can reveal its role, such as warship, tradeship, or whaler. I
 
 _This is the consolidated table from the source material. For rollable results for a certain ship size / fleet, see the sub tables below ordered by size._
 
-| Small | Medium | Large | Colossal | Flotilla | Fleet | Armada | Current Activity |
+| Small | Medium | Large | Colossal | Flotilla | Fleet | Armada | Current Activity [skull] _[[#Oracle Cursed Ship Mission\|below]]_ |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | --- |
 | -- | -- | 1 - 2 | 1 - 4 | 1 - 6 | 1 - 10 | 1 - 12 | Blockade a location |
 | -- | -- | 3 - 4 | 5 - 8 | 7 - 12 | 11 - 20 | 13 - 24 | Break a blockade |
@@ -51,7 +51,7 @@ _This is the consolidated table from the source material. For rollable results f
 | 95 - 100 | 95 - 100 | 95 - 100 | 95 - 100 | 95 - 100 | 95 - 100 | 95 - 100 | Roll twice |
 
 ### Oracle: Ship Mission - Small
-> [!mechanics]- | Roll > [skull] `dice: [[SI_CH3_The Cursed Die#^table-Cursed]]` `dice: [[SI_CH3_Ship Engagement#^table-OclShipMission-Small]]` | Guidance
+> [!mechanics]- | Roll > [skull] `dice: [[SI_CH3_The Cursed Die#^table-Cursed]]` `dice: [[OT_ISSI_Ships^Mission-Small]]` | Guidance
 > A ship’s faction can reveal its role, such as warship, tradeship, or whaler. If the ship is independent, the faction unknown, or if you simply want more detail, use this table. Alternatively, use the [[SI_CH3_Character_Drive#Oracle Character Goals|captain’s goal]] (page 193) to set the ship’s purpose. ^guidance-OclShipMission-Small
 
 | dice: 1d100 | Result [skull] _[[#Oracle Cursed Ship Mission\|below]]_ |
@@ -74,7 +74,7 @@ _This is the consolidated table from the source material. For rollable results f
 ^table-OclShipMission-Small
 
 ### Oracle: Ship Mission - Medium
-> [!mechanics]- | Roll > [skull] `dice: [[SI_CH3_The Cursed Die#^table-Cursed]]` `dice: [[SI_CH3_Ship Engagement#^table-OclShipMission-Medium]]` | Guidance
+> [!mechanics]- | Roll > [skull] `dice: [[SI_CH3_The Cursed Die#^table-Cursed]]` `dice: [[OT_ISSI_Ships^Mission-Medium]]` | Guidance
 > A ship’s faction can reveal its role, such as warship, tradeship, or whaler. If the ship is independent, the faction unknown, or if you simply want more detail, use this table. Alternatively, use the [[SI_CH3_Character_Drive#Oracle Character Goals|captain’s goal]] (page 193) to set the ship’s purpose. ^guidance-OclShipMission-Medium
 
 | dice: 1d100 | Result [skull] _[[#Oracle Cursed Ship Mission\|below]]_ |
@@ -97,7 +97,7 @@ _This is the consolidated table from the source material. For rollable results f
 ^table-OclShipMission-Medium
 
 ### Oracle: Ship Mission - Large
-> [!mechanics]- | Roll > [skull]  `dice: [[SI_CH3_The Cursed Die#^table-Cursed]]` `dice: [[SI_CH3_Ship Engagement#^table-OclShipMission-Medium]]` | Guidance
+> [!mechanics]- | Roll > [skull]  `dice: [[SI_CH3_The Cursed Die#^table-Cursed]]` `dice: [[OT_ISSI_Ships^Mission-Large]]` | Guidance
 > A ship’s faction can reveal its role, such as warship, tradeship, or whaler. If the ship is independent, the faction unknown, or if you simply want more detail, use this table. Alternatively, use the [[SI_CH3_Character_Drive#Oracle Character Goals|captain’s goal]] (page 193) to set the ship’s purpose. ^guidance-OclShipMission-Large
 
 | dice: 1d100 | Result [skull] _[[#Oracle Cursed Ship Mission\|below]]_ |
@@ -124,7 +124,7 @@ _This is the consolidated table from the source material. For rollable results f
 ^table-OclShipMission-Large
 
 ### Oracle: Ship Mission - Colossal
-> [!mechanics]- | Roll > [skull]  `dice: [[SI_CH3_The Cursed Die#^table-Cursed]]` `dice: [[SI_CH3_Ship Engagement#^table-OclShipMission-Medium]]` | Guidance
+> [!mechanics]- | Roll > [skull]  `dice: [[SI_CH3_The Cursed Die#^table-Cursed]]` `dice: [[OT_ISSI_Ships^Mission-Colossal]]` | Guidance
 > A ship’s faction can reveal its role, such as warship, tradeship, or whaler. If the ship is independent, the faction unknown, or if you simply want more detail, use this table. Alternatively, use the [[SI_CH3_Character_Drive#Oracle Character Goals|captain’s goal]] (page 193) to set the ship’s purpose. ^guidance-OclShipMission-Colossal
 
 | dice: 1d100 | Result [skull] _[[#Oracle Cursed Ship Mission\|below]]_ |
@@ -151,7 +151,7 @@ _This is the consolidated table from the source material. For rollable results f
 ^table-OclShipMission-Colossal
 
 ### Oracle: Ship Mission - Flotilla
-> [!mechanics]- | Roll > [skull] `dice: [[SI_CH3_The Cursed Die#^table-Cursed]]` `dice: [[SI_CH3_Ship Engagement#^table-OclShipMission-Medium]]` | Guidance
+> [!mechanics]- | Roll > [skull] `dice: [[SI_CH3_The Cursed Die#^table-Cursed]]` `dice: [[OT_ISSI_Ships^Mission-Flotilla]]` | Guidance
 > A ship’s faction can reveal its role, such as warship, tradeship, or whaler. If the ship is independent, the faction unknown, or if you simply want more detail, use this table. Alternatively, use the [[SI_CH3_Character_Drive#Oracle Character Goals|captain’s goal]] (page 193) to set the ship’s purpose.^guidance-OclShipMission-Flotilla
 
 | dice: 1d100 | Result [skull] _[[#Oracle Cursed Ship Mission\|below]]_ |
@@ -178,7 +178,7 @@ _This is the consolidated table from the source material. For rollable results f
 ^table-OclShipMission-Flotilla
 
 ### Oracle: Ship Mission - Fleet
-> [!mechanics]- | Roll > [skull] `dice: [[SI_CH3_The Cursed Die#^table-Cursed]]` `dice: [[SI_CH3_Ship Engagement#^table-OclShipMission-Medium]]` | Guidance
+> [!mechanics]- | Roll > [skull] `dice: [[SI_CH3_The Cursed Die#^table-Cursed]]` `dice: [[OT_ISSI_Ships^Mission-Fleet]]` | Guidance
 > A ship’s faction can reveal its role, such as warship, tradeship, or whaler. If the ship is independent, the faction unknown, or if you simply want more detail, use this table. Alternatively, use the [[SI_CH3_Character_Drive#Oracle Character Goals|captain’s goal]] (page 193) to set the ship’s purpose.^guidance-OclShipMission-Fleet
 
 | dice: 1d100 | Result [skull] _[[#Oracle Cursed Ship Mission\|below]]_ |
@@ -202,7 +202,7 @@ _This is the consolidated table from the source material. For rollable results f
 ^table-OclShipMission-Fleet
 
 ### Oracle: Ship Mission - Armada
-> [!mechanics]- | Roll > [skull] `dice: [[SI_CH3_The Cursed Die#^table-Cursed]]` `dice: [[SI_CH3_Ship Engagement#^table-OclShipMission-Medium]]` | Guidance
+> [!mechanics]- | Roll > [skull] `dice: [[SI_CH3_The Cursed Die#^table-Cursed]]` `dice: [[OT_ISSI_Ships^Mission-Armada]]` | Guidance
 > A ship’s faction can reveal its role, such as warship, tradeship, or whaler. If the ship is independent, the faction unknown, or if you simply want more detail, use this table. Alternatively, use the [[SI_CH3_Character_Drive#Oracle Character Goals|captain’s goal]] (page 193) to set the ship’s purpose. ^guidance-OclShipMission-Armada
 
 | dice: 1d100 | Result [skull] _[[#Oracle Cursed Ship Mission\|below]]_ |
@@ -225,7 +225,7 @@ _This is the consolidated table from the source material. For rollable results f
 ^table-OclShipMission-Armada
 
 ## Oracle: Cursed Ship Mission
-> [!mechanics]- | Roll > `dice: [[SI_CH3_Ship Engagement#^table-OclCursedShipMission]]` | Guidance
+> [!mechanics]- | Roll > `dice: [[OT_ISSI_Ships^Cursed-Mission]]` | Guidance
 > If you roll a _Ship Mission_ curse, take your result on that table and envision an uncanny or dreadful aspect. For details on how the ship or its mission relates to a cursed power, use the table below. ^guidance-OclCursedShipMission
 
 | dice: 1d100 | Result |
@@ -243,7 +243,7 @@ _This is the consolidated table from the source material. For rollable results f
 *137 SHIP ORACLES*
 
 ## Oracle: Ship Details
-> [!mechanics]- | Roll > [skull] `dice: [[SI_CH3_The Cursed Die#^table-Cursed]]` `dice: [[SI_CH3_Ship Engagement#^table-OclShipDetails]]` | Guidance
+> [!mechanics]- | Roll > [skull] `dice: [[SI_CH3_The Cursed Die#^table-Cursed]]`<br>▶1 `dice: [[OT_ISSI_Ships^Details]]`<br>▶2 `dice: [[OT_ISSI_Ships^Details]]` | Guidance
 > When upon a ship other than your own—visiting, exploring, or boarding—use this table to reveal new details. ^guidance-OclShipDetails
 
 | dice: 1d100 | Result @1-2 [skull] _[[#Oracle Cursed Ship Details\|below]]_ |
@@ -283,13 +283,13 @@ _This is the consolidated table from the source material. For rollable results f
 | 81 - 82 | Venerable ship with a long history |
 | 83 - 84 | Well-stocked armory |
 | 85 - 87 | Without a commander |
-| 88 - 91 | Unexpected ▶[[SI_CH3_Ship Engagement#Ship Mission Oracles\|Ship Mission (SI Oracles)]] |
-| 92 - 95 | ▶[[SI_CH3_Misc_Combat#Oracle Ship Damage\|Ship Damage]] |
-| 96 - 100 | ▶[[SI_CH3_Core_Descriptor Focus#DESCRIPTOR\|Descriptor]] + ▶[[SI_CH3_Core_Descriptor Focus#FOCUS\|Focus]] |
+| 88 - 91 | Unexpected ▶[[SI_CH3_Ship Engagement#Ship Mission Oracles\|Ship Mission]]; _pg 137_ |
+| 92 - 95 | ▶[[SI_CH3_Misc_Combat#Oracle Ship Damage\|Ship Damage]]; _pg 233_ |
+| 96 - 100 | ▶[[SI_CH3_Core_Descriptor Focus#DESCRIPTOR\|Descriptor]] + ▶[[SI_CH3_Core_Descriptor Focus#FOCUS\|Focus]]; _pg 118-119_ |
 ^table-OclShipDetails
 
 ## Oracle: Cursed Ship Details
-> [!mechanics]- | Roll > `dice: [[SI_CH3_Ship Engagement#^table-OclCursedShipDetails]]` | Guidance
+> [!mechanics]- | Roll > `dice: [[OT_ISSI_Ships^Cursed-Details]]` | Guidance
 > Text ^guidance-OclCursedShipDetails
 
 | dice: 1d100 | Result |

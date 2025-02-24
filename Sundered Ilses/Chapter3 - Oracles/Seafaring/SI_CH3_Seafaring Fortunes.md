@@ -22,7 +22,7 @@ OracleDescriptor: "During your Seafaring expeditions when rolling a match you ma
 If you face a cost in your travels, such as when you roll a miss as you [[SI_CH4_Undertake an Expedition#Undertake an Expedition Move Card|Undertake an Expedition]], the _[[#Oracle Seafaring Peril|Seafaring Peril]]_ (pg 128) oracle can help reveal what occurs. If you encounter good fortune, such as when you roll a strong hit with a match, the _[[#Oracle Seafaring Opportunity|Seafaring Opportunity]]_ (page 129) table can inspire the nature of this lucky break. Check those tables instead of—or in addition to—a seafaring waypoint. _[[SI_CH3_Seafaring Waypoints#Oracle Unknown Waters|From page 121]]_
 
 ## Oracle: Seafaring Peril
-> [!mechanics]- | Roll > `dice: [[SI_CH3_Seafaring Fortunes#^table-OclSeafaringPeril]]` | Guidance
+> [!mechanics]- | Roll > `dice: [[OT_ISSI_Seafaring^Peril]]` | Guidance
 > Use this table when you want inspiration for a trouble during ocean exploration or on a seagoing expedition. ^guidance-OclSeafaringPeril
 
 | dice: 1d100 |  Result |
@@ -66,7 +66,7 @@ If you face a cost in your travels, such as when you roll a miss as you [[SI_CH4
 *128 ORACLES*
 
 ## Oracle: Seafaring Opportunity
-> [!mechanics]- | Roll > `dice: [[SI_CH3_Seafaring Fortunes#^table-OclSeafaringOpportunity]]` | Guidance
+> [!mechanics]- | Roll > `dice: [[OT_ISSI_Seafaring^Opportunity]]` | Guidance
 > Use this table when you want inspiration for a beneficial encounter or event on a seagoing journey, such as when you roll a strong hit with a match as you [[SI_CH4_Undertake an Expedition#Undertake an Expedition Move Card|Undertake an Expedition]],  or if you [[SI_CH4_Explore a Waypoint#Explore a Waypoint Move Card|Explore a Waypoint]] and find an opportunity. ^guidance-OclSeafaringOpportunity
 
 | dice: 1d100 |  Result |

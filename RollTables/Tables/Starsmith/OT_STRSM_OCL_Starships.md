@@ -827,3 +827,25 @@
 | 285 - 294 | ▶[[STRSM_OCL_Starship-Creation#Oracle Starship Fleet\|Fleet]] `dice: [[OT_STRSM_OCL_Starships#^Starship-Fleet]]` |
 | 295 - 300 | Ships in conflict: ▶R2 `dice: [[OT_STRSM_OCL_Starships#^Starship-Type]]` + `dice: [[OT_STRSM_OCL_Starships#^Starship-Type]]` |
 ^Starship-Type
+
+## Starship Registry
+
+| dice: 1d6 | Initializer Letters |
+|:---:|:--- |
+| 1 | CCV-`dice: (1d10 * 1000) + (1d10 * 100) + (1d10 * 10) + 1d10`-`dice: [[OT_STRSM_OCL_Starships^Starship-Registry-Model]]` |
+| 2 | RTV-`dice: (1d10 * 1000) + (1d10 * 100) + (1d10 * 10) + 1d10`-`dice: [[OT_STRSM_OCL_Starships^Starship-Registry-Model]]` |
+| 3 | NCC-`dice: (1d10 * 1000) + (1d10 * 100) + (1d10 * 10) + 1d10`-`dice: [[OT_STRSM_OCL_Starships^Starship-Registry-Model]]` |
+| 4 | USS-`dice: (1d10 * 1000) + (1d10 * 100) + (1d10 * 10) + 1d10`-`dice: [[OT_STRSM_OCL_Starships^Starship-Registry-Model]]` |
+| 5 | DFX-`dice: (1d10 * 1000) + (1d10 * 100) + (1d10 * 10) + 1d10`-`dice: [[OT_STRSM_OCL_Starships^Starship-Registry-Model]]` |
+| 6 | ▶[Use Faction Initials]-`dice: (1d10 * 1000) + (1d10 * 100) + (1d10 * 10) + 1d10`-`dice: [[OT_STRSM_OCL_Starships^Starship-Registry-Model]]` |
+^Starship-Registry-Initializer
+
+| dice: 1d6 | Model (1d6) |
+|:---:|:---:|
+| 1 | A |
+| 2 | B |
+| 3 | C |
+| 4 | D |
+| 5 | E |
+| 6 | J |
+^Starship-Registry-Model

@@ -21,10 +21,10 @@ OracleDescriptor: "This table reveals occurrences on a seafaring expedition. Pos
 This table reveals occurrences on a seafaring expedition. Possible results include locations, events, sightings, and encounters.
 
 ## Oracle: Seafaring Details
-> [!mechanics]- | Roll > [skull] `dice: [[SI_CH3_The Cursed Die#^table-Cursed]]` `dice: [[SI_CH3_Seafaring Details#^table-OclSeafaringDetails]]` | Guidance
+> [!mechanics]- | Roll > [skull] `dice: [[SI_CH3_The Cursed Die#^table-Cursed]]` `dice: [[OT_ISSI_Seafaring^Details]]` | Guidance
 > This table reveals occurrences on a seafaring expedition. Possible results include locations, events, sightings, and encounters. ^guidance-OclSeafaringDetails
 
-| dice: 1d100 | Result \| [skull] _[[#Oracle Cursed Seafaring Details\|pg 126]]_ |
+| dice: 1d100 | Result [skull] _[[#Oracle Cursed Seafaring Details\|pg 126]]_ |
 | :---: | --- |
 | 1 | A plume of smoke rises on the horizon |
 | 2 | A floating market bustles with activity |
@@ -133,7 +133,7 @@ This table reveals occurrences on a seafaring expedition. Possible results inclu
 *124 ORACLES*
 
 ## Oracle: Cursed Seafaring Details
-> [!mechanics]- | Roll > `dice: [[SI_CH3_Seafaring Details#^table-OclCursedSeafaringDetails]]` | Guidance
+> [!mechanics]- | Roll > `dice: [[OT_ISSI_Seafaring#^Cursed-Details]]` | Guidance
 > This table reveals occurrences on a seafaring expedition. Possible results include locations, events, sightings, and encounters. ^guidance-OclCursedSeafaringDetails
 
 | dice: 1d100 |  Result |

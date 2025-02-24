@@ -43,6 +43,9 @@ Select from these three options. If you are playing with allies, pick a command 
 ## SHIP HISTORY
 If you have a command, envision how you claimed or earned the vessel. For inspiration, use the table below. If you sail under the command of a non-player character, you can use this table to give their ship a backstory.
 
+> [!oracle]- Roll
+> `dice: [[OT_ISSI_Campaign#^Ship-History]]`
+
 |  | [skull] below |
 |:---:| --- |
 | 1–5 | Acquired in a duel of honor |
@@ -68,6 +71,9 @@ If you have a command, envision how you claimed or earned the vessel. For inspir
 
 > ### [skull] CURSED SHIP
 
+> [!oracle]- Roll
+> `dice: [[OT_ISSI_Campaign#^Cursed-Ship-History]]`
+
 |  |  |
 | :---: | --- |
 | 1–10 | Awarded by its former—and now dead—captain, who still haunts its decks |
@@ -86,7 +92,7 @@ If you have a command, envision how you claimed or earned the vessel. For inspir
 ## SHIP CHARACTERISTICS
 Envision the ship’s look and nature. For inspiration, use any of the prompts below. If a rolled response on a table doesn’t fit, reimagine it, reroll, or ignore it and move on.
 
-- **What size is the ship?** Roll or choose once on the [[SI_CH3_Shp Sighting|Ship Size]] table (page 132). Ignore or reroll the “Force” results.
+- **What size is the ship?** Roll or choose once on the [[SI_CH3_Ship Sighting|Ship Size]] table (page 132). Ignore or reroll the “Force” results.
 - **What aspects of the ship’s look or nature are obvious when first sighted?** Roll or choose once or twice on the [[SI_CH3_Ship Approach|Ship First Look]] table (page 134).
 - **What symbol does it bear on its flag or as a design motif?** Roll or choose once on the [[SI_CH3_Ship Approach|Ship Symbol]] table (page 136).
 - **What are less-obvious or hidden aspects of the ship or its crew?** Roll or choose once or twice on the [[SI_CH3_Ship Engagement|Ship Details]] table (page 138).
@@ -95,6 +101,9 @@ Envision the ship’s look and nature. For inspiration, use any of the prompts b
 
 ## CREW CHARACTERISTICS
 Envision the makeup of the ship’s crew, using the table below for inspiration. Rolling for a result can inspire details for your own background and potential quests—or it may put you at odds with a crew that is contrary to your nature and goals.
+
+> [!oracle]- Roll
+> `dice: [[OT_ISSI_Campaign#^Ship-Crew-Characteristics]]`
 
 |   | [skull] pg 99  |
 |:---:|---|
@@ -122,6 +131,9 @@ For now, focus on the crew as a whole. Later, you can personalize key individual
 
 > ### [skull] CURSED CREW
 > If you roll a curse for Crew Characteristics, take your result on that table and give them an eerie, supernatural, or dreadful aspect. Use the table below for inspiration.
+
+> [!oracle]- Roll
+> `dice: [[OT_ISSI_Campaign#^Cursed-Ship-Crew-Characteristics]]`
 
 |   |   |
 | :---: | --- |

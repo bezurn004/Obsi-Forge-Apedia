@@ -61,6 +61,9 @@ Take a moment to consider how the factions relate to each other. Are they at war
 
 Give each faction a relationship with at least one other faction. If you’re unsure, choose two factions, and use the table below to help frame the relationship of one to another. Reroll or adjust any result that doesn’t fit, or consider how that result might signal an unexpected relationship. If you’d like more options, you can also use the expanded version of this table [[SI_CH3_Faction_Type and Relations#Oracle Faction Relationship|on page 177]].
 
+> [!oracle]- Roll
+> `dice: [[OT_ISSI_Campaign#^Faction-Relationship-Short]]`
+
 |  |  |
 | :---: | --- |
 | 1–10 | Antagonistic or at war with |

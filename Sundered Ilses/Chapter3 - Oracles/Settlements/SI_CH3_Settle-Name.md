@@ -21,14 +21,14 @@ OracleDescriptor: "Generate a settlement **Name** with these oracles."
 Generate a settlement **Name** with these oracles.
 
 ## Oracle: Settlement Name
-> [!mechanics]- | Roll > [skull] `dice: [[SI_CH3_The Cursed Die#^table-Cursed]]` `dice: [[SI_CH3_Settle-Name#^table-OclSettleName]]` | Guidance
+> [!mechanics]- | Roll > [skull] `dice: [[SI_CH3_The Cursed Die#^table-Cursed]]` `dice: [[OT_ISSI_Settlements^Name]]` | Guidance
 > Optionally, create a compound name for a settlement by taking your result and adding a word from this list.
 > For example, Moonstone Bay or Mournhaunt Crossing. _See [[#Settlement Name - Decorator|Settlement Name Decorator]] for a list of values._
-> - **Shore:** `dice: [[SI_CH3_Settle-Name#^Decorator-Shore]]`
-> - **Inland:** `dice: [[SI_CH3_Settle-Name#^Decorator-Inland]]`
-> - **Waterside:** `dice: [[SI_CH3_Settle-Name#^Decorator-Waterside]]`
+> - [[SI_CH3_Settle-Name#^Decorator-Shore\|Shore]]: `dice: [[OT_ISSI_Settlements#^Decorator-Inland]]`
+> - [[SI_CH3_Settle-Name#^Decorator-Inland\|Inland]]: `dice: [[OT_ISSI_Settlements#^Decorator-Shore]]`
+> - [[SI_CH3_Settle-Name#^Decorator-Waterside\|Waterside]]: `dice: [[OT_ISSI_Settlements#^Decorator-Waterside]]`
 
-| dice: 1d100 | Results [skull] _[[#Oracle Cursed Settlement Name\|below]]_|
+| dice: 1d100 | Result [skull] _[[#Oracle Cursed Settlement Name\|below]]_|
 | :---: | --- |
 | 1 | Alerius |
 | 2 | Altura |
@@ -133,7 +133,7 @@ Generate a settlement **Name** with these oracles.
 ^table-OclSettleName
 
 ## Oracle: Cursed Settlement Name
-> [!mechanics]- | Roll > `dice: [[SI_CH3_Settle-Name#^table-OclCursedSettleName]]` | Guidance
+> [!mechanics]- | Roll > `dice: [[OT_ISSI_Settlements^Cursed-Name]]` | Guidance
 > Text ^guidance-OclCursedSettleName
 
 | dice: 1d100 | Result |
@@ -190,13 +190,15 @@ Generate a settlement **Name** with these oracles.
 
 *175 SETTLEMENT ORACLES*
 
-### Settlement Name - Decorator
+## Settlement Name - Decorator
 - **Shore:** Anchorage, Bay, Cape, Cove, Harbor, Lagoon, Landing, Point, Port, Sands
 - **Inland:** Crest, Glen, Haven, Hill, Hollow, Pass, Ridge, Rock, Springs, Wood
 - **Waterside:** Banks, Bridge, Crossing, Falls, Lake, River, Shallows, Shore
 
+### Decorator - Shore
+
 | dice: 1d10 | Result |
-|:---:| --- |
+| :---: | --- |
 | 1 | Anchorage |
 | 2 | Bay |
 | 3 | Cape |
@@ -209,8 +211,10 @@ Generate a settlement **Name** with these oracles.
 | 10 | Sands |
 ^Decorator-Shore
 
+### Decorator - Inland
+
 | dice: 1d10 | Result |
-|:---:| --- |
+| :---: | --- |
 | 1 | Crest |
 | 2 | Glen |
 | 3 | Haven |
@@ -223,8 +227,10 @@ Generate a settlement **Name** with these oracles.
 | 10 | Wood |
 ^Decorator-Inland
 
+### Decorator - Waterside
+
 | dice: 1d8 | Result |
-|:---:| --- |
+| :---: | --- |
 | 1 | Banks |
 | 2 | Bridge |
 | 3 | Crossing |

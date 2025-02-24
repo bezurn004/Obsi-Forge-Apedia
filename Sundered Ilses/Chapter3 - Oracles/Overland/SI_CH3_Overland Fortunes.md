@@ -22,10 +22,10 @@ OracleDescriptor: "Introduce a **peril** or **opportunity** when undertaking an 
 _Introduce a **peril** or **opportunity** when undertaking an expedition or exploring a waypoint._
 
 ## Oracle: Overland Peril
-> [!mechanics]- | Roll > `dice: [[SI_CH3_Overland Fortunes#^table-OclOverlandPeril]]` | Guidance
+> [!mechanics]- | Roll > `dice: [[OT_ISSI_Overland^Peril]]` | Guidance
 > Use this table when you want inspiration for a trouble during island exploration or on an overland expedition. ^guidance-OclOverlandPeril
 
-| dice: 1d100 | Results |
+| dice: 1d100 | Result |
 | :---: | --- |
 | 1 - 3 | Caught in a flood or forced to navigate a perilous waterway |
 | 4 - 6 | Cleverly camouflaged predator |
@@ -64,10 +64,10 @@ _Introduce a **peril** or **opportunity** when undertaking an expedition or expl
 ^table-OclOverlandPeril
 
 ## Oracle: Overland Opportunity
-> [!mechanics]- | Roll > `dice: [[SI_CH3_Overland Fortunes#^table-OclOverlandOpportunity]]` | Guidance
+> [!mechanics]- | Roll > `dice: [[OT_ISSI_Overland^Opportunity]]` | Guidance
 > Use this table when you want inspiration for a beneficial encounter or event on an overland journey, such as when you roll a strong hit with a match as you [[SI_CH4_Undertake an Expedition#Undertake an Expedition Move Card|Undertake an Expedition]], or if you [[SI_CH4_Explore a Waypoint#Explore a Waypoint Move Card|Explore a Waypoint]] and find an opportunity. ^guidance-OclOverlandOpportunity
 
-| dice: 1d100 | Results |
+| dice: 1d100 | Result |
 | :---: | --- |
 | 1 - 4 | Advance warning of an ambush or lurking foe |
 | 5 - 8 | Cache of supplies |

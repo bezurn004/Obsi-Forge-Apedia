@@ -14,12 +14,23 @@ PageOrder: 10
 # [[_Sundered Isles|Sundered Isles]] - [[_SI_CH2_Contents|Campaign]] - [[SI_CH2_Choose Your Truths|Truths]]: Piracy
 What influence do pirates wield?
 
+| dice: 1d100 | Result |
+| :---: | --- |
+| 1 - 33 | [[#^Ruthless-Raiders\|Ruthless Raiders]] |
+| 34 - 66 | [[#^Honorable-Vagabonds\|Honorable Vagabonds]] |
+| 67 - 100 | [[#^Dread-Court\|Dread Court]] |
+^Roll
+
+> [!oracle]- Roll
+> `dice: [[SI_CH2_TR_Piracy#^Roll]]`
+
 ---
 
 |  | Ruthless Raiders |
 |:---:| --- |
 | 1–33 | **Pirates are merciless raiders.** |
 |  | Pirates give no quarter to seagoing targets and raze settlements on a whim. Their loyalty is only to crew and captain, but even that bond is fragile. Ritualized duels to decide the captaincy or settle disputes are common, and a long-lived marauder is a rare thing. If you come upon a gray-haired pirate, be wary; they have outwitted sailors better than you a thousand times over. |
+^Ruthless-Raiders
 
 > Quest Starter: You possess one-third of a coded map said to lead to a fabled pirate treasure. What infamous pirates hold the other pieces? Will you form an uneasy alliance to collect and divide the treasure, or take the other pieces of the map by force?
 
@@ -29,6 +40,7 @@ What influence do pirates wield?
 |:---:| --- |
 | 34–67 | **Pirates are fiercely independent, but bound by a shared code.** |
 |  | A pirate crew is a power unto itself, a diverse band of fugitives, outcasts, and rebels who serve under a ship’s charter and have a say in the operation of the vessel. Pirates do not attack indiscriminately, and give quarter to those who ask for it. They are nevertheless vilified as barbarous murderers by trade guilds, imperial governors, and other powers in the isles. In some ways, this reputation serves them; fear is more powerful than the mightiest cannons or the sharpest swords. |
+^Honorable-Vagabonds
 
 > Quest Starter: A former pirate, given a pardon and a letter of marque, has sent countless pirates to their doom. Who is this turncoat, and why do you plot to see their reign of the seas ended?
 
@@ -38,6 +50,7 @@ What influence do pirates wield?
 |:---:| --- |
 | 68–100 | **A burgeoning pirate nation wields great influence.** |
 |  | The marauder clans sail under the command of the Dread Court, a conclave of eight veteran pirates whose shrewd tactics positioned this nation of cutthroats as a rising power. Once each year, the pirate fleets gather at a port called Flotsam—an artificial island built from the husks of captured and ruined ships—to pay homage to the Court and make plans.  |
+^Dread-Court
 
 > Quest Starter: There are schisms within the Dread Court. An assassination has tipped the latest gathering into chaos and threatens the future of this burgeoning power. Will you work to restore the alliance, or use the mayhem to your own advantage?
 

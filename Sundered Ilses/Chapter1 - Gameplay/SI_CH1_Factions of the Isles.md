@@ -114,6 +114,9 @@ Start simple, and leave plenty of space. You can return to the diagram to add de
 > ### SOCIETIES
 > People who share traditions and a way of life
 
+> [!oracle]- Roll
+> `dice: [[OT_ISSI_Campaign#^Faction-Societies]]`
+
 | 1d100 | Name | Description |
 | :---: | --- | --- |
 | 1–10 | Akiya | Coalition of clans known for their sleek and speedy ships. They gather each year to celebrate the ebb of the storm season, and hang rows of vibrantly colored flags from their rigging to honor the dead. |
@@ -131,6 +134,9 @@ Start simple, and leave plenty of space. You can return to the diagram to add de
 
 > ### ORGANIZATIONS
 > People joined in a collective trade, pursuit, or goal
+
+> [!oracle]- Roll
+> `dice: [[OT_ISSI_Campaign#^Faction-Organizations]]`
 
 | 1d100 | Name | Description |
 | :---: | --- | --- |
@@ -150,6 +156,9 @@ Start simple, and leave plenty of space. You can return to the diagram to add de
 > ### EMPIRES
 > People seeking dominion over the isle
 
+> [!oracle]- Roll
+> `dice: [[OT_ISSI_Campaign#^Faction-Empires]]`
+
 | 1d100 | Name | Description |
 | :---: | --- | --- |
 | 1–10 | Argosy Company | Trade company that commands a fleet of beast-hunting ships and pays bounties on beasts to independent captains. Their unscrupulous merchants deal in trophies and resources gathered from slain creatures. |
@@ -165,6 +174,9 @@ Start simple, and leave plenty of space. You can return to the diagram to add de
 
 > ### THE CURSED
 > People transformed or bound by dreadful curses
+
+> [!oracle]- Roll
+> `dice: [[OT_ISSI_Campaign#^Faction-The-Cursed]]`
 
 | 1d100 | Name | Description |
 | :---: | --- | --- |

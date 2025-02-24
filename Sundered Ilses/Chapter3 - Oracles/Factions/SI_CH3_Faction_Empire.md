@@ -24,7 +24,7 @@ OracleDescriptor: ""
 Text
 
 ## Oracle: Imperial Leadership
-> [!mechanics]- | Roll > `dice: [[SI_CH3_Faction_Empire#^table-OclImperialLeadership]]` | Guidance
+> [!mechanics]- | Roll > `dice: [[OT_ISSI_Factions#^Empire-Leadership]]` | Guidance
 > Text ^guidance-OclImperialLeadership
 
 | dice: 1d100 | Result |
@@ -42,10 +42,10 @@ Text
 ^table-OclImperialLeadership
 
 ## Oracle: Imperial Tactics
-> [!mechanics]- | Roll > `dice: [[SI_CH3_Faction_Empire#^table-OclImperialTactics]]` | Guidance
+> [!mechanics]- | Roll > ▶1 `dice: [[OT_ISSI_Factions#^Empire-Tactics]]`<br>▶2 `dice: [[OT_ISSI_Factions#^Empire-Tactics]]`<br>▶3 `dice: [[OT_ISSI_Factions#^Empire-Tactics]]` | Guidance
 > Empires deploy any number of strategies to expand their power and influence. Use this table to reveal the most visible methods or a current focus for an empire. ^guidance-OclImperialTactics
 
-| dice: 1d100 | Result |
+| dice: 1d100 | Result @2-3 |
 | :---: | --- |
 | 1 - 3 | Assassination |
 | 4 - 6 | Collusion with criminal factions |
@@ -78,10 +78,10 @@ Text
 ^table-OclImperialTactics
 
 ## Oracle: Imperial Vulnerability
-> [!mechanics]- | Roll > `dice: [[SI_CH3_Faction_Empire#^table-OclImperialLeadership]]` | Guidance
+> [!mechanics]- | Roll > ▶1 `dice: [[OT_ISSI_Factions#^Empire-Vulnerability]]`<br>▶2 `dice: [[OT_ISSI_Factions#^Empire-Vulnerability]]` | Guidance
 > Text ^guidance-OclImperialVulnerability
 
-| dice: 1d100 | Result |
+| dice: 1d100 | Result @1-2 |
 | :---: | --- |
 | 1 - 4 | Catastrophic military defeat |
 | 5 - 8 | Coffers are running low |
@@ -112,7 +112,7 @@ Text
 ## Faction Name
 
 ### Oracle: Imperial Identity
-> [!mechanics]- | Roll > `dice: [[SI_CH3_Faction_Empire#^table-OclImperialIdentity]]` | Guidance
+> [!mechanics]- | Roll > `dice: [[OT_ISSI_Factions#^Imperial-Identity]]` | Guidance
 >  _Use this oracle to assist in generating a faction name from the below templates._
 > - ▶[[#Oracle Imperial Identity|Empire Identity]]
 > - ▶[[SI_CH3_Faction Name and Themes#Oracle Faction Name - Culture|Culture]] + ▶[[#Oracle Imperial Identity|Empire Identity]]

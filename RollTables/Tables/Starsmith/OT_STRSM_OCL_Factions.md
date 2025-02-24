@@ -283,7 +283,17 @@
 | 97 - 100 | ▶R2 `dice: [[OT_STRSM_OCL_Factions#^Faction-Military-Specialty]]` + `dice: [[OT_STRSM_OCL_Factions#^Faction-Military-Specialty]]` |
 ^Faction-Military-Specialty
 
-## Faction Name - Affiliation
+## Faction Name Template
+
+| dice: 1d100 | Result |
+| :---: | :--- |
+| 1 - 40 | ▶[[STRSM_OCL_Faction-Names#Oracle Faction Name - Legacy\|L]] ▶[[STRSM_OCL_Faction-Names#Oracle Faction Name - Affiliation\|A]]<br>`dice: [[OT_STRSM_OCL_Factions^Faction-Name-Legacy]]` `dice: [[OT_STRSM_OCL_Factions^Faction-Name-Affiliation]]` |
+| 41 - 55 | ▶[[STRSM_OCL_Faction-Names#Oracle Faction Name - Legacy\|L]] ▶[[STRSM_OCL_Faction-Names#Oracle Faction Name - Identity\|I]]<br>`dice: [[OT_STRSM_OCL_Factions^Faction-Name-Legacy]]` `dice: [[OT_STRSM_OCL_Factions^Faction-Name-Identiy]]` |
+| 56 - 70 | ▶[[STRSM_OCL_Faction-Names#Oracle Faction Name - Identity\|I]] of the ▶[[STRSM_OCL_Faction-Names#Oracle Faction Name - Legacy\|L]] ▶[[STRSM_OCL_Faction-Names#Oracle Faction Name - Affiliation\|A]]<br>`dice: [[OT_STRSM_OCL_Factions^Faction-Name-Identiy]]` of the `dice: [[OT_STRSM_OCL_Factions^Faction-Name-Legacy]]` `dice: [[OT_STRSM_OCL_Factions^Faction-Name-Affiliation]]` |
+| 71 - 100 | ▶[[STRSM_OCL_Faction-Names#Oracle Faction Name - Affiliation\|A]] of the ▶[[STRSM_OCL_Faction-Names#Oracle Faction Name - Legacy\|L]] ▶[[STRSM_OCL_Faction-Names#Oracle Faction Name - Identity\|I]]<br>`dice: [[OT_STRSM_OCL_Factions^Faction-Name-Affiliation]]` of the `dice: [[OT_STRSM_OCL_Factions^Faction-Name-Legacy]]` `dice: [[OT_STRSM_OCL_Factions^Faction-Name-Identiy]]` |
+^Faction-Name-Template
+
+### Faction Name - Affiliation
 
 | dice: 1d300 | Result |
 |:----:|:-------|
@@ -364,7 +374,7 @@
 | 297 - 300 | Weave |
 ^Faction-Name-Affiliation
 
-## Faction Name - Identity
+### Faction Name - Identity
 
 | dice: 1d300 | Result |
 |:----:|:-------|
@@ -520,7 +530,7 @@
 | 299 - 300 | Vipers |
 ^Faction-Name-Identiy
 
-## Faction Name - Legacy
+### Faction Name - Legacy
 
 | dice: 1d300 | Result |
 |:----:|:-------|
