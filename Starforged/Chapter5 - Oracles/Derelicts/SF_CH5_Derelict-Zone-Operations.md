@@ -24,8 +24,8 @@ OracleDescriptor: "_Silent comm stations and disheveled offices._"
 _Silent comm stations and disheveled offices._
 
 ## Oracle: Derelict Zone Operations - Area
-> [!mechanics]- | Roll > `dice: [[SF_CH5_Derelict-Zone-Operations#^table-OclDerelictZone-Operations-Area]]` | Guidance
-> ![[GSRY_Definitions#^gsry-OclSite-Area]] ^guidance-OclSite-Area
+> [!mechanics]- | Roll > `dice: [[OT_ISSF_Derelicts#^Zone-Operations-Area]]` | Guidance
+> ![[GSRY_Definitions#^gsry-OclSite-Area]] ^guidance-Area
 
 | dice: 1d100 | Result |
 | :---: | :--- |
@@ -41,11 +41,11 @@ _Silent comm stations and disheveled offices._
 | 73 - 80 | Security |
 | 81 - 85 | New zone |
 | 86 - 100 | New zone via ⏵[[SF_CH5_Derelict-Zone-Access\|Access]] |
-^table-OclDerelictZone-Operations-Area
+^table-Area
 
 ## Oracle: Derelict Zone Operations - Feature
-> [!mechanics]- | Roll > `dice: [[SF_CH5_Derelict-Zone-Operations#^table-OclDerelictZone-Operations-Feature]]` | Guidance
-> ![[GSRY_Definitions#^gsry-OclSite-Feature]] ^guidance-OclSite-Feature
+> [!mechanics]- | Roll > `dice: [[OT_ISSF_Derelicts#^Zone-Operations-Feature]]` | Guidance
+> ![[GSRY_Definitions#^gsry-OclSite-Feature]] ^guidance-Feature
 
 | dice: 1d100 | Result |
 | :---: | :--- |
@@ -61,11 +61,11 @@ _Silent comm stations and disheveled offices._
 | 73 - 80 | Video surveillance monitors |
 | 81 - 88 | Written logs |
 | 89 - 100 | ⏵[[SF_CH5_Core_Descriptor-Focus#Oracle Descriptor\|Descriptor]] + [[SF_CH5_Core_Descriptor-Focus#Oracle Focus\|Focus]] |
-^table-OclDerelictZone-Operations-Feature
+^table-Feature
 
 ## Oracle: Derelict Zone Operations - Peril
-> [!mechanics]- | Roll > `dice: [[SF_CH5_Derelict-Zone-Operations#^table-OclDerelictZone-Operations-Peril]]` | Guidance
-> ![[GSRY_Definitions#^gsry-OclSite-Peril]] ^guidance-OclSite-Peril
+> [!mechanics]- | Roll > `dice: [[OT_ISSF_Derelicts#^Zone-Operations-Peril]]` | Guidance
+> ![[GSRY_Definitions#^gsry-OclSite-Peril]] ^guidance-Peril
 
 | dice: 1d100 | Result |
 | :---: | :--- |
@@ -80,11 +80,11 @@ _Silent comm stations and disheveled offices._
 | 81 - 90 | Sensors indicate the arrival of an external threat |
 | 91 - 98 | ⏵[[SF_CH5_Core_Action-Theme#Oracle Action\|Action]] + [[SF_CH5_Core_Action-Theme#Oracle Theme\|Theme]] |
 | 99 - 100 | Roll twice |
-^table-OclDerelictZone-Operations-Peril
+^table-Peril
 
 ## Oracle: Derelict Zone Operations - Opportunity
-> [!mechanics]- | Roll > `dice: [[SF_CH5_Derelict-Zone-Operations#^table-OclDerelictZone-Operations-Opportunity]]` | Guidance
-> ![[GSRY_Definitions#^gsry-OclSite-Opportunity]] ^guidance-OclSite-Opportunity
+> [!mechanics]- | Roll > `dice: [[OT_ISSF_Derelicts#^Zone-Operations-Opportunity]]` | Guidance
+> ![[GSRY_Definitions#^gsry-OclSite-Opportunity]] ^guidance-Opportunity
 
 | dice: 1d100 | Result |
 | :---: | :--- |
@@ -93,7 +93,7 @@ _Silent comm stations and disheveled offices._
 | 41 - 60 | Keycard or access code |
 | 61 - 80 | Log offers insight into this site's downfall |
 | 81 - 100 | Secure area offers a moment of peace |
-^table-OclDerelictZone-Operations-Opportunity
+^table-Opportunity
 
 *357 DERELICTS*
 

@@ -24,49 +24,49 @@ When you would like to know the weather for a certain scene, use these Oracles t
 
 ## Oracle: Weather Conditions and Time
 > [!mechanics]- | Guidance
-> If you’d like to establish the time of day for an encounter or scene, roll a single oracle die. If even, it’s daytime; if odd, it’s night. Higher numbers are later in that period. ^guidance-OclWeatherConditionsAndTime
+> If you’d like to establish the time of day for an encounter or scene, roll a single oracle die. If even, it’s daytime; if odd, it’s night. Higher numbers are later in that period. ^guidance-Conditions-and-Time
 
 | Myriads<br>_Central Seas_ | Margins<br>_Outer Seas_ | Reaches<br>_Remote Seas_ | Result |
 | :---: | :---: | :---: | --- |
 | 1 - 70 | 1 - 60 | 1 - 50 | Fair Weather |
 | 71 - 100 | 61 - 100 | 51 - 100 | ▶[[#Oracle Foul Weather\|Foul Weather]] |
-^table-OclWeatherConditions
+^table-Conditions
 
 ### Oracle: Weather Conditions - Myriads
 
 > [!mechanics]- | Roll > `dice: [[SI_CH3_The Cursed Die#^table-Cursed]]` `dice: [[OT_ISSI_Weather^Conditions-Myriads]]`<br>Time: `dice: [[OT_ISSI_Weather#^Time-Of-Day]]` | Guidance
-> If you’d like to establish the time of day for an encounter or scene, roll a single oracle die. If even, it’s daytime; if odd, it’s night. Higher numbers are later in that period. ^guidance-OclWeatherConditionsAndTime-Myriads
+> If you’d like to establish the time of day for an encounter or scene, roll a single oracle die. If even, it’s daytime; if odd, it’s night. Higher numbers are later in that period. ^guidance-Conditions-and-Time-Myriads
 
 | dice: 1d100 | Result |
-|:---:| --- |
+| :---: | --- |
 | 1 - 70 | Fair Weather |
 | 71 - 100 | ▶[[#Oracle Foul Weather\|Foul Weather]] |
-^table-OclWeatherConditions-Myriads
+^table-Conditions-Myriads
 
 ### Oracle: Weather Conditions - Margins
 > [!mechanics]- | Roll > `dice: [[SI_CH3_The Cursed Die#^table-Cursed]]` `dice: [[OT_ISSI_Weather^Conditions-Margins]]`<br>Time: `dice: [[OT_ISSI_Weather#^Time-Of-Day]]` | Guidance
-> If you’d like to establish the time of day for an encounter or scene, roll a single oracle die. If even, it’s daytime; if odd, it’s night. Higher numbers are later in that period. ^guidance-OclWeatherConditionsAndTime-Margins
+> If you’d like to establish the time of day for an encounter or scene, roll a single oracle die. If even, it’s daytime; if odd, it’s night. Higher numbers are later in that period. ^guidance-Conditions-and-Time-Margins
 
 | dice: 1d100 | Result |
-|:---:| --- |
+| :---: | --- |
 | 1 - 60 | Fair Weather |
 | 61 - 100 | ▶[[#Oracle Foul Weather\|Foul Weather]] |
-^table-OclWeatherConditions-Margins
+^table-Conditions-Margins
 
 ### Oracle: Weather Conditions - Reaches
 > [!mechanics]- | Roll > [skull] `dice: [[SI_CH3_The Cursed Die#^table-Cursed]]` `dice: [[OT_ISSI_Weather^Conditions-Reaches]]`<br>Time: `dice: [[OT_ISSI_Weather#^Time-Of-Day]]` | Guidance
-> If you’d like to establish the time of day for an encounter or scene, roll a single oracle die. If even, it’s daytime; if odd, it’s night. Higher numbers are later in that period. ^guidance-OclWeatherConditionsAndTime-Reaches
+> If you’d like to establish the time of day for an encounter or scene, roll a single oracle die. If even, it’s daytime; if odd, it’s night. Higher numbers are later in that period. ^guidance-Conditions-and-Time-Reaches
 
 | dice: 1d100 | Result |
-|:---:| --- |
+| :---: | --- |
 | 1 - 60 | Fair Weather |
 | 61 - 100 | ▶[[#Oracle Foul Weather\|Fould Weather]] |
-^table-OclWeatherConditions-Reaches
+^table-Conditions-Reaches
 
 ### Oracle: Time of Day
 
 | dice: 1d10 | Time of Day |
-|:---:| --- |
+| :---: | --- |
 | 1 | Twilight Dusk |
 | 2 | Shimmering Dawn |
 | 3 | Nightfall Still |
@@ -77,11 +77,11 @@ When you would like to know the weather for a certain scene, use these Oracles t
 | 8 | Afternoon Warmth |
 | 9 | Pre-Dawn Gloom |
 | 10 | Evening Blaze |
-^table-OclTimeOfDay
+^table-Time-of-Day
 
 ## Oracle: Foul Weather
 > [!mechanics]- | Roll > [skull] `dice: [[SI_CH3_The Cursed Die#^table-Cursed]]` `dice: [[OT_ISSI_Weather^Foul-Weather]]`<br>Time: `dice: [[OT_ISSI_Weather#^Time-Of-Day]]`<br>Duration: `dice: [[OT_ISSI_Weather#^Duration]]` | Guidance
-> To learn the duration of foul or cursed weather, roll a single oracle die. 1–2 is fleeting (hour or less). 3–9 is persistent (several hours). 0/10 is relentless (more than a day). ^guidance-OclFoulWeather
+> To learn the duration of foul or cursed weather, roll a single oracle die. 1–2 is fleeting (hour or less). 3–9 is persistent (several hours). 0/10 is relentless (more than a day). ^guidance-Foul-Weather
 
 | dice: 1d100 | Result [skull] pg 131 |
 | :---: | --- |
@@ -92,12 +92,12 @@ When you would like to know the weather for a certain scene, use these Oracles t
 | 56 – 75 | Heavy - High winds, steady rain, and rough waters |
 | 76 – 90 | Stormy - Powerful winds, pelting rain, and high seas |
 | 91 – 100 | Raging - Destructive winds, torrential rain, and monstrous waves |
-^table-OclFoulWeather
+^table-Foul-Weather
 
 ### Oracle: Foul Weather Duration
 
 | dice: 1d10 | Result |
-|:---:| --- |
+| :---: | --- |
 | 0 | Relentless - More than a day |
 | 1 | Fleeting - An hour or less |
 | 2 | Fleeting - An hour or less |
@@ -109,11 +109,11 @@ When you would like to know the weather for a certain scene, use these Oracles t
 | 8 | Persistent - Several hours |
 | 9 | Persistent - Several hours |
 | 10 | Relentless - More than a day |
-^table-OclFoulWeather-Duration
+^table-Foul-Weather-Duration
 
 ## Oracle: Cursed Weather
 > [!mechanics]- | Roll > `dice: [[OT_ISSI_Weather#^Cursed-Weather]]`<br>Time: `dice: [[OT_ISSI_Weather#^Time-Of-Day]]`<br>Duration: `dice: [[OT_ISSI_Weather#^Duration]]` | Guidance
-> To learn the duration of foul or cursed weather, roll a single oracle die. 1–2 is fleeting (hour or less). 3–9 is persistent (several hours). 0/10 is relentless (more than a day). ^guidance-OclCursedWeather
+> To learn the duration of foul or cursed weather, roll a single oracle die. 1–2 is fleeting (hour or less). 3–9 is persistent (several hours). 0/10 is relentless (more than a day). ^guidance-Cursed-Weather
 
 | dice: 1d100 | Result |
 | :---: | --- |
@@ -137,7 +137,7 @@ When you would like to know the weather for a certain scene, use these Oracles t
 | 86 - 90 | **Tempest**<br>Undying storm that prowls the isles in search of prey |
 | 91 - 95 | **Wailing wind**<br>Wind that carries the mournful keen of the lost and the drowned |
 | 96 - 100 | **Witch fire**<Br>Low clouds suffused with tendrils of chaotic, arcane energy |
-^table-OclCursedWeather
+^table-Cursed-Weather
 
 *130 ORACLES*
 

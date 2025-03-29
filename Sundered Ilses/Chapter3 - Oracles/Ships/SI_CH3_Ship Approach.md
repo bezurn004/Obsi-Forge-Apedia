@@ -26,7 +26,7 @@ Once you are close enough to observe notable features of the ship, check these t
 
 ## Oracle: Ship First Look
 > [!mechanics]- | Roll > [skull] `dice: [[SI_CH3_The Cursed Die#^table-Cursed]]`<br>▶1 `dice: [[OT_ISSI_Ships^First-Look]]`<br>▶2 `dice: [[OT_ISSI_Ships^First-Look]]` | Guidance
-> Once you are close enough to observe notable features of the ship, check this table. ^guidance-OclShipFirstLook
+> Once you are close enough to observe notable features of the ship, check this table. ^guidance-First-Look
 
 | dice: 1d100 | Result @1-2 [skull] _[[#Oracle Cursed Ship First Look\|pg 135]]_ |
 | :---: | --- |
@@ -70,13 +70,13 @@ Once you are close enough to observe notable features of the ship, check these t
 | 91 - 93 | Twin-hulled (catamaran) |
 | 94 - 95 | Undergunned or unarmed | 
 | 96 - 100 | ▶[[SI_CH3_Core_Descriptor Focus#DESCRIPTOR\|Descriptor]] + ▶[[SI_CH3_Core_Descriptor Focus#FOCUS\|Focus]]; _pg 118-119_ |
-^table-OclShipFirstLook
+^table-First-Look
 
 *134 ORACLES*
 
 ## Oracle: Cursed Ship First Look
 > [!mechanics]- | Roll > `dice: [[OT_ISSI_Ships^Cursed-First-Look]]` | Guidance
-> Once you are close enough to observe notable features of the ship, check this table. ^guidance-OclCursedShipFirstLook
+> Once you are close enough to observe notable features of the ship, check this table. ^guidance-Cursed-First-Look
 
 | dice: 1d100 | Result |
 | :---: | --- |
@@ -120,57 +120,57 @@ Once you are close enough to observe notable features of the ship, check these t
 | 92 - 94 | Unnatural speed |
 | 95 - 96 | Wreathed in misty cold |
 | 97 - 100 | Shadowed by ▶[[SI_CH3_Weather Oracles\|Cursed Weather]] |
-^table-OclCursedShipFirstLook
+^table-Cursed-First-Look
 
 *135 SHIP ORACLES*
 
 ## Oracle: Ship Controlling Faction
 > [!mechanics]-  | Guidance
-> If the first impressions of a ship don’t reveal its identity, check the table below. If a known faction commands the ship, roll or choose on your [[SI_CH1_Factions of the Isles#FACTION INFLUENCE GRID|faction influence grid]] (page 50). If it is independent or aligned with an Unknown faction, use other tables such as _[[SI_CH3_Ship Approach|Ship Symbol]]_ and _[[SI_CH3_Ship Engagement|Ship Mission]]_ to help envision its nature, allegiances, and purpose. ^guidance-OclShipControllingFaction
+> If the first impressions of a ship don’t reveal its identity, check the table below. If a known faction commands the ship, roll or choose on your [[SI_CH1_Factions of the Isles#FACTION INFLUENCE GRID|faction influence grid]] (page 50). If it is independent or aligned with an Unknown faction, use other tables such as _[[SI_CH3_Ship Approach|Ship Symbol]]_ and _[[SI_CH3_Ship Engagement|Ship Mission]]_ to help envision its nature, allegiances, and purpose. ^guidance-Controlling-Faction-All
 
 | Myriads<br>_Central Seas_ | Margins<br>_Outer Seas_ | Reaches<br>_Remote Seas_ | Result |
 | :---: | :---: | :---: | --- |
 | 1 - 60 | 1 - 45 | 1 - 25 | Known faction |
 | 61 - 75 | 46 - 70 | 26 - 60 | Unknown faction |
 | 76 - 100 | 71 - 100 | 61 - 100 | Independent |
-^table-OclShipControllingFaction
+^table-Controlling-Faction-All
 
 ### Oracle: Ship Controlling Faction - Myriads
 > [!mechanics]- | Roll > `dice: [[OT_ISSI_Ships^Controlling-Faction-Myriads]]` | Guidance
-> If the first impressions of a ship don’t reveal its identity, check the table below. If a known faction commands the ship, roll or choose on your [[SI_CH1_Factions of the Isles#FACTION INFLUENCE GRID|faction influence grid]] (page 50). If it is independent or aligned with an Unknown faction, use other tables such as _[[SI_CH3_Ship Approach|Ship Symbol]]_ and _[[SI_CH3_Ship Engagement|Ship Mission]]_ to help envision its nature, allegiances, and purpose. ^guidance-OclShipControllingFaction-Myriads
+> If the first impressions of a ship don’t reveal its identity, check the table below. If a known faction commands the ship, roll or choose on your [[SI_CH1_Factions of the Isles#FACTION INFLUENCE GRID|faction influence grid]] (page 50). If it is independent or aligned with an Unknown faction, use other tables such as _[[SI_CH3_Ship Approach|Ship Symbol]]_ and _[[SI_CH3_Ship Engagement|Ship Mission]]_ to help envision its nature, allegiances, and purpose. ^guidance-Controlling-Faction-Myriads
 
 | dice: 1d100 | Result |
 |:---:| --- |
 | 1 - 60 | Known faction |
 | 61 - 75 | Unknown faction |
 | 76 - 100 | Independent |
-^table-OclShipControllingFaction-Myriads
+^table-Controlling-Faction-Myriads
 
 ### Oracle: Ship Controlling Faction - Margins
 > [!mechanics]- | Roll > `dice: [[OT_ISSI_Ships^Controlling-Faction-Margins]]` | Guidance
-> If the first impressions of a ship don’t reveal its identity, check the table below. If a known faction commands the ship, roll or choose on your [[SI_CH1_Factions of the Isles#FACTION INFLUENCE GRID|faction influence grid]] (page 50). If it is independent or aligned with an Unknown faction, use other tables such as _[[SI_CH3_Ship Approach|Ship Symbol]]_ and _[[SI_CH3_Ship Engagement|Ship Mission]]_ to help envision its nature, allegiances, and purpose. ^guidance-OclShipControllingFaction-Margins
+> If the first impressions of a ship don’t reveal its identity, check the table below. If a known faction commands the ship, roll or choose on your [[SI_CH1_Factions of the Isles#FACTION INFLUENCE GRID|faction influence grid]] (page 50). If it is independent or aligned with an Unknown faction, use other tables such as _[[SI_CH3_Ship Approach|Ship Symbol]]_ and _[[SI_CH3_Ship Engagement|Ship Mission]]_ to help envision its nature, allegiances, and purpose. ^guidance-Controlling-Faction-Margins
 
 | dice: 1d100 | Result |
 |:---:| --- |
 | 1 - 45 | Known faction |
 | 46 - 70 | Unknown faction |
 | 71 - 100 | Independent |
-^table-OclShipControllingFaction-Margins
+^table-Controlling-Faction-Margins
 
 ### Oracle: Ship Controlling Faction - Reaches
 > [!mechanics]- | Roll > `dice: [[OT_ISSI_Ships^Controlling-Faction-Reaches]]` | Guidance
-> If the first impressions of a ship don’t reveal its identity, check the table below. If a known faction commands the ship, roll or choose on your [[SI_CH1_Factions of the Isles#FACTION INFLUENCE GRID|faction influence grid]] (page 50). If it is independent or aligned with an Unknown faction, use other tables such as _[[SI_CH3_Ship Approach|Ship Symbol]]_ and _[[SI_CH3_Ship Engagement|Ship Mission]]_ to help envision its nature, allegiances, and purpose. ^guidance-OclShipControllingFaction-Reaches
+> If the first impressions of a ship don’t reveal its identity, check the table below. If a known faction commands the ship, roll or choose on your [[SI_CH1_Factions of the Isles#FACTION INFLUENCE GRID|faction influence grid]] (page 50). If it is independent or aligned with an Unknown faction, use other tables such as _[[SI_CH3_Ship Approach|Ship Symbol]]_ and _[[SI_CH3_Ship Engagement|Ship Mission]]_ to help envision its nature, allegiances, and purpose. ^guidance-Controlling-Faction-Reaches
 
 | dice: 1d100 | Result |
 |:---:| --- |
 | 1 - 25 | Known faction |
 | 26 - 60 | Unknown faction |
 | 61 - 100 | Independent |
-^table-OclShipControllingFaction-Reaches
+^table-Controlling-Faction-Reaches
 
 ## Oracle: Ship Symbol
 > [!mechanics]- | Roll > [skull] `dice: [[OT_ISSI_Ships^Symbol]]` `dice: [[OT_ISSI_Ships^Symbol]]` | Guidance
-> Use this table to reveal the design of a ship’s figurehead, flag, or other motifs. This may help inspire the character of the vessel—especially if it is independent or part of an unknown faction. ^guidance-ShipSymbol
+> Use this table to reveal the design of a ship’s figurehead, flag, or other motifs. This may help inspire the character of the vessel—especially if it is independent or part of an unknown faction. ^guidance-Symbol
 
 | Roll | Result \| [skull] _[[#Oracle Cursed Ship Symbol\|Below]]_ |
 | :---: | --- |
@@ -222,11 +222,11 @@ Once you are close enough to observe notable features of the ship, check these t
 | 91 - 92 | Winged horse |
 | 93 - 94 | Wolf |
 | 95 - 100 | Roll twice |
-^table-ShipSymbol
+^table-Symbol
 
 ## Oracle: Cursed Ship Symbol
 > [!mechanics]- | Roll > `dice: [[OT_ISSI_Ships^Cursed-Symbol]]]` | Guidance
-> Use this table to reveal the design of a ship’s figurehead, flag, or other motifs. This may help inspire the character of the vessel—especially if it is independent or part of an unknown faction. ^guidance-CursedShipSymbol
+> Use this table to reveal the design of a ship’s figurehead, flag, or other motifs. This may help inspire the character of the vessel—especially if it is independent or part of an unknown faction. ^guidance-Cursed-Symbol
 
 | dice: 1d100 | Result |
 | :---: | --- |
@@ -242,7 +242,7 @@ Once you are close enough to observe notable features of the ship, check these t
 | 81 - 85 | Monstrous eye |
 | 86 - 95 | Monstrous skull or jaws |
 | 96 - 100 | Spider |
-^table-CursedShipSymbol
+^table-Cursed-Symbol
 
 *136 ORACLES*
 

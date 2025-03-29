@@ -1,9 +1,7 @@
-# Moves
-
 # Confront Chaos
 
 | dice: 1d300 | Result |
-|:----:|:-------|
+| :---: | --- |
 | 1 - 4 | Baneful weapon of mass destruction |
 | 5 - 9 | Cataclysmic environmental effects |
 | 10 - 12 | Dead given unnatural life |
@@ -78,7 +76,7 @@
 # Make a Discovery
 
 | dice: 1d300 | Result |
-|:----:|:-------|
+| :---: | --- |
 | 1 - 4 | Advanced technology waiting to be harnessed or salvaged |
 | 5 - 8 | Ancient archive or message |
 | 9 - 10 | Artificial consciousness evolved to a higher state |
@@ -153,7 +151,7 @@
 # Pay the Price
 
 | dice: 1d300 | Result |
-|:----:|:-------|
+| :---: | --- |
 | 1 - 2 | A trusted individual or community acts against you |
 | 3 - 4 | An individual or community you care about is exposed to danger |
 | 5 - 7 | You encounter signs of a looming threat |

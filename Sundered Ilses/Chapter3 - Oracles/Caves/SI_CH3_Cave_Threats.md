@@ -23,7 +23,7 @@ Text
 
 ## Oracle: Cave Lurking Threat
 > [!mechanics]- | Roll > [skull] `dice: [[SI_CH3_The Cursed Die#^table-Cursed]]` `dice: [[OT_ISSI_Caves#^Cursed-Lurking-Threat]]` | Guidance
-> Text ^guidance-OclCaveLurkingThreat
+> Text ^guidance-Lurking-Threat
 
 | Roll | Threat [skull] _[[#Oracle Cave Cursed Lurking Threat\|below]]_ | When the clock advances... | When the clock is filled... |
 | :---: | --- | --- | --- |
@@ -36,10 +36,11 @@ Text
 | 71 - 80 | Rival explorers | Echoing sounds; signs they passed this way | Your rivals make their move! |
 | 81 - 90 | Stalking predator | Glimpses of the creature; remains of previous kills | The predator attacks! |
 | 91 - 100 | Unstable caves | Tremors; minor rockfalls | The cave collapses! |
+^table-Lurking-Threat
 
 ## Oracle: Cave Cursed Lurking Threat
 > [!mechanics]- | Roll > `dice: [[OT_ISSI_Caves#^Cursed-Lurking-Threat]]` | Guidance
-> Text ^guidance-OclCaveCursedLurkingThreat
+> Text ^guidance-Cursed-Lurking-Threat
 
 | Roll | Threat | When the clock advances... | When the clock is filled... |
 | :---: | --- | --- | --- |
@@ -48,6 +49,7 @@ Text
 | 51 - 70 | Mighty beast | Territorial markings; signs or sounds of a beast on the hunt | The beast attacks! |
 | 71 - 85 | Monstrous infestation | Skitters or splashes; foul nests | A vile swarm appears! |
 | 86 - 100 | Restless dead | Phantom whispers; glimpses of spectral forms | The wrathful dead manifest! |
+^table-Cursed-Lurking-Threat
 
 *207 CAVE ORACLES*
 

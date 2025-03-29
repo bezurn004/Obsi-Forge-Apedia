@@ -23,7 +23,7 @@ Text
 
 ## Oracle: Ruin Peril
 > [!mechanics]- | Roll > `dice: [[OT_ISSI_Ruins#^Peril]]` | Guidance
-> Text ^guidance-OclRuinPeril
+> Text ^guidance-Peril
 
 | dice: 1d100 | Result |
 | :---: | --- |
@@ -61,11 +61,11 @@ Text
 | 91 - 94 | Writing or symbols defy understanding |
 | 95 - 97 | ▶[[SI_CH3_Core_Action Theme#ACTION\|Action]] + ▶[[SI_CH3_Core_Action Theme#THEME\|Theme]]; _pg 116-117_ |
 | 98 - 100 | Roll twice |
-^table-OclRuinPeril
+^table-Peril
 
 ## Oracle: Ruin Opportunity
 > [!mechanics]- | Roll > `dice: [[OT_ISSI_Ruins#^Opportunity]]` | Guidance
-> Text ^guidance-OclRuinOpportunity
+> Text ^guidance-Opportunity
 
 | dice: 1d100 | Result |
 | :---: | --- |
@@ -89,7 +89,7 @@ Text
 | 86 - 90 | Useful gear left by another explorer |
 | 91 - 95 | Useful or interesting artifact or device |
 | 96 - 100 | ▶[[SI_CH3_Treasure Creation\|Treasure]]; _pg 220_ |
-^table-OclRuinOpportunity
+^table-Opportunity
 
 *219 RUIN ORACLES*
 

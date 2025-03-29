@@ -23,11 +23,11 @@ OracleDescriptor: "_Reality is corrupted or warped in this place._"
 _Reality is corrupted or warped in this place._
 
 ## Oracle: Location Theme - Chaotic Feature
-> [!mechanics]- | Roll > `dice: [[SF_CH5_LocationTheme-Chaotic#^table-OclLocationThemeChaoticFeature]]` | Guidance
-> ![[GSRY_Definitions#^gsry-OclSite-Feature]] ^guidance-OclSite-Feature
+> [!mechanics]- | Roll > `dice: [[OT_ISSF_Location-Themes#^Chaotic-Feature]]` | Guidance
+> ![[GSRY_Definitions#^gsry-OclSite-Feature]] ^guidance-Feature
 
 | dice: 1d100 | Result |
-| :---: | :--- |
+| :---: | --- |
 | 1 - 8 | Alterations in the flow of time |
 | 9 - 16 | Chaotic portal, focus, or conduit |
 | 17 - 24 | Corrupted or warped architecture or terrain |
@@ -40,15 +40,15 @@ _Reality is corrupted or warped in this place._
 | 73 - 80 | Lifeforms mutated or altered by chaos |
 | 81 - 88 | Lifeforms spawned from chaos |
 | 89 - 96 | Visions of your past or future |
-| 97 - 100 | ▶[[SF_CH5_Core_Descriptor-Focus#Oracle Descriptor\|Descriptor]] + [[SF_CH5_Core_Descriptor-Focus#Oracle Focus\|Focus]] |
-^table-OclLocationThemeChaoticFeature
+| 97 - 100 | ▶[[SF_CH5_Core_Descriptor-Focus#Oracle Descriptor\|Descriptor]] + ▶[[SF_CH5_Core_Descriptor-Focus#Oracle Focus\|Focus]] |
+^table-Chaotic-Feature
 
 ## Oracle: Location Theme - Chaotic Peril
-> [!mechanics]- | Roll > `dice: [[SF_CH5_LocationTheme-Chaotic#^table-OclLocationThemeChaoticPeril]]` | Guidance
-> ![[GSRY_Definitions#^gsry-OclSite-Peril]] ^guidance-OclSite-Peril
+> [!mechanics]- | Roll > `dice: [[OT_ISSF_Location-Themes#^Chaotic-Peril]]` | Guidance
+> ![[GSRY_Definitions#^gsry-OclSite-Peril]] ^guidance-Peril
 
 | dice: 1d100 | Result |
-| :---: | :--- |
+| :---: | --- |
 | 1 - 9 | Chaos makes its mark upon you |
 | 10 - 18 | Chaos spreads or intensifies |
 | 19 - 27 | Chaos tempts or lures you |
@@ -59,22 +59,22 @@ _Reality is corrupted or warped in this place._
 | 64 - 72 | Foes harness or wield chaos |
 | 73 - 81 | Hazardous environmental changes |
 | 82 - 90 | Lifeforms made hostile by chaos |
-| 91 - 98 | ▶[[SF_CH5_Core_Action-Theme#Oracle Action\|Action]] + [[SF_CH5_Core_Action-Theme#Oracle Theme\|Theme]] |
+| 91 - 98 | ▶[[SF_CH5_Core_Action-Theme#Oracle Action\|Action]] + ▶[[SF_CH5_Core_Action-Theme#Oracle Theme\|Theme]] |
 | 99 - 100 | Roll twice |
-^table-OclLocationThemeChaoticPeril
+^table-Chaotic-Peril
 
 ## Oracle: Location Theme - Chaotic Opportunity
-> [!mechanics]- | Roll > `dice: [[SF_CH5_LocationTheme-Chaotic#^table-OclLocationThemeChaoticOpportunity]]` | Guidance
-> ![[GSRY_Definitions#^gsry-OclSite-Opportunity]] ^guidance-OclSite-Opportunity
+> [!mechanics]- | Roll > `dice: [[OT_ISSF_Location-Themes#^Chaotic-Opportunity]]` | Guidance
+> ![[GSRY_Definitions#^gsry-OclSite-Opportunity]] ^guidance-Opportunity
 
 | dice: 1d100 | Result |
-| :---: | :--- |
+| :---: | --- |
 | 1 - 20 | Chaos ebbs or withdraws for a time |
 | 21 - 40 | Chaos empowers you with strange but useful abilities |
 | 41 - 60 | Chaos manifests as comforting or inspiring visions |
 | 61 - 80 | Chaotic changes hamper your foes |
 | 81 - 100 | Insight into the source or nature of the chaos |
-^table-OclLocationThemeChaoticOpportunity
+^table-Chaotic-Opportunity
 
 *372 CHAPTER 5: ORACLES*
 

@@ -1,9 +1,7 @@
-# Core
-
-## Action
+# Action
 
 | dice: 1d300 | Result |
-|:----:|:-------|
+| :---: | --- |
 | 1 | Abandon |
 | 2 | Acquire |
 | 3 | Advance |
@@ -304,12 +302,12 @@
 | 298 | Trim |
 | 299 | Vow |
 | 300 | Wield |
-^Core-Action
+^Action
 
-## Descriptor
+# Descriptor
 
 | dice: 1d300 | Result |
-|:----:|:-------|
+| :---: | --- |
 | 1 | Abandoned |
 | 2 | Abundant |
 | 3 | Active |
@@ -610,12 +608,12 @@
 | 298 | Wealthy |
 | 299 | Wild |
 | 300 | Worn |
-^Core-Descriptor
+^Descriptor
 
-## Focus
+# Focus
 
 | dice: 1d300 | Result |
-|:----:|:-------|
+| :---: | --- |
 | 1 | Alarm |
 | 2 | Anomaly |
 | 3 | Apparition |
@@ -916,12 +914,12 @@
 | 298 | Xenobot |
 | 299 | Zero-Gravity |
 | 300 | Zone |
-^Core-Focus
+^Focus
 
-## Theme
+# Theme
 
 | dice: 1d300 | Result |
-|:----:|:-------|
+| :---: | --- |
 | 1 | Ability |
 | 2 | Advantage |
 | 3 | Alliance |
@@ -1222,4 +1220,4 @@
 | 298 | Vision |
 | 299 | Windfall |
 | 300 | Wrath |
-^Core-Theme
+^Theme

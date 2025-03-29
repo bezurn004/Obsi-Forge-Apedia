@@ -24,22 +24,22 @@ Text
 
 ## Oracle: Prompts
 > [!mechanics]- | Roll > `dice: [[OT_ISSI_Misc#^Story-Prompt]]` | Guidance
-> Use this table to choose a structured prompt from among the _[[_SI_CH3_Core Oracles|Core Oracles]]_ (pages 116–119). Roll on each of the referenced tables and interpret the response as appropriate to the question and situation. ^guidance-OclPrompts
+> Use this table to choose a structured prompt from among the _[[_SI_CH3_Core Oracles|Core Oracles]]_ (pages 116–119). Roll on each of the referenced tables and interpret the response as appropriate to the question and situation. ^guidance-Prompts
 
 | dice: 1d100 | Result |
-|:---:| --- |
+| :---: | --- |
 | 1 - 20 | ▶[[SI_CH3_Core_Action Theme#ACTION\|Action]] + ▶[[SI_CH3_Core_Action Theme#THEME\|Theme]]; _pg 116, 117_ |
 | 21 - 40 | ▶[[SI_CH3_Core_Action Theme#ACTION\|Action]] + ▶[[SI_CH3_Core_Descriptor Focus#FOCUS\|Focus]]; _pg 116, 119_ |
-| 41 - 60 | ▶[[SI_CH3_Core_Descriptor Focus#DESCRIPTOR\|Descriptor]] + [[SI_CH3_Core_Action Theme#THEME\|Theme]]; _pg 118, 117_ |
+| 41 - 60 | ▶[[SI_CH3_Core_Descriptor Focus#DESCRIPTOR\|Descriptor]] + ▶[[SI_CH3_Core_Action Theme#THEME\|Theme]]; _pg 118, 117_ |
 | 61 - 80 | ▶[[SI_CH3_Core_Descriptor Focus#DESCRIPTOR\|Descriptor]] + ▶[[SI_CH3_Core_Descriptor Focus#FOCUS\|Focus]]; _pg 118, 119_ |
 | 81 - 100 | ▶[[SI_CH3_Core_Action Theme#ACTION\|Action]] + ▶[[SI_CH3_Core_Descriptor Focus#DESCRIPTOR\|Descriptor]] + ▶[[SI_CH3_Core_Descriptor Focus#FOCUS\|Focus]]; _pg 116, 118, 119_ |
-^table-OclPrompts
+^table-Prompts
 
 *226 ORACLES*
 
 ## Oracle: Story Complication
 > [!mechanics]- | Roll > `dice: [[OT_ISSI_Misc#^Story-Complication]]` | Guidance
-> This oracle will introduce narrative turns, troubles, and revelations. It can be used as an alternative to the [[SF_CH3_Pay the Price|Pay the Price (move)]] table when you encounter a negative outcome at a crucial moment. In particular, you might use this table after rolling matched 10s on the challenge dice. ^guidance-OclStoryComplication
+> This oracle will introduce narrative turns, troubles, and revelations. It can be used as an alternative to the [[SF_CH3_Pay the Price|Pay the Price (move)]] table when you encounter a negative outcome at a crucial moment. In particular, you might use this table after rolling matched 10s on the challenge dice. ^guidance-Story-Complication
 
 | dice: 1d100 | Result |
 | :---: | --- |
@@ -72,13 +72,13 @@ Text
 | 89 - 92 | You are tracked or followed |
 | 93 - 95 | You were diverted from the true crisis |
 | 96 - 100 | Roll twice |
-^table-OclStoryComplication
+^table-Story-Complication
 
 *230 ORACLES*
 
 ## Oracle: Story Clue
 > [!mechanics]- | Roll > `dice: [[OT_ISSI_Misc#^Story-Clue]]` | Guidance
-> When you [[SI_CH4_Gather Information#Gather Information Move Card|Gather Information]] to investigate a mystery, you might uncover clues in the form of messages, records, rumors, eyewitness reports, or physical evidence. You can use this oracle to help reveal what this evidence connects to or implicates. Then, use the outcome of the [[SI_CH4_Gather Information#Gather Information Move Card|Gather Information]] roll—strong hit, weak hit, or miss—to guide whether the clue brings clarity or complications. ^guidance-OclStoryClue
+> When you [[SI_CH4_Gather Information#Gather Information Move Card|Gather Information]] to investigate a mystery, you might uncover clues in the form of messages, records, rumors, eyewitness reports, or physical evidence. You can use this oracle to help reveal what this evidence connects to or implicates. Then, use the outcome of the [[SI_CH4_Gather Information#Gather Information Move Card|Gather Information]] roll—strong hit, weak hit, or miss—to guide whether the clue brings clarity or complications. ^guidance-Story-Clue
 
 | dice: 1d100 | Result |
 | :---: | --- |
@@ -113,7 +113,7 @@ Text
 | 85 - 87 | Suggests a looming event or deadline |
 | 88 - 90 | Suggests an imposter or forgery |
 | 91 - 100 | ▶[[SI_CH3_Core_Descriptor Focus#DESCRIPTOR\|Descriptor]] + ▶[[SI_CH3_Core_Descriptor Focus#FOCUS\|Focus]]; _pg 118-119_ |
-^table-OclStoryClue
+^table-Story-Clue
 
 *231 MISCELLANEOUS ORACLES*
 

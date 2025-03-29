@@ -26,7 +26,7 @@ ReferencedMoves:
   - [[SF_CH3_Resupply]]
 ---
 # [[_Starforged|Starforged]] - [[_SF_CH3_Gameplay In Depth|Moves]] - [[_SF_CH3_Suffer Moves|Suffer]]: Sacrifice Resources
-## Sacrafice Resources: Move Card
+## Sacrifice Resources: Move Card
 >[!abstract]  Trigger and Preparation
 >**When you lose or consume resources...** ^trigger
 

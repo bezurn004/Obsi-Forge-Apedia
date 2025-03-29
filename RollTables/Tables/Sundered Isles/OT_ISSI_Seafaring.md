@@ -6,7 +6,7 @@
 ### Known Waters - Myriads
 
 | dice: 1d100 | Result |
-|:---:| --- |
+| :---: | --- |
 | 1 - 25 | Sails, ho! ▶[[SI_CH3_Ship Sighting#Oracle Ship Size\|Ship]]; _pg 132_ |
 | 25 - 35 |  ▶[[OT_ISSI_Weather#^Conditions-Myriads\|Changing weather]] `dice: [[OT_ISSI_Weather#^Conditions-Myriads]]` |
 | 36 - 55 | Instance (choose one)<br>▶[[OT_ISSI_Seafaring#^Details\|Seafaring Details]] `dice: [[OT_ISSI_Seafaring#^Details]]`<br>▶[[OT_ISSI_Core#^Descriptor\|D]] `dice: [[OT_ISSI_Core^Descriptor]]` + ▶[[OT_ISSI_Core#^Focus\|F]] `dice: [[OT_ISSI_Core^Focus]]` |
@@ -14,12 +14,12 @@
 | 66 - 70 | Relic of the past ▶[[SI_CH3_Ruin_Creation#Oracle Ruin Location\|Ruin]]; _pg 212_ |
 | 71 - 85 | Character focus ▶[[OT_ISSI_Misc#^Interlude-Scene\|Interlude Scene]]<br>`dice: [[OT_ISSI_Misc#^Interlude-Scene]]` |
 | 86 - 100 | ▶R2 `dice: [[OT_ISSI_Seafaring#^Waypoints-KnownWaters-Myriads]]` + `dice: [[OT_ISSI_Seafaring#^Waypoints-KnownWaters-Myriads]]` |
-^Waypoints-KnownWaters-Myriads
+^Waypoints-Known-Waters-Myriads
 
 ### Known Waters - Margins
 
 | dice: 1d100 | Result |
-|:---:| --- |
+| :---: | --- |
 | 1 - 15 | Sails, ho! ▶[[SI_CH3_Ship Sighting#Oracle Ship Size\|Ship]]; _pg 132_ |
 | 16 - 30 | ▶[[OT_ISSI_Weather#^Conditions-Margins\|Changing weather]] `dice: [[OT_ISSI_Weather#^Conditions-Margins]]` |
 | 31 - 50 | Instance (choose one)<br>▶[[OT_ISSI_Seafaring#^Details\|Seafaring Details]] `dice: [[OT_ISSI_Seafaring#^Details]]`<br>▶[[OT_ISSI_Core#^Descriptor\|D]] `dice: [[OT_ISSI_Core^Descriptor]]` + ▶[[OT_ISSI_Core#^Focus\|F]] `dice: [[OT_ISSI_Core^Focus]]` |
@@ -27,12 +27,12 @@
 | 61 - 70 | Relic of the past ▶[[SI_CH3_Ruin_Creation#Oracle Ruin Location\|Ruin]]; _pg 212_ |
 | 71 - 85 | Character focus ▶[[OT_ISSI_Misc#^Interlude-Scene\|Interlude Scene]]<br>`dice: [[OT_ISSI_Misc#^Interlude-Scene]]` |
 | 86 - 100 | ▶R2 `dice: [[OT_ISSI_Seafaring#^Waypoints-KnownWaters-Margins]]` + `dice: [[OT_ISSI_Seafaring#^Waypoints-KnownWaters-Margins]]` |
-^Waypoints-KnownWaters-Margins
+^Waypoints-Known-Waters-Margins
 
 ### Known Waters - Reaches
 
 | dice: 1d100 | Result |
-|:---:| --- |
+| :---: | --- |
 | 1 - 5 | Sails, ho! ▶[[SI_CH3_Ship Sighting#Oracle Ship Size\|Ship]]; _pg 132_ |
 | 6 - 25 | ▶[[OT_ISSI_Weather#^Conditions-Reaches\|Changing weather]] `dice: [[OT_ISSI_Weather#^Conditions-Reaches]]` |
 | 26 - 45 | Instance (choose one)<br>▶[[OT_ISSI_Seafaring#^Details\|Seafaring Details]] `dice: [[OT_ISSI_Seafaring#^Details]]`<br>▶[[OT_ISSI_Core#^Descriptor\|D]] `dice: [[OT_ISSI_Core^Descriptor]]` + ▶[[OT_ISSI_Core#^Focus\|F]] `dice: [[OT_ISSI_Core^Focus]]` |
@@ -40,14 +40,14 @@
 | 56 - 70 | Relic of the past ▶[[SI_CH3_Ruin_Creation#Oracle Ruin Location\|Ruin]]; _pg 212_ |
 | 71 - 85 | Character focus ▶[[OT_ISSI_Misc#^Interlude-Scene\|Interlude Scene]]<br>`dice: [[OT_ISSI_Misc#^Interlude-Scene]]` |
 | 86 - 100 | ▶R2 `dice: [[OT_ISSI_Seafaring#^Waypoints-KnownWaters-Reaches]]` + `dice: [[OT_ISSI_Seafaring#^Waypoints-KnownWaters-Reaches]]` |
-^Waypoints-KnownWaters-Reaches
+^Waypoints-Known-Waters-Reaches
 
 ## Waypoint - Unknown Waters
 
 ### Unknown Waters - Myriads
 
 | dice: 1d100 | Result |
-|:---:| --- |
+| :---: | --- |
 | 1 - 20 | Land, ho! ▶[[SI_CH3_Island_Landscape\|Island]]; _pg 142_ |
 | 21 - 35 | Sails, ho! ▶[[SI_CH3_Ship Sighting#Oracle Ship Size\|Ship]]; _pg 132_ |
 | 36 - 45 | ▶[[OT_ISSI_Weather#^Conditions-Myriads\|Changing weather]] `dice: [[OT_ISSI_Weather#^Conditions-Myriads]]` |
@@ -56,12 +56,12 @@
 | 71 - 75 | Relic of the past ▶[[SI_CH3_Ruin_Creation#Oracle Ruin Location\|Ruin]]; _pg 212_ |
 | 76 - 90 | Character focus ▶[[OT_ISSI_Misc#^Interlude-Scene\|Interlude Scene]]<br>`dice: [[OT_ISSI_Misc#^Interlude-Scene]]` |
 | 91 - 100 | ▶R2 `dice: [[OT_ISSI_Seafaring^waypoints-UnknownWaters-Myriads]]` + `dice: [[OT_ISSI_Seafaring^waypoints-UnknownWaters-Myriads]]` |
-^Waypoints-UnknownWaters-Myriads
+^Waypoints-Unknown-Waters-Myriads
 
 ### Unknown Waters - Margins
 
 | dice: 1d100 | Result |
-|:---:| --- |
+| :---: | --- |
 | 1 - 15 | Land, ho! ▶[[SI_CH3_Island_Landscape\|Island]]; _pg 142_ |
 | 16 - 25 | Sails, ho! ▶[[SI_CH3_Ship Sighting#Oracle Ship Size\|Ship]]; _pg 132_ |
 | 26 - 40 | ▶[[OT_ISSI_Weather#^Conditions-Margins\|Changing weather]] `dice: [[OT_ISSI_Weather#^Conditions-Margins]]` |
@@ -70,12 +70,12 @@
 | 66 - 75 | Relic of the past ▶[[SI_CH3_Ruin_Creation#Oracle Ruin Location\|Ruin]]; _pg 212_ |
 | 76 - 90 | Character focus ▶[[OT_ISSI_Misc#^Interlude-Scene\|Interlude Scene]]<br>`dice: [[OT_ISSI_Misc#^Interlude-Scene]]` |
 | 91 - 100 | ▶R2 `dice: [[OT_ISSI_Seafaring^waypoints-UnknownWaters-Margins]]` + `dice: [[OT_ISSI_Seafaring^waypoints-UnknownWaters-Margins]]` |
-^Waypoints-UnknownWaters-Margins
+^Waypoints-Unknown-Waters-Margins
 
 ### Unknown Waters - Reaches
 
 | dice: 1d100 | Result |
-|:---:| --- |
+| :---: | --- |
 | 1 - 10 | Land, ho! ▶[[SI_CH3_Island_Landscape\|Island]]; _pg 142_ |
 | 11 - 15 | Sails, ho! ▶[[SI_CH3_Ship Sighting#Oracle Ship Size\|Ship]]; _pg 132_ |
 | 16 - 35 | ▶[[OT_ISSI_Weather#^Conditions-Reaches\|Changing weather]] `dice: [[OT_ISSI_Weather#^Conditions-Reaches]]` |
@@ -84,7 +84,7 @@
 | 61 - 75 | ▶[[SI_CH3_Ruin_Creation#Oracle Ruin Location\|Ruin "Relic of the past"]] `dice: [[SI_CH3_Ruin_Creation^table-OclRuinLocation]]` |
 | 76 - 90 | ▶[[SI_CH3_Misc_Travel#Oracle Interlude Scene\|Character focus]] `dice: [[SI_CH3_Misc_Travel^table-OclInterludeScene]]` |
 | 91 - 100 | ▶R1 `dice: [[OT_ISSI_Seafaring^Waypoints-UnknownWaters-Reaches]]`<br>▶R2 `dice: [[OT_ISSI_Seafaring^Waypoints-UnknownWaters-Reaches]]` |
-^Waypoints-UnknownWaters-Reaches
+^Waypoints-Unknown-Waters-Reaches
 
 # Details
 

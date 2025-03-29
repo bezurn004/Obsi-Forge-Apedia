@@ -26,7 +26,7 @@ Text
 
 ## Oracle: Treasure Aspects
 > [!mechanics]- | Roll > [skull] `dice: [[SI_CH3_The Cursed Die#^table-Cursed]]`<br>▶1 `dice: [[OT_ISSI_Treasure^Aspect]]`<br>▶2 `dice: [[OT_ISSI_Treasure^Aspect]]` | Guidance
-> Use this table to reveal characteristics of a treasure or its surroundings. Since the results often involve twists and complications, it is best reserved for notable finds and dramatic situations. Also, keep in mind that an aspect might be outside your character’s immediate viewpoint—if so, make note of it as a future trouble or opportunity. ^guidance-OclTreasureAspects
+> Use this table to reveal characteristics of a treasure or its surroundings. Since the results often involve twists and complications, it is best reserved for notable finds and dramatic situations. Also, keep in mind that an aspect might be outside your character’s immediate viewpoint—if so, make note of it as a future trouble or opportunity. ^guidance-Aspects
 
 | dice: 1d100 | Result @1-2 [skull] _[[SI_CH3_Treasure Details#Oracle Cursed Treasure Aspects\|below]]_ |
 | :---: | --- |
@@ -46,11 +46,11 @@ Text
 | 85 - 88 | Put out-of-reach by a barrier or obstacle |
 | 89 - 96 | Secured by a complex lock |
 | 97 - 100 | Shows signs of pilfering or tampering |
-^table-OclTreasureAspects
+^table-Aspects
 
 ## Oracle: Cursed Treasure Aspects
 > [!mechanics]- | Roll > `dice: [[OT_ISSI_Treasure^Cursed-Aspect]]` | Guidance
-> Text ^guidance-OclCursedTreasureAspects
+> Text ^guidance-Cursed-Aspects
 
 | dice: 1d100 | Result |
 | :---: | --- |
@@ -74,13 +74,13 @@ Text
 | 85 - 92 | Radiates a foul aura |
 | 93 - 96 | Sought after by a dreadful foe |
 | 97 - 100 | Summons a powerful being or creature |
-^table-OclCursedTreasureAspects
+^table-Cursed-Aspects
 
 *222 ORACLES*
 
 ## Oracle: Precious Items
 > [!mechanics]- | Roll > `dice: [[OT_ISSI_Treasure^Precious-Items]]` | Guidance
-> Roll or select a number of items on this table as set by the treasure’s _Value_ ([page 221]). Each result represents a quantity of that item, such as a strongbox filled with pearls, barrels of aged rum, or a stack of precious metal ingots. To instead reveal a specific item of intrinsic or personal worth, check the _Tokens_ table (below). ^guidance-OclPreciousItems
+> Roll or select a number of items on this table as set by the treasure’s _Value_ ([page 221]). Each result represents a quantity of that item, such as a strongbox filled with pearls, barrels of aged rum, or a stack of precious metal ingots. To instead reveal a specific item of intrinsic or personal worth, check the _Tokens_ table (below). ^guidance-Precious-Items
 
 | dice: 1d100 | Result |
 | :---: | --- |
@@ -108,13 +108,13 @@ Text
 | 81 - 84 | Unworked gemstones |
 | 85 - 88 | ▶[[SI_CH3_Core_Descriptor Focus#DESCRIPTOR\|Descriptor]] + ▶[[SI_CH3_Core_Descriptor Focus#FOCUS\|Focus]]; _pg 118-119_ |
 | 89 - 100 | ▶[[SI_CH3_Treasure Details#Oracle Tokens\|Token]]; _below_ |
-^table-OclPreciousItems
+^table-Precious-Items
 
 *223 TREASURE ORACLES*
 
 ## Oracle: Tokens
 > [!mechanics]- | Roll > [skull] `dice: [[SI_CH3_The Cursed Die#^table-Cursed]]` `dice: [[OT_ISSI_Treasure^Tokens]]` | Guidance
-> A token is an item of personal significance—such as a memento, heirloom, or individual treasure. Use this table when prompted by another table, or to add detail to a character. A token might have intrinsic value, but is often a thing of worth only to its owner. Not all treasures are silver and gold. ^guidance-OclTokens
+> A token is an item of personal significance—such as a memento, heirloom, or individual treasure. Use this table when prompted by another table, or to add detail to a character. A token might have intrinsic value, but is often a thing of worth only to its owner. Not all treasures are silver and gold. ^guidance-Tokens
 
 | dice: 1d100 | Result [skull] _[[SI_CH3_Treasure Details#Oracle Cursed Tokens\|pg 225]]_ |
 | :---: | --- |
@@ -218,13 +218,13 @@ Text
 | 98 | Wax seal ring with a royal crest |
 | 99 | Weathered nameplate of a long-lost ship |
 | 100 | Well-stocked surgeon's bag |
-^table-OclTokens
+^table-Tokens
 
 *224 ORACLES*
 
 ## Oracle: Cursed Tokens
 > [!mechanics]- | Roll > `dice: [[OT_ISSI_Treasure^Cursed-Tokens]]` | Guidance
-> Text ^guidance-OclCursedTokens
+> Text ^guidance-Cursed-Tokens
 
 | dice: 1d100 | Result |
 | :---: | --- |
@@ -265,7 +265,7 @@ Text
 | 92 - 94 | Tarnished ship's bell that calls to the spirits of drowned mariners |
 | 95 - 97 | Tattered map that reveals its secrets under moonlight |
 | 98 - 100 | Whalebone staff that resonates with dormant power |
-^table-OclCursedTokens
+^table-Cursed-Tokens
 
 ## Tags
 

@@ -1,9 +1,7 @@
-# Creatures
-
-## Creature Encountered Behavior
+# Encountered Behavior
 
 | dice: 1d300 | Result |
-|:----:|:-------|
+| :---: | --- |
 | 1 - 5 | Ambusher |
 | 6 - 10 | Apex predator |
 | 11 - 14 | Builder |
@@ -24,7 +22,7 @@
 | 81 - 85 | Scavenger |
 | 86 - 90 | Tracker |
 | 91 - 95 | Trapper |
-| 96 - 100 | ▶R2 `dice: [[OT_STRSM_OCL_Creatures^Creature-Encountered-Behavior]]` + `dice: [[OT_STRSM_OCL_Creatures^Creature-Encountered-Behavior]]` |
+| 96 - 100 | ▶R2 `dice: [[OT_STRSM_OCL_Creatures#^Encountered-Behavior]]` + `dice: [[OT_STRSM_OCL_Creatures#^Encountered-Behavior]]` |
 | 101 - 105 | Alarm giver |
 | 106 - 110 | Bobber / weaver |
 | 111 - 114 | Cannibalizer |
@@ -45,7 +43,7 @@
 | 181 - 185 | Shelter seeker |
 | 186 - 190 | Stalker |
 | 191 - 195 | Stone chewer |
-| 196 - 200 | ▶R2 `dice: [[OT_STRSM_OCL_Creatures^Creature-Encountered-Behavior]]` + `dice: [[OT_STRSM_OCL_Creatures^Creature-Encountered-Behavior]]` |
+| 196 - 200 | ▶R2 `dice: [[OT_STRSM_OCL_Creatures#Encountered-Behavior]]` + `dice: [[OT_STRSM_OCL_Creatures#^Encountered-Behavior]]` |
 | 201 - 205 | Blood sucker |
 | 206 - 210 | Burrower |
 | 211 - 214 | Caregiver for weak |
@@ -66,13 +64,13 @@
 | 281 - 285 | Sleeper |
 | 286 - 290 | Stereotypy (repeated purposeless behavior) |
 | 291 - 295 | Tool user |
-| 296 - 300 | ▶R2 `dice: [[OT_STRSM_OCL_Creatures^Creature-Encountered-Behavior]]` + `dice: [[OT_STRSM_OCL_Creatures^Creature-Encountered-Behavior]]` |
-^Creature-Encountered-Behavior
+| 296 - 300 | ▶R2 `dice: [[OT_STRSM_OCL_Creatures#^Encountered-Behavior]]` + `dice: [[OT_STRSM_OCL_Creatures#^Encountered-Behavior]]` |
+^Encountered-Behavior
 
-## Creature First Look
+# First Look
 
 | dice: 1d300 | Result |
-|:----:|:-------|
+| :---: | --- |
 | 1 - 2 | Antennae or sensory organs |
 | 3 - 4 | Armored |
 | 5 - 6 | Beautiful |
@@ -223,12 +221,12 @@
 | 295 - 296 | Visible parasites  |
 | 297 - 298 | Whiskers  |
 | 299 - 300 | Young or adolescent  |
-^Creature-First-Look
+^First-Look
 
-## Creature Revealed Aspect
+# Revealed Aspect
 
 | dice: 1d300 | Result |
-|:----:|:-------|
+| :---: | --- |
 | 1 - 2 | Alternative environment |
 | 3 - 4 | Alternative movement |
 | 5 - 6 | Alternative senses |
@@ -379,12 +377,12 @@
 | 295 - 296 | Uncanny luck |
 | 297 - 298 | Vulnerability to damage |
 | 299 - 300 | Web spinner |
-^Creature-Revealed-Aspect
+^Revealed-Aspect
 
-## Creature Form - Air
+# Form - Air
 
 | dice: 1d100 | Result |
-|:----:|:-------|
+| :---: | --- |
 | 1 - 2 | Amoeba / pseudopods |
 | 3 - 12 | Amorphous / elemental |
 | 13 - 37 | Avian / winged |
@@ -402,13 +400,13 @@
 | 85 - 86 | Spider / web-weaver |
 | 87 - 88 | Starfish / symmetrical |
 | 89 - 90 | Worm / slug / larva |
-| 91 - 100 | ▶R2 `dice: [[OT_STRSM_OCL_Creatures#^Creature-Form-Air]]` + `dice: [[OT_STRSM_OCL_Creatures#^Creature-Form-Air]]` |
-^Creature-Form-Air
+| 91 - 100 | ▶R2 `dice: [[OT_STRSM_OCL_Creatures#^Form-Air]]` + `dice: [[OT_STRSM_OCL_Creatures#^Form-Air]]` |
+^Form-Air
 
-## Creature Form - Interior
+# Form - Interior
 
 | dice: 1d100 | Result |
-|:----:|:-------|
+| :---: | --- |
 | 1 - 3 | Amoeba / pseudopods |
 | 4 - 6 | Amorphous / elemental |
 | 7 - 12 | Avian / winged |
@@ -426,13 +424,13 @@
 | 69 - 83 | Spider / web-weaver |
 | 84 - 85 | Starfish / symmetrical |
 | 86 - 90 | Worm / slug / larva |
-| 91 - 100 | ▶R2 `dice: [[OT_STRSM_OCL_Creatures#^Creature-Form-Interior]]` + `dice: [[OT_STRSM_OCL_Creatures#^Creature-Form-Interior]]` |
-^Creature-Form-Interior
+| 91 - 100 | ▶R2 `dice: [[OT_STRSM_OCL_Creatures#^Form-Interior]]` + `dice: [[OT_STRSM_OCL_Creatures#^Form-Interior]]` |
+^Form-Interior
 
-## Creature Form - Land
+# Form - Land
 
 | dice: 1d100 | Result |
-|:----:|:-------|
+| :---: | --- |
 | 1 - 2 | Amoeba / pseudopods |
 | 3 - 5 | Amorphous / elemental |
 | 6 - 10 | Avian / winged |
@@ -450,13 +448,13 @@
 | 75 - 81 | Spider / web-weaver |
 | 82 - 83 | Starfish / symmetrical |
 | 84 - 90 | Worm / slug / larva |
-| 91 - 100 | ▶R2 `dice: [[OT_STRSM_OCL_Creatures#^Creature-Form-Land]]` + `dice: [[OT_STRSM_OCL_Creatures#^Creature-Form-Land]]` |
-^Creature-Form-Land
+| 91 - 100 | ▶R2 `dice: [[OT_STRSM_OCL_Creatures#^Form-Land]]` + `dice: [[OT_STRSM_OCL_Creatures#^Form-Land]]` |
+^Form-Land
 
-## Creature Form - Liquid
+# Form - Liquid
 
 | dice: 1d100 | Result |
-|:----:|:-------|
+| :---: | --- |
 | 1 - 5 | Amoeba / pseudopods |
 | 6 - 8 | Amorphous / elemental |
 | 9 - 11 | Avian / winged |
@@ -474,13 +472,13 @@
 | 81 - 82 | Spider / web-weaver |
 | 83 - 87 | Starfish / symmetrical |
 | 88 - 90 | Worm / slug / larva |
-| 91 - 100 | ▶R2 `dice: [[OT_STRSM_OCL_Creatures#^Creature-Form-Liquid]]` + `dice: [[OT_STRSM_OCL_Creatures#^Creature-Form-Liquid]]` |
-^Creature-Form-Liquid
+| 91 - 100 | ▶R2 `dice: [[OT_STRSM_OCL_Creatures#^Form-Liquid]]` + `dice: [[OT_STRSM_OCL_Creatures#^Form-Liquid]]` |
+^Form-Liquid
 
-## Creature Form - Space
+# Form - Space
 
 | dice: 1d100 | Result |
-|:----:|:-------|
+| :---: | --- |
 | 1 - 5 | Amoeba / pseudopods |
 | 6 - 20 | Amorphous / elemental |
 | 21 - 30 | Avian / winged |
@@ -498,8 +496,8 @@
 | 85 - 86 | Spider / web-weaver |
 | 87 - 88 | Starfish / symmetrical |
 | 89 - 90 | Worm / slug / larva |
-| 91 - 100 | ▶R2 `dice: [[OT_STRSM_OCL_Creatures#^Creature-Form-Space]]` + `dice: [[OT_STRSM_OCL_Creatures#^Creature-Form-Space]]` |
-^Creature-Form-Space
+| 91 - 100 | ▶R2 `dice: [[OT_STRSM_OCL_Creatures#^Form-Space]]` + `dice: [[OT_STRSM_OCL_Creatures#^Form-Space]]` |
+^Form-Space
 
 
 

@@ -25,7 +25,7 @@ Text
 
 ## Oracle: Character Details
 > [!mechanics]- | Roll > [skull] `dice: [[SI_CH3_The Cursed Die#^table-Cursed]]`<br>▶1 `dice: [[OT_ISSI_Characters#^Details]]`<br>▶2 `dice: [[OT_ISSI_Characters#^Details]]` | Guidance
-> As you interact with a person to gain a deeper understanding of their nature and personality, roll on this table to reveal new characteristics. Feel free to ignore, reroll, or adjust contradictions. Or envision how those contradictions add interesting complexity to the character. ^guidance-OclCharacterDetails
+> As you interact with a person to gain a deeper understanding of their nature and personality, roll on this table to reveal new characteristics. Feel free to ignore, reroll, or adjust contradictions. Or envision how those contradictions add interesting complexity to the character. ^guidance-Details
 
 | dice: 1d100 | Result @1-2 [skull] _[[#Oracle Cursed Character Details\|below]]_ |
 | :---: | --- |
@@ -129,11 +129,11 @@ Text
 | 98 | Weary |
 | 99 | Wild |
 | 100 | Wise |
-^table-OclCharacterDetails
+^table-Details
 
 ## Oracle: Cursed Character Details
 > [!mechanics]- | Roll > `dice: [[OT_ISSI_Characters#^Cursed-Details]]` | Guidance
-> Text ^guidance-OclCursedCharacterDetails
+> Text ^guidance-Cursed-Character-Details
 
 | dice: 1d100 | Result |
 | :---: | --- |
@@ -153,13 +153,13 @@ Text
 | 81 - 90 | Tormented |
 | 91 - 95 | Undying |
 | 96 - 100 | Vampiric |
-^table-OclCursedCharacterDetails
+^table-Cursed-Character-Details
 
 *192 ORACLES*
 
 ## Oracle: Character Goals
 > [!mechanics]- | Roll > [skull] `dice: [[SI_CH3_The Cursed Die#^table-Cursed]]`<br>▶1 `dice: [[OT_ISSI_Characters#^Goals]]`<br>▶2 `dice: [[OT_ISSI_Characters#^Goals]]` | Guidance
-> Text ^guidance-OclCharacterGoals
+> Text ^guidance-Goals
 
 | dice: 1d100 | Result @1-2 [skull] _[[#Oracle Cursed Character Goals\|below]]_ |
 | :---: | --- |
@@ -211,11 +211,11 @@ Text
 | 91 - 92 | Travel to a location |
 | 93 - 94 | Uphold or enforce laws |
 | 95 - 100 | ▶[[SI_CH3_Core_Action Theme#ACTION\|Action]] + ▶[[SI_CH3_Core_Action Theme#THEME\|Theme]] |
-^table-OclCharacterGoals
+^table-Goals
 
 ## Oracle: Cursed Character Goals
 > [!mechanics]- | Roll > `dice: [[OT_ISSI_Characters#^Cursed-Goals]]` | Guidance
-> Text ^guidance-OclCursedCharacterGoals
+> Text ^guidance-Cursed-Character-Goals
 
 | dice: 1d100 | Result |
 | :---: | --- |
@@ -239,7 +239,7 @@ Text
 | 87 - 90 | Unlock the secret of immortality |
 | 91 - 94 | Wield an object of terrifying power |
 | 95 - 100 | Wreak bloody vengeance |
-^table-OclCursedCharacterGoals
+^table-Cursed-Character-Goals
 
 *193 CHARACTER ORACLES*
 

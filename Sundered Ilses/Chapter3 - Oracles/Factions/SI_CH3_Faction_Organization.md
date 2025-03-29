@@ -25,7 +25,7 @@ Text
 
 ## Oracle: Organization Type
 > [!mechanics]- | Roll > `dice: [[OT_ISSI_Factions#^Organization-Type]]` | Guidance
-> Text ^guidance-OclOrganizationType
+> Text ^guidance--Type
 
 | dice: 1d100 | Result |
 | :---: | --- |
@@ -50,11 +50,11 @@ Text
 | 85 - 90 | Spies |
 | 91 - 96 | Traders |
 | 97 - 100 | Wreckers |
-^table-OclOrganizationType
+^table-Type
 
 ## Oracle: Organization Methods
-> [!mechanics]- | Roll > ▶1 `dice: [[OT_ISSI_Factions#^Organization-Methods]]`<br>▶2 `dice: [[OT_ISSI_Factions#^Organization-Methods]]`<br> | Guidance
-> Text ^guidance-OclOrganizationMethods
+> [!mechanics]- | Roll > <br>▶1 `dice: [[OT_ISSI_Factions#^Organization-Methods]]`<br>▶2 `dice: [[OT_ISSI_Factions#^Organization-Methods]]`<br> | Guidance
+> Text ^guidance-Methods
 
 | dice: 1d100 | Result @1-2 |
 | :---: | --- |
@@ -88,11 +88,11 @@ Text
 | 91 - 94 | Uses a system of coded messages |
 | 95 - 97 | Uses specialized equipment or weapons |
 | 98 - 100 | Worships a god or faith |
-^table-OclOrganizationMethods
+^table-Methods
 
 ## Oracle: Organization Secrets
-> [!mechanics]- | Roll > ▶1 `dice: [[OT_ISSI_Factions#^Organization-Secrets]]`<br>▶2 `dice: [[OT_ISSI_Factions#^Organization-Secrets]]` | Guidance
-> Text ^guidance-OclOrganizationSecrets
+> [!mechanics]- | Roll > <br>▶1 `dice: [[OT_ISSI_Factions#^Organization-Secrets]]`<br>▶2 `dice: [[OT_ISSI_Factions#^Organization-Secrets]]` | Guidance
+> Text ^guidance-Secrets
 
 | dice: 1d100 | Result @1-2 |
 | :---: | --- |
@@ -116,7 +116,7 @@ Text
 | 86 - 90 | Supported by a mysterious benefactor |
 | 91 - 95 | Trafficking in dangerous goods |
 | 96 - 100 | Works covertly to incite conflicts |
-^table-OclOrganizationSecrets
+^table-Secrets
 
 *180 ORACLES*
 
@@ -127,7 +127,7 @@ Text
 >  _Use this oracle to assist in generating a faction name from the below templates._
 > - ▶[[SI_CH3_Faction Name and Themes#Faction Name Themes|Theme Aspect]] + ▶[[SI_CH3_Faction Name and Themes#Faction Name Themes|Theme Persona]]
 > - ▶[[SI_CH3_Faction Name and Themes#Faction Name Themes|Theme Aspect]] + ▶[[#Oracle Organization Identity|Organization Identity]]
-> - ▶[[#Oracle Organization Identity|Organization Identity]] of the ▶[[SI_CH3_Faction Name and Themes#Faction Name Themes|Theme Aspect]] + ▶[[SI_CH3_Faction Name and Themes#Faction Name Themes|Theme Persona]]^guidance-OclOrganizationIdentity
+> - ▶[[#Oracle Organization Identity|Organization Identity]] of the ▶[[SI_CH3_Faction Name and Themes#Faction Name Themes|Theme Aspect]] + ▶[[SI_CH3_Faction Name and Themes#Faction Name Themes|Theme Persona]] ^guidance-Identity
 
 | dice: 1d100 | Result |
 | :---: | --- |
@@ -171,7 +171,7 @@ Text
 | 95 - 96 | Sect |
 | 97 - 98 | Sisterhood |
 | 99 - 100 | Union |
-^table-OclOrganizationIdentity
+^table-Identity
 
 *185 FACTION ORACLES*
 

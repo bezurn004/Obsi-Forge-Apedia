@@ -28,23 +28,23 @@ To generate a faction name, first roll or choose the name template. Then, follow
 An alternative approach to generating a faction from scratch is to start with a random name. Then, consider what the name evokes and choose an appropriate faction type instead of rolling on those tables. For example, “Bloody Ravens” might suggest a mercenary guild, while the “Republic of the Radiant Servants” brings to mind a dominion built upon a religion, or one that idolizes a prophesied leader. If a result doesn’t inspire anything interesting, roll again or pick
 
 ## Oracle: Faction Name Template
-> [!mechanics]- | Roll > `dice: [[SF_CH5_Faction-Name#^table-OclFactionNameTemplate]]` | Guidance
-> To create a Faction, either first choose its name based on this template. Alternatively, determine the [[SF_CH5_Faction-Types#Oracle Faction Type|Faction Type]] and then pick or roll for a name suitable to that organization. ^guidance-OclFactionNameTemplate
+> [!mechanics]- | Roll > `dice: [[OT_ISSF_Factions#^Name-Template]]` | Guidance
+> To create a Faction, either first choose its name based on this template. Alternatively, determine the [[SF_CH5_Faction-Types#Oracle Faction Type|Faction Type]] and then pick or roll for a name suitable to that organization. ^guidance-Name-Template
 
 | dice: 1d100 | Result |
-|:---:|:--- |
+| :---: | --- |
 | 1 - 40 | [[SF_CH5_Faction-Name#Oracle Faction Name - Legacy\|▶Legacy]] + [[SF_CH5_Faction-Name#Oracle Faction Name - Affiliation\|▶Affiliation]] |
 | 41 - 55 | [[SF_CH5_Faction-Name#Oracle: Faction Name - Legacy\|▶Legacy]] + [[SF_CH5_Faction-Name#Oracle - Faction Name: Identity\|▶Identity]] |
 | 56 - 70 | [[SF_CH5_Faction-Name#Oracle - Faction Name: Identity\|▶Identity]] of the [[SF_CH5_Faction-Name#Oracle -  Faction Name: Affiliation\|▶Affiliation]] |
 | 71 - 100 | [[SF_CH5_Faction-Name#Oracle: Faction Name - Affiliation\|▶Affiliation]] of the [[SF_CH5_Faction-Name#Oracle - Faction Name: Legacy\|▶Legacy]] |
-^table-OclFactionNameTemplate
+^table-Name-Template
 
 ## Oracle: Faction Name - Legacy
-> [!mechanics]- | Roll > `dice: [[SF_CH5_Faction-Name#^table-OclFactionName-Legacy]]` | Guidance
-> Pick or roll to create a faction name as part of the [[SF_CH5_Faction-Name#Oracle Faction Name Template|Faction Name Template Oracle]]. ^guidance-OclFactionName-Legacy
+> [!mechanics]- | Roll > `dice: [[OT_ISSF_Factions#^Name-Legacy]]` | Guidance
+> Pick or roll to create a faction name as part of the [[SF_CH5_Faction-Name#Oracle Faction Name Template|Faction Name Template Oracle]]. ^guidance-Name-Legacy
 
 | dice: 1d100 | Result |
-|:---:|:--- |
+| :---: | --- |
 | 1 - 2 | Ancient |
 | 3 - 4 | Ashen |
 | 5 - 6 | Awakened |
@@ -95,16 +95,16 @@ An alternative approach to generating a faction from scratch is to start with a 
 | 95 - 96 | Universal |
 | 97 - 98 | Veiled |
 | 99 - 100 | Wandering |
-^table-OclFactionName-Legacy
+^table-Name-Legacy
 
 *344 CHAPTER 5: ORACLES*
 
 ## Oracle: Faction Name - Affiliation
-> [!mechanics]- | Roll > `dice: [[SF_CH5_Faction-Name#^table-OclFactionName-Alliance]]` | Guidance
-> Pick or roll to create a faction name as part of the [[SF_CH5_Faction-Name#Oracle Faction Name Template|Faction Name Template Oracle]]. ^guidance-OclFactionName-Alliance
+> [!mechanics]- | Roll > `dice: [[OT_ISSF_Factions#^Name-Affiliation]]` | Guidance
+> Pick or roll to create a faction name as part of the [[SF_CH5_Faction-Name#Oracle Faction Name Template|Faction Name Template Oracle]]. ^guidance-Name-Affiliation
 
 | dice: 1d100 | Result |
-|:---:|:--- |
+| :---: | --- |
 | 1 - 4 | Accord |
 | 5 - 8 | Alliance |
 | 9 - 12 | Ascendancy |
@@ -130,14 +130,14 @@ An alternative approach to generating a faction from scratch is to start with a 
 | 89 - 92 | Sphere |
 | 93 - 96 | Syndicate |
 | 97 - 100 | Union |
-^table-OclFactionName-Alliance
+^table-Name-Affiliation
 
 ## Oracle: Faction Name - Identity
-> [!mechanics]- | Roll > `dice: [[SF_CH5_Faction-Name#^table-OclFactionName-Identity]]` | Guidance
-> Pick or roll to create a faction name as part of the [[SF_CH5_Faction-Name#Oracle Faction Name Template|Faction Name Template Oracle]]. ^guidance-OclFactionName-Identity
+> [!mechanics]- | Roll > `dice: [[OT_ISSF_Factions#^Name-Identity]]` | Guidance
+> Pick or roll to create a faction name as part of the [[SF_CH5_Faction-Name#Oracle Faction Name Template|Faction Name Template Oracle]]. ^guidance-Name-Identity
 
 | dice: 1d100 | Result |
-|:---:|:--- |
+| :---: | --- |
 | 1 - 2 | Blades |
 | 3 - 4 | Builders |
 | 5 - 6 | Daggers |
@@ -188,7 +188,7 @@ An alternative approach to generating a faction from scratch is to start with a 
 | 95 - 96 | Wraiths |
 | 97 - 98 | Wreckers |
 | 99 - 100 | Wrights |
-^table-OclFactionName-Identity
+^table-Name-Identity
 
 *345 FACTIONS*
 

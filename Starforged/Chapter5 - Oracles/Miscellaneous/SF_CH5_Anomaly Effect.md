@@ -20,11 +20,11 @@ OracleDescriptor: "Use sparingly to resolve the effects of ancient tech, rituals
 Use sparingly to resolve the effects of ancient tech, rituals, or other strange forces.
 
 ## Oracle: Anomaly Effect
-> [!mechanics]- | Roll > `dice: [[SF_CH5_Anomaly Effect#^table-OclAnomalyEffect]]` | Guidance
-> Meddling with alien artifacts or forbidden magic may put you at the mercy of chaos. Use this table to resolve the effects of ancient tech, rituals, or other strange forces. Results on this table may have devastating implications, so use it only in rare and dramatic moments. ^guidance-OclAnomalyEffect
+> [!mechanics]- | Roll > `dice: [[OT_ISSF_Misc#^Anomaly-Effect]]` | Guidance
+> Meddling with alien artifacts or forbidden magic may put you at the mercy of chaos. Use this table to resolve the effects of ancient tech, rituals, or other strange forces. Results on this table may have devastating implications, so use it only in rare and dramatic moments. ^guidance-Anomaly-Effect
 
 | dice: 1d100 | Result |
-|:---:|:--- |
+| :---: | --- |
 | 1 - 3 | Alters or focuses gravity |
 | 4 - 6 | Alters or reshapes nonliving matter |
 | 7 - 9 | Alters surrounding air or atmosphere |
@@ -58,7 +58,7 @@ Use sparingly to resolve the effects of ancient tech, rituals, or other strange 
 | 91 - 93 | Transports to another location |
 | 94 - 96 | Triggers an impending catastrophic explosion |
 | 97 - 100 | Roll twice |
-^table-OclAnomalyEffect
+^table-Anomaly-Effect
 
 *382 CHAPTER 5: ORACLES*
 

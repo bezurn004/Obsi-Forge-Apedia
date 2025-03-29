@@ -3,12 +3,12 @@
 
 ## Size
 
-| dice: 1d100 | Size | Circumference estimate |
-| :---: | --- | --- |
-| 1 - 30 | Small | 5 - 10 miles 
-| 31 - 70 | Medium | 20 - 40 miles |
-| 71 - 90 | Large | 80 - 120 miles |
-| 91 - 100 | Vast | 280 - 360 miles |
+| dice: 1d100 | Result |
+| :---: | --- |
+| 1 - 30 | Small<br>Couple Hours: 5 - 10 miles 
+| 31 - 70 | Medium<br>Many Hours: 20 - 40 miles |
+| 71 - 90 | Large<br>Days: 80 - 120 miles |
+| 91 - 100 | Vast<br>Weeks: 280 - 360 miles |
 ^Size
 
 ## Terrain

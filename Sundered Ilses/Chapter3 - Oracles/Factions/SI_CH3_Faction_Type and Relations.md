@@ -28,18 +28,18 @@ For details on using factions in your campaign, [[SI_CH1_Factions of the Isles|s
 
 ## Oracle: Faction Type
 > [!mechanics]- | Roll > `dice: [[OT_ISSI_Factions#^Type]]` | Guidance
-> [skull] On a cursed result, choose one: Make the faction one of _[[SI_CH3_Faction_The Cursed|The Cursed]]_, or keep the result and add _[[SI_CH3_Faction_The Cursed#Oracle Cursed Faction Aspects|Cursed Faction Aspects]]_. See page 182 for cursed tables. ^guidance-OclFactionType
+> [skull] On a cursed result, choose one: Make the faction one of _[[SI_CH3_Faction_The Cursed|The Cursed]]_, or keep the result and add _[[SI_CH3_Faction_The Cursed#Oracle Cursed Faction Aspects|Cursed Faction Aspects]]_. See page 182 for cursed tables. ^guidance-Type
 
 | dice: 1d100 | Result | Description |
 | :---: | --- | --- |
 | 1 – 50 | ▶[[SI_CH3_Faction_Society\|Society]] | People who share traditions and a way of life _pg 178–178_ |
 | 51 – 80 | ▶[[SI_CH3_Faction_Organization\|Organization]] | People joined in a collective trade, pursuit, or goal _pg 180_ |
 | 81 – 100 | ▶[[SI_CH3_Faction_Empire\|Empire]] | People seeking dominion over the isles _pg 181_ |
-^table-OclFactionType
+^table-Type
 
 ## Oracle: Faction Influence
 > [!mechanics]- | Roll > `dice: [[OT_ISSI_Factions#^Influence]]` | Guidance
-> Text ^guidance-OclFactionInfluence
+> Text ^guidance-Influence
 
 | dice: 1d100 | Result | Summary |
 | :---: | --- | --- |
@@ -50,13 +50,13 @@ For details on using factions in your campaign, [[SI_CH1_Factions of the Isles|s
 | 71 - 85 | Notable | Dispersed influence across a moderate area |
 | 86 - 95 | Dominant | Far-reaching influence across a large area |
 | 96 - 100 | Inescapable | Pervasive influence across a vast area |
-^table-OclFactionInfluence
+^table-Influence
 
 *176 ORACLES*
 
 ## Oracle: Faction Relationship
 > [!mechanics]- | Roll > `dice: [[OT_ISSI_Factions#^Relationship]]` | Guidance
-> When you have a question about the relationship of one faction to another—or how an individual relates to a faction—use this table. The result is the commonly understood connection, but might not tell the whole story. ^guidance-OclFactionRelationship
+> When you have a question about the relationship of one faction to another—or how an individual relates to a faction—use this table. The result is the commonly understood connection, but might not tell the whole story. ^guidance-Relationship
 
 | dice: 1d100 | Result |
 | :---: | --- |
@@ -88,7 +88,7 @@ For details on using factions in your campaign, [[SI_CH1_Factions of the Isles|s
 | 89 - 92 | Trades favors with |
 | 93 - 96 | Warring with |
 | 97 - 100 | Roll twice |
-^table-OclFactionRelationship
+^table-Relationship
 
 ## Tags
 

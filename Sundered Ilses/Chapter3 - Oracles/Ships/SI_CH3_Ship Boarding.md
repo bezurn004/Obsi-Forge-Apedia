@@ -25,7 +25,7 @@ _When getting onto a ship you will likely learn its **cargo** it carries and the
 
 ## Oracle: Ship Cargo
 > [!mechanics]- | Roll > [skull] `dice: [[SI_CH3_The Cursed Die#^table-Cursed]]` <br>▶1 `dice: [[OT_ISSI_Ships^Cargo]]`<br>▶2 `dice: [[OT_ISSI_Ships^Cargo]]`<br>▶3 `dice: [[OT_ISSI_Ships^Cargo]]`<br>▶4 `dice: [[OT_ISSI_Ships^Cargo]]` | Guidance
-> Use this table when surveying a ship’s hold or if coming upon lost or abandoned cargo. Roll a number of times as appropriate to the nature of the find. For example, once for the hold of a typical warship, or up to four times for a fully loaded tradeship. Ships also typically carry basic munitions and provisions for the crew, but this table reveals the details of bulk cargo such as trade goods and plunder. @1–4 ^guidance-OclShipCargo
+> Use this table when surveying a ship’s hold or if coming upon lost or abandoned cargo. Roll a number of times as appropriate to the nature of the find. For example, once for the hold of a typical warship, or up to four times for a fully loaded tradeship. Ships also typically carry basic munitions and provisions for the crew, but this table reveals the details of bulk cargo such as trade goods and plunder. ^guidance-Cargo
 
 | dice: 1d100 | Result @1-4 [skull] _[[#Oracle Cursed Ship Cargo\|below]]_ |
 | :---: | --- |
@@ -73,13 +73,13 @@ _When getting onto a ship you will likely learn its **cargo** it carries and the
 | 93 - 94 | Wine |
 | 95 - 98 | ▶[[SI_CH3_Core_Descriptor Focus#DESCRIPTOR\|Descriptor]] + ▶[[SI_CH3_Core_Descriptor Focus#FOCUS\|Focus]]; _pg 118-119_ |
 | 99 - 100 | ▶[[SI_CH3_Treasure Creation\|Treasure]]; _pg 220_ |
-^table-OclShipCargo
+^table-Cargo
 
 ## Oracle: Cursed Ship Cargo
 > [!mechanics]- | Roll > `dice: [[OT_ISSI_Ships^Cursed-Cargo]]` | Guidance
-> Use this table when surveying a ship’s hold or if coming upon lost or abandoned cargo. Roll a number of times as appropriate to the nature of the find. For example, once for the hold of a typical warship, or up to four times for a fully loaded tradeship. Ships also typically carry basic munitions and provisions for the crew, but this table reveals the details of bulk cargo such as trade goods and plunder. @1–4 ^guidance-OclCursedShipCargo
+> Use this table when surveying a ship’s hold or if coming upon lost or abandoned cargo. Roll a number of times as appropriate to the nature of the find. For example, once for the hold of a typical warship, or up to four times for a fully loaded tradeship. Ships also typically carry basic munitions and provisions for the crew, but this table reveals the details of bulk cargo such as trade goods and plunder. ^guidance-Cursed-Cargo
 
-| dice: 1d100 | Result |
+| dice: 1d100 | Result @1–4 |
 | :---: | --- |
 | 1 - 5 | Ancient sarcophagi |
 | 6 - 12 | Autonomous mechanical constructs |
@@ -97,13 +97,13 @@ _When getting onto a ship you will likely learn its **cargo** it carries and the
 | 80 - 86 | Sorcerous tomes |
 | 87 - 93 | Soul jars |
 | 94 - 100 | Trapped undead |
-^table-OclCursedShipCargo
+^table-Cursed-Cargo
 
 *139 SHIP ORACLES*
 
 ## Oracle: Ship Name
 > [!mechanics]- | Roll > [skull] `dice: [[OT_ISSI_Ships^Name]]` | Guidance
-> _Use the Ship Name table for ships that will play a significant role in your story_ ^guidance-OclShipName
+> _Use the Ship Name table for ships that will play a significant role in your story_ ^guidance-Name
 
 | dice: 1d100 | Result [skull] _[[#Oracle Cursed Ship Name\|pg 141]]_ |
 | :---: | --- |
@@ -206,14 +206,14 @@ _When getting onto a ship you will likely learn its **cargo** it carries and the
 | 97 | Zakaria |
 | 98 | Zephyr |
 | 99 - 100 | Unbroken Vow |
-^table-OclShipName
+^table-Name
 
 *140 ORACLES*
 
 ## Oracle: Cursed Ship Name
 > [!mechanics]- | Roll > `dice: [[OT_ISSI_Ships^Cursed-Name]]` | Guidance
 > Use the Cursed Ship Name table for ships with a cursed nature, or for warships and pirate ships with an intimidating reputation.
- ^guidance-OcCursedlShipName
+ ^guidance-Cursed-Name
 
 | dice: 1d100 | Result |
 | :---: | --- |
@@ -316,7 +316,7 @@ _When getting onto a ship you will likely learn its **cargo** it carries and the
 | 97 | Witchfire |
 | 98 | Wraith's Gaze |
 | 99 - 100 | Forsaken Vow |
-^table-OcCursedlShipName
+^table-Cursed-Name
 
 *141 SHIP ORACLES*
 

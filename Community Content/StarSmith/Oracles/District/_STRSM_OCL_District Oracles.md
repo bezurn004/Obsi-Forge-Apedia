@@ -18,14 +18,16 @@ When you need to see what type of district you are in, you may roll on the table
 
 The only difference from the derelict oracles is that I eliminated the option for “New zone” by itself on the area oracles which allowed for an extra entry in the oracle. Therefore, when you roll the “New zone via **▶[[STRSM_OCL_District-Zone-Access|Access]]**”, you can choose to roll on the Access oracle or not.
 
-Finally, if you need a **FIRST LOOK** oracle, use the one from the **[[STRSM_OCL_Settle-Approach#Oracle Settlement First Look {1-2}|SETTLEMENTS]]** section.
+Finally, if you need a **FIRST LOOK** oracle, use the one from the **[[STRSM_OCL_Settle-Approach#Oracle Settlement First Look|SETTLEMENTS]]** section.
 
-![[STRSM_OCL_District Zones#Oracle District Zones]]
+> ## Contents
+> [[STRSM_OCL_District-Zone-Access|Access]]
+> ![[STRSM_OCL_District Zones#Oracle District Zones]]
 
 ## Tags
 | Previous Section | Tags | Next Section | 
 | :--- | :---: | ---: |
-| **[[_STRSM_OCL_Derelict Oracles\|Derelict Oracles]]** | #Starsmith/Oracles/Districts  - #Pedia/Oracles/Districts | **[[_STRSM_OCL_PrecursorVaults Oracles\|Precursor Vault Oracles]]** |
+| **[[_STRSM_OCL_Derelict Oracles\|Derelict (STRSM Oracles)]]** | #Starsmith/Oracles/Districts  | **[[_STRSM_OCL_PrecursorVaults Oracles\|Precursor Vault (STRSM Oracles)]]** |
 
 
 

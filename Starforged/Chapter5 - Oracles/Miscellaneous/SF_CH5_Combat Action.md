@@ -20,11 +20,11 @@ OracleDescriptor: "Inspire an action for a foe in a fight, particularly when in 
 Inspire an action for a foe in a fight, particularly when in a bad spot.
 
 ## Oracle: Combat Action
-> [!mechanics]- | Roll > `dice: [[SF_CH5_Combat Action#^table-OclCombatAction]]` | Guidance
-> Use this oracle to help inspire an action for a foe in a fight. When you’re not sure what an enemy does next, particularly when they have you in a bad spot, roll on this oracle and interpret the result as appropriate to the nature of the enemy and your objective. ^guidance-OclCombatAction
+> [!mechanics]- | Roll > `dice: [[OT_ISSF_Misc#^Combat-Action]]` | Guidance
+> Use this oracle to help inspire an action for a foe in a fight. When you’re not sure what an enemy does next, particularly when they have you in a bad spot, roll on this oracle and interpret the result as appropriate to the nature of the enemy and your objective. ^guidance-Combat-Action
 
 | dice: 1d100 | Result |
-| :---: |:--- |
+| :---: | --- |
 | 1 - 3 | Block a path or cut off an objective |
 | 4 - 6 | Cause reckless damage |
 | 7 - 9 | Change weapons or tactics |
@@ -58,7 +58,7 @@ Inspire an action for a foe in a fight, particularly when in a bad spot.
 | 91 - 93 | Use an unexpected weapon or ability |
 | 94 - 96 | Weaken defenses |
 | 97 - 100 | Roll twice |
-^table-OclCombatAction
+^table-Combat-Action
 
 *383 MISCELLANEOUS ORACLES*
 

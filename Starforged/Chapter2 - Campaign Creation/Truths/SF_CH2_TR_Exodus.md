@@ -16,9 +16,9 @@ Choose or envision how humanity was able to make the impossible journey from the
 
 | dice: 1d100 | Result |
 |:---:|:--- |
-| 1-33 | [[SF_CH2_TR_Exodus#Generation Ships\|Generation Ships]] |
-| 34-67 | [[SF_CH2_TR_Exodus#Warp Speed\|Warp Speed]] |
-| 68-100 | [[SF_CH2_TR_Exodus#Stargates\|Stargates]] |
+| 1 - 33 | [[SF_CH2_TR_Exodus#Generation Ships\|Generation Ships]] |
+| 34 - 67 | [[SF_CH2_TR_Exodus#Warp Speed\|Warp Speed]] |
+| 68 - 100 | [[SF_CH2_TR_Exodus#Stargates\|Stargates]] |
 ^table-choose-truths
 
 > [!oracle]- Roll

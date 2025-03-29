@@ -27,62 +27,62 @@ _Begin creating a settlement by determining its **Location** and the **Size** of
 ## Oracle: Settlement Location
 > [!mechanics]- | Roll > `dice: [[OT_ISSI_Settlements^Location]]` | Guidance
 > Roll for a location when learning about a distant settlement. If you come upon a settlement in your travels, choose a location appropriate to your surroundings.
- ^guidance-OclSettleLocation
+ ^guidance-Location
 
 | Roll | Results | Description |
 | :---: | --- | --- |
 | 1 - 60 | Shore  |  Where land meets the sea |
 | 81 - 100 | Waterside  |  By a major inland waterway |
 | 61 - 80 | Inland  |  Within the island interior |
-^table-OclSettleLocation
+^table-Location
 
 ## Oracle: Settlement Size
 > [!mechanics]- | Guidance
-> Text ^guidance-OclSettleSize
+> Text ^guidance-Size-All
 
 | Myriads<br>_Central Seas_ | Margins<br>_Outer Seas_ | Reaches<br>_Remote Seas_ | Type | Typical Population |
-|:---:|:---:|:---:| --- | --- |
+| :---: | :---: | :---: | --- | --- |
 | 1 - 30 | 1 - 40 | 1 - 50 | Village or Outpost | Dozens |
 | 31 - 70 | 41 - 75 | 51 - 80 | Town | Hundreds |
 | 71 - 98 | 76 - 98 | 81 - 98 | City | Thousands |
 | 99 - 100 | 99 - 100 | 99 - 100 | City State | Tens of thousands |
-^table-OclSettleSize
+^table-Size-All
 
 ### Oracle: Settlement Size - Myriads
 > [!mechanics]- | Roll > `dice: [[OT_ISSI_Settlements^Size-Myriads]]` | Guidance
-> Central Seas ^guidance-OclSettleSize-Myriads
+> Central Seas ^guidance-Size-Myriads
 
 | dice: 1d100 | Type / Population |
-|:---:| --- |
+| :---: | --- |
 | 1 - 30 | Village or Outpost / Dozens |
 | 31 - 70 | Town / Hundreds |
 | 71 - 98 | City / Thousands |
 | 99 - 100 | City State / Tens of thousands |
-^table-OclSettleSize-Myriads
+^table-Size-Myriads
 
 ### Oracle: Settlement Size - Margins
 > [!mechanics]- | Roll > `dice: [[OT_ISSI_Settlements^Size-Margins]]` | Guidance
-> Outer Seas ^guidance-OclSettleSize-Margins
+> Outer Seas ^guidance-Size-Margins
 
 | dice: 1d100 | Type / Population |
-|:---:| --- |
+| :---: | --- |
 | 1 - 40 | Village or Outpost / Dozens |
 | 41 - 75 | Town / Hundreds |
 | 76 - 98 | City / Thousands |
 | 99 - 100 | City State / Tens of thousands |
-^table-OclSettleSize-Margins
+^table-Size-Margins
 
 ### Oracle: Settlement Size - Reaches
 > [!mechanics]- | Roll >`dice: [[OT_ISSI_Settlements^Size-Reaches]]` | Guidance
-> Remote Seas ^guidance-OclSettleSize-Reaches
+> Remote Seas ^guidance-Size-Reaches
 
 | dice: 1d100 | Type / Population |
-|:---:| --- |
+| :---: | --- |
 | 1 - 50 | Village or Outpost / Dozens |
 | 51 - 80 | Town / Hundreds |
 | 81 - 98 | City / Thousands |
 | 99 - 100 | City State / Tens of thousands |
-^table-OclSettleSize-Reaches
+^table-Size-Reaches
 
 *164 ORACLES*
 

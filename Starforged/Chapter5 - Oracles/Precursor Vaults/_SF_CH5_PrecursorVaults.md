@@ -45,7 +45,7 @@ Use these oracles to help envision a complication or favorable circumstance with
 > - Precursor Vault Material
 > - Precursor Vault Outer First Look
 >   
->   ### [[SF_CH5_Vault-Interior|Precursor Vault Interior Oracle]]
+> ### [[SF_CH5_Vault-Interior|Precursor Vault Interior Oracle]]
 > - Precursor Vault Interior
 > 	- First Look
 > 	- Feature

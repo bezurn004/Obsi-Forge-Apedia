@@ -23,11 +23,11 @@ OracleDescriptor: "_Enemies defend this place against intruders._"
 _Enemies defend this place against intruders._
 
 ## Oracle: Location Theme - Fortified Feature
-> [!mechanics]- | Roll > `dice: [[OT_ISSF_Location-Themes#^OclLocThemeFortified-Feature]]` | Guidance
-> ![[GSRY_Definitions#^gsry-OclSite-Feature]] ^guidance-OclSite-Feature
+> [!mechanics]- | Roll > `dice: [[OT_ISSF_Location-Themes#^Fortified-Feature]]` | Guidance
+> ![[GSRY_Definitions#^gsry-OclSite-Feature]] ^guidance-Feature
 
 | dice: 1d100 | Result |
-| :---: | :--- |
+| :---: | --- |
 | 1 - 8 | Captives or prisoners |
 | 9 - 16 | Control area or terminal |
 | 17 - 24 | Empty or inactive area |
@@ -40,15 +40,15 @@ _Enemies defend this place against intruders._
 | 73 - 80 | Prototype technology or equipment |
 | 81 - 88 | Robotic assistant or watchful AI |
 | 89 - 96 | Support personnel at work |
-| 97 - 100 | ▶[[SF_CH5_Core_Descriptor-Focus#Oracle Descriptor\|Descriptor]] + [[SF_CH5_Core_Descriptor-Focus#Oracle Focus\|Focus]] |
-^table-OclLocationThemeFortifiedFeature
+| 97 - 100 | ▶[[SF_CH5_Core_Descriptor-Focus#Oracle Descriptor\|Descriptor]] + ▶[[SF_CH5_Core_Descriptor-Focus#Oracle Focus\|Focus]] |
+^table-Fortified-Feature
 
 ## Oracle: Location Theme - Fortified Peril
-> [!mechanics]- | Roll > `dice: [[SF_CH5_LocationTheme-Fortified#^table-OclLocationThemeFortifiedPeril]]` | Guidance
-> ![[GSRY_Definitions#^gsry-OclSite-Peril]] ^guidance-OclSite-Peril
+> [!mechanics]- | Roll > `dice: [[OT_ISSF_Location-Themes#^Fortified-Peril]]` | Guidance
+> ![[GSRY_Definitions#^gsry-OclSite-Peril]] ^guidance-Peril
 
 | dice: 1d100 | Result |
-| :---: | :--- |
+| :---: | --- |
 | 1 - 9 | Alarm is triggered |
 | 10 - 18 | Automated security or weapons target you |
 | 19 - 27 | Checkpoint or path with restricted access |
@@ -59,22 +59,22 @@ _Enemies defend this place against intruders._
 | 64 - 72 | Problematic alliance or affiliation is revealed |
 | 73 - 81 | Revealed schemes of an enemy leader create new urgency |
 | 82 - 90 | Your plan is undone by an unexpected complication |
-| 91 - 98 | ▶[[SF_CH5_Core_Action-Theme#Oracle Action\|Action]] + [[SF_CH5_Core_Action-Theme#Oracle Theme\|Theme]] |
+| 91 - 98 | ▶[[SF_CH5_Core_Action-Theme#Oracle Action\|Action]] + ▶[[SF_CH5_Core_Action-Theme#Oracle Theme\|Theme]] |
 | 99 - 100 | Roll twice |
-^table-OclLocationThemeFortifiedPeril
+^table-Fortified-Peril
 
 ## Oracle: Location Theme - Fortified Opportunity
-> [!mechanics]- | Roll > `dice: [[SF_CH5_LocationTheme-Fortified#^table-OclLocationThemeFortifiedOpportunity]]` | Guidance
-> ![[GSRY_Definitions#^gsry-OclSite-Opportunity]] ^guidance-OclSite-Opportunity
+> [!mechanics]- | Roll > `dice: [[OT_ISSF_Location-Themes#^Fortified-Opportunity]]` | Guidance
+> ![[GSRY_Definitions#^gsry-OclSite-Opportunity]] ^guidance-Opportunity
 
 | dice: 1d100 | Result |
-| :---: | :--- |
+| :---: | --- |
 | 1 - 9 | Alarm is triggered |
 | 21 - 40 | Opening to get the drop on an enemy |
 | 41 - 60 | Opening to outmaneuver or escape enemies |
 | 61 - 80 | Potential collaborator or informant reveals themselves |
 | 81 - 100 | Access to useful equipment or weapons |
-^table-OclLocationThemeFortifiedOpportunity
+^table-Fortified-Opportunity
 
 *373 LOCATION THEMES*
 

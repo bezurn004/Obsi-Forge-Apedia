@@ -20,7 +20,7 @@ Text
 > - Character Cursed First Look
 > - Character Disposition
 >
-> ### [[SI_CH3_Chracter_Roles|Character Roles]]
+> ### [[SI_CH3_Character_Roles|Character Roles]]
 > - Character Roles
 > - Character Role Details
 > 	- Academic

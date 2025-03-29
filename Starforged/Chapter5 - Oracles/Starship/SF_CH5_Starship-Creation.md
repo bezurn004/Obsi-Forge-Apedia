@@ -22,11 +22,11 @@ OracleDescriptor: "To generate a starship that you encounter roll on the Starshi
 To generate a starship that you encounter roll on the Starship Type when viewing it from a far range. Only if a Starship will have significant meaning in the story does a name need to be generated.
 
 ## Oracle: Starship Type
-> [!mechanics]- | Roll > `dice: [[SF_CH5_Starship-Creation#^table-ISSF-Core1-0-OclStarshipTypes]]` | Guidance
-> Use the Starship Type table when prompted by another oracle, or to flesh out the nature of a ship or fleet that has a flexible or uncertain role. You can also roll to generate the focus of a spaceborne quest. ^guidance-OclStarshipType
+> [!mechanics]- | Roll > `dice: [[OT_ISSF_Starships#^Type]]` | Guidance
+> Use the Starship Type table when prompted by another oracle, or to flesh out the nature of a ship or fleet that has a flexible or uncertain role. You can also roll to generate the focus of a spaceborne quest. ^guidance-Type
 
 | dice: 1d100 | Result |
-|:---:|:--- |
+| :---: | --- |
 | 1 - 2 | Carrier - Launches fighters |
 | 3 - 6 | Corvette - Light attack ship |
 | 7 - 11 | Courier - Fast transport |
@@ -45,18 +45,18 @@ To generate a starship that you encounter roll on the Starship Type when viewing
 | 57 - 61 | Reclaimer - Salvage or rescue |
 | 62 - 64 | Shuttle - Short-range transport |
 | 65 - 67 | Snub fighter - Small attack craft |
-| 68 - 82 | Multipurpose - [[SF_CH5_Starship-Approach#Oracle Starship Mission - Terminus\|▶Starship Mission: Terminus]] |
+| 68 - 82 | Multipurpose - [[SF_CH5_Starship-Approach#Oracle Starship Mission\|▶Starship Mission]] |
 | 83 - 84 | Unusual or unknown |
 | 85 - 94 | [[#Oracle Starship Fleet\|▶Fleet]]
 | 95 - 100 | Ships in conflict (roll twice) |
-^table-ISSF-Core1-0-OclStarshipTypes
+^table-Types
 
 ## Oracle: Starship Fleet
-> [!mechanics]- | Roll > `dice: [[SF_CH5_Starship-Creation#^table-OclStarshipFleetType]]` | Guidance
-> Use the Starship Fleet table when prompted by another oracle, or to flesh out the nature of a ship or fleet that has a flexible or uncertain role. You can also roll to generate the focus of a spaceborne quest. ^guidance-OclStarshipFleet
+> [!mechanics]- | Roll > `dice: [[OT_ISSF_Starships#^Fleet]]` | Guidance
+> Use the Starship Fleet table when prompted by another oracle, or to flesh out the nature of a ship or fleet that has a flexible or uncertain role. You can also roll to generate the focus of a spaceborne quest. ^guidance-Fleet
 
 | dice: 1d100 | Result |
-|:---:|:--- |
+| :---: | --- |
 | 1 - 10 | Battle fleet |
 | 11 - 25 | Pirate wing |
 | 26 - 35 | Raider horde |
@@ -64,8 +64,8 @@ To generate a starship that you encounter roll on the Starship Type when viewing
 | 51 - 60 | Settler caravan |
 | 61 - 70 | Trade caravan |
 | 71 - 90 | Transport and escorts |
-| 91 - 100 | [[SF_CH5_Starship-Approach#Oracle Starship Mission - Terminus\|▶Starship Mission: Terminus]] |
-^table-OclStarshipFleetType
+| 91 - 100 | [[SF_CH5_Starship-Approach#Oracle Starship Mission\|▶Starship Mission]] |
+^table-Fleet
 
 *326 CHAPTER 5: ORACLES*
 

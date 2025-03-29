@@ -23,11 +23,11 @@ OracleDescriptor: "_Foul creatures have overrun this place._"
 *_Foul creatures have overrun this place._*
 
 ## Oracle: Location Theme - Infested Feature
-> [!mechanics]- | Roll > `dice: [[SF_CH5_LocationTheme-Infested#^table-OclLocationThemeInfestedFeature]]` | Guidance
-> ![[GSRY_Definitions#^gsry-OclSite-Feature]] ^guidance-OclSite-Feature
+> [!mechanics]- | Roll > `dice: [[OT_ISSF_Location-Themes#^Infested-Feature]]` | Guidance
+> ![[GSRY_Definitions#^gsry-OclSite-Feature]] ^guidance-Feature
 
 | dice: 1d100 | Result |
-| :---: | :--- |
+| :---: | --- |
 | 1 - 8 | Corpse of an unfortunate victim |
 | 9 - 16 | Eggs, cocoons, or nest |
 | 17 - 24 | Environment corrupted by the infestation |
@@ -40,15 +40,15 @@ OracleDescriptor: "_Foul creatures have overrun this place._"
 | 73 - 80 | Remains of a creature or remnants of a previous form |
 | 81 - 88 | Territorial markings |
 | 89 - 96 | Trail or evidence of a creature’s passage |
-| 97 - 100 | ▶[[SF_CH5_Core_Descriptor-Focus#Oracle Descriptor\|Descriptor]] + [[SF_CH5_Core_Descriptor-Focus#Oracle Focus\|Focus]] |
-^table-OclLocationThemeInfestedFeature
+| 97 - 100 | ▶[[SF_CH5_Core_Descriptor-Focus#Oracle Descriptor\|Descriptor]] + ▶[[SF_CH5_Core_Descriptor-Focus#Oracle Focus\|Focus]] |
+^table-Infested-Feature
 
 ## Oracle: Location Theme - Infested Peril
-> [!mechanics]- | Roll > `dice: [[SF_CH5_LocationTheme-Infested#^table-OclLocationThemeInfestedPeril]]` | Guidance
-> ![[GSRY_Definitions#^gsry-OclSite-Peril]] ^guidance-OclSite-Peril
+> [!mechanics]- | Roll > `dice: [[OT_ISSF_Location-Themes#^Infested-Peril]]` | Guidance
+> ![[GSRY_Definitions#^gsry-OclSite-Peril]] ^guidance-Peril
 
 | dice: 1d100 | Result |
-| :---: | :--- |
+| :---: | --- |
 | 1 - 9 | Creatures attack without warning |
 | 10 - 18 | Creatures guided or controlled by a greater threat |
 | 19 - 27 | Creatures reveal new aspects or abilities |
@@ -59,22 +59,22 @@ OracleDescriptor: "_Foul creatures have overrun this place._"
 | 64 - 72 | Lured or driven into a trap or dead-end |
 | 73 - 81 | Powerful or dominant creature reveals itself |
 | 82 - 90 | Toxic or sickening environment |
-| 91 - 98 | ▶[[SF_CH5_Core_Action-Theme#Oracle Action\|Action]] + [[SF_CH5_Core_Action-Theme#Oracle Theme\|Theme]] |
+| 91 - 98 | ▶[[SF_CH5_Core_Action-Theme#Oracle Action\|Action]] + ▶[[SF_CH5_Core_Action-Theme#Oracle Theme\|Theme]] |
 | 99 - 100 | Roll twice |
-^table-OclLocationThemeInfestedPeril
+^table-Infested-Peril
 
 ## Oracle: Location Theme - Infested Opportunity
-> [!mechanics]- | Roll > `dice: [[SF_CH5_LocationTheme-Infested#^table-OclLocationThemeInfestedOpportunity]]` | Guidance
-> ![[GSRY_Definitions#^gsry-OclSite-Opportunity]] ^guidance-OclSite-Opportunity
+> [!mechanics]- | Roll > `dice: [[OT_ISSF_Location-Themes#^Infested-Opportunity]]` | Guidance
+> ![[GSRY_Definitions#^gsry-OclSite-Opportunity]] ^guidance-Opportunity
 
 | dice: 1d100 | Result |
-| :---: | :--- |
+| :---: | --- |
 | 1 - 20 | Clue to the nature or vulnerabilities of these creatures
 | 21 - 40 | Creatures turn on each other |
 | 41 - 60 | Early warning of an attack or ambush |
 | 61 - 80 | External event provides a helpful distraction |
 | 81 - 100 | Helpful resource or equipment |
-^table-OclLocationThemeInfestedOpportunity
+^table-Infested-Opportunity
 
 *375 LOCATION THEMES*
 

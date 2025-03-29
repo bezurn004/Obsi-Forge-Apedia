@@ -56,6 +56,11 @@ If you need inspiration, do any combination of the following:
 - Roll the [[SF_CH5_Character-Drives#Oracle: Character Goal|Character Goal Oracle]]
 - Pick or roll on the table below.
 
+> [!oracle]- Roll
+> ▶[[SF_CH5_Core_Action-Theme\|A+T]]: `dice: [[OT_ISSF_Core#^Action]]` + `dice: [[OT_ISSF_Core#^Theme]]`
+> [[SF_CH5_Character-Drives#Oracle Character Goal\|Character Goal]]: `dice: [[OT_ISSF_Characters#^Goal]]`
+> Table below: `dice: [[OT_ISSF_Campaign#^Inciting-Incident]]`
+
 | dice: 1d100 | Inciting Incident Prompt |
 | :---: | --- |
 | 1 - 5  | Aid a starship caught in a spacetime fracture |
@@ -81,9 +86,6 @@ If you need inspiration, do any combination of the following:
 ^table-inciting-incident
 
 *130 CHAPTER 2: LAUNCHING YOUR CAMPAIGN*
-
-> [!oracle]- Roll
-> `dice: [[SF_CH2_Inciiting Incident#^table-inciting-incident]]`
 
 Embellish or adjust the result in the context of your established character and setting. Be mindful of the best practices on [[#What Make a Good Inciting Incident|the previous page]]. Make it relevant to your character and worthy of a sworn vow. Make it dramatic and interesting. But this will be a lower-ranked quest, so keep it relatively straightforward, things may very well spin out of control on their own soon enough.
 

@@ -26,11 +26,11 @@ OracleDescriptor: "Ocean worlds may be an endless sea of water, but some are mad
 Ocean worlds may be an endless sea of water, but some are made up of other thalassogen such as ammonia, lava, or hydrocarbons. Other ocean worlds have their worlds contained between two icy spheres: a top layer protecting the water from solar radiation and a lower layer protecting the water from the planet’s core.
 
 ## Oracle: Ocean Atmosphere
-> [!mechanics]- | Roll > `dice: [[SF_CH5_Planet-Ocean#^table-Atmosphere]]` | Guidance
+> [!mechanics]- | Roll > `dice: [[OT_ISSF_Planets#^Ocean-Atmosphere]]` | Guidance
 > The baseline for planet habitability, see [[_SF_CH5_Planets#Planet Atmospheres|Planet Atmosphere]] for the effects of each atmosphere for human life. ^guidance-Atmosphere
 
 | dice: 1d100 | Result |
-|:---:|:--- |
+| :---: | --- |
 | 1 - 5 | None / thin |
 | 6 - 20 | Toxic |
 | 21 - 25 | Corrosive |
@@ -41,11 +41,11 @@ Ocean worlds may be an endless sea of water, but some are made up of other thala
 
 ## Oracle: Ocean: Settlements
 ### Oracle: Settlements - Terminus
-> [!mechanics]- | Roll > `dice: [[SF_CH5_Planet-Ocean#^table-Settlement-Terminus]]` | Guidance
+> [!mechanics]- | Roll > `dice: [[OT_ISSF_Planets#^Ocean-Settlement-Terminus]]` | Guidance
 > Choose or roll on possible settlements located on this planet. ^guidance-Settlement-Terminus
 
 | dice: 1d100 | Result |
-|:---:|:--- |
+| :---: | --- |
 | 1 - 40 | None |
 | 41 - 55 | Orbital settlement |
 | 56 - 80 | Planetside settlement |
@@ -54,11 +54,11 @@ Ocean worlds may be an endless sea of water, but some are made up of other thala
 ^table-Settlement-Terminus
 
 ### Oracle: Settlements - Outlands
-> [!mechanics]- | Roll > `dice: [[SF_CH5_Planet-Ocean#^table-Settlement-Outlands]]` | Guidance
+> [!mechanics]- | Roll > `dice: [[OT_ISSF_Planets#^Ocean-Settlement-Outlands]]` | Guidance
 > Choose or roll on possible settlements located on this planet ^guidance-Settlement-Outlands
 
 | dice: 1d100 | Result |
-|:---:|:--- |
+| :---: | --- |
 | 1 - 65 | None |
 | 66 - 75 | Orbital settlement |
 | 76 - 92 | Planetside settlement |
@@ -67,11 +67,11 @@ Ocean worlds may be an endless sea of water, but some are made up of other thala
 ^table-Settlement-Outlands
 
 ### Oracle: Settlements - Expanse
-> [!mechanics]- | Roll > `dice: [[SF_CH5_Planet-Ocean#^table-Settlement-Expanse]]` | Guidance
+> [!mechanics]- | Roll > `dice: [[OT_ISSF_Planets#^Ocean-Settlement-Expanse]]` | Guidance
 > Choose or roll on possible settlements located on this planet. ^guidance-Settlement-Expanse
 
 | dice: 1d100 | Result |
-|:---:|:--- |
+| :---: | --- |
 | 1 - 85 | None |
 | 86 - 90 | Orbital settlement |
 | 91 - 97 | Planetside settlement |
@@ -80,11 +80,11 @@ Ocean worlds may be an endless sea of water, but some are made up of other thala
 ^table-Settlement-Expanse
 
 ## Oracle: Ocean Observed From Space
-> [!mechanics]- | Roll > `dice: [[SF_CH5_Planet-Ocean#^table-ObservedFromSpace]]` | Guidance
-> When first approaching a planet, envision at a board characteristic of the planet. ^guidance-ObservedFromSpace
+> [!mechanics]- | Roll > <br>▶1 `dice: [[OT_ISSF_Planets#^Ocean-Observed-From-Space]]`<br>▶2 `dice: [[OT_ISSF_Planets#^Ocean-Observed-From-Space]]` | Guidance
+> When first approaching a planet, envision at a board characteristic of the planet. ^guidance-Observed-From-Space
 
 | dice: 1d100 | Result |
-|:---:|:--- |
+| :---: | --- |
 | 1 - 11 | Complex reef systems |
 | 12 - 22 | Emerging volcanoes |
 | 23 - 33 | Floating forests |
@@ -93,16 +93,16 @@ Ocean worlds may be an endless sea of water, but some are made up of other thala
 | 56 - 66 | Scattered islands |
 | 67 - 77 | Semi-frozen oceans |
 | 78 - 88 | Unusual water color |
-| 89 - 98 | ▶[[SF_CH5_Core_Descriptor-Focus#Oracle Descriptor\|Descriptor]] + [[SF_CH5_Core_Descriptor-Focus#Oracle Focus\|Focus]] |
+| 89 - 98 | ▶[[SF_CH5_Core_Descriptor-Focus#Oracle Descriptor\|Descriptor]] + ▶[[SF_CH5_Core_Descriptor-Focus#Oracle Focus\|Focus]] |
 | 99 - 100 | ▶[[SF_CH5_Vault-Exterior#Oracle Precursor Vault Outer First Look\|Precursor Vault (orbital)]] |
-^table-ObservedFromSpace
+^table-Observed-From-Space
 
 ## Oracle: Ocean Planetside Feature
-> [!mechanics]- | Roll > `dice: [[SF_CH5_Planet-Ocean#^table-PlanetsideFeature]]` | Guidance
-> To begin exploration on a planet, generate one or two dominate feature's. If your exploration is prolonged morph these features using the [[SF_CH5_Core_Descriptor-Focus#Oracle Descriptor|Descriptor]] and [[SF_CH5_Core_Descriptor-Focus#Oracle Focus|Focus]] oracles for prompts on variety. ^guidance-PlanetsideFeature
+> [!mechanics]- | Roll > <br>▶1 `dice: [[OT_ISSF_Planets#^Ocean-Feature]]`<br>▶2 `dice: [[OT_ISSF_Planets#^Ocean-Feature]]` | Guidance
+> To begin exploration on a planet, generate one or two dominate feature's. If your exploration is prolonged morph these features using the [[SF_CH5_Core_Descriptor-Focus#Oracle Descriptor|Descriptor]] and [[SF_CH5_Core_Descriptor-Focus#Oracle Focus|Focus]] oracles for prompts on variety. ^guidance-Feature
 
 | dice: 1d100 | Result @1-2 |
-|:---:|:--- |
+| :---: | --- |
 | 1 - 7 | Abyssal trenches |
 | 8 - 14 | Living islands |
 | 15 - 21 | Luminescent seas |
@@ -116,16 +116,16 @@ Ocean worlds may be an endless sea of water, but some are made up of other thala
 | 71 - 77 | Unrelenting rainfall |
 | 78 - 84 | Violent currents |
 | 85 - 91 | Windborne waterspouts |
-| 92 - 98 | ▶[[SF_CH5_Core_Descriptor-Focus#Oracle Descriptor\|Descriptor]] + [[SF_CH5_Core_Descriptor-Focus#Oracle Focus\|Focus]] |
+| 92 - 98 | ▶[[SF_CH5_Core_Descriptor-Focus#Oracle Descriptor\|Descriptor]] + ▶[[SF_CH5_Core_Descriptor-Focus#Oracle Focus\|Focus]] |
 | 99 - 100 | ▶[[SF_CH5_Vault-Exterior#Oracle Precursor Vault Outer First Look\|Precursor Vault (planetside)]] |
-^table-PlanetsideFeature
+^table-Feature
 
 ## Oracle: Ocean Life
-> [!mechanics]- | Roll > `dice: [[SF_CH5_Planet-Ocean#^table-Life]]` | Guidance
+> [!mechanics]- | Roll > `dice: [[OT_ISSF_Planets#^Ocean-Life]]` | Guidance
 > The general state of life currently on this planet. There may be a hidden feature given enough exploration that could contradict this result. ^guidance-Life
 
 | dice: 1d100 | Result |
-|:---:|:--- |
+| :---: | --- |
 | 1 - 5 | None |
 | 6 - 15 | Extinct |
 | 16 - 30 | Scarce |
@@ -135,11 +135,11 @@ Ocean worlds may be an endless sea of water, but some are made up of other thala
 ^table-Life
 
 ## Oracle: Ocean Sample Names
-> [!mechanics]- | Roll > `dice: [[SF_CH5_Planet-Ocean#^table-Names]]` | Guidance
+> [!mechanics]- | Roll > `dice: [[OT_ISSF_Planets#^Ocean-Names]]` | Guidance
 > Sample names that are suited to this planet type. Feel free to mix and match or create your own. ^guidance-Names
 
 | dice: 1d100 | Result |
-|:---:|:--- |
+| :---: | --- |
 | 1 - 5 | Aegir |
 | 6 - 10 | Alon |
 | 11 - 15 | Clarion |

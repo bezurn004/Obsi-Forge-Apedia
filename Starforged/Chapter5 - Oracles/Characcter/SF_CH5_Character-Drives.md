@@ -23,11 +23,11 @@ OracleDescriptor: "As more information is learned about a character use these or
 As more information is learned about a character use these oracles to flesh out their aspects.
 
 ## Oracle: Character Role
-> [!mechanics]- | Roll > `dice: [[SF_CH5_Character-Drives#^table-OclCharacterRole]]` | Guidance
-> Professions or occupation for a character. Generally this can be learned in simple conversations with an NPC that has some knowledge. However, some Role's may be more secretive, especially ones with illegal dealings. ^guidance-OclCharacterRole
+> [!mechanics]- | Roll > `dice: [[OT_ISSF_Characters#^Role]]` | Guidance
+> Professions or occupation for a character. Generally this can be learned in simple conversations with an NPC that has some knowledge. However, some Role's may be more secretive, especially ones with illegal dealings. ^guidance-Role
 
 | dice: 1d100 | Result |
-|:---:|:--- |
+| :---: | --- |
 | 1 - 2 | Agent |
 | 3 - 4 | AI |
 | 5 - 6 | Artisan |
@@ -76,11 +76,11 @@ As more information is learned about a character use these oracles to flesh out 
 | 91 - 92 | Thief |
 | 93 - 95 | ▶[[SF_CH5_Core_Action-Theme#Oracle Action\|Action]] + [[SF_CH5_Core_Action-Theme#Oracle Theme\|Theme]] |
 | 96 - 100 | Roll Twice |
-^table-OclCharacterRole
+^table-Role
 
 ## Oracle: Character Goal
-> [!mechanics]- | Roll > `dice: [[SF_CH5_Character-Drives#^table-OclCharacterGoal]]` | Guidance
-> Goals a character holds close to their heart, used to motivate their interactions through their interactions. ^guidance-OclCharacterGoal
+> [!mechanics]- | Roll > `dice: [[OT_ISSF_Characters#^Goal]]` | Guidance
+> Goals a character holds close to their heart, used to motivate their interactions through their interactions. ^guidance-Goal
 
 | dice: 1d100 | Result |
 | :---: | --- |
@@ -124,13 +124,13 @@ As more information is learned about a character use these oracles to flesh out 
 | 79 - 80 | Undermine a relationship |
 | 81 - 90 | ▶[[SF_CH5_Core_Action-Theme#Oracle Action\|Action]] + [[SF_CH5_Core_Action-Theme#Oracle Theme\|Theme]] |
 | 91 - 100 | Roll twice |
-^table-OclCharacterGoal
+^table-Goal
 
 *331 CHARACTERS*
 
 ## Oracle: Character Revealed Aspect
-> [!mechanics]- | Roll > `dice: [[SF_CH5_Character-Drives#^table-OclCharacterRevealedAspect]]` | Guidance
-> As you interact with a character and gain a deeper understanding of their nature and personality, roll on the character revealed aspect oracle to reveal new characteristics. You may ignore, reroll, or adjust contradictions. Or envision how those contradictions add interesting complexity to the character. ^guidance-OclCharacterRevealedAspect
+> [!mechanics]- | Roll > <br>▶1 `dice: [[OT_ISSF_Characters#^Revealed-Aspect]]`<br>▶2 `dice: [[OT_ISSF_Characters#^Revealed-Aspect]]`<br>▶3 `dice: [[OT_ISSF_Characters#^Revealed-Aspect]]` | Guidance
+> As you interact with a character and gain a deeper understanding of their nature and personality, roll on the character revealed aspect oracle to reveal new characteristics. You may ignore, reroll, or adjust contradictions. Or envision how those contradictions add interesting complexity to the character. ^guidance-Revealed-Aspect
 
 | dice: 1d100 | Result @1-3 |
 |:---:|:--- |
@@ -234,7 +234,7 @@ As more information is learned about a character use these oracles to flesh out 
 | 98 | Weary |
 | 99 | Wild |
 | 100 | Wise |
-^table-OclCharacterRevealedAspect
+^table-Revealed-Aspect
 
 *332 CHAPTER 5: ORACLES*
 

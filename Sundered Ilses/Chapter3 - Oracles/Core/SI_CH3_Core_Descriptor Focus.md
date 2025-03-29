@@ -24,8 +24,8 @@ When you [[SI_CH4_Ask the Oracle#Ask the Oracle Move Card|Ask the Oracle]] about
 Other oracle tables include prompts to check for a Descriptor and Focus (shown as ▶Descriptor + Focus). That’s your cue to roll on these tables and interpret the result.
 
 ## DESCRIPTOR
-> [!mechanics]- | Roll > `dice: [[SI_CH3_Core_Descriptor Focus#^table-OclDescriptor]]` | Guidance
-> Text ^guidance-OclDescriptor
+> [!mechanics]- | Roll > `dice: [[OT_ISSI_Core#^Descriptor]]` | Guidance
+> Text ^guidance-Descriptor
 
 | dice: 1d100 | Result |
 | :---: | --- |
@@ -129,13 +129,13 @@ Other oracle tables include prompts to check for a Descriptor and Focus (shown a
 | 98 | Valuable |
 | 99 | Violent |
 | 100 | Wrecked |
-^table-OclDescriptor
+^table-Descriptor
 
 *118 ORACLES*
 
 ## FOCUS
-> [!mechanics]- | Roll > `dice: [[SI_CH3_Core_Descriptor Focus#^table-OclFocus]]` | Guidance
-> Text ^guidance-OclFocus
+> [!mechanics]- | Roll > `dice: [[OT_ISSI_Core#^Focus]]` | Guidance
+> Text ^guidance-Focus
 
 | dice: 1d100 | Result |
 | :---: | --- |
@@ -239,7 +239,7 @@ Other oracle tables include prompts to check for a Descriptor and Focus (shown a
 | 98 | Weather |
 | 99 | Wind |
 | 100 | Wreckage |
-^table-OclFocus
+^table-Focus
 
 *119 CORE ORACLES*
 

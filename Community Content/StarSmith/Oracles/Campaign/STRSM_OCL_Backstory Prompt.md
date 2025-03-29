@@ -22,8 +22,8 @@ What happened in your past that set you on the path of wandering the stars?
 ## Oracle: Campaign Backstory Prompt
 This oracle can be used to replace the one provided on [[SF_CH2_Create Your Backstory#Backstory Oracle|Create Your Backstory (character)]].
 
-> [!mechanics]- | Roll > %%GetDice%% | Guidance
-> For some backstory inspiration, roll or pick from the table below. Take a moment to elaborate on the suggestion. Or just leave it a bit vague and mysterious for now; you can flesh it out in play. ^guidance-STRSM-OCL-OclCampaignBackstoryPrompt
+> [!mechanics]- | Roll > `dice: [[OT_STRSM_OCL_Campaign#^Backstory-Prompt]]` | Guidance
+> For some backstory inspiration, roll or pick from the table below. Take a moment to elaborate on the suggestion. Or just leave it a bit vague and mysterious for now; you can flesh it out in play. ^guidance-Backstory-Prompt
 
 | 1d100 | 1-2 | 3-4 | 5-6 |
 | :---: | --- | --- | --- |
@@ -42,11 +42,11 @@ This oracle can be used to replace the one provided on [[SF_CH2_Create Your Back
 | 82 - 87 | You were taken or lured away by someone | You work to see that a vision or prophecy will not come to pass | You were viewed as a pariah |
 | 88 - 94 | Your ambitions outgrew your humble origins | Your home did not survive a natural disaster | Your search for knowledge carried you far away |
 | 95 - 100 | Your wanderlust carried you far away | Your kin abandoned you after learning a troubling truth | Your unique genetic markers make you a target for illegal research |
-^table-STRSM-OCL-OclCampaignBackstoryPrompt
+^table-Backstory-Prompt
 
 ## Tags
-| Previous Page | Tags | Next Page | 
+| Section Page | Tags | Next Page | 
 | :--- | :---: | ---: |
-| **[[_STRSM_OCL_Campaign Oracles\|Campaign Oracles]]** | #Starsmith/Oracles/Campaign - #Pedia/Oracles/Campaign | **[[STRSM_OCL_Starship History\|Starship History Oracle]]** |
+| **[[_STRSM_OCL_Campaign Oracles\|Campaign (STRSM Oracles)]]** | #Starsmith/Oracles/Campaign | **[[STRSM_OCL_Starship History\|Starship History (STRSM Oracles)]]** |
 
 <font size=-2>Starsmith Oracles is created by Eric Bright and licensed for use under the Creative Commons Attribution 4.0 International License (CC-BY).</font>

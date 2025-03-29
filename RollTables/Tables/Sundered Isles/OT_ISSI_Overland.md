@@ -4,7 +4,7 @@
 
 | dice: 1d100 | Result |
 |:---:| --- |
-| 1 - 20 | Feature of the landscape ▶[[OT_ISSI_Overland#^Region-Landmarks\|Overland Region]]<br> `dice: [[OT_ISSI_Overland#^Region-Landmarks]]` |
+| 1 - 20 | Feature of the landscape ▶[[OT_ISSI_Overland#^Region-Landmarks\|Overland Region]]: Pick from current landmark |
 | 21 - 30 | Changing landscape ▶[[OT_ISSI_Overland#^Region-Landmarks\|Overland Region]]<br> `dice: [[OT_ISSI_Overland#^Region-Landmarks]]` |
 | 31 - 35 | Changing ▶[[OT_ISSI_Weather#Weather Conditions - Myriads\|Weather]] `dice: [[OT_ISSI_Weather#^Conditions-Myriads]]` |
 | 36 - 55 | Instance (choose one)<br>▶[[OT_ISSI_Overland#^Details\|Overland Detail]] `dice: [[OT_ISSI_Overland#^Details]]`<br>▶[[OT_ISSI_Core#^Descriptor\|D]] `dice: [[OT_ISSI_Core^Descriptor]]` + ▶[[OT_ISSI_Core#^Focus\|F]] `dice: [[OT_ISSI_Core^Focus]]` |
@@ -14,12 +14,12 @@
 | 86 - 100 | ▶R2 `dice: [[OT_ISSI_Overland#^Waypoint-Myriads]]` + `dice: [[OT_ISSI_Overland#^Waypoint-Myriads]]` |
 ^Waypoint-Myriads
 
-### Waypoints - Margins
-#incomplete
+## Waypoints - Margins
+#incomplete #oraclegeneratobject
 
 | dice: 1d100 | Result |
 |:---:| --- |
-| 1 - 20 | Feature of the landscape ▶[[OT_ISSI_Overland#^Region-Landmarks\|Overland Region]]<br> `dice: [[OT_ISSI_Overland#^Region-Landmarks]]` |
+| 1 - 20 | Feature of the landscape ▶[[OT_ISSI_Overland#^Region-Landmarks\|Overland Region]]: Pick from current landmark |
 | 21 - 30 | Changing landscape ▶[[OT_ISSI_Overland#^Region-Landmarks\|Overland Region]]<br> `dice: [[OT_ISSI_Overland#^Region-Landmarks]]` |
 | 31 - 38 | Changing ▶[[OT_ISSI_Weather#Weather Conditions - Margins\|Weather]] `dice: [[OT_ISSI_Weather#^Conditions-Margins]]` |
 | 39 - 58 | Instance (choose one)<br>▶[[OT_ISSI_Overland#^Details\|Overland Detail]] `dice: [[OT_ISSI_Overland#^Details]]`<br>▶[[OT_ISSI_Core#^Descriptor\|D]] `dice: [[OT_ISSI_Core^Descriptor]]` + ▶[[OT_ISSI_Core#^Focus\|F]] `dice: [[OT_ISSI_Core^Focus]]` |
@@ -30,11 +30,11 @@
 ^Waypoint-Margins
 
 ### Waypoints - Reaches
-#incomplete
+#incomplete #oraclegeneratobject
 
 | dice: 1d100 | Result |
 |:---:| --- |
-| 1 - 20 | Feature of the landscape ▶[[OT_ISSI_Overland#^Region-Landmarks\|Overland Region]]<br> `dice: [[OT_ISSI_Overland#^Region-Landmarks]]` |
+| 1 - 20 | Feature of the landscape ▶[[OT_ISSI_Overland#^Region-Landmarks\|Overland Region]]: Pick from current landmark |
 | 21 - 30 | Changing landscape ▶[[OT_ISSI_Overland#^Region-Landmarks\|Overland Region]]<br> `dice: [[OT_ISSI_Overland#^Region-Landmarks]]` |
 | 31 - 40 | Changing ▶[[OT_ISSI_Weather#Weather Conditions - Reaches\|Weather]] `dice: [[OT_ISSI_Weather#^Conditions-Reaches]]` |
 | 41 - 60 | Instance (choose one)<br>▶[[OT_ISSI_Overland#^Details\|Overland Detail]] `dice: [[OT_ISSI_Overland#^Details]]`<br>▶[[OT_ISSI_Core#^Descriptor\|D]] `dice: [[OT_ISSI_Core^Descriptor]]` + ▶[[OT_ISSI_Core#^Focus\|F]] `dice: [[OT_ISSI_Core^Focus]]` |
@@ -44,23 +44,23 @@
 | 86 - 100 | ▶R2 `dice: [[OT_ISSI_Overland#^Waypoint-Reaches]]` + `dice: [[OT_ISSI_Overland#^Waypoint-Reaches]]`|
 ^Waypoint-Reaches
 
-## Region Landmarks
+# Region Landmarks
 
 | dice: 1d100 | Result |
 |:---:| --- |
-| 1 - 20 | ▶[[OT_ISSI_Overland#^Landmark-Highlands\|Highlands]] - Hilly or mountainous<br>`dice: [[OT_ISSI_Overland^Landmark-Highlands]]` |
-| 21 - 45 | ▶[[OT_ISSI_Overland#^Landmark-Jungle\|Jungle]] - Dense tropical rainforest<br>`dice: [[OT_ISSI_Overland^Landmark-Jungle]]` |
-| 46 - 50 | ▶[[OT_ISSI_Overland#^Landmark-Lava-Field\|Lava Field]] - Lands scarred by volcanic eruptions<br>`dice: [[OT_ISSI_Overland^Landmark-Lava-Field]]` |
-| 51 - 55 | ▶[[OT_ISSI_Overland#^Landmark-Marsh\|Marsh]] - Waterlogged region with grasses and reeds<br>`dice: [[OT_ISSI_Overland^Landmark-Marsh]]` |
-| 56 - 60 | ▶[[OT_ISSI_Overland#^Landmark-River\|River]] - Major inland waterway<br>`dice: [[OT_ISSI_Overland^Landmark-River]]` |
-| 61 - 65 | ▶[[OT_ISSI_Overland#^Landmark-Scrub\|Scrub]] - Open landscape dominated by grass or shrubs<br>`dice: [[OT_ISSI_Overland^Landmark-Scrub]]` |
-| 66 - 75 | ▶[[OT_ISSI_Overland#^Landmark-Shore\|Shore]] - Where the land meets the sea<br>`dice: [[OT_ISSI_Overland^Landmark-Shore]]` |
-| 76 - 85 | ▶[[OT_ISSI_Overland#^Landmark-Swamp\|Swamp]] - Flooded forest with thick vegetation<br>`dice: [[OT_ISSI_Overland^Landmark-Swamp]]` |
-| 86 - 90 | ▶[[OT_ISSI_Overland#^Landmark-Wastes\|Wastes]] - Arid, rocky terrain<br>`dice: [[OT_ISSI_Overland^Landmark-Wastes]]` |
-| 91 - 100 | ▶[[OT_ISSI_Overland#^Landmark-Woodland\|Woodland]] - Forested lands<br>`dice: [[OT_ISSI_Overland^Landmark-Woodland]]` |
+| 1 - 20 | ▶[[OT_ISSI_Overland#^Landmark-Highlands\|Highlands]] - Hilly or mountainous |
+| 21 - 45 | ▶[[OT_ISSI_Overland#^Landmark-Jungle\|Jungle]] - Dense tropical rainforest |
+| 46 - 50 | ▶[[OT_ISSI_Overland#^Landmark-Lava-Field\|Lava Field]] - Lands scarred by volcanic eruptions |
+| 51 - 55 | ▶[[OT_ISSI_Overland#^Landmark-Marsh\|Marsh]] - Waterlogged region with grasses and reeds |
+| 56 - 60 | ▶[[OT_ISSI_Overland#^Landmark-River\|River]] - Major inland waterway |
+| 61 - 65 | ▶[[OT_ISSI_Overland#^Landmark-Scrub\|Scrub]] - Open landscape dominated by grass or shrubs |
+| 66 - 75 | ▶[[OT_ISSI_Overland#^Landmark-Shore\|Shore]] - Where the land meets the sea |
+| 76 - 85 | ▶[[OT_ISSI_Overland#^Landmark-Swamp\|Swamp]] - Flooded forest with thick vegetation |
+| 86 - 90 | ▶[[OT_ISSI_Overland#^Landmark-Wastes\|Wastes]] - Arid, rocky terrain |
+| 91 - 100 | ▶[[OT_ISSI_Overland#^Landmark-Woodland\|Woodland]] - Forested lands |
 ^Region-Landmarks
 
-### Landmarks - Highlands
+## Landmarks - Highlands
 
 | dice: 1d100 | Result [skull] _[[OT_ISSI_Overland#^Cursed-Landmark\|below]]_ |
 | :---: | --- |
@@ -86,7 +86,7 @@
 | 96 - 100 | Winding footpath |
 ^Landmark-Highlands
 
-### Landmarks - Jungle
+## Landmarks - Jungle
 
 | dice: 1d100 | Result [skull] _[[OT_ISSI_Overland#^Cursed-Landmark\|below]]_ |
 | :---: | --- |
@@ -112,7 +112,7 @@
 | 96 - 100 | Wide, slow-moving river |
 ^Landmark-Jungle
 
-### Landmarks - Lava Field
+## Landmarks - Lava Field
 
 | dice: 1d100 | Result [skull] _[[OT_ISSI_Overland#^Cursed-Landmark\|below]]_ |
 | :---: | --- |
@@ -138,7 +138,7 @@
 | 96 - 100 | Vents spewing steam and volcanic gases |
 ^Landmark-Lava-Field
 
-### Landmarks - Marsh
+## Landmarks - Marsh
 
 | dice: 1d100 | Result [skull] _[[OT_ISSI_Overland#^Cursed-Landmark\|below]]_ |
 | :---: | --- |
@@ -164,7 +164,7 @@
 | 96 - 100 | Witchlights dance above dark pools |
 ^Landmark-Marsh
 
-### Landmarks - Scrub
+## Landmarks - Scrub
 
 | dice: 1d100 | Result [skull] _[[OT_ISSI_Overland#^Cursed-Landmark\|below]]_ |
 | :---: | --- |
@@ -190,7 +190,7 @@
 | 96 - 100 | Weathered burial mounds |
 ^Landmark-Scrub
 
-### Landmarks - River
+## Landmarks - River
 
 | dice: 1d100 | Result [skull] _[[OT_ISSI_Overland#^Cursed-Landmark\|below]]_ |
 | :---: | --- |
@@ -216,7 +216,7 @@
 | 96 - 100 | Wrecked ship or boat |
 ^Landmark-River
 
-### Landmarks - Shore
+## Landmarks - Shore
 
 | dice: 1d100 | Result [skull] _[[OT_ISSI_Overland#^Cursed-Landmark\|below]]_ |
 | :---: | --- |
@@ -242,7 +242,7 @@
 | 96 - 100 | Wide, saltwater channel |
 ^Landmark-Shore
 
-### Landmarks - Swamp
+## Landmarks - Swamp
 
 | dice: 1d100 | Result [skull] _[[OT_ISSI_Overland#^Cursed-Landmark\|below]]_ |
 | :---: | --- |
@@ -268,7 +268,7 @@
 | 96 - 100 | Wrecked ship or boat |
 ^Landmark-Swamp
 
-### Landmarks - Wastes
+## Landmarks - Wastes
 
 | dice: 1d100 | Result [skull] _[[OT_ISSI_Overland#^Cursed-Landmark\|below]]_ |
 | :---: | --- |
@@ -294,7 +294,7 @@
 | 96 - 100 | Towering stone arches |
 ^Landmark-Wastes
 
-### Landmarks - Woodland
+## Landmarks - Woodland
 
 | dice: 1d100 | Result [skull] _[[OT_ISSI_Overland#^Cursed-Landmark\|below]]_ |
 | :---: | --- |

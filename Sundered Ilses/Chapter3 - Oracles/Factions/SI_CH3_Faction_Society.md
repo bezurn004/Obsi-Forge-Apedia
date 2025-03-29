@@ -24,8 +24,8 @@ OracleDescriptor: ""
 Text
 
 ## Oracle: Society Chronicles
-> [!mechanics]- | Roll >▶1 `dice: [[OT_ISSI_Factions#^Society-Chronicles]]`<br>▶2 `dice: [[OT_ISSI_Factions#^Society-Chronicles]]`<br>▶3 `dice: [[OT_ISSI_Factions#^Society-Chronicles]]`<br> | Guidance
-> Use this table to generate a history of notable events that shaped a society. Create a timeline of two or three milestones, envisioning how they led the society to its current place among the isles. The most recent event can help inspire a current situation that creates troubles or opportunities for these people. ^guidance-OclSocietyChronicles
+> [!mechanics]- | Roll ><br>▶1 `dice: [[OT_ISSI_Factions#^Society-Chronicles]]`<br>▶2 `dice: [[OT_ISSI_Factions#^Society-Chronicles]]`<br>▶3 `dice: [[OT_ISSI_Factions#^Society-Chronicles]]`<br> | Guidance
+> Use this table to generate a history of notable events that shaped a society. Create a timeline of two or three milestones, envisioning how they led the society to its current place among the isles. The most recent event can help inspire a current situation that creates troubles or opportunities for these people. ^guidance-Chronicles
 
 | dice: 1d100 | Result @2-3 |
 | :---: | --- |
@@ -73,11 +73,11 @@ Text
 | 94 - 96 | Undertook a great migration or exodus |
 | 97 - 98 | Unified disparate tribes or clans |
 | 99 - 100 | Vanquished a rival or enemy |
-^table-OclSocietyChronicles
+^table-Chronicles
 
 ## Oracle: Society Overseers
 > [!mechanics]- | Roll > `dice: [[OT_ISSI_Factions#^Overseers]]` | Guidance
-> Use this table to reveal the most influential or powerful leaders within a society. ^guidance-OclSocietyOverseers
+> Use this table to reveal the most influential or powerful leaders within a society. ^guidance-Overseers
 
 | dice: 1d100 | Result |
 | :---: | --- |
@@ -95,13 +95,13 @@ Text
 | 71 - 80 | Single absolute authority |
 | 81 - 90 | Operatives of another faction |
 | 91 - 100 | Varied or informal leadership |
-^table-OclSocietyOverseers
+^table-Overseers
 
 *178 ORACLES*
 
 ## Oracle: Society Touchstone
-> [!mechanics]- | Roll > ▶1 `dice: [[OT_ISSI_Factions#^Touchstone]]`<br>▶2 `dice: [[OT_ISSI_Factions#^Touchstone]]`<br>▶3 `dice: [[OT_ISSI_Factions#^Touchstone]]` | Guidance
-> These touchstones represent common aspects of a society—not universal truths. Individual people and communities can contradict these assumptions with their own touchstones. If you encounter a far-flung community that is part of a known society, you can recheck this table for unique characteristics.  ^guidance-OclSocietyTouchstone
+> [!mechanics]- | Roll ><br>▶1 `dice: [[OT_ISSI_Factions#^Touchstone]]`<br>▶2 `dice: [[OT_ISSI_Factions#^Touchstone]]`<br>▶3 `dice: [[OT_ISSI_Factions#^Touchstone]]` | Guidance
+> These touchstones represent common aspects of a society—not universal truths. Individual people and communities can contradict these assumptions with their own touchstones. If you encounter a far-flung community that is part of a known society, you can recheck this table for unique characteristics.  ^guidance-Touchstone
 
 | dice: 1d100 | Result @1-3 |
 | :---: | --- |
@@ -169,7 +169,7 @@ Text
 | 95 - 96 | Seeks wisdom from oracles or seers |
 | 97 - 98 | Shuns modern technology or weaponry |
 | 99 - 100 | Speaks an ancient language |
-^table-OclSocietyTouchstone
+^table-Touchstone
 
 *179 FACTION ORACLES*
 
@@ -180,7 +180,7 @@ Text
 > _Use this oracle to assist in generating a faction name from the below templates._
 > - ▶[[SI_CH3_Faction Name and Themes#Oracle Faction Name - Culture|Culture]]
 > - ▶[[SI_CH3_Faction Name and Themes#Oracle Faction Name - Culture|Culture]] + ▶[[#Oracle Society Identity|Society Identity]]
-> - ▶[[SI_CH3_Faction Name and Themes#Oracle Faction Name - Culture|Culture]] + ▶[[SI_CH3_Faction Name and Themes#Faction Name Themes|Theme Persona]] ^guidance-OclSocietyIdentity
+> - ▶[[SI_CH3_Faction Name and Themes#Oracle Faction Name - Culture|Culture]] + ▶[[SI_CH3_Faction Name and Themes#Faction Name Themes|Theme Persona]] ^guidance-Identity
 
 | dice: 1d100 | Result |
 | :---: | --- |
@@ -196,7 +196,7 @@ Text
 | 76 - 80 | Sept |
 | 81 - 95 | Tribe |
 | 96 - 100 | Unity |
-^table-OclSocietyIdentity
+^table-Identity
 
 *183 FACTION ORACLES*
 

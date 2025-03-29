@@ -76,7 +76,7 @@ Once you Pay the Price and resolve the immediate cost, envision what happens nex
 *233 FATE MOVES*
 
 ### Pay the Price Table
-| dice: 1d100 | `dice: [[SF_CH3_Pay the Price#^table-pay-the-price]]` |
+| dice: 1d100 | `dice: [[OT_ISSF_Moves#^Pay-the-Price]]` |
 | :---: | --- |
 | 1 – 2 | A trusted individual or community acts against you |
 | 3 – 4 | An individual or community you care about is exposed to danger |

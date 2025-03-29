@@ -23,11 +23,11 @@ OracleDescriptor: "As your approach a settlement begin to envision its compositi
  As your approach a settlement begin to envision its composition and how you are greeted.
 
 ## Oracle: Settlement First Look
-> [!mechanics]- | Roll > `dice: [[SF_CH5_Settle_Approach#^table-OclSettlementFirstLook]]` | Guidance
-> When first encountering a settlement choose or roll one to two times to generate the First Look. ^guidance-OclSettlementFirstLook
+> [!mechanics]- | Roll > <br>▶1 `dice: [[OT_ISSF_Settlements#^First-Look]]`<br>▶2 `dice: [[OT_ISSF_Settlements#^First-Look]]` | Guidance
+> When first encountering a settlement choose or roll one to two times to generate the First Look. ^guidance-First-Look
 
 | dice: 1d100 | Result @1-2 |
-|:---:|:--- |
+| :---: | --- |
 | 1 - 4 | Beautiful architecture |
 | 5 - 8 | Built from natural materials |
 | 9 - 14 | Built from scrap metal |
@@ -48,15 +48,15 @@ OracleDescriptor: "As your approach a settlement begin to envision its compositi
 | 81 - 83 | Temporary or seasonal location |
 | 84 - 87 | Toxic or polluted habitat |
 | 88 - 90 | Within or near ▶[[SF_CH5_Vault-Exterior\|Precursor Vault]] |
-| 91 - 100 | ▶[[SF_CH5_Core_Descriptor-Focus#Oracle Descriptor\|Descriptor]] + [[SF_CH5_Core_Descriptor-Focus#Oracle Focus\|Focus]] |
-^table-OclSettlementFirstLook
+| 91 - 100 | ▶[[SF_CH5_Core_Descriptor-Focus#Oracle Descriptor\|Descriptor]] + ▶[[SF_CH5_Core_Descriptor-Focus#Oracle Focus\|Focus]] |
+^table-First-Look
 
 ## Oracle: Settlement Initial Contact
-> [!mechanics]- | Roll > `dice: [[SF_CH5_Settle_Approach#^table-OclSettlementInitialContact]]` | Guidance
-> Choose or roll to find how initial contact with the settlement is characterized. ^guidance-OclSettlementInitialContact
+> [!mechanics]- | Roll > `dice: [[OT_ISSF_Settlements#^Initial-Contact]]]` | Guidance
+> Choose or roll to find how initial contact with the settlement is characterized. ^guidance-Initial-Contact
 
 | dice: 1d100 | Result |
-|:---:|:--- |
+| :---: | --- |
 | 1 - 20 | Welcoming |
 | 21 - 30 | Neutral / automated |
 | 31 - 50 | Wary |
@@ -68,14 +68,14 @@ OracleDescriptor: "As your approach a settlement begin to envision its compositi
 | 90 - 92 | Unresponsive |
 | 93 - 95 | Destroyed |
 | 96 - 100 | ▶[[SF_CH5_Derelict_Looks#Oracle Derelict First Look Outer\|Derelict Outer First Look]] |
-^table-OclSettlementInitialContact
+^table-Initial-Contact
 
 ## Oracle: Settlement Authority
-> [!mechanics]- | Roll > `dice: [[SF_CH5_Settle_Approach#^table-OclSettlementAuthority]]` | Guidance
-> Choose or roll to broadly how the settlement is governed when first encountering a settlement. ^guidance-OclSettlementAuthority
+> [!mechanics]- | Roll > `dice: [[OT_ISSF_Settlements#^Authority]]` | Guidance
+> Choose or roll to broadly how the settlement is governed when first encountering a settlement. ^guidance-Authority
 
 | dice: 1d100 | Result |
-|:---:|:--- |
+| :---: | --- |
 | 1 - 15 | None / lawless |
 | 16 - 30 | Ineffectual |
 | 31 - 45 | Tolerant |
@@ -83,7 +83,7 @@ OracleDescriptor: "As your approach a settlement begin to envision its compositi
 | 56 - 70 | Unyielding |
 | 71 - 85 | Corrupt |
 | 86 - 100 | Oppressive |
-^table-OclSettlementAuthority
+^table-Authority
 
 *323 SETTLEMENTS*
 

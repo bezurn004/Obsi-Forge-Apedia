@@ -20,11 +20,11 @@ OracleDescriptor: "Generate a celestial body at a location, usually for backgrou
 Generate a celestial body at a location, usually for background scenery.
 
 ## Oracle: Stellar Object
-> [!mechanics]- | Roll > `dice: [[SF_CH5_Stellar-Object#^table-OclStellarObject]]` | Guidance
-> Use this oracle to learn more about the primary star at a location. This is mostly to help you visualize your surroundings, but could be a hook for a new adventure.^guidance-OclStellarObject
+> [!mechanics]- | Roll > `dice: [[OT_ISSF_Space#^Stellar-Object]]` | Guidance
+> Use this oracle to learn more about the primary star at a location. This is mostly to help you visualize your surroundings, but could be a hook for a new adventure.^guidance-Stellar-Object
 
 | dice: 1d100 | Result |
-| :----: |:-------|
+| :---: | --- |
 | 1 - 15 | Smoldering red star |
 | 16 - 30 | Glowing orange star |
 | 31 - 45 | Burning yellow star |
@@ -38,7 +38,7 @@ Generate a celestial body at a location, usually for background scenery.
 | 91 - 98 | Hypergiant star generating turbulent solar winds |
 | 99 - 99 | Artificial star constructed by a long-dead civilization |
 | 100 | Unstable star showing signs of impending supernova |
-^table-OclStellarObject
+^table-Stellar-Object
 
 *303 SPACE ENCOUNTERS*
 

@@ -34,7 +34,7 @@ _Generate the nature of the surrounding terrain on an overland expedition._
 > [!mechanics]- | Roll > [skull] `dice: [[SI_CH3_The Cursed Die#^table-Cursed]]` `dice: [[OT_ISSI_Overland#^Region-Landmarks]]` | Guidance
 > Use this table to reveal the nature of surrounding terrain on an overland expedition. Or use the _[[SI_CH3_Island_Landscape#Oracle Island Terrain|Island Terrain]]_ and _[[SI_CH3_Island_Landscape#Oracle Island Vitality|Vitality]]_ tables (page 142) to help envision the lay of the land, and pick a region from this list based on that result.
 > 
-> You can combine multiple regions (Jungle Highlands, for example) into an oracle array. The following pages include Region Landmark tables for each terrain type. ^guidance-OclOverlandRegion
+> You can combine multiple regions (Jungle Highlands, for example) into an oracle array. The following pages include Region Landmark tables for each terrain type. ^guidance-Landmarks
 
 | Roll | Result | Details | Landmarks |
 | :---: | --- | --- | :---: |
@@ -48,14 +48,14 @@ _Generate the nature of the surrounding terrain on an overland expedition._
 | 76 - 85 | ▶[[#Oracle Region Landmark - Swamp\|Swamp]] | Flooded forest with thick vegetation | _pg 153_ |
 | 86 - 90 | ▶[[#Oracle Region Landmark - Wastes\|Wastes]] | Arid, rocky terrain | _pg 154_ |
 | 91 - 100 | ▶[[#Oracle Region Landmark - Woodland\|Woodland]] | Forested lands | _pg 154_ |
-^table-OclOverlandRegion
+^table-Landmarks
 
 *149 OVERLAND ORACLES*
 
 ## Oracle: Region Landmark - Highlands
 [[#Oracle Overland Region|Return to Region List]]
 > [!mechanics]- | Roll > [skull] `dice: [[SI_CH3_The Cursed Die#^table-Cursed]]` `dice: [[OT_ISSI_Overland^Landmark-Highlands]]` | Guidance
-> Hilly or mountainous terrain   ^guidance-OclLandmark-Highlands
+> Hilly or mountainous terrain   ^guidance-Landmark-Highlands
 
 | dice: 1d100 | Results [skull] _[[#Oracle Region Cursed Landmark\|pg 155]]_ |
 | :---: | --- |
@@ -79,12 +79,12 @@ _Generate the nature of the surrounding terrain on an overland expedition._
 | 86 - 90 | Vantage point with an expansive view |
 | 91 - 95 | Veins of ore |
 | 96 - 100 | Winding footpath |
-^table-OclLandmark-Highlands
+^table-Landmark-Highlands
 
 ## Oracle: Region Landmark - Jungle
 [[#Oracle Overland Region|Return to Region List]]
 > [!mechanics]- | Roll > [skull] `dice: [[SI_CH3_The Cursed Die#^table-Cursed]]` `dice: [[OT_ISSI_Overland^Landmark-Jungle]]` | Guidance
-> Dense tropical rainforest ^guidance-OclLandmark-Jungle
+> Dense tropical rainforest ^guidance-Landmark-Jungle
 
 | dice: 1d100 | Results [skull] _[[#Oracle Region Cursed Landmark\|pg 155]]_ |
 | :---: | --- |
@@ -108,14 +108,14 @@ _Generate the nature of the surrounding terrain on an overland expedition._
 | 86 - 90 | Water-filled sinkhole |
 | 91 - 95 | Whispering bamboo grove |
 | 96 - 100 | Wide, slow-moving river |
-^table-OclLandmark-Jungle
+^table-Landmark-Jungle
 
 *150 ORACLES*
 
 ## Oracle: Region Landmark - Lava Field
 [[#Oracle Overland Region|Return to Region List]]
 > [!mechanics]- | Roll > [skull] `dice: [[SI_CH3_The Cursed Die#^table-Cursed]]` `dice: [[OT_ISSI_Overland^Landmark-Lava-Field]]` | Guidance
-> Lands scarred by volcanic eruptions ^guidance-OclLandmark-LavaField
+> Lands scarred by volcanic eruptions ^guidance-Landmark-LavaField
 
 | dice: 1d100 | Results [skull] _[[#Oracle Region Cursed Landmark\|pg 155]]_ |
 | :---: | --- |
@@ -139,12 +139,12 @@ _Generate the nature of the surrounding terrain on an overland expedition._
 | 86 - 90 | Stubborn plantlife emerges from ruin |
 | 91 - 95 | Towering cinder cone |
 | 96 - 100 | Vents spewing steam and volcanic gases |
-^table-OclLandmark-LavaField
+^table-Landmark-LavaField
 
 ## Oracle: Region Landmark - Marsh
 [[#Oracle Overland Region|Return to Region List]]
 > [!mechanics]- | Roll > [skull] `dice: [[SI_CH3_The Cursed Die#^table-Cursed]]` `dice: [[OT_ISSI_Overland^Landmark-Marsh]]` | Guidance
-> Text ^guidance-OclLandmark-Marsh
+> Text ^guidance-Landmark-Marsh
 
 | dice: 1d100 | Results [skull] _[[#Oracle Region Cursed Landmark\|pg 155]]_ |
 | :---: | --- |
@@ -168,14 +168,14 @@ _Generate the nature of the surrounding terrain on an overland expedition._
 | 86 - 90 | Wide channel of deep water |
 | 91 - 95 | Wide, algae-covered pond |
 | 96 - 100 | Witchlights dance above dark pools |
-^table-OclLandmark-Marsh
+^table-Landmark-Marsh
 
 *151 OVERLAND ORACLES*
 
 ## Oracle: Region Landmark - Scrub
 [[#Oracle Overland Region|Return to Region List]]
 > [!mechanics]- | Roll > [skull] `dice: [[SI_CH3_The Cursed Die#^table-Cursed]]` `dice: [[OT_ISSI_Overland^Landmark-Scrub]]` | Guidance
-> Open landscape dominated by grass or shrubs ^guidance-OclLandmark-Scrub
+> Open landscape dominated by grass or shrubs ^guidance-Landmark-Scrub
 
 | dice: 1d100 | Results [skull] _[[#Oracle Region Cursed Landmark\|pg 155]]_ |
 | :---: | --- |
@@ -199,12 +199,12 @@ _Generate the nature of the surrounding terrain on an overland expedition._
 | 86 - 90 | Towering, solitary tree |
 | 91 - 95 | Watering hole |
 | 96 - 100 | Weathered burial mounds |
-^table-OclLandmark-Scrub
+^table-Landmark-Scrub
 
 ## Oracle: Region Landmark - River
 [[#Oracle Overland Region|Return to Region List]]
 > [!mechanics]- | Roll > [skull] `dice: [[SI_CH3_The Cursed Die#^table-Cursed]]` `dice: [[OT_ISSI_Overland^Landmark-River]]` | Guidance
-> Major inland waterway ^guidance-OclLandmark-River
+> Major inland waterway ^guidance-Landmark-River
 
 | dice: 1d100 | Results [skull] _[[#Oracle Region Cursed Landmark\|pg 155]]_ |
 | :---: | --- |
@@ -228,14 +228,14 @@ _Generate the nature of the surrounding terrain on an overland expedition._
 | 86 - 90 | Strong current leads to a high waterfall |
 | 91 - 95 | Trees crowd the river's edge |
 | 96 - 100 | Wrecked ship or boat |
-^table-OclLandmark-River
+^table-Landmark-River
 
 *152 ORACLES*
 
 ## Oracle: Region Landmark - Shore
 [[#Oracle Overland Region|Return to Region List]]
 > [!mechanics]- | Roll > [skull] `dice: [[SI_CH3_The Cursed Die#^table-Cursed]]` `dice: [[OT_ISSI_Overland^Landmark-Shore]]` | Guidance
-> Where the land meets the sea ^guidance-OclLandmark-Shore
+> Where the land meets the sea ^guidance-Landmark-Shore
 
 | dice: 1d100 | Results [skull] _[[#Oracle Region Cursed Landmark\|pg 155]]_ |
 | :---: | --- |
@@ -259,12 +259,12 @@ _Generate the nature of the surrounding terrain on an overland expedition._
 | 86 - 90 | Watery sea cave |
 | 91 - 95 | Wave-swept pebble beach |
 | 96 - 100 | Wide, saltwater channel |
-^table-OclLandmark-Shore
+^table-Landmark-Shore
 
 ## Oracle: Region Landmark - Swamp
 [[#Oracle Overland Region|Return to Region List]]
 > [!mechanics]- | Roll > [skull] `dice: [[SI_CH3_The Cursed Die#^table-Cursed]]` `dice: [[OT_ISSI_Overland^Landmark-Swamp]]` | Guidance
-> Flooded forest with thick vegetation ^guidance-OclLandmark-Swamp
+> Flooded forest with thick vegetation ^guidance-Landmark-Swamp
 
 | dice: 1d100 | Results [skull] _[[#Oracle Region Cursed Landmark\|pg 155]]_ |
 | :---: | --- |
@@ -288,14 +288,14 @@ _Generate the nature of the surrounding terrain on an overland expedition._
 | 86 - 90 | Thick vegetation in mucky soil |
 | 91 - 95 | Watery maze of towering tree trunks |
 | 96 - 100 | Wrecked ship or boat |
-^table-OclLandmark-Swamp
+^table-Landmark-Swamp
 
 *153 OVERLAND ORACLES*
 
 ## Oracle: Region Landmark - Wastes
 [[#Oracle Overland Region|Return to Region List]]
 > [!mechanics]- | Roll > [skull] `dice: [[SI_CH3_The Cursed Die#^table-Cursed]]` `dice: [[OT_ISSI_Overland^Landmark-Wastes]]` | Guidance
-> Arid, rocky terrain ^guidance-OclLandmark-Wastes
+> Arid, rocky terrain ^guidance-Landmark-Wastes
 
 | dice: 1d100 | Results [skull] _[[#Oracle Region Cursed Landmark\|pg 155]]_ |
 | :---: | --- |
@@ -319,12 +319,12 @@ _Generate the nature of the surrounding terrain on an overland expedition._
 | 86 - 90 | Sprawling bones of a leviathan |
 | 91 - 95 | Sun-bleached skeletal remains |
 | 96 - 100 | Towering stone arches |
-^table-OclLandmark-Wastes
+^table-Landmark-Wastes
 
 ## Oracle: Region Landmark - Woodland
 [[#Oracle Overland Region|Return to Region List]]
 > [!mechanics]- | Roll > [skull] `dice: [[SI_CH3_The Cursed Die#^table-Cursed]]` `dice: [[OT_ISSI_Overland^Landmark-Woodland]]` | Guidance
-> Forested lands ^guidance-OclLandmark-Woodland
+> Forested lands ^guidance-Landmark-Woodland
 
 | dice: 1d100 | Results [skull] _[[#Oracle Region Cursed Landmark\|pg 155]]_ |
 | :---: | --- |
@@ -348,14 +348,14 @@ _Generate the nature of the surrounding terrain on an overland expedition._
 | 86 - 90 | Widespread thicket of prickly shrubs |
 | 91 - 95 | Wildflower meadow |
 | 96 - 100 | Well-used walking path |
-^table-OclLandmark-Woodland
+^table-Landmark-Woodland
 
 *154 ORACLES*
 
 ## Oracle: Region Cursed Landmark
 [[#Oracle Overland Region|Return to Region List]]
 > [!mechanics]- | Roll > `dice: [[OT_ISSI_Overland^Cursed-Landmark]]` | Guidance
-> _Roll here when making a match on one of the landmark regions above to give the scene an extraordinary feature._ ^guidance-OclCursedLandmark
+> _Roll here when making a match on one of the landmark regions above to give the scene an extraordinary feature._ ^guidance-CursedLandmark
 
 | dice: 1d100 | Results |
 | :---: | --- |
@@ -383,7 +383,7 @@ _Generate the nature of the surrounding terrain on an overland expedition._
 | 85 - 89 | Foreboding ▶[[SI_CH3_Cave_Creation\|Cave]]; _pg 204_ |
 | 90 - 94 | Grounded ▶[[SI_CH3_Shipwreck_Creation\|Shipwreck]]; _pg 198_ |
 | 95 - 100 | Roll twice |
-^table-OclCursedLandmark
+^table-CursedLandmark
 
 *155 OVERLAND ORACLES*
 

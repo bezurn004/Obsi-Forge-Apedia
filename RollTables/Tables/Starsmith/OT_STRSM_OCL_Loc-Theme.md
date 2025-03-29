@@ -1,5 +1,3 @@
-# Location Theme
-
 # Locations
 
 | dice: 1d200 | Result |
@@ -29,7 +27,7 @@
 ### Feature
 
 | dice: 1d100 | Result |
-|:----:|:-------|
+| :---: | --- |
 | 1 - 8 | Dried wadi awaiting the rainy season |
 | 9 - 16 | Intricate rock formation sculpted by the wind |
 | 17 - 24 | Large sinkhole of swirling sand |
@@ -42,13 +40,13 @@
 | 73 - 80 | Row upon row of hoodoos |
 | 81 - 88 | Tiny dunes rippling like waves |
 | 89 - 96 | Unending stretch of cracked, flat ground |
-| 97 - 100 | ▶D+F `dice: [[OT_STRSM_OCL_Core^Core-Descriptor]]` + `dice: [[OT_STRSM_OCL_Core^Core-Focus]]` |
+| 97 - 100 | ▶[[OT_STRSM_OCL_Core#Descriptor\|D]] `dice: [[OT_STRSM_OCL_Core#^Descriptor]]` + ▶[[OT_STRSM_OCL_Core#Focus\|F]] `dice: [[OT_STRSM_OCL_Core#^Focus]]` |
 ^Arid-Feature
 
 ### Opportunity
 
 | dice: 1d100 | Result |
-|:----:|:-------|
+| :---: | --- |
 | 1 - 20 | Blowing sands reveal rare resource deposit |
 | 21 - 40 | Cave entrance offers shelter |
 | 41 - 60 | Evidence of previous explorers offers a clue |
@@ -59,7 +57,7 @@
 ### Peril
 
 | dice: 1d100 | Result |
-|:----:|:-------|
+| :---: | --- |
 | 1 - 9 | Billowing sandstorm chokes the air |
 | 10 - 18 | Extreme temperatures |
 | 19 - 27 | Foe hidden beneath the sand reveals itself |
@@ -70,7 +68,7 @@
 | 64 - 72 | Lost without landmarks to guide you |
 | 73 - 81 | Rain storm brings flash floods |
 | 82 - 90 | Whirlpool of sand pulls you down |
-| 91 - 98 | ▶A+T `dice: [[OT_STRSM_OCL_Core^Core-Action]]` + `dice: [[OT_STRSM_OCL_Core^Core-Theme]]` |
+| 91 - 98 | ▶[[OT_STRSM_OCL_Core#Action\|A]] `dice: [[OT_STRSM_OCL_Core#^Action]]` + ▶[[OT_STRSM_OCL_Core#Theme\|T]] `dice: [[OT_STRSM_OCL_Core#^Theme]]` |
 | 99 - 100 | ▶R2 `dice: [[OT_STRSM_OCL_Loc-Theme#^Arid-Peril]]` + `dice: [[OT_STRSM_OCL_Loc-Theme#^Arid-Peril]]` |
 ^Arid-Peril
 
@@ -79,7 +77,7 @@
 ### Feature
 
 | dice: 1d100 | Result |
-|:----:|:-------|
+| :---: | --- |
 | 1 - 8 | Ambient lifeforms feeding off chronal energy |
 | 9 - 16 | Artifact or natural occurrence acting as a focal point |
 | 17 - 24 | Beings, objects, or events stuck in a short time loop |
@@ -92,13 +90,13 @@
 | 73 - 80 | Shifting landscapes |
 | 81 - 88 | Slow movements become rapid |
 | 89 - 96 | Visions of parallel universes |
-| 97 - 100 | ▶D+F `dice: [[OT_STRSM_OCL_Core^Core-Descriptor]]` + `dice: [[OT_STRSM_OCL_Core^Core-Focus]]` |
+| 97 - 100 | ▶[[OT_STRSM_OCL_Core#Descriptor\|D]] `dice: [[OT_STRSM_OCL_Core#^Descriptor]]` + ▶[[OT_STRSM_OCL_Core#Focus\|F]] `dice: [[OT_STRSM_OCL_Core#^Focus]]` |
 ^Chronal-Feature
 
 ### Opportunity
 
 | dice: 1d100 | Result |
-|:----:|:-------|
+| :---: | --- |
 | 1 - 20 | Butterfly point offers a dangerous gamble |
 | 21 - 40 | Contact with a helpful ally outside your time |
 | 41 - 60 | Future visions allow an option to avoid hardship |
@@ -109,7 +107,7 @@
 ### Peril
 
 | dice: 1d100 | Result |
-|:----:|:-------|
+| :---: | --- |
 | 1 - 9 | Caught in a time paradox |
 | 10 - 18 | Changes in timeline slip from memory |
 | 19 - 27 | Chronal energies build to a tipping point |
@@ -120,7 +118,7 @@
 | 64 - 72 | Rapid time decay of environment |
 | 73 - 81 | Shunted backward in time |
 | 82 - 90 | Shunted forward in time |
-| 91 - 98 | ▶A+T `dice: [[OT_STRSM_OCL_Core^Core-Action]]` + `dice: [[OT_STRSM_OCL_Core^Core-Theme]]` |
+| 91 - 98 | ▶[[OT_STRSM_OCL_Core#Action\|A]] `dice: [[OT_STRSM_OCL_Core#^Action]]` + ▶[[OT_STRSM_OCL_Core#Theme\|T]] `dice: [[OT_STRSM_OCL_Core#^Theme]]` |
 | 99 - 100 | ▶R2 `dice: [[OT_STRSM_OCL_Loc-Theme#^Chronal-Peril]]` + `dice: [[OT_STRSM_OCL_Loc-Theme#^Chronal-Peril]]` |
 ^Chronal-Peril
 
@@ -129,7 +127,7 @@
 ### Feature
 
 | dice: 1d100 | Result |
-|:----:|:-------|
+| :---: | --- |
 | 1 - 8 | Areas of variable gravity |
 | 9 - 16 | Bridge connecting islands or platforms |
 | 17 - 24 | Central control hub |
@@ -142,13 +140,13 @@
 | 73 - 80 | Staircase of floating sections |
 | 81 - 88 | Tethers of iron or energy |
 | 89 - 96 | Zipline or tube transport connecting areas |
-| 97 - 100 | ▶D+F `dice: [[OT_STRSM_OCL_Core^Core-Descriptor]]` + `dice: [[OT_STRSM_OCL_Core^Core-Focus]]` |
+| 97 - 100 | ▶[[OT_STRSM_OCL_Core#Descriptor\|D]] `dice: [[OT_STRSM_OCL_Core#^Descriptor]]` + ▶[[OT_STRSM_OCL_Core#Focus\|F]] `dice: [[OT_STRSM_OCL_Core#^Focus]]` |
 ^Floating-Feature
 
 ### Opportunity
 
 | dice: 1d100 | Result |
-|:----:|:-------|
+| :---: | --- |
 | 1-20 | Access to a rare resource |
 | 21-40 | Access to useful equipment |
 | 41-60 | Changes in gravity hamper your foes |
@@ -159,7 +157,7 @@
 ### Peril
 
 | dice: 1d100 | Result |
-|:----:|:-------|
+| :---: | --- |
 | 1 - 9 | Airborne foe moves to attack |
 | 10 - 18 | Crumbling islands beneath your feet |
 | 19 - 27 | Dramatic shift in orientation |
@@ -170,7 +168,7 @@
 | 64 - 72 | Spinning forces of inertia threaten balance |
 | 73 - 81 | Sudden shift in gravity or gravity&#x27;s direction |
 | 82 - 90 | Wide gulf of open air |
-| 91 - 98 | ▶A+T `dice: [[OT_STRSM_OCL_Core^Core-Action]]` + `dice: [[OT_STRSM_OCL_Core^Core-Theme]]` |
+| 91 - 98 | ▶[[OT_STRSM_OCL_Core#Action\|A]] `dice: [[OT_STRSM_OCL_Core#^Action]]` + ▶[[OT_STRSM_OCL_Core#Theme\|T]] `dice: [[OT_STRSM_OCL_Core#^Theme]]` |
 | 99 - 100 | ▶R2 `dice: [[OT_STRSM_OCL_Loc-Theme#^Floating-Peril]]` + `dice: [[OT_STRSM_OCL_Loc-Theme#^Floating-Peril]]` |
 ^Floating-Peril
 
@@ -179,7 +177,7 @@
 ### Feature
 
 | dice: 1d100 | Result |
-|:----:|:-------|
+| :---: | --- |
 | 1 - 8 | Deep and murky waters |
 | 9 - 16 | Flotsam and jetsam |
 | 17 - 24 | Pockets of thin - membraned atmosphere |
@@ -192,13 +190,13 @@
 | 73 - 80 | Underwater tunnels of unknown distance |
 | 81 - 88 | Unseen obstacles just beneath the surface |
 | 89 - 96 | Water bursting through cracked barrier |
-| 97 - 100 | ▶D+F `dice: [[OT_STRSM_OCL_Core^Core-Descriptor]]` + `dice: [[OT_STRSM_OCL_Core^Core-Focus]]` |
+| 97 - 100 | ▶[[OT_STRSM_OCL_Core#Descriptor\|D]] `dice: [[OT_STRSM_OCL_Core#^Descriptor]]` + ▶[[OT_STRSM_OCL_Core#Focus\|F]] `dice: [[OT_STRSM_OCL_Core#^Focus]]` |
 ^Flooded-Feature
 
 ### Opportunity
 
 | dice: 1d100 | Result |
-|:----:|:-------|
+| :---: | --- |
 | 1 - 20 | Draining water reveals a secret or clue |
 | 21 - 40 | Erosion opens a shortcut or safer passage |
 | 41 - 60 | Opening for foes to be washed away |
@@ -209,7 +207,7 @@
 ### Peril
 
 | dice: 1d100 | Result |
-|:----:|:-------|
+| :---: | --- |
 | 1 - 9 | Eroding passageways |
 | 10 - 18 | Large, swift moving debris |
 | 19 - 27 | Lifeforms stirring in the deep |
@@ -220,7 +218,7 @@
 | 64 - 72 | Thundering rapids |
 | 73 - 81 | Vortex pulling you down |
 | 82 - 90 | Waterfall into the darkness |
-| 91 - 98 | ▶A+T `dice: [[OT_STRSM_OCL_Core^Core-Action]]` + `dice: [[OT_STRSM_OCL_Core^Core-Theme]]` |
+| 91 - 98 | ▶[[OT_STRSM_OCL_Core#Action\|A]] `dice: [[OT_STRSM_OCL_Core#^Action]]` + ▶[[OT_STRSM_OCL_Core#Theme\|T]] `dice: [[OT_STRSM_OCL_Core#^Theme]]` |
 | 99 - 100 | ▶R2 `dice: [[OT_STRSM_OCL_Loc-Theme#^Flooded-Peril]]` + `dice: [[OT_STRSM_OCL_Loc-Theme#^Flooded-Peril]]` |
 ^Flooded-Peril
 
@@ -229,7 +227,7 @@
 ### Feature
 
 | dice: 1d100 | Result |
-|:----:|:-------|
+| :---: | --- |
 | 1 - 8 | Abandoned equipment frozen solid |
 | 9 - 16 | Frozen river or lake |
 | 17 - 24 | Frozen waterfalls |
@@ -242,13 +240,13 @@
 | 73 - 80 | Slick surfaces |
 | 81 - 88 | Sparkling icicles |
 | 89 - 96 | Tiny rivulets of melt water |
-| 97 - 100 | ▶D+F `dice: [[OT_STRSM_OCL_Core^Core-Descriptor]]` + `dice: [[OT_STRSM_OCL_Core^Core-Focus]]` |
+| 97 - 100 | ▶[[OT_STRSM_OCL_Core#Descriptor\|D]] `dice: [[OT_STRSM_OCL_Core#^Descriptor]]` + ▶[[OT_STRSM_OCL_Core#Focus\|F]] `dice: [[OT_STRSM_OCL_Core#^Focus]]` |
 ^Frozen-Feature
 
 ### Opportunity
 
 | dice: 1d100 | Result |
-|:----:|:-------|
+| :---: | --- |
 | 1 - 20 | Condensed ice crystal acts as temporary power booster |
 | 21 - 40 | Evidence of prior explorers preserved in ice |
 | 41 - 60 | Nearly enclosed space offers a moment of relative warmth |
@@ -259,7 +257,7 @@
 ### Peril
 
 | dice: 1d100 | Result |
-|:----:|:-------|
+| :---: | --- |
 | 1 - 9 | Avalanche |
 | 10 - 18 | Deceptively deep snow |
 | 19 - 27 | Falling icicles or hail |
@@ -270,7 +268,7 @@
 | 64 - 72 | Subzero temperatures |
 | 73 - 81 | Unexpected heat melts key support structure |
 | 82 - 90 | White-out conditions |
-| 91 - 98 | ▶A+T `dice: [[OT_STRSM_OCL_Core^Core-Action]]` + `dice: [[OT_STRSM_OCL_Core^Core-Theme]]` |
+| 91 - 98 | ▶[[OT_STRSM_OCL_Core#Action\|A]] `dice: [[OT_STRSM_OCL_Core#^Action]]` + ▶[[OT_STRSM_OCL_Core#Theme\|T]] `dice: [[OT_STRSM_OCL_Core#^Theme]]` |
 | 99 - 100 | ▶R2 `dice: [[OT_STRSM_OCL_Loc-Theme#^Frozen-Peril]]` + `dice: [[OT_STRSM_OCL_Loc-Theme#^Frozen-Peril]]` | 
 ^Frozen-Peril
 
@@ -279,7 +277,7 @@
 ### Feature
 
 | dice: 1d100 | Result |
-|:----:|:-------|
+| :---: | --- |
 | 1 - 8 | Ash - covered terrain |
 | 9 - 16 | Geysers of lava |
 | 17 - 24 | Giant rock columns or boulders |
@@ -292,13 +290,13 @@
 | 73 - 80 | Slowly cooling sections of lava |
 | 81 - 88 | Stable islands separated by lava |
 | 89 - 96 | Vents spewing steaming gases |
-| 97 - 100 | ▶D+F `dice: [[OT_STRSM_OCL_Core^Core-Descriptor]]` + `dice: [[OT_STRSM_OCL_Core^Core-Focus]]` |
+| 97 - 100 | ▶[[OT_STRSM_OCL_Core#Descriptor\|D]] `dice: [[OT_STRSM_OCL_Core#^Descriptor]]` + ▶[[OT_STRSM_OCL_Core#Focus\|F]] `dice: [[OT_STRSM_OCL_Core#^Focus]]` |
 ^Inferno-Feature
 
 ### Opportunity
 
 | dice: 1d100 | Result |
-|:----:|:-------|
+| :---: | --- |
 | 1 - 20 | Ancient complex that used the heat as a power source |
 | 21 - 40 | Chance to observe a scientific curiosity |
 | 41 - 60 | Opening to circumvent the most dangerous zones |
@@ -309,7 +307,7 @@
 ### Peril
 
 | dice: 1d100 | Result |
-|:----:|:-------|
+| :---: | --- |
 | 1 - 9 | Ash, soot, and smoke hide dangers |
 | 10 - 18 | Explosive eruption |
 | 19 - 27 | Foe uses heat to its advantage |
@@ -320,7 +318,7 @@
 | 64 - 72 | Razor-sharp rocks hardened by heat and pressure |
 | 73 - 81 | Rising lava levels |
 | 82 - 90 | Violent tremors |
-| 91 - 98 | ▶A+T `dice: [[OT_STRSM_OCL_Core^Core-Action]]` + `dice: [[OT_STRSM_OCL_Core^Core-Theme]]` |
+| 91 - 98 | ▶[[OT_STRSM_OCL_Core#Action\|A]] `dice: [[OT_STRSM_OCL_Core#^Action]]` + ▶[[OT_STRSM_OCL_Core#Theme\|T]] `dice: [[OT_STRSM_OCL_Core#^Theme]]` |
 | 99 - 100 | ▶R2 `dice: [[OT_STRSM_OCL_Loc-Theme#^Inferno-Peril]]` + `dice: [[OT_STRSM_OCL_Loc-Theme#^Inferno-Peril]]` |
 ^Inferno-Peril
 
@@ -329,7 +327,7 @@
 ### Feature
 
 | dice: 1d100 | Result |
-|:----:|:-------|
+| :---: | --- |
 | 1 - 8 | Bundles of nerve fibers |
 | 9 - 16 | Decaying or dying cells |
 | 17 - 24 | Dilating openings |
@@ -342,13 +340,13 @@
 | 73 - 80 | Tendons or connective tissues |
 | 81 - 88 | Undulating halls |
 | 89 - 96 | Winding nutrient passageways |
-| 97 - 100 | ▶D+F `dice: [[OT_STRSM_OCL_Core^Core-Descriptor]]` + `dice: [[OT_STRSM_OCL_Core^Core-Focus]]` |
+| 97 - 100 | ▶[[OT_STRSM_OCL_Core#Descriptor\|D]] `dice: [[OT_STRSM_OCL_Core#^Descriptor]]` + ▶[[OT_STRSM_OCL_Core#Focus\|F]] `dice: [[OT_STRSM_OCL_Core#^Focus]]` |
 ^Lifeform-Feature
 
 ### Opportunity
 
 | dice: 1d100 | Result |
-|:----:|:-------|
+| :---: | --- |
 | 1 - 20 | Access to rare biological resource |
 | 21 - 40 | Genetic clue or evidence |
 | 41 - 60 | Opening to heal or benefit the lifeform |
@@ -359,7 +357,7 @@
 ### Peril
 
 | dice: 1d100 | Result |
-|:----:|:-------|
+| :---: | --- |
 | 1 - 9 | Acidic digestive juices |
 | 10 - 18 | Biological contaminants |
 | 19 - 27 | Caught in the waste stream |
@@ -370,7 +368,7 @@
 | 64 - 72 | Surges of rapid expellant |
 | 73 - 81 | Symbiotic lifeforms attack |
 | 82 - 90 | Virulent disease |
-| 91 - 98 | ▶A+T `dice: [[OT_STRSM_OCL_Core^Core-Action]]` + `dice: [[OT_STRSM_OCL_Core^Core-Theme]]` |
+| 91 - 98 | ▶[[OT_STRSM_OCL_Core#Action\|A]] `dice: [[OT_STRSM_OCL_Core#^Action]]` + ▶[[OT_STRSM_OCL_Core#Theme\|T]] `dice: [[OT_STRSM_OCL_Core#^Theme]]` |
 | 99 - 100 | ▶R2 `dice: [[OT_STRSM_OCL_Loc-Theme#^Lifeform-Peril]]` + `dice: [[OT_STRSM_OCL_Loc-Theme#^Lifeform-Peril]]` |
 ^Lifeform-Peril
 
@@ -379,7 +377,7 @@
 ### Feature
 
 | dice: 1d100 | Result |
-|:----:|:-------|
+| :---: | --- |
 | 1 - 8 | Accoutrements of ceremony |
 | 9 - 16 | Animated cleaning tools or equipment |
 | 17 - 24 | Arcane symbols, runes, or sigils |
@@ -392,13 +390,13 @@
 | 73 - 80 | Lifeforms warped by magic |
 | 81 - 88 | Magic-infused technology |
 | 89 - 96 | Strange specimens magically caged |
-| 97 - 100 | ▶D+F `dice: [[OT_STRSM_OCL_Core^Core-Descriptor]]` + `dice: [[OT_STRSM_OCL_Core^Core-Focus]]` |
+| 97 - 100 | ▶[[OT_STRSM_OCL_Core#Descriptor\|D]] `dice: [[OT_STRSM_OCL_Core#^Descriptor]]` + ▶[[OT_STRSM_OCL_Core#Focus\|F]] `dice: [[OT_STRSM_OCL_Core#^Focus]]` |
 ^Mystic-Feature
 
 ### Opportunity
 
 | dice: 1d100 | Result |
-|:----:|:-------|
+| :---: | --- |
 | 1-20 | Ability to tap into a ley line&#x27;s power |
 | 21-40 | Artifact of arcane might or significance |
 | 41-60 | Helpful magical device or lifeform |
@@ -409,7 +407,7 @@
 ### Peril
 
 | dice: 1d100 | Result |
-|:----:|:-------|
+| :---: | --- |
 | 1 - 9 | Arcane knowledge in the wrong hands |
 | 10 - 18 | Important equipment malfunctions |
 | 19 - 27 | Lost in the illusions |
@@ -420,7 +418,7 @@
 | 64 - 72 | Technological interfaces only respond to magic |
 | 73 - 81 | Temptations to unlease a darker force |
 | 82 - 90 | Trapped by mystic energies |
-| 91 - 98 | ▶A+T `dice: [[OT_STRSM_OCL_Core^Core-Action]]` + `dice: [[OT_STRSM_OCL_Core^Core-Theme]]` |
+| 91 - 98 | ▶[[OT_STRSM_OCL_Core#Action\|A]] `dice: [[OT_STRSM_OCL_Core#^Action]]` + ▶[[OT_STRSM_OCL_Core#Theme\|T]] `dice: [[OT_STRSM_OCL_Core#^Theme]]` |
 | 99 - 100 | ▶R2 `dice: [[OT_STRSM_OCL_Loc-Theme#^Mystic-Peril]]` + `dice: [[OT_STRSM_OCL_Loc-Theme#^Mystic-Peril]]` |
 ^Mystic-Peril
 
@@ -429,7 +427,7 @@
 ### Feature
 
 | dice: 1d100 | Result |
-|:----:|:-------|
+| :---: | --- |
 | 1 - 8 | Cacophony of calls and shrieks |
 | 9 - 16 | Caracass picked clean |
 | 17 - 24 | Colonies of insects or tiny lifeforms |
@@ -442,13 +440,13 @@
 | 73 - 80 | Structures or formations covered in thick vines |
 | 81 - 88 | Traveling herds of herbivores |
 | 89 - 96 | Well-traveled game trail |
-| 97 - 100 | ▶D+F `dice: [[OT_STRSM_OCL_Core^Core-Descriptor]]` + `dice: [[OT_STRSM_OCL_Core^Core-Focus]]` |
+| 97 - 100 | ▶[[OT_STRSM_OCL_Core#Descriptor\|D]] `dice: [[OT_STRSM_OCL_Core#^Descriptor]]` + ▶[[OT_STRSM_OCL_Core#Focus\|F]] `dice: [[OT_STRSM_OCL_Core#^Focus]]` |
 ^Overgrown-Feature
 
 ### Opportunity
 
 | dice: 1d100 | Result |
-|:----:|:-------|
+| :---: | --- |
 | 1 - 20 | Access to area untouched for ages |
 | 21 - 40 | Access to rare biological specimen |
 | 41 - 60 | Lost artifact found |
@@ -459,7 +457,7 @@
 ### Peril
 
 | dice: 1d100 | Result |
-|:----:|:-------|
+| :---: | --- |
 | 1 - 9 | Aggressive and armored lifeforms |
 | 10 - 18 | Apex predator on the prowl |
 | 19 - 27 | Evidence of exploitation of lifeforms |
@@ -470,7 +468,7 @@
 | 64 - 72 | Protective parent lifeform attacks |
 | 73 - 81 | Spiked or razor-edged plants blocking the path |
 | 82 - 90 | Swarms of parasitic lifeforms |
-| 91 - 98 | ▶A+T `dice: [[OT_STRSM_OCL_Core^Core-Action]]` + `dice: [[OT_STRSM_OCL_Core^Core-Theme]]` |
+| 91 - 98 | ▶[[OT_STRSM_OCL_Core#Action\|A]] `dice: [[OT_STRSM_OCL_Core#^Action]]` + ▶[[OT_STRSM_OCL_Core#Theme\|T]] `dice: [[OT_STRSM_OCL_Core#^Theme]]` |
 | 99 - 100 | ▶R2 `dice: [[OT_STRSM_OCL_Loc-Theme#^Overgrown-Peril]]` + `dice: [[OT_STRSM_OCL_Loc-Theme#^Overgrown-Peril]]` |
 ^Overgrown-Peril
 
@@ -479,7 +477,7 @@
 ### Feature
 
 | dice: 1d100 | Result |
-|:----:|:-------|
+| :---: | --- |
 | 1 - 8 | Battle standard or beacon buoy |
 | 9 - 16 | Combatants fleeing the battle |
 | 17 - 24 | Command ship or center |
@@ -492,13 +490,13 @@
 | 73 - 80 | Scout observing enemy movements |
 | 81 - 88 | Vehicular wreckage |
 | 89 - 96 | Wounded troops hunkering down |
-| 97 - 100 | ▶D+F `dice: [[OT_STRSM_OCL_Core^Core-Descriptor]]` + `dice: [[OT_STRSM_OCL_Core^Core-Focus]]` |
+| 97 - 100 | ▶[[OT_STRSM_OCL_Core#Descriptor\|D]] `dice: [[OT_STRSM_OCL_Core#^Descriptor]]` + ▶[[OT_STRSM_OCL_Core#Focus\|F]] `dice: [[OT_STRSM_OCL_Core#^Focus]]` |
 ^War-Zone-Feature
 
 ### Opportunity
 
 | dice: 1d100 | Result |
-|:----:|:-------|
+| :---: | --- |
 | 1 - 20 | Helping a combatant in need may yield an ally |
 | 21 - 40 | Insight into the nature of the conflict |
 | 41 - 60 | Opening to avoid the fiercest section of battle |
@@ -509,7 +507,7 @@
 ### Peril
 
 | dice: 1d100 | Result |
-|:----:|:-------|
+| :---: | --- |
 | 1 - 9 | Ambushed by a lurking foe |
 | 10 - 18 | Automated suppressing fire |
 | 19 - 27 | Battlefield tech is triggered |
@@ -520,6 +518,6 @@
 | 64 - 72 | Mistaken for the enemy |
 | 73 - 81 | Opportunistic looters take notice |
 | 82 - 90 | Shrapnel or collateral damage |
-| 91 - 98 | ▶A+T `dice: [[OT_STRSM_OCL_Core^Core-Action]]` + `dice: [[OT_STRSM_OCL_Core^Core-Theme]]` |
+| 91 - 98 | ▶[[OT_STRSM_OCL_Core#Action\|A]] `dice: [[OT_STRSM_OCL_Core#^Action]]` + ▶[[OT_STRSM_OCL_Core#Theme\|T]] `dice: [[OT_STRSM_OCL_Core#^Theme]]` |
 | 99 - 100 | ▶R2 `dice: [[OT_STRSM_OCL_Loc-Theme#^War-Zone-Peril]]` + `dice: [[OT_STRSM_OCL_Loc-Theme#^War-Zone-Peril]]` |
 ^War-Zone-Peril

@@ -24,61 +24,61 @@ _Use the **Identity**, **Disposition**, and **Authority** oracles only if a sett
 
 ## Oracle: Settlement Controlling Faction
 > [!mechanics]- | Guidance
-> If the settlement’s location or your initial impression doesn’t reveal its identity, check the _Controlling Faction_ table below. If this place is inhabited or overseen by a known faction, roll or choose on your [[SI_CH1_Factions of the Isles#FACTION INFLUENCE GRID|faction influence grid]](page 50). If it is independent or aligned with an unknown faction, use the _[[#Oracle Settlement Disposition|Disposition]]_ and _[[#Oracle Settlement Authority|Authority]]_ tables to help envision the reaction to your arrival and the apparent nature of the leadership. ^guidance-SettlementIdentity
+> If the settlement’s location or your initial impression doesn’t reveal its identity, check the _Controlling Faction_ table below. If this place is inhabited or overseen by a known faction, roll or choose on your [[SI_CH1_Factions of the Isles#FACTION INFLUENCE GRID|faction influence grid]](page 50). If it is independent or aligned with an unknown faction, use the _[[#Oracle Settlement Disposition|Disposition]]_ and _[[#Oracle Settlement Authority|Authority]]_ tables to help envision the reaction to your arrival and the apparent nature of the leadership. ^guidance-Identity
 
 | Myriads<br>_Central Seas_ | Margins<br>_Outer Seas_ | Reaches<br>_Remote Seas_ | Result |
-|:---:|:---:|:---:| --- |
+|:---:|:---:| :---: | --- |
 | 1 - 60 | 1 - 45 | 1 - 30 | Known faction |
 | 61 - 75 | 46 - 65 | 31 - 55 | Unknown faction |
 | 76 - 90 | 66 - 90 | 56 - 90 | Independent |
 | 91 - 95 | 91 - 95 | 91 - 95 | Factions in cooperation |
 | 96 - 100 | 96 - 100 | 96 - 100 | Factions in conflict |
-^table-SettlementIdentity
+^table-Identity
 
 *167 SETTLEMENT ORACLES*
 
 ### Oracle: Settlement Controlling Faction - Myriads
 > [!mechanics]- | Roll > `dice: [[OT_ISSI_Settlements^Controlling-Faction-Myriads]]` | Guidance
-> If the settlement’s location or your initial impression doesn’t reveal its identity, check the _Controlling Faction_ table below. If this place is inhabited or overseen by a known faction, roll or choose on your [[SI_CH1_Factions of the Isles#FACTION INFLUENCE GRID|faction influence grid]](page 50)]. If it is independent or aligned with an unknown faction, use the _[[#Oracle Settlement Disposition|Disposition]]_ and _[[#Oracle Settlement Authority|Authority]]_ tables to help envision the reaction to your arrival and the apparent nature of the leadership. ^guidance-SettlementIdentity-Myriads
+> If the settlement’s location or your initial impression doesn’t reveal its identity, check the _Controlling Faction_ table below. If this place is inhabited or overseen by a known faction, roll or choose on your [[SI_CH1_Factions of the Isles#FACTION INFLUENCE GRID|faction influence grid]](page 50)]. If it is independent or aligned with an unknown faction, use the _[[#Oracle Settlement Disposition|Disposition]]_ and _[[#Oracle Settlement Authority|Authority]]_ tables to help envision the reaction to your arrival and the apparent nature of the leadership. ^guidance-Identity-Myriads
 
 | dice: 1d100 | Result |
-|:---:| --- |
+| :---: | --- |
 | 1 - 60 | Known faction |
 | 61 - 75 | Unknown faction |
 | 76 - 90 | Independent |
 | 91 - 95 | Factions in cooperation |
 | 96 - 100 | Factions in conflict |
-^table-SettlementIdentity-Myriads
+^table-Identity-Myriads
 
 ### Oracle: Settlement Controlling Faction - Margins
 > [!mechanics]- | Roll > `dice: [[OT_ISSI_Settlements^Controlling-Faction-Margins]]` | Guidance
-> If the settlement’s location or your initial impression doesn’t reveal its identity, check the _Controlling Faction_ table below. If this place is inhabited or overseen by a known faction, roll or choose on your [[SI_CH1_Factions of the Isles#FACTION INFLUENCE GRID|faction influence grid]](page 50)]. If it is independent or aligned with an unknown faction, use the _[[#Oracle Settlement Disposition|Disposition]]_ and _[[#Oracle Settlement Authority|Authority]]_ tables to help envision the reaction to your arrival and the apparent nature of the leadership. ^guidance-SettlementIdentity-Margins
+> If the settlement’s location or your initial impression doesn’t reveal its identity, check the _Controlling Faction_ table below. If this place is inhabited or overseen by a known faction, roll or choose on your [[SI_CH1_Factions of the Isles#FACTION INFLUENCE GRID|faction influence grid]](page 50)]. If it is independent or aligned with an unknown faction, use the _[[#Oracle Settlement Disposition|Disposition]]_ and _[[#Oracle Settlement Authority|Authority]]_ tables to help envision the reaction to your arrival and the apparent nature of the leadership. ^guidance-Identity-Margins
 
 | dice: 1d100 | Result |
-|:---:| --- |
+| :---: | --- |
 | 1 - 45 | Known faction |
 | 46 - 65 | Unknown faction |
 | 66 - 90 | Independent |
 | 91 - 95 | Factions in cooperation |
 | 96 - 100 | Factions in conflict |
-^table-SettlementIdentity-Margins
+^table-Identity-Margins
 
 ### Oracle: Settlement Controlling Faction - Reaches
 > [!mechanics]- | Roll > `dice: [[OT_ISSI_Settlements^Controlling-Faction-Reaches]]` | Guidance
-> If the settlement’s location or your initial impression doesn’t reveal its identity, check the _Controlling Faction_ table below. If this place is inhabited or overseen by a known faction, roll or choose on your [[SI_CH1_Factions of the Isles#FACTION INFLUENCE GRID|faction influence grid]](page 50)]. If it is independent or aligned with an unknown faction, use the _[[#Oracle Settlement Disposition|Disposition]]_ and _[[#Oracle Settlement Authority|Authority]]_ tables to help envision the reaction to your arrival and the apparent nature of the leadership. ^guidance-SettlementIdentity-Reaches
+> If the settlement’s location or your initial impression doesn’t reveal its identity, check the _Controlling Faction_ table below. If this place is inhabited or overseen by a known faction, roll or choose on your [[SI_CH1_Factions of the Isles#FACTION INFLUENCE GRID|faction influence grid]](page 50)]. If it is independent or aligned with an unknown faction, use the _[[#Oracle Settlement Disposition|Disposition]]_ and _[[#Oracle Settlement Authority|Authority]]_ tables to help envision the reaction to your arrival and the apparent nature of the leadership. ^guidance-Identity-Reaches
 
 | dice: 1d100 | Result |
-|:---:| --- |
+| :---: | --- |
 | 1 - 30 | Known faction |
 | 31 - 55 | Unknown faction |
 | 56 - 90 | Independent |
 | 91 - 95 | Factions in cooperation |
 | 96 - 100 | Factions in conflict |
-^table-SettlementIdentity-Reaches
+^table-Identity-Reaches
 
 ## Oracle: Settlement Disposition
 > [!mechanics]- | Roll > `dice: [[OT_ISSI_Settlements^Disposition]]` | Guidance
-> _Use this oracle only when a settlement is controlled by an unknown faction or independent of faction control. See the [[#Oracle Settlement Identity|Settlement Identity Oracle]] for more other guidance for known factions._ ^guidance-SettlementDispostion
+> _Use this oracle only when a settlement is controlled by an unknown faction or independent of faction control. See the [[#Oracle Settlement Identity|Settlement Identity Oracle]] for more other guidance for known factions._ ^guidance-Dispostion
 
 | dice: 1d100 | Results |
 | :---: | --- |
@@ -92,11 +92,11 @@ _Use the **Identity**, **Disposition**, and **Authority** oracles only if a sett
 | 71 - 80 | Fair |
 | 81 - 90 | Protective |
 | 91 - 100 | Benevolent |
-^table-SettlementDispostion
+^table-Dispostion
 
 ## Oracle: Settlement Authority
 > [!mechanics]- | Roll > `dice: [[OT_ISSI_Settlements^Authority]]` | Guidance
-> _Use this oracle only when a settlement is controlled by an unknown faction or independent of faction control. See the [[#Oracle Settlement Identity|Settlement Identity Oracle]] for more other guidance for known factions._ ^guidance-SettlementAuthority
+> _Use this oracle only when a settlement is controlled by an unknown faction or independent of faction control. See the [[#Oracle Settlement Identity|Settlement Identity Oracle]] for more other guidance for known factions._ ^guidance-Authority
 
 | dice: 1d100 | Results |
 | :---: | --- |
@@ -110,7 +110,7 @@ _Use the **Identity**, **Disposition**, and **Authority** oracles only if a sett
 | 76 - 85 | Welcoming |
 | 86 - 95 | Friendly |
 | 96 - 100 | Helpful |
-^table-SettlementAuthority
+^table-Authority
 
 *167 SETTLEMENT ORACLES*
 

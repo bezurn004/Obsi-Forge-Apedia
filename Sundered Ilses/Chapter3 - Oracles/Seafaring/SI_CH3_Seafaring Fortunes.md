@@ -23,7 +23,7 @@ If you face a cost in your travels, such as when you roll a miss as you [[SI_CH4
 
 ## Oracle: Seafaring Peril
 > [!mechanics]- | Roll > `dice: [[OT_ISSI_Seafaring^Peril]]` | Guidance
-> Use this table when you want inspiration for a trouble during ocean exploration or on a seagoing expedition. ^guidance-OclSeafaringPeril
+> Use this table when you want inspiration for a trouble during ocean exploration or on a seagoing expedition. ^guidance-Peril
 
 | dice: 1d100 |  Result |
 | :---: | --- |
@@ -61,13 +61,13 @@ If you face a cost in your travels, such as when you roll a miss as you [[SI_CH4
 | 94 - 96 | ▶[[SI_CH3_Weather Oracles#Oracle Foul Weather\|Foul Weather]]; pg 130 |
 | 97 - 99 | ▶[[SI_CH3_Core_Action Theme#ACTION\|Action]] + [[SI_CH3_Core_Action Theme#THEME\|Theme]]; pg 116–117 |
 | 100 | Roll twice |
-^table-OclSeafaringPeril
+^table-Peril
 
 *128 ORACLES*
 
 ## Oracle: Seafaring Opportunity
 > [!mechanics]- | Roll > `dice: [[OT_ISSI_Seafaring^Opportunity]]` | Guidance
-> Use this table when you want inspiration for a beneficial encounter or event on a seagoing journey, such as when you roll a strong hit with a match as you [[SI_CH4_Undertake an Expedition#Undertake an Expedition Move Card|Undertake an Expedition]],  or if you [[SI_CH4_Explore a Waypoint#Explore a Waypoint Move Card|Explore a Waypoint]] and find an opportunity. ^guidance-OclSeafaringOpportunity
+> Use this table when you want inspiration for a beneficial encounter or event on a seagoing journey, such as when you roll a strong hit with a match as you [[SI_CH4_Undertake an Expedition#Undertake an Expedition Move Card|Undertake an Expedition]],  or if you [[SI_CH4_Explore a Waypoint#Explore a Waypoint Move Card|Explore a Waypoint]] and find an opportunity. ^guidance-Opportunity
 
 | dice: 1d100 |  Result |
 | :---: | --- |
@@ -96,7 +96,7 @@ If you face a cost in your travels, such as when you roll a miss as you [[SI_CH4
 | 89 - 92 | Ship and crew perform beyond expectations |
 | 93 - 96 | Shipwreck or derelict ripe for the picking |
 | 97 - 100 | Source of fresh provisions |
-^table-OclSeafaringOpportunity
+^table-Opportunity
 
 *129 SEAFARING ORACLES*
 

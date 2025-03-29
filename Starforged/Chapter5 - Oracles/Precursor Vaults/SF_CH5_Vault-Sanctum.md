@@ -24,11 +24,11 @@ OracleDescriptor: "Reveal the final layer of the enigmatic alien precursor vault
 Reveal the final layer of the enigmatic alien precursor vault and it's original purpose.
 
 ## Oracle: Precursor Vault Purpose
-> [!mechanics]- | Roll > `dice: [[SF_CH5_Vault-Sanctum#^table-OclVaultPurpose]]` | Guidance
-> Because precursor vaults are alien and enigmatic, understanding their ultimate purpose requires investigation and exploration. Use this oracle to reveal the vault’s original function or role at an appropriate point in your survey. This can come as an outcome of completing an expedition, or when your story naturally leads you to a revelation of the site’s nature. ^guidance-OclVaultPurpose
+> [!mechanics]- | Roll > `dice: [[OT_ISSF_Vaults#^Purpose]]` | Guidance
+> Because precursor vaults are alien and enigmatic, understanding their ultimate purpose requires investigation and exploration. Use this oracle to reveal the vault’s original function or role at an appropriate point in your survey. This can come as an outcome of completing an expedition, or when your story naturally leads you to a revelation of the site’s nature. ^guidance-Purpose
 
 | dice: 1d100 | Result |
-|:---:|:--- |
+| :---: | --- |
 | 1 - 3 | Capture or control of other beings |
 | 4 - 6 | Command or communication relay |
 | 7 - 9 | Commemoration of an event |
@@ -56,18 +56,18 @@ Reveal the final layer of the enigmatic alien precursor vault and it's original 
 | 81 - 83 | Surveying or monitoring of a location |
 | 84 - 87 | Transformation of terrain or environments |
 | 88 - 90 | Worship of a god or being |
-| 91 - 95 | ▶[[SF_CH5_Core_Action-Theme#Oracle Action\|Action]] + [[SF_CH5_Core_Action-Theme#Oracle Theme\|Theme]] |
+| 91 - 95 | ▶[[SF_CH5_Core_Action-Theme#Oracle Action\|Action]] + ▶[[SF_CH5_Core_Action-Theme#Oracle Theme\|Theme]] |
 | 96 - 100 | Roll twice |
-^table-OclVaultPurpose
+^table-Purpose
 
 *365 PRECURSOR VAULTS*
 
 ## Oracle: Precursor Vault Sanctum - Feature
-> [!mechanics]- | Roll > `dice: [[SF_CH5_Vault-Sanctum#^table-OclVaultSanctum-Feature]]` | Guidance
-> ![[GSRY_Definitions#^gsry-OclSite-Feature]] ^guidance-OclSite-Feature
+> [!mechanics]- | Roll > `dice: [[OT_ISSF_Vaults#^Sanctum-Feature]]` | Guidance
+> ![[GSRY_Definitions#^gsry-OclSite-Feature]] ^guidance-Feature
 
 | dice: 1d100 | Result |
-| :---: | :--- |
+| :---: | --- |
 | 1 - 2 | Abyssal pit or chasm |
 | 3 - 5 | Altered gravity |
 | 6 - 7 | Area filled with strange liquid |
@@ -101,18 +101,18 @@ Reveal the final layer of the enigmatic alien precursor vault and it's original 
 | 83 - 85 | Visions or reflections of another reality |
 | 86 - 88 | Warped or misshapen spaces |
 | 89 - 90 | Whispering voices speak to you |
-| 91 - 95 | ▶[[SF_CH5_Core_Descriptor-Focus#Oracle Descriptor\|Descriptor]] + [[SF_CH5_Core_Descriptor-Focus#Oracle Focus\|Focus]] |
-| 96 - 100 | Roll Twice |
-^table-OclVaultSanctum-Feature
+| 91 - 95 | ▶[[SF_CH5_Core_Descriptor-Focus#Oracle Descriptor\|Descriptor]] + ▶[[SF_CH5_Core_Descriptor-Focus#Oracle Focus\|Focus]] |
+| 96 - 100 | Roll twice |
+^table-Feature
 
 *368 CHAPTER 5: ORACLES*
 
-## Oracle: Precursor Vault Sanctum Peril
-> [!mechanics]- | Roll > `dice: [[SF_CH5_Vault-Sanctum#^table-OclVaultSanctum-Peril]]` | Guidance
-> ![[GSRY_Definitions#^gsry-OclSite-Peril]] ^guidance-OclSite-Peril
+## Oracle: Precursor Vault Sanctum - Peril
+> [!mechanics]- | Roll > `dice: [[OT_ISSF_Vaults#^Sanctum-Peril]]` | Guidance
+> ![[GSRY_Definitions#^gsry-OclSite-Peril]] ^guidance-Peril
 
 | dice: 1d100 | Result |
-| :---: | :--- |
+| :---: | --- |
 | 1 - 5 | Camouflaged or transforming foe reveals itself |
 | 6 - 10 | Confounding distortions of the timestream |
 | 11 - 15 | Destructive environmental disturbance |
@@ -132,16 +132,16 @@ Reveal the final layer of the enigmatic alien precursor vault and it's original 
 | 81 - 85 | Sudden structural collapse or failure |
 | 86 - 90 | Temptations to linger or remain in this site |
 | 91 - 95 | You are marked by physical corruption or mutation |
-| 96 - 99 | ▶[[SF_CH5_Core_Action-Theme#Oracle Action\|Action]] + [[SF_CH5_Core_Action-Theme#Oracle Theme\|Theme]] |
+| 96 - 99 | ▶[[SF_CH5_Core_Action-Theme#Oracle Action\|Action]] + ▶[[SF_CH5_Core_Action-Theme#Oracle Theme\|Theme]] |
 | 100 | Roll twice |
-^table-OclVaultSanctum-Peril
+^table-Peril
 
-## Oracle: Precursor Vault Sanctum Opportunity
-> [!mechanics]- | Roll > `dice: [[SF_CH5_Vault-Sanctum#^table-OclVaultSanctumOpportunity]]` | Guidance
-> ![[GSRY_Definitions#^gsry-OclSite-Opportunity]] ^guidance-OclSite-Opportunity
+## Oracle: Precursor Vault Sanctum - Opportunity
+> [!mechanics]- | Roll > `dice: [[OT_ISSF_Vaults#^Sanctum-Opportunity]]` | Guidance
+> ![[GSRY_Definitions#^gsry-OclSite-Opportunity]] ^guidance-Opportunity
 
 | dice: 1d100 | Result |
-| :---: | :--- |
+| :---: | --- |
 | 1 - 10 | Access to a secret or protected area |
 | 11 - 20 | Clue points the way to your destination or target |
 | 21 - 30 | Comforting illusion or vision |
@@ -152,7 +152,7 @@ Reveal the final layer of the enigmatic alien precursor vault and it's original 
 | 71 - 80 | Foes stand down or give way |
 | 81 - 90 | Key offers control of a function or aspect of this site |
 | 91 - 100 | Shortcut or less perilous path speeds your way |
-^table-OclVaultSanctumOpportunity
+^table-Opportunity
 
 *369 PRECURSOR VAULTS*
 

@@ -30,7 +30,7 @@ If you investigate a shipwreck for clues related to a quest, make the [[SI_CH4_G
 If you seek to scavenge a shipwreck, make the [[SI_CH4_Resupply|Resupply]] move. On a strong hit, you are successful. A strong hit with a match might offer an [[SI_CH3_Shipwreck_Fortunes#Oracle Shipwreck Opportunity|Opportunity]]  (in addition to the supplies), while a weak hit or miss can reveal a [[SI_CH3_Shipwreck_Fortunes#Oracle Shipwreck Peril|Peril]].
 
 ### MORE DETAILS
-Use the _[[SI_CH3_Shipreck_Approach#Oracle Shipwreck Details|Shipwreck Details]]_ table (page 202) to reveal other aspects of the site.
+Use the _[[SI_CH3_Shipwreck_Approach#Oracle Shipwreck Details|Shipwreck Details]]_ table (page 202) to reveal other aspects of the site.
 
 *201 SHIPWRECK ORACLES*
 
@@ -47,15 +47,15 @@ Use the _[[SI_CH3_Shipreck_Approach#Oracle Shipwreck Details|Shipwreck Details]]
 > - Shipwreck Scale
 > - Shipwreck Wholeness
 >   
-> ### [[SI_CH3_Shipreck_Approach|Shipwreck Approach]]
+> ### [[SI_CH3_Shipwreck_Approach|Shipwreck Approach]]
 > - Shipwreck First Look
 > - Cursed Shipwreck First Look
 > - Shipwreck Details
 > - Cursed Shipwreck Details
 >
 > ### [[SI_CH3_Shipwreck_Fortunes|Shipwreck Fortunes]]
-> - Shipwreck Opportunity
 > - Shipwreck Peril
+> - Shipwreck Opportunity
 
 ## Tags
 

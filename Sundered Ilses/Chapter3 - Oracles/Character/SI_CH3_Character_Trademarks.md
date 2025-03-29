@@ -23,8 +23,8 @@ OracleDescriptor: ""
 Text
 [[SI_CH3_Character_Trademarks]]
 ## Oracle: Trademark Accessory
-> [!mechanics]- | Roll > ▶1 `dice: [[OT_ISSI_Characters#^Trademark-Accessory]]`<br>▶2 `dice: [[OT_ISSI_Characters#^Trademark-Accessory]]` | Guidance
-> This table includes conspicuous gear, adornment, and clothing. Use it to help envision the look of a notable character, particularly one who is a seafarer or adventurer. ^guidance-OclCharacterTrademarkAccessory
+> [!mechanics]- | Roll ><br> ▶1 `dice: [[OT_ISSI_Characters#^Trademark-Accessory]]`<br>▶2 `dice: [[OT_ISSI_Characters#^Trademark-Accessory]]` | Guidance
+> This table includes conspicuous gear, adornment, and clothing. Use it to help envision the look of a notable character, particularly one who is a seafarer or adventurer. ^guidance-Trademark-Accessory
 
 | dice: 1d100 | Result @1-2 |
 | :---: | --- |
@@ -78,13 +78,13 @@ Text
 | 95 - 96 | Tricorn hat with holes from near misses |
 | 97 - 98 | Wooden religious medallion |
 | 99 - 100 | ▶[[SI_CH3_Core_Descriptor Focus#DESCRIPTOR\|Descriptor]] + ▶[[SI_CH3_Core_Descriptor Focus#FOCUS\|Focus]] |
-^table-OclCharacterTrademarkAccessory
+^table-Trademark-Accessory
 
 *190 ORACLES*
 
 ## Oracle: Trademark Weapon
 > [!mechanics]- | Roll > [skull] `dice: [[SI_CH3_The Cursed Die#^table-Cursed]]` `dice: [[OT_ISSI_Characters#^Trademark-Weapon]]` | Guidance
-> Use this table to arm a notable character with a favorite weapon. ^guidance-OclCharacterTrademarkWeapon
+> Use this table to arm a notable character with a favorite weapon. ^guidance-Trademark-Weapon
 
 | dice: 1d100 | Result [skull] _[[SI_CH3_Character_Trademarks#Oracle Cursed Weapon Detail\|below]]_ |
 | :---: | --- |
@@ -126,11 +126,11 @@ Text
 | 93 - 95 | Whale bone club |
 | 96 - 97 | Wooden bow |
 | 98 - 100 | Roll twice |
-^table-OclCharacterTrademarkWeapon
+^table-Trademark-Weapon
 
 ## Oracle: Cursed Weapon Detail
 > [!mechanics]- | Roll > `dice: [[OT_ISSI_Characters#^Trademark-Cursed-Weapon-Detail]]` | Guidance
-> If you roll a _[[#Oracle Trademark Weapon|Trademark Weapon]]_ curse, take your result and give that weapon a cursed aspect from the table below. ^guidance-OclCharacterCursedWeaponDetail
+> If you roll a _[[#Oracle Trademark Weapon|Trademark Weapon]]_ curse, take your result and give that weapon a cursed aspect from the table below. ^guidance-Cursed-Weapon-Detail
 
 | dice: 1d100 | Result |
 | :---: | --- |
@@ -152,7 +152,7 @@ Text
 | 81 - 85 | Transforms its wielder |
 | 86 - 95 | Whispering irresistible commands |
 | 96 - 100 | Wreathed in smoke and ash |
-^table-OclCharacterCursedWeaponDetail
+^table-Cursed-Weapon-Detail
 
 > ## CHARACTER TOKENS
 > Optionally, give an important or reoccurring character an item of personal significance. Check the _[[SI_CH3_Treasure Details#Oracle Tokens|Tokens]]_ table on page 223 for inspiration. These objects would be kept on their person or among their belongings—perhaps even locked away as a closely-held secret.
@@ -163,6 +163,6 @@ Text
 
 | Previous Page | Tags | Next Page |
 | :--- | :---: | ---: |
-| **[[SI_CH3_Chracter_Roles\|Character Roles (SI Oracles)]]** | #SunderedIsles/Oracles/Characters | **[[SI_CH3_Character_Drive\|Character Drives (SI Oracles)]]** |
+| **[[SI_CH3_Character_Roles\|Character Roles (SI Oracles)]]** | #SunderedIsles/Oracles/Characters | **[[SI_CH3_Character_Drive\|Character Drives (SI Oracles)]]** |
 
 <font size=-2>Copyright ©2024 Shawn Tomkin. The text of this work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license. For license details, visit ironswornrpg.com. Updated June 2024 MUH051V200-PDF</font>

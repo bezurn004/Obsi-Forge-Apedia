@@ -24,10 +24,10 @@ Text
 
 ## Oracle: Combat Action
 > [!mechanics]- | Roll > `dice: [[OT_ISSI_Misc#^Combat-Action]]` | Guidance
-> Use this oracle to help inspire an action for a foe in a fight. When you’re not sure what an enemy does next, particularly when they have you in a bad spot, roll on this table and interpret the result as appropriate to the nature of the enemy and battleground. ^guidance-OclCombatAction
+> Use this oracle to help inspire an action for a foe in a fight. When you’re not sure what an enemy does next, particularly when they have you in a bad spot, roll on this table and interpret the result as appropriate to the nature of the enemy and battleground. ^guidance-Combat-Action
 
 | dice: 1d100 | Result |
-|:---:| --- |
+| :---: | --- |
 | 1 - 3 | Back away or stand off |
 | 4 - 6 | Block a path or cut off an objective |
 | 7 - 9 | Change weapons or tactics |
@@ -61,13 +61,13 @@ Text
 | 91 - 93 | Use a decoy or distraction |
 | 94 - 96 | Use an unexpected weapon or ability |
 | 97 - 100 | Roll twice |
-^table-OclCombatAction
+^table-Combat-Action
 
 *232 ORACLES*
 
 ## Oracle: Sea Battle Feature
 > [!mechanics]- | Roll > `dice: [[OT_ISSI_Misc#^Sea-Battle-Feature]]` | Guidance
-> Use this table to introduce terrain and environment features for a sea battle. This can help enliven the battle with obstacles and opportunities. ^guidance-OclSeaBattleFeature
+> Use this table to introduce terrain and environment features for a sea battle. This can help enliven the battle with obstacles and opportunities. ^guidance-Sea-Battle-Feature
 
 | dice: 1d100 | Result @1-2 |
 | --- | --- |
@@ -92,7 +92,7 @@ Text
 | 85 - 90 | ▶[[SI_CH3_Weather Oracles\|Foul Weather]]; _pg 130_ |
 | 91 - 96 | ▶[[SI_CH3_Shipwreck_Creation\|Shipwreck]]; _pg 198_ |
 | 97 - 100 | ▶[[SI_CH3_Ruin_Creation\|Ruin]]; _pg 212_ |
-^table-OclSeaBattleFeature
+^table-Sea-Battle-Feature
 
 ## Oracle: Ship Damage
 > [!mechanics]- | Roll > <br>Bothersome: `dice: [[OT_ISSI_Misc#^Ship-Damage-Bothersome]]`<br>Bad: `dice: [[OT_ISSI_Misc#^Ship-Damage-Bad]]`<br>Critical: `dice: [[OT_ISSI_Misc#^Ship-Damage-Critical]]`  | Guidance
@@ -100,7 +100,7 @@ Text
 > 
 > For an initial hit, make the issue bothersome, and roll to learn what aspect of your ship is impacted. Then, if you don’t address the problem or suffer another hard hit, step up the severity. For example, a weakened mast is splintering, or a shaken crew is breaking. You should treat critical damage separately from your ship’s general integrity, requiring the “repair any other component or device” option in the Repair move.
 > 
-> You can also roll on this table to reveal damage on a ship other than your own, such as when boarding a vessel after a fierce battle. If so, let your oracle roll serve double-duty by also indicating the severity. Assume the damage is bothersome on an odd roll, bad on an even roll, and critical if you roll a number divisible by 10 (10, 20, 30…). ^guidance-OclShipDamage
+> You can also roll on this table to reveal damage on a ship other than your own, such as when boarding a vessel after a fierce battle. If so, let your oracle roll serve double-duty by also indicating the severity. Assume the damage is bothersome on an odd roll, bad on an even roll, and critical if you roll a number divisible by 10 (10, 20, 30…). ^guidance-Ship-Damage
 
 | Roll | Bothersome Damage | Bad Damage | Critical Damage |
 | :---: | --- | --- | --- |
@@ -116,7 +116,7 @@ Text
 | 81 - 90 | Battered hull | Buckling hull | Breached hull |
 | 91 - 95 | Damaged compartment,<br>module, or support vehicle | Failing compartment,<br>module, or support vehicle | Broken compartment,<br>module, or support vehicle |
 | 96 - 100 | Roll twice; if the same result, step up the severity |  |
-^table-OclShipDamage
+^table-Ship-Damage
 
 *233 MISCELLANEOUS ORACLES*
 

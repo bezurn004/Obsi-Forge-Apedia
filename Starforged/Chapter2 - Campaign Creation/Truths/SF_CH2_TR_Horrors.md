@@ -17,9 +17,9 @@ Choose or envision entities of the supernatural are represented here in the Forg
 ## Roll Results
 | dice: 1d100 | Result |
 |:---:|:--- |
-| 1-33 | [[SF_CH2_TR_Horrors#Vengeful spectre\|Vengeful Spectre]] |
-| 34-67 | [[SF_CH2_TR_Horrors#Ominous Lumines\|Ominous Lumines]] |
-| 68-100 | [[SF_CH2_TR_Horrors#Righteous Soulbinders\|Righteous Soulbinders]] |
+| 1 - 33 | [[SF_CH2_TR_Horrors#Vengeful spectre\|Vengeful Spectre]] |
+| 34 - 67 | [[SF_CH2_TR_Horrors#Ominous Lumines\|Ominous Lumines]] |
+| 68 - 100 | [[SF_CH2_TR_Horrors#Righteous Soulbinders\|Righteous Soulbinders]] |
 ^table-choose-truths
 
 > [!oracle]- Roll

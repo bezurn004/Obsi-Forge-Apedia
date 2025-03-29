@@ -23,7 +23,7 @@ _Introduce a **peril** or **opportunity** when undertaking an expedition or expl
 
 ## Oracle: Overland Peril
 > [!mechanics]- | Roll > `dice: [[OT_ISSI_Overland^Peril]]` | Guidance
-> Use this table when you want inspiration for a trouble during island exploration or on an overland expedition. ^guidance-OclOverlandPeril
+> Use this table when you want inspiration for a trouble during island exploration or on an overland expedition. ^guidance-Peril
 
 | dice: 1d100 | Result |
 | :---: | --- |
@@ -61,11 +61,11 @@ _Introduce a **peril** or **opportunity** when undertaking an expedition or expl
 | 94 - 96 | ▶[[SI_CH3_Weather Oracles\|Foul Weather]]; _pg 130_ |
 | 97 - 99 | ▶[[SI_CH3_Core_Action Theme#ACTION\|Action]] + ▶[[SI_CH3_Core_Action Theme#THEME\|Theme]]; _pg 116 - 117_ |
 | 100 | Roll twice |
-^table-OclOverlandPeril
+^table-Peril
 
 ## Oracle: Overland Opportunity
 > [!mechanics]- | Roll > `dice: [[OT_ISSI_Overland^Opportunity]]` | Guidance
-> Use this table when you want inspiration for a beneficial encounter or event on an overland journey, such as when you roll a strong hit with a match as you [[SI_CH4_Undertake an Expedition#Undertake an Expedition Move Card|Undertake an Expedition]], or if you [[SI_CH4_Explore a Waypoint#Explore a Waypoint Move Card|Explore a Waypoint]] and find an opportunity. ^guidance-OclOverlandOpportunity
+> Use this table when you want inspiration for a beneficial encounter or event on an overland journey, such as when you roll a strong hit with a match as you [[SI_CH4_Undertake an Expedition#Undertake an Expedition Move Card|Undertake an Expedition]], or if you [[SI_CH4_Explore a Waypoint#Explore a Waypoint Move Card|Explore a Waypoint]] and find an opportunity. ^guidance-Opportunity
 
 | dice: 1d100 | Result |
 | :---: | --- |
@@ -94,7 +94,7 @@ _Introduce a **peril** or **opportunity** when undertaking an expedition or expl
 | 89 - 92 | Source of fresh water |
 | 93 - 96 | Unusual location offers opportunities for exploration |
 | 97 - 100 | Vantage point reveals the lay of the land |
-^table-OclOverlandOpportunity
+^table-Opportunity
 
 ## Tags
 

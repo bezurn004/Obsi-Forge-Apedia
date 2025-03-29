@@ -20,11 +20,11 @@ OracleDescriptor: "Used to introduce narrative turns, troubles and revelations."
 Used to introduce narrative turns, troubles and revelations.
 
 ## Oracle: Story Complication
-> [!mechanics]- | Roll > `dice: [[SF_CH5_Story Complication#^table-OclStoryComplication]]` | Guidance
-> This oracle will introduce narrative turns, troubles, and revelations. It can be used as an alternative to the [[SF_CH3_Pay the Price|Pay the Price (move)]] table when you encounter a negative outcome at a crucial moment. In particular, you might use this oracle after rolling matched 10s on the challenge dice. ^guidance-ISSF-Core1-0-OclStoryComplication
+> [!mechanics]- | Roll > `dice: [[OT_ISSF_Misc#^Story-Complication]]` | Guidance
+> This oracle will introduce narrative turns, troubles, and revelations. It can be used as an alternative to the [[SF_CH3_Pay the Price|Pay the Price (move)]] table when you encounter a negative outcome at a crucial moment. In particular, you might use this oracle after rolling matched 10s on the challenge dice. ^guidance-Story-Complication
 
 | dice: 1d100 | Result |
-| :---: | :--- |
+| :---: | --- |
 | 1 - 4 | Crucial equipment or device fails |
 | 5 - 7 | Crucial equipment or devi[](SF_CH3_Pay%20the%20Price.md)e comes due |
 | 11 - 14 | Enemy reveals unexpected powers, abilities, or influence |
@@ -53,7 +53,7 @@ Used to introduce narrative turns, troubles and revelations.
 | 89 - 92 | You are tracked or followed |
 | 93 - 95 | You were diverted from the true crisis |
 | 96 - 100 | Roll twice |
-^table-OclStoryComplication
+^table-Story-Complication
 
 *380 CHAPTER 5: ORACLES*
 

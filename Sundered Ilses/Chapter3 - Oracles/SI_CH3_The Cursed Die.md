@@ -32,7 +32,7 @@ When adding a cursed die to a roll, choose one. If you roll the highest value on
 ### MORE CURSES
 If you want to give the cursed die more emphasis in your session, use these techniques.
 - Roll a cursed die alongside abstract oracles such as _[[SI_CH3_Core_Action Theme#ACTION|Action]]_ and _[[SI_CH3_Core_Action Theme#THEME|Theme]]_. These tables don’t have dedicated cursed alternatives, but you can resolve a cursed result by envisioning the nature of the prompt as frightening or uncanny.
-- When you Ask the Oracle and use the yes/no table to divine an answer, toss your cursed die into the mix. If you roll a curse, envision how the answer includes a dreadful twist.
+- When you [[SI_CH4_Ask the Oracle\|Ask the Oracle]] and use the yes/no table to divine an answer, toss your cursed die into the mix. If you roll a curse, envision how the answer includes a dreadful twist.
 
 *115 THE CURSED DIE*
 

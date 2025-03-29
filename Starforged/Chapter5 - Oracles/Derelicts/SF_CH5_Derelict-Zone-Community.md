@@ -24,11 +24,11 @@ OracleDescriptor: "_Empty chairs at empty tables. Silent halls and dishevled dis
 _Empty chairs at empty tables. Silent halls and dishevled displays._
 
 ## Oracle: Derelict Zone Community - Area
-> [!mechanics]- | Roll > `dice: [[SF_CH5_Derelict-Zone-Community#^table-OclDerelictZone-Community-Area]]` | Guidance
-> ![[GSRY_Definitions#^gsry-OclSite-Area]] ^guidance-OclSite-Area
+> [!mechanics]- | Roll > `dice: [[OT_ISSF_Derelicts#^Zone-Access-Area]]` | Guidance
+> ![[GSRY_Definitions#^gsry-OclSite-Area]] ^guidance-Area
 
 | dice: 1d100 | Result |
-| :---: | :--- |
+| :---: | --- |
 | 1 - 8 | Bar or club |
 | 9 - 16 | Classroom or education |
 | 17 - 24 | Concourse or hub |
@@ -41,14 +41,14 @@ _Empty chairs at empty tables. Silent halls and dishevled displays._
 | 73 - 80 | Temple or chapel |
 | 81 - 85 | New zone |
 | 86 - 100 | New zone via ⏵[[SF_CH5_Derelict-Zone-Access\|Access]] |
-^table-OclDerelictZone-Community-Area
+^table-Area
 
 ## Oracle: Derelict Zone Community - Feature
-> [!mechanics]- | Roll > `dice: [[SF_CH5_Derelict-Zone-Community#^table-OclDerelictZone-Community-Feature]]` | Guidance
-> ![[GSRY_Definitions#^gsry-OclSite-Feature]] ^guidance-OclSite-Feature
+> [!mechanics]- | Roll > `dice: [[OT_ISSF_Derelicts#^Zone-Access-Feature]]` | Guidance
+> ![[GSRY_Definitions#^gsry-OclSite-Feature]] ^guidance-Feature
 
 | dice: 1d100 | Result |
-| :---: | :--- |
+| :---: | --- |
 | 1 - 8 | Ad-hoc memorials |
 | 9 - 16 | Art depicting historic event |
 | 17 - 24 | Artificial environment |
@@ -61,14 +61,14 @@ _Empty chairs at empty tables. Silent halls and dishevled displays._
 | 73 - 80 | Panoramic viewport |
 | 81 - 88 | Rubble or debris |
 | 89 - 100 | ⏵[[SF_CH5_Core_Descriptor-Focus#Oracle Descriptor\|Descriptor]] + [[SF_CH5_Core_Descriptor-Focus#Oracle Focus\|Focus]] |
-^table-OclDerelictZone-Community-Feature
+^table-Feature
 
 ## Oracle: Derelict Zone Community - Peril
-> [!mechanics]- | Roll > `dice: [[SF_CH5_Derelict-Zone-Community#^table-OclDerelictZone-Community-Peril]]` | Guidance
-> ![[GSRY_Definitions#^gsry-OclSite-Peril]] ^guidance-OclSite-Peril
+> [!mechanics]- | Roll > `dice: [[OT_ISSF_Derelicts#^Zone-Access-Peril]]` | Guidance
+> ![[GSRY_Definitions#^gsry-OclSite-Peril]] ^guidance-Peril
 
 | dice: 1d100 | Result |
-| :---: | :--- |
+| :---: | --- |
 | 1 - 10 | Biological infestation |
 | 11 - 20 | Breached or broken structure |
 | 21 - 30 | Distressing signs of mass violence or death |
@@ -80,20 +80,20 @@ _Empty chairs at empty tables. Silent halls and dishevled displays._
 | 81 - 90 | Heartbreaking memento of lost lives |
 | 91 - 98 | ⏵[[SF_CH5_Core_Action-Theme#Oracle Action\|Action]] + [[SF_CH5_Core_Action-Theme#Oracle Theme\|Theme]] |
 | 99 - 100 | Roll twice |
-^table-OclDerelictZone-Community-Peril
+^table-Peril
 
 ## Oracle: Derelict Zone Community - Opportunity
-> [!mechanics]- | Roll > `dice: [[SF_CH5_Derelict-Zone-Community#^table-OclDerelictZone-Community-Opportunity]]` | Guidance
-> ![[GSRY_Definitions#^gsry-OclSite-Opportunity]] ^guidance-OclSite-Opportunity
+> [!mechanics]- | Roll > `dice: [[OT_ISSF_Derelicts#^Zone-Access-Opportunity]]` | Guidance
+> ![[GSRY_Definitions#^gsry-OclSite-Opportunity]] ^guidance-Opportunity
 
 | dice: 1d100 | Result |
-| :---: | :--- |
+| :---: | --- |
 | 1 - 20 | Culturally significant object or artifact |
 | 21 - 40 | Salvageable goods or resources |
 | 41 - 60 | Secure area offers a moment of peace |
 | 61 - 80 | Terminal with access to site details |
 | 81 - 100 | Valuable item |
-^table-OclDerelictZone-Community-Opportunity
+^table-Opportunity
 
 *353 DERELICTS*
 

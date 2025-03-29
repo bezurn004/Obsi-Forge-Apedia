@@ -25,7 +25,7 @@ Text
 
 ## Oracle: Imperial Leadership
 > [!mechanics]- | Roll > `dice: [[OT_ISSI_Factions#^Empire-Leadership]]` | Guidance
-> Text ^guidance-OclImperialLeadership
+> Text ^guidance-Leadership
 
 | dice: 1d100 | Result |
 | :---: | --- |
@@ -39,11 +39,11 @@ Text
 | 66 - 75 | Self-appointed dictator |
 | 76 - 85 | Wealthy elite |
 | 86 - 100 | Power struggle (roll twice) |
-^table-OclImperialLeadership
+^table-Leadership
 
 ## Oracle: Imperial Tactics
-> [!mechanics]- | Roll > ▶1 `dice: [[OT_ISSI_Factions#^Empire-Tactics]]`<br>▶2 `dice: [[OT_ISSI_Factions#^Empire-Tactics]]`<br>▶3 `dice: [[OT_ISSI_Factions#^Empire-Tactics]]` | Guidance
-> Empires deploy any number of strategies to expand their power and influence. Use this table to reveal the most visible methods or a current focus for an empire. ^guidance-OclImperialTactics
+> [!mechanics]- | Roll ><br> ▶1 `dice: [[OT_ISSI_Factions#^Empire-Tactics]]`<br>▶2 `dice: [[OT_ISSI_Factions#^Empire-Tactics]]`<br>▶3 `dice: [[OT_ISSI_Factions#^Empire-Tactics]]` | Guidance
+> Empires deploy any number of strategies to expand their power and influence. Use this table to reveal the most visible methods or a current focus for an empire. ^guidance-Tactics
 
 | dice: 1d100 | Result @2-3 |
 | :---: | --- |
@@ -75,11 +75,11 @@ Text
 | 91 - 93 | Treaties and alliances |
 | 94 - 96 | Unification of splintered factions |
 | 97 - 100 | Unyielding authority and laws |
-^table-OclImperialTactics
+^table-Tactics
 
 ## Oracle: Imperial Vulnerability
-> [!mechanics]- | Roll > ▶1 `dice: [[OT_ISSI_Factions#^Empire-Vulnerability]]`<br>▶2 `dice: [[OT_ISSI_Factions#^Empire-Vulnerability]]` | Guidance
-> Text ^guidance-OclImperialVulnerability
+> [!mechanics]- | Roll ><br> ▶1 `dice: [[OT_ISSI_Factions#^Empire-Vulnerability]]`<br>▶2 `dice: [[OT_ISSI_Factions#^Empire-Vulnerability]]` | Guidance
+> Text ^guidance-Vulnerability
 
 | dice: 1d100 | Result @1-2 |
 | :---: | --- |
@@ -105,7 +105,7 @@ Text
 | 85 - 90 | Vulnerable trade route |
 | 91 - 96 | Vulnerable treasure hoard |
 | 97 - 100 | Whispers of a potential coup |
-^table-OclImperialVulnerability
+^table-Vulnerability
 
 *181 FACTION ORACLES*
 
@@ -118,7 +118,7 @@ Text
 > - ▶[[SI_CH3_Faction Name and Themes#Oracle Faction Name - Culture|Culture]] + ▶[[#Oracle Imperial Identity|Empire Identity]]
 > - ▶[[#Oracle Imperial Identity|Empire Identity]] of ▶[[SI_CH3_Faction Name and Themes#Oracle Faction Name - Culture|Culture]]
 > - [[SI_CH3_Faction Name and Themes#Faction Name Themes|Theme Aspect]] + ▶[[SI_CH3_Faction Name and Themes#Oracle Faction Name - Culture|Culture]] + ▶[[#Oracle Imperial Identity|Empire Identity]]
-> - [[SI_CH3_Faction Name and Themes#Faction Name Themes|Theme Aspect]] + ▶[[#Oracle Imperial Identity|Empire Identity]] ^guidance-OclImperialIdentity
+> - [[SI_CH3_Faction Name and Themes#Faction Name Themes|Theme Aspect]] + ▶[[#Oracle Imperial Identity|Empire Identity]] ^guidance-Identity
 
 | dice: 1d100 | Result |
 | :---: | --- |
@@ -154,7 +154,7 @@ Text
 | 87 - 92 | Trade Company |
 | 93 - 94 | Triumvirate |
 | 95 - 100 | Union |
-^table-OclImperialIdentity
+^table-Identity
 
 *183 FACTION ORACLES*
 

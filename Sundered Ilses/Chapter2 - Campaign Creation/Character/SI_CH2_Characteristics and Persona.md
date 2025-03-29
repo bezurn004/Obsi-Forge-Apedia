@@ -16,7 +16,7 @@ Use any of the prompts below that are helpful. Answer the question yourself or c
 
 Keep in mind that you can start with the sketchiest idea for your character and flesh them out through play. These prompts are optional.
 - **What aspects of your look or personality are obvious at first glance?** Roll or choose once or twice on the [[SI_CH3_Character_Approach|Character First Look]] table (page 186).
-- **What is your former or current profession?** Roll or choose once on the [[SI_CH3_Chracter_Roles#Oracle Character Roles|Character Roles]] table (page 187), then roll or choose on a [[SI_CH3_Chracter_Roles|Character Roles Details]] subtable (pages 188–189).
+- **What is your former or current profession?** Roll or choose once on the [[SI_CH3_Character_Roles#Oracle Character Roles|Character Roles]] table (page 187), then roll or choose on a [[SI_CH3_Character_Roles|Character Roles Details]] subtable (pages 188–189).
 - **What accessory or piece of gear helps define your look?** Roll or choose once or twice on the [[SI_CH3_Character_Trademarks#Oracle Trademark Accessory|Character Trademark Accessory]] table (page 190).
 - **If you are armed, what is your favored weapon?** Roll or choose once on the [[SI_CH3_Character_Trademarks#Oracle Trademark Weapon|Character Trademark Weapon]] table (page 191).
 - **What are less-obvious or hidden aspects of your nature?** Roll or choose once or twice on the [[SI_CH3_Character_Drive#Oracle Character Details|Character Details]] table (page 192).

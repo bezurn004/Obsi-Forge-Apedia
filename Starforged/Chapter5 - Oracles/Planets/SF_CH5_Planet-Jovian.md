@@ -26,11 +26,11 @@ OracleDescriptor: "Dense gases make up discernible and colorful layers on the wa
 Dense gases make up discernible and colorful layers on the way down to this planet’s tiny core of dense rock and magma. Storms perpetually rage in the Atmosphere with constant winds blowing at hurricane force or greater. It is said that some individual storms have lasted for centuries.
 
 ## Oracle: Jovian Atmosphere
-> [!mechanics]- | Roll > `dice: [[SF_CH5_Planet-Jovian#^table-Atmosphere]]` | Guidance
+> [!mechanics]- | Roll > `dice: [[OT_ISSF_Planets#^Jovian-Atmosphere]]` | Guidance
 > The baseline for planet habitability, see [[_SF_CH5_Planets#Planet Atmospheres|Planet Atmosphere]] for the effects of each atmosphere for human life.^guidance-Atmosphere
 
 | dice: 1d100 | Result |
-|:---:|:--- |
+| :---: | --- |
 | 1 - 50 | Toxic  |
 | 51 - 65 | Corrosive |
 | 66 - 85 | Marginal |
@@ -39,11 +39,11 @@ Dense gases make up discernible and colorful layers on the way down to this plan
 
 ## Oracle: Jovian Settlements
 ### Oracle: Settlements - Terminus
-> [!mechanics]- | Roll > `dice: [[SF_CH5_Planet-Jovian#^table-Settlement-Terminus]]` | Guidance
+> [!mechanics]- | Roll > `dice: [[OT_ISSF_Planets#^Jovian-Settlement-Terminus]]` | Guidance
 > Choose or roll on possible settlements located on this planet. ^guidance-Settlement-Terminus
 
 | dice: 1d100 | Result |
-|:---:|:--- |
+| :---: | --- |
 | 1 - 50 | None |
 | 51 - 70 | Orbital settlement |
 | 71 - 85 | Planetside settlement |
@@ -52,11 +52,11 @@ Dense gases make up discernible and colorful layers on the way down to this plan
 ^table-Settlement-Terminus
 
 ### Oracle: Settlements - Outlands
-> [!mechanics]- | Roll > `dice: [[SF_CH5_Planet-Jovian#^table-Settlement-Outlands]]` | Guidance
+> [!mechanics]- | Roll > `dice: [[OT_ISSF_Planets#^Jovian-Settlement-Outlands]]` | Guidance
 > Choose or roll on possible settlements located on this planet. ^guidance-Settlement-Outlands
 
 | dice: 1d100 | Result |
-|:---:|:--- |
+| :---: | --- |
 | 1 - 75 | None |
 | 76 - 87 | Orbital settlement |
 | 88 - 95 | Planetside settlement |
@@ -65,22 +65,22 @@ Dense gases make up discernible and colorful layers on the way down to this plan
 ^table-Settlement-Outlands
 
 ### Oracle: Settlements - Expanse
-> [!mechanics]- | Roll > `dice: [[SF_CH5_Planet-Jovian#^table-Settlement-Expanse]]` | Guidance
+> [!mechanics]- | Roll > `dice: [[OT_ISSF_Planets#^Jovian-Settlement-Expanse]]` | Guidance
 > Choose or roll on possible settlements located on this planet. ^guidance-Settlement-Expanse
 
 | dice: 1d100 | Result |
-|:---:|:--- |
+| :---: | --- |
 | 1 - 90 | None |
 | 91 - 96 | Orbital settlement |
 | 97 - 100 | Planetside settlement |
 ^table-Settlement-Expanse
 
 ## Oracle: Jovian Observed From Space
-> [!mechanics]- | Roll > `dice: [[SF_CH5_Planet-Jovian#^table-ObservedFromSpace]]` | Guidance
-> When first approaching a planet, envision at a board characteristic of the planet. ^guidance-ObservedFromSpace
+> [!mechanics]- | Roll > <br>▶1 `dice: [[OT_ISSF_Planets#^Jovian-Observed-From-Space]]`<br>▶2 `dice: [[OT_ISSF_Planets#^Jovian-Observed-From-Space]]` | Guidance
+> When first approaching a planet, envision at a board characteristic of the planet. ^guidance-Observed-From-Space
 
 | dice: 1d100 | Result @1-2 |
-|:---:|:--- |
+| :---: | --- |
 | 1 - 11 | Complex ring system |
 | 12 - 22 | Intense gravity well |
 | 23 - 33 | Numerous moons |
@@ -89,16 +89,16 @@ Dense gases make up discernible and colorful layers on the way down to this plan
 | 56 - 66 | Severe electrical storms |
 | 67 - 77 | Superheated Atmosphere |
 | 78 - 88 | Unusual atmospheric colors |
-| 89 - 98 | ▶[[SF_CH5_Core_Descriptor-Focus#Oracle Descriptor\|Descriptor]] + [[SF_CH5_Core_Descriptor-Focus#Oracle Focus\|Focus]] |
+| 89 - 98 | ▶[[SF_CH5_Core_Descriptor-Focus#Oracle Descriptor\|Descriptor]] + ▶[[SF_CH5_Core_Descriptor-Focus#Oracle Focus\|Focus]] |
 | 99 - 100 | ▶[[SF_CH5_Vault-Exterior#Oracle Precursor Vault Outer First Look\|Precursor Vault (orbital)]] |
-^table-ObservedFromSpace
+^table-Observed-From-Space
 
 ## Oracle: Jovian Planetside Feature
-> [!mechanics]- | Roll > `dice: [[SF_CH5_Planet-Jovian#^table-PlanetsideFeature]]` | Guidance
-> To begin exploration on a planet, generate one or two dominate feature's. If your exploration is prolonged morph these features using the [[SF_CH5_Core_Descriptor-Focus#Oracle Descriptor|Descriptor]] and [[SF_CH5_Core_Descriptor-Focus#Oracle Focus|Focus]] oracles for prompts on variety. ^guidance-PlanetsideFeature
+> [!mechanics]- | Roll > <br>▶1 `dice: [[OT_ISSF_Planets#^Jovian-Feature]]`<br>▶2 `dice: [[OT_ISSF_Planets#^Jovian-Feature]]` | Guidance
+> To begin exploration on a planet, generate one or two dominate feature's. If your exploration is prolonged morph these features using the [[SF_CH5_Core_Descriptor-Focus#Oracle Descriptor|Descriptor]] and [[SF_CH5_Core_Descriptor-Focus#Oracle Focus|Focus]] oracles for prompts on variety. ^guidance-Feature
 
 | dice: 1d100 | Result @1-2 |
-|:---:|:--- |
+| :---: | --- |
 | 1 - 7 | Clouds of metal particles |
 | 8 - 14 | Crystalline rains |
 | 15 - 21 | Floating glaciers |
@@ -111,16 +111,16 @@ Dense gases make up discernible and colorful layers on the way down to this plan
 | 71 - 77 | Towering thunderheads |
 | 78 - 84 | Violent turbulence |
 | 85 - 91 | Zones of localized Atmosphere |
-| 92 - 98 | ▶[[SF_CH5_Core_Descriptor-Focus#Oracle Descriptor\|Descriptor]] + [[SF_CH5_Core_Descriptor-Focus#Oracle Focus\|Focus]] |
+| 92 - 98 | ▶[[SF_CH5_Core_Descriptor-Focus#Oracle Descriptor\|Descriptor]] + ▶[[SF_CH5_Core_Descriptor-Focus#Oracle Focus\|Focus]] |
 | 99 - 100 | ▶[[SF_CH5_Vault-Exterior#Oracle Precursor Vault Outer First Look\|Precursor Vault (planetside)]] |
-^table-PlanetsideFeature
+^table-Feature
 
 ## Oracle: Jovian Life
-> [!mechanics]- | Roll > `dice: [[SF_CH5_Planet-Jovian#^table-Life]]` | Guidance
+> [!mechanics]- | Roll > `dice: [[OT_ISSF_Planets#^Jovian-Life]]` | Guidance
 > The general state of life currently on this planet. There may be a hidden feature given enough exploration that could contradict this result. ^guidance-Life
 
 | dice: 1d100 | Result |
-|:---:|:--- |
+| :---: | --- |
 | 1 - 50 | None |
 | 51 - 55 | Extinct |
 | 56 - 75 | Scarce |
@@ -130,11 +130,11 @@ Dense gases make up discernible and colorful layers on the way down to this plan
 ^table-Life
 
 ## Oracle: Jovian Sample Names
-> [!mechanics]- | Roll > `dice: [[SF_CH5_Planet-Jovian#^table-Names]]` | Guidance
+> [!mechanics]- | Roll > `dice: [[OT_ISSF_Planets#^Jovian-Names]]` | Guidance
 > Sample names that are suited to this planet type. Feel free to mix and match or create your own. ^guidance-Names
 
 | dice: 1d100 | Result |
-|:---:|:--- |
+| :---: | --- |
 | 1 - 5 | Aether |
 | 6 - 10 | Arrokoth |
 | 11 - 15 | Esen |

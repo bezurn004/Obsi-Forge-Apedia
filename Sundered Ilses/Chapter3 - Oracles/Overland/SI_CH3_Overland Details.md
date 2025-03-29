@@ -22,7 +22,7 @@ _Generate **details** for an overland expedition to enhance events along the jou
 
 ## Oracle: Overland Details
 > [!mechanics]- | Roll > [skull] `dice: [[SI_CH3_The Cursed Die#^table-Cursed]]` `dice: [[OT_ISSI_Overland^Details]]` | Guidance
-> This table reveals occurrences on an overland expedition. Possible results include locations, events, sightings, and encounters. ^guidance-OclOverlandDetails
+> This table reveals occurrences on an overland expedition. Possible results include locations, events, sightings, and encounters. ^guidance-Details
 
 | dice: 1d100 | Results [skull] _[[#Oracle Overland Cursed Details\|pg 161]]_ |
 | :---: | --- |
@@ -126,7 +126,7 @@ _Generate **details** for an overland expedition to enhance events along the jou
 | 98 | A noisy parrot squawks, whistles, and sings, as if putting on a performance |
 | 99 | Carved stones mark an old boundary line |
 | 100 | This area is adorned with colorful banners |
-^table-OclOverlandDetails
+^table-Details
 
 *156 ORACLES*
 *157 OVERLAND ORACLES*
@@ -134,7 +134,7 @@ _Generate **details** for an overland expedition to enhance events along the jou
 
 ## Oracle: Overland Cursed Details
 > [!mechanics]- | Roll > `dice: [[OT_ISSI_Overland^Cursed-Details]]` | Guidance
-> _When a curse is triggered on the Overland Details oracle, add an element of the unexpected to the journey._ ^guidance-OclOverlandCursedDetails
+> _When a curse is triggered on the Overland Details oracle, add an element of the unexpected to the journey._ ^guidance-Cursed-Details
 
 | dice: 1d100 | Results |
 | :---: | --- |
@@ -238,7 +238,7 @@ _Generate **details** for an overland expedition to enhance events along the jou
 | 98 | Furrowed ground and broken trees mark the path of a monstrous beast |
 | 99 | A lone traveler babbles incoherently about some nameless terror |
 | 100 | That’s the third time today you’ve passed that tree—you’re sure of it |
-^table-OclOverlandCursedDetails
+^table-Cursed-Details
 
 *159 OVERLAND ORACLES*
 *160 ORACLES*

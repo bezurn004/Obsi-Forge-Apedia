@@ -23,62 +23,62 @@ OracleDescriptor: "_Combatants trade fire tensely in this place._"
 _Combatants trade fire tensely in this place._
 
 ## Oracle: Location Theme - War Zone Feature
-> [!mechanics]- | Roll > %%GetDice%% | Guidance
-> ![[GSRY_Definitions#^gsry-OclSite-Feature]] ^guidance-OclSite-Feature
+> [!mechanics]- | Roll > `dice: [[OT_STRSM_OCL_Loc-Theme#^War-Zone-Feature]]` | Guidance
+> ![[GSRY_Definitions#^gsry-Feature]] ^guidance-Feature
 
-| 1d100 | Result |
-| :---: | :--- |
-| 1-8 | Battle standard or beacon buoy |
-| 9-16 | Combatants fleeing the battle |
-| 17-24 | Command ship or center |
-| 25-32 | Damaged engines of war now abandoned |
-| 33-40 | Debris and wrecked terrain |
-| 41-48 | Fallen combatants |
-| 49-56 | Nervous units held in reserve |
-| 57-64 | Officer barking orders to a squad |
-| 65-72 | Perimeter guards on patrol |
-| 73-80 | Scout observing enemy movements |
-| 81-88 | Vehicular wreckage |
-| 89-96 | Wounded troops hunkering down |
-| 97-100 | ▶[[STRSM_OCL_Core Descriptor-Focus#Oracle Descriptor\|Descriptor]] + [[STRSM_OCL_Core Descriptor-Focus#Oracle Focus\|Focus]] |
-^table-STRSM-OCL-OclLocationTheme-WarZone-Feature
+| dice: 1d100 | Result |
+| :---: | --- |
+| 1 - 8 | Battle standard or beacon buoy |
+| 9 - 16 | Combatants fleeing the battle |
+| 17 - 24 | Command ship or center |
+| 25 - 32 | Damaged engines of war now abandoned |
+| 33 - 40 | Debris and wrecked terrain |
+| 41 - 48 | Fallen combatants |
+| 49 - 56 | Nervous units held in reserve |
+| 57 - 64 | Officer barking orders to a squad |
+| 65 - 72 | Perimeter guards on patrol |
+| 73 - 80 | Scout observing enemy movements |
+| 81 - 88 | Vehicular wreckage |
+| 89 - 96 | Wounded troops hunkering down |
+| 97 - 100 | ▶[[STRSM_OCL_Core Descriptor-Focus#Oracle Descriptor\|Descriptor]] + [[STRSM_OCL_Core Descriptor-Focus#Oracle Focus\|Focus]] |
+^table-War-Zone-Feature
 
 ## Oracle: Location Theme - War Zone Peril
-> [!mechanics]- | Roll > %%GetDice%% | Guidance
-> ![[GSRY_Definitions#^gsry-OclSite-Peril]] ^guidance-OclSite-Peril
+> [!mechanics]- | Roll > `dice: [[OT_STRSM_OCL_Loc-Theme#^War-Zone-Peril]]` | Guidance
+> ![[GSRY_Definitions#^gsry-Peril]] ^guidance-Peril
 
-| 1d100 | Result |
-| :---: | :--- |
-| 1-9 | Ambushed by a lurking foe |
-| 10-18 | Automated suppressing fire |
-| 19-27 | Battlefield tech is triggered |
-| 28-36 | Caught in the crossfire |
-| 37-45 | Enemy sniper pins you down |
-| 46-54 | Explosive change in the battlefield |
-| 55-63 | Lost in the chaos or debris |
-| 64-72 | Mistaken for the enemy |
-| 73-81 | Opportunistic looters take notice |
-| 82-90 | Shrapnel or collateral damage |
-| 91-98 | ▶[[STRSM_OCL_Core Action-Theme#Oracle Action\|Action]] + [[STRSM_OCL_Core Action-Theme#Oracle Theme\|Theme]] |
-| 99-100 | Roll twice |
-^table-STRSM-OCL-OclLocationTheme-WarZone-Peril
+| dice: 1d100 | Result |
+| :---: | --- |
+| 1 - 9 | Ambushed by a lurking foe |
+| 10 - 18 | Automated suppressing fire |
+| 19 - 27 | Battlefield tech is triggered |
+| 28 - 36 | Caught in the crossfire |
+| 37 - 45 | Enemy sniper pins you down |
+| 46 - 54 | Explosive change in the battlefield |
+| 55 - 63 | Lost in the chaos or debris |
+| 64 - 72 | Mistaken for the enemy |
+| 73 - 81 | Opportunistic looters take notice |
+| 82 - 90 | Shrapnel or collateral damage |
+| 91 - 98 | ▶[[STRSM_OCL_Core Action-Theme#Oracle Action\|Action]] + [[STRSM_OCL_Core Action-Theme#Oracle Theme\|Theme]] |
+| 99 - 100 | Roll twice |
+^table-War-Zone-Peril
 
 ## Oracle: Location Theme - War Zone Opportunity
-> [!mechanics]- | Roll > %%GetDice%% | Guidance
-> ![[GSRY_Definitions#^gsry-OclSite-Opportunity]] ^guidance-OclSite-Opportunity
+> [!mechanics]- | Roll > `dice: [[OT_STRSM_OCL_Loc-Theme#^War-Zone-Opportunity]]` | Guidance
+> ![[GSRY_Definitions#^gsry-Opportunity]] ^guidance-Opportunity
 
-| 1d100 | Result |
-| :---: | :--- |
-| 1-20 | Helping a combatant in need may yield an ally |
-| 21-40 | Insight into the nature of the conflict |
-| 41-60 | Opening to avoid the fiercest section of battle |
-| 61-80 | Opening to bring the immediate conflict to a close |
-| 81-100 | Salvageable equipment or weapons |
-^table-STRSM-OCL-OclLocationTheme-WarZone-Opportunity
+| dice: 1d100 | Result |
+| :---: | --- |
+| 1 - 20 | Helping a combatant in need may yield an ally |
+| 21 - 40 | Insight into the nature of the conflict |
+| 41 - 60 | Opening to avoid the fiercest section of battle |
+| 61 - 80 | Opening to bring the immediate conflict to a close |
+| 81 - 100 | Salvageable equipment or weapons |
+^table-War-Zone-Opportunity
 
 ## Tags
 | Previous Page | Tags | Next Page | 
 | :--- | :---: | ---: |
-| **[[STRSM_OCL_LocationTheme-Overgrown\|Location Theme: Overgrown Oracles]]** | #Starsmith/Oracles/LocationThemes - #Pedia/Oracles/LocationThemes | **[[_STRSM_OCL_Misc Oracles\|Miscellaneous Oracles]]** |
+| **[[STRSM_OCL_LocationTheme-Overgrown\|Location Theme: Overgrown (STRSM Oracles)]]** | #Starsmith/Oracles/LocationThemes | **[[_STRSM_OCL_Misc Oracles\|Miscellaneous (STRSM Oracles)]]** |
 
 <font size=-2>Starsmith Oracles is created by Eric Bright and licensed for use under the Creative Commons Attribution 4.0 International License (CC-BY).</font>

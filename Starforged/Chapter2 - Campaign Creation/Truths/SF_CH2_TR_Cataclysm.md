@@ -50,13 +50,13 @@ Without warning, these implacable and enigmatic beings ravaged our homeworlds. W
 
 | dice: 1d100 | Result |
 | :---: | :----- |
-| 1-15 | Corrupting biological scourges |
-| 16-30 | Swarming, animalistic creatures |
-| 31-44 | Monstrous humanoids |
-| 45-58 | Spirits of alluring, divine form |
-| 59-72 | Beings of chaotic energy |
-| 73-86 | Titanic creatures of horrific power |
-| 87-100 | World-eating abominations of unimaginable scale |
+| 1 - 15 | Corrupting biological scourges |
+| 16 - 30 | Swarming, animalistic creatures |
+| 31 - 44 | Monstrous humanoids |
+| 45 - 58 | Spirits of alluring, divine form |
+| 59 - 72 | Beings of chaotic energy |
+| 73 - 86 | Titanic creatures of horrific power |
+| 87 - 100 | World-eating abominations of unimaginable scale |
 ^table-truth-2
 
 > [!oracle]- Roll
@@ -74,11 +74,11 @@ Over millennia, we consumed resources and shattered lives as we fueled the engin
 
 | dice: 1d100 | Result |
 | :---: | :----- |
-| 1-20 | Artificial intelligence |
-| 21-40 | Religious zealots |
-| 41-60 | Genetically engineered soldiers |
-| 61-80 | Self-replicating nanomachines |
-| 81-100 | A tyrannical faction or leader |
+| 1 - 20 | Artificial intelligence |
+| 21 - 40 | Religious zealots |
+| 41 - 60 | Genetically engineered soldiers |
+| 61 - 80 | Self-replicating nanomachines |
+| 81 - 100 | A tyrannical faction or leader |
 ^table-truth-3
 
 > [!oracle]- Roll

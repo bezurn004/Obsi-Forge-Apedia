@@ -24,7 +24,7 @@ _As you approach a settlement, envision the appearance with the **Aesthetics** a
 
 ## Oracle: Settlement Aesthetics
 > [!mechanics]- | Roll ><br>▶1 `dice: [[OT_ISSI_Settlements^Aesthetics]]`<br>▶2 `dice: [[OT_ISSI_Settlements^Aesthetics]]` | Guidance
-> Use this table to reveal the ambiance and architecture of the settlement. Smaller settlements likely have a single style, while larger settlements might have multiple styles across sections or districts.  ^guidance-OclSettleAesthetics
+> Use this table to reveal the ambiance and architecture of the settlement. Smaller settlements likely have a single style, while larger settlements might have multiple styles across sections or districts. ^guidance-Aesthetics
 
 | Roll | Results | Detail @1-2 |
 | :---: | --- | --- |
@@ -41,13 +41,13 @@ _As you approach a settlement, envision the appearance with the **Aesthetics** a
 | 76 - 85 | Modest | Practical, charming structures |
 | 86 - 95 | Ramshackle | Haphazard structures using scavenged or repurposed materials |
 | 96 - 100 | Wondrous | Enigmatic structures of awe-inspiring design or function. |
-^table-OclSettleAesthetics
+^table-Aesthetics
 
 *165 SETTLEMENT ORACLES*
 
 ## Oracle: Settlement First Look
 > [!mechanics]- | Roll > [skull] `dice: [[SI_CH3_The Cursed Die#^table-Cursed]]`<br>▶1 `dice: [[OT_ISSI_Settlements^First-Look]]`<br>▶2 `dice: [[OT_ISSI_Settlements^First-Look]]` | Guidance
-> _Get the first impression when approaching a settlement._ ^guidance-OclSettleFirstLook
+> _Get the first impression when approaching a settlement._ ^guidance-First-Look
 
 | dice: 1d100 | Result @1-2 [skull] _[[#Oracle Cursed Settlement First Look\|pg 167]]_ |
 | :---: | --- |
@@ -95,13 +95,13 @@ _As you approach a settlement, envision the appearance with the **Aesthetics** a
 | 83 - 84 | Visited by large fleet or caravan |
 | 85 - 90 | Built among a ▶[[SI_CH3_Ruin_Creation\|Ruin]]; _pg 212_ |
 | 91 - 100 | ▶[[SI_CH3_Core_Descriptor Focus#DESCRIPTOR\|Descriptor]] + ▶[[SI_CH3_Core_Descriptor Focus#FOCUS\|Focus]]; _pg 118 - 119_ |
-^table-OclSettleFirstLook
+^table-First-Look
 
 *166 ORACLES*
 
 ## Oracle: Cursed Settlement First Look
 > [!mechanics]- | Roll > `dice: [[OT_ISSI_Settlements^Cursed-First-Look]]` | Guidance
-> _Get an ominous first impression when approaching a settlement._ ^guidance-OclCursedSettleFirstLook
+> _Get an ominous first impression when approaching a settlement._ ^guidance-Cursed-First-Look
 
 | dice: 1d100 | Result |
 | :---: | --- |
@@ -135,7 +135,7 @@ _As you approach a settlement, envision the appearance with the **Aesthetics** a
 | 89 - 92 | Swarms of roosting bats |
 | 93 - 96 | Unsettling angles and labyrinthine paths |
 | 97 - 100 | ▶[[SI_CH3_Weather Oracles#Oracle Cursed Weather\|Cursed Weather]]; _pg 131_ |
-^table-OclCursedSettleFirstLook
+^table-Cursed-First-Look
 
 ## Tags
 

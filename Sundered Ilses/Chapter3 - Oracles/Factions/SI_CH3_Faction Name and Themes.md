@@ -1,4 +1,4 @@
----
+--
 ## Source
 SourceMaterial: "Ironsworn: Sundered Isles"
 SourceAuthor: "Shawn Tompkin"
@@ -26,7 +26,7 @@ PageOrder: 29
 Oracle: Faction
 OracleFocus: "Name and Themes"
 OracleDescriptor: ""
----
+--
 # [[_Sundered Isles|Sundered Isles]] - [[_SI_Ch3_Contents|Oracles]] - [[_SI_CH3_Faction Oracles|Faction]]: Name and Themes
 
 Choose a template for a faction name from the options below.
@@ -53,10 +53,10 @@ Choose a template for a faction name from the options below.
 
 ## Oracle: Faction Name - Culture
 > [!mechanics]- | Roll > `dice: [[OT_ISSI_Factions#^Name-Culture]]` | Guidance
-> Text ^guidance-OclFactionName-Culture
+> Text ^guidance-Culture
 
 | dice: 1d100 | Result |
-| :---: | --- |
+| :--: | -- |
 | 1 - 2 | Akani |
 | 3 - 4 | Altarian |
 | 5 - 6 | Ankara |
@@ -107,14 +107,14 @@ Choose a template for a faction name from the options below.
 | 95 - 96 | Wulan |
 | 97 - 98 | Yamora |
 | 99 - 100 | Zhuan |
-^table-OclFactionName-Culture
+^table-Culture
 
 ## Faction Name Themes
 > [!mechanics]- | Roll ><br>`dice: [[OT_ISSI_Factions#^Name-Themes]]` | Guidance
-> Text ^guidance-OclFactionNameTheme
+> Text ^guidance-Theme
 
 | dice: 1d100 | Theme |
-| :---: | --- |
+| :--: | -- |
 | 1 - 10 | ▶[[#Oracle Theme - Affluence\|Affluence]] |
 | 11 - 20 | ▶[[#Oracle Theme - Craft\|Craft]] |
 | 21 - 30 | ▶[[#Oracle Theme - Discovery\|Discovery]] |
@@ -125,14 +125,14 @@ Choose a template for a faction name from the options below.
 | 71 - 80 | ▶[[#Oracle Theme - Secrecy\|Secrecy]] |
 | 81 - 90 | ▶[[#Oracle Theme - War\|War]] |
 | 91 - 100 | ▶[[#Oracle Theme - Curses\|Curses]] |
-^table-OclFactionNameTheme
+^table-Theme
 
 ### Oracle: Theme - Affluence
 > [!mechanics]- | Roll > <br>Aspect: `dice: [[OT_ISSI_Factions#^Theme-Affluence]]\|Aspect`<br>Persona: `dice: [[OT_ISSI_Factions^Theme-Affluence]]\|Persona` | Guidance
-> Text ^guidance-OclFactionNameTheme-Affluence
+> Text ^guidance-Theme-Affluence
 
 | Roll | Aspect | Persona |
-| :---: | --- | --- |
+| :--: | -- | -- |
 | 1 - 10 | Emerald | Brokers |
 | 11 - 20 | Gilded | Crowns |
 | 21 - 30 | Golden | Lords |
@@ -143,14 +143,14 @@ Choose a template for a faction name from the options below.
 | 71 - 80 | Sovereign | Princes |
 | 81 - 90 | Supreme | Scions |
 | 91 - 100 | Trueborn | Regents |
-^table-OclFactionNameTheme-Affluence
+^table-Theme-Affluence
 
 ### Oracle: Theme - Craft
 > [!mechanics]- | Roll > <br>Aspect: `dice: [[OT_ISSI_Factions#^Theme-Craft]]\|Aspect`<br>Persona: `dice: [[OT_ISSI_Factions#^Theme-Craft]]\|Persona` | Guidance
-> Text ^guidance-OclFactionNameTheme-Craft
+> Text ^guidance-Theme-Craft
 
 | Roll | Aspect | Persona |
-| :---: | --- | --- |
+| :--: | -- | -- |
 | 1 - 10 | Ancient | Adepts |
 | 11 - 20 | Awakened | Archivists |
 | 21 - 30 | Azure | Beacons |
@@ -161,14 +161,14 @@ Choose a template for a faction name from the options below.
 | 71 - 80 | Roaming | Seekers |
 | 81 - 90 | Starmarked | Venturers |
 | 91 - 100 | Wandering | Wayfinders |
-^table-OclFactionNameTheme-Craft
+^table-Theme-Craft
 
 ### Oracle: Theme - Discovery
 > [!mechanics]- | Roll > <br>Aspect: `dice: [[OT_ISSI_Factions#^Theme-Discovery]]|Aspect`<br>Persona: `dice: [[OT_ISSI_Factions#^Theme-Discovery]]|Persona` | Guidance
-> Text ^guidance-OclFactionNameTheme-Discovery
+> Text ^guidance-Theme-Discovery
 
 | Roll | Aspect | Persona |
-| :---: | --- | --- |
+| :--: | -- | -- |
 | 1 - 10 | Bannersworn | Allies |
 | 11 - 20 | Bonded | Bulwarks |
 | 21 - 30 | Branded | Caretakers |
@@ -179,14 +179,14 @@ Choose a template for a faction name from the options below.
 | 71 - 80 | Unbroken | Shields |
 | 81 - 90 | Unified | Wardens |
 | 91 - 100 | United | Watchers |
-^table-OclFactionNameTheme-Discovery
+^table-Theme-Discovery
 
 ### Oracle: Theme - Faith
 > [!mechanics]- | Roll > <br>Aspect: `dice: [[OT_ISSI_Factions#^Theme-Faith]]|Aspect`<br>Persona: `dice: [[OT_ISSI_Factions#^Theme-Faith]]|Persona` | Guidance
-> Text ^guidance-OclFactionNameTheme-Faith
+> Text ^guidance-Theme-Faith
 
 | Roll | Aspect | Persona |
-| :---: | --- | --- |
+| :--: | -- | -- |
 | 1 - 10 | Adamantine | Anvils |
 | 11 - 20 | Brass | Artificers |
 | 21 - 30 | Copper | Artisans |
@@ -197,14 +197,14 @@ Choose a template for a faction name from the options below.
 | 71 - 80 | Ironwrought | Riggers |
 | 81 - 90 | Quicksilver | Sparks |
 | 91 - 100 | Tempered | Tinkers |
-^table-OclFactionNameTheme-Faith
+^table-Theme-Faith
 
 ### Oracle: Theme - Loyalty
 > [!mechanics]- | Roll > <br>Aspect: `dice: [[OT_ISSI_Factions#^Theme-Loyalty]]|Aspect`<br>Persona: `dice: [[OT_ISSI_Factions#^Theme-Loyalty]]|Persona` | Guidance
-> Text ^guidance-OclFactionNameTheme-Loyalty
+> Text ^guidance-Theme-Loyalty
 
 | Roll | Aspect | Persona |
-| :---: | --- | --- |
+| :--: | -- | -- |
 | 1 - 10 | Blessed | Acolytes |
 | 11 - 20 | Dawning | Disciples |
 | 21 - 30 | Enduring | Flames |
@@ -215,14 +215,14 @@ Choose a template for a faction name from the options below.
 | 71 - 80 | Radiant | Martyrs |
 | 81 - 90 | Sacred | Redeemers |
 | 91 - 100 | Shining | Servants |
-^table-OclFactionNameTheme-Loyalty
+^table-Theme-Loyalty
 
 ### Oracle: Theme - Mysticism
 > [!mechanics]- | Roll > <br>Aspect: `dice: [[OT_ISSI_Factions#^Theme-Mysticism]]|Aspect`<br>Persona: `dice: [[OT_ISSI_Factions#^Theme-Mysticism]]|Persona` | Guidance
-> Text ^guidance-OclFactionNameTheme-Mysticism
+> Text ^guidance-Theme-Mysticism
 
 | Roll | Aspect | Persona |
-| :---: | --- | --- |
+| :--: | -- | -- |
 | 1 - 10 | Astral | Adepts |
 | 11 - 20 | Crystal | Alchemists |
 | 21 - 30 | Gleaming | Augurs |
@@ -233,16 +233,16 @@ Choose a template for a faction name from the options below.
 | 71 - 80 | Runemarked | Seers |
 | 81 - 90 | Shadow | Sorcerers |
 | 91 - 100 | Spellbound | Witches |
-^table-OclFactionNameTheme-Mysticism
+^table-Theme-Mysticism
 
 *184 ORACLES*
 
 ### Oracle: Theme - Rebellion
 > [!mechanics]- | Roll > <br>Aspect: `dice: [[OT_ISSI_Factions#^Theme-Rebellion]]|Aspect`<br>Persona: `dice: [[OT_ISSI_Factions#^Theme-Rebellion]]|Persona` | Guidance
-> Text ^guidance-OclFactionNameTheme-Rebellion
+> Text ^guidance-Theme-Rebellion
 
 | Roll | Aspect | Persona |
-|:---:| --- | --- |
+|:--:| -- | -- |
 | 1 - 10 | Apostate | Crows |
 | 11 - 20 | Forsworn | Gulls |
 | 21 - 30 | Free | Marauders |
@@ -253,14 +253,14 @@ Choose a template for a faction name from the options below.
 | 71 - 80 | Unbound | Relics |
 | 81 - 90 | Unchained | Shards |
 | 91 - 100 | Wayward | Tempests |
-^table-OclFactionNameTheme-Rebellion
+^table-Theme-Rebellion
 
 ### Oracle: Theme - Secrecy
 > [!mechanics]- | Roll > <br>Aspect: `dice: [[OT_ISSI_Factions#^Theme-Secrecy]]|Aspect`<br>Persona: `dice: [[OT_ISSI_Factions#^Theme-Secrecy]]|Persona` | Guidance
-> Text ^guidance-OclFactionNameTheme-Secrecy
+> Text ^guidance-Theme-Secrecy
 
 | Roll | Aspect | Persona |
-| :---: | --- | --- |
+| :--: | -- | -- |
 | 1 - 10 | Battleborn | Arrows |
 | 11 - 20 | Bloodied | Blades |
 | 21 - 30 | Crimson | Defenders |
@@ -271,14 +271,14 @@ Choose a template for a faction name from the options below.
 | 71 - 80 | Steelheart | Talons |
 | 81 - 90 | Undaunted | Vanguards |
 | 91 - 100 | Warforged | Wolves |
-^table-OclFactionNameTheme-Secrecy
+^table-Theme-Secrecy
 
 ### Oracle: Theme - War
 > [!mechanics]- | Roll > <br>Aspect: `dice: [[OT_ISSI_Factions#^Theme-War]]|Aspect`<br>Persona: `dice: [[OT_ISSI_Factions#^Theme-War]]|Persona` | Guidance
-> Text ^guidance-OclFactionNameTheme-War
+> Text ^guidance-Theme-War
 
 | Roll | Aspect | Persona |
-| :---: | --- | --- |
+| :--: | -- | -- |
 | 1 - 10 | Ashen | Cloaks |
 | 11 - 20 | Gossamer | Daggers |
 | 21 - 30 | Gray | Eyes |
@@ -289,14 +289,14 @@ Choose a template for a faction name from the options below.
 | 71 - 80 | Unseen | Shadows |
 | 81 - 90 | Veiled | Specters |
 | 91 - 100 | Whispering | Spiders |
-^table-OclFactionNameTheme-War
+^table-Theme-War
 
 ### Oracle: Theme - Curses
 > [!mechanics]- | Roll > <br>Aspect: `dice: [[OT_ISSI_Factions#^Theme-Curses]]|Aspect`<br>Persona: `dice: [[OT_ISSI_Factions#^Theme-Curses]]|Persona` | Guidance
-> Text ^guidance-OclFactionNameTheme-Curses
+> Text ^guidance-Theme-Curses
 
 | Roll | Aspect | Persona |
-| :---: | --- | --- |
+| :--: | -- | -- |
 | 1 - 10 | Cursed | Bones |
 | 11 - 20 | Bloodless | Jackals |
 | 21 - 30 | Bloody | Revenants |
@@ -307,14 +307,14 @@ Choose a template for a faction name from the options below.
 | 71 - 80 | Risen | Swarm |
 | 81 - 90 | Shattered | Wraiths |
 | 91 - 100 | Undying | Wretches |
-^table-OclFactionNameTheme-Curses
+^table-Theme-Curses
 
 *185 FACTION ORACLES*
 
 ## Tags
 
 | Previous Page | Tags | Next Section |
-| :--- | :---: | ---: |
+| :-- | :--: | --: |
 | **[[SI_CH3_Faction_The Cursed\|Faction The Cursed (SI Oracles)]]** | #SunderedIsles/Oracles/Factions | **[[_SI_CH3_Character Oracles\|Character (SI Oracles)]]** |
 
 <font size=-2>Copyright ©2024 Shawn Tomkin. The text of this work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license. For license details, visit ironswornrpg.com. Updated June 2024 MUH051V200-PDF</font>

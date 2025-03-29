@@ -1,9 +1,43 @@
-# Derelicts
-
-## Derelict Inner First Look
+# Outer First Look
 
 | dice: 1d300 | Result |
-|:----:|:-------|
+| :---: | --- |
+| 1 - 15 | Blocked access |
+| 16 - 30 | Corpses |
+| 31 - 45 | Hazardous readings |
+| 46 - 50 | Mutated structure |
+| 51 - 60 | Odd orientation |
+| 61 - 65 | Overgrown or entangled |
+| 66 - 80 | Sending a signal or message |
+| 81 - 85 | Signs that others are here |
+| 86 - 95 | Stripped exterior |
+| 96 - 100 | Time or reality distortion |
+| 101 - 115 | Explosive hole in the exterior |
+| 116 - 130 | Haphazard goods or cargo flotsam |
+| 131 - 145 | Arcing electricity and sparks |
+| 146 - 150 | Crushed structure |
+| 151 - 160 | Hodgepodge construction |
+| 161 - 165 | Unstable location or orbit |
+| 166 - 180 | Specialized scientific equipment |
+| 181 - 185 | Signs of a battle |
+| 186 - 195 | Pristine exterior |
+| 196 - 200 | Signs of the supernatural |
+| 201 - 215 | Sprung traps |
+| 216 - 230 | Abandoned weapons |
+| 231 - 245 | Leaking unknown gases or vapor |
+| 246 - 250 | Multiple attached structures |
+| 251 - 260 | Clearly lacking a key system |
+| 261 - 265 | Partially buried or subsumed |
+| 266 - 280 | Message scrawled on exterior |
+| 281 - 285 | Signs of lifeforms |
+| 286 - 295 | Deteriorating exterior |
+| 296 - 300 | Affected by local stellar phenomenon |
+^Outer-First-Look
+
+# Inner First Look
+
+| dice: 1d300 | Result |
+| :---: | --- |
 | 1 - 3 | Abnormal gravity |
 | 4 - 6 | Active bots |
 | 7 - 9 | Archaic equipment |
@@ -35,7 +69,7 @@
 | 85 - 87 | Thick haze or smoke |
 | 88 - 90 | Unstable energy surges |
 | 91 - 93 | Watchful AI |
-| 94 - 100 | ▶D+F `dice: [[OT_STRSM_OCL_Core^Core-Descriptor]]` + `dice: [[OT_STRSM_OCL_Core^Core-Focus]]` |
+| 94 - 100 | ▶[[OT_STRSM_OCL_Core#Descriptor\|D]] `dice: [[OT_STRSM_OCL_Core#^Descriptor]]` + ▶[[OT_STRSM_OCL_Core#Focus\|F]] `dice: [[OT_STRSM_OCL_Core#^Focus]]` |
 | 101 - 103 | Abnormal atmosphere |
 | 104 - 106 | Acid burns |
 | 107 - 109 | Blinding sparks |
@@ -67,7 +101,7 @@
 | 185 - 187 | Thick layer of dust |
 | 188 - 190 | Tooth marks |
 | 191 - 193 | Trails of ooze |
-| 194 - 200 | ▶D+F `dice: [[OT_STRSM_OCL_Core^Core-Descriptor]]` + `dice: [[OT_STRSM_OCL_Core^Core-Focus]]` |
+| 194 - 200 | ▶[[OT_STRSM_OCL_Core#Descriptor\|D]] `dice: [[OT_STRSM_OCL_Core#^Descriptor]]` + ▶[[OT_STRSM_OCL_Core#Focus\|F]] `dice: [[OT_STRSM_OCL_Core#^Focus]]` |
 | 201 - 203 | Abnormal structure material |
 | 204 - 206 | Cracks venting gas |
 | 207 - 209 | Creatures being birthed |
@@ -99,41 +133,5 @@
 | 285 - 287 | System malfunctions |
 | 288 - 290 | Uncanny mineral buildup |
 | 291 - 293 | Wide-open spaces |
-| 294-300 | ▶D+F `dice: [[OT_STRSM_OCL_Core^Core-Descriptor]]` + `dice: [[OT_STRSM_OCL_Core^Core-Focus]]` |
-^Derelict-Inner-First-Look
-
-## Derelict Outer First Look
-
-| dice: 1d300 | Result |
-|:----:|:-------|
-| 1 - 15 | Blocked access |
-| 16 - 30 | Corpses |
-| 31 - 45 | Hazardous readings |
-| 46 - 50 | Mutated structure |
-| 51 - 60 | Odd orientation |
-| 61 - 65 | Overgrown or entangled |
-| 66 - 80 | Sending a signal or message |
-| 81 - 85 | Signs that others are here |
-| 86 - 95 | Stripped exterior |
-| 96 - 100 | Time or reality distortion |
-| 101 - 115 | Explosive hole in the exterior |
-| 116 - 130 | Haphazard goods or cargo flotsam |
-| 131 - 145 | Arcing electricity and sparks |
-| 146 - 150 | Crushed structure |
-| 151 - 160 | Hodgepodge construction |
-| 161 - 165 | Unstable location or orbit |
-| 166 - 180 | Specialized scientific equipment |
-| 181 - 185 | Signs of a battle |
-| 186 - 195 | Pristine exterior |
-| 196 - 200 | Signs of the supernatural |
-| 201 - 215 | Sprung traps |
-| 216 - 230 | Abandoned weapons |
-| 231 - 245 | Leaking unknown gases or vapor |
-| 246 - 250 | Multiple attached structures |
-| 251 - 260 | Clearly lacking a key system |
-| 261 - 265 | Partially buried or subsumed |
-| 266 - 280 | Message scrawled on exterior |
-| 281 - 285 | Signs of lifeforms |
-| 286 - 295 | Deteriorating exterior |
-| 296 - 300 | Affected by local stellar phenomenon |
-^Derelict-Outer-First-Look
+| 294-300 | ▶[[OT_STRSM_OCL_Core#Descriptor\|D]] `dice: [[OT_STRSM_OCL_Core#^Descriptor]]` + ▶[[OT_STRSM_OCL_Core#Focus\|F]] `dice: [[OT_STRSM_OCL_Core#^Focus]]` |
+^Inner-First-Look

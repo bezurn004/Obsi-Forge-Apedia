@@ -21,6 +21,9 @@ Keep it simple. There’s no need to invent an elaborate history. You can discov
 ## Backstory Oracle
 For some backstory inspiration, roll or pick from the table below. Take a moment to elaborate on the suggestion. Or just leave it a bit vague and mysterious for now; you can flesh it out in play.
 
+> [!oracle]- Roll
+> `dice: [[OT_ISSF_Campaign#^Backstory-Prompt]]`
+
 | dice: 1d100 | Backstory Prompt |
 | :---: | :--- |
 | 1 – 7 | You abandoned your kin after learning a troubling truth |
@@ -39,9 +42,6 @@ For some backstory inspiration, roll or pick from the table below. Take a moment
 | 88 – 94 | Your ambitions outgrew your humble origins |
 | 95 – 100 | Your wanderlust carried you far away |
 ^table-backstory-prompt
-
-> [!oracle]- Roll
-> `dice: [[SF_CH2_Create Your Backstory#^table-backstory-prompt]]`
 
 > [!tip] **Building a Backstory With Other Players**
 > If you are playing with others, discuss your mutual history. Have you known one another for years, do you have only casual links, or are you only now forming a team as the campaign begins? Your backstories should not prohibit you from working with each other. You are allies with shared or complementary goals. A bit of friendly rivalry or friction between characters can make for good storytelling, but in the end you will stand together against those forces that would see your vows unfulfilled.

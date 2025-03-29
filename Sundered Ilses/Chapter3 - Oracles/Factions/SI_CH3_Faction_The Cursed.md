@@ -23,7 +23,7 @@ Cursed factions include people and beings of a strange, supernatural, or dreadfu
 
 ## Oracle: Cursed Faction Role
 > [!mechanics]- | Roll > `dice: [[OT_ISSI_Factions#^Cursed-Faction-Role]]` | Guidance
-> Use this table to reveal the personas of a cursed faction. For cursed factions that function as an organization, use the _Organization Methods_ or _Organization Secrets_ tables (page 180) for additional details. To reveal a current goal for a cursed faction or its leaders, use the _Cursed Character Goals_ table [(page 193)]. You can also add one or more Cursed Faction Aspects (below). ^guidance-OclCursedFactionRole
+> Use this table to reveal the personas of a cursed faction. For cursed factions that function as an organization, use the _Organization Methods_ or _Organization Secrets_ tables (page 180) for additional details. To reveal a current goal for a cursed faction or its leaders, use the _Cursed Character Goals_ table [(page 193)]. You can also add one or more Cursed Faction Aspects (below). ^guidance-Role
 
 | dice: 1d100 | Result |
 | :---: | --- |
@@ -41,11 +41,11 @@ Cursed factions include people and beings of a strange, supernatural, or dreadfu
 | 81 - 85 | Vampires |
 | 86 - 90 | Witch hunters |
 | 91 - 100 | Roll twice; combine those results as a single faction or set them against each other as opposing factions |
-^table-OclCursedFactionRole
+^table-Role
 
 ## Oracle: Cursed Faction Aspects
-> [!mechanics]- | Roll > ▶1 `dice: [[OT_ISSI_Factions#^Cursed-Faction-Aspects]]`<br>▶2 `dice: [[OT_ISSI_Factions#^Cursed-Faction-Aspects]]` | Guidance
-> Use this table to reveal uncanny aspects of a faction or its members.  ^guidance-OclCursedFactionAspects
+> [!mechanics]- | Roll ><br> ▶1 `dice: [[OT_ISSI_Factions#^Cursed-Faction-Aspects]]`<br>▶2 `dice: [[OT_ISSI_Factions#^Cursed-Faction-Aspects]]` | Guidance
+> Use this table to reveal uncanny aspects of a faction or its members.  ^guidance-Aspects
 
 | dice: 1d100 | Result @1-2 |
 | :---: | --- |
@@ -83,7 +83,7 @@ Cursed factions include people and beings of a strange, supernatural, or dreadfu
 | 93 - 95 | Wields dreadful magic |
 | 96 - 97 | Wields strange technologies |
 | 98 - 100 | Worships a dreadful god or entity |
-^table-OclCursedFactionAspects
+^table-Aspects
 
 *182 ORACLES*
 

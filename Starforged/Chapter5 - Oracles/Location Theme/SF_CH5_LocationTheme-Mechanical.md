@@ -23,11 +23,11 @@ OracleDescriptor: "_Machines and technology hold sway in this place._"
 _Machines and technology hold sway in this place._
 
 ## Oracle: Location Theme - Mechanical Feature
-> [!mechanics]- | Roll > `dice: [[SF_CH5_LocationTheme-Mechanical#^table-OclLocationThemeMechanicalFeature]]` | Guidance
-> ![[GSRY_Definitions#^gsry-OclSite-Feature]] ^guidance-OclSite-Feature
+> [!mechanics]- | Roll > `dice: [[OT_ISSF_Location-Themes#^Mechanical-Feature]]` | Guidance
+> ![[GSRY_Definitions#^gsry-OclSite-Feature]] ^guidance-Feature
 
 | dice: 1d100 | Result |
-| :---: | :--- |
+| :---: | --- |
 | 1 - 8 | Control station or terminal |
 | 9 - 16 | Device or technology with a mysterious function |
 | 17 - 24 | Disassembled machinery or parts |
@@ -40,15 +40,15 @@ _Machines and technology hold sway in this place._
 | 73 - 80 | Mechanical environment in motion or transforming |
 | 81 - 88 | Mechanical wreckage or destruction |
 | 89 - 96 | Power source for the machines |
-| 97 - 100 | ▶[[SF_CH5_Core_Descriptor-Focus#Oracle Descriptor\|Descriptor]] + [[SF_CH5_Core_Descriptor-Focus#Oracle Focus\|Focus]] |
-^table-OclLocationThemeMechanicalFeature
+| 97 - 100 | ▶[[SF_CH5_Core_Descriptor-Focus#Oracle Descriptor\|Descriptor]] + ▶[[SF_CH5_Core_Descriptor-Focus#Oracle Focus\|Focus]] |
+^table-Mechanical-Feature
 
 ## Oracle: Location Theme - Mechanical Peril
-> [!mechanics]- | Roll > `dice: [[SF_CH5_LocationTheme-Mechanical#^table-OclLocationThemeMechanicalPeril]]` | Guidance
-> ![[GSRY_Definitions#^gsry-OclSite-Peril]] ^guidance-OclSite-Peril
+> [!mechanics]- | Roll > `dice: [[OT_ISSF_Location-Themes#^Mechanical-Peril]]` | Guidance
+> ![[GSRY_Definitions#^gsry-OclSite-Peril]] ^guidance-Peril
 
 | dice: 1d100 | Result |
-| :---: | :--- |
+| :---: | --- |
 | 1 - 9 | Alarm or warning is triggered |
 | 10 - 18 | Automated weapon or trap is activated |
 | 19 - 27 | Environment made unsuitable for life |
@@ -59,22 +59,22 @@ _Machines and technology hold sway in this place._
 | 64 - 72 | Moving machinery creates a danger or obstacle |
 | 73 - 81 | Under surveillance by a central machine intelligence |
 | 82 - 90 | Volatile technology |
-| 91 - 98 | ▶[[SF_CH5_Core_Action-Theme#Oracle Action\|Action]] + [[SF_CH5_Core_Action-Theme#Oracle Theme\|Theme]] |
+| 91 - 98 | ▶[[SF_CH5_Core_Action-Theme#Oracle Action\|Action]] + ▶[[SF_CH5_Core_Action-Theme#Oracle Theme\|Theme]] |
 | 99 - 100 | Roll twice |
-^table-OclLocationThemeMechanicalPeril
+^table-Mechanical-Peril
 
 ## Oracle: Location Theme - Mechanical Opportunity
-> [!mechanics]- | Roll > `dice: [[SF_CH5_LocationTheme-Mechanical#^table-OclLocationThemeMechanicalOpportunity]]` | Guidance
-> ![[GSRY_Definitions#^gsry-OclSite-Opportunity]] ^guidance-OclSite-Opportunity
+> [!mechanics]- | Roll > `dice: [[OT_ISSF_Location-Themes#^Mechanical-Opportunity]]` | Guidance
+> ![[GSRY_Definitions#^gsry-OclSite-Opportunity]] ^guidance-Opportunity
 
 | dice: 1d100 | Result |
-| :---: | :--- |
+| :---: | --- |
 | 1 - 20 | Helpful device |
 | 21 - 40 | Insight into the workings or purpose of the machines |
 | 41 - 60 | Intelligent machine offers aid |
 | 61 - 80 | Salvageable resource |
 | 81 - 100 | Wondrous technology |
-^table-OclLocationThemeMechanicalOpportunity
+^table-Mechanical-Opportunity
 
 *377 LOCATION THEMES*
 

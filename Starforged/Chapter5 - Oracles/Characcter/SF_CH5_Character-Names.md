@@ -27,10 +27,10 @@ Given and family names can often be reversed, or used independently as standalon
 Spacers are often known only by their callsigns, with their “dirtside names” reserved for family and close friends.
 
 > [!oracle]- Roll
-> `dice: 1d100`
+> `dice: [[SF_CH5_Character-Names#^table-All-Names]]`
 
-| 1d100 | Given Name | Family Name | Callsign |
-| :---: | :--- | :--- | :--- |
+| dice: 1d100 | Given Name | Family Name | Callsign |
+| :---: | --- | --- | --- |
 | 1 | Akim | Kuzmin | Albatross |
 | 2 | Alex | Durant | Angler |
 | 3 | Alexis | Jefferies | Anvil |
@@ -131,18 +131,18 @@ Spacers are often known only by their callsigns, with their “dirtside names”
 | 98 | Zari | Darwin | Wraith |
 | 99 | Zev | Pearson | Wrongway |
 | 100 | Zoya | Volkov | Zephyr |
-^table-OclCharacterNames
+^table-All-Names
 
 *333 CHARACTERS*
 *334 CHAPTER 5: ORACLES*
 *335 CHARACTERS*
 
 ## Oracle: Character Given Name
-> [!mechanics]- | Roll > `dice: [[SF_CH5_Character-Names#^table-OclCharacterGivenName]]` | Guidance
-> **Given** and **Family** names are presented as an intended pair, so you may roll once for both if you choose. Given and family names can often be reversed, or used independently as standalone names. These “dirtside names” are usually reserved for family and close friends. ^guidance-OclCharacterGivenName
+> [!mechanics]- | Roll > `dice: [[OT_ISSF_Characters#^Given-Name]]` | Guidance
+> **Given** and **Family** names are presented as an intended pair, so you may roll once for both if you choose. Given and family names can often be reversed, or used independently as standalone names. These “dirtside names” are usually reserved for family and close friends. ^guidance-Given-Name
 
 | dice: 1d100 | Result |
-|:---:|:--- |
+| :---: | --- |
 | 1 | Akim |
 | 2 | Alex |
 | 3 | Alexis |
@@ -243,14 +243,14 @@ Spacers are often known only by their callsigns, with their “dirtside names”
 | 98 | Zari |
 | 99 | Zev |
 | 100 | Zoya |
-^table-OclCharacterGivenName
+^table-Given-Name
 
 ## Oracle: Character Family Name
-> [!mechanics]- | Roll > `dice: [[SF_CH5_Character-Names#^table-OclCharacterFamilyName]]` | Guidance
->**Given** and **Family** names are presented as an intended pair, so you may roll once for both if you choose. Given and family names can often be reversed, or used independently as standalone names. These “dirtside names” are usually reserved for family and close friends. ^guidance-OclCharacterFamilyName
+> [!mechanics]- | Roll > `dice: [[OT_ISSF_Characters#^Family-Name]]` | Guidance
+>**Given** and **Family** names are presented as an intended pair, so you may roll once for both if you choose. Given and family names can often be reversed, or used independently as standalone names. These “dirtside names” are usually reserved for family and close friends. ^guidance-Family-Name
 
 | dice: 1d100 | Result |
-| :----: |:-------|
+| :---: | ---|
 | 1 | Kuzmin |
 | 2 | Durant |
 | 3 | Jefferies |
@@ -351,14 +351,14 @@ Spacers are often known only by their callsigns, with their “dirtside names”
 | 98 | Darwin |
 | 99 | Pearson |
 | 100 | Volkov |
-^table-OclCharacterFamilyName
+^table-Family-Name
 
 ## Oracle: Character Call Sign
-> [!mechanics]- | Roll > `dice: [[SF_CH5_Character-Names#^table-OclCharacterCallSign]]` | Guidance
->If you’d like to give a character a **Callsign**, which are the monikers used by spacers, you may roll separately or take the one provided for the selected name. Spacers are often known only by their callsigns. ^guidance-OclCharacterCallsign
+> [!mechanics]- | Roll > `dice: [[OT_ISSF_Characters#^Callsign]]` | Guidance
+>If you’d like to give a character a **Callsign**, which are the monikers used by spacers, you may roll separately or take the one provided for the selected name. Spacers are often known only by their callsigns. ^guidance-Callsign
 
 | dice: 1d100 | Result |
-| :----: |:-------|
+| :---: | --- |
 | 1 | Albatross |
 | 2 | Angler |
 | 3 | Anvil |
@@ -459,7 +459,7 @@ Spacers are often known only by their callsigns, with their “dirtside names”
 | 98 | Wraith |
 | 99 | Wrongway |
 | 100 | Zephyr |
-^table-OclCharacterCallSign
+^table-CallSign
 
 ## Tags
 | Previous Page | Tags | Next Section |

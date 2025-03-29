@@ -34,32 +34,32 @@ Be mindful of the established truths from the last exercise. Some assets may not
 ## Need Inspiration?
 If you want some direction for your starting paths, roll or pick from the table below and take the two paths associated with your selected background.
 
+> [!oracle]- Roll
+> `dice: [[OT_ISSF_Campaign#^Path-Professions]]`
+
 | dice: 1d100 | Profession | First Path | Second Path |
 | :---: |:--- |:--- |:--- |
-| 1 – 5 | Battlefield Medic | [[AST_Healer\|HEALER]] | [[AST_Veteran\|VETERAN]] |
-| 6 – 10 | Delegate | [[AST_Bannersworn\|BANNERSWORN]] | [[AST_Diplomat\|DIPLOMAT]] |
-| 11 – 15 | Exobiologist | [[AST_Lore Hunter\|LORE HUNTER]] | [[AST_Naturalist\|NATURALIST]] |
-| 16 – 20 | Far Trader | [[AST_Navigator\|NAVIGATOR]] | [[AST_Trader\|TRADER]] |
-| 21 – 25 | Fugitive Hunter | [[AST_Armored\|ARMORED]] | [[AST_Bounty Hunter\|BOUNTY HUNTER]] |
-| 26 – 30 | Hacker | [[AST_Infiltrator\|INFILTRATOR]] | [[AST_Tech\|TECH]] |
-| 31 – 35 | Hotshot Pilot | [[AST_Ace\|ACE]] | [[AST_Navigator\|NAVIGATOR]] |
-| 36 – 40 | Interstellar Scout | [[AST_Explorer\|EXPLORER]] | [[AST_Voidborn\|VOIDBORN]] |
-| 41 – 45 | Monster Hunter | [[AST_Gunner\|GUNNER]] | [[AST_Slayer\|SLAYER]] |
-| 46 – 50 | Occultist | [[AST_Outcast\|OUTCAST]] | [[AST_Shade\|SHADE]] |
-| 51 – 55 | Operative | [[AST_Infiltrator\|INFILTRATOR]] | [[AST_Blademaster\|BLADEMASTER]] |
-| 56 – 60 | Outlaw | [[AST_Fugitive\|FUGITIVE]] | [[AST_Gunslinger\|GUNSLIGER]] |
-| 61 – 65 | Private Investigator | [[AST_Brawler\|BRAWLER]] | [[AST_Sleuth\|SLEUTH]] |
-| 66 – 70 | Prophet | [[AST_Devotant\|DEVOTANT]] | [[AST_Seer\|SEER]] |
-| 71 – 75 | Psionicist | [[AST_Kinetic\|KINTETIC]] | [[AST_Vestige\|VESTIGE]] |
-| 76 – 80 | Smuggler | [[AST_Courier\|COURIER ]] | [[AST_Scoundrel\|SCOUNDREL]] |
-| 81 – 85 | Spiritualist | [[AST_Haunted\|HAUNTED]] | [[AST_Empath\|EMPATH]] |
-| 86 – 90 | Starship Engineer | [[AST_Gearhead\|GEARHEAD]] | [[AST_Tech\|TECH]] |
-| 91 – 95 | Supersoldier | [[AST_Augmented\|AUGMENTED]] | [[AST_Mercenary\|MERCENARY]] |
-| 96 – 100 | Tomb Raider | [[AST_Scavenger\|SCAVENGER]] | [[AST_Scoundrel\|SCOUNDREL]] |
+| 1 - 5 | Battlefield Medic | [[AST_Healer\|HEALER]] | [[AST_Veteran\|VETERAN]] |
+| 6 - 10 | Delegate | [[AST_Bannersworn\|BANNERSWORN]] | [[AST_Diplomat\|DIPLOMAT]] |
+| 11 - 15 | Exobiologist | [[AST_Lore Hunter\|LORE HUNTER]] | [[AST_Naturalist\|NATURALIST]] |
+| 16 - 20 | Far Trader | [[AST_Navigator\|NAVIGATOR]] | [[AST_Trader\|TRADER]] |
+| 21 - 25 | Fugitive Hunter | [[AST_Armored\|ARMORED]] | [[AST_Bounty Hunter\|BOUNTY HUNTER]] |
+| 26 - 30 | Hacker | [[AST_Infiltrator\|INFILTRATOR]] | [[AST_Tech\|TECH]] |
+| 31 - 35 | Hotshot Pilot | [[AST_Ace\|ACE]] | [[AST_Navigator\|NAVIGATOR]] |
+| 36 - 40 | Interstellar Scout | [[AST_Explorer\|EXPLORER]] | [[AST_Voidborn\|VOIDBORN]] |
+| 41 - 45 | Monster Hunter | [[AST_Gunner\|GUNNER]] | [[AST_Slayer\|SLAYER]] |
+| 46 - 50 | Occultist | [[AST_Outcast\|OUTCAST]] | [[AST_Shade\|SHADE]] |
+| 51 - 55 | Operative | [[AST_Infiltrator\|INFILTRATOR]] | [[AST_Blademaster\|BLADEMASTER]] |
+| 56 - 60 | Outlaw | [[AST_Fugitive\|FUGITIVE]] | [[AST_Gunslinger\|GUNSLIGER]] |
+| 61 - 65 | Private Investigator | [[AST_Brawler\|BRAWLER]] | [[AST_Sleuth\|SLEUTH]] |
+| 66 - 70 | Prophet | [[AST_Devotant\|DEVOTANT]] | [[AST_Seer\|SEER]] |
+| 71 - 75 | Psionicist | [[AST_Kinetic\|KINTETIC]] | [[AST_Vestige\|VESTIGE]] |
+| 76 - 80 | Smuggler | [[AST_Courier\|COURIER ]] | [[AST_Scoundrel\|SCOUNDREL]] |
+| 81 - 85 | Spiritualist | [[AST_Haunted\|HAUNTED]] | [[AST_Empath\|EMPATH]] |
+| 86 - 90 | Starship Engineer | [[AST_Gearhead\|GEARHEAD]] | [[AST_Tech\|TECH]] |
+| 91 - 95 | Supersoldier | [[AST_Augmented\|AUGMENTED]] | [[AST_Mercenary\|MERCENARY]] |
+| 96 - 100 | Tomb Raider | [[AST_Scavenger\|SCAVENGER]] | [[AST_Scoundrel\|SCOUNDREL]] |
 ^table-profession-to-assets
-
-> [!oracle]- Roll
-> `dice: 1d100`
 
 *105 CREATE YOUR CHARACTER*
 

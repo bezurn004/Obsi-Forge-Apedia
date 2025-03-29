@@ -1,9 +1,151 @@
-# Starships
-
-## Starship First Look
+# Type
 
 | dice: 1d300 | Result |
-|:----:|:-------|
+| :---: | --- |
+| 1 - 2 | Carrier - Launches fighters |
+| 3 - 6 | Corvette - Light attack ship |
+| 7 - 11 | Courier - Fast transport |
+| 12 - 14 | Cruiser - Medium attack ship |
+| 15 - 16 | Dreadnought - Heavy attack ship |
+| 17 - 19 | Escape pod - Survival craft |
+| 20 - 22 | Foundry - Mobile construction platform |
+| 23 - 27 | Harvester - Fuel or energy excavator |
+| 28 - 33 | Hauler - Heavy transport |
+| 34 - 36 | Hunter - Stealth attack ship |
+| 37 - 38 | Ironhome - Habitat |
+| 39 - 42 | Mender - Utility or repair |
+| 43 - 47 | Outbounder - Remote survey or research |
+| 48 - 50 | Pennant - Command ship |
+| 51 - 56 | Prospector - Mineral excavator |
+| 57 - 61 | Reclaimer - Salvage or rescue |
+| 62 - 64 | Shuttle - Short - range transport |
+| 65 - 67 | Snub fighter - Small attack craft |
+| 68 - 82 | Multipurpose - ▶[[STRSM_OCL_Starship-Approach#Oracle Starship Mission\|Starship Mission]] (pick per region)<br>Terminus: `dice: [[OT_STRSM_OCL_Starships#^Mission-Terminus]]`<br>Outlands: `dice: [[OT_STRSM_OCL_Starships#^Mission-Outlands]]`<br>Expanse: `dice: [[OT_STRSM_OCL_Starships#^Mission-Expanse]]` |
+| 83 - 84 | Unusual or unknown |
+| 85 - 94 | ▶[[OT_STRSM_OCL_Starships#^Fleet\|Fleet]] `dice: [[OT_STRSM_OCL_Starships#^Fleet]]` |
+| 95 - 100 | Ships in conflict: ▶R2<br>`dice: [[OT_STRSM_OCL_Starships#^Type]]`<br>`dice: [[OT_STRSM_OCL_Starships#^Type]]` |
+| 101 - 102 | Scorpion - Launches atmospheric fighters |
+| 103 - 106 | Lightning - Light bomber |
+| 107 - 111 | Knight - Escort fighter |
+| 112 - 114 | Thunder - Medium bomber |
+| 115 - 116 | Storm - Heavy bomber |
+| 117 - 119 | Montgomery - Maintenance craft |
+| 120 - 122 | Fabricator - Mobile production plant |
+| 123 - 127 | Generator - Mobile power supplier |
+| 128 - 133 | Conveyor - Medium transport |
+| 134 - 136 | Infiltrator - Stealthy surveillance craft |
+| 137 - 138 | Devastator - Vessel of mass destruction |
+| 139 - 142 | Explorer - Deep space cruiser |
+| 143 - 147 | Caduceus - Medical ship |
+| 148 - 150 | Horizon - Mobile communications array |
+| 151 - 156 | Compass - Surveyor ship |
+| 157 - 161 | Tug - Wreckage transport |
+| 162 - 164 | Coach - Interplanetary transport |
+| 165 - 167 | Schooner - Solar sail vessel |
+| 168 - 182 | Multipurpose - ▶[[STRSM_OCL_Starship-Approach#Oracle Starship Mission\|Starship Mission]] (pick per region)<br>Terminus: `dice: [[OT_STRSM_OCL_Starships#^Mission-Terminus]]`<br>Outlands: `dice: [[OT_STRSM_OCL_Starships#^Mission-Outlands]]`<br>Expanse: `dice: [[OT_STRSM_OCL_Starships#^Mission-Expanse]]` |
+| 183 - 184 | Unusual or unknown |
+| 185 - 194 | ▶[[OT_STRSM_OCL_Starships#^Fleet\|Fleet]] `dice: [[OT_STRSM_OCL_Starships#^Fleet]]` |
+| 195 - 200 | Ships in conflict: ▶R2<br>`dice: [[OT_STRSM_OCL_Starships#^Type]]`<br>`dice: [[OT_STRSM_OCL_Starships#^Type]]` |
+| 201 - 202 | Frigate - Troop carrier |
+| 203 - 206 | Spartan - Light defender |
+| 207 - 211 | Garrison - System patrol ship |
+| 212 - 214 | Corinthian - Medium defender |
+| 215 - 216 | Centurion - Heavy defender |
+| 217 - 219 | Flier - Solo racing ship |
+| 220 - 222 | Castle - Mobile fortress |
+| 223 - 227 | Respirator - Gas collector |
+| 228 - 233 | Invader - Massive troop transport |
+| 234 - 236 | Crawler - Mine layer |
+| 237 - 238 | Destroyer - Planet killer |
+| 239 - 242 | Oracle - Deep space science vessel |
+| 243 - 247 | Discovery - Science vessel |
+| 248 - 250 | Shipwright - Mobile drydock |
+| 251 - 256 | Distiller - Mobile mineral processor |
+| 257 - 261 | Amphibian - Planetary lander |
+| 262 - 264 | Train - Unmanned transport |
+| 265 - 267 | Jumper - Short burst Eidolon drive ship |
+| 268 - 282 | Multipurpose - ▶[[STRSM_OCL_Starship-Approach#Oracle Starship Mission\|Starship Mission]] (pick per region)<br>Terminus: `dice: [[OT_STRSM_OCL_Starships#^Mission-Terminus]]`<br>Outlands: `dice: [[OT_STRSM_OCL_Starships#^Mission-Outlands]]`<br>Expanse: `dice: [[OT_STRSM_OCL_Starships#^Mission-Expanse]]` |
+| 283 - 284 | Unusual or unknown |
+| 285 - 294 | ▶[[OT_STRSM_OCL_Starships#^Fleet\|Fleet]] `dice: [[OT_STRSM_OCL_Starships#^Fleet]]` |
+| 295 - 300 | Ships in conflict: ▶R2<br>`dice: [[OT_STRSM_OCL_Starships#^Type]]`<br>`dice: [[OT_STRSM_OCL_Starships#^Type]]` |
+^Type
+
+# Fleet
+
+| dice: 1d300 | Result |
+| :---: | --- |
+| 1 - 10 | Battle fleet |
+| 11 - 25 | Pirate wing |
+| 26 - 35 | Raider horde |
+| 36 - 50 | Salvager hive |
+| 51 - 60 | Settler caravan |
+| 61 - 70 | Trade caravan |
+| 71 - 90 | Transport and escorts |
+| 91 - 100 | ▶[[STRSM_OCL_Starship-Approach#Oracle Starship Mission\|Starship Mission]] (pick per region)<br>Terminus: `dice: [[OT_STRSM_OCL_Starships#^Mission-Terminus]]`<br>Outlands: `dice: [[OT_STRSM_OCL_Starships#^Mission-Outlands]]`<br>Expanse: `dice: [[OT_STRSM_OCL_Starships#^Mission-Expanse]]` |
+| 101 - 110 | Border patrol |
+| 111 - 125 | Mercenary force |
+| 126 - 135 | Engineering team |
+| 136 - 150 | Corporate excavators |
+| 151 - 160 | Automated cryo-sleepers |
+| 161 - 170 | Religious caravan |
+| 171 - 190 | Unaligned sanctuary ships |
+| 191 - 200 | ▶[[STRSM_OCL_Starship-Approach#Oracle Starship Mission\|Starship Mission]] (pick per region)<br>Terminus: `dice: [[OT_STRSM_OCL_Starships#^Mission-Terminus]]`<br>Outlands: `dice: [[OT_STRSM_OCL_Starships#^Mission-Outlands]]`<br>Expanse: `dice: [[OT_STRSM_OCL_Starships#^Mission-Expanse]]` |
+| 201 - 210 | Battle training group |
+| 211 - 225 | Crippled battle group |
+| 226 - 235 | Construction team |
+| 236 - 250 | Corporate survey team |
+| 251 - 260 | Sight-seeing tour |
+| 261 - 270 | Entertainment caravan |
+| 271 - 290 | Exploratory caravan |
+| 291 - 300 | ▶[[STRSM_OCL_Starship-Approach#Oracle Starship Mission\|Starship Mission]] (pick per region)<br>Terminus: `dice: [[OT_STRSM_OCL_Starships#^Mission-Terminus]]`<br>Outlands: `dice: [[OT_STRSM_OCL_Starships#^Mission-Outlands]]`<br>Expanse: `dice: [[OT_STRSM_OCL_Starships#^Mission-Expanse]]` |
+^Fleet
+
+# Initial Contact
+
+| dice: 1d300 | Result |
+| :---: | --- |
+| 1 - 3 | Familiar |
+| 4 - 15 | Friendly |
+| 16 - 25 | Neutral / automated |
+| 26 - 35 | Wary |
+| 36 - 40 | Dismissive |
+| 41 - 50 | Uncooperative |
+| 51 - 65 | Hostile |
+| 66 - 80 | Asking for help |
+| 81 - 85 | In battle |
+| 86 - 90 | Unresponsive |
+| 91 - 95 | Destroyed |
+| 96 - 100 | ▶[[SF_CH5_Derelict_Create\|Derelict]] |
+| 101 - 103 | Helpful |
+| 104 - 115 | All business |
+| 116 - 125 | Tolerant |
+| 126 - 135 | Defensive |
+| 136 - 140 | Reckless showboating |
+| 141 - 150 | Asking for a bribe |
+| 151 - 165 | Easily offended |
+| 166 - 180 | Demanding |
+| 181 - 185 | In crisis |
+| 186 - 190 | On emergency power |
+| 191 - 195 | Drifting dead in space |
+| 196 - 200 | ▶[[SF_CH5_Derelict_Create\|Derelict]] |
+| 201 - 203 | Informative |
+| 204 - 215 | Seeking mutual benefit |
+| 216 - 225 | Bureaucratic protocols |
+| 226 - 235 | Apathetic |
+| 236 - 240 | Stubborn contrarian |
+| 241 - 250 | Arrogant jerk |
+| 251 - 265 | Apathetic |
+| 266 - 280 | Wants to travel together |
+| 281 - 285 | In a time crunch |
+| 286 - 290 | Looped distress call |
+| 291 - 295 | Core going critical |
+| 296 - 300 | ▶[[SF_CH5_Derelict_Create\|Derelict]] |
+^Initial-Contact
+
+# First Look
+
+| dice: 1d300 | Result |
+| :---: | --- |
 | 1 - 4 | Abnormal sensor readings |
 | 5 - 8 | Brightly painted |
 | 9 - 13 | Bristling with weapons |
@@ -25,7 +167,7 @@
 | 81 - 85 | Scarred hull |
 | 86 - 90 | Built from scrap |
 | 91 - 94 | Towing or linked |
-| 95 - 100 | ▶D+F `dice: [[OT_STRSM_OCL_Core^Core-Descriptor]]` + `dice: [[OT_STRSM_OCL_Core^Core-Focus]]` |
+| 95 - 100 | ▶[[OT_STRSM_OCL_Core#Descriptor\|D]] `dice: [[OT_STRSM_OCL_Core#^Descriptor]]` + ▶[[OT_STRSM_OCL_Core#Focus\|F]] `dice: [[OT_STRSM_OCL_Core#^Focus]]` |
 | 101 - 104 | Strange energy spikes |
 | 105 - 108 | Highly reflective |
 | 109 - 113 | Large, central weapon |
@@ -47,7 +189,7 @@
 | 181 - 185 | New exterior |
 | 186 - 190 | Hull of unknown alloy |
 | 191 - 194 | Ejected life pods |
-| 195 - 200 | ▶D+F `dice: [[OT_STRSM_OCL_Core^Core-Descriptor]]` + `dice: [[OT_STRSM_OCL_Core^Core-Focus]]` |
+| 195 - 200 | ▶[[OT_STRSM_OCL_Core#Descriptor\|D]] `dice: [[OT_STRSM_OCL_Core#^Descriptor]]` + ▶[[OT_STRSM_OCL_Core#Focus\|F]] `dice: [[OT_STRSM_OCL_Core#^Focus]]` |
 | 201 - 204 | Sensor ghosts |
 | 205 - 208 | Light sails |
 | 209 - 213 | No signs of weapons |
@@ -69,85 +211,13 @@
 | 281 - 285 | Hull breach |
 | 286 - 290 | Nano-tech hull |
 | 291 - 294 | Active maintenance bots |
-| 295 - 300 | ▶D+F `dice: [[OT_STRSM_OCL_Core^Core-Descriptor]]` + `dice: [[OT_STRSM_OCL_Core^Core-Focus]]` |
-^Starship-First-Look
+| 295 - 300 | ▶[[OT_STRSM_OCL_Core#Descriptor\|D]] `dice: [[OT_STRSM_OCL_Core#^Descriptor]]` + ▶[[OT_STRSM_OCL_Core#Focus\|F]] `dice: [[OT_STRSM_OCL_Core#^Focus]]` |
+^First-Look
 
-## Starship Fleet
-
-| dice: 1d300 | Result |
-|:----:|:-------|
-| 1 - 10 | Battle fleet |
-| 11 - 25 | Pirate wing |
-| 26 - 35 | Raider horde |
-| 36 - 50 | Salvager hive |
-| 51 - 60 | Settler caravan |
-| 61 - 70 | Trade caravan |
-| 71 - 90 | Transport and escorts |
-| 91 - 100 | ▶[[STRSM_OCL_Starship-Approach#Oracle Starship Mission\|Starship Mission]] (pick per region)<br>Terminus: `dice: [[OT_STRSM_OCL_Starships#^Starship-Mission-Terminus]]`<br>Outlands: `dice: [[OT_STRSM_OCL_Starships#^Starship-Mission-Outlands]]`<br>Expanse: `dice: [[OT_STRSM_OCL_Starships#^Starship-Mission-Expanse]]` |
-| 101 - 110 | Border patrol |
-| 111 - 125 | Mercenary force |
-| 126 - 135 | Engineering team |
-| 136 - 150 | Corporate excavators |
-| 151 - 160 | Automated cryo-sleepers |
-| 161 - 170 | Religious caravan |
-| 171 - 190 | Unaligned sanctuary ships |
-| 191 - 200 | ▶[[STRSM_OCL_Starship-Approach#Oracle Starship Mission\|Starship Mission]] (pick per region)<br>Terminus: `dice: [[OT_STRSM_OCL_Starships#^Starship-Mission-Terminus]]`<br>Outlands: `dice: [[OT_STRSM_OCL_Starships#^Starship-Mission-Outlands]]`<br>Expanse: `dice: [[OT_STRSM_OCL_Starships#^Starship-Mission-Expanse]]` |
-| 201 - 210 | Battle training group |
-| 211 - 225 | Crippled battle group |
-| 226 - 235 | Construction team |
-| 236 - 250 | Corporate survey team |
-| 251 - 260 | Sight-seeing tour |
-| 261 - 270 | Entertainment caravan |
-| 271 - 290 | Exploratory caravan |
-| 291 - 300 | ▶[[STRSM_OCL_Starship-Approach#Oracle Starship Mission\|Starship Mission]] (pick per region)<br>Terminus: `dice: [[OT_STRSM_OCL_Starships#^Starship-Mission-Terminus]]`<br>Outlands: `dice: [[OT_STRSM_OCL_Starships#^Starship-Mission-Outlands]]`<br>Expanse: `dice: [[OT_STRSM_OCL_Starships#^Starship-Mission-Expanse]]` |
-^Starship-Fleet
-
-## Starship Initial Contact
+# Mission - Terminus
 
 | dice: 1d300 | Result |
-|:----:|:-------|
-| 1 - 3 | Familiar |
-| 4 - 15 | Friendly |
-| 16 - 25 | Neutral / automated |
-| 26 - 35 | Wary |
-| 36 - 40 | Dismissive |
-| 41 - 50 | Uncooperative |
-| 51 - 65 | Hostile |
-| 66 - 80 | Asking for help |
-| 81 - 85 | In battle |
-| 86 - 90 | Unresponsive |
-| 91 - 95 | Destroyed |
-| 96 - 100 | ▶[[STRSM_OCL_Derelict-Looks#Oracle Derelict Outer First Look\|Derelict]] `dice: [[OT_STRSM_OCL_Derelicts#^Derelict-Outer-First-Look]]` |
-| 101 - 103 | Helpful |
-| 104 - 115 | All business |
-| 116 - 125 | Tolerant |
-| 126 - 135 | Defensive |
-| 136 - 140 | Reckless showboating |
-| 141 - 150 | Asking for a bribe |
-| 151 - 165 | Easily offended |
-| 166 - 180 | Demanding |
-| 181 - 185 | In crisis |
-| 186 - 190 | On emergency power |
-| 191 - 195 | Drifting dead in space |
-| 196 - 200 | ▶[[STRSM_OCL_Derelict-Looks#Oracle Derelict Outer First Look\|Derelict]] `dice: [[OT_STRSM_OCL_Derelicts#^Derelict-Outer-First-Look]]` |
-| 201 - 203 | Informative |
-| 204 - 215 | Seeking mutual benefit |
-| 216 - 225 | Bureaucratic protocols |
-| 226 - 235 | Apathetic |
-| 236 - 240 | Stubborn contrarian |
-| 241 - 250 | Arrogant jerk |
-| 251 - 265 | Apathetic |
-| 266 - 280 | Wants to travel together |
-| 281 - 285 | In a time crunch |
-| 286 - 290 | Looped distress call |
-| 291 - 295 | Core going critical |
-| 296 - 300 | ▶[[STRSM_OCL_Derelict-Looks#Oracle Derelict Outer First Look\|Derelict]] `dice: [[OT_STRSM_OCL_Derelicts#^Derelict-Outer-First-Look]]` |
-^Starship-Initial-Contact
-
-## Starship Mission - Terminus
-
-| dice: 1d300 | Result |
-|:----:|:-------|
+| :---: | --- |
 | 1 - 2 | Blockade a location |
 | 3 - 4 | Break a blockade |
 | 5 - 8 | Collect a resource |
@@ -178,8 +248,8 @@
 | 78 - 79 | Test a technology |
 | 80 - 83 | Transport cargo |
 | 84 - 85 | Transport passengers |
-| 86 - 90 | ▶A+T `dice: [[OT_STRSM_OCL_Core^Core-Action]]` + `dice: [[OT_STRSM_OCL_Core^Core-Theme]]` |
-| 91 - 100 | ▶R2 `dice: [[OT_STRSM_OCL_Starships#^Starship-Mission-Terminus]]` + `dice: [[OT_STRSM_OCL_Starships#^Starship-Mission-Terminus]]` |
+| 86 - 90 | ▶[[OT_STRSM_OCL_Core#Action\|A]] `dice: [[OT_STRSM_OCL_Core#^Action]]` + ▶[[OT_STRSM_OCL_Core#Theme\|T]] `dice: [[OT_STRSM_OCL_Core#^Theme]]` |
+| 91 - 100 | ▶R2 `dice: [[OT_STRSM_OCL_Starships#^Mission-Terminus]]` + `dice: [[OT_STRSM_OCL_Starships#^Mission-Terminus]]` |
 | 101 - 102 | Enforce martial law |
 | 103 - 104 | Reinforce supply lines |
 | 105 - 108 | Destroy a resource |
@@ -210,8 +280,8 @@
 | 178 - 179 | Test a weapon |
 | 180 - 183 | Transport vehicles |
 | 184 - 185 | Transport leaders in secret |
-| 186 - 190 | ▶A+T `dice: [[OT_STRSM_OCL_Core^Core-Action]]` + `dice: [[OT_STRSM_OCL_Core^Core-Theme]]` |
-| 191 - 200 | ▶R2 `dice: [[OT_STRSM_OCL_Starships#^Starship-Mission-Terminus]]` + `dice: [[OT_STRSM_OCL_Starships#^Starship-Mission-Terminus]]` |
+| 186 - 190 | ▶[[OT_STRSM_OCL_Core#Action\|A]] `dice: [[OT_STRSM_OCL_Core#^Action]]` + ▶[[OT_STRSM_OCL_Core#Theme\|T]] `dice: [[OT_STRSM_OCL_Core#^Theme]]`Core#Theme\|T]] `dice: [[OT_STRSM_OCL_Core#^Theme]]` |
+| 191 - 200 | ▶R2 `dice: [[OT_STRSM_OCL_Starships#^Mission-Terminus]]` + `dice: [[OT_STRSM_OCL_Starships#^Mission-Terminus]]` |
 | 201 - 202 | Escalate regional tensions |
 | 203 - 204 | Setup defensive perimeter |
 | 205 - 208 | Trade a resource |
@@ -242,14 +312,14 @@
 | 278 - 279 | Test an alliance |
 | 280 - 283 | Transport energy source |
 | 284 - 285 | Transport lifeforms |
-| 286 - 290 | ▶A+T `dice: [[OT_STRSM_OCL_Core^Core-Action]]` + `dice: [[OT_STRSM_OCL_Core^Core-Theme]]` |
-| 291 - 300 | ▶R2 `dice: [[OT_STRSM_OCL_Starships#^Starship-Mission-Terminus]]` + `dice: [[OT_STRSM_OCL_Starships#^Starship-Mission-Terminus]]` |
-^Starship-Mission-Terminus
+| 286 - 290 | ▶[[OT_STRSM_OCL_Core#Action\|A]] `dice: [[OT_STRSM_OCL_Core#^Action]]` + ▶[[OT_STRSM_OCL_Core#Theme\|T]] `dice: [[OT_STRSM_OCL_Core#^Theme]]` |
+| 291 - 300 | ▶R2 `dice: [[OT_STRSM_OCL_Starships#^Mission-Terminus]]` + `dice: [[OT_STRSM_OCL_Starships#^Mission-Terminus]]` |
+^Mission-Terminus
 
-## Starship Mission - Outlands
+# Mission - Outlands
 
 | dice: 1d300 | Result |
-|:----:|:-------|
+| :---: | --- |
 | 1 - 2 | Blockade a location |
 | 3 - 4 | Break a blockade |
 | 5 - 7 | Collect a resource |
@@ -280,8 +350,8 @@
 | 79 - 80 | Test a technology |
 | 81 - 83 | Transport cargo |
 | 84 - 85 | Transport passengers |
-| 86 - 90 | ▶A+T `dice: [[OT_STRSM_OCL_Core^Core-Action]]` + `dice: [[OT_STRSM_OCL_Core^Core-Theme]]` |
-| 91 - 100 | ▶R2 `dice: [[OT_STRSM_OCL_Starships#^Starship-Mission-Outlands]]` + `dice: [[OT_STRSM_OCL_Starships#^Starship-Mission-Outlands]]` |
+| 86 - 90 | ▶[[OT_STRSM_OCL_Core#Action\|A]] `dice: [[OT_STRSM_OCL_Core#^Action]]` + ▶[[OT_STRSM_OCL_Core#Theme\|T]] `dice: [[OT_STRSM_OCL_Core#^Theme]]` |
+| 91 - 100 | ▶R2 `dice: [[OT_STRSM_OCL_Starships#^Mission-Outlands]]` + `dice: [[OT_STRSM_OCL_Starships#^Mission-Outlands]]` |
 | 101 - 102 | Enforce martial law |
 | 103 - 104 | Reinforce supply lines |
 | 105 - 107 | Destroy a resource |
@@ -312,8 +382,8 @@
 | 179 - 180 | Test a weapon |
 | 181 - 183 | Transport vehicles |
 | 184 - 185 | Transport leaders in secret |
-| 186 - 190 | ▶A+T `dice: [[OT_STRSM_OCL_Core^Core-Action]]` + `dice: [[OT_STRSM_OCL_Core^Core-Theme]]` |
-| 191 - 200 | ▶R2 `dice: [[OT_STRSM_OCL_Starships#^Starship-Mission-Outlands]]` + `dice: [[OT_STRSM_OCL_Starships#^Starship-Mission-Outlands]]` |
+| 186 - 190 | ▶[[OT_STRSM_OCL_Core#Action\|A]] `dice: [[OT_STRSM_OCL_Core#^Action]]` + ▶[[OT_STRSM_OCL_Core#Theme\|T]] `dice: [[OT_STRSM_OCL_Core#^Theme]]` |
+| 191 - 200 | ▶R2 `dice: [[OT_STRSM_OCL_Starships#^Mission-Outlands]]` + `dice: [[OT_STRSM_OCL_Starships#^Mission-Outlands]]` |
 | 201 - 202 | Escalate regional tensions |
 | 203 - 204 | Setup defensive perimeter |
 | 205 - 207 | Trade a resource |
@@ -344,14 +414,14 @@
 | 279 - 280 | Test an alliance |
 | 281 - 283 | Transport energy source |
 | 284 - 285 | Transport lifeforms |
-| 286 - 290 | ▶A+T `dice: [[OT_STRSM_OCL_Core^Core-Action]]` + `dice: [[OT_STRSM_OCL_Core^Core-Theme]]` |
-| 291 - 300 | ▶R2 `dice: [[OT_STRSM_OCL_Starships#^Starship-Mission-Outlands]]` + `dice: [[OT_STRSM_OCL_Starships#^Starship-Mission-Outlands]]` |
-^Starship-Mission-Outlands
+| 286 - 290 | ▶[[OT_STRSM_OCL_Core#Action\|A]] `dice: [[OT_STRSM_OCL_Core#^Action]]` + ▶[[OT_STRSM_OCL_Core#Theme\|T]] `dice: [[OT_STRSM_OCL_Core#^Theme]]` |
+| 291 - 300 | ▶R2 `dice: [[OT_STRSM_OCL_Starships#^Mission-Outlands]]` + `dice: [[OT_STRSM_OCL_Starships#^Mission-Outlands]]` |
+^Mission-Outlands
 
-## Starship Mission - Expanse
+# Mission - Expanse
 
 | dice: 1d300 | Result |
-|:----:|:-------|
+| :---: | --- |
 | 1 - 2 | Blockade a location |
 | 3 - 4 | Break a blockade |
 | 5 - 8 | Collect a resource |
@@ -382,8 +452,8 @@
 | 78 - 79 | Test a technology |
 | 80 - 83 | Transport cargo |
 | 84 - 85 | Transport passengers |
-| 86 - 90 | ▶A+T `dice: [[OT_STRSM_OCL_Core^Core-Action]]` + `dice: [[OT_STRSM_OCL_Core^Core-Theme]]` |
-| 91 - 100 | ▶R2 `dice: [[OT_STRSM_OCL_Starships#^Starship-Mission-Expanse]]` + `dice: [[OT_STRSM_OCL_Starships#^Starship-Mission-Expanse]]` |
+| 86 - 90 | ▶[[OT_STRSM_OCL_Core#Action\|A]] `dice: [[OT_STRSM_OCL_Core#^Action]]` + ▶[[OT_STRSM_OCL_Core#Theme\|T]] `dice: [[OT_STRSM_OCL_Core#^Theme]]` |
+| 91 - 100 | ▶R2 `dice: [[OT_STRSM_OCL_Starships#^Mission-Expanse]]` + `dice: [[OT_STRSM_OCL_Starships#^Mission-Expanse]]` |
 | 101 - 102 | Enforce martial law |
 | 103 - 104 | Reinforce supply lines |
 | 105 - 108 | Destroy a resource |
@@ -414,8 +484,8 @@
 | 178 - 179 | Test a weapon |
 | 180 - 183 | Transport vehicles |
 | 184 - 185 | Transport leaders in secret |
-| 186 - 190 | ▶A+T `dice: [[OT_STRSM_OCL_Core^Core-Action]]` + `dice: [[OT_STRSM_OCL_Core^Core-Theme]]` |
-| 191 - 200 | ▶R2 `dice: [[OT_STRSM_OCL_Starships#^Starship-Mission-Expanse]]` + `dice: [[OT_STRSM_OCL_Starships#^Starship-Mission-Expanse]]` |
+| 186 - 190 | ▶[[OT_STRSM_OCL_Core#Action\|A]] `dice: [[OT_STRSM_OCL_Core#^Action]]` + ▶[[OT_STRSM_OCL_Core#Theme\|T]] `dice: [[OT_STRSM_OCL_Core#^Theme]]` |
+| 191 - 200 | ▶R2 `dice: [[OT_STRSM_OCL_Starships#^Mission-Expanse]]` + `dice: [[OT_STRSM_OCL_Starships#^Mission-Expanse]]` |
 | 201 - 202 | Escalate regional tensions |
 | 203 - 204 | Setup defensive perimeter |
 | 205 - 208 | Trade a resource |
@@ -446,14 +516,14 @@
 | 278 - 279 | Test an alliance |
 | 280 - 283 | Transport energy source |
 | 284 - 285 | Transport lifeforms |
-| 286 - 290 | ▶A+T `dice: [[OT_STRSM_OCL_Core^Core-Action]]` + `dice: [[OT_STRSM_OCL_Core^Core-Theme]]` |
-| 291 - 300 | ▶R2 `dice: [[OT_STRSM_OCL_Starships#^Starship-Mission-Expanse]]` + `dice: [[OT_STRSM_OCL_Starships#^Starship-Mission-Expanse]]` |
-^Starship-Mission-Expanse
+| 286 - 290 | ▶[[OT_STRSM_OCL_Core#Action\|A]] `dice: [[OT_STRSM_OCL_Core#^Action]]` + ▶[[OT_STRSM_OCL_Core#Theme\|T]] `dice: [[OT_STRSM_OCL_Core#^Theme]]` |
+| 291 - 300 | ▶R2 `dice: [[OT_STRSM_OCL_Starships#^Mission-Expanse]]` + `dice: [[OT_STRSM_OCL_Starships#^Mission-Expanse]]` |
+^Mission-Expanse
 
-## Starship Name
+# Name
 
 | dice: 1d300 | Result |
-|:----:|:-------|
+| :---: | --- |
 | 1 | Arclight |
 | 2 | Argent Arrow |
 | 3 | Artemis |
@@ -754,98 +824,26 @@
 | 298 | Wraith |
 | 299 | Yellow Peril |
 | 300 | Zephyr |
-^Starship-Name
+^Name
 
-## Starship Type
-
-| dice: 1d300 | Result |
-|:----:|:-------|
-| 1 - 2 | Carrier - Launches fighters |
-| 3 - 6 | Corvette - Light attack ship |
-| 7 - 11 | Courier - Fast transport |
-| 12 - 14 | Cruiser - Medium attack ship |
-| 15 - 16 | Dreadnought - Heavy attack ship |
-| 17 - 19 | Escape pod - Survival craft |
-| 20 - 22 | Foundry - Mobile construction platform |
-| 23 - 27 | Harvester - Fuel or energy excavator |
-| 28 - 33 | Hauler - Heavy transport |
-| 34 - 36 | Hunter - Stealth attack ship |
-| 37 - 38 | Ironhome - Habitat |
-| 39 - 42 | Mender - Utility or repair |
-| 43 - 47 | Outbounder - Remote survey or research |
-| 48 - 50 | Pennant - Command ship |
-| 51 - 56 | Prospector - Mineral excavator |
-| 57 - 61 | Reclaimer - Salvage or rescue |
-| 62 - 64 | Shuttle - Short - range transport |
-| 65 - 67 | Snub fighter - Small attack craft |
-| 68 - 82 | Multipurpose - ▶[[STRSM_OCL_Starship-Approach#Oracle Starship Mission\|Starship Mission]] (pick per region)<br>Terminus: `dice: [[OT_STRSM_OCL_Starships#^Starship-Mission-Terminus]]`<br>Outlands: `dice: [[OT_STRSM_OCL_Starships#^Starship-Mission-Outlands]]`<br>Expanse: `dice: [[OT_STRSM_OCL_Starships#^Starship-Mission-Expanse]]` |
-| 83 - 84 | Unusual or unknown |
-| 85 - 94 | ▶[[STRSM_OCL_Starship-Creation#Oracle Starship Fleet\|Fleet]] `dice: [[OT_STRSM_OCL_Starships#^Starship-Fleet]]` |
-| 95 - 100 | Ships in conflict: ▶R2 `dice: [[OT_STRSM_OCL_Starships#^Starship-Type]]` + `dice: [[OT_STRSM_OCL_Starships#^Starship-Type]]` |
-| 101 - 102 | Scorpion - Launches atmospheric fighters |
-| 103 - 106 | Lightning - Light bomber |
-| 107 - 111 | Knight - Escort fighter |
-| 112 - 114 | Thunder - Medium bomber |
-| 115 - 116 | Storm - Heavy bomber |
-| 117 - 119 | Montgomery - Maintenance craft |
-| 120 - 122 | Fabricator - Mobile production plant |
-| 123 - 127 | Generator - Mobile power supplier |
-| 128 - 133 | Conveyor - Medium transport |
-| 134 - 136 | Infiltrator - Stealthy surveillance craft |
-| 137 - 138 | Devastator - Vessel of mass destruction |
-| 139 - 142 | Explorer - Deep space cruiser |
-| 143 - 147 | Caduceus - Medical ship |
-| 148 - 150 | Horizon - Mobile communications array |
-| 151 - 156 | Compass - Surveyor ship |
-| 157 - 161 | Tug - Wreckage transport |
-| 162 - 164 | Coach - Interplanetary transport |
-| 165 - 167 | Schooner - Solar sail vessel |
-| 168 - 182 | Multipurpose - ▶[[STRSM_OCL_Starship-Approach#Oracle Starship Mission\|Starship Mission]] (pick per region)<br>Terminus: `dice: [[OT_STRSM_OCL_Starships#^Starship-Mission-Terminus]]`<br>Outlands: `dice: [[OT_STRSM_OCL_Starships#^Starship-Mission-Outlands]]`<br>Expanse: `dice: [[OT_STRSM_OCL_Starships#^Starship-Mission-Expanse]]` |
-| 183 - 184 | Unusual or unknown |
-| 185 - 194 | ▶[[STRSM_OCL_Starship-Creation#Oracle Starship Fleet\|Fleet]] `dice: [[OT_STRSM_OCL_Starships#^Starship-Fleet]]` |
-| 195 - 200 | Ships in conflict: ▶R2 `dice: [[OT_STRSM_OCL_Starships#^Starship-Type]]` + `dice: [[OT_STRSM_OCL_Starships#^Starship-Type]]` |
-| 201 - 202 | Frigate - Troop carrier |
-| 203 - 206 | Spartan - Light defender |
-| 207 - 211 | Garrison - System patrol ship |
-| 212 - 214 | Corinthian - Medium defender |
-| 215 - 216 | Centurion - Heavy defender |
-| 217 - 219 | Flier - Solo racing ship |
-| 220 - 222 | Castle - Mobile fortress |
-| 223 - 227 | Respirator - Gas collector |
-| 228 - 233 | Invader - Massive troop transport |
-| 234 - 236 | Crawler - Mine layer |
-| 237 - 238 | Destroyer - Planet killer |
-| 239 - 242 | Oracle - Deep space science vessel |
-| 243 - 247 | Discovery - Science vessel |
-| 248 - 250 | Shipwright - Mobile drydock |
-| 251 - 256 | Distiller - Mobile mineral processor |
-| 257 - 261 | Amphibian - Planetary lander |
-| 262 - 264 | Train - Unmanned transport |
-| 265 - 267 | Jumper - Short burst Eidolon drive ship |
-| 268 - 282 | Multipurpose - ▶[[STRSM_OCL_Starship-Approach#Oracle Starship Mission\|Starship Mission]] (pick per region)<br>Terminus: `dice: [[OT_STRSM_OCL_Starships#^Starship-Mission-Terminus]]`<br>Outlands: `dice: [[OT_STRSM_OCL_Starships#^Starship-Mission-Outlands]]`<br>Expanse: `dice: [[OT_STRSM_OCL_Starships#^Starship-Mission-Expanse]]` |
-| 283 - 284 | Unusual or unknown |
-| 285 - 294 | ▶[[STRSM_OCL_Starship-Creation#Oracle Starship Fleet\|Fleet]] `dice: [[OT_STRSM_OCL_Starships#^Starship-Fleet]]` |
-| 295 - 300 | Ships in conflict: ▶R2 `dice: [[OT_STRSM_OCL_Starships#^Starship-Type]]` + `dice: [[OT_STRSM_OCL_Starships#^Starship-Type]]` |
-^Starship-Type
-
-## Starship Registry
+# Registry Number Builder
 
 | dice: 1d6 | Initializer Letters |
-|:---:|:--- |
-| 1 | CCV-`dice: (1d10 * 1000) + (1d10 * 100) + (1d10 * 10) + 1d10`-`dice: [[OT_STRSM_OCL_Starships^Starship-Registry-Model]]` |
-| 2 | RTV-`dice: (1d10 * 1000) + (1d10 * 100) + (1d10 * 10) + 1d10`-`dice: [[OT_STRSM_OCL_Starships^Starship-Registry-Model]]` |
-| 3 | NCC-`dice: (1d10 * 1000) + (1d10 * 100) + (1d10 * 10) + 1d10`-`dice: [[OT_STRSM_OCL_Starships^Starship-Registry-Model]]` |
-| 4 | USS-`dice: (1d10 * 1000) + (1d10 * 100) + (1d10 * 10) + 1d10`-`dice: [[OT_STRSM_OCL_Starships^Starship-Registry-Model]]` |
-| 5 | DFX-`dice: (1d10 * 1000) + (1d10 * 100) + (1d10 * 10) + 1d10`-`dice: [[OT_STRSM_OCL_Starships^Starship-Registry-Model]]` |
-| 6 | ▶[Use Faction Initials]-`dice: (1d10 * 1000) + (1d10 * 100) + (1d10 * 10) + 1d10`-`dice: [[OT_STRSM_OCL_Starships^Starship-Registry-Model]]` |
-^Starship-Registry-Initializer
+| :---: | --- |
+| 1 | CCV-`dice: (1d10 * 1000) + (1d10 * 100) + (1d10 * 10) + 1d10`-`dice: [[OT_STRSM_OCL_Starships^Registry-Model]]` |
+| 2 | RTV-`dice: (1d10 * 1000) + (1d10 * 100) + (1d10 * 10) + 1d10`-`dice: [[OT_STRSM_OCL_Starships^Registry-Model]]` |
+| 3 | NCC-`dice: (1d10 * 1000) + (1d10 * 100) + (1d10 * 10) + 1d10`-`dice: [[OT_STRSM_OCL_Starships^Registry-Model]]` |
+| 4 | USS-`dice: (1d10 * 1000) + (1d10 * 100) + (1d10 * 10) + 1d10`-`dice: [[OT_STRSM_OCL_Starships^Registry-Model]]` |
+| 5 | DFX-`dice: (1d10 * 1000) + (1d10 * 100) + (1d10 * 10) + 1d10`-`dice: [[OT_STRSM_OCL_Starships^Registry-Model]]` |
+| 6 | ▶[Use Faction Initials]-`dice: (1d10 * 1000) + (1d10 * 100) + (1d10 * 10) + 1d10`-`dice: [[OT_STRSM_OCL_Starships^Registry-Model]]` |
+^Registry-Builder
 
 | dice: 1d6 | Model (1d6) |
-|:---:|:---:|
+| :---: | --- |
 | 1 | A |
 | 2 | B |
 | 3 | C |
 | 4 | D |
 | 5 | E |
 | 6 | J |
-^Starship-Registry-Model
+^Registry-Model

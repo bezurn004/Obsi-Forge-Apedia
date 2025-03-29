@@ -28,7 +28,7 @@ _Spruce up the **aspects** and **observations** of the Island as your learn more
 > 
 > If a result is at odds with the _[[SI_CH3_Island_Landscape#Oracle Island Terrain|Terrain]]_ or _[[SI_CH3_Island_Landscape#Oracle Island Vitality|Vitality]]_ results (see previous pages), envision how the island includes both features. For example, shoreline cliffs can surround a flat island interior, as with an ancient volcanic Caldera. Or an isolated thicket of mangroves can grow on the shores of an otherwise desolate island.
 > 
-> If a seaside settlement is in sight, envision how it fits among the coastline and overall island terrain. ^guidance-OclIslandCoastalAspects
+> If a seaside settlement is in sight, envision how it fits among the coastline and overall island terrain. ^guidance-Coastal-Aspects
 
 | dice: 1d100 | Result @1-2 |
 | :---: | --- |
@@ -58,13 +58,13 @@ _Spruce up the **aspects** and **observations** of the Island as your learn more
 | 89 - 94 | Swampy mangrove thickets |
 | 95 - 98 | Tall headlands surround pocket beach |
 | 99 - 100 | Towering cliffs rise directly from the sea |
-^table-OclIslandCoastalAspects
+^table-Coastal-Aspects
 
 *144 ORACLES*
 
 ## Oracle: Island Offshore Observations
 > [!mechanics]- | Roll > [skull] `dice: [[SI_CH3_The Cursed Die#^table-Cursed]]`<br>▶1 `dice: [[OT_ISSI_Islands^Offshore-Observations]]`<br>▶2 `dice: [[OT_ISSI_Islands^Offshore-Observations]]` | Guidance
-> This table reveals more details of the shore and coastal waters as you observe or approach the island. ^guidance-OclIslandOffshoreObservations
+> This table reveals more details of the shore and coastal waters as you observe or approach the island. ^guidance-Offshore-Observations
 
 | dice: 1d100 | Result @1-2 [skull] _[[#Oracle Cursed Island Observations\|pg 146]]_ |
 | :---: | --- |
@@ -110,13 +110,13 @@ _Spruce up the **aspects** and **observations** of the Island as your learn more
 | 81 - 86 | ▶[[SI_CH3_Shipwreck_Creation\|Shipwreck]]; _pg 198_ |
 | 87 - 90 | ▶[[SI_CH3_Ruin_Creation\|Ruin]] _pg 212_ |
 | 91 - 100 | ▶[[SI_CH3_Core_Descriptor Focus#DESCRIPTOR\|Descriptor]] + ▶[[SI_CH3_Core_Descriptor Focus#FOCUS\|Focus]]; _pg 118–119_ |
-^table-OclIslandOffshoreObservations
+^table-Offshore-Observations
 
 *145 ISLAND ORACLES*
 
 ## Oracle: Cursed Island Observations
 > [!mechanics]- | Roll > `dice: [[OT_ISSI_Islands^Cursed-Offshore-Observation]]` | Guidance
-> This table reveals more details of the shore and coastal waters as you observe or approach the island. ^guidance-OclCursedIslandObservations
+> This table reveals more details of the shore and coastal waters as you observe or approach the island. ^guidance-Cursed-Observations
 
 | dice: 1d100 | Result |
 | :---: | --- |
@@ -160,7 +160,7 @@ _Spruce up the **aspects** and **observations** of the Island as your learn more
 | 92 - 93 | Uprooted or broken vegetation |
 | 94 - 95 | Washed-up corpses |
 | 96 - 100 | ▶[[SI_CH3_Weather Oracles\|Cursed Weather]]; _pg 131_ |
-^table-OclCursedIslandObservations
+^table-Cursed-Observations
 
 *146 ORACLES*
 

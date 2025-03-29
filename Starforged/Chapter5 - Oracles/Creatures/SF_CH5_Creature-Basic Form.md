@@ -25,8 +25,8 @@ OracleDescriptor: "After finding the environment and scale of a creature, roll o
 After finding the [[SF_CH5_Creature-Environment-Scale|environment and scale]] of a creature, roll on the appropriate oracle below to define their general characteristics.
 
 ## Oracle: creature Basic Form - Space
-> [!mechanics]- | Roll > `dice: [[SF_CH5_Creature-Basic Form#^table-OcllCreatureForm-Space]]` | Guidance
-> The form of a creature that lives in outer space. ^guidance-OclCreatureForm-Space
+> [!mechanics]- | Roll > `dice: [[OT_ISSF_Creatures#^Form-Space]]` | Guidance
+> The form of a creature that lives in outer space. ^guidance-Form-Space
 
 | dice: 1d100 | Result |
 |:---:|:--- |
@@ -48,11 +48,11 @@ After finding the [[SF_CH5_Creature-Environment-Scale|environment and scale]] of
 | 87 - 88 | Starfish / symmetrical |
 | 89 - 90 | Worm / slug / larva |
 | 91 - 100 | Roll twice |
-^table-OcllCreatureForm-Space
+^table-Form-Space
 
 ## Oracle: creature Basic Form - Interior
-> [!mechanics]- | Roll > `dice: [[SF_CH5_Creature-Basic Form#^table-OclCreatureForm-Interior]]` | Guidance
-> The form of a creature that lives under the surface or subterranean. ^guidance-OclCreatureForm-Interior
+> [!mechanics]- | Roll > `dice: [[OT_ISSF_Creatures#^Form-Interior]]` | Guidance
+> The form of a creature that lives under the surface or subterranean. ^guidance-Form-Interior
 
 | dice: 1d100 | Result |
 |:---:|:--- |
@@ -74,11 +74,11 @@ After finding the [[SF_CH5_Creature-Environment-Scale|environment and scale]] of
 | 84 - 85 | Starfish / symmetrical |
 | 86 - 90 | Worm / slug / larva |
 | 91 - 100 | Roll twice |
-^table-OclCreatureForm-Interior
+^table-Form-Interior
 
 ## Oracle: creature Basic Form - Land
-> [!mechanics]- | Roll > `dice: [[SF_CH5_Creature-Basic Form#^table-OcllCreatureForm-Land]]` | Guidance
-> The form of a creature that lives upon land. ^guidance-OclCreatureForm-Land
+> [!mechanics]- | Roll > `dice: [[OT_ISSF_Creatures#^Form-Land]]` | Guidance
+> The form of a creature that lives upon land. ^guidance-Form-Land
 
 | dice: 1d100 | Result |
 |:---:|:--- |
@@ -100,11 +100,11 @@ After finding the [[SF_CH5_Creature-Environment-Scale|environment and scale]] of
 | 82 - 83 | Starfish / symmetrical |
 | 84 - 90 | Worm / slug / larva |
 | 91 - 100 | Roll twice |
-^table-OcllCreatureForm-Land
+^table-Form-Land
 
 ## Oracle: creature Basic Form - Liquid
-> [!mechanics]- | Roll > `dice: [[SF_CH5_Creature-Basic Form#^table-OcllCreatureForm-Liquid]]` | Guidance
-> The form of a creature that lives within liquid substance, commonly water. ^guidance-OcllCreatureForm-Liquid
+> [!mechanics]- | Roll > `dice: [[OT_ISSF_Creatures#^Form-Liquid]]` | Guidance
+> The form of a creature that lives within liquid substance, commonly water. ^guidance-OcllCreature-Form-Liquid
 
 | dice: 1d100 | Result |
 |:---:|:--- |
@@ -126,11 +126,11 @@ After finding the [[SF_CH5_Creature-Environment-Scale|environment and scale]] of
 | 83 - 87 | Starfish / symmetrical |
 | 88 - 90 | Worm / slug / larva |
 | 91 - 100 | Roll twice |
-^table-OcllCreatureForm-Liquid
+^table-Form-Liquid
 
 ## Oracle: creature Basic Form - Air
-> [!mechanics]- | Roll > `dice: [[SF_CH5_Creature-Basic Form#^table-OcllCreatureForm-Air]]` | Guidance
-> The form of a creature that lives in the air or gaseous environment. ^guidance-OcllCreatureForm-Air
+> [!mechanics]- | Roll > `dice: [[OT_ISSF_Creatures#^Form-Air]]` | Guidance
+> The form of a creature that lives in the air or gaseous environment. ^guidance-OcllCreature-Form-Air
 
 | dice: 1d100 | Result |
 |:---:|:--- |
@@ -152,7 +152,7 @@ After finding the [[SF_CH5_Creature-Environment-Scale|environment and scale]] of
 | 87 - 88 | Starfish / symmetrical |
 | 89 - 90 | Worm / slug / larva |
 | 91 - 100 | Roll twice |
-^table-OcllCreatureForm-Air
+^table-Form-Air
 
 *337 CREATURES*
 

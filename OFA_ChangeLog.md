@@ -10,24 +10,42 @@
 	- [ ] Complete SI linking
 	- [ ] Begin import of SF source
 
+### V0.4.3
+- [ ] Oracle results that create an object will trigger a template creation wizard (using Buttons I hope)
+
 ### V0.4.2
-- [ ] Oracle tables / rollers revamp
-	- [ ] Change for full 1 - 100 results to use look up rollers where possible
+- [x] Oracle tables / rollers revamp
+	- [x] Change for full 1 - 100 results to use look up rollers where possible
 	- [x] Build tables for Starsmith Oracles
-	- [ ] Build tables for any non-oracle overlooked content
-	- [ ] Add rollers for new community content
-	- [ ] Add oracle rollers to Oracle pages within the "Guidance" call out
-	- [ ] Add oracle rollers to Moves and Source material tables
-- [ ] Starsmith Oracles
+	- [x] Build tables for any non-oracle overlooked content
+	- [x] Add oracle rollers to Oracle pages within the "Guidance" call out
+	- [x] Add oracle rollers to Moves and Source material tables
+- [x] Starsmith Oracles
 	- [x] Revise structure of tables to match SF / SI style
-	- [ ] Shorten length of block callouts for abbreviated linking
-	- [ ] Match H1 headings with SF/SI breadcrumb structure
+	- [x] Shorten length of block callouts for abbreviated linking
+	- [x] Match H1 headings with SF/SI breadcrumb structure
 	- [x] Move multiple results to the "Result" column header on the tables
-	- [ ] Section contents page alignment to SF/SI structure
-	- [ ] Tags Previous / Next links note source in paranthesis, remove "Pedia" generic entries
-	- [ ] Pad "-" in tables with spaces
-- [ ] Bug
-	- [ ] Investigate dataview tables for reason results are blank
+	- [x] Section contents page alignment to SF/SI structure
+	- [x] Tags Previous / Next links note source in paranthesis, remove "Pedia" tags
+	- [x] Pad "-" in tables with spaces
+
+### V0.4.1.5
+- [x] Starforged
+	- [x] Refactor Oracle Tables, condense to ranged dice results instead of static 100 row tables.
+	- [x] Refactor Oracle and other tables to add rollers to listed tables, linked to Oracle Tables
+- [x] Starsmith
+	- [x] Refactor Oracle and other table to add roller to listed tables, linked to Oracle Tables
+	- [x] In table / guidance block identifiers remove "Ocl" and any other identifier already in file name
+- [x] Sundered Isles
+	- [x] Oracle pages: add arrows to both >Action + >Theme, etc.
+	- [x] In table / guidance block identifiers remove "Ocl" and any other identifier already in file name
+- [x] In all OT sections, decide if table links should go to Source material pages or to OT tables
+	- [x] Starforged = Source > Transition to OT
+	- [x] Starsmith = Source > Transition to OT
+	- [x] Sundered Isles = Oracle Tables
+- [ ] Oracle Roll Sheets
+	- [x] Clean up Starforged dice and table links
+	- [ ] Add Sundered Isles Categories (need to add campaign / non-oracle tables)
 
 ## Completed Changes
 ### V0.4.1.4

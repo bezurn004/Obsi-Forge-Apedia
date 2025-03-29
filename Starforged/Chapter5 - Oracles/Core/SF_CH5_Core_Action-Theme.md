@@ -131,7 +131,7 @@ Action and Theme can answer questions such as:
 | 100 | Withdraw | World |
 
 ### Oracle: Action
-> [!mechanics]- | Roll > `dice: [[SF_CH5_Core_Action-Theme#^table-OclAction]]` | Guidance
+> [!mechanics]- | Roll > `dice: [[OT_ISSF_Core#^Action]]` | Guidance
 > When you [[SF_CH3_Ask the Oracle|Ask the Oracle]] about a goal, situation, or event, roll for an Action and Theme. Together, these provide an interpretative verb/ noun prompt. Other oracles include prompts to check for an Action and Theme (shown as “Action + Theme”). That’s your cue to roll on these tables and interpret the result as appropriate to the situation. ^guidance-OclAction
 
 
@@ -242,7 +242,7 @@ Action and Theme can answer questions such as:
 *296 CHAPTER 5: ORACLES*
 
 ### Oracle: Theme
-> [!mechanics]- | Roll > `dice: [[SF_CH5_Core_Action-Theme#^table-OclTheme]]` | Guidance
+> [!mechanics]- | Roll > `dice: [[OT_ISSF_Core#^Theme]]` | Guidance
 > When you [[SF_CH3_Ask the Oracle|Ask the Oracle]] about a goal, situation, or event, roll for an Action and Theme. Together, these provide an interpretative verb/ noun prompt. Other oracles include prompts to check for an Action and Theme (shown as “Action + Theme”). That’s your cue to roll on these tables and interpret the result as appropriate to the situation. ^guidance-OclTheme
 
 | 1d100 | Result |

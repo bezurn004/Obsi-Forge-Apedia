@@ -25,8 +25,8 @@ OracleDescriptor:
 Text
 
 ## Oracle: Island Size
-> [!mechanics]- | Roll > `dice: [[OT_ISSI_Islands^Size]]` | Guidance
-> _Determine the size of the island, measured in the time it would take to walk the circumference of the shore with no hazards._ ^guidance-OclIslandSize
+> [!mechanics]- | Roll ><br>`dice: [[OT_ISSI_Islands^Size]]` | Guidance
+> _Determine the size of the island, measured in the time it would take to walk the circumference of the shore with no hazards._ ^guidance-Size
 
 | Roll | Result | Time to Walk the Island Circumference |
 | :---: | --- | --- |
@@ -34,11 +34,11 @@ Text
 | 31 - 70 | Medium | Several hours |
 | 71 - 90 | Large | Days |
 | 91 - 100 | Vast | Weeks |
-^table-OclIslandSize
+^table-Size
 
 ## Oracle: Island Terrain
 > [!mechanics]- | Roll > `dice: [[OT_ISSI_Islands^Terrain]]` | Guidance
-> The _Terrain_ of sizable islands may vary. Your initial results represent the dominant aspects that are visible on approach. Further exploration may reveal other characteristics. ^guidance-OclIslandTerrain
+> The _Terrain_ of sizable islands may vary. Your initial results represent the dominant aspects that are visible on approach. Further exploration may reveal other characteristics. ^guidance-Terrain
 
 | Roll | Result | Detail |
 | :---: | --- | --- |
@@ -50,11 +50,11 @@ Text
 | 51 - 70 | Rugged | Varied terrain of craggy hills and dramatic rock formations |
 | 71 - 90 | Mountainous | Imposing heights and deep valleys |
 | 91 - 100 | Volcanic | Active volcanoes and lava fields |
-^table-OclIslandTerrain
+^table-Terrain
 
 ## Oracle: Island Vitality
 > [!mechanics]- | Guidance
-> The _Vitality_ of sizable islands may vary. Your initial results represent the dominant aspects that are visible on approach. Further exploration may reveal other characteristics. ^guidance-OclIslandVitality
+> The _Vitality_ of sizable islands may vary. Your initial results represent the dominant aspects that are visible on approach. Further exploration may reveal other characteristics. ^guidance-Vitality
 
 | Myriads<br>_Central Seas_ | Margins<br>_Outer Seas_ | Reaches<br>_Remote Seas_ | Result |
 | :---: | :---: | :---: | --- |
@@ -64,13 +64,13 @@ Text
 | 41 - 50 | 26 - 35 | 16 - 25 | Sparse Thin woodlands, bleak scrub, or stagnant marshes |
 | 51 - 90 | 36 - 85 | 26 - 75 | Lush Verdant woodlands, dense jungles, or thriving swamps |
 | 91 - 100 | 86 - 100 | 76 - 100 | Primeval Ancient jungles or impenetrable swamps |
-^table-OclIslandVitality
+^table-Vitality
 
 *142 ORACLES*
 
 ### Oracle: Island Vitality - Myriads
 > [!mechanics]- | Roll > `dice: [[OT_ISSI_Islands^Vitality-Myriads]]` | Guidance
-> The _Vitality_ of sizable islands may vary. Your initial results represent the dominant aspects that are visible on approach. Further exploration may reveal other characteristics. ^guidance-OclIslandVitality-Myriads
+> The _Vitality_ of sizable islands may vary. Your initial results represent the dominant aspects that are visible on approach. Further exploration may reveal other characteristics. ^guidance-Vitality-Myriads
 
 | dice: 1d100 | Result |
 |:---:| --- |
@@ -80,11 +80,11 @@ Text
 | 41 - 50 | Sparse Thin woodlands, bleak scrub, or stagnant marshes |
 | 51 - 90 | Lush Verdant woodlands, dense jungles, or thriving swamps |
 | 91 - 100 | Primeval Ancient jungles or impenetrable swamps |
-^table-OclIslandVitality-Myriads
+^table-Vitality-Myriads
 
 ### Oracle: Island Vitality - Margins
 > [!mechanics]- | Roll > `dice: [[OT_ISSI_Islands^Vitality-Margins]]` | Guidance
-> The _Vitality_ of sizable islands may vary. Your initial results represent the dominant aspects that are visible on approach. Further exploration may reveal other characteristics. ^guidance-OclIslandVitality-Margins
+> The _Vitality_ of sizable islands may vary. Your initial results represent the dominant aspects that are visible on approach. Further exploration may reveal other characteristics. ^guidance-Vitality-Margins
 
 | dice: 1d100 | Result |
 |:---:| --- |
@@ -94,11 +94,11 @@ Text
 | 26 - 35 | Sparse Thin woodlands, bleak scrub, or stagnant marshes |
 | 36 - 85 | Lush Verdant woodlands, dense jungles, or thriving swamps |
 | 86 - 100 | Primeval Ancient jungles or impenetrable swamps |
-^table-OclIslandVitality-Margins
+^table-Vitality-Margins
 
 ### Oracle: Island Vitality - Reaches
 > [!mechanics]- | Roll > `dice: [[OT_ISSI_Islands^Vitality-Reaches]]` | Guidance
-> The _Vitality_ of sizable islands may vary. Your initial results represent the dominant aspects that are visible on approach. Further exploration may reveal other characteristics. ^guidance-OclIslandVitality-Reaches
+> The _Vitality_ of sizable islands may vary. Your initial results represent the dominant aspects that are visible on approach. Further exploration may reveal other characteristics. ^guidance-Vitality-Reaches
 
 | dice: 1d100 | Result |
 |:---:| --- |
@@ -108,11 +108,11 @@ Text
 | 16 - 25 | Sparse Thin woodlands, bleak scrub, or stagnant marshes |
 | 26 - 75 | Lush Verdant woodlands, dense jungles, or thriving swamps |
 | 76 - 100 | Primeval Ancient jungles or impenetrable swamps |
-^table-OclIslandVitality-Reaches
+^table-Vitality-Reaches
 
 ## Oracle: Island Visible Habitation
 > [!mechanics]- | Guidance
-> The _Visible Habitation_ of sizable islands may vary. Your initial results represent the dominant aspects that are visible on approach. Further exploration may reveal other characteristics. ^guidance-OclIslandVisibleHabitation
+> The _Visible Habitation_ of sizable islands may vary. Your initial results represent the dominant aspects that are visible on approach. Further exploration may reveal other characteristics. ^guidance-Visible-Habitation
 
 | Myriads<br>_Central Seas_ | Margins<br>_Outer Seas_ | Reaches<br>_Remote Seas_ | Result |
 | :---: | :---: | :---: | --- |
@@ -122,11 +122,11 @@ Text
 | 46 – 50 | 61 – 65 | 76 – 80 | Seaside camp |
 | 51 – 85 | 66 – 90 | 81 – 95 | Seaside settlement |
 | 86 – 100 | 91 – 100 | 96 – 100 | Multiple visible communities or extensive cultivation |
-^table-OclIslandVisibleHabitation
+^table-Visible-Habitation
 
 ### Oracle: Island Visible Habitation - Myriads
 > [!mechanics]- | Roll > `dice: [[OT_ISSI_Islands^Visible-Habitation-Myriads]]` | Guidance
-> The _Visible Habitation_ of sizable islands may vary. Your initial results represent the dominant aspects that are visible on approach. Further exploration may reveal other characteristics. ^guidance-OclIslandVisibleHabitation-Myriads
+> The _Visible Habitation_ of sizable islands may vary. Your initial results represent the dominant aspects that are visible on approach. Further exploration may reveal other characteristics. ^guidance-Visible-Habitation-Myriads
 
 | dice: 1d100 | Result |
 |:---:| --- |
@@ -136,11 +136,11 @@ Text
 | 46 – 50 | Seaside camp |
 | 51 – 85 | Seaside settlement |
 | 86 – 100 | Multiple visible communities or extensive cultivation |
-^table-OclIslandVisibleHabitation-Myriads
+^table-Visible-Habitation-Myriads
 
 ### Oracle: Island Visible Habitation - Margins
 > [!mechanics]- | Roll > `dice: [[OT_ISSI_Islands^Visible-Habitation-Margins]]` | Guidance
-> The _Visible Habitation_ of sizable islands may vary. Your initial results represent the dominant aspects that are visible on approach. Further exploration may reveal other characteristics. ^guidance-OclIslandVisibleHabitation-Margins
+> The _Visible Habitation_ of sizable islands may vary. Your initial results represent the dominant aspects that are visible on approach. Further exploration may reveal other characteristics. ^guidance-Visible-Habitation-Margins
 
 | dice: 1d100 | Result |
 |:---:| --- |
@@ -150,11 +150,11 @@ Text
 | 61 – 65 | Seaside camp |
 | 66 – 90 | Seaside settlement |
 | 91 – 100 | Multiple visible communities or extensive cultivation |
-^table-OclIslandVisibleHabitation-Margins
+^table-Visible-Habitation-Margins
 
 ### Oracle: Island Visible Habitation - Reaches
 > [!mechanics]- | Roll > `dice: [[OT_ISSI_Islands^Visible-Habitation-Reaches]]` | Guidance
-> The _Visible Habitation_ of sizable islands may vary. Your initial results represent the dominant aspects that are visible on approach. Further exploration may reveal other characteristics. ^guidance-OclIslandVisibleHabitation-Reaches
+> The _Visible Habitation_ of sizable islands may vary. Your initial results represent the dominant aspects that are visible on approach. Further exploration may reveal other characteristics. ^guidance-Visible-Habitation-Reaches
 
 | dice: 1d100 | Result |
 |:---:| --- |
@@ -164,7 +164,7 @@ Text
 | 76 – 80 | Seaside camp |
 | 81 – 95 | Seaside settlement |
 | 96 – 100 | Multiple visible communities or extensive cultivation |
-^table-OclIslandVisibleHabitation-Reaches
+^table-Visible-Habitation-Reaches
 
 ## Oracle: Nearby Islands
 > [!mechanics]- | Guidance

@@ -16,14 +16,14 @@ PageOrder: 5
 ## Oracle
 Oracle: Seafaring
 OracleFocus: Waypoints
-OracleDescriptor: "Use the Seafaring Waters oracles when undertaking an expedition through either known or unknown seas."
+OracleDescriptor: "Use the Seafaring Waters oracles when undertaking an expedition through either known or Unknown seas."
 ---
 # [[_Sundered Isles|Sundered Isles]] - [[_SI_Ch3_Contents|Oracles]] - [[_SI_CH3_Seafaring Oracles|Seafaring]]: Waypoints
 Use these tables to trigger locations, events, and encounters on a seafaring expedition. Use the _Known Waters_ table  if you [[SI_CH4_Undertake an Expedition#Undertake an Expedition Move Card|Undertake an Expedition]] among or between known islands, such as when following a chart of local islands. Use the _Unknown Waters_ table when navigating unfamiliar waters with the prospect of encountering unrevealed islands.
 
 ## Oracle: Known Waters
 > [!mechanics]-  Guidance
-> Use the _Known Waters_ table if you [[SI_CH4_Undertake an Expedition#Undertake an Expedition Move Card|Undertake an Expedition]]  among or between known islands, such as when following a chart of local islands. ^guidance-OclKnownWaters
+> Use the _Known Waters_ table if you [[SI_CH4_Undertake an Expedition#Undertake an Expedition Move Card|Undertake an Expedition]]  among or between known islands, such as when following a chart of local islands. ^guidance-Known-Waters-All
 
 | Myriads<br>_Central Seas_ | Margins<br>_Outer Seas_ | Reaches<br>_Remote Seas_ | Result |
 | :---: | :---: | :---: | --- |
@@ -34,11 +34,11 @@ Use these tables to trigger locations, events, and encounters on a seafaring exp
 | 66 - 70 | 61 - 70 | 58 - 70 | Relic of the past ▶[[SI_CH3_Ruin_Creation#Oracle Ruin Location\|Ruin]]; _pg 212_ |
 | 71 - 85 | 71 - 85 | 71 - 85 | Character focus ▶[[SI_CH3_Misc_Travel#Oracle Interlude Scene\|Interlude Scene]]; _pg 228_ |
 | 86 - 100 | 86 - 100 | 86 - 100 | Roll twice |
-^table-OclKnownWaters
+^table-Known-Waters-All
 
 ### Oracle: Known Waters - Myriads
-> [!mechanics]- | Roll > `dice: [[OT_ISSI_Seafaring#^Waypoints-KnownWaters-Myriads]]` | Guidance
-> Use the _Known Waters_ table if you [[SI_CH4_Undertake an Expedition#Undertake an Expedition Move Card|Undertake an Expedition]]  among or between known islands, such as when following a chart of local islands. ^guidance-OclKnownWaters-Myriads
+> [!mechanics]- | Roll > `dice: [[OT_ISSI_Seafaring#^Waypoints-Known-Waters-Myriads]]` | Guidance
+> Use the _Known Waters_ table if you [[SI_CH4_Undertake an Expedition#Undertake an Expedition Move Card|Undertake an Expedition]]  among or between known islands, such as when following a chart of local islands. ^guidance-Known-Waters-Myriads
 
 | dice: 1d100 | Result |
 |:---:| --- |
@@ -49,11 +49,11 @@ Use these tables to trigger locations, events, and encounters on a seafaring exp
 | 66 - 70 | Relic of the past ▶[[SI_CH3_Ruin_Creation#Oracle Ruin Location\|Ruin]]; _pg 212_ |
 | 71 - 85 | Character focus ▶[[SI_CH3_Misc_Travel#Oracle Interlude Scene\|Interlude Scene]]; _pg 228_ |
 | 86 - 100 | Roll twice |
-^table-OclKnownWaters-Myriads
+^table-Known-Waters-Myriads
 
 ### Oracle: Known Waters - Margins
-> [!mechanics]- | Roll > `dice: [[OT_ISSI_Seafaring#^Waypoints-KnownWaters-Margins]]` | Guidance
-> Use the _Known Waters_ table if you [[SI_CH4_Undertake an Expedition#Undertake an Expedition Move Card|Undertake an Expedition]]  among or between known islands, such as when following a chart of local islands. ^guidance-OclKnownWaters-Margins
+> [!mechanics]- | Roll > `dice: [[OT_ISSI_Seafaring#^Waypoints-Known-Waters-Margins]]` | Guidance
+> Use the _Known Waters_ table if you [[SI_CH4_Undertake an Expedition#Undertake an Expedition Move Card|Undertake an Expedition]]  among or between known islands, such as when following a chart of local islands. ^guidance-Known-Waters-Margins
 
 | dice: 1d100 | Result |
 |:---:| --- |
@@ -64,11 +64,11 @@ Use these tables to trigger locations, events, and encounters on a seafaring exp
 | 61 - 70 | Relic of the past ▶[[SI_CH3_Ruin_Creation#Oracle Ruin Location\|Ruin]]; _pg 212_ |
 | 71 - 85 | Character focus ▶[[SI_CH3_Misc_Travel#Oracle Interlude Scene\|Interlude Scene]]; _pg 228_ |
 | 86 - 100 | Roll twice |
-^table-OclKnownWaters-Margins
+^table-Known-Waters-Margins
 
 ### Oracle: Known Waters - Reaches
-> [!mechanics]- | Roll > `dice: [[OT_ISSI_Seafaring#^Waypoints-KnownWaters-Reaches]]` | Guidance
-> Use the _Known Waters_ table if you [[SI_CH4_Undertake an Expedition#Undertake an Expedition Move Card|Undertake an Expedition]]  among or between known islands, such as when following a chart of local islands. ^guidance-OclKnownWaters-Reaches
+> [!mechanics]- | Roll > `dice: [[OT_ISSI_Seafaring#^Waypoints-Known-Waters-Reaches]]` | Guidance
+> Use the _Known Waters_ table if you [[SI_CH4_Undertake an Expedition#Undertake an Expedition Move Card|Undertake an Expedition]]  among or between known islands, such as when following a chart of local islands. ^guidance-Known-Waters-Reaches
 
 | dice: 1d100 | Result |
 |:---:| --- |
@@ -79,13 +79,13 @@ Use these tables to trigger locations, events, and encounters on a seafaring exp
 | 56 - 70 | Relic of the past ▶[[SI_CH3_Ruin_Creation#Oracle Ruin Location\|Ruin]]; _pg 212_ |
 | 71 - 85 | Character focus ▶[[SI_CH3_Misc_Travel#Oracle Interlude Scene\|Interlude Scene]]; _pg 228_ |
 | 86 - 100 | Roll twice |
-^table-OclKnownWaters-Reaches
+^table-Known-Waters-Reaches
 
 *120 ORACLES*
 
 ## Oracle: Unknown Waters
 > [!mechanics]- | Guidance
-> Use the _Unknown Waters_ table when navigating unfamiliar waters with the prospect of encountering unrevealed islands. ^guidance-OclUnknownWaters
+> Use the _Unknown Waters_ table when navigating unfamiliar waters with the prospect of encountering unrevealed islands. ^guidance-Unknown-Waters-All
 
 | Myriads<br>_Central Seas_ | Margins<br>_Outer Seas_ | Reaches<br>_Remote Seas_ | Result |
 | :---: | :---: | :---: | --- |
@@ -97,11 +97,11 @@ Use these tables to trigger locations, events, and encounters on a seafaring exp
 | 71 - 75 | 66 - 75 | 61 - 75 | Relic of the past ▶[[SI_CH3_Ruin_Creation#Oracle Ruin Location\|Ruin]]; _pg 212_ |
 | 76 - 90 | 76 - 90 | 76 - 90 | Character focus ▶[[SI_CH3_Misc_Travel#Oracle Interlude Scene\|Interlude Scene]]; _pg 228_ |
 | 91 - 100 | 91 - 100 | 91 - 100 | Roll twice |
-^table-OclUnknownWaters
+^table-Unknown-Waters-All
 
 ### Oracle: Unknown Waters - Myriads
-> [!mechanics]- | Roll > `dice: [[OT_ISSI_Seafaring^Waypoints-UnknownWaters-Myriads]]` | Guidance
-> Use the _Unknown Waters_ table when navigating unfamiliar waters with the prospect of encountering unrevealed islands. ^guidance-OclUnknownWaters-Myriads
+> [!mechanics]- | Roll > `dice: [[OT_ISSI_Seafaring^Waypoints-Unknown-Waters-Myriads]]` | Guidance
+> Use the _Unknown Waters_ table when navigating unfamiliar waters with the prospect of encountering unrevealed islands. ^guidance-Unknown-Waters-Myriads
 
 | dice: 1d100 | Result |
 |:---:| --- |
@@ -113,11 +113,11 @@ Use these tables to trigger locations, events, and encounters on a seafaring exp
 | 71 - 75 | Relic of the past ▶[[SI_CH3_Ruin_Creation#Oracle Ruin Location\|Ruin]]; _pg 212_ |
 | 76 - 90 | Character focus ▶[[SI_CH3_Misc_Travel#Oracle Interlude Scene\|Interlude Scene]]; _pg 228_ |
 | 91 - 100 | Roll twice |
-^table-OclUnknownWaters-Myriads
+^table-Unknown-Waters-Myriads
 
 ### Oracle: Unknown Waters - Margins
-> [!mechanics]- | Roll > `dice: [[OT_ISSI_Seafaring#^Waypoints-UnknownWaters-Margins]]` | Guidance
-> Use the _Unknown Waters_ table when navigating unfamiliar waters with the prospect of encountering unrevealed islands. ^guidance-OclUnknownWaters-Margins
+> [!mechanics]- | Roll > `dice: [[OT_ISSI_Seafaring#^Waypoints-Unknown-Waters-Margins]]` | Guidance
+> Use the _Unknown Waters_ table when navigating unfamiliar waters with the prospect of encountering unrevealed islands. ^guidance-Unknown-Waters-Margins
 
 | dice: 1d100 | Result |
 |:---:| --- |
@@ -129,11 +129,11 @@ Use these tables to trigger locations, events, and encounters on a seafaring exp
 | 66 - 75 | Relic of the past ▶[[SI_CH3_Ruin_Creation#Oracle Ruin Location\|Ruin]]; _pg 212_ |
 | 76 - 90 | Character focus ▶[[SI_CH3_Misc_Travel#Oracle Interlude Scene\|Interlude Scene]]; _pg 228_ |
 | 91 - 100 | Roll twice |
-^table-OclUnknownWaters-Margins
+^table-Unknown-Waters-Margins
 
 ### Oracle: Unknown Waters - Reaches
-> [!mechanics]- | Roll > `dice: [[OT_ISSI_Seafaring#^Waypoints-UnknownWaters-Reaches]]` | Guidance
-> Use the _Unknown Waters_ table when navigating unfamiliar waters with the prospect of encountering unrevealed islands. ^guidance-OclUnknownWaters-Reaches
+> [!mechanics]- | Roll > `dice: [[OT_ISSI_Seafaring#^Waypoints-Unknown-Waters-Reaches]]` | Guidance
+> Use the _Unknown Waters_ table when navigating unfamiliar waters with the prospect of encountering unrevealed islands. ^guidance-Unknown-Waters-Reaches
 
 | dice: 1d100 | Result |
 |:---:| --- |
@@ -145,7 +145,7 @@ Use these tables to trigger locations, events, and encounters on a seafaring exp
 | 61 - 75 | Relic of the past ▶[[SI_CH3_Ruin_Creation#Oracle Ruin Location\|Ruin]]; _pg 212_ |
 | 76 - 90 | Character focus ▶[[SI_CH3_Misc_Travel#Oracle Interlude Scene\|Interlude Scene]]; _pg 228_ |
 | 91 - 100 | Roll twice |
-^table-OclUnknownWaters-Reaches
+^table-Unknown-Waters-Reaches
 
 *121 SEAFARING ORACLES*
 

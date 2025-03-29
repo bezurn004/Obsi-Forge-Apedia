@@ -26,10 +26,10 @@ If you face a cost in your travels, such as when you roll a miss as you [[SI_CH4
 
 ## Oracle: Overland Waypoint
 > [!mechanics]- | Guidance
-> Use this table to trigger locations, events, and encounters on an overland expedition. ^guidance-OverlandWaypoint
+> Use this table to trigger locations, events, and encounters on an overland expedition. ^guidance-All
 
 | Myriads<br>_Central Seas_ | Margins<br>_Outer Seas_ | Reaches<br>_Remote Seas_ | Result |
-|:---:|:---:|:---:| --- |
+| :---: | :---: | :---: | --- |
 | 1 - 20 | 1 - 20 | 1 - 20 | Feature of the landscape ▶[[SI_CH3_Overland Regions#Oracle Overland Region\|Region Landmark]]; _pg 150-154_ |
 | 21 - 30 | 21 - 30 | 21 - 30 | Changing landscape ▶[[SI_CH3_Overland Regions#Oracle Overland Region\|Overland Region]]; _pg 149_ |
 | 31 - 35 | 31 - 38 | 31 - 40 | Changing weather ▶[[SI_CH3_Weather Oracles\|Weather]]; _pg 130_ |
@@ -38,16 +38,16 @@ If you face a cost in your travels, such as when you roll a miss as you [[SI_CH4
 | 71 - 75 | 68 - 75 | 66 - 75 | Relic of the past ▶[[SI_CH3_Ruin_Creation\|Ruin]]; _pg 212_ |
 | 76 - 85 | 76 - 85 | 76 - 85 | Character focus ▶[[SI_CH3_Misc_Travel#Oracle Interlude Scene\|Interlude Scene]]; _pg 228_ |
 | 86 - 100 | 86 - 100 | 86 - 100 | Roll twice |
-^table-OverlandWaypoint
+^table-All
 
 *148 ORACLES*
 
 ### Oracle: Overland Waypoint - Myriads
 > [!mechanics]- | Roll > `dice: [[OT_ISSI_Overland#^Waypoint-Myriads]]` | Guidance
-> Use this table to trigger locations, events, and encounters on an overland expedition. ^guidance-OverlandWaypoint-Myriads
+> Use this table to trigger locations, events, and encounters on an overland expedition. ^guidance-Myriads
 
 | dice: 1d100 | Result |
-|:---:| --- |
+| :---: | --- |
 | 1 - 20 | Feature of the landscape ▶[[SI_CH3_Overland Regions#Oracle Overland Region\|Region Landmark]]; _pg 150-154_ |
 | 21 - 30 | Changing landscape ▶[[SI_CH3_Overland Regions#Oracle Overland Region\|Overland Region]]; _pg 149_ |
 | 31 - 35 | Changing weather ▶[[SI_CH3_Weather Oracles\|Weather]]; _pg 130_ |
@@ -56,14 +56,14 @@ If you face a cost in your travels, such as when you roll a miss as you [[SI_CH4
 | 71 - 75 | Relic of the past ▶[[SI_CH3_Ruin_Creation\|Ruin]]; _pg 212_ |
 | 76 - 85 | Character focus ▶[[SI_CH3_Misc_Travel#Oracle Interlude Scene\|Interlude Scene]]; _pg 228_ |
 | 86 - 100 | Roll twice |
-^table-OverlandWaypoint-Myriads
+^table-Myriads
 
 ### Oracle: Overland Waypoint - Margins
 > [!mechanics]- | Roll > `dice: [[OT_ISSI_Overland#^Waypoint-Margins]]` | Guidance
-> Use this table to trigger locations, events, and encounters on an overland expedition. ^guidance-OverlandWaypoint-Margins
+> Use this table to trigger locations, events, and encounters on an overland expedition. ^guidance-Margins
 
 | dice: 1d100 | Result |
-|:---:| --- |
+| :---: | --- |
 | 1 - 20 | Feature of the landscape ▶[[SI_CH3_Overland Regions#Oracle Overland Region\|Region Landmark]]; _pg 150-154_ |
 | 21 - 30 | Changing landscape ▶[[SI_CH3_Overland Regions#Oracle Overland Region\|Overland Region]]; _pg 149_ |
 | 31 - 38 | Changing weather ▶[[SI_CH3_Weather Oracles\|Weather]]; _pg 130_ |
@@ -72,14 +72,14 @@ If you face a cost in your travels, such as when you roll a miss as you [[SI_CH4
 | 68 - 75 | Relic of the past ▶[[SI_CH3_Ruin_Creation\|Ruin]]; _pg 212_ |
 | 76 - 85 | Character focus ▶[[SI_CH3_Misc_Travel#Oracle Interlude Scene\|Interlude Scene]]; _pg 228_ |
 | 86 - 100 | Roll twice |
-^table-OverlandWaypoint-Margins
+^table-Margins
 
 ### Oracle: Overland Waypoint - Reaches
 > [!mechanics]- | Roll > `dice: [[OT_ISSI_Overland#^Waypoint-Reaches]]` | Guidance
-> Use this table to trigger locations, events, and encounters on an overland expedition. ^guidance-OverlandWaypoint-Reaches
+> Use this table to trigger locations, events, and encounters on an overland expedition. ^guidance-Reaches
 
 | dice: 1d100 | Result |
-|:---:| --- |
+| :---: | --- |
 | 1 - 20 | Feature of the landscape ▶[[SI_CH3_Overland Regions#Oracle Overland Region\|Region Landmark]]; _pg 150-154_ |
 | 21 - 30 | Changing landscape ▶[[SI_CH3_Overland Regions#Oracle Overland Region\|Overland Region]]; _pg 149_ |
 | 31 - 40 | Changing weather ▶[[SI_CH3_Weather Oracles\|Weather]]; _pg 130_ |
@@ -88,7 +88,7 @@ If you face a cost in your travels, such as when you roll a miss as you [[SI_CH4
 | 66 - 75 | Relic of the past ▶[[SI_CH3_Ruin_Creation\|Ruin]]; _pg 212_ |
 | 76 - 85 | Character focus ▶[[SI_CH3_Misc_Travel#Oracle Interlude Scene\|Interlude Scene]]; _pg 228_ |
 | 86 - 100 | Roll twice |
-^table-OverlandWaypoint-Reaches
+^table-Reaches
 
 ## Tags
 

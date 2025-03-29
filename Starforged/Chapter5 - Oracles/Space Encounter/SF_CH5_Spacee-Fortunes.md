@@ -22,11 +22,11 @@ OracleDescriptor: "Space Fortunes are the Perils and Opportunities that await yo
 Space Fortunes are the **Perils** and **Opportunities** that await you on your interstellar travels through the Forge.
 
 ## Oracle: Spaceborne Peril
-> [!mechanics]- | Roll > `dice: [[SF_CH5_Spacee-Fortunes#^table-OclSpacebornePeril]]` | Guidance
-> Roll or choose on this table when you want inspiration for a trouble during spaceborne exploration or on an interstellar expedition. ^guidance-OclSpacebornePeril
+> [!mechanics]- | Roll > `dice: [[OT_ISSF_Space#^Peril]]` | Guidance
+> Roll or choose on this table when you want inspiration for a trouble during spaceborne exploration or on an interstellar expedition. ^guidance-Peril
 
 | dice: 1d100 | Result |
-| :----: |:-------|
+| :---: | --- |
 | 1 - 3 | Artificial gravity generator malfunctions |
 | 4 - 6 | Automated defenses or mines protect this area |
 | 7 - 9 | Compartment catches fire or is breached |
@@ -59,21 +59,21 @@ Space Fortunes are the **Perils** and **Opportunities** that await you on your i
 | 88 - 90 | Troubling visions or apparitions |
 | 91 - 93 | True nature of a cargo, occupant, or passenger is revealed |
 | 94 - 96 | Unsettling sounds or disturbances |
-| 97 - 99 | ▶[[SF_CH5_Core_Action-Theme#Oracle Action\|Action]] + [[SF_CH5_Core_Action-Theme#Oracle Theme\|Theme]] |
+| 97 - 99 | ▶[[SF_CH5_Core_Action-Theme#Oracle Action\|Action]] + ▶[[SF_CH5_Core_Action-Theme#Oracle Theme\|Theme]] |
 | 100 | Roll Twice |
-^table-OclSpacebornePeril
+^table-Peril
 
 *304 CHAPTER 5: ORACLES*
 
 ## Oracle: Spaceborne Opportunity
-> [!mechanics]- | Roll > `dice: [[SF_CH5_Spacee-Fortunes#^table-OclSpaceborneOpportunity]]` | Guidance
-> Roll or choose on this table when you want inspiration for a beneficial encounter or event on a spaceborne journey, such as when you roll a strong hit with a match as you [[SF_CH3_Undertake an Expedition|Undertake an Expedition (move)]], or if you [[SF_CH3_Explore a Waypoint|Explore a Waypoint (move)]] and find an opportunity.^guidance-OclSpaceborneOpportunity
+> [!mechanics]- | Roll > `dice: [[OT_ISSF_Space#^Opportunity]]]` | Guidance
+> Roll or choose on this table when you want inspiration for a beneficial encounter or event on a spaceborne journey, such as when you roll a strong hit with a match as you [[SF_CH3_Undertake an Expedition|Undertake an Expedition (move)]], or if you [[SF_CH3_Explore a Waypoint|Explore a Waypoint (move)]] and find an opportunity.^guidance-Opportunity
 
 | dice: 1d100 | Result |
-| :----: |:-------|
+| :---: | --- |
 | 1 - 4 | Advance warning of an environmental threat |
 | 5 - 8 | Automated signal offers a helpful message or warning |
-| 9 - 12 | Cache of[](SF_CH3_Undertake%20an%20Expedition.md)ent of inner[](SF_CH3_Explore%20a%20Waypoint.md)ilous space |
+| 9 - 12 | Cache of cargo supplies |
 | 21 - 24 | Clue offers insight into a current quest or mystery |
 | 25 - 28 | Clue to a lifeform’s nature or vulnerabilities |
 | 29 - 32 | Derelict ripe for the picking |
@@ -94,7 +94,7 @@ Space Fortunes are the **Perils** and **Opportunities** that await you on your i
 | 89 - 92 | Sensors pinpoint a lurking foe |
 | 93 - 96 | Sensors reveal helpful or interesting environmental data |
 | 97 - 100 | Vehicle or equipment performs beyond expectations |
-^table-OclSpaceborneOpportunity
+^table-Opportunity
 
 *305 SPACE ENCOUNTERS*
 

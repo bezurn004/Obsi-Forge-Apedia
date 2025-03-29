@@ -23,11 +23,11 @@ OracleDescriptor: "_Worshipers glorify strange powers in this place._"
 _Worshipers glorify strange powers in this place._
 
 ## Oracle: Location Theme - Sacred Feature
-> [!mechanics]- | Roll > `dice: [[SF_CH5_LocationTheme-Sacred#^table-OclLocationThemeSacredFeature]]` | Guidance
-> ![[GSRY_Definitions#^gsry-OclSite-Feature]] ^guidance-OclSite-Feature
+> [!mechanics]- | Roll > `dice: [[OT_ISSF_Location-Themes#^Sacred-Feature]]` | Guidance
+> ![[GSRY_Definitions#^gsry-OclSite-Feature]] ^guidance-Feature
 
 | dice: 1d100 | Result |
-| :---: | :--- |
+| :---: | --- |
 | 1 - 8 | Adherents performing worship or enacting rituals |
 | 9 - 16 | Altar or temple |
 | 17 - 24 | Dwellings for the faithful |
@@ -40,15 +40,15 @@ _Worshipers glorify strange powers in this place._
 | 73 - 80 | Religious art or idols |
 | 81 - 88 | Subtle manifestations of mystical power or visions |
 | 89 - 96 | Tokens or motifs representing the faith’s domain |
-| 97 - 100 | ▶[[SF_CH5_Core_Descriptor-Focus#Oracle Descriptor\|Descriptor]] + [[SF_CH5_Core_Descriptor-Focus#Oracle Focus\|Focus]] |
-^table-OclLocationThemeSacredFeature
+| 97 - 100 | ▶[[SF_CH5_Core_Descriptor-Focus#Oracle Descriptor\|Descriptor]] + ▶[[SF_CH5_Core_Descriptor-Focus#Oracle Focus\|Focus]] |
+^table-Sacred-Feature
 
 ## Oracle: Location Theme - Sacred Peril
-> [!mechanics]- | Roll > `dice: [[SF_CH5_LocationTheme-Sacred#^table-OclLocationThemeSacredPeril]]` | Guidance
-> ![[GSRY_Definitions#^gsry-OclSite-Peril]] ^guidance-OclSite-Peril
+> [!mechanics]- | Roll > `dice: [[OT_ISSF_Location-Themes#^Sacred-Peril]]` | Guidance
+> ![[GSRY_Definitions#^gsry-OclSite-Peril]] ^guidance-Peril
 
 | dice: 1d100 | Result |
-| :---: | :--- |
+| :---: | --- |
 | 1 - 9 | An aspect of the faith beguiles you or lures you into danger |
 | 10 - 18 | Dreadful aspects or powers of the faith are revealed |
 | 19 - 27 | Embodiment of a god or power is given corrupted form or purpose |
@@ -59,22 +59,22 @@ _Worshipers glorify strange powers in this place._
 | 64 - 72 | Religious artifact evokes unnerving power |
 | 73 - 81 | Unnatural corruption or decay fouls the environment |
 | 82 - 90 | Zealots enact a ceremony to unlock forbidden powers |
-| 91 - 98 | ▶[[SF_CH5_Core_Action-Theme#Oracle Action\|Action]] + [[SF_CH5_Core_Action-Theme#Oracle Theme\|Theme]] |
+| 91 - 98 | ▶[[SF_CH5_Core_Action-Theme#Oracle Action\|Action]] + ▶[[SF_CH5_Core_Action-Theme#Oracle Theme\|Theme]] |
 | 99 - 100 | Roll twice |
-^table-OclLocationThemeSacredPeril
+^table-Sacred-Peril
 
 ## Oracle: Location Theme - Sacred Opportunity
-> [!mechanics]- | Roll > `dice: [[SF_CH5_LocationTheme-Sacred#^table-OclLocationThemeSacredOpportunity]]` | Guidance
-> ![[GSRY_Definitions#^gsry-OclSite-Opportunity]] ^guidance-OclSite-Opportunity
+> [!mechanics]- | Roll > `dice: [[OT_ISSF_Location-Themes#^Sacred-Opportunity]]` | Guidance
+> ![[GSRY_Definitions#^gsry-OclSite-Opportunity]] ^guidance-Opportunity
 
 | dice: 1d100 | Result |
-| :---: | :--- |
+| :---: | --- |
 | 1 - 20 | Access to a hidden or sealed area |
 | 21 - 40 | Encounter with a helpful adherent or heretic |
 | 41 - 60 | Insight into the nature or history of the faith |
 | 61 - 80 | Insight into the schemes or methods of religious zealots |
 | 81 - 100 | Interesting or valuable artifact or device |
-^table-OclLocationThemeSacredOpportunity
+^table-Sacred-Opportunity
 
 *379 LOCATION THEMES*
 

@@ -24,24 +24,24 @@ OracleDescriptor: "Create a faction by choosing the type of organization it is m
 Create a faction by choosing the type of organization it is modeled after.
 
 ## Oracle: Faction Type
-> [!mechanics]- | Roll > `dice: [[SF_CH5_Faction-Types#^table-OclFactionTypes]]` | Guidance
-> The Type tells you the general type of organization it is. After you know their type, you then roll on the corresponding oracles. Note that for the Dominion type, you roll on both the Dominion and Leadership oracles. ^guidance-OclFactionTypes
+> [!mechanics]- | Roll > `dice: [[OT_ISSF_Factions#^Types]]` | Guidance
+> The Type tells you the general type of organization it is. After you know their type, you then roll on the corresponding oracles. Note that for the Dominion type, you roll on both the Dominion and Leadership oracles. ^guidance-Types
 
 | dice: 1d100 | Result |
-|:---:|:--- |
+| :---: | --- |
 | 1 - 40 | ▶[[SF_CH5_Faction-Types#Oracle Faction Dominion\|Dominion]] - Governing power |
 | 41- 70 | ▶[[SF_CH5_Faction-Types#Oracle Faction Guild\|Guild]] - Organization of specialists |
 | 71 - 100 | ▶[[SF_CH5_Faction-Types#Oracle Faction Fringe Group\|Fringe Group]] - Band of outlaws, outcasts, or rogues |
-^table-OclFactionTypes
+^table-Types
 
 *340 CHAPTER 5: ORACLES*
 
 ## Oracle: Faction Dominion
-> [!mechanics]- | Roll > `dice: [[SF_CH5_Faction-Types#^table-OclFactionType-Dominion]]`1 | Guidance
-> The tenants and focus' for this Dominion faction. ^guidnace-OclFactionType-Dominion
+> [!mechanics]- | Roll > `dice: [[OT_ISSF_Factions#^Type-Dominion]]` | Guidance
+> The tenants and focus' for this Dominion faction. ^guidance-Type-Dominion
 
 | dice: 1d100 | Result |
-|:---:|:--- |
+| :---: | --- |
 | 1 - 5 | Agriculture |
 | 6 - 9 | Artistry |
 | 10 - 14 | Commerce |
@@ -66,14 +66,14 @@ Create a faction by choosing the type of organization it is modeled after.
 | 88 - 91 | Treachery |
 | 92 - 96 | Warface |
 | 97 - 100 | Wealth |
-^table-OclFactionType-Dominion
+^table-Type-Dominion
 
 ## Oracle: Faction Dominion Leadership
-> [!mechanics]- | Roll > `dice: [[SF_CH5_Faction-Types#^table-OclFactionDomionLeadership]]`1 | Guidance
-> For Dominion type Factions generate a leadership structure. If you choose, you could add this to other Faction types. ^guidance-OclFactionLeadership
+> [!mechanics]- | Roll > `dice: [[OT_ISSF_Factions#^Dominion-Leadership]]` | Guidance
+> For Dominion type Factions generate a leadership structure. If you choose, you could add this to other Faction types. ^guidance-Leadership
 
 | dice: 1d100 | Result |
-|:---:|:--- |
+| :---: | --- |
 | 1 - 5 | Anarchist |
 | 6 - 15 | Disputed leadership |
 | 16 - 30 | Authoritarian dictatorship |
@@ -84,14 +84,14 @@ Create a faction by choosing the type of organization it is modeled after.
 | 81 - 90 | Elected representatives |
 | 91 - 95 | Machine intelligence |
 | 96 - 100 | Varied / decentralized |
-^table-OclFactionDomionLeadership
+^table-Domion-Leadership
 
 ## Oracle: Faction Guild
-> [!mechanics]- | Roll > `dice: [[SF_CH5_Faction-Types#^table-OclFactionType-Guild]]`1 | Guidance
-> The membership focus for this Guild faction. ^guidance-OclFactionType-Guild
+> [!mechanics]- | Roll > `dice: [[OT_ISSF_Factions#^Type-Guild]]` | Guidance
+> The membership focus for this Guild faction. ^guidance-Type-Guild
 
 | dice: 1d100 | Result |
-|:---:|:--- |
+| :---: | --- |
 | 1 - 5 | Assassins |
 | 6 - 10 | Bounty hunters |
 | 11 - 15 | Couriers |
@@ -107,14 +107,14 @@ Create a faction by choosing the type of organization it is modeled after.
 | 81 - 85 | Researchers |
 | 86 - 90 | Spies |
 | 91 - 100 | Roll twice |
-^table-OclFactionType-Guild
+^table-Type-Guild
 
 ## Oracle: Faction Fringe Group
-> [!mechanics]- | Roll > `dice: [[SF_CH5_Faction-Types#^table-OclFactionType-FringeGroup]]1 | Guidance
-> The reason this Fringe Group faction lives on the edges of structured society due to their aberrant or outlawed nature. ^guidance-OclFactionType-FringeGroup
+> [!mechanics]- | Roll > `dice: [[OT_ISSF_Factions#^Type-Fringe-Group]]` | Guidance
+> The reason this Fringe Group faction lives on the edges of structured society due to their aberrant or outlawed nature. ^guidance-Type-Fringe-Group
 
 | dice: 1d100 | Result |
-|:---:|:--- |
+| :---: | --- |
 | 1 - 5 | Cultists |
 | 6 - 15 | Exiles |
 | 16 - 25 | Gangsters |
@@ -127,7 +127,7 @@ Create a faction by choosing the type of organization it is modeled after.
 | 76 - 85 | Scavengers |
 | 86 - 95 | Smugglers |
 | 96 - 100 | Roll twice |
-^table-OclFactionType-FringeGroup
+^table-Type-Fringe-Group
 
 *341 FACTIONS*
 

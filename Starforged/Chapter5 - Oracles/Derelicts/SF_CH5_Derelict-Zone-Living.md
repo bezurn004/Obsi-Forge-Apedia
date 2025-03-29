@@ -24,11 +24,11 @@ OracleDescriptor: "_Once places of rest and respite, now lie vacant._"
 _Once places of rest and respite, now lie vacant._
 
 ## Oracle: Derelict Zone Living - Area
-> [!mechanics]- | Roll > `dice: [[SF_CH5_Derelict-Zone-Living#^table-OclDerelictZone-Living-Area]]` | Guidance
-> ![[GSRY_Definitions#^gsry-OclSite-Area]] ^guidance-OclSite-Area
+> [!mechanics]- | Roll > `dice: [[OT_ISSF_Derelicts#^Zone-Living-Area]]` | Guidance
+> ![[GSRY_Definitions#^gsry-OclSite-Area]] ^guidance-Area
 
 | dice: 1d100 | Result |
-|:---:|:--- |
+| :---: | --- |
 | 1 - 8 | Food storage |
 | 9 - 16 | Galley or kitchen |
 | 17 - 24 | Laundry |
@@ -41,14 +41,14 @@ _Once places of rest and respite, now lie vacant._
 | 73 - 80 | Sleeping pods |
 | 81 - 85 | New zone |
 | 86 - 100 | New zone via ⏵[[SF_CH5_Derelict-Zone-Access\|Access]] |
-^table-OclDerelictZone-Living-Area
+^table-Area
 
 ## Oracle: Derelict Zone Living - Feature
-> [!mechanics]- | Roll > `dice: [[SF_CH5_Derelict-Zone-Living#^table-OclDerelictZone-Living-Feature]]` | Guidance
-> ![[GSRY_Definitions#^gsry-OclSite-Feature]] ^guidance-OclSite-Feature
+> [!mechanics]- | Roll > `dice: [[OT_ISSF_Derelicts#^Zone-Living-Feature]]` | Guidance
+> ![[GSRY_Definitions#^gsry-OclSite-Feature]] ^guidance-Feature
 
 | dice: 1d100 | Result |
-|:---:|:--- |
+| :---: | --- |
 | 1 - 8 | Abandoned pet |
 | 9 - 16 | Audible music |
 | 17 - 24 | Cherished personal item |
@@ -61,14 +61,14 @@ _Once places of rest and respite, now lie vacant._
 | 73 - 80 | Shrine or altar |
 | 81 - 88 | Unusual art |
 | 89 - 100 | ⏵[[SF_CH5_Core_Descriptor-Focus#Oracle Descriptor\|Descriptor]] + [[SF_CH5_Core_Descriptor-Focus#Oracle Focus\|Focus]] |
-^table-OclDerelictZone-Living-Feature
+^table-Feature
 
 ## Oracle: Derelict Zone Living - Peril
-> [!mechanics]- | Roll > `dice: [[SF_CH5_Derelict-Zone-Living#^table-OclDerelictZone-Living-Peril]]` | Guidance
-> ![[GSRY_Definitions#^gsry-OclSite-Peril]] ^guidance-OclSite-Peril
+> [!mechanics]- | Roll > `dice: [[OT_ISSF_Derelicts#^Zone-Living-Peril]]` | Guidance
+> ![[GSRY_Definitions#^gsry-OclSite-Peril]] ^guidance-Peril
 
 | dice: 1d100 | Result |
-|:---:|:--- |
+| :---: | --- |
 | 1 - 10 | Booby trap |
 | 11 - 20 | Distressing written message |
 | 21 - 30 | Disturbing evidence of exploitive living conditions |
@@ -80,20 +80,20 @@ _Once places of rest and respite, now lie vacant._
 | 81 - 90 | Unsettling sound or disturbance |
 | 91 - 98 | ⏵[[SF_CH5_Core_Action-Theme#Oracle Action\|Action]] + [[SF_CH5_Core_Action-Theme#Oracle Theme\|Theme]] |
 | 99 - 100 | Roll twice |
-^table-OclDerelictZone-Living-Peril
+^table-Peril
 
 ## Oracle: Derelict Zone Living - Opportunity
-> [!mechanics]- | Roll > `dice: [[SF_CH5_Derelict-Zone-Living#^table-OclDerelictZone-Living-Opportunity]]` | Guidance
-> ![[GSRY_Definitions#^gsry-OclSite-Opportunity]] ^guidance-OclSite-Opportunity
+> [!mechanics]- | Roll > `dice: [[OT_ISSF_Derelicts#^Zone-Living-Opportunity]]` | Guidance
+> ![[GSRY_Definitions#^gsry-OclSite-Opportunity]] ^guidance-Opportunity
 
 | dice: 1d100 | Result |
-|:---:|:--- |
+| :---: | --- |
 | 1 - 20 | Culturally significant object or artifact |
 | 21 - 40 | Hidden stash of valuable contraband |
 | 41 - 60 | Intact barricade or protected area |
 | 61 - 80 | Recorded message reveals helpful aspects of this site |
 | 81 - 100 | Useful personal gear |
-^table-OclDerelictZone-Living-Opportunity
+^table-Opportunity
 
 *355 DERELICTS*
 

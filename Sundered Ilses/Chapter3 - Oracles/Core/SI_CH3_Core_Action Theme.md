@@ -26,8 +26,8 @@ Other oracle tables include prompts to check for an Action and Theme (shown as â
 > For details on using the _Core Oracles_, [[_SF_CH5_Core|see page 295]] of the _Starforged_ rulebook.
 
 ## ACTION
-> [!mechanics]- | Roll > `dice: [[SI_CH3_Core_Action Theme#^table-OclAction]]` | Guidance
-> Text ^guidance-OclAction
+> [!mechanics]- | Roll > `dice: [[OT_ISSI_Core#^Action]]` | Guidance
+> Text ^guidance-Action
 
 | dice: 1d100 | Result |
 | :---: | --- |
@@ -131,13 +131,13 @@ Other oracle tables include prompts to check for an Action and Theme (shown as â
 | 98 | Uphold |
 | 99 | Weaken |
 | 100 | Withdraw |
-^table-OclAction
+^table-Action
 
 *116 ORACLES*
 
 ## THEME
-> [!mechanics]- | Roll > `dice: [[SI_CH3_Core_Action Theme#^table-OclTheme]]` | Guidance
-> Text ^guidance-OclTheme
+> [!mechanics]- | Roll > `dice: [[OT_ISSI_Core#^Theme]]` | Guidance
+> Text ^guidance-Theme
 
 | dice: 1d100 | Result |
 | :---: | --- |
@@ -241,7 +241,7 @@ Other oracle tables include prompts to check for an Action and Theme (shown as â
 | 98 | Weakness |
 | 99 | Wealth |
 | 100 | Weapon |
-^table-OclTheme
+^table-Theme
 
 *117 CORE ORACLES*
 

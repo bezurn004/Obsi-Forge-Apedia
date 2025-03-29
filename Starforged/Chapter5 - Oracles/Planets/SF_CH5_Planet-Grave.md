@@ -26,11 +26,11 @@ OracleDescriptor: "This world was once home to a robust civilization but is now 
 This world was once home to a robust civilization but is now nothing more than a desiccated husk. Ruins, battlefields, and disconcerting silence cover the surface. Did anyone make it off-world before the end?
 
 ## Oracle: Grave Atmosphere
-> [!mechanics]- | Roll > `dice: [[SF_CH5_Planet-Grave#^table-Atmosphere]]` | Guidance
+> [!mechanics]- | Roll > `dice: [[OT_ISSF_Planets#^Grave-Atmosphere]]` | Guidance
 > The baseline for planet habitability, see [[_SF_CH5_Planets#Planet Atmospheres|Planet Atmosphere]] for the effects of each atmosphere for human life. ^guidance-Atmosphere
 
 | dice: 1d100 | Result |
-|:---:|:--- |
+| :---: | --- |
 | 1 - 10 | None / thin |
 | 11 - 45 | Toxic |
 | 46 - 70 | Corrosive |
@@ -40,11 +40,11 @@ This world was once home to a robust civilization but is now nothing more than a
 
 ## Oracle: Grave Settlements
 ### Oracle: Settlements -Terminus
-> [!mechanics]- | Roll > `dice: [[SF_CH5_Planet-Grave#^table-Settlement-Terminus]]` | Guidance
+> [!mechanics]- | Roll > `dice: [[OT_ISSF_Planets#^Grave-Settlement-Terminus]]` | Guidance
 > Choose or roll on possible settlements located on this planet. ^guidance-Settlement-Terminus
 
 | dice: 1d100 | Result |
-|:---:|:--- |
+| :---: | --- |
 | 1 - 80 | None |
 | 81 - 90 | Orbital settlement |
 | 91 - 95 | Planetside settlement |
@@ -53,33 +53,33 @@ This world was once home to a robust civilization but is now nothing more than a
 ^table-Settlement-Terminus
 
 ### Oracle: Settlements - Outlands
-> [!mechanics]- | Roll > `dice: [[SF_CH5_Planet-Grave#^table-Settlement-Outlands]]` | Guidance
+> [!mechanics]- | Roll > `dice: [[OT_ISSF_Planets#^Grave-Settlement-Outlands]]` | Guidance
 > Choose or roll on possible settlements located on this planet. ^guidance-Settlement-Outlands
 
 | dice: 1d100 | Result |
-|:---:|:--- |
+| :---: | --- |
 | 1 - 90 | None |
 | 91 - 97 | Orbital settlement |
 | 98 - 100 | Planetside settlement |
 ^table-Settlement-Outlands
 
 ### Oracle: Settlements - Expanse
-> [!mechanics]- | Roll > `dice: [[SF_CH5_Planet-Grave#^table-Settlement-Expanse]]` | Guidance
+> [!mechanics]- | Roll > `dice: [[OT_ISSF_Planets#^Grave-Settlement-Expanse]]` | Guidance
 > Choose or roll on possible settlements located on this planet. ^guidance-Settlement-Expanse
 
 | dice: 1d100 | Result |
-|:---:|:--- |
+| :---: | --- |
 | 1 - 95 | None |
 | 96 - 98 | Orbital settlement |
 | 99 - 100 | Planetside settlement |
 ^table-Settlement-Expanse
 
 ## Oracle: Grave Observed From Space
-> [!mechanics]- | Roll > `dice: [[SF_CH5_Planet-Grave#^table-ObservedFromSpace]]` | Guidance
-> When first approaching a planet, envision at a board characteristic of the planet. ^guidance-ObservedFromSpace
+> [!mechanics]- | Roll > <br>▶1 `dice: [[OT_ISSF_Planets#^Grave-Observed-From-Space]]`<br>▶2 `dice: [[OT_ISSF_Planets#^Grave-Observed-From-Space]]` | Guidance
+> When first approaching a planet, envision at a board characteristic of the planet. ^guidance-Observed-From-Space
 
 | dice: 1d100 | Result @1-2 |
-|:---:|:--- |
+| :---: | --- |
 | 1 - 11 | Broken moon |
 | 12 - 22 | Cratered surface |
 | 23 - 33 | Dry seabeds |
@@ -88,16 +88,16 @@ This world was once home to a robust civilization but is now nothing more than a
 | 56 - 66 | Perpetual overcast |
 | 67 - 77 | Sky-breaching ruins |
 | 78 - 88 | Vast wastelands |
-| 89 - 98 | ▶[[SF_CH5_Core_Descriptor-Focus#Oracle Descriptor\|Descriptor]] + [[SF_CH5_Core_Descriptor-Focus#Oracle Focus\|Focus]] |
+| 89 - 98 | ▶[[SF_CH5_Core_Descriptor-Focus#Oracle Descriptor\|Descriptor]] + ▶[[SF_CH5_Core_Descriptor-Focus#Oracle Focus\|Focus]] |
 | 99 - 100 | ▶[[SF_CH5_Vault-Exterior#Oracle Precursor Vault Outer First Look\|Precursor Vault (orbital)]] |
 ^table-ObservedFromSpace
 
 ## Oracle: Grave Planetside Feature
-> [!mechanics]- | Roll > `dice: [[SF_CH5_Planet-Grave#^table-PlanetsideFeature]]` | Guidance
-> To begin exploration on a planet, generate one or two dominate feature's. If your exploration is prolonged morph these features using the [[SF_CH5_Core_Descriptor-Focus#Oracle Descriptor|Descriptor]] and [[SF_CH5_Core_Descriptor-Focus#Oracle Focus|Focus]] oracles for prompts on variety. ^guidance-PlanetsideFeature
+> [!mechanics]- | Roll > <br>▶1 `dice: [[OT_ISSF_Planets#^Grave-Feature]]`<br>▶2 `dice: [[OT_ISSF_Planets#^Grave-Feature]]` | Guidance
+> To begin exploration on a planet, generate one or two dominate feature's. If your exploration is prolonged morph these features using the [[SF_CH5_Core_Descriptor-Focus#Oracle Descriptor|Descriptor]] and [[SF_CH5_Core_Descriptor-Focus#Oracle Focus|Focus]] oracles for prompts on variety. ^guidance-Feature
 
 | dice: 1d100 | Result @1-2 |
-|:---:|:--- |
+| :---: | --- |
 | 1 - 7 | Acid pools |
 | 8 - 14 | Ash dunes |
 | 15 - 21 | Corrosive rains |
@@ -111,16 +111,16 @@ This world was once home to a robust civilization but is now nothing more than a
 | 71 - 77 | Scarred battlefields |
 | 78 - 84 | Ship graveyards |
 | 85 - 91 | Whispers of the dead |
-| 92 - 98 | ▶[[SF_CH5_Core_Descriptor-Focus#Oracle Descriptor\|Descriptor]] + [[SF_CH5_Core_Descriptor-Focus#Oracle Focus\|Focus]] |
+| 92 - 98 | ▶[[SF_CH5_Core_Descriptor-Focus#Oracle Descriptor\|Descriptor]] + ▶[[SF_CH5_Core_Descriptor-Focus#Oracle Focus\|Focus]] |
 | 99 - 100 | ▶[[SF_CH5_Vault-Exterior#Oracle Precursor Vault Outer First Look\|Precursor Vault (planetside)]] |
-^table-PlanetsideFeature
+^table-Feature
 
 ## Oracle: Grave Life
-> [!mechanics]- | Roll > `dice: [[SF_CH5_Planet-Grave#^table-Life]]` | Guidance
+> [!mechanics]- | Roll > `dice: [[OT_ISSF_Planets#^Grave-Life]]` | Guidance
 > The general state of life currently on this planet. There may be a hidden feature given enough exploration that could contradict this result. ^guidance-Life
 
 | dice: 1d100 | Result |
-|:---:|:--- |
+| :---: | --- |
 | 1 - 25 | None |
 | 26 - 75 | Extinct |
 | 76 - 95 | Scarce |
@@ -128,11 +128,11 @@ This world was once home to a robust civilization but is now nothing more than a
 ^table-Life
 
 ## Oracle: Grave Sample Names
-> [!mechanics]- | Roll > `dice: [[SF_CH5_Planet-Grave#^table-Names]]` | Guidance
+> [!mechanics]- | Roll > `dice: [[OT_ISSF_Planets#^Grave-Names]]` | Guidance
 > Sample names that are suited to this planet type. Feel free to mix and match or create your own. ^guidance-Names
 
 | dice: 1d100 | Result |
-|:---:|:--- |
+| :---: | --- |
 | 1 - 5 | Anubis |
 | 6 - 10 | Banshee |
 | 11 - 15 | Barrow |

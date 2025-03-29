@@ -20,11 +20,11 @@ OracleDescriptor: "Give a starship a name when it has an important role in your 
 Give a starship a name when it has an important role in your story.
  
 ## Oracle: Starship Name
-> [!mechanics]- | Roll > `dice: [[SF_CH5_Starship-Name#^table-OclStarshipNames]]` | Guidance
-> Give a starship a name when it has an important role in your story. Scan this table and select a name that fits what you know of the ship’s appearance and role. Or generate a random result and let any contradictions contribute to the ship’s history or nature. ^guidance-OclStarshipName
+> [!mechanics]- | Roll > `dice: [[OT_ISSF_Starships#^Name]]` | Guidance
+> Give a starship a name when it has an important role in your story. Scan this table and select a name that fits what you know of the ship’s appearance and role. Or generate a random result and let any contradictions contribute to the ship’s history or nature. ^guidance-Name
 
 | dice: 1d100 | Result |
-|:---:|:--- |
+| :---: | --- |
 | 1 | Arclight |
 | 2 | Argent Arrow |
 | 3 | Artemis |
@@ -125,7 +125,7 @@ Give a starship a name when it has an important role in your story.
 | 98 | Vigilant |
 | 99 | Voidtreader |
 | 100 | Vulture |
-^table-OclStarshipNames
+^table-Names
 
 *329 STARSHIPS*
 

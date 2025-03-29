@@ -22,7 +22,7 @@ This table reveals occurrences on a seafaring expedition. Possible results inclu
 
 ## Oracle: Seafaring Details
 > [!mechanics]- | Roll > [skull] `dice: [[SI_CH3_The Cursed Die#^table-Cursed]]` `dice: [[OT_ISSI_Seafaring^Details]]` | Guidance
-> This table reveals occurrences on a seafaring expedition. Possible results include locations, events, sightings, and encounters. ^guidance-OclSeafaringDetails
+> This table reveals occurrences on a seafaring expedition. Possible results include locations, events, sightings, and encounters. ^guidance-Details
 
 | dice: 1d100 | Result [skull] _[[#Oracle Cursed Seafaring Details\|pg 126]]_ |
 | :---: | --- |
@@ -126,7 +126,7 @@ This table reveals occurrences on a seafaring expedition. Possible results inclu
 | 98 | A heap of flotsam and jetsam grinds against the shore of a rocky islet |
 | 99 | A distant signal or beacon flares to life |
 | 100 | Smoke rises from among a grove of palms on a sandy islet |
-^table-OclSeafaringDetails
+^table-Details
 
 *122 ORACLES*
 *123 SEAFARING ORACLES*
@@ -134,7 +134,7 @@ This table reveals occurrences on a seafaring expedition. Possible results inclu
 
 ## Oracle: Cursed Seafaring Details
 > [!mechanics]- | Roll > `dice: [[OT_ISSI_Seafaring#^Cursed-Details]]` | Guidance
-> This table reveals occurrences on a seafaring expedition. Possible results include locations, events, sightings, and encounters. ^guidance-OclCursedSeafaringDetails
+> This table reveals occurrences on a seafaring expedition. Possible results include locations, events, sightings, and encounters. ^guidance-Cursed-Details
 
 | dice: 1d100 |  Result |
 | :---: | --- |
@@ -238,7 +238,7 @@ This table reveals occurrences on a seafaring expedition. Possible results inclu
 | 98 | An unmoving fog clings to a rocky islet, shrouding all but the peak of a barren hill |
 | 99 | The sound of sobbing echoes across mist-shrouded seas |
 | 100 | The rising sun casts a baleful red glow |
-^table-OclCursedSeafaringDetails
+^table-Cursed-Details
 
 *125 SEAFARING ORACLES*
 *126 ORACLES*

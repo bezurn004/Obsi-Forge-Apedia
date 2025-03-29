@@ -65,13 +65,14 @@ Sections of a large city or city-state can contain their own pursuits and indust
 | 90 - 93 | 92 - 93 | 92 - 93 | Warfare | Armies or fleets, command post, forts |
 | 94 - 95 | 94 - 95 | 94 - 95 | Weaponry | Cannon foundries, gunsmiths, powder mills |
 | 96 - 100 | 96 - 100 | 96 - 100 | ▶[[SI_CH3_Core_Action Theme#ACTION\|Action]] + ▶[[SI_CH3_Core_Action Theme#THEME\|Theme]];<br>_pg 116 - 117_ | Create your own |
+^table-Focus-All
 
 ### Oracle: Settlement Focus - Shore
 > [!mechanics]- | Roll > [skull] `dice: [[SI_CH3_The Cursed Die#^table-Cursed]]`<br>▶1 `dice: [[OT_ISSI_Settlements^Focus-Shore]]`<br>▶2 `dice: [[OT_ISSI_Settlements^Focus-Shore]]` | Guidance
-> Sections of a large city or city-state can contain their own pursuits and industries, and can even span geographies (seafront, inland, or waterside). Revisit this table if you spend time in a place and learn more about its activities. ^guidance-OclSettlementFocus-Shore
+> Sections of a large city or city-state can contain their own pursuits and industries, and can even span geographies (seafront, inland, or waterside). Revisit this table if you spend time in a place and learn more about its activities. ^guidance-Focus-Shore
 
 | dice: 1d100 | Activity / Typical Facilities and Services @1-2 [skull] _[[SI_CH3_Settle-Focus and Details#Oracle Cursed Settlement Focus\|pg 169]]_ |
-|:---:| --- |
+| :---: | --- |
 | 1 - 3 | **Piracy**<br>Pirate court, smuggler dens, taverns |
 | 4 - 6 | **Whaling**<br>Whaling ships, processing plants, wharfs |
 | 7 - 8 | **Wrecking**<br>Ship graveyard |
@@ -109,14 +110,14 @@ Sections of a large city or city-state can contain their own pursuits and indust
 | 90 - 93 | **Warfare**<br>Armies or fleets, command post, forts |
 | 94 - 95 | **Weaponry**<br>Cannon foundries, gunsmiths, powder mills |
 | 96 - 100 | ▶[[SI_CH3_Core_Action Theme#ACTION\|Action]] + ▶[[SI_CH3_Core_Action Theme#THEME\|Theme]]; _pg 116 - 117_ |
-^table-OclSettlementFocus-Shore
+^table-Focus-Shore
 
 ### Oracle: Settlement Focus - Inland
 > [!mechanics]- | Roll > [skull] `dice: [[SI_CH3_The Cursed Die#^table-Cursed]]`<br>▶1 `dice: [[OT_ISSI_Settlements#^Focus-Inland]]`<br>▶2 `dice: [[OT_ISSI_Settlements#^Focus-Inland]]` | Guidance
-> Sections of a large city or city-state can contain their own pursuits and industries, and can even span geographies (seafront, inland, or waterside). Revisit this table if you spend time in a place and learn more about its activities. ^guidance-OclSettlementFocus-Inland
+> Sections of a large city or city-state can contain their own pursuits and industries, and can even span geographies (seafront, inland, or waterside). Revisit this table if you spend time in a place and learn more about its activities. ^guidance-Focus-Inland
 
 | dice: 1d100 | Activity / Typical Facilities and Services [skull] _[[SI_CH3_Settle-Focus and Details#Oracle Cursed Settlement Focus\|pg 169]]_ |
-|:---:| --- |
+| :---: | --- |
 | 1 - 2 | **Alcohol Production**<br>Breweries, distilleries, wineries |
 | 3 | **Archeology**<br>Excavation sites, field camps, relic hunters |
 | 4 - 5 | **Crafts**<br>Artisans, markets, workshops |
@@ -149,14 +150,14 @@ Sections of a large city or city-state can contain their own pursuits and indust
 | 92 - 93 | **Warfare**<br>Armies or fleets, command post, forts |
 | 94 - 95 | **Weaponry**<br>Cannon foundries, gunsmiths, powder mills |
 | 96 - 100 | ▶[[SI_CH3_Core_Action Theme#ACTION\|Action]] + ▶[[SI_CH3_Core_Action Theme#THEME\|Theme]]; _pg 116 - 117_ |
-^table-OclSettlementFocus-Inland
+^table-Focus-Inland
 
 ### Oracle: Settlement Focus - Waterside
 > [!mechanics]- | Roll > [skull] `dice: [[SI_CH3_The Cursed Die#^table-Cursed]]`<br>▶1 `dice: [[OT_ISSI_Settlements#^Focus-Waterside]]`<br>▶2 `dice: [[OT_ISSI_Settlements#^Focus-Waterside]]` | Guidance
-> Sections of a large city or city-state can contain their own pursuits and industries, and can even span geographies (seafront, inland, or waterside). Revisit this table if you spend time in a place and learn more about its activities. ^guidance-OclSettlementFocus-Waterside
+> Sections of a large city or city-state can contain their own pursuits and industries, and can even span geographies (seafront, inland, or waterside). Revisit this table if you spend time in a place and learn more about its activities. ^guidance-Focus-Waterside
 
 | dice: 1d100 | Activity / Typical Facilities and Services [skull] _[[SI_CH3_Settle-Focus and Details#Oracle Cursed Settlement Focus\|pg 169]]_ |
-|:---:| --- |
+| :---: | --- |
 | 1 - 3 | **Shipbuilding**<br>Dry docks, lumber mills, shipwrights |
 | 4 - 11 | **Fishing**<br>Boatwrights, fishmongers, net makers |
 | 12 - 13 | **Alcohol Production**<br>Breweries, distilleries, wineries |
@@ -191,13 +192,13 @@ Sections of a large city or city-state can contain their own pursuits and indust
 | 92 - 93 | **Warfare**<br>Armies or fleets, command post, forts |
 | 94 - 95 | **Weaponry**<br>Cannon foundries, gunsmiths, powder mills |
 | 96 - 100 | ▶[[SI_CH3_Core_Action Theme#ACTION\|Action]] + ▶[[SI_CH3_Core_Action Theme#THEME\|Theme]]; _pg 116 - 117_ |
-^table-OclSettlementFocus-Waterway
+^table-Focus-Waterway
 
 *168 ORACLES*
 
 ## Oracle: Cursed Settlement Focus
 > [!mechanics]- | Roll > `dice: [[OT_ISSI_Settlements^Cursed-Focus]]` | Guidance
-> If you roll a Settlement Focus curse, take your result on that table and make note that it is cursed. Something about this activity has an uncanny or dreadful aspect. If you investigate or interact further, use the table below to help reveal the industry’s relationship to a cursed power. ^guidance-OclCursedSettlementFocus
+> If you roll a Settlement Focus curse, take your result on that table and make note that it is cursed. Something about this activity has an uncanny or dreadful aspect. If you investigate or interact further, use the table below to help reveal the industry’s relationship to a cursed power. ^guidance-Cursed-Focus
 
 | dice: 1d100 | Result |
 | :---: | --- |
@@ -211,13 +212,13 @@ Sections of a large city or city-state can contain their own pursuits and indust
 | 71 - 80 | Suffering under the deprivations of a cursed power |
 | 81 - 90 | Targeted by a cursed power |
 | 91 - 100 | Unwittingly helping or unleashing a cursed power |
-^table-OclCursedSettlementFocus
+^table-Cursed-Focus
 
 *169 SETTLEMENT ORACLES*
 
 ## Oracle: Settlement Details
 > [!mechanics]- | Roll > [skull] `dice: [[SI_CH3_The Cursed Die#^table-Cursed]]`<br>▶1 `dice: [[OT_ISSI_Settlements^Details]]`<br>▶2 `dice: [[OT_ISSI_Settlements^Details]]` | Guidance
-> As you spend time in a settlement, use this table to reveal uncovered aspects and overheard rumors. ^guidance-OclSettlementDetails
+> As you spend time in a settlement, use this table to reveal uncovered aspects and overheard rumors. ^guidance-Details
 
 | dice: 1d100 | Results @1-2 [skull] _[[#Oracle Cursed Settlement Details\|pg 174]]_ |
 | :---: | --- |
@@ -317,7 +318,7 @@ Sections of a large city or city-state can contain their own pursuits and indust
 | 94 | The leaders are puppets for a greater power |
 | 95 - 97 | ▶[[SI_CH3_Core_Action Theme#ACTION\|Aaction]]+[[SI_CH3_Core_Action Theme#THEME\|Theme]]; _pg 116 - 117_ |
 | 98 - 100 | ▶[[SI_CH3_Core_Descriptor Focus#DESCRIPTOR\|Descriptor]]+[[SI_CH3_Core_Descriptor Focus#FOCUS\|Focus]]; _pg 118 - 119_ |
-^table-OclSettlementDetails
+^table-Details
 
 *170 ORACLES*
 *171 SETTLEMENT ORACLES*
@@ -325,7 +326,7 @@ Sections of a large city or city-state can contain their own pursuits and indust
 
 ## Oracle: Cursed Settlement Details
 > [!mechanics]- | Roll > `dice: [[OT_ISSI_Settlements^Cursed-Details]]` | Guidance
-> Text ^guidance-OclCursedSettlementDetails
+> Text ^guidance-Cursed-Details
 
 | dice: 1d100 | Results |
 | :---: | --- |
@@ -394,7 +395,7 @@ Sections of a large city or city-state can contain their own pursuits and indust
 | 95 - 96 | The sun doesn't rise as it should with the dawn |
 | 97 - 98 | Mysterious cloaked figures watch you, then scuttle away when you catch their gaze |
 | 99 - 100 | Large cockroaches boil from hidden spaces |
-^table-OclCursedSettlementDetails
+^table-Cursed-Details
 
 *173 SETTLEMENT ORACLES*
 *174 ORACLES*

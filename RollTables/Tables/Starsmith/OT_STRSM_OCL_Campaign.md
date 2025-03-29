@@ -1,9 +1,7 @@
-# Campaign
-
-## Backstory Prompt
+# Backstory Prompt
 
 | dice: 1d300 | Result |
-|:----:|:-------|
+| :---: | --- |
 | 1 - 7 | You abandoned your kin after learning a troubling truth |
 | 8 - 13 | You are guided by a vision or prophecy |
 | 14 - 20 | You are haunted by past actions or failures |
@@ -51,10 +49,10 @@
 | 295 - 300 | Your unique genetic markers make you a target for illegal research |
 ^Backstory-Prompt
 
-## Inciting Incident
+# Inciting Incident
 
 | dice: 1d300 | Result |
-|:---:|:--- |
+| :---: | --- |
 | 1 - 5 | Aid a starship caught in a spacetime fracture. |
 | 6 - 10 | Broker peace between two feuding settlements |
 | 11 - 15 | Chart a new passage between isolated settlements |
@@ -117,10 +115,10 @@
 | 296 - 300 | Intercept a critical shipment to reroute it to where it is needed most |
 ^Inciting-Incident
 
-## Sector Trouble
+# Sector Trouble
 
 | dice: 1d300 | Result |
-|:----:|:-------|
+| :---: | --- |
 | 1 - 5 | Blockade prevents trade with other sectors |
 | 6 - 10 | Bounty hunters search for an infamous fugitive |
 | 11 - 15 | Chaotic breaches in spacetime spread like wildfire |
@@ -183,10 +181,10 @@
 | 296 - 300 | Violation of a peace treaty sets off new tensions |
 ^Sector-Trouble
 
-## Starship History
+# Starship History
 
 | dice: 1d300 | Result |
-|:---:|:--- |
+| :---: | --- |
 | 1 - 8 | Acquired in trade for a precious family heirloom |
 | 9 - 17 | Built out of repurposed scrap |
 | 18 - 25 | Claimed as spoils of war |
@@ -225,10 +223,10 @@
 | 293 - 300 | Won as a corporate prize |
 ^Starship-History
 
-## Starship Quirk
+# Starship Quirk
 
 | dice: 1d300 | Result |
-|:----:|:-------|
+| :---: | --- |
 | 1 - 5 | Engine room is scorched with old burn marks |
 | 6 - 10 | Exterior is marred by rust and grime |
 | 11 - 15 | Faint, phantom music sometimes echoes through the corridors |

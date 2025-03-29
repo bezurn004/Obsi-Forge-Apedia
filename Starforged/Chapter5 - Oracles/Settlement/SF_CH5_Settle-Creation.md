@@ -21,55 +21,76 @@ OracleDescriptor: "When a settlement needs to be created start here to get an id
  When a settlement needs to be created start here to get an idea of where it is and roughly how populated it is.
 
 ## Oracle: Settlement Location
-> [!mechanics]- | Roll > `dice: [[SF_CH5_Settle-Creation#^table-OclSettlementLocation]]` | Guidance
-> Determine where the settlement is located. ^guidance-OclSettlementLocation
+> [!mechanics]- | Roll > `dice: [[OT_ISSF_Settlements#^Location]]` | Guidance
+> Determine where the settlement is located. ^guidance-Location
 
 | dice: 1d100 | Result |
-|:---:|:--- |
+| :---: | --- |
 | 1 - 40 | Planetside |
 | 41 - 75 | Orbital |
 | 76 - 100 | Deepspace |
-^table-OclSettlementLocation
+^table-Location
 
 ## Settlement Population
+> [!mechanics]- Guidance
+> Choose or roll on the relevant oracles below to determine the general population size of a settlement.
+> > [!oracle]- Terminus
+> > `dice: [[OT_ISSF_Settlements#^Population-Terminus]]`
+> 
+> > [!oracle]- Outlands
+> > `dice: [[OT_ISSF_Settlements#^Population-Outlands]]`
+> 
+> > [!oracle]- Expanse
+> > `dice: [[OT_ISSF_Settlements#^Population-Expanse]]`
+
+
+| Terminus | Outlands | Expanse | Result |
+| :---: | :---: | :---: | --- |
+| 1 - 10 | 1 - 15 | 1 - 20 | Few |
+| 11 - 25 | 16 - 35 | 21 - 50 | Dozens |
+| 26 - 55 | 36 - 65 | 51 - 80 | Hundreds |
+| 56 - 85 | 66 - 90 | 81 - 95 | Thousands |
+| 86 - 100 | 91 - 100 | 96 - 100 | Tens of thousands |
+^table-All-Settlement-Population
+
 ### Oracle: Settlement Population: Terminus
-> [!mechanics]- | Roll > `dice: [[SF_CH5_Settle-Creation#^table-OclSettlementPopulation-Terminus]]` | Guidance
-> Choose or roll on the relevant oracles below to determine the general population size of a settlement.^guidance-OclSettlementPopulation-Terminus
+> [!mechanics]- | Roll > `dice: [[OT_ISSF_Settlements#^Population-Terminus]]` | Guidance
+> Choose or roll on the relevant oracles below to determine the general population size of a settlement.^guidance-Population-Terminus
 
 | dice: 1d100 | Result |
-|:---:|:--- |
+| :---: | --- |
 | 1 - 10 | Few |
 | 11 - 25 | Dozens |
 | 26 - 55 | Hundreds |
 | 56 - 85 | Thousands |
 | 86 - 100 | Tens of thousands |
-^table-OclSettlementPopulation-Terminus
+^table-Population-Terminus
 
 ### Oracle: Settlement Population: Outlands
-> [!mechanics]- | Roll > `dice: [[SF_CH5_Settle-Creation#^table-OclSettlementPopulation-Outlands]]` | Guidance
-> Choose or roll on the relevant oracles below to determine the general population size of a settlement.^guidance-OclSettlementPopulation-Outlands
+> [!mechanics]- | Roll > `dice: [[OT_ISSF_Settlements#^Population-Outlands]]` | Guidance
+> Choose or roll on the relevant oracles below to determine the general population size of a settlement.^guidance-Population-Outlands
 
 | dice: 1d100 | Result |
-|:---:|:--- |
+| :---: | --- |
 | 1 - 15 | Few |
 | 16 - 35 | Dozens |
 | 36 - 65 | Hundreds |
 | 66 - 90 | Thousands |
 | 91 - 100 | Tens of thousands |
-^table-OclSettlementPopulation-Outlands
+^table-Population-Outlands
 
 ### Oracle: Settlement Population: Expanse
-> [!mechanics]- | Roll > `dice: [[SF_CH5_Settle-Creation#^table-OclSettlementPopulation-Expanse]]` | Guidance
-> Choose or roll on the relevant oracles below to determine the general population size of a settlement.^guidance-OclSettlementPopulation-Expanse
+> [!mechanics]- | Roll > `dice: [[OT_ISSF_Settlements#^Population-Expanse]]` | Guidance
+> Choose or roll on the relevant oracles below to determine the general population size of a settlement.^guidance-Population-Expanse
 
 | dice: 1d100 | Result |
-|:---:|:--- |
+| :---: | --- |
 | 1 - 20 | Few |
 | 21 - 50 | Dozens |
 | 51 - 80 | Hundreds |
 | 81 - 95 | Thousands |
 | 96 - 100 | Tens of thousands |
-^table-OclSettlementPopulation-Expanse
+^table-Population-Expanse
 
 *322 CHAPTER 5: ORACLES*
 

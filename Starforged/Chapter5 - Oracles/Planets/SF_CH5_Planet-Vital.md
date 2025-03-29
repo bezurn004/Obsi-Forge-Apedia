@@ -28,7 +28,7 @@ OracleDescriptor: "Against all odds, life finds a way. Even in the emptiness of
 Against all odds, life finds a way. Even in the emptiness of space, tiny pockets of hope can be found, and this planet offers that. Liquid water exists here which has given a chance for both flora and fauna to flourish. If you can’t find exactly what you need here, you can at least find a moment of respite.
 
 ## Oracle: Vital Atmosphere
-> [!mechanics]- | Roll > `dice: [[SF_CH5_Planet-Vital#^table-Atmosphere]]` | Guidance
+> [!mechanics]- | Roll > `dice: [[OT_ISSF_Planets#^Vital-Atmosphere]]` | Guidance
 > The baseline for planet habitability, see [[_SF_CH5_Planets#Planet Atmospheres|Planet Atmosphere]] for the effects of each atmosphere for human life. ^guidance-Atmosphere
 
 | dice: 1d100 | Result |
@@ -40,11 +40,11 @@ Against all odds, life finds a way. Even in the emptiness of space, tiny pocket
 
 ## Oracle: Vital Settlements
 ### Oracle: Settlements - Terminus
-> [!mechanics]- | Roll > `dice: [[SF_CH5_Planet-Vital#^table-Settlement-Terminus]]` | Guidance
+> [!mechanics]- | Roll > `dice: [[OT_ISSF_Planets#^Vital-Settlement-Terminus]]` | Guidance
 > Choose or roll on possible settlements located on this planet. ^guidance-Settlement-Terminus
 
 | dice: 1d100 | Result |
-|:---:|:--- |
+| :---: | --- |
 | 1 - 20 | None |
 | 21 - 30 | Orbital settlement |
 | 31 - 70 | Planetside settlement |
@@ -53,11 +53,11 @@ Against all odds, life finds a way. Even in the emptiness of space, tiny pocket
 ^table-Settlement-Terminus
 
 ### Oracle: Settlements - Outlands
-> [!mechanics]- | Roll > `dice: [[SF_CH5_Planet-Vital#^table-Settlement-Outlands]]` | Guidance
+> [!mechanics]- | Roll > `dice: [[OT_ISSF_Planets#^Vital-Settlement-Outlands]]` | Guidance
 > Choose or roll on possible settlements located on this planet. ^guidance-Settlement-Outlands
 
 | dice: 1d100 | Result |
-|:---:|:--- |
+| :---: | --- |
 | 1 - 50 | None |
 | 51 - 55 | Orbital settlement |
 | 56 - 85 | Planetside settlement |
@@ -66,11 +66,11 @@ Against all odds, life finds a way. Even in the emptiness of space, tiny pocket
 ^table-Settlement-Outlands
 
 ### Oracle: Settlements - Expanse
-> [!mechanics]- | Roll > `dice: [[SF_CH5_Planet-Vital#^table-Settlement-Expanse]]` | Guidance
+> [!mechanics]- | Roll > `dice: [[OT_ISSF_Planets#^Vital-Settlement-Expanse]]` | Guidance
 > Choose or roll on possible settlements located on this planet. ^guidance-Settlement-Expanse
 
 | dice: 1d100 | Result |
-|:---:|:--- |
+| :---: | --- |
 | 1 - 80 | None |
 | 81 - 83 | Orbital settlement |
 | 84 - 93 | Planetside settlement |
@@ -79,11 +79,11 @@ Against all odds, life finds a way. Even in the emptiness of space, tiny pocket
 ^table-Settlement-Expanse
 
 ## Oracle: Vital  Observed From Space
-> [!mechanics]- | Roll > `dice: [[SF_CH5_Planet-Vital#^table-ObservedFromSpace]]` | Guidance
-> When first approaching a planet, envision at a board characteristic of the planet. ^guidance-ObservedFromSpace
+> [!mechanics]- | Roll > <br>▶1 `dice: [[OT_ISSF_Planets#^Vital-Observed-From-Space]]`<br>▶2 `dice: [[OT_ISSF_Planets#^Vital-Observed-From-Space]]` | Guidance
+> When first approaching a planet, envision at a board characteristic of the planet. ^guidance-Observed-From-Space
 
 | dice: 1d100 | Result @1-2 |
-|:---:|:--- |
+| :---: | --- |
 | 1 - 11 | Complex ring system |
 | 12 - 22 | Dramatic seasonal variation |
 | 23 - 33 | High gravity |
@@ -92,18 +92,18 @@ Against all odds, life finds a way. Even in the emptiness of space, tiny pocket
 | 56 - 66 | Numerous small moons |
 | 67 - 77 | Unusual day or night cycle |
 | 78 - 88 | Vibrantly colored landscapes |
-| 89 - 98 | ▶[[SF_CH5_Core_Descriptor-Focus#Oracle Descriptor\|Descriptor]] + [[SF_CH5_Core_Descriptor-Focus#Oracle Focus\|Focus]] |
+| 89 - 98 | ▶[[SF_CH5_Core_Descriptor-Focus#Oracle Descriptor\|Descriptor]] + ▶[[SF_CH5_Core_Descriptor-Focus#Oracle Focus\|Focus]] |
 | 99 - 100 | ▶[[SF_CH5_Vault-Exterior#Oracle Precursor Vault Outer First Look\|Precursor Vault (orbital)]] |
-^table-ObservedFromSpace
+^table-Observed-From-Space
 
 *318 CHAPTER 5: ORACLES*
 
 ## Oracle: Vital Diversity
-> [!mechanics]- | Roll > `dice: [[SF_CH5_Planet-Vital#^table-Diversity]]` | Guidance
+> [!mechanics]- | Roll > `dice: [[OT_ISSF_Planets#^Vital-Diversity]]` | Guidance
 > Based on the level of diversity for this world, roll that number of times on the biomes table on the [[SF_CH5_Planet-Vital#Oracle Biomes|Biomes Oracle]]. ^guidance-Diversity
 
 | dice: 1d100 | Result |
-|:---:|:--- |
+| :---: | --- |
 | 1 - 20 | Simple (two biomes) |
 | 21 - 70 | Diverse (three biomes) |
 | 71 - 90 | Complex (four biomes) |
@@ -111,12 +111,12 @@ Against all odds, life finds a way. Even in the emptiness of space, tiny pocket
 ^table-Diversity
 
 ## Oracle: Vital Biomes {Diversity}
-> [!mechanics]- | Roll > `dice: [[SF_CH5_Planet-Vital#^table-Biome]]` | Guidance
+> [!mechanics]- | Roll > `dice: [[OT_ISSF_Planets#^Vital-Biomes]]` | Guidance
 >  Generate the number of Biomes based on the results from the results on [[SF_CH5_Planet-Vital#Oracle Vital Diversity|Vital Diversity Oracle]]. ^guidance-Biomes
 
 | dice: 1d100 | Result |
-|:---:|:--- |
-| 1 - 5 Caves |
+| :---: | --- |
+| 1 - 5 | Caves |
 | 6 - 10 | Cold forest |
 | 11 - 15 | Fungal |
 | 16 - 20 | Glacial or snow |
@@ -139,11 +139,11 @@ Against all odds, life finds a way. Even in the emptiness of space, tiny pocket
 ^table-Biome
 
 ## Oracle: Vital  Planetside Feature
-> [!mechanics]- | Roll > `dice: [[SF_CH5_Planet-Vital#^table-PlanetsideFeature]]` | Guidance
-> To begin exploration on a planet, generate one or two dominate feature's. If your exploration is prolonged morph these features using the [[SF_CH5_Core_Descriptor-Focus#Oracle Descriptor|Descriptor]] and [[SF_CH5_Core_Descriptor-Focus#Oracle Focus|Focus]] oracles for prompts on variety. ^guidance-PlanetsideFeature
+> [!mechanics]- | Roll > <br>▶1 `dice: [[OT_ISSF_Planets#^Vital-Feature]]`<br>▶2 `dice: [[OT_ISSF_Planets#^Vital-Feature]]` | Guidance
+> To begin exploration on a planet, generate one or two dominate feature's. If your exploration is prolonged morph these features using the [[SF_CH5_Core_Descriptor-Focus#Oracle Descriptor|Descriptor]] and [[SF_CH5_Core_Descriptor-Focus#Oracle Focus|Focus]] oracles for prompts on variety. ^guidance-Feature
 
 | dice: 1d100 | Result @1-2 |
-|:---:|:--- |
+| :---: | --- |
 | 1 - 7 | Background radiation |
 | 8 - 14 | Chaotically juxtaposed biomes |
 | 15 - 21 | Creature boneyards |
@@ -157,16 +157,16 @@ Against all odds, life finds a way. Even in the emptiness of space, tiny pocket
 | 71 - 77 | Signs of an engineered biosphere |
 | 78 - 84 | Sudden weather fluctuations |
 | 85 - 91 | Towering geological formations |
-| 92 - 98 | ▶[[SF_CH5_Core_Descriptor-Focus#Oracle Descriptor\|Descriptor]] + [[SF_CH5_Core_Descriptor-Focus#Oracle Focus\|Focus]] |
+| 92 - 98 | ▶[[SF_CH5_Core_Descriptor-Focus#Oracle Descriptor\|Descriptor]] + ▶[[SF_CH5_Core_Descriptor-Focus#Oracle Focus\|Focus]] |
 | 99 - 100 | ▶[[SF_CH5_Vault-Exterior#Oracle Precursor Vault Outer First Look\|Precursor Vault (planetside)]] |
-^table-PlanetsideFeature
+^table-Feature
 
 ## Oracle: Vital Life
-> [!mechanics]- | Roll > `dice: [[SF_CH5_Planet-Vital#^table-Life]]` | Guidance
+> [!mechanics]- | Roll > `dice: [[OT_ISSF_Planets#^Vital-Life]]` | Guidance
 > The general state of life currently on this planet. There may be a hidden feature given enough exploration that could contradict this result. ^guidance-Life
 
 | dice: 1d100 | Result |
-|:---:|:--- |
+| :---: | --- |
 | 1 - 10 | Scarce |
 | 11 - 35 | Diverse |
 | 36 - 65 | Bountiful |
@@ -174,11 +174,11 @@ Against all odds, life finds a way. Even in the emptiness of space, tiny pocket
 ^table-Life
 
 ## Oracle: Vital Sample Names
-> [!mechanics]- | Roll > `dice: [[SF_CH5_Planet-Vital#^table-Names]]` | Guidance
+> [!mechanics]- | Roll > `dice: [[OT_ISSF_Planets#^Vital-Names]]` | Guidance
 > Sample names that are suited to this planet type. Feel free to mix and match or create your own. ^guidance-Names
 
 | dice: 1d100 | Result |
-|:---:|:--- |
+| :---: | --- |
 | 1 - 5 | Chiron |
 | 6 - 10 | Demeter |
 | 11 - 15 | Erebos |

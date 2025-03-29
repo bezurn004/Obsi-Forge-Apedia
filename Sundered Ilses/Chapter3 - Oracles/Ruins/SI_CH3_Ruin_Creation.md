@@ -26,7 +26,7 @@ See [[_SI_CH3_Ruin Oracles#SUMMARY EXPLORING A RUIN| page 215]] for guidance on 
 
 ## Oracle: Ruin Location
 > [!mechanics]- | Roll >  `dice: [[OT_ISSI_Ruins#^Location]]` | Guidance
-> When learning about a distant ruin, use this table to reveal its location. If you come upon a ruin in your travels, pick a location as appropriate to your surroundings. ^guidance-OclRuinLocation
+> When learning about a distant ruin, use this table to reveal its location. If you come upon a ruin in your travels, pick a location as appropriate to your surroundings. ^guidance-Location
 
 | Roll | Result | Description |
 | :---: | --- | --- |
@@ -34,12 +34,13 @@ See [[_SI_CH3_Ruin Oracles#SUMMARY EXPLORING A RUIN| page 215]] for guidance on 
 | 21 - 60 | **SHORE** | Where land meets the sea |
 | 61 - 90 | **INLAND** |  Away from the sea |
 | 91 - 100 | **BURIED** | Within cavernous depths |
+^table-Location
 
 *212 ORACLES*
 
 ## Oracle: Ruin Condition
 > [!mechanics]- | Roll > `dice: [[OT_ISSI_Ruins#^Condition]]` | Guidance
-> Text ^guidance-OclRuinCondition
+> Text ^guidance-Condition
 
 | Roll | Result | Details |
 | :---: | --- | --- |
@@ -51,10 +52,11 @@ See [[_SI_CH3_Ruin Oracles#SUMMARY EXPLORING A RUIN| page 215]] for guidance on 
 | 81 - 90 | Whole | Standing the test of time |
 | 91 - 95 | Well-preserved | In remarkable condition |
 | 96 - 100 | Rebuilding | In the process or restoration |
+^table-Condition
 
 ## Oracle: Ruin Scope
 > [!mechanics]- | Roll > `dice: [[OT_ISSI_Ruins#^Scope]]` | Guidance
-> Text ^guidance-OclRuinScope
+> Text ^guidance-Scope
 
 | dice: 1d100 | Result |
 | :---: | --- |
@@ -66,11 +68,11 @@ See [[_SI_CH3_Ruin Oracles#SUMMARY EXPLORING A RUIN| page 215]] for guidance on 
 | 61 - 80 | Sizable sprawl of structures |
 | 81 - 95 | Colossal structure |
 | 96 - 100 | Vast sprawl of structures |
-^table-OclRuinScope
+^table-Scope
 
 ## Oracle: Ruin First Look
-> [!mechanics]- | Roll > ▶1 `dice: [[OT_ISSI_Ruins#^First-Look]]`<br>▶2 `dice: [[OT_ISSI_Ruins#^First-Look]]` | Guidance
-> Text ^guidance-OclRuinFirstLook
+> [!mechanics]- | Roll ><br> ▶1 `dice: [[OT_ISSI_Ruins#^First-Look]]`<br>▶2 `dice: [[OT_ISSI_Ruins#^First-Look]]` | Guidance
+> Text ^guidance-First-Look
 
 | dice: 1d100 | Result @1-2 [skull] _[[#Oracle Cursed Ruin First Look\|below]]_ |
 | :---: | --- |
@@ -116,11 +118,11 @@ See [[_SI_CH3_Ruin Oracles#SUMMARY EXPLORING A RUIN| page 215]] for guidance on 
 | 91 - 92 | Surrounded by destruction |
 | 93 - 95 | Surrounded by rugged or dense terrain |
 | 96 - 100 | ▶[[SI_CH3_Core_Descriptor Focus#DESCRIPTOR\|Descriptor]] + ▶[[SI_CH3_Core_Descriptor Focus#FOCUS\|Focus]]; _pg 118-119_ |
-^table-OclRuinFirstLook
+^table-First-Look
 
 ## Oracle: Cursed Ruin First Look
 > [!mechanics]- | Roll > `dice: [[OT_ISSI_Ruins#^Cursed-First-Look]]` | Guidance
-> Text ^guidance-OclRuinCursedFirstLook
+> Text ^guidance-Cursed-First-Look
 
 | dice: 1d100 | Result |
 | :---: | --- |
@@ -154,7 +156,7 @@ See [[_SI_CH3_Ruin Oracles#SUMMARY EXPLORING A RUIN| page 215]] for guidance on 
 | 90 - 93 | Warded by arcane energies |
 | 94 - 96 | Wreathed in cold and ice |
 | 97 - 100 | ▶[[SI_CH3_Weather Oracles#Oracle Cursed Weather\|Cursed Weather]]; _pg 130_ |
-^table-OclRuinCursedFirstLook
+^table-Cursed-First-Look
 
 *214 ORACLES*
 

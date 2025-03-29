@@ -27,7 +27,7 @@ Text
 
 ## Oracle: Ruin Mystery
 > [!mechanics]- | Roll > [skull] `dice: [[SI_CH3_The Cursed Die#^table-Cursed]]`<br>▶1 `dice: [[OT_ISSI_Ruins#^Mystery]]`<br>▶2 `dice: [[OT_ISSI_Ruins#^Mystery]]` | Guidance
-> Text ^guidance-OclRuinMystery
+> Text ^guidance-Mystery
 
 | Roll | Result | Details @1-2 [skull] _[[#Oracle Cursed Ruin Mystery\|below]]_ |
 | :---: | --- | --- |
@@ -41,10 +41,11 @@ Text
 | 71 - 80 | Personal heritage | What connection does this place have to your culture or calling? |
 | 81 - 90 | Unfulfilled promise | What forsaken vow or lost destiny hangs heavy over this place? |
 | 91 - 100 | Unusual purpose | What unexpected function did this site serve? |
+^table-Mystery
 
 ## Oracle: Cursed Ruin Mystery
 > [!mechanics]- | Roll > `dice: [[OT_ISSI_Ruins#^Cursed-Mystery]]` | Guidance
-> Text ^guidance-OclCursedRuinMystery
+> Text ^guidance-Cursed-Mystery
 
 | Roll | Result | Details |
 | :---: | --- | --- |
@@ -58,10 +59,11 @@ Text
 | 71 - 80 | Mystic gateway | What otherworldly realm does this place connect to? |
 | 81 - 90 | Sorcerous nexus | What dangerous arcane powers are harnessed here? |
 | 91 - 100 | Tormented undead | What is the key to putting these souls to rest? |
+^table-Cursed-Mystery
 
 ## Oracle: Ruin Cipher
 > [!mechanics]- | Roll > [skull] `dice: [[SI_CH3_The Cursed Die#^table-Cursed]]` `dice: [[OT_ISSI_Ruins#^Cipher]]` | Guidance
-> Text ^guidance-OclRuinCipher
+> Text ^guidance-Cipher
 
 | dice: 1d100 | Result [skull] _[[#Oracle Cursed Ruin Cipher\|adjacent]]_ |
 | :---: | --- |
@@ -75,11 +77,11 @@ Text
 | 71 - 80 | Remains of the dead |
 | 81 - 90 | Signs of other explorers or guardians |
 | 91 - 100 | Unusual architecture |
-^table-OclRuinCipher
+^table-Cipher
 
 ## Oracle: Cursed Ruin Cipher
 > [!mechanics]- | Roll > `dice: [[OT_ISSI_Ruins#^Cursed-Cipher]]` | Guidance
-> Text ^guidance-OclCursedRuinCipher
+> Text ^guidance-Cursed-Cipher
 
 | dice: 1d100 | Result |
 | :---: | --- |
@@ -93,13 +95,13 @@ Text
 | 71 - 80 | Sorcerous enchantment or artifact |
 | 81 - 90 | Spectral visitation or warning |
 | 91 - 100 | Warning from a dead or dying explorer |
-^table-OclCursedRuinCipher
+^table-Cursed-Cipher
 
 *216 ORACLES*
 
 ## Oracle: Ruin Feature
 > [!mechanics]- | Roll > [skull] `dice: [[SI_CH3_The Cursed Die#^table-Cursed]]`<br>▶1 `dice: [[OT_ISSI_Ruins#^Feature]]`<br>▶2 `dice: [[OT_ISSI_Ruins#^Feature]]` | Guidance
-> Text ^guidance-OclRuinFeature
+> Text ^guidance-Feature
 
 | dice: 1d100 | Result @1-2 [skull] _[[#Oracle Cursed Ruin First Look\|pg 218]]_ |
 | :---: | --- |
@@ -199,13 +201,13 @@ Text
 | 94 | Corpse clutching a ▶[[SI_CH3_Treasure Details#Oracle Tokens]]; _pg 223_ |
 | 95 | Broken wall reveals a ▶[[SI_CH3_Cave_Creation\|Cave]]; _pg 204_ |
 | 96 - 100 | ▶[[SI_CH3_Core_Descriptor Focus#DESCRIPTOR\|Descriptor]] + ▶[[SI_CH3_Core_Descriptor Focus#FOCUS\|Focus]]; _pg 118-119_ |
-^table-OclRuinFeature
+^table-Feature
 
 *217 RUIN ORACLES*
 
 ## Oracle: Cursed Ruin Feature
 > [!mechanics]- | Roll > `dice: [[OT_ISSI_Ruins#^Cursed-Feature]]` | Guidance
-> Text ^guidance-OclCursedRuinFirstLook
+> Text ^guidance-Cursed-Feature
 
 | dice: 1d100 | Result |
 | :---: | --- |
@@ -259,7 +261,7 @@ Text
 | 95 - 96 | Unnaturally aggressive creatures |
 | 97 - 98 | Unnaturally thick webbing |
 | 99 - 100 | Unnerving sensation of being watched |
-^table-OclCursedRuinFeature
+^table-Cursed-Feature
 
 *218 ORACLES*
 

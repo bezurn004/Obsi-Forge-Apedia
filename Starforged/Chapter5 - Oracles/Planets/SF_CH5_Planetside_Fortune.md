@@ -24,8 +24,8 @@ OracleDescriptor: "Planetside Fortunes are the **Perils** and **Opportunities** 
 Planetside Fortunes are the **Perils** and **Opportunities** help envision the nature of an unexpected event when exploring planets in the Forge.
 
 ## Oracle: Planet Peril - Lifeless
-> [!mechanics]- | Roll > `dice: [[SF_CH5_Planetside_Fortune#^table-PlanetsidePeril-Lifeless]]` | Guidance
-> ![[GSRY_Definitions#^gsry-OclSite-Peril]] ^guidance-PlanetsidePeril-Lifeless
+> [!mechanics]- | Roll > `dice: [[OT_ISSF_Planets#^Peril-Lifeless]]` | Guidance
+> ![[GSRY_Definitions#^gsry-OclSite-Peril]] ^guidance-Peril-Lifeless
 
 | dice: 1d100 | Result |
 | :---: | --- |
@@ -53,13 +53,13 @@ Planetside Fortunes are the **Perils** and **Opportunities** help envision the n
 | 84 - 87 | Visibility hindered by atmospheric effects |
 | 88 - 91 | Worrying arrival of a ship or vehicle |
 | 92 - 95 | Wreckage or ruins portend a new threat |
-| 96 - 99 | ▶[[SF_CH5_Core_Action-Theme#Oracle Action\|Action]] + [[SF_CH5_Core_Action-Theme#Oracle Theme\|Theme]] |
+| 96 - 99 | ▶[[SF_CH5_Core_Action-Theme#Oracle Action\|Action]] + ▶[[SF_CH5_Core_Action-Theme#Oracle Theme\|Theme]] |
 | 100 | Roll Twice |
-^table-PlanetsidePeril-Lifeless
+^table-Peril-Lifeless
 
 ## Oracle: Planet Peril - Lifebearing
-> [!mechanics]- | Roll > `dice: [[SF_CH5_Planetside_Fortune#^table-PlanetsidePeril-Lifebearing]]` | Guidance
-> ![[GSRY_Definitions#^gsry-OclSite-Peril]] ^guidance-PlanetsidePeril-Lifebearing
+> [!mechanics]- | Roll > `dice: [[OT_ISSF_Planets#^Peril-Lifebearing]]` | Guidance
+> ![[GSRY_Definitions#^gsry-OclSite-Peril]] ^guidance-Peril-Lifebearing
 
 | dice: 1d100 | Result |
 | :---: | --- |
@@ -95,15 +95,15 @@ Planetside Fortunes are the **Perils** and **Opportunities** help envision the n
 | 88 - 90 | Visibility hindered by atmospheric effects |
 | 91 - 93 | Worrying arrival of a ship or vehicle |
 | 94 - 96 | Wreckage or ruins portend a new threat |
-| 97 - 99 | ▶[[SF_CH5_Core_Action-Theme#Oracle Action\|Action]] + [[SF_CH5_Core_Action-Theme#Oracle Theme\|Theme]] |
+| 97 - 99 | ▶[[SF_CH5_Core_Action-Theme#Oracle Action\|Action]] + ▶[[SF_CH5_Core_Action-Theme#Oracle Theme\|Theme]] |
 | 100 | Roll Twice |
-^table-PlanetsidePeril-Lifebearing
+^table-Peril-Lifebearing
 
 *320 CHAPTER 5: ORACLES*
 
 ## Oracle: Planet Opportunity - Lifeless
-> [!mechanics]- | Roll > `dice: [[SF_CH5_Planetside_Fortune#^table-PlanetsideOpportunity-Lifeless]]` | Guidance
-> ![[GSRY_Definitions#^gsry-OclSite-Opportunity]] ^guidance-PlanetsideOpportunity-Lifeless
+> [!mechanics]- | Roll > `dice: [[OT_ISSF_Planets#^Opportunity-Lifeless]]` | Guidance
+> ![[GSRY_Definitions#^gsry-OclSite-Opportunity]] ^guidance-Opportunity-Lifeless
 
 | dice: 1d100 | Result |
 | :---: | --- |
@@ -128,11 +128,11 @@ Planetside Fortunes are the **Perils** and **Opportunities** help envision the n
 | 86 - 90 | Plea for help from a potential benefactor |
 | 91 - 95 | Refuge offers a place to hide, plan, or recover |
 | 96 - 100 | Vantage point reveals the lay of the land |
-^table-PlanetsideOpportunity-Lifeless
+^table-Opportunity-Lifeless
 
 ## Oracle: Planet Opportunity - Lifebearing
-> [!mechanics]- | Roll > `dice: [[SF_CH5_Planetside_Fortune#^table-PlanetsideOpportunity-Lifebearing]]` | Guidance
-> ![[GSRY_Definitions#^gsry-OclSite-Opportunity]] ^guidance-PlanetsideOpportunity-Lifebearing
+> [!mechanics]- | Roll > `dice: [[OT_ISSF_Planets#^Opportunity-Lifebearing]]` | Guidance
+> ![[GSRY_Definitions#^gsry-OclSite-Opportunity]] ^guidance-Opportunity-Lifebearing
 
 | dice: 1d100 | Result |
 | :---: | --- |
@@ -160,7 +160,7 @@ Planetside Fortunes are the **Perils** and **Opportunities** help envision the n
 | 89 - 92 | Plea for help from a potential benefactor |
 | 93 - 96 | Refuge offers a place to hide, plan, or recover |
 | 97 - 100 | Vantage point reveals the lay of the land |
-^table-PlanetsideOpportunity-Lifebearing
+^table-Opportunity-Lifebearing
 
 *321 PLANETS*
 

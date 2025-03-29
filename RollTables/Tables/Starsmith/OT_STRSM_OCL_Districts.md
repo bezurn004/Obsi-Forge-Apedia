@@ -1,24 +1,22 @@
-# Districts
-
-## Zones
+# Zones
 
 | dice: 1d100 | Result |
-|:---:|:--- |
-| 1 - 20 | ▶[[STRSM_OCL_District-Zone-Community\|Community]] Area: `dice: [[OT_STRSM_OCL_Districts#^Community-Area]]` <br>▶D+F `dice: [[OT_STRSM_OCL_Core^Core-Descriptor]]` + `dice: [[OT_STRSM_OCL_Core^Core-Focus]]` |
-| 21 - 30 | ▶[[STRSM_OCL_District-Zone-Engineering\|Engineering]] Area: `dice: [[OT_STRSM_OCL_Districts#^Engineering-Area]]` <br>▶D+F `dice: [[OT_STRSM_OCL_Core^Core-Descriptor]]` + `dice: [[OT_STRSM_OCL_Core^Core-Focus]]` |
-| 31 - 55 | ▶[[STRSM_OCL_District-Zone-Living\|Living]] Area: `dice: [[OT_STRSM_OCL_Districts#^Living-Area]]` <br>▶D+F `dice: [[OT_STRSM_OCL_Core^Core-Descriptor]]` + `dice: [[OT_STRSM_OCL_Core^Core-Focus]]` |
-| 56 - 65 | ▶[[STRSM_OCL_District-Zone-Medical\|Medical]] Area: `dice: [[OT_STRSM_OCL_Districts#^Medical-Area]]` <br>▶D+F `dice: [[OT_STRSM_OCL_Core^Core-Descriptor]]` + `dice: [[OT_STRSM_OCL_Core^Core-Focus]]` |
-| 66 - 75 | ▶[[STRSM_OCL_District-Zone-Operations\|Operations]] Area: `dice: [[OT_STRSM_OCL_Districts#^Operations-Area]]` <br>▶D+F `dice: [[OT_STRSM_OCL_Core^Core-Descriptor]]` + `dice: [[OT_STRSM_OCL_Core^Core-Focus]]` |
-| 76 - 90 | ▶[[STRSM_OCL_District-Zone-Production\|Production]] Area: `dice: [[OT_STRSM_OCL_Districts#^Production-Area]]` <br>▶D+F `dice: [[OT_STRSM_OCL_Core^Core-Descriptor]]` + `dice: [[OT_STRSM_OCL_Core^Core-Focus]]` |
-| 91 - 100 | ▶[[STRSM_OCL_District-Zone-Research\|Research]] Area: `dice: [[OT_STRSM_OCL_Districts#^Research-Area]]` <br>▶D+F `dice: [[OT_STRSM_OCL_Core^Core-Descriptor]]` + `dice: [[OT_STRSM_OCL_Core^Core-Focus]]` |
-^District-Zones
+| :---: | --- |
+| 1 - 20 | ▶[[OT_STRSM_OCL_Districts#Community\|Community]] Area: `dice: [[OT_STRSM_OCL_Districts#^Community-Area]]` |
+| 21 - 30 | ▶[[OT_STRSM_OCL_Districts#Engineering\|Engineering]] Area: `dice: [[OT_STRSM_OCL_Districts#^Engineering-Area]]` |
+| 31 - 55 | ▶[[OT_STRSM_OCL_Districts#Living\|Living]] Area: `dice: [[OT_STRSM_OCL_Districts#^Living-Area]]` |
+| 56 - 65 | ▶[[OT_STRSM_OCL_Districts#Medical\|Medical]] Area: `dice: [[OT_STRSM_OCL_Districts#^Medical-Area]]` |
+| 66 - 75 | ▶[[OT_STRSM_OCL_Districts#Operations\|Operations]] Area: `dice: [[OT_STRSM_OCL_Districts#^Operations-Area]]` |
+| 76 - 90 | ▶[[OT_STRSM_OCL_Districts#Production\|Production]] Area: `dice: [[OT_STRSM_OCL_Districts#^Production-Area]]` |
+| 91 - 100 | ▶[[OT_STRSM_OCL_Districts#Research\|Research]] Area: `dice: [[OT_STRSM_OCL_Districts#^Research-Area]]` |
+^Zones
 
 ## Access
 
 ### Area
 
 | dice: 1d100 | Result |
-|:----:|:-------|
+| :---: | --- |
 | 1 - 20 | Corridor or walkway |
 | 21 - 40 | Roadway or back alley |
 | 41 - 50 | Hub or intersection |
@@ -36,7 +34,7 @@
 ### Feature
 
 | dice: 1d100 | Result |
-|:----:|:-------|
+| :---: | --- |
 | 1 - 8 | Bright street lights |
 | 9 - 16 | Congested traffic |
 | 17 - 24 | Crowded spaces |
@@ -48,13 +46,13 @@
 | 65 - 72 | Transit map |
 | 73 - 80 | Twists and turns |
 | 81 - 88 | Windows or viewports |
-| 89 - 100 | ▶D+F `dice: [[OT_STRSM_OCL_Core^Core-Descriptor]]` + `dice: [[OT_STRSM_OCL_Core^Core-Focus]]` |
+| 89 - 100 | ▶[[OT_STRSM_OCL_Core#Descriptor\|D]] `dice: [[OT_STRSM_OCL_Core#^Descriptor]]` + ▶[[OT_STRSM_OCL_Core#Focus\|F]] `dice: [[OT_STRSM_OCL_Core#^Focus]]` |
 ^Access-Feature
 
 ### Opportunity
 
 | dice: 1d100 | Result |
-|:----:|:-------|
+| :---: | --- |
 | 1 - 20 | Directions, shortcut, or alternate path |
 | 21 - 40 | Guide for hire |
 | 41 - 60 | Opening to outmaneuver or escape a threat or foe |
@@ -65,7 +63,7 @@
 ### Peril
 
 | dice: 1d100 | Result |
-|:----:|:-------|
+| :---: | --- |
 | 1 - 10 | Alarm or failsafe triggered |
 | 11 - 20 | Automated system failure |
 | 21 - 30 | Being followed |
@@ -75,7 +73,7 @@
 | 61 - 70 | Lost or pickpocketed item |
 | 71 - 80 | Took the wrong turn |
 | 81 - 90 | Unsettling sound or disturbance |
-| 91 - 98 | ▶A+T `dice: [[OT_STRSM_OCL_Core^Core-Action]]` + `dice: [[OT_STRSM_OCL_Core^Core-Theme]]` |
+| 91 - 98 | ▶[[OT_STRSM_OCL_Core#Action\|A]] `dice: [[OT_STRSM_OCL_Core#^Action]]` + ▶[[OT_STRSM_OCL_Core#Theme\|T]] `dice: [[OT_STRSM_OCL_Core#^Theme]]` |
 | 99 - 100 | ▶R2 `dice: [[OT_STRSM_OCL_Districts#^Access-Peril]]` + `dice: [[OT_STRSM_OCL_Districts#^Access-Peril]]` |
 ^Access-Peril
 
@@ -84,7 +82,7 @@
 ### Area
 
 | dice: 1d100 | Result |
-|:----:|:-------|
+| :---: | --- |
 | 1 - 8 | Bar or club |
 | 9 - 16 | Classroom or education |
 | 17 - 24 | Entertainment |
@@ -96,13 +94,13 @@
 | 65 - 72 | Specialty shop |
 | 73 - 80 | Tech shop |
 | 81 - 88 | Temple or chapel |
-| 89 - 100 | New zone via ▶Access |
+| 89 - 100 | New zone via ▶[[OT_STRSM_OCL_Districts#Access\|Access]] `dice: [[OT_STRSM_OCL_Districts#^Access-Area]]` |
 ^Community-Area
 
 ### Feature
 
 | dice: 1d100 | Result |
-|:----:|:-------|
+| :---: | --- |
 | 1 - 8 | Community event |
 | 9 - 16 | Flashing wanted signs |
 | 17 - 24 | Graffiti of secret symbols |
@@ -114,13 +112,13 @@
 | 65 - 72 | Ongoing construction |
 | 73 - 80 | Political rally or protest |
 | 81 - 88 | Significant ceremony |
-| 89 - 100 | ▶D+F `dice: [[OT_STRSM_OCL_Core^Core-Descriptor]]` + `dice: [[OT_STRSM_OCL_Core^Core-Focus]]` |
+| 89 - 100 | ▶[[OT_STRSM_OCL_Core#Descriptor\|D]] `dice: [[OT_STRSM_OCL_Core#^Descriptor]]` + ▶[[OT_STRSM_OCL_Core#Focus\|F]] `dice: [[OT_STRSM_OCL_Core#^Focus]]` |
 ^Community-Feature
 
 ### Opportunity
 
 | dice: 1d100 | Result |
-|:----:|:-------|
+| :---: | --- |
 | 1 - 20 | Available goods or resources |
 | 21 - 40 | Fortuitous gossip |
 | 41 - 60 | Terminal with access to site details |
@@ -131,7 +129,7 @@
 ### Peril
 
 | dice: 1d100 | Result |
-|:----:|:-------|
+| :---: | --- |
 | 1 - 10 | Child lost in the crowd |
 | 11 - 20 | Goons extorting a business |
 | 21 - 30 | Lockdown or quarantine instituted |
@@ -141,7 +139,7 @@
 | 61 - 70 | Security or structural malfunction |
 | 71 - 80 | Tech dampeners hinder / harm equipment |
 | 81 - 90 | Temptation towards a vice |
-| 91 - 98 | ▶A+T `dice: [[OT_STRSM_OCL_Core^Core-Action]]` + `dice: [[OT_STRSM_OCL_Core^Core-Theme]]` |
+| 91 - 98 | ▶[[OT_STRSM_OCL_Core#Action\|A]] `dice: [[OT_STRSM_OCL_Core#^Action]]` + ▶[[OT_STRSM_OCL_Core#Theme\|T]] `dice: [[OT_STRSM_OCL_Core#^Theme]]` |
 | 99 - 100 | ▶R2 `dice: [[OT_STRSM_OCL_Districts#^Community-Peril]]` + `dice: [[OT_STRSM_OCL_Districts#^Community-Peril]]` |
 ^Community-Peril
 
@@ -150,7 +148,7 @@
 ### Area
 
 | dice: 1d100 | Result |
-|:----:|:-------|
+| :---: | --- |
 | 1 - 8 | Control room |
 | 9 - 16 | Engine room / power core |
 | 17 - 24 | Engineering offices |
@@ -162,13 +160,13 @@
 | 65 - 72 | Vehicle bay or garage |
 | 73 - 80 | Water processing |
 | 81 - 88 | Workshop |
-| 89 - 100 | New zone via ▶Access |
+| 89 - 100 | New zone via ▶[[OT_STRSM_OCL_Districts#Access\|Access]] `dice: [[OT_STRSM_OCL_Districts#^Access-Area]]` |
 ^Engineering-Area
 
 ### Feature
 
 | dice: 1d100 | Result |
-|:----:|:-------|
+| :---: | --- |
 | 1 - 8 | Containers of fluid or fuel |
 | 9 - 16 | Control terminal |
 | 17 - 24 | Crane or lift |
@@ -180,13 +178,13 @@
 | 65 - 72 | Unusual equipment |
 | 73 - 80 | Upgrade in progress |
 | 81 - 88 | Utility bots |
-| 89 - 100 | ▶D+F `dice: [[OT_STRSM_OCL_Core^Core-Descriptor]]` + `dice: [[OT_STRSM_OCL_Core^Core-Focus]]` |
+| 89 - 100 | ▶[[OT_STRSM_OCL_Core#Descriptor\|D]] `dice: [[OT_STRSM_OCL_Core#^Descriptor]]` + ▶[[OT_STRSM_OCL_Core#Focus\|F]] `dice: [[OT_STRSM_OCL_Core#^Focus]]` |
 ^Engineering-Feature
 
 ### Opportunity
 
 | dice: 1d100 | Result |
-|:----:|:-------|
+| :---: | --- |
 | 1 - 20 | Access granted to advanced or experimental equipment |
 | 21 - 40 | Access to a specialized tool or device |
 | 41 - 60 | Expert engineer willing to talk shop |
@@ -197,7 +195,7 @@
 ### Peril
 
 | dice: 1d100 | Result |
-|:----:|:-------|
+| :---: | --- |
 | 1 - 10 | Corrosive leak |
 | 11 - 20 | Environmental controls gone haywire |
 | 21 - 30 | Erratic utility bots |
@@ -207,7 +205,7 @@
 | 61 - 70 | Power core failing |
 | 71 - 80 | Radioactive hotspot |
 | 81 - 90 | Worksite accident |
-| 91 - 98 | ▶A+T `dice: [[OT_STRSM_OCL_Core^Core-Action]]` + `dice: [[OT_STRSM_OCL_Core^Core-Theme]]` |
+| 91 - 98 | ▶[[OT_STRSM_OCL_Core#Action\|A]] `dice: [[OT_STRSM_OCL_Core#^Action]]` + ▶[[OT_STRSM_OCL_Core#Theme\|T]] `dice: [[OT_STRSM_OCL_Core#^Theme]]` |
 | 99 - 100 | ▶R2 `dice: [[OT_STRSM_OCL_Districts#^Engineering-Peril]]` + `dice: [[OT_STRSM_OCL_Districts#^Engineering-Peril]]` |
 ^Engineering-Peril
 
@@ -216,7 +214,7 @@
 ### Area
 
 | dice: 1d100 | Result |
-|:----:|:-------|
+| :---: | --- |
 | 1 - 8 | Communal quarters |
 | 9 - 16 | Cramped apartments |
 | 17 - 24 | Family quarters |
@@ -228,13 +226,13 @@
 | 65 - 72 | Roomy residences |
 | 73 - 80 | Tent city |
 | 81 - 88 | Waste disposal |
-| 89 - 100 | New zone via ▶Access |
+| 89 - 100 | New zone via ▶[[OT_STRSM_OCL_Districts#Access\|Access]] `dice: [[OT_STRSM_OCL_Districts#^Access-Area]]` |
 ^Living-Area
 
 ### Feature
 
 | dice: 1d100 | Result |
-|:----:|:-------|
+| :---: | --- |
 | 1 - 8 | Abandoned pet |
 | 9 - 16 | Bio - locked doorways |
 | 17 - 24 | Bulletin board of messages |
@@ -246,13 +244,13 @@
 | 65 - 72 | Security patrol |
 | 73 - 80 | Unusual art |
 | 81 - 88 | Work shift change over |
-| 89 - 100 | ▶D+F `dice: [[OT_STRSM_OCL_Core^Core-Descriptor]]` + `dice: [[OT_STRSM_OCL_Core^Core-Focus]]` |
+| 89 - 100 | ▶[[OT_STRSM_OCL_Core#Descriptor\|D]] `dice: [[OT_STRSM_OCL_Core#^Descriptor]]` + ▶[[OT_STRSM_OCL_Core#Focus\|F]] `dice: [[OT_STRSM_OCL_Core#^Focus]]` |
 ^Living-Feature
 
 ### Opportunity
 
 | dice: 1d100 | Result |
-|:----:|:-------|
+| :---: | --- |
 | 1 - 20 | Eager youth willing to help |
 | 21 - 40 | Elderly wisdom passed on |
 | 41 - 60 | Hidden stash of valuable contraband |
@@ -263,7 +261,7 @@
 ### Peril
 
 | dice: 1d100 | Result |
-|:----:|:-------|
+| :---: | --- |
 | 1 - 10 | Contaminated water supply |
 | 11 - 20 | Domestic dispute |
 | 21 - 30 | Exploitative living conditions |
@@ -273,7 +271,7 @@
 | 61 - 70 | Nosy neighbor draws unwanted attention |
 | 71 - 80 | Parent looking for a lost child |
 | 81 - 90 | Shunned as an outsider |
-| 91 - 98 | ▶A+T `dice: [[OT_STRSM_OCL_Core^Core-Action]]` + `dice: [[OT_STRSM_OCL_Core^Core-Theme]]` |
+| 91 - 98 | ▶[[OT_STRSM_OCL_Core#Action\|A]] `dice: [[OT_STRSM_OCL_Core#^Action]]` + ▶[[OT_STRSM_OCL_Core#Theme\|T]] `dice: [[OT_STRSM_OCL_Core#^Theme]]` |
 | 99 - 100 | ▶R2 `dice: [[OT_STRSM_OCL_Districts#^Living-Peril]]` +  `dice: [[OT_STRSM_OCL_Districts#^Living-Peril]]` |
 ^Living-Peril
 
@@ -282,7 +280,7 @@
 ### Area
 
 | dice: 1d100 | Result |
-|:----:|:-------|
+| :---: | --- |
 | 1 - 8 | Crematorium / morgue |
 | 9 - 16 | Emergency response unit |
 | 17 - 24 | Hospital |
@@ -294,13 +292,13 @@
 | 65 - 72 | Surgical suite |
 | 73 - 80 | Urgent care or triage |
 | 81 - 88 | Therapy ward or clinic |
-| 89 - 100 | New zone via ▶Access |
+| 89 - 100 | New zone via ▶[[OT_STRSM_OCL_Districts#Access\|Access]] `dice: [[OT_STRSM_OCL_Districts#^Access-Area]]` |
 ^Medical-Area
 
 ### Feature
 
 | dice: 1d100 | Result |
-|:----:|:-------|
+| :---: | --- |
 | 1 - 8 | Decontamination checkpoint |
 | 9 - 16 | Emergency landing site |
 | 17 - 24 | Family visiting patients |
@@ -312,13 +310,13 @@
 | 65 - 72 | Medical vehicle |
 | 73 - 80 | Patients in line |
 | 81 - 88 | Sirens and flashing lights |
-| 89 - 100 | ▶D+F `dice: [[OT_STRSM_OCL_Core^Core-Descriptor]]` + `dice: [[OT_STRSM_OCL_Core^Core-Focus]]` |
+| 89 - 100 | ▶[[OT_STRSM_OCL_Core#Descriptor\|D]] `dice: [[OT_STRSM_OCL_Core#^Descriptor]]` + ▶[[OT_STRSM_OCL_Core#Focus\|F]] `dice: [[OT_STRSM_OCL_Core#^Focus]]` |
 ^Medical-Feature
 
 ### Opportunity
 
 | dice: 1d100 | Result |
-|:----:|:-------|
+| :---: | --- |
 | 1 - 20 | Access to quality medical care |
 | 21 - 40 | Access to rare specimen or data |
 | 41 - 60 | Chance to prove your character |
@@ -329,7 +327,7 @@
 ### Peril
 
 | dice: 1d100 | Result |
-|:----:|:-------|
+| :---: | --- |
 | 1 - 10 | Biohazardous material |
 | 11 - 20 | Evidence of malpractice |
 | 21 - 30 | Falsely marked as a patient |
@@ -339,7 +337,7 @@
 | 61 - 70 | Threat targets the most vulnerable |
 | 71 - 80 | Traumatizing flashback |
 | 81 - 90 | Victims of a tragic accident |
-| 91 - 98 | ▶A+T `dice: [[OT_STRSM_OCL_Core^Core-Action]]` + `dice: [[OT_STRSM_OCL_Core^Core-Theme]]` |
+| 91 - 98 | ▶[[OT_STRSM_OCL_Core#Action\|A]] `dice: [[OT_STRSM_OCL_Core#^Action]]` + ▶[[OT_STRSM_OCL_Core#Theme\|T]] `dice: [[OT_STRSM_OCL_Core#^Theme]]` |
 | 99 - 100 | ▶R2 `dice: [[OT_STRSM_OCL_Districts#^Medical-Peril]]` + `dice: [[OT_STRSM_OCL_Districts#^Medical-Peril]]` |
 ^Medical-Peril
 
@@ -348,7 +346,7 @@
 ### Area
 
 | dice: 1d100 | Result |
-|:----:|:-------|
+| :---: | --- |
 | 1 - 8 | Administrative offices |
 | 9 - 16 | Armory |
 | 17 - 24 | Central computer core |
@@ -360,13 +358,13 @@
 | 65 - 72 | Mass transit hub |
 | 73 - 80 | Prison complex |
 | 81 - 88 | Security headquarters |
-| 89 - 100 | New zone via ▶Access |
+| 89 - 100 | New zone via ▶[[OT_STRSM_OCL_Districts#Access\|Access]] `dice: [[OT_STRSM_OCL_Districts#^Access-Area]]` |
 ^Operations-Area
 
 ### Feature
 
 | dice: 1d100 | Result |
-|:----:|:-------|
+| :---: | --- |
 | 1 - 8 | Automated warning |
 | 9 - 16 | Control terminal |
 | 17 - 24 | EV suit storage |
@@ -378,13 +376,13 @@
 | 65 - 72 | Sophisticated sensors |
 | 73 - 80 | Symbolic statue or art |
 | 81 - 88 | Video surveillance monitors |
-| 89 - 100 | ▶D+F `dice: [[OT_STRSM_OCL_Core^Core-Descriptor]]` + `dice: [[OT_STRSM_OCL_Core^Core-Focus]]` |
+| 89 - 100 | ▶[[OT_STRSM_OCL_Core#Descriptor\|D]] `dice: [[OT_STRSM_OCL_Core#^Descriptor]]` + ▶[[OT_STRSM_OCL_Core#Focus\|F]] `dice: [[OT_STRSM_OCL_Core#^Focus]]` |
 ^Operations-Feature
 
 ### Opportunity
 
 | dice: 1d100 | Result |
-|:----:|:-------|
+| :---: | --- |
 | 1 - 20 | Access granted to helpful area |
 | 21 - 40 | Beneficial surveillance footage |
 | 41 - 60 | Investigator seeking collaboration |
@@ -395,7 +393,7 @@
 ### Peril
 
 | dice: 1d100 | Result |
-|:----:|:-------|
+| :---: | --- |
 | 1 - 10 | Broken procedures cause red tape |
 | 11 - 20 | Coded message or puzzling security device |
 | 21 - 30 | Displays reveal a new threat elsewhere in this site |
@@ -405,7 +403,7 @@
 | 61 - 70 | Inadvertently created rival |
 | 71 - 80 | Sensors indicate the arrival of an external threat |
 | 81 - 90 | Targeted by law enforcement |
-| 91 - 98 | ▶A+T `dice: [[OT_STRSM_OCL_Core^Core-Action]]` + `dice: [[OT_STRSM_OCL_Core^Core-Theme]]` |
+| 91 - 98 | ▶[[OT_STRSM_OCL_Core#Action\|A]] `dice: [[OT_STRSM_OCL_Core#^Action]]` + ▶[[OT_STRSM_OCL_Core#Theme\|T]] `dice: [[OT_STRSM_OCL_Core#^Theme]]` |
 | 99 - 100 | ▶R2 `dice: [[OT_STRSM_OCL_Districts#^Operations-Peril]]` + `dice: [[OT_STRSM_OCL_Districts#^Operations-Peril]]` |
 ^Operations-Peril
 
@@ -413,7 +411,7 @@
 
 ### Area
 | dice: 1d100 | Result |
-|:----:|:-------|
+| :---: | --- |
 | 1 - 8 | Agricultural center |
 | 9 - 16 | Automated factory |
 | 17 - 24 | Construction company |
@@ -425,13 +423,13 @@
 | 65 - 72 | Shipping hub |
 | 73 - 80 | Shipyard |
 | 81 - 88 | Warehouse |
-| 89 - 100 | New zone via ▶Access |
+| 89 - 100 | New zone via ▶[[OT_STRSM_OCL_Districts#Access\|Access]] `dice: [[OT_STRSM_OCL_Districts#^Access-Area]]` |
 ^Production-Area
 
 ### Feature
 
 | dice: 1d100 | Result |
-|:----:|:-------|
+| :---: | --- |
 | 1 - 8 | Cargo lifts |
 | 9 - 16 | Control panels |
 | 17 - 24 | Elevated walkways |
@@ -443,13 +441,13 @@
 | 65 - 72 | Machine maintenance |
 | 73 - 80 | Storage containers |
 | 81 - 88 | Tools and equipment |
-| 89 - 100 | ▶D+F `dice: [[OT_STRSM_OCL_Core^Core-Descriptor]]` + `dice: [[OT_STRSM_OCL_Core^Core-Focus]]` |
+| 89 - 100 | ▶[[OT_STRSM_OCL_Core#Descriptor\|D]] `dice: [[OT_STRSM_OCL_Core#^Descriptor]]` + ▶[[OT_STRSM_OCL_Core#Focus\|F]] `dice: [[OT_STRSM_OCL_Core#^Focus]]` |
 ^Production-Feature
 
 ### Opportunity
 
 | dice: 1d100 | Result |
-|:----:|:-------|
+| :---: | --- |
 | 1 - 20 | Access to specialized producer |
 | 21 - 40 | Access to useful equipment |
 | 41 - 60 | Salvageable materials |
@@ -460,7 +458,7 @@
 ### Peril
 
 | dice: 1d100 | Result |
-|:----:|:-------|
+| :---: | --- |
 | 1 - 10 | Dangerous machinery |
 | 11 - 20 | Disruption to the supply chain |
 | 21 - 30 | Disturbing evidence of exploited labor |
@@ -470,7 +468,7 @@
 | 61 - 70 | Livestock on the loose |
 | 71 - 80 | Malfunctioning automation |
 | 81 - 90 | Smuggling outfit at work |
-| 91 - 98 | ▶A+T `dice: [[OT_STRSM_OCL_Core^Core-Action]]` + `dice: [[OT_STRSM_OCL_Core^Core-Theme]]` |
+| 91 - 98 | ▶[[OT_STRSM_OCL_Core#Action\|A]] `dice: [[OT_STRSM_OCL_Core#^Action]]` + ▶[[OT_STRSM_OCL_Core#Theme\|T]] `dice: [[OT_STRSM_OCL_Core#^Theme]]` |
 | 99 - 100 | ▶R2 `dice: [[OT_STRSM_OCL_Districts#^Production-Peril]]` + `dice: [[OT_STRSM_OCL_Districts#^Production-Peril]]` |
 ^Production-Peril
 
@@ -479,7 +477,7 @@
 ### Area
 
 | dice: 1d100 | Result |
-|:----:|:-------|
+| :---: | --- |
 | 1 - 8 | Agricultural enhancement |
 | 9 - 16 | Armament or defense |
 | 17 - 24 | Astronomy or starships |
@@ -491,13 +489,13 @@
 | 65 - 72 | Material or mechanical |
 | 73 - 80 | University system |
 | 81 - 88 | Zoology or xenobiology |
-| 89 - 100 | New zone via ▶Access |
+| 89 - 100 | New zone via ▶[[OT_STRSM_OCL_Districts#Access\|Access]] `dice: [[OT_STRSM_OCL_Districts#^Access-Area]]` |
 ^Research-Area
 
 ### Feature
 
 | dice: 1d100 | Result |
-|:----:|:-------|
+| :---: | --- |
 | 1 - 8 | Aquarium or tank |
 | 9 - 16 | Biological specimens |
 | 17 - 24 | Cages or pens |
@@ -509,13 +507,13 @@
 | 65 - 72 | Specialized equipment |
 | 73 - 80 | Storage area |
 | 81 - 88 | Strict access protocols |
-| 89 - 100 | ▶D+F `dice: [[OT_STRSM_OCL_Core^Core-Descriptor]]` + `dice: [[OT_STRSM_OCL_Core^Core-Focus]]` |
+| 89 - 100 | ▶[[OT_STRSM_OCL_Core#Descriptor\|D]] `dice: [[OT_STRSM_OCL_Core#^Descriptor]]` + ▶[[OT_STRSM_OCL_Core#Focus\|F]] `dice: [[OT_STRSM_OCL_Core#^Focus]]` |
 ^Research-Feature
 
 ### Opportunity
 
 | dice: 1d100 | Result |
-|:----:|:-------|
+| :---: | --- |
 | 1 - 20 | Access to specialized research tools |
 | 21 - 40 | Access to unique prototype |
 | 41 - 60 | Helpful researcher or data |
@@ -526,7 +524,7 @@
 ### Peril
 
 | dice: 1d100 | Result |
-|:----:|:-------|
+| :---: | --- |
 | 1 - 10 | Accusations of espionage |
 | 11 - 20 | Automated containment protocols |
 | 21 - 30 | Dangerous specimen |
@@ -536,6 +534,6 @@
 | 61 - 70 | Forced NDA or limited access |
 | 71 - 80 | Legal infraction |
 | 81 - 90 | Unstable technology |
-| 91 - 98 | ▶A+T `dice: [[OT_STRSM_OCL_Core^Core-Action]]` + `dice: [[OT_STRSM_OCL_Core^Core-Theme]]` |
+| 91 - 98 | ▶[[OT_STRSM_OCL_Core#Action\|A]] `dice: [[OT_STRSM_OCL_Core#^Action]]` + ▶[[OT_STRSM_OCL_Core#Theme\|T]] `dice: [[OT_STRSM_OCL_Core#^Theme]]` |
 | 99 - 100 | ▶R2 `dice: [[OT_STRSM_OCL_Districts#^Research-Peril]]` + `dice: [[OT_STRSM_OCL_Districts#^Research-Peril]]` |
 ^Research-Peril

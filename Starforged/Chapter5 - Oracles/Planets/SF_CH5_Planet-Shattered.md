@@ -15,7 +15,7 @@ aliases:
   - "Planet: Shattered Sample Names (SF Oracles)"
 PageType: Oracle
 PageCategory: Planet
-PageOrder: 1
+PageOrder: 9
 
 ## Oracle
 Oracle: Planet
@@ -26,11 +26,11 @@ OracleDescriptor: "Destructive forces have torn this world to pieces. Chunks of
 Destructive forces have torn this world to pieces. Chunks of earth and debris orbit around larger sections of the remaining partial planet. The planetary core is no longer in tact and bleeds out into space. What caused this destruction is unknown, but if it is still around, it is surely dangerous.
 
 ## Oracle: Shattered Atmosphere
-> [!mechanics]- | Roll > `dice: [[SF_CH5_Planet-Shattered#^table-Atmosphere]]` | Guidance
+> [!mechanics]- | Roll > `dice: [[OT_ISSF_Planets#^Shattered-Atmosphere]]` | Guidance
 > The baseline for planet habitability, see [[_SF_CH5_Planets#Planet Atmospheres|Planet Atmosphere]] for the effects of each atmosphere for human life.^guidance-Atmosphere
 
 | dice: 1d100 | Result |
-|:---:|:--- |
+| :---: | --- |
 | 1 - 93 | None / thin |
 | 94 - 95 | Toxic |
 | 96 - 97 | Corrosive |
@@ -40,11 +40,11 @@ Destructive forces have torn this world to pieces. Chunks of earth and debris o
 
 ## Oracle: Shattered: Settlements
 ### Oracle: Settlements - Terminus
-> [!mechanics]- | Roll > `dice: [[SF_CH5_Planet-Shattered#^table-Settlement-Terminus]]` | Guidance
+> [!mechanics]- | Roll > `dice: [[OT_ISSF_Planets#^Shattered-Settlement-Terminus]]` | Guidance
 > Choose or roll on possible settlements located on this planet. ^guidance-Settlement-Terminus
 
 | dice: 1d100 | Result |
-|:---:|:--- |
+| :---: | --- |
 | 1 - 70 | None |
 | 71 - 90 | Orbital settlement |
 | 91 - 95 | Planetside settlement |
@@ -53,11 +53,11 @@ Destructive forces have torn this world to pieces. Chunks of earth and debris o
 ^table-Settlement-Terminus
 
 ### Oracle: Settlements - Outlands
-> [!mechanics]- | Roll > `dice: [[SF_CH5_Planet-Shattered#^table-Settlement-Outlands]]` | Guidance
+> [!mechanics]- | Roll > `dice: [[OT_ISSF_Planets#^Shattered-Settlement-Outlands]]` | Guidance
 > Choose or roll on possible settlements located on this planet. ^guidance-Settlement-Outlands
 
 | dice: 1d100 | Result |
-|:---:|:--- |
+| :---: | --- |
 | 1 - 85 | None |
 | 86 - 96 | Orbital settlement |
 | 97 - 99 | Planetside settlement |
@@ -65,22 +65,22 @@ Destructive forces have torn this world to pieces. Chunks of earth and debris o
 ^table-Settlement-Outlands
 
 ### Oracle: Settlements - Expanse
-> [!mechanics]- | Roll > `dice: [[SF_CH5_Planet-Shattered#^table-Settlement-Expanse]]` | Guidance
+> [!mechanics]- | Roll > `dice: [[OT_ISSF_Planets#^Shattered-Settlement-Expanse]]` | Guidance
 > Choose or roll on possible settlements located on this planet. ^guidance-Settlement-Expanse
 
 | dice: 1d100 | Result |
-|:---:|:--- |
+| :---: | --- |
 | 1 - 95 | None |
 | 96 - 99 | Orbital settlement |
 | 100 - 100 | Planetside settlement |
 ^table-Settlement-Expanse
 
 ## Oracle: Shattered Observed From Space
-> [!mechanics]- | Roll > `dice: [[SF_CH5_Planet-Shattered#^table-ObservedFromSpace]]` | Guidance
-> When first approaching a planet, envision at a board characteristic of the planet. ^guidance-ObservedFromSpace
+> [!mechanics]- | Roll > <br>▶1 `dice: [[OT_ISSF_Planets#^Shattered-Observed-From-Space]]`<br>▶2 `dice: [[OT_ISSF_Planets#^Shattered-Observed-From-Space]]` | Guidance
+> When first approaching a planet, envision at a board characteristic of the planet. ^guidance-Observed-From-Space
 
 | dice: 1d100 | Result @1-2 |
-|:---:|:--- |
+| :---: | --- |
 | 1 - 11 | Demolished space fleet |
 | 12 - 22 | Dense ring system |
 | 23 - 33 | Fiery planetary core |
@@ -89,16 +89,16 @@ Destructive forces have torn this world to pieces. Chunks of earth and debris o
 | 56 - 66 | Preserved planetary fragment |
 | 67 - 77 | Swirling debris field |
 | 78 - 88 | Unbroken moon |
-| 89 - 98 | ▶[[SF_CH5_Core_Descriptor-Focus#Oracle Descriptor\|Descriptor]] + [[SF_CH5_Core_Descriptor-Focus#Oracle Focus\|Focus]] |
+| 89 - 98 | ▶[[SF_CH5_Core_Descriptor-Focus#Oracle Descriptor\|Descriptor]] + ▶[[SF_CH5_Core_Descriptor-Focus#Oracle Focus\|Focus]] |
 | 99 - 100 | ▶[[SF_CH5_Vault-Exterior#Oracle Precursor Vault Outer First Look\|Precursor Vault (orbital)]] |
-^table-ObservedFromSpace
+^table-Observed-From-Space
 
 ## Oracle: Shattered Planetside Feature
-> [!mechanics]- | Roll > `dice: [[SF_CH5_Planet-Shattered#^table-PlanetsideFeature]]` | Guidance
-> To begin exploration on a planet, generate one or two dominate feature's. If your exploration is prolonged morph these features using the [[SF_CH5_Core_Descriptor-Focus#Oracle Descriptor|Descriptor]] and [[SF_CH5_Core_Descriptor-Focus#Oracle Focus|Focus]] oracles for prompts on variety. ^guidance-PlanetsideFeature
+> [!mechanics]- | Roll > <br>▶1 `dice: [[OT_ISSF_Planets#^Shattered-Feature]]`<br>▶2 `dice: [[OT_ISSF_Planets#^Shattered-Feature]]` | Guidance
+> To begin exploration on a planet, generate one or two dominate feature's. If your exploration is prolonged morph these features using the [[SF_CH5_Core_Descriptor-Focus#Oracle Descriptor|Descriptor]] and [[SF_CH5_Core_Descriptor-Focus#Oracle Focus|Focus]] oracles for prompts on variety. ^guidance-Feature
 
 | dice: 1d100 | Result @1-2 |
-|:---:|:--- |
+| :---: | --- |
 | 1 - 7 | Broken cities |
 | 8 - 14 | Colliding fragments |
 | 15 - 21 | Energy storms |
@@ -112,16 +112,16 @@ Destructive forces have torn this world to pieces. Chunks of earth and debris o
 | 71 - 77 | Swirling corrosive gases |
 | 78 - 84 | Unstable and fracturing terrain |
 | 85 - 91 | Venting magma |
-| 92-98 | ▶[[SF_CH5_Core_Descriptor-Focus#Oracle Descriptor\|Descriptor]] + [[SF_CH5_Core_Descriptor-Focus#Oracle Focus\|Focus]] |
+| 92-98 | ▶[[SF_CH5_Core_Descriptor-Focus#Oracle Descriptor\|Descriptor]] + ▶[[SF_CH5_Core_Descriptor-Focus#Oracle Focus\|Focus]] |
 | 99-100 | ▶[[SF_CH5_Vault-Exterior#Oracle Precursor Vault Outer First Look\|Precursor Vault (planetside)]] |
-^table-PlanetsideFeature
+^table-Feature
 
 ## Oracle: Shattered Life
-> [!mechanics]- | Roll > `dice: [[SF_CH5_Planet-Shattered#^table-Life]]` | Guidance
+> [!mechanics]- | Roll > `dice: [[OT_ISSF_Planets#^Shattered-Life]]` | Guidance
 > The general state of life currently on this planet. There may be a hidden feature given enough exploration that could contradict this result. ^guidance-Life
 
 | dice: 1d100 | Result |
-|:---:|:--- |
+| :---: | --- |
 | 1 - 30 | None |
 | 31 - 85 | Extinct |
 | 86 - 95 | Scarce |
@@ -129,11 +129,11 @@ Destructive forces have torn this world to pieces. Chunks of earth and debris o
 ^table-Life
 
 ## Oracle: Shattered Sample Names
-> [!mechanics]- | Roll > `dice: [[SF_CH5_Planet-Shattered#^table-Names]]` | Guidance
+> [!mechanics]- | Roll > `dice: [[OT_ISSF_Planets#^Shattered-Names]]` | Guidance
 > Sample names that are suited to this planet type. Feel free to mix and match or create your own. ^guidance-Names
 
 | dice: 1d100 | Result |
-|:---:|:--- |
+| :---: | --- |
 | 1 - 5 | Cavus |
 | 6 - 10 | Chrysalis |
 | 11 - 15 | Fragment |

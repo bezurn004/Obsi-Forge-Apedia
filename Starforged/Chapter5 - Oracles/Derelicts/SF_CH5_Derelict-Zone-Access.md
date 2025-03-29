@@ -24,11 +24,11 @@ OracleDescriptor: "_Deserted passageways and broken entries._"
 _Deserted passageways and broken entries_
 
 ## Oracle: Derelict Zone Access - Area
-> [!mechanics]- | Roll > `dice: [[SF_CH5_Derelict-Zone-Access#^table-OclDerelictZone-Access-Area]]` | Guidance
-> ![[GSRY_Definitions#^gsry-OclSite-Area]] ^guidance-OclSite-Area
+> [!mechanics]- | Roll > `dice: [[OT_ISSF_Derelicts#^Zone-Access-Area]]` | Guidance
+> ![[GSRY_Definitions#^gsry-OclSite-Area]] ^guidance-Area
 
 | dice: 1d100 | Result |
-| :---: | :--- |
+| :---: | --- |
 | 1 - 50 | Corridor |
 | 51 - 60 | Stairs |
 | 61 - 70 | Lift or elevator |
@@ -37,14 +37,14 @@ _Deserted passageways and broken entries_
 | 86 - 90 | Hub or intersection |
 | 91 - 95 | Crawl space or duct |
 | 96 - 100 | Airlock or externa |
-^table-OclDerelictZone-Access-Area
+^table-Area
 
 ## Oracle: Derelict Zone Access - Feature
-> [!mechanics]- | Roll > `dice: [[SF_CH5_Derelict-Zone-Access#^table-OclDerelictZone-Access-Feature]]` | Guidance
-> ![[GSRY_Definitions#^gsry-OclSite-Feature]] ^guidance-OclSite-Feature
+> [!mechanics]- | Roll > `dice: [[OT_ISSF_Derelicts#^Zone-Access-Feature]]` | Guidance
+> ![[GSRY_Definitions#^gsry-OclSite-Feature]] ^guidance-Feature
 
 | dice: 1d100 | Result |
-| :---: | :--- |
+| :---: | --- |
 | 1 - 5 | Abandoned gear |
 | 6 - 10 | Blood trail |
 | 11 - 15 | Breached door or hatch |
@@ -65,14 +65,14 @@ _Deserted passageways and broken entries_
 | 86 - 90 | Windows or viewports |
 | 91 - 95 | Wrecked passage or debris |
 | 96 - 100 | ⏵[[SF_CH5_Core_Descriptor-Focus#Oracle Descriptor\|Descriptor]] + [[SF_CH5_Core_Descriptor-Focus#Oracle Focus\|Focus]] |
-^table-OclDerelictZone-Access-Feature
+^table-Feature
 
 ## Oracle: Derelict Zone Access - Peril
-> [!mechanics]- | Roll > `dice: [[SF_CH5_Derelict-Zone-Access#^table-OclDerelictZone-Access-Peril]]` | Guidance
-> ![[GSRY_Definitions#^gsry-OclSite-Peril]] ^guidance-OclSite-Peril
+> [!mechanics]- | Roll > `dice: [[OT_ISSF_Derelicts#^Zone-Access-Peril]]` | Guidance
+> ![[GSRY_Definitions#^gsry-OclSite-Peril]] ^guidance-Peril
 
 | dice: 1d100 | Result |
-| :---: | :--- |
+| :---: | --- |
 | 1 - 10 | Alarm or failsafe is triggered |
 | 11 - 20 | Automated defenses |
 | 21 - 30 | Blocked or sealed path |
@@ -84,20 +84,20 @@ _Deserted passageways and broken entries_
 | 81 - 90 | Unsettling sound or disturbance |
 | 91 - 98 | ⏵[[SF_CH5_Core_Action-Theme#Oracle Action\|Action]] + [[SF_CH5_Core_Action-Theme#Oracle Theme\|Theme]] |
 | 99 - 100 | Roll twice |
-^table-OclDerelictZone-Access-Peril
+^table-Peril
 
 ## Oracle: Derelict Zone Access - Opportunity
-> [!mechanics]- | Roll > `dice: [[SF_CH5_Derelict-Zone-Access#^table-OclDerelictZone-Access-Opportunity]]` | Guidance
-> ![[GSRY_Definitions#^gsry-OclSite-Opportunity]] ^guidance-OclSite-Opportunity
+> [!mechanics]- | Roll > `dice: [[OT_ISSF_Derelicts#^Zone-Access-Opportunity]]` | Guidance
+> ![[GSRY_Definitions#^gsry-OclSite-Opportunity]] ^guidance-Opportunity
 
 | dice: 1d100 | Result |
-| :---: | :--- |
+| :---: | --- |
 | 1 - 20 | Directions, shortcut, or alternate pat |
 | 21 - 40 | Encounter with a friendly survivor, explorer, or denizen |
 | 41 - 60 | Hopeful signs of life |
 | 61 - 80 | Opening to outmaneuver or escape a threat or foe |
 | 81 - 100 | Useful equipment |
-^table-OclDerelictZone-Access-Opportunity
+^table-Opportunity
 
 *352 CHAPTER 5: ORACLES*
 

@@ -22,8 +22,8 @@ What is an odd and unique characteristic of your starship?
 ## Oracle: Campaign Starship Quirk
 This oracle can be used to replace the one provided on [[SF_CH2_Board Your Starship#Envision The Starship|Starship Quirk Oracle]].
 
-> [!mechanics]- | Roll > %%GetDice%% | Guidance
-> Your ship is an important aspect of your character, and a character in its own right. What does it look like? What makes it interesting or uniquely yours? Does it have any particular quirks? If nothing occurs to you now, you can flesh it out in play, or roll once or twice on the table below. ^guidance-STRSM-OCL-OclCampaignStarshipQuirk
+> [!mechanics]- | Roll ><br>▶1 `dice: [[OT_STRSM_OCL_Campaign#^Starship-Quirk]]`<br>▶2 `dice: [[OT_STRSM_OCL_Campaign#^Starship-Quirk]]`  | Guidance
+> Your ship is an important aspect of your character, and a character in its own right. What does it look like? What makes it interesting or uniquely yours? Does it have any particular quirks? If nothing occurs to you now, you can flesh it out in play, or roll once or twice on the table below. ^guidance-Starship-Quirk
 
 | 1d100 @1-2 | 1-2 | 3-4 | 5-6 |
 | :---: | --- | --- | --- |
@@ -47,11 +47,11 @@ This oracle can be used to replace the one provided on [[SF_CH2_Board Your Stars
 | 86-90 | Strange symbols are scrawled on the deck and bulkheads in the main corridor | Rooms are just a little too small as the builder tried to cut costs | Voice commands for core computer only respond to absurd name |
 | 91-95 | Things tend to go missing for no logical reason | Rooms have their own gravity generators but all in different orientations | Voice options for the computer system all have outrageous accents |
 | 96-100 | Timers and clocks are always just a bit off | Ship painted and decorated to look like a lifeform | Water recycler leaves the water with an unpleasant color |
-^table-STRSM-OCL-OclCampaignStarshipQuirk
+^table-Starship-Quirk
 
 ## Tags
 | Previous Page | Tags | Next Page | 
 | :--- | :---: | ---: |
-| **[[STRSM_OCL_Starship History\|Starship History Oracle]]** | #Starsmith/Oracles/Campaign - #Pedia/Oracles/Campaign | **[[STRSM_OCL_Sector Trouble\|Sector Trouble Oracle]]** |
+| **[[STRSM_OCL_Starship History\|Starship History (STRSM Oracles)]]** | #Starsmith/Oracles/Campaign | **[[STRSM_OCL_Sector Trouble\|Sector Trouble (STRSM Oracles)]]** |
 
 <font size=-2>Starsmith Oracles is created by Eric Bright and licensed for use under the Creative Commons Attribution 4.0 International License (CC-BY).</font>

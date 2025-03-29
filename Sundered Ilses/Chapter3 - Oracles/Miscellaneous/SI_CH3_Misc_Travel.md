@@ -23,7 +23,7 @@ Text
 
 ## Oracle: Local Seas
 > [!mechanics]- | Roll > <br>Prefix: `dice: [[OT_ISSI_Misc#^Local-Seas]]|Prefix` <br>Suffix: `dice: [[OT_ISSI_Misc#^Local-Seas]]|Suffix` | Guidance
-> To generate a name for a local area—a collection of islands and surrounding waters—roll once for the prefix (the first word), and once for the suffix (the second word). Or just roll once, and choose a suitable prefix and suffix from anywhere in that row. ^guidance-OclLocalSeas
+> To generate a name for a local area—a collection of islands and surrounding waters—roll once for the prefix (the first word), and once for the suffix (the second word). Or just roll once, and choose a suitable prefix and suffix from anywhere in that row. ^guidance-Local-Seas
 
 | Roll | Prefix | Suffix |
 | :---: | --- | --- |
@@ -77,7 +77,7 @@ Text
 | 95 - 96 | Sunken | Verge |
 | 97 - 98 | Veiled | Vigil |
 | 99 - 100 | Whispering | Waters |
-^table-OclLocalSeas
+^table-Local-Seas
 
 *227 MISCELLANEOUS ORACLES*
 
@@ -86,7 +86,7 @@ Text
 > If you want to explore a character interlude, or are prompted by another table to trigger an interlude at a waypoint, check the table below for inspiration. Then, for more detail on a scene’s focus—such as the nature of a dream or the cause of a dispute—roll on any combination of the _[[_SI_CH3_Core Oracles|Core Oracles]]_ (pages 116–119) and interpret the response. To learn more about character [[SI_CH1_Interludes|interludes]], see page 46. 
 > > The cursed die is not rolled by default on the Interlude Scene table. However, if you’re interested in giving the scene a supernatural atmosphere, add the cursed die to your roll—or just make it happen.
 > 
-> > On a cursed result, take your result from the Interlude Scene table and envision how it gains an eerie or mystical mood. But keep it low-key. A subtle ghostly manifestation. A strange but alluring environmental phenomenon. A spooky story told on a fog-shrouded evening. ^guidance-OclInterludeScene
+> > On a cursed result, take your result from the Interlude Scene table and envision how it gains an eerie or mystical mood. But keep it low-key. A subtle ghostly manifestation. A strange but alluring environmental phenomenon. A spooky story told on a fog-shrouded evening. ^guidance-Interlude-Scene
 
 | Roll | Result | Questions to Consider |
 | :---: | --- | --- |
@@ -120,6 +120,7 @@ Text
 | 90 - 92 | Tell a tale | What is the nature of this myth or legend? What emotion or lesson lingers after the telling? |
 | 93 - 96 | Undertake a communal labor | What demanding project do you embark on with others? How does this bring you closer together? |
 | 97 - 100 | Undertake a menial task | What solitary chore do you perform? What do you daydream about as you work? |
+^table-Interlude-Scene
 
 *228 ORACLES*
 *229 MISCELLANEOUS ORACLES*

@@ -22,11 +22,11 @@ After creating an settlement give it a **Name**. Optionally use the **Name Tag**
 ## Oracle: Settlement Name
 This oracle can be used to replace the one provided on [[SF_CH5_Settle-Name#Oracle Settlement Name|Settlement Name Oracle]].
 
-> [!mechanics]- | Roll > %%GetDice%% | Guidance
-> Choose a name appropriate to the nature of the settlement, or roll for a random result. Optionally pair this name with the [[SF_CH5_Settle-Name#Oracle Settlement Name Tag|Settlement Name Tag Oracle]]. ^guidance-OclSettlementName
+> [!mechanics]- | Roll > `dice: [[OT_STRSM_OCL_Settlements^Name]]` | Guidance
+> Choose a name appropriate to the nature of the settlement, or roll for a random result. Optionally pair this name with the [[SF_CH5_Settle-Name#Oracle Settlement Name Tag|Settlement Name Tag Oracle]]. ^guidance-Name
 
 | 1d100 | 1-2 | 3-4 | 5-6 |
-| :---: | :--- | :--- | :--- |
+| :---: | --- | --- | --- |
 | 1 | Aegis | Achilles | Achlys |
 | 2 | Altair | Adin | Adityas |
 | 3 | Altura | Aeternitas | Aether |
@@ -127,13 +127,13 @@ This oracle can be used to replace the one provided on [[SF_CH5_Settle-Name#Orac
 | 98 | Wellspring | Virtue | Visage |
 | 99 | Weyland | Vishnu | Vor |
 | 100 | Wreck | Warden | Zisa |
-^table-OclSettlementName
+^table-Name
 
 ![[SF_CH5_Settle-Name#Oracle Settlement Name Tag]]
 
 ## Tags
 | Previous Page | Tags | Next Page | 
 | :--- | :---: | ---: |
-| **[[STRSM_OCL_Settle-Creation\|Settlement Creation Oracles]]** | #Starsmith/Oracles/Settlements - #Pedia/Oracles/Settlements | **[[STRSM_OCL_Settle-Approach\|Settlement Approach Oracles]]** |
+| **[[STRSM_OCL_Settle-Creation\|Settlement Creation (STRSM Oracles)]]** | #Starsmith/Oracles/Settlements | **[[STRSM_OCL_Settle-Approach\|Settlement Approach (STRSM Oracles)]]** |
 
 <font size=-2>Starsmith Oracles is created by Eric Bright and licensed for use under the Creative Commons Attribution 4.0 International License (CC-BY).</font>

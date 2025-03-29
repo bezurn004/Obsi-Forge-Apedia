@@ -26,7 +26,7 @@ Text
 [[SI_CH3_Inland Cave Details]]
 ### Oracle: Inland Cave Feature
 > [!mechanics]- | Roll > [skull] `dice: [[SI_CH3_The Cursed Die#^table-Cursed]]`<br>▶1 `dice: [[OT_ISSI_Caves#^Inland-Cave-Feature]]`<br>▶2 `dice: [[OT_ISSI_Caves#^Inland-Cave-Feature]]` | Guidance
-> Text ^guidance-OclInlandCaveFeature
+> Text ^guidance-Inland-Feature
 
 | dice: 1d100 | Result @1-2 [skull] _[[#Oracle Inland Cave Cursed Feature\|pg 211]]_ |
 | :---: | --- |
@@ -98,13 +98,13 @@ Text
 | 92 - 93 | Vertical chimney leading upward |
 | 94 - 95 | Corpse clutching a ▶[[SI_CH3_Treasure Details#Oracle Tokens\|Token]]; _pg 224_ |
 | 96 - 100 | ▶[[SI_CH3_Core_Descriptor Focus#DESCRIPTOR\|Descriptor]] + ▶[[SI_CH3_Core_Descriptor Focus#FOCUS\|Focus]]; _pg 118-119_ |
-^table-OclInlandCaveFeature
+^table-Inland-Feature
 
 *210 ORACLES*
 
 ### Oracle: Inland Cave Cursed Feature
 > [!mechanics]- | Roll > `dice: [[OT_ISSI_Caves#^Cursed-Inland-Cave-Feature]]` | Guidance
-> Text ^guidance-OclInlandCaveCursedFeature
+> Text ^guidance-Inland-Cursed-Feature
 
 | dice: 1d100 | Result |
 | :---: | --- |
@@ -128,11 +128,11 @@ Text
 | 86 - 90 | Unnaturally thick webbing |
 | 91 - 95 | Unnerving howls or roars |
 | 96 - 100 | Webbed or cocooned corpses |
-^table-OclInlandCaveCursedFeature
+^table-Inland-Cursed-Feature
 
 ### Oracle: Inland Cave Peril
 > [!mechanics]- | Roll > `dice: [[OT_ISSI_Caves#^Inland-Cave-Peril]]` | Guidance
-> Text ^guidance-OclInlandCavePeril
+> Text ^guidance-Inland-Peril
 
 | dice: 1d100 | Result |
 | :---: | --- |
@@ -158,11 +158,11 @@ Text
 | 86 - 88 | Venomous creature |
 | 89 - 94 | ▶[[SI_CH3_Core_Action Theme#ACTION\|Action]] + ▶[[SI_CH3_Core_Action Theme#THEME\|Theme]]; _pg 116-117_ |
 | 95 - 100 | Roll twice |
-^table-OclInlandCavePeril
+^table-Inland-Peril
 
 ### Oracle: Inland Cave Opportunity
 > [!mechanics]- | Roll > `dice: [[OT_ISSI_Caves#^Inland-Cave-Opportunity]]` | Guidance
-> Text ^guidance-OclInlandCaveOpportunity
+> Text ^guidance-Inland-Opportunity
 
 | dice: 1d100 | Result |
 | :---: | --- |
@@ -176,11 +176,11 @@ Text
 | 71 - 80 | Useful equipment or supplies |
 | 81 - 90 | ▶[[SI_CH3_Treasure Creation#Oracle Treasure Value - Small\|Treasure]]; _pg 221_ (small repository) |
 | 91 - 100 | ▶[[SI_CH3_Treasure Creation#Oracle Treasure Value - Medium\|Treasure]]; _pg 221_ (medium repository) |
-^table-OclInlandCaveOpportunity
+^table-Inland-Opportunity
 
 ### Oracle: Inland Cave Heart
 > [!mechanics]- | Roll > `dice: [[OT_ISSI_Caves#^Inland-Cave-Heart]]` | Guidance
-> Text ^guidance-OclInlandCaveHeart
+> Text ^guidance-Inland-Heart
 
 | dice: 1d100 | Result |
 | :---: | --- |
@@ -194,7 +194,7 @@ Text
 | 71 – 80 | ▶[[SI_CH3_Ruin_Creation\|Ruin]]; _pg 212_ |
 | 81 – 90 | ▶[[SI_CH3_Treasure Creation#Oracle Treasure Value - Large\|Treasure]]; _pg 221_ (large repository) |
 | 91 – 100 | ▶[[SI_CH3_Treasure Creation#Oracle Treasure Value - Vast\|Treasure]]; _pg 221_ (vast repository) |
-^table-OclInlandCaveHeart
+^table-Inland-Heart
 
 ## Tags
 

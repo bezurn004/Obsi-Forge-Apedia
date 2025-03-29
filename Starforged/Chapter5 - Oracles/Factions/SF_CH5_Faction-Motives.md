@@ -22,11 +22,11 @@ OracleDescriptor: "A Faction's broad generalization of their Projects and Quirks
  A Faction's broad generalization their Projects and Quirks.
 
 ## Oracle: Faction Projects
-> [!mechanics]- | Roll > `dice: [[SF_CH5_Faction-Motives#^table-OclFactionProjects]]` | Guidance
-> Pick or roll on this table to reveal the current focus of a faction. Then, use the nature of the organization to help envision the meaning of the project. The result may introduce events that motivate your character to aid or resist the project, or can serve as background detail for your setting. If you would like to track the faction’s progress, set a clock for the project using the [[SF_CH3_Clocks_Campaign|Campaign Clocks]] guidelines. ^guidance-OclFactionProjects
+> [!mechanics]- | Roll > <br>▶1 `dice: [[OT_ISSF_Factions#^Projects]]`<br>▶2 `dice: [[OT_ISSF_Factions#^Projects]]` | Guidance
+> Pick or roll on this table to reveal the current focus of a faction. Then, use the nature of the organization to help envision the meaning of the project. The result may introduce events that motivate your character to aid or resist the project, or can serve as background detail for your setting. If you would like to track the faction’s progress, set a clock for the project using the [[SF_CH3_Clocks_Campaign|Campaign Clocks]] guidelines. ^guidance-Projects
 
 | dice: 1d100 | Result @1-2 |
-|:---:|:--- |
+| :---: | --- |
 | 1 - 3 | Broaden scope of the faction to include a new focus |
 | 4 - 6 | Build or secure a powerful device |
 | 7 - 9 | Consolidate control of a valuable commodity |
@@ -59,17 +59,17 @@ OracleDescriptor: "A Faction's broad generalization of their Projects and Quirks
 | 88 - 90 | Subsume another faction |
 | 91 - 93 | Transport a valued asset |
 | 94 - 96 | Usurp leadership within a rival faction |
-| 97 - 100 | ▶[[SF_CH5_Core_Action-Theme#Oracle Action\|Action]] + [[SF_CH5_Core_Action-Theme#Oracle Theme\|Theme]] |
-^table-OclFactionProjects
+| 97 - 100 | ▶[[SF_CH5_Core_Action-Theme#Oracle Action\|Action]] + ▶[[SF_CH5_Core_Action-Theme#Oracle Theme\|Theme]] |
+^table-Projects
 
 *342 CHAPTER 5: ORACLES*
 
 ## Oracle: Faction Quirks
-> [!mechanics]- | Roll > `dice: [[SF_CH5_Faction-Motives#^table-OclFactionQuirks]]` | Guidance
-> Roll or pick known characteristics of the faction and its members using this table. But keep in mind that even within a small or specialized faction, there are no absolutes. These quirks represent common attitudes, practices, or approaches, but are not universal to every member of that faction. Leave room in your portrayal for diversity and contradictions. ^guidance-OclFactionQuirks
+> [!mechanics]- | Roll > <br>▶1 `dice: [[OT_ISSF_Factions#^Quirks]]`<br>▶2 `dice: [[OT_ISSF_Factions#^Quirks]]` | Guidance
+> Roll or pick known characteristics of the faction and its members using this table. But keep in mind that even within a small or specialized faction, there are no absolutes. These quirks represent common attitudes, practices, or approaches, but are not universal to every member of that faction. Leave room in your portrayal for diversity and contradictions. ^guidance-Quirks
 
 | dice: 1d100 | Result @1-2 |
-|:---:|:--- |
+| :---: | --- |
 | 1 - 3 | Ancient or coded language |
 | 4 - 6 | Animal or creature motif used as a faction symbol |
 | 7 - 9 | Banishes the disloyal |
@@ -102,8 +102,8 @@ OracleDescriptor: "A Faction's broad generalization of their Projects and Quirks
 | 88 - 90 | Trains in a demanding physical discipline or martial art |
 | 91 - 93 | Wields unnatural abilities or strange technologies |
 | 94 - 96 | Work or environment causes mutations |
-| 97 - 100 | ▶[[SF_CH5_Core_Action-Theme#Oracle Action\|Action]] + [[SF_CH5_Core_Action-Theme#Oracle Theme\|Theme]] |
-^table-OclFactionQuirks
+| 97 - 100 | ▶[[SF_CH5_Core_Action-Theme#Oracle Action\|Action]] + ▶[[SF_CH5_Core_Action-Theme#Oracle Theme\|Theme]] |
+^table-Quirks
 
 *348 CHAPTER 5: ORACLES*
 

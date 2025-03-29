@@ -25,11 +25,11 @@ OracleDescriptor: "As you approach a starship begin to expose new layers of the 
 As you approach a starship begin to expose new layers of the vessel. Start with **Initial Contact** and **First Look** and then with more time reveal it's **Mission** based the region of the Forge.
 
 ## Oracle: Starship Initial Contact
-> [!mechanics]- | Roll > `dice: [[SF_CH5_Starship-Approach#^table-OclStarshipInitialContact]]` | Guidance
-> When first approaching a starship of interest for the narrative choose or roll from these oracles. ^guidance-OclStarshipInitialContact
+> [!mechanics]- | Roll > `dice: [[OT_ISSF_Starships#^Initial-Contact]]` | Guidance
+> When first approaching a starship of interest for the narrative choose or roll from these oracles. ^guidance-Ocl-StarshipInitial-Contact
 
 | dice: 1d100 | Result |
-|:---:|:--- |
+| :---: | --- |
 | 1 - 3 | Familiar |
 | 4 - 15 | Friendly |
 | 16 - 25 | Neutral / automated |
@@ -41,15 +41,15 @@ As you approach a starship begin to expose new layers of the vessel. Start with 
 | 81 - 85 | In battle |
 | 86 - 90 | Unresponsive |
 | 91 - 95 | Destroyed |
-| 96 - 100 | [[SF_CH5_Derelict_Looks#Oracle Derelict First Look - Outer\|▶Derelict]] |
-^table-OclStarshipInitialContact
+| 96 - 100 | ▶[[SF_CH5_Derelict_Looks#Oracle Derelict First Look - Outer\|Derelict]] |
+^table-Initial-Contact
 
 ## Oracle: Starship First Look
-> [!mechanics]- | Roll > `dice: [[SF_CH5_Starship-Approach#^table-OclStarshipFirstLook]]` | Guidance
-> When first approaching a starship of interest for the narrative choose or roll from these oracles. ^guidance-OclStarshipFirstLook
+> [!mechanics]- | Roll > <br>▶1 `dice: [[OT_ISSF_Starships#^First-Look]]`<br>▶2 `dice: [[OT_ISSF_Starships#^First-Look]]` | Guidance
+> When first approaching a starship of interest for the narrative choose or roll from these oracles. ^guidance-First-Look
 
 | dice: 1d100 | Result @1-2 |
-|:---:|:--- |
+| :---: | --- |
 | 1 - 4 | Abnormal sensor readings |
 | 5 - 8 | Brightly painted |
 | 9 - 13 | Bristling with weapons |
@@ -72,17 +72,64 @@ As you approach a starship begin to expose new layers of the vessel. Start with 
 | 86 - 90 | Built from scrap |
 | 91 - 94 | Towing or linked |
 | 95 - 100 | [[_SF_CH5_Core#Oracle: Descriptor\|▶Descriptor]] + [[_SF_CH5_Core#Oracle: Focus\|▶Focus]] |
-^table-OclStarshipFirstLook
+^table-First-Look
 
 *327 STARSHIPS*
 
 ## Oracle: Starship Mission
+> [!mechanics]- Guidance
+> Use the Starship Mission table when prompted by another oracle, or to flesh out the nature of a ship or fleet that has a flexible or uncertain role. You can also roll to generate the focus of a spaceborne quest.
+> > [!oracle]- Terminus
+> > `dice: [[OT_ISSF_Starships#^Mission-Terminus]]`
+> 
+> > [!oracle]- Outlands
+> > `dice: [[OT_ISSF_Starships#^Mission-Outlands]]`
+> 
+> > [!oracle]- Expanse
+> > `dice: [[OT_ISSF_Starships#^Mission-Expanse]]` ^guidance-All-Starship-Mission
+
+| Terminus | Outlands | Expanse | Result |
+| :---: | :---: | :---: | --- |
+| 1 - 3 | 1 - 2 | 1 - 2 | Blockade a location |
+| 4 - 6 | 3 - 4 | 3 - 4 | Break a blockade |
+| 7 - 9 | 5 - 7 | 5 - 8 | Collect a resource |
+| 10 - 11 | 8 - 9 | 7 - 9 | Command others |
+| 12 - 14 | 10 - 11 | 11 - 12 | Conduct diplomacy |
+| 15 - 17 | 12 - 13 | 13 - 14 | Conduct espionage |
+| 18 - 20 | 14 - 16 | 15 - 16 | Conduct piracy |
+| 21 - 23 | 17 - 20 | 17 - 22 | Conduct research |
+| 24 - 26 | 21 - 24 | 23 - 25 | Defend against an attack |
+| 27 - 29 | 25 - 28 | 26 - 29 | Deliver messages or data |
+| 30 - 32 | 29 - 32 | 30 - 35 | Establish a settlement |
+| 33 - 35 | 33 - 36 | 36 - 39 | Evacuate a location |
+| 36 - 37 | 37 - 40 | 40 - 45 | Explore a region |
+| 38 - 39 | 41 - 42 | 46 - 47 | Hold prisoners |
+| 40 - 42 | 43 - 45 | 48 - 49 | Hunt down another ship |
+| 43 - 45 | 46 - 48 | 50 - 51 | Launch an attack |
+| 46 - 48 | 49 - 50 | 52 - 53 | Patrol an area |
+| 49 - 51 | 51 - 53 | 54 - 55 | Provide medical aid |
+| 52 - 54 | 54 - 56 | 56 - 57 | Provide repairs |
+| 55 - 57 | 57 - 59 | 58 - 61 | Provide shelter |
+| 58 - 59 | 60 - 61 | 62 - 63 | Quarantine a danger |
+| 60 - 62 | 62 - 64 | 64 - 65 | Raid a settlement |
+| 63 - 65 | 65 - 68 | 66 - 69 | Resupply a settlement |
+| 66 - 68 | 69 - 71 | 70 - 71 | Retrieve salvage |
+| 69 - 71 | 72 - 73 | 72 - 73 | Search and rescue |
+| 72 - 74 | 74 - 75 | 74 - 75 | Smuggle cargo |
+| 75 - 77 | 76 - 78 | 76 - 77 | Survey a site |
+| 78 - 79 | 79 - 80 | 78 - 79 | Test a technology |
+| 80 - 82 | 81 - 83 | 80 - 83 | Transport cargo |
+| 83 - 85 | 84 - 85 | 84 - 85 | Transport passengers |
+| 86 - 90 | 86 - 90 | 86 - 90 | ▶[[SF_CH5_Core_Action-Theme#Oracle Action\|Action]] + ▶[[SF_CH5_Core_Action-Theme#Oracle Theme\|Theme]] |
+| 91 - 100 | 91 - 100 | 91 - 100 | Roll Twice |
+^All-Starship-Mission
+
 ### Oracle: Starship Mission - Terminus
-> [!mechanics]- | Roll > `dice: [[SF_CH5_Starship-Approach#^table-OclStarshipMission-Terminus]]` | Guidance
-> Use the Starship Mission table when prompted by another oracle, or to flesh out the nature of a ship or fleet that has a flexible or uncertain role. You can also roll to generate the focus of a spaceborne quest. ^guidance-OclStarshipMission-Terminus
+> [!mechanics]- | Roll > `dice: [[OT_ISSF_Starships#^Mission-Terminus]]` | Guidance
+> Use the Starship Mission table when prompted by another oracle, or to flesh out the nature of a ship or fleet that has a flexible or uncertain role. You can also roll to generate the focus of a spaceborne quest. ^guidance-Mission-Terminus
 
 | dice: 1d100 | Result |
-|:---:|:--- |
+| :---: | --- |
 | 1 - 3 | Blockade a location |
 | 4 - 6 | Break a blockade |
 | 7 - 9 | Collect a resource |
@@ -113,16 +160,16 @@ As you approach a starship begin to expose new layers of the vessel. Start with 
 | 78 - 79 | Test a technology |
 | 80 - 82 | Transport cargo |
 | 83 - 85 | Transport passengers |
-| 86 - 90 | ▶[[SF_CH5_Core_Action-Theme#Oracle Action\|Action]] + [[SF_CH5_Core_Action-Theme#Oracle Theme\|Theme]] |
+| 86 - 90 | ▶[[SF_CH5_Core_Action-Theme#Oracle Action\|Action]] + ▶[[SF_CH5_Core_Action-Theme#Oracle Theme\|Theme]] |
 | 91 - 100 | Roll Twice |
-^table-OclStarshipMission-Terminus
+^table-Mission-Terminus
 
 ### Oracle: Starship Mission - Outlands
-> [!mechanics]- | Roll > `dice: [[SF_CH5_Starship-Approach#^table-OclStarshipMission-Outlands]]` | Guidance
-> Use the Starship Mission table when prompted by another oracle, or to flesh out the nature of a ship or fleet that has a flexible or uncertain role. You can also roll to generate the focus of a spaceborne quest. ^guidance-OclStarshipMission-Outlands
+> [!mechanics]- | Roll > `dice: [[OT_ISSF_Starships#^Mission-Outlands]]` | Guidance
+> Use the Starship Mission table when prompted by another oracle, or to flesh out the nature of a ship or fleet that has a flexible or uncertain role. You can also roll to generate the focus of a spaceborne quest. ^guidance-Mission-Outlands
 
 | dice: 1d100 | Result |
-|:---:|:--- |
+| :---: | --- |
 | 1 - 2 | Blockade a location |
 | 3 - 4 | Break a blockade |
 | 5 - 7 | Collect a resource |
@@ -153,16 +200,16 @@ As you approach a starship begin to expose new layers of the vessel. Start with 
 | 79 - 80 | Test a technology |
 | 81 - 83 | Transport cargo |
 | 84 - 85 | Transport passengers |
-| 86 - 90 | ▶[[SF_CH5_Core_Action-Theme#Oracle Action\|Action]] + [[SF_CH5_Core_Action-Theme#Oracle Theme\|Theme]] |
+| 86 - 90 | ▶[[SF_CH5_Core_Action-Theme#Oracle Action\|Action]] + ▶[[SF_CH5_Core_Action-Theme#Oracle Theme\|Theme]] |
 | 91 - 100 | Roll Twice |
-^table-OclStarshipMission-Outlands
+^table-Mission-Outlands
 
 ### Oracle: Starship Mission - Expanse
-> [!mechanics]- | Roll > `dice: [[SF_CH5_Starship-Approach#^table-OclStarshipMission-Expanse]]` | Guidance
-> Use the Starship Mission table when prompted by another oracle, or to flesh out the nature of a ship or fleet that has a flexible or uncertain role. You can also roll to generate the focus of a spaceborne quest. ^guidance-OclStarshipMission-Expanse
+> [!mechanics]- | Roll > `dice: [[OT_ISSF_Starships#^Mission-Expanse]]` | Guidance
+> Use the Starship Mission table when prompted by another oracle, or to flesh out the nature of a ship or fleet that has a flexible or uncertain role. You can also roll to generate the focus of a spaceborne quest. ^guidance-Mission-Expanse
 
 | dice: 1d100 | Result |
-|:---:|:--- |
+| :---: | --- |
 | 1 - 2 | Blockade a location |
 | 3 - 4 | Break a blockade |
 | 5 - 8 | Collect a resource |
@@ -193,9 +240,9 @@ As you approach a starship begin to expose new layers of the vessel. Start with 
 | 78 - 79 | Test a technology |
 | 80 - 83 | Transport cargo |
 | 84 - 85 | Transport passengers |
-| 86 - 90 | ▶[[SF_CH5_Core_Action-Theme#Oracle Action\|Action]] + [[SF_CH5_Core_Action-Theme#Oracle Theme\|Theme]] |
+| 86 - 90 | ▶[[SF_CH5_Core_Action-Theme#Oracle Action\|Action]] + ▶[[SF_CH5_Core_Action-Theme#Oracle Theme\|Theme]] |
 | 91 - 100 | Roll Twice |
-^table-OclStarshipMission-Expanse
+^table-Mission-Expanse
 
 *328 CHAPTER 5: ORACLES*
 

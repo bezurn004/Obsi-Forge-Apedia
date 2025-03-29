@@ -23,7 +23,7 @@ Text
 
 ## Oracle: Shipwreck Peril
 > [!mechanics]- | Roll > `dice: [[OT_ISSI_Shipwrecks#^Peril]]` | Guidance
-> Text ^guidance-OclShipwreckPeril
+> Text ^guidance-Peril
 
 | dice: 1d100 | Result |
 | :---: | --- |
@@ -47,11 +47,11 @@ Text
 | 86 - 90 | Unstable or rotting deck |
 | 91 - 95 | Worsening weather or environment |
 | 96 - 100 | Roll twice |
-^table-OclShipwreckPeril
+^table-Peril
 
 ## Oracle: Shipwreck Opportunity
 > [!mechanics]- | Roll > `dice: [[OT_ISSI_Shipwrecks#^Opportunity]]` | Guidance
-> Text ^guidance-OclShipwreckOpportunity
+> Text ^guidance-Opportunity
 
 | dice: 1d100 | Result |
 | :--- :| --- |
@@ -63,7 +63,7 @@ Text
 | 86 - 96 | ▶[[SI_CH3_Treasure Creation#Oracle Treasure Value - Small\|Treasure]]; _pg 221_ (small repository) |
 | 97 - 99 | ▶[[SI_CH3_Treasure Creation#Oracle Treasure Value - Medium\|Treasure]]; _pg 221_ (medium repository) |
 | 100 | ▶[[SI_CH3_Treasure Creation#Oracle Treasure Value - Large\|Treasure]]; _pg 221_ (large repository) |
-^table-OclShipwreckOpportunity
+^table-Opportunity
 
 *203 SHIPWRECK ORACLES*
 
@@ -71,6 +71,6 @@ Text
 
 | Previous Page | Tags | Next Section |
 | :--- | :---: | ---: |
-| **[[SI_CH3_Shipreck_Approach\|Shipwreck Approach (SI Oracles)]]** | #SunderedIsles/Oracles/Shipwrecks | **[[_SI_CH3_Cave Oracles\|Caves (SI Oracles)]]** |
+| **[[SI_CH3_Shipwreck_Approach\|Shipwreck Approach (SI Oracles)]]** | #SunderedIsles/Oracles/Shipwrecks | **[[_SI_CH3_Cave Oracles\|Caves (SI Oracles)]]** |
 
 <font size=-2>Copyright ©2024 Shawn Tomkin. The text of this work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license. For license details, visit ironswornrpg.com. Updated June 2024 MUH051V200-PDF</font>

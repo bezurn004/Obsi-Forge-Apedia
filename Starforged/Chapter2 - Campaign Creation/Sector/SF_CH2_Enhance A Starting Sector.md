@@ -67,15 +67,15 @@ It will be helpful to have some additional detail for one of the settlements in 
 Choose one of the settlements in your starting sector, whichever is most interesting to you. Then return to the settlement oracles and roll on the following:
 - [[SF_CH5_Settle-Creation|Settlement Location]]
 - [[SF_CH5_Settle-Creation#Settlement Population|Settlement Population]]
-- [[SF_CH5_Settle_Approach#Oracle: Settlement First Look|Settlement First Look]] roll 1–2 times 
+- [[SF_CH5_Settle_Approach#Oracle: Settlement First Look|Settlement First Look]] roll 1-2 times 
 - [[SF_CH5_Settle-Concerns|Settlement Trouble]]
 
 > Some results may refer you to another oracle, as indicated by an arrow symbol (▶). For example, if you roll ▶Action + Theme on the Settlement Trouble table, you’ll roll again on the [[SF_CH5_Core_Action-Theme|Action/Theme Oracle]] to generate an abstract creative prompt.
 
 If the settlement is planetside or in orbit, you can also expand your understanding of that planet. Go to the appropriate planet type [[_SF_CH5_Planets|Planet Oracles]], and roll on the following tables: 
 - **Atmosphere**
-- **Observed from Space**; roll 1–2 times 
-- **Planetside Feature**; roll 1–2 times 
+- **Observed from Space**; roll 1-2 times 
+- **Planetside Feature**; roll 1-2 times 
 
 If the planet is a Vital World, also roll on the **Diversity** and **Biomes** tables.
 
@@ -90,32 +90,32 @@ Don’t roll on the planet’s settlement table. To keep things simple for now, 
 ## ![[hexagon_white_num_10.svg|35]] Introduce a Sector Trouble
 You’ve heard rumors of a sector-wide peril, conflict, or mystery. You may come up with a trouble appropriate to your setting and character, roll on the [[SF_CH5_Core_Action-Theme|Action/Theme Oracle]] for inspiration, or pick or roll on the table below. Envision how this trouble might manifest, and make note of it on your sector worksheet or journal.
 
+> [!oracle]- Roll
+> `dice: [[OT_ISSF_Campaign#^Sector-Trouble]]`
+
 | dice: 1d100 | Sector Trouble |
 |:---:|:--- |
-| 1 – 5 | Blockade prevents trade with other sectors |
-| 6 – 10 | Bounty hunters search for an infamous fugitive |
-| 11 – 15 | Chaotic breaches in spacetime spread like wildfire |
-| 16 – 20 | Criminal faction corrupts local authorities |
-| 21 – 25 | Devastating superweapon has fallen into the wrong hands |
-| 26 – 30 | Energy storms are rampant |
-| 31 – 35 | Magnetic disturbances disrupt communication |
-| 36 – 40 | Newly found resource lures greedy fortune hunters to the sector |
-| 41 – 45 | Notorious pirate clan preys on starships |
-| 46 – 50 | Parasitic lifeforms spread like a plague |
-| 51 – 55 | Precursor sites throughout the sector emit strange signals |
-| 56 – 60 | Prophecies foretell an imminent awakening of a dreadful power |
-| 61 – 65 | Raider clan emerges as a dominant threat under a new leader |
-| 66 – 70 | Religious zealots overrun the sector |
-| 71 – 75 | Rogue AI infiltrates systems throughout the sector |
-| 76 – 80 | Settlements or factions are on the brink of war |
-| 81 – 85 | Ships regularly go missing |
-| 86 – 90 | Sickness spreads among ships and settlements |
-| 91 – 95 | Supernova is imminent |
-| 96 – 100 | Titanic spaceborne lifeform stalks the spaceways |
+| 1 - 5 | Blockade prevents trade with other sectors |
+| 6 - 10 | Bounty hunters search for an infamous fugitive |
+| 11 - 15 | Chaotic breaches in spacetime spread like wildfire |
+| 16 - 20 | Criminal faction corrupts local authorities |
+| 21 - 25 | Devastating superweapon has fallen into the wrong hands |
+| 26 - 30 | Energy storms are rampant |
+| 31 - 35 | Magnetic disturbances disrupt communication |
+| 36 - 40 | Newly found resource lures greedy fortune hunters to the sector |
+| 41 - 45 | Notorious pirate clan preys on starships |
+| 46 - 50 | Parasitic lifeforms spread like a plague |
+| 51 - 55 | Precursor sites throughout the sector emit strange signals |
+| 56 - 60 | Prophecies foretell an imminent awakening of a dreadful power |
+| 61 - 65 | Raider clan emerges as a dominant threat under a new leader |
+| 66 - 70 | Religious zealots overrun the sector |
+| 71 - 75 | Rogue AI infiltrates systems throughout the sector |
+| 76 - 80 | Settlements or factions are on the brink of war |
+| 81 - 85 | Ships regularly go missing |
+| 86 - 90 | Sickness spreads among ships and settlements |
+| 91 - 95 | Supernova is imminent |
+| 96 - 100 | Titanic spaceborne lifeform stalks the spaceways |
 ^table-sector-trouble
-
-> [!oracle]- Roll
-> `dice: [[SF_CH2_Enhance A Starting Sector#^table-sector-trouble]]`
 
 ## ![[hexagon_white_num_11.svg|35]] Finalize The Starting Sector
 Give your sector a name. If you’d like a suggestion, roll on the [[SF_CH5_Sector-Name|Sector Name Oracle]]. Write the name on your sector worksheet.

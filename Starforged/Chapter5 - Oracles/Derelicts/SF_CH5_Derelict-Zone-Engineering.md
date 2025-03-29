@@ -24,11 +24,11 @@ OracleDescriptor: "_The primary infrastructure at the heart of this now abandone
 _The primary infrastructure at the heart of this now abandoned derelict._
 
 ## Oracle: Derelict Zone Engineering - Area
-> [!mechanics]- | Roll > `dice: [[SF_CH5_Derelict-Zone-Engineering#^table-OclDerelictZone-Engineering-Area]]` | Guidance
-> ![[GSRY_Definitions#^gsry-OclSite-Area]] ^guidance-OclSite-Area
+> [!mechanics]- | Roll > `dice: [[OT_ISSF_Derelicts#^Zone-Engineering-Area]]` | Guidance
+> ![[GSRY_Definitions#^gsry-OclSite-Area]] ^guidance-Area
 
 | dice: 1d100 | Result |
-| :---: | :--- |
+| :---: | --- |
 | 1 - 8 | Control room |
 | 9 - 16 | Engine room or power core |
 | 17 - 24 | Engineering offices |
@@ -41,14 +41,14 @@ _The primary infrastructure at the heart of this now abandoned derelict._
 | 73 - 80 | Workshop |
 | 81 - 85 | New zone |
 | 86 - 100 | New zone via ⏵[[SF_CH5_Derelict-Zone-Access\|Access]] |
-^table-OclDerelictZone-Engineering-Area
+^table-Area
 
 ## Oracle: Derelict Zone Engineering - Feature
-> [!mechanics]- | Roll > `dice: [[SF_CH5_Derelict-Zone-Engineering#^table-OclDerelictZone-Engineering-Area]]` | Guidance
-> ![[GSRY_Definitions#^gsry-OclSite-Feature]] ^guidance-OclSite-Feature
+> [!mechanics]- | Roll > `dice: [[OT_ISSF_Derelicts#^Zone-Engineering-Feature]]` | Guidance
+> ![[GSRY_Definitions#^gsry-OclSite-Feature]] ^guidance-Feature
 
 | dice: 1d100 | Result |
-| :---: | :--- |
+| :---: | --- |
 | 1 - 8 | Cluttered workbench |
 | 9 - 16 | Control terminal |
 | 17 - 24 | Crane or lift |
@@ -61,14 +61,14 @@ _The primary infrastructure at the heart of this now abandoned derelict._
 | 73 - 80 | Unfinished project |
 | 81 - 88 | Utility bots |
 | 89 - 100 | ⏵[[SF_CH5_Core_Descriptor-Focus#Oracle Descriptor\|Descriptor]] + [[SF_CH5_Core_Descriptor-Focus#Oracle Focus\|Focus]] |
-^table-OclDerelictZone-Engineering-Feature
+^table-Feature
 
 ## Oracle: Derelict Zone Engineering - Peril
-> [!mechanics]- | Roll > `dice: [[SF_CH5_Derelict-Zone-Engineering#^table-OclDerelictZone-Engineering-Peril]]` | Guidance
-> ![[GSRY_Definitions#^gsry-OclSite-Peril]] ^guidance-OclSite-Peril
+> [!mechanics]- | Roll > `dice: [[OT_ISSF_Derelicts#^Zone-Engineering-Peril]]` | Guidance
+> ![[GSRY_Definitions#^gsry-OclSite-Peril]] ^guidance-Peril
 
 | dice: 1d100 | Result |
-| :---: | :--- |
+| :---: | --- |
 | 1 - 10 | Corrosive leak |
 | 11 - 20 | Erratic utility bots |
 | 21 - 30 | Failing equipment requires a specific part or skill |
@@ -80,20 +80,20 @@ _The primary infrastructure at the heart of this now abandoned derelict._
 | 81 - 90 | Unstable or failing power core |
 | 91 - 98 | ⏵[[SF_CH5_Core_Action-Theme#Oracle Action\|Action]] + [[SF_CH5_Core_Action-Theme#Oracle Theme\|Theme]] |
 | 99 - 100 | Roll twice |
-^table-OclDerelictZone-Engineering-Peril
+^table-Peril
 
 ## Oracle: Derelict Zone Engineering - Opportunity
-> [!mechanics]- | Roll > `dice: [[SF_CH5_Derelict-Zone-Engineering#^table-OclDerelictZone-Engineering-Opportunity]]` | Guidance
-> ![[GSRY_Definitions#^gsry-OclSite-Opportunity]] ^guidance-OclSite-Opportunity
+> [!mechanics]- | Roll > `dice: [[OT_ISSF_Derelicts#^Zone-Engineering-Opportunity]]` | Guidance
+> ![[GSRY_Definitions#^gsry-OclSite-Opportunity]] ^guidance-Opportunity
 
 | dice: 1d100 | Result |
-| :---: | :--- |
+| :---: | --- |
 | 1 - 20 | Advanced or experimental equipment |
 | 21 - 40 | Chance to restore power or function |
 | 41 - 60 | Helpful plans or schematics |
 | 61 - 80 | Helpful utility bot |
 | 81 - 100 | Useful tool or device |
-^table-OclDerelictZone-Engineering-Opportunity
+^table-Opportunity
 
 *354 CHAPTER 5: ORACLES*
 

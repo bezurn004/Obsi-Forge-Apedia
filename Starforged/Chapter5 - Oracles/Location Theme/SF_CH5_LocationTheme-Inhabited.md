@@ -24,11 +24,11 @@ OracleDescriptor: "_People have built a community in this place._"
 _People have built a community in this place._
 
 ## Oracle: Location Theme - Inhabited Feature
-> [!mechanics]- | Roll > `dice: [[SF_CH5_LocationTheme-Inhabited#^table-OclLocationThemeInhabitedFeature]]` | Guidance
-> ![[GSRY_Definitions#^gsry-OclSite-Feature]] ^guidance-OclSite-Feature
+> [!mechanics]- | Roll > `dice: [[OT_ISSF_Location-Themes#^Inhabited-Feature]]` | Guidance
+> ![[GSRY_Definitions#^gsry-OclSite-Feature]] ^guidance-Feature
 
 | dice: 1d100 | Result |
-| :---: | :--- |
+| :---: | --- |
 | 1 - 8 | Conspicuous patrols or surveillance |
 | 9 - 16 | Crews at work |
 | 17 - 24 | Display or monument honors a notable cultural event |
@@ -41,15 +41,15 @@ _People have built a community in this place._
 | 73 - 80 | Unrepaired damage |
 | 81 - 88 | Unusually empty or quiet area |
 | 89 - 96 | Vendor or merchant hawking their wares |
-| 97 - 100 | ▶[[SF_CH5_Core_Descriptor-Focus#Oracle Descriptor\|Descriptor]] + [[SF_CH5_Core_Descriptor-Focus#Oracle Focus\|Focus]] |
-^table-OclLocationThemeInhabitedFeature
+| 97 - 100 | ▶[[SF_CH5_Core_Descriptor-Focus#Oracle Descriptor\|Descriptor]] + ▶[[SF_CH5_Core_Descriptor-Focus#Oracle Focus\|Focus]] |
+^table-Inhabited-Feature
 
 ## Oracle: Location Theme - Inhabited Peril
-> [!mechanics]- | Roll > `dice: [[SF_CH5_LocationTheme-Inhabited#^table-OclLocationThemeInhabitedPeril]]` | Guidance
-> ![[GSRY_Definitions#^gsry-OclSite-Peril]] ^guidance-OclSite-Peril
+> [!mechanics]- | Roll > `dice: [[OT_ISSF_Location-Themes#^Inhabited-Peril]]` | Guidance
+> ![[GSRY_Definitions#^gsry-OclSite-Peril]] ^guidance-Peril
 
 | dice: 1d100 | Result |
-| :---: | :--- |
+| :---: | --- |
 | 1 - 9 | Announcement or notification brings harrowing news |
 | 10 - 18 | Arrival of a foe or rival |
 | 19 - 27 | Blockade or security cordon cuts off needed access |
@@ -60,22 +60,22 @@ _People have built a community in this place._
 | 64 - 72 | Signs of unrest or rebellion |
 | 73 - 81 | Signs that you are being watched or followed |
 | 82 - 90 | Unwanted attention from authority or enemies |
-| 91 - 98 | ▶[[SF_CH5_Core_Action-Theme#Oracle Action\|Action]] + [[SF_CH5_Core_Action-Theme#Oracle Theme\|Theme]] |
+| 91 - 98 | ▶[[SF_CH5_Core_Action-Theme#Oracle Action\|Action]] + ▶[[SF_CH5_Core_Action-Theme#Oracle Theme\|Theme]] |
 | 99 - 100 | Roll twice |
-^table-OclLocationThemeInhabitedPeril
+^table-Inhabited-Peril
 
 ## Oracle: Location Theme - Inhabited Opportunity
-> [!mechanics]- | Roll > `dice: [[SF_CH5_LocationTheme-Inhabited#^table-OclLocationThemeInhabitedOpportunity]]` | Guidance
-> ![[GSRY_Definitions#^gsry-OclSite-Opportunity]] ^guidance-OclSite-Opportunity
+> [!mechanics]- | Roll > `dice: [[OT_ISSF_Location-Themes#^Inhabited-Opportunity]]` | Guidance
+> ![[GSRY_Definitions#^gsry-OclSite-Opportunity]] ^guidance-Opportunity
 
 | dice: 1d100 | Result |
-| :---: | :--- |
+| :---: | --- |
 | 1 - 20 | Intriguing offer from an unexpected source |
 | 21 - 40 | Lively festival or gathering place provides a chance to socialize |
 | 41 - 60 | Local gossip proves interesting or helpful |
 | 61 - 80 | Needed item, resource, or buyer is available |
 | 81 - 100 | Old friend or connection resurfaces |
-^table-OclLocationThemeInhabitedOpportunity
+^table-Inhabited-Opportunity
 
 *386 CHAPTER 5: ORACLES*
 

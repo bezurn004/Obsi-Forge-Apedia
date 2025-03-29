@@ -20,11 +20,11 @@ OracleDescriptor: "Generate story clues related to the Gather Information move."
 Generate story clues related to the Gather Information move.
 
 ## Oracle: Story Clue
-> [!mechanics]- | Roll > `dice: [[SF_CH5_Story Clue#^table-OclStoryClue]]` | Guidance
-> When you [[SF_CH3_Gather Information|Gather Information (move)]]to investigate a mystery, you might uncover clues in the form of messages, rumors, eyewitness reports, data, or physical evidence. You can use this oracle to help reveal what this evidence connects to or implicates. Then, use the outcome of the [[SF_CH3_Gather Information|Gather Information (move)]]roll, strong hit, weak hit, or miss, to guide whether the clue brings clarity or complications. ^guidance-OclStoryClue
+> [!mechanics]- | Roll > `dice: [[OT_ISSF_Misc#^Story-Clue]]` | Guidance
+> When you [[SF_CH3_Gather Information|Gather Information (move)]]to investigate a mystery, you might uncover clues in the form of messages, rumors, eyewitness reports, data, or physical evidence. You can use this oracle to help reveal what this evidence connects to or implicates. Then, use the outcome of the [[SF_CH3_Gather Information|Gather Information (move)]]roll, strong hit, weak hit, or miss, to guide whether the clue brings clarity or complications. ^guidance-Story-Clue
 
 | dice: 1d100 | Result |
-| :---: | :--- |
+| :---: | --- |
 | 1 - 3 | Affirms a previously understood fact or clue |
 | 4 - 6 | Connects to a known rumor or scandal |
 | 7 - 9 | Connects to a previously unrelated mystery or quest |
@@ -55,8 +55,8 @@ Generate story clues related to the Gather Information move.
 | 82 - 84 | Suggests a history of similar incidents |
 | 85 - 87 | Suggests a looming event or deadline |
 | 88 - 90 | Suggests an impostor or forgery |
-| 91 - 100 | ▶[[SF_CH5_Core_Descriptor-Focus#Oracle Descriptor\|Descriptor]] + [[SF_CH5_Core_Descriptor-Focus#Oracle Focus\|Focus]] |
-^table-OclStoryClue
+| 91 - 100 | ▶[[SF_CH5_Core_Descriptor-Focus#Oracle Descriptor\|Descriptor]] + ▶[[SF_CH5_Core_Descriptor-Focus#Oracle Focus\|Focus]] |
+^table-Story-Clue
 
 *381 MISCELLANEOUS ORACLES*
 

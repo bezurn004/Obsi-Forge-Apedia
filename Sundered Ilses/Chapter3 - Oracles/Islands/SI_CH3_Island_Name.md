@@ -25,7 +25,7 @@ _Generate a **name** for an Island that will be notable in your adventures._
 > Optionally, Create a compound name for an island or island group by taking your result and adding a word from the list to the right. For example, Flint Islands or Shipwreck Cay.
 > - **[[#Island Name Decorator|Group]]:** `dice: [[OT_ISSI_Islands#^Decorator-Group]]`
 > - **[[#Island Name Decorator|Typical Island]]:** `dice: [[OT_ISSI_Islands#^Decorator-Typical]]`
-> - **[[#Island Name Decorator|Small Island]]:** `dice: [[OT_ISSI_Islands#^Decorator-Small]]` ^guidance-OclIslandName
+> - **[[#Island Name Decorator|Small Island]]:** `dice: [[OT_ISSI_Islands#^Decorator-Small]]` ^guidance-Name
 
 | dice: 1d100 | Result [skull] _[[#Oracle Cursed Island Name\|below]]_ |
 | :---: | --- |
@@ -129,7 +129,7 @@ _Generate a **name** for an Island that will be notable in your adventures._
 | 98 | Vatuku |
 | 99 | Vaunti |
 | 100 | Witaka |
-^table-OclIslandName
+^table-Name
 
 
 ## Oracle: Cursed Island Name
@@ -137,7 +137,7 @@ _Generate a **name** for an Island that will be notable in your adventures._
 > Optionally, Create a compound name for an island or island group by taking your result and adding a word from the list to the right. For example, Flint Islands or Shipwreck Cay.
 > - **[[#Island Name Decorator|Group]]:** `dice: [[OT_ISSI_Islands#^Decorator-Group]]`
 > - **[[#Island Name Decorator|Typical Island]]:** `dice: [[OT_ISSI_Islands#^Decorator-Typical]]`
-> - **[[#Island Name Decorator|Small Island]]:** `dice: [[OT_ISSI_Islands#^Decorator-Small]]`  ^guidance-OclCursedIslandName
+> - **[[#Island Name Decorator|Small Island]]:** `dice: [[OT_ISSI_Islands#^Decorator-Small]]`  ^guidance-Cursed-Name
 
 | dice: 1d100 | Result |
 | :---: | --- |
@@ -189,7 +189,7 @@ _Generate a **name** for an Island that will be notable in your adventures._
 | 95 - 96 | Torment |
 | 97 - 98 | Wither |
 | 99 - 100 | Wraith |
-^table-OclCursedIslandName
+^table-Cursed-Name
 
 *147 iSLAND ORACLES*
 ### Island Name Decorator
@@ -198,25 +198,25 @@ _Generate a **name** for an Island that will be notable in your adventures._
 > - **Small Island:** Cay, Islet, Key, Skerry
 
 | dice: 1d100 | Result |
-|:---:| --- |
-| 1-30 | Archipelago |
-| 31-60 | Isles |
-| 61-100 | Islands |
+| :---: | --- |
+| 1 - 30 | Archipelago |
+| 31 - 60 | Isles |
+| 61 - 100 | Islands |
 ^Decorator-Group
 
 | dice: 1d100 | Result |
-|:---:| --- |
-| 1-30 | Atoll |
-| 31-60 | Isle |
-| 61-100 | Island |
+| :---: | --- |
+| 1 - 30 | Atoll |
+| 31 - 60 | Isle |
+| 61 - 100 | Island |
 ^Decorator-Typical
 
 | dice: 1d100 | Result |
-|:---:| --- |
-| 1-25 | Cay |
-| 26-50 | Islet |
-| 51-75 | Key |
-| 76-100 | Skerry |
+| :---: | --- |
+| 1 - 25 | Cay |
+| 26 - 50 | Islet |
+| 51 - 75 | Key |
+| 76 - 100 | Skerry |
 ^Decorator-Small
 
 ## Tags

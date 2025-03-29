@@ -26,7 +26,7 @@ Generate a settlement **Name** with these oracles.
 > For example, Moonstone Bay or Mournhaunt Crossing. _See [[#Settlement Name - Decorator|Settlement Name Decorator]] for a list of values._
 > - [[SI_CH3_Settle-Name#^Decorator-Shore\|Shore]]: `dice: [[OT_ISSI_Settlements#^Decorator-Inland]]`
 > - [[SI_CH3_Settle-Name#^Decorator-Inland\|Inland]]: `dice: [[OT_ISSI_Settlements#^Decorator-Shore]]`
-> - [[SI_CH3_Settle-Name#^Decorator-Waterside\|Waterside]]: `dice: [[OT_ISSI_Settlements#^Decorator-Waterside]]`
+> - [[SI_CH3_Settle-Name#^Decorator-Waterside\|Waterside]]: `dice: [[OT_ISSI_Settlements#^Decorator-Waterside]]` ^guidance-Name
 
 | dice: 1d100 | Result [skull] _[[#Oracle Cursed Settlement Name\|below]]_|
 | :---: | --- |
@@ -130,11 +130,11 @@ Generate a settlement **Name** with these oracles.
 | 98 | Windward |
 | 99 | Yersk |
 | 100 | Zhale |
-^table-OclSettleName
+^table-Name
 
 ## Oracle: Cursed Settlement Name
 > [!mechanics]- | Roll > `dice: [[OT_ISSI_Settlements^Cursed-Name]]` | Guidance
-> Text ^guidance-OclCursedSettleName
+> Text ^guidance-Cursed-Name
 
 | dice: 1d100 | Result |
 | :---: | --- |
@@ -186,7 +186,7 @@ Generate a settlement **Name** with these oracles.
 | 95 - 96 | Vigil |
 | 97 - 98 | Widow's Watch |
 | 99 - 100 | Wrack |
-^table-OclCursedSettleName
+^table-Cursed-Name
 
 *175 SETTLEMENT ORACLES*
 

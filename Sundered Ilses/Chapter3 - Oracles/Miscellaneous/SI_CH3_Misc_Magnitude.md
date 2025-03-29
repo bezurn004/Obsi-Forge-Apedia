@@ -44,15 +44,16 @@ Use this table to help answer a question related to the scale, extent, or capabi
 | 36 - 65 | Medium | Several | Far | Medium | Moderate | Manageable | Reliable | Common | Wary | Formidable |
 | 66 - 85 | Large | Many | Remote | Fast | Strong | Complicated | Durable | Valuable | Threatening | Extreme |
 | 86 - 100 | Huge | Countless | Inaccessible | Very fast | Overwhelming | Bewildering | Indestructible | Priceless | Hostile | Epic |
+^table-Magnitude-All
 
 ### Oracle: Magnitude - Size
-> [!mechanics]- | Roll > `dice: [[SI_CH3_Misc_Magnitude^table-OclMagnitude-Size]]` | Guidance
+> [!mechanics]- | Roll > `dice: [[SI_CH3_Misc_Magnitude^table-Magnitude-Size]]` | Guidance
 > Use this table to help answer a question related to the scale, extent, or capability of something. Ask your question, choose one of the columns below, and roll to reveal the answer. For example:
 > - **Number:** “How many ships are docked here?”
 > - **Power:** “How strong are the fort’s defenses?”
 > - **Complexity:** “How tricky is the lock?”
 > - **Value:** “How rare is this artifact?”
-> - **Rank:** “What is the challenge rank of this expedition?” ^guidance-OclMagnitude-Size
+> - **Rank:** “What is the challenge rank of this expedition?” ^guidance-Magnitude-Size
 
 | dice: 1d100 | Result |
 | :---: | --- |
@@ -61,7 +62,7 @@ Use this table to help answer a question related to the scale, extent, or capabi
 | 36 - 65 | Medium |
 | 66 - 85 | Large |
 | 86 - 100 | Huge |
-^table-OclMagnitude-Size
+^table-Magnitude-Size
 
 ### Oracle: Magnitude - Number
 > [!mechanics]- | Roll > `dice: [[OT_ISSI_Misc^Magnitude-Number]]` | Guidance
@@ -70,7 +71,7 @@ Use this table to help answer a question related to the scale, extent, or capabi
 > - **Power:** “How strong are the fort’s defenses?”
 > - **Complexity:** “How tricky is the lock?”
 > - **Value:** “How rare is this artifact?”
-> - **Rank:** “What is the challenge rank of this expedition?” ^guidance-OclMagnitude-Number
+> - **Rank:** “What is the challenge rank of this expedition?” ^guidance-Magnitude-Number
 
 | dice: 1d100 | Result |
 | :---: | --- |
@@ -79,7 +80,7 @@ Use this table to help answer a question related to the scale, extent, or capabi
 | 36 - 65 | Several |
 | 66 - 85 | Many |
 | 86 - 100 | Countless |
-^table-OclMagnitude-Number
+^table-Magnitude-Number
 
 ### Oracle: Magnitude - Distance
 > [!mechanics]- | Roll > `dice: [[OT_ISSI_Misc^Magnitude-Distance]]` | Guidance
@@ -88,7 +89,7 @@ Use this table to help answer a question related to the scale, extent, or capabi
 > - **Power:** “How strong are the fort’s defenses?”
 > - **Complexity:** “How tricky is the lock?”
 > - **Value:** “How rare is this artifact?”
-> - **Rank:** “What is the challenge rank of this expedition?” ^guidance-OclMagnitude-Distance
+> - **Rank:** “What is the challenge rank of this expedition?” ^guidance-Magnitude-Distance
 
 | dice: 1d100 | Result |
 | :---: | --- |
@@ -97,7 +98,7 @@ Use this table to help answer a question related to the scale, extent, or capabi
 | 36 - 65 | Far |
 | 66 - 85 | Remote |
 | 86 - 100 | Inaccessible |
-^table-OclMagnitude-Distance
+^table-Magnitude-Distance
 
 ### Oracle: Magnitude - Speed
 > [!mechanics]- | Roll > `dice: [[OT_ISSI_Misc^Magnitude-Speed]]` | Guidance
@@ -106,7 +107,7 @@ Use this table to help answer a question related to the scale, extent, or capabi
 > - **Power:** “How strong are the fort’s defenses?”
 > - **Complexity:** “How tricky is the lock?”
 > - **Value:** “How rare is this artifact?”
-> - **Rank:** “What is the challenge rank of this expedition?” ^guidance-OclMagnitude-Speed
+> - **Rank:** “What is the challenge rank of this expedition?” ^guidance-Magnitude-Speed
 
 | dice: 1d100 | Speed |
 | :---: | --- |
@@ -115,7 +116,7 @@ Use this table to help answer a question related to the scale, extent, or capabi
 | 36 - 65 | Medium |
 | 66 - 85 | Fast |
 | 86 - 100 | Very fast |
-^table-OclMagnitude-Speed
+^table-Magnitude-Speed
 
 ### Oracle: Magnitude - Power
 > [!mechanics]- | Roll > `dice: [[OT_ISSI_Misc^Magnitude-Power]]` | Guidance
@@ -124,7 +125,7 @@ Use this table to help answer a question related to the scale, extent, or capabi
 > - **Power:** “How strong are the fort’s defenses?”
 > - **Complexity:** “How tricky is the lock?”
 > - **Value:** “How rare is this artifact?”
-> - **Rank:** “What is the challenge rank of this expedition?” ^guidance-OclMagnitude-Power
+> - **Rank:** “What is the challenge rank of this expedition?” ^guidance-Magnitude-Power
 
 | dice: 1d100 | Result |
 | :---: | --- |
@@ -133,7 +134,7 @@ Use this table to help answer a question related to the scale, extent, or capabi
 | 36 - 65 | Moderate |
 | 66 - 85 | Strong |
 | 86 - 100 | Overwhelming |
-^table-OclMagnitude-Power
+^table-Magnitude-Power
 
 ### Oracle: Magnitude - Complexity
 > [!mechanics]- | Roll > `dice: [[OT_ISSI_Misc^Magnitude-Complexity]]` | Guidance
@@ -142,7 +143,7 @@ Use this table to help answer a question related to the scale, extent, or capabi
 > - **Power:** “How strong are the fort’s defenses?”
 > - **Complexity:** “How tricky is the lock?”
 > - **Value:** “How rare is this artifact?”
-> - **Rank:** “What is the challenge rank of this expedition?” ^guidance-OclMagnitude-Complexity
+> - **Rank:** “What is the challenge rank of this expedition?” ^guidance-Magnitude-Complexity
 
 | dice: 1d100 | Result |
 | :---: | --- |
@@ -151,7 +152,7 @@ Use this table to help answer a question related to the scale, extent, or capabi
 | 36 - 65 | Manageable |
 | 66 - 85 | Complicated |
 | 86 - 100 | Bewildering |
-^table-OclMagnitude-Complexity
+^table-Magnitude-Complexity
 
 ### Oracle: Magnitude - Quality
 > [!mechanics]- | Roll > `dice: [[OT_ISSI_Misc^Magnitude-Quality]]` | Guidance
@@ -160,7 +161,7 @@ Use this table to help answer a question related to the scale, extent, or capabi
 > - **Power:** “How strong are the fort’s defenses?”
 > - **Complexity:** “How tricky is the lock?”
 > - **Value:** “How rare is this artifact?”
-> - **Rank:** “What is the challenge rank of this expedition?”^guidance-OclMagnitude-Quality
+> - **Rank:** “What is the challenge rank of this expedition?”^guidance-Magnitude-Quality
 
 | dice: 1d100 | Result |
 | :---: | --- |
@@ -169,7 +170,7 @@ Use this table to help answer a question related to the scale, extent, or capabi
 | 36 - 65 | Reliable |
 | 66 - 85 | Durable |
 | 86 - 100 | Indestructible |
-^table-OclMagnitude-Quality
+^table-Magnitude-Quality
 
 ### Oracle: Magnitude - Value
 > [!mechanics]- | Roll > `dice: [[OT_ISSI_Misc^Magnitude-Value]]` | Guidance
@@ -178,7 +179,7 @@ Use this table to help answer a question related to the scale, extent, or capabi
 > - **Power:** “How strong are the fort’s defenses?”
 > - **Complexity:** “How tricky is the lock?”
 > - **Value:** “How rare is this artifact?”
-> - **Rank:** “What is the challenge rank of this expedition?” ^guidance-OclMagnitude-Value
+> - **Rank:** “What is the challenge rank of this expedition?” ^guidance-Magnitude-Value
 
 | dice: 1d100 | Result |
 | :---: | --- |
@@ -187,7 +188,7 @@ Use this table to help answer a question related to the scale, extent, or capabi
 | 36 - 65 | Common |
 | 66 - 85 | Valuable |
 | 86 - 100 | Priceless |
-^table-OclMagnitude-Value
+^table-Magnitude-Value
 
 ### Oracle: Magnitude - Disposition
 > [!mechanics]- | Roll > `dice: [[OT_ISSI_Misc^Magnitude-Disposition]]` | Guidance
@@ -196,7 +197,7 @@ Use this table to help answer a question related to the scale, extent, or capabi
 > - **Power:** “How strong are the fort’s defenses?”
 > - **Complexity:** “How tricky is the lock?”
 > - **Value:** “How rare is this artifact?”
-> - **Rank:** “What is the challenge rank of this expedition?” ^guidance-OclMagnitude-Disposition
+> - **Rank:** “What is the challenge rank of this expedition?” ^guidance-Magnitude-Disposition
 
 | dice: 1d100 | Result |
 | :---: | --- |
@@ -205,7 +206,7 @@ Use this table to help answer a question related to the scale, extent, or capabi
 | 36 - 65 | Wary |
 | 66 - 85 | Threatening |
 | 86 - 100 | Hostile |
-^table-OclMagnitude-Disposition
+^table-Magnitude-Disposition
 
 ### Oracle: Magnitude - Result
 > [!mechanics]- | Roll > `dice: [[OT_ISSI_Misc^Magnitude-Rank]]` | Guidance
@@ -214,7 +215,7 @@ Use this table to help answer a question related to the scale, extent, or capabi
 > - **Power:** “How strong are the fort’s defenses?”
 > - **Complexity:** “How tricky is the lock?”
 > - **Value:** “How rare is this artifact?”
-> - **Rank:** “What is the challenge rank of this expedition?” ^guidance-OclMagnitude-Rank
+> - **Rank:** “What is the challenge rank of this expedition?” ^guidance-Magnitude-Rank
 
 | dice: 1d100 | Result |
 | :---: | --- |
@@ -223,7 +224,7 @@ Use this table to help answer a question related to the scale, extent, or capabi
 | 36 - 65 | Formidable |
 | 66 - 85 | Extreme |
 | 86 - 100 | Epic |
-^table-OclMagnitude-Rank
+^table-Magnitude-Rank
 
 ## Tags
 

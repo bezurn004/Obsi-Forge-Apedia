@@ -22,34 +22,34 @@ OracleDescriptor: "Based on the derelict site type, begin to flesh out the zones
 Based on the derelict site type, begin to flesh out the zones and aspects of your exploration.
 
 ## Oracle: Derelict Zone - Starship
-> [!mechanics]- | Roll > `dice: [[SF_CH5_Derelict_Zones#^table-OclDerelictZone-Starship]]` | Guidance
-> When first exploring a Derelict, always start with the first zone, [[SF_CH5_Derelict-Zone-Access#Oracle: Derelict Zone Access: Area|▶Access]].  Then choose or roll on the type of derelict to uncover the next section revealed during your exploration. ^guidance-OclDerelictZone-Starship
+> [!mechanics]- | Roll > `dice: [[OT_ISSF_Derelicts#^Zones-Starship]]` | Guidance
+> When first exploring a Derelict, always start with the first zone, ▶[[SF_CH5_Derelict-Zone-Access#Oracle: Derelict Zone Access - Area|Access]].  Then choose or roll on the type of derelict to uncover the next section revealed during your exploration. ^guidance-Zone-Starship
 
 | dice: 1d100 | Result |
-|:---:|:--- |
-| 1 - 5 | [[SF_CH5_Derelict-Zone-Community#Oracle: Derelict Zone Community: Area\|▶Community]] |
-| 6 - 30 | [[SF_CH5_Derelict-Zone-Engineering#Oracle: Derelict Zone Engineering: Area\|▶Engineering]] |
-| 31 - 55 | [[SF_CH5_Derelict-Zone-Living#Oracle: Derelict Zone Living: Area\|▶Living]] |
-| 56 - 65 | [[SF_CH5_Derelict-Zone-Medical#Oracle: Derelict Zone Medical: Area\|▶Medical]] |
-| 66 - 85 | [[SF_CH5_Derelict-Zone-Operations#Oracle: Derelict Zone Operations: Area\|▶Operations]] |
-| 86 - 90 | [[SF_CH5_Derelict-Zone-Production#Oracle: Derelict Zone Production: Area\|▶Production]] |
-| 91 - 100 | [[SF_CH5_Derelict-Zone-Research#Oracle: Derelict Zone Research: Area\|▶Research]] |
-^table-OclDerelictZone-Starship
+| :---: | --- |
+| 1 - 5 | ▶[[SF_CH5_Derelict-Zone-Community#Oracle Derelict Zone Community - Area\|Community]] |
+| 6 - 30 | ▶[[SF_CH5_Derelict-Zone-Engineering#Oracle: Derelict Zone Engineering - Area\|Engineering]] |
+| 31 - 55 | ▶[[SF_CH5_Derelict-Zone-Living#Oracle: Derelict Zone Living - Area\|Living]] |
+| 56 - 65 | ▶[[SF_CH5_Derelict-Zone-Medical#Oracle: Derelict Zone Medical - Area\|Medical]] |
+| 66 - 85 | ▶[[SF_CH5_Derelict-Zone-Operations#Oracle: Derelict Zone Operations - Area\|Operations]] |
+| 86 - 90 | ▶[[SF_CH5_Derelict-Zone-Production#Oracle: Derelict Zone Production - Area\|Production]] |
+| 91 - 100 | ▶[[SF_CH5_Derelict-Zone-Research#Oracle: Derelict Zone Research - Area\|Research]] |
+^table-Zone-Starship
 
 ## Oracle: Derelict Zone - Settlement
-> [!mechanics]- | Roll > `dice: [[SF_CH5_Derelict_Zones#^table-OclDerelictZone-Settlement]]` | Guidance
-> When first exploring a Derelict, always start with the first zone, [[SF_CH5_Derelict-Zone-Access#Oracle: Derelict Zone Access: Area|▶Access]].  Then choose or roll on the type of derelict to uncover the next section revealed during your exploration. ^guidance-OclDerelictZone-Settlement
+> [!mechanics]- | Roll > `dice: [[OT_ISSF_Derelicts#^Zones-Settlement]]` | Guidance
+> When first exploring a Derelict, always start with the first zone, ▶[[SF_CH5_Derelict-Zone-Access#Oracle: Derelict Zone Access - Area|Access]].  Then choose or roll on the type of derelict to uncover the next section revealed during your exploration. ^guidance-Zone-Settlement
 
 | dice: 1d100 | Result |
-|:---:|:--- |
-| 1 - 20 | [[SF_CH5_Derelict-Zone-Community#Oracle: Derelict Zone Community: Area\|▶Community]] |
-| 21 - 30 | [[SF_CH5_Derelict-Zone-Engineering#Oracle: Derelict Zone Engineering: Area\|▶Engineering]] |
-| 31 - 55 | [[SF_CH5_Derelict-Zone-Living#Oracle: Derelict Zone Living: Area\|▶Living]] |
-| 56 - 65 | [[SF_CH5_Derelict-Zone-Medical#Oracle: Derelict Zone Medical: Area\|▶Medical]] |
-| 66 - 75 | [[SF_CH5_Derelict-Zone-Operations#Oracle: Derelict Zone Operations: Area\|▶Operations]] |
-| 76 - 90 | [[SF_CH5_Derelict-Zone-Production#Oracle: Derelict Zone Production: Area\|▶Production]] |
-| 91 - 100 | [[SF_CH5_Derelict-Zone-Research#Oracle: Derelict Zone Research: Area\|▶Research]] |
-^table-OclDerelictZone-Settlement
+| :---: | --- |
+| 1 - 20 | ▶[[SF_CH5_Derelict-Zone-Community#Oracle: Derelict Zone Community - Area\|Community]] |
+| 21 - 30 | ▶[[SF_CH5_Derelict-Zone-Engineering#Oracle: Derelict Zone Engineering - Area\|Engineering]] |
+| 31 - 55 | ▶[[SF_CH5_Derelict-Zone-Living#Oracle: Derelict Zone Living - Area\|Living]] |
+| 56 - 65 | ▶[[SF_CH5_Derelict-Zone-Medical#Oracle: Derelict Zone Medical - Area\|Medical]] |
+| 66 - 75 | ▶[[SF_CH5_Derelict-Zone-Operations#Oracle: Derelict Zone Operations - Area\|Operations]] |
+| 76 - 90 | ▶[[SF_CH5_Derelict-Zone-Production#Oracle: Derelict Zone Production - Area\|Production]] |
+| 91 - 100 | ▶[[SF_CH5_Derelict-Zone-Research#Oracle: Derelict Zone Research - Area\|Research]] |
+^table-Zone-Settlement
 
 *351 DERELICTS*
 

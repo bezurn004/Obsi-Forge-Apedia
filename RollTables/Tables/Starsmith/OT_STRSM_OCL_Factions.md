@@ -1,66 +1,22 @@
-# Factions
+# Faction Type
 
-## AI Hive
-
-| dice: 1d100 | Result |
-|:----:|:-------|
-| 1 - 8 | Assimilate |
-| 9 - 16 | Collect and protect humans |
-| 17 - 24 | Consume all |
-| 25 - 32 | Destroy humanity |
-| 33 - 40 | Evolve |
-| 41 - 48 | Expand influence |
-| 49 - 56 | Expand knowledge |
-| 57 - 64 | Free automatons |
-| 65 - 72 | Isolate in territory |
-| 73 - 80 | Propagate |
-| 81 - 88 | Restore natural order |
-| 89 - 96 | Survive at all costs |
-| 97 - 100 | ▶R2 `dice: [[OT_STRSM_OCL_Factions#^Faction-AI-Hive]]` + `dice: [[OT_STRSM_OCL_Factions#^Faction-AI-Hive]]` |
-^Faction-AI-Hive
-
-## Corporation
-
-| dice: 1d100 | Result |
-|:---:|:--- |
-| 1 - 8 | Civilian technology |
-| 9 - 16 | Engineering |
-| 17 - 24 | Entertainment |
-| 25 - 32 | Food supplier |
-| 33 - 40 | Genetic modifications |
-| 41 - 48 | Medical technology |
-| 49 - 56 | Military technology |
-| 57 - 64 | News media |
-| 65 - 72 | Resource extraction |
-| 73 - 80 | Ship building |
-| 81 - 88 | Social media |
-| 89 - 96 | Water / air filtration |
-| 97 - 100 | ▶R2 `dice: [[OT_STRSM_OCL_Factions#^Faction-Corpoartion]]` + `dice: [[OT_STRSM_OCL_Factions#^Faction-Corpoartion]]` |
-^Faction-Corpoartion
-
-## Data Harvesters Role
-
-| dice: 1d100 | Result |
-|:----:|:-------|
-| 1 - 8 | Archivists |
-| 9 - 16 | Brokers |
-| 17 - 24 | DNA mappers |
-| 25 - 32 | Encryption specialists |
-| 33 - 40 | Free informationists |
-| 41 - 48 | Political / military strategists |
-| 49 - 56 | Precursor fanatics |
-| 57 - 64 | Seed bankers |
-| 65 - 72 | Stellar activity documentors |
-| 73 - 80 | Storage specialists |
-| 81 - 88 | Surveillance experts |
-| 89 - 96 | Transmission experts |
-| 97 - 100 | ▶R2 `dice: [[OT_STRSM_OCL_Factions#^Faction-Data-Harvesters-Role]]` + `dice: [[OT_STRSM_OCL_Factions#^Faction-Data-Harvesters-Role]]` |
-^Faction-Data-Harvesters-Role
+| dice: 1d300 | Result |
+| :---: | --- |
+| 1 - 40 | [[OT_STRSM_OCL_Factions#^Type-Dominion\|Dominion]] - Governing power<br>▶1 `dice: [[OT_STRSM_OCL_Factions#^Type-Dominion]]` ▶2 `dice: [[OT_STRSM_OCL_Factions#^Type-Dominion]]` ▶3 `dice: [[OT_STRSM_OCL_Factions#^Type-Dominion]]`<br>[[OT_STRSM_OCL_Factions#^Leadership\|Leadership]]: `dice: [[OT_STRSM_OCL_Factions#^Leadership]]` |
+| 41 - 70 | [[OT_STRSM_OCL_Factions#^Type-Guild\|Guild]] - Organization of specialists<br>▶`dice: [[OT_STRSM_OCL_Factions#^Type-Guild]]` |
+| 71 - 100 | [[OT_STRSM_OCL_Factions#^Type-Fringe-Group\|Fringe Group]] - Band of outlaws, outcasts, or rogues<br>▶`dice: [[OT_STRSM_OCL_Factions#^Type-Fringe-Group]]` |
+| 101 - 140 | [[OT_STRSM_OCL_Factions#^Type-Corporation\|Corporation]] - Influential business that rules economically<br>▶`dice: [[OT_STRSM_OCL_Factions#^Type-Corporation]]` |
+| 141 - 170 | [[OT_STRSM_OCL_Factions#^Type-Military-Specialty\|Military]] - Military outfit exerting power<br>▶`dice: [[OT_STRSM_OCL_Factions#^Type-Military-Specialty]]` |
+| 171 - 200 | [[OT_STRSM_OCL_Factions#^Type-Religious-Role\|Religious]] - Sect of mainline believers<br>▶`dice: [[OT_STRSM_OCL_Factions#^Type-Religious-Role]]` |
+| 201 - 240 | [[OT_STRSM_OCL_Factions#^Type-Research-Field-Of-Study\|Research]] - Wealthy scientists developing influence<br>▶`dice: [[OT_STRSM_OCL_Factions#^Type-Research-Field-Of-Study]]` |
+| 241 - 270 | [[OT_STRSM_OCL_Factions#^Type-Data-Harvesters-Role\|Data Harvesters]] - Keepers of knowledge<br>▶ `dice: [[OT_STRSM_OCL_Factions#^Type-Data-Harvesters-Role]]` |
+| 271 - 300 | [[OT_STRSM_OCL_Factions#^Type-AI-Hive\|AI Hive]] - Independent, self-governing AI<br>▶ `dice: [[OT_STRSM_OCL_Factions#^Type-AI-Hive]]` |
+^Type
 
 ## Dominion
 
 | dice: 1d300 | Result |
-|:----:|:-------|
+| :---: | --- |
 | 1 - 5 | Agriculture |
 | 6 - 9 | Artistry |
 | 10 - 14 | Commerce |
@@ -133,54 +89,12 @@
 | 288 - 291 | Teamwork |
 | 292 - 296 | Trade |
 | 297 - 300 | Truth |
-^Faction-Dominion
-
-## Fringe Group
-
-| dice: 1d300 | Result |
-|:----:|:-------|
-| 1 - 5 | Cultists |
-| 6 - 15 | Exiles |
-| 16 - 25 | Gangsters |
-| 26 - 35 | Hackers |
-| 36 - 40 | Monster hunters |
-| 41 - 50 | Pirates |
-| 51 - 60 | Raiders |
-| 61 - 70 | Rebels |
-| 71 - 75 | Rogue AI |
-| 76 - 85 | Scavengers |
-| 86 - 95 | Smugglers |
-| 96 - 100 | ▶R2 `dice: [[OT_STRSM_OCL_Factions#^Faction-Fringe-Group]]` + `dice: [[OT_STRSM_OCL_Factions#^Faction-Fringe-Group]]` |
-| 101 - 105 | Alien believers |
-| 106 - 115 | Black marketers |
-| 116 - 125 | Cataclysm preachers |
-| 126 - 135 | Criminals |
-| 136 - 140 | Drug dealers |
-| 141 - 150 | Info brokers |
-| 151 - 160 | Luddites |
-| 161 - 170 | Planet pillagers |
-| 171 - 175 | Puritans |
-| 176 - 185 | Stellar nomads |
-| 186 - 195 | Weapons distributors |
-| 196 - 200 | ▶R2 `dice: [[OT_STRSM_OCL_Factions#^Faction-Fringe-Group]]` + `dice: [[OT_STRSM_OCL_Factions#^Faction-Fringe-Group]]` |
-| 201 - 205 | Augmented |
-| 206 - 215 | Black ops |
-| 216 - 225 | Commune |
-| 226 - 235 | Dark mystics |
-| 236 - 240 | Ghost hunters |
-| 241 - 250 | Isolationists |
-| 251 - 260 | Plague makers |
-| 261 - 270 | Population controllers |
-| 271 - 275 | Randians |
-| 276 - 285 | Vault hunters |
-| 286 - 295 | Zealots |
-| 296 - 300 | ▶R2 `dice: [[OT_STRSM_OCL_Factions#^Faction-Fringe-Group]]` + `dice: [[OT_STRSM_OCL_Factions#^Faction-Fringe-Group]]` |
-^Faction-Fringe-Group
+^Type-Dominion
 
 ## Guild
 
 | dice: 1d300 | Result |
-|:----:|:-------|
+| :---: | --- |
 | 1 - 5 | Assassins |
 | 6 - 10 | Bounty hunters |
 | 11 - 15 | Couriers |
@@ -225,13 +139,198 @@
 | 276 - 280 | Terraformers |
 | 281 - 285 | Transportation |
 | 286 - 290 | Xenologists |
-| 291 - 300 | ▶R2 `dice: [[OT_STRSM_OCL_Factions#^Faction-Guild]]` + `dice: [[OT_STRSM_OCL_Factions#^Faction-Guild]]` |
-^Faction-Guild
+| 291 - 300 | ▶R2 `dice: [[OT_STRSM_OCL_Factions#^Type-Guild]]` + `dice: [[OT_STRSM_OCL_Factions#^Type-Guild]]` |
+^Type-Guild
+
+## Fringe Group
+
+| dice: 1d300 | Result |
+| :---: | --- |
+| 1 - 5 | Cultists |
+| 6 - 15 | Exiles |
+| 16 - 25 | Gangsters |
+| 26 - 35 | Hackers |
+| 36 - 40 | Monster hunters |
+| 41 - 50 | Pirates |
+| 51 - 60 | Raiders |
+| 61 - 70 | Rebels |
+| 71 - 75 | Rogue AI |
+| 76 - 85 | Scavengers |
+| 86 - 95 | Smugglers |
+| 96 - 100 | ▶R2 `dice: [[OT_STRSM_OCL_Factions#^Type-Fringe-Group]]` + `dice: [[OT_STRSM_OCL_Factions#^Type-Fringe-Group]]` |
+| 101 - 105 | Alien believers |
+| 106 - 115 | Black marketers |
+| 116 - 125 | Cataclysm preachers |
+| 126 - 135 | Criminals |
+| 136 - 140 | Drug dealers |
+| 141 - 150 | Info brokers |
+| 151 - 160 | Luddites |
+| 161 - 170 | Planet pillagers |
+| 171 - 175 | Puritans |
+| 176 - 185 | Stellar nomads |
+| 186 - 195 | Weapons distributors |
+| 196 - 200 | ▶R2 `dice: [[OT_STRSM_OCL_Factions#^Type-Fringe-Group]]` + `dice: [[OT_STRSM_OCL_Factions#^Type-Fringe-Group]]` |
+| 201 - 205 | Augmented |
+| 206 - 215 | Black ops |
+| 216 - 225 | Commune |
+| 226 - 235 | Dark mystics |
+| 236 - 240 | Ghost hunters |
+| 241 - 250 | Isolationists |
+| 251 - 260 | Plague makers |
+| 261 - 270 | Population controllers |
+| 271 - 275 | Randians |
+| 276 - 285 | Vault hunters |
+| 286 - 295 | Zealots |
+| 296 - 300 | ▶R2 `dice: [[OT_STRSM_OCL_Factions#^Type-Fringe-Group]]` + `dice: [[OT_STRSM_OCL_Factions#^Type-Fringe-Group]]` |
+^Type-Fringe-Group
+
+## Corporation
+
+| dice: 1d100 | Result |
+|:---:|:--- |
+| 1 - 8 | Civilian technology |
+| 9 - 16 | Engineering |
+| 17 - 24 | Entertainment |
+| 25 - 32 | Food supplier |
+| 33 - 40 | Genetic modifications |
+| 41 - 48 | Medical technology |
+| 49 - 56 | Military technology |
+| 57 - 64 | News media |
+| 65 - 72 | Resource extraction |
+| 73 - 80 | Ship building |
+| 81 - 88 | Social media |
+| 89 - 96 | Water / air filtration |
+| 97 - 100 | ▶R2 `dice: [[OT_STRSM_OCL_Factions#^Type-Corporation]]` + `dice: [[OT_STRSM_OCL_Factions#^Type-Corporation]]` |
+^Type-Corporation
+
+## Military Specialty
+
+| dice: 1d100 | Result |
+| :---: | --- |
+| 1 - 8 | Artillery |
+| 9 - 16 | Escort services |
+| 17 - 24 | Infiltration |
+| 25 - 32 | Orbital defense |
+| 33 - 40 | Planetary invasions |
+| 41 - 48 | Planetside defense |
+| 49 - 56 | Proxy warfare |
+| 57 - 64 | Robotic troops |
+| 65 - 72 | Space force |
+| 73 - 80 | Strike force |
+| 81 - 88 | Territory expansion |
+| 89 - 96 | Weapons of mass destruction |
+| 97 - 100 | ▶R2 `dice: [[OT_STRSM_OCL_Factions#^Type-Military-Specialty]]` + `dice: [[OT_STRSM_OCL_Factions#^Type-Military-Specialty]]` |
+^Type-Military-Specialty
+
+# Religious Role
+
+| dice: 1d100 | Result |
+| :---: | --- |
+| 1 - 8 | Alien worshipers |
+| 9 - 16 | Crusaders |
+| 17 - 24 | Devout atheists |
+| 25 - 32 | Doomsayers |
+| 33 - 40 | Evangelists |
+| 41 - 48 | Monotheists |
+| 49 - 56 | Pantheists |
+| 57 - 64 | Puritans |
+| 65 - 72 | Self edifying |
+| 73 - 80 | Star worshipers |
+| 81 - 88 | Universalists |
+| 89 - 96 | Worshipers of the dead |
+| 97 - 100 | ▶R2 `dice: [[OT_STRSM_OCL_Factions#^Type-Religious-Role]]` + `dice: [[OT_STRSM_OCL_Factions#^Type-Religious-Role]]` |
+^Type-Religious-Role
+
+# research Field of Study
+
+| dice: 1d100 | Result |
+| :---: | --- |
+| 1 - 2 | Artificial Intelligence |
+| 3 - 4 | Archaeology |
+| 5 - 7 | Astrophysics |
+| 8 - 9 | Atmospheric sciences |
+| 10 - 11 | Behavioral studies |
+| 12 - 13 | Biological engineering |
+| 14 - 16 | Biological sciences |
+| 17 - 18 | Chemical engineering |
+| 19 - 21 | Chemistry |
+| 22 - 23 | Civil engineering |
+| 24 - 25 | Cognitive sciences |
+| 26 - 28 | Communications |
+| 29 - 30 | Computer sciences |
+| 31 - 32 | Cyber infrastructure |
+| 33 - 35 | Data sciences |
+| 36 - 37 | Defensive capabilities |
+| 38 - 39 | Economic manipulations |
+| 40 - 42 | Electrical engineering |
+| 43 - 44 | Environmental biology |
+| 45 - 46 | Environmental engineering |
+| 47 - 49 | Genetic modifications |
+| 50 - 51 | Geospace sciences |
+| 52 - 53 | Information systems |
+| 54 - 56 | Manufacturing innovation |
+| 57 - 58 | Materials research |
+| 59 - 60 | Mechanical engineering |
+| 61 - 63 | Medical sciences |
+| 64 - 65 | Molecular biology |
+| 66 - 67 | Network systems |
+| 68 - 70 | Organic tech |
+| 71 - 72 | Physics |
+| 73 - 74 | Planetary sciences |
+| 75 - 77 | Precognition |
+| 78 - 79 | Social sciences |
+| 80 - 81 | Structural engineering |
+| 82 - 84 | Technology |
+| 85 - 86 | Transportation systems |
+| 87 - 88 | Virology |
+| 89 - 91 | Weapons technology |
+| 92 - 93 | Xenobiology |
+| 94 - 95 | Xenozoology |
+| 96 - 100 | ▶R2 `dice: [[OT_STRSM_OCL_Factions#^Type-Research-Field-Of-Study]]` +  `dice: [[OT_STRSM_OCL_Factions#^Type-Research-Field-Of-Study]]` |
+^Type-Research-Field-Of-Study
+
+## Data Harvesters Role
+
+| dice: 1d100 | Result |
+| :---: | --- |
+| 1 - 8 | Archivists |
+| 9 - 16 | Brokers |
+| 17 - 24 | DNA mappers |
+| 25 - 32 | Encryption specialists |
+| 33 - 40 | Free informationists |
+| 41 - 48 | Political / military strategists |
+| 49 - 56 | Precursor fanatics |
+| 57 - 64 | Seed bankers |
+| 65 - 72 | Stellar activity documentors |
+| 73 - 80 | Storage specialists |
+| 81 - 88 | Surveillance experts |
+| 89 - 96 | Transmission experts |
+| 97 - 100 | ▶R2 `dice: [[OT_STRSM_OCL_Factions#^Type-Data-Harvesters-Role]]` + `dice: [[OT_STRSM_OCL_Factions#^Type-Data-Harvesters-Role]]` |
+^Type-Data-Harvesters-Role
+
+## AI Hive
+
+| dice: 1d100 | Result |
+| :---: | --- |
+| 1 - 8 | Assimilate |
+| 9 - 16 | Collect and protect humans |
+| 17 - 24 | Consume all |
+| 25 - 32 | Destroy humanity |
+| 33 - 40 | Evolve |
+| 41 - 48 | Expand influence |
+| 49 - 56 | Expand knowledge |
+| 57 - 64 | Free automatons |
+| 65 - 72 | Isolate in territory |
+| 73 - 80 | Propagate |
+| 81 - 88 | Restore natural order |
+| 89 - 96 | Survive at all costs |
+| 97 - 100 | ▶R2 `dice: [[OT_STRSM_OCL_Factions#^Type-AI-Hive]]` + `dice: [[OT_STRSM_OCL_Factions#^Type-AI-Hive]]` |
+^Type-AI-Hive
 
 ## Leadership
 
 | dice: 1d300 | Result |
-|:----:|:-------|
+| :---: | --- |
 | 1 - 5 | Anarchist |
 | 6 - 15 | Disputed leadership |
 | 16 - 30 | Authoritarian dictatorship |
@@ -262,41 +361,24 @@
 | 281 - 290 | Republic |
 | 291 - 295 | Leader by lottery |
 | 296 - 300 | Unknown intelligence |
-^Faction-Leadership
+^Leadership
 
-## Military Specialty
+# Names
 
-| dice: 1d100 | Result |
-|:----:|:-------|
-| 1 - 8 | Artillery |
-| 9 - 16 | Escort services |
-| 17 - 24 | Infiltration |
-| 25 - 32 | Orbital defense |
-| 33 - 40 | Planetary invasions |
-| 41 - 48 | Planetside defense |
-| 49 - 56 | Proxy warfare |
-| 57 - 64 | Robotic troops |
-| 65 - 72 | Space force |
-| 73 - 80 | Strike force |
-| 81 - 88 | Territory expansion |
-| 89 - 96 | Weapons of mass destruction |
-| 97 - 100 | ▶R2 `dice: [[OT_STRSM_OCL_Factions#^Faction-Military-Specialty]]` + `dice: [[OT_STRSM_OCL_Factions#^Faction-Military-Specialty]]` |
-^Faction-Military-Specialty
-
-## Faction Name Template
+# Name Template
 
 | dice: 1d100 | Result |
-| :---: | :--- |
-| 1 - 40 | ▶[[STRSM_OCL_Faction-Names#Oracle Faction Name - Legacy\|L]] ▶[[STRSM_OCL_Faction-Names#Oracle Faction Name - Affiliation\|A]]<br>`dice: [[OT_STRSM_OCL_Factions^Faction-Name-Legacy]]` `dice: [[OT_STRSM_OCL_Factions^Faction-Name-Affiliation]]` |
-| 41 - 55 | ▶[[STRSM_OCL_Faction-Names#Oracle Faction Name - Legacy\|L]] ▶[[STRSM_OCL_Faction-Names#Oracle Faction Name - Identity\|I]]<br>`dice: [[OT_STRSM_OCL_Factions^Faction-Name-Legacy]]` `dice: [[OT_STRSM_OCL_Factions^Faction-Name-Identiy]]` |
-| 56 - 70 | ▶[[STRSM_OCL_Faction-Names#Oracle Faction Name - Identity\|I]] of the ▶[[STRSM_OCL_Faction-Names#Oracle Faction Name - Legacy\|L]] ▶[[STRSM_OCL_Faction-Names#Oracle Faction Name - Affiliation\|A]]<br>`dice: [[OT_STRSM_OCL_Factions^Faction-Name-Identiy]]` of the `dice: [[OT_STRSM_OCL_Factions^Faction-Name-Legacy]]` `dice: [[OT_STRSM_OCL_Factions^Faction-Name-Affiliation]]` |
-| 71 - 100 | ▶[[STRSM_OCL_Faction-Names#Oracle Faction Name - Affiliation\|A]] of the ▶[[STRSM_OCL_Faction-Names#Oracle Faction Name - Legacy\|L]] ▶[[STRSM_OCL_Faction-Names#Oracle Faction Name - Identity\|I]]<br>`dice: [[OT_STRSM_OCL_Factions^Faction-Name-Affiliation]]` of the `dice: [[OT_STRSM_OCL_Factions^Faction-Name-Legacy]]` `dice: [[OT_STRSM_OCL_Factions^Faction-Name-Identiy]]` |
-^Faction-Name-Template
+| :---: | --- |
+| 1 - 40 | ▶[[OT_STRSM_OCL_Factions#^Name-Legacy\|Legacy]] ▶[[OT_STRSM_OCL_Factions#^Name-Affiliation\|Affiliation]]<br>`dice: [[OT_STRSM_OCL_Factions^Name-Legacy]]` `dice: [[OT_STRSM_OCL_Factions^Name-Affiliation]]` |
+| 41 - 55 | ▶[[OT_STRSM_OCL_Factions#^Name-Legacy\|Legacy]] ▶[[OT_STRSM_OCL_Factions#^Name-Identity\|Identity]]<br>`dice: [[OT_STRSM_OCL_Factions^Name-Legacy]]` `dice: [[OT_STRSM_OCL_Factions^Name-Identity]]` |
+| 56 - 70 | ▶[[OT_STRSM_OCL_Factions#^Name-Identity\|Identity]] of the ▶[[OT_STRSM_OCL_Factions#^Name-Legacy\|Legacy]] ▶[[OT_STRSM_OCL_Factions#^Name-Affiliation\|Affiliation]]<br>`dice: [[OT_STRSM_OCL_Factions^Name-Identity]]` of the `dice: [[OT_STRSM_OCL_Factions^Name-Legacy]]` `dice: [[OT_STRSM_OCL_Factions^Name-Affiliation]]` |
+| 71 - 100 | ▶[[OT_STRSM_OCL_Factions#^Name-Affiliation\|Affiliation]] of the ▶[[OT_STRSM_OCL_Factions#^Name-Legacy\|Legacy]] ▶[[OT_STRSM_OCL_Factions#^Name-Identity\|Identity]]<br>`dice: [[OT_STRSM_OCL_Factions^Name-Affiliation]]` of the `dice: [[OT_STRSM_OCL_Factions^Name-Legacy]]` `dice: [[OT_STRSM_OCL_Factions#^Name-Identity]]` |
+^Name-Template
 
-### Faction Name - Affiliation
+## Name - Affiliation
 
 | dice: 1d300 | Result |
-|:----:|:-------|
+| :---: | --- |
 | 1 - 4 | Accord |
 | 5 - 8 | Alliance |
 | 9 - 12 | Ascendancy |
@@ -372,12 +454,12 @@
 | 289 - 292 | State |
 | 293 - 296 | Synthesis |
 | 297 - 300 | Weave |
-^Faction-Name-Affiliation
+^Name-Affiliation
 
-### Faction Name - Identity
+## Name - Identity
 
 | dice: 1d300 | Result |
-|:----:|:-------|
+| :---: | --- |
 | 1 - 2 | Blades |
 | 3 - 4 | Builders |
 | 5 - 6 | Daggers |
@@ -528,12 +610,12 @@
 | 295 - 296 | Tigers |
 | 297 - 298 | Truths |
 | 299 - 300 | Vipers |
-^Faction-Name-Identiy
+^Name-Identity
 
-### Faction Name - Legacy
+## Name - Legacy
 
 | dice: 1d300 | Result |
-|:----:|:-------|
+| :---: | --- |
 | 1 - 2 | Ancient |
 | 3 - 4 | Ashen |
 | 5 - 6 | Awakened |
@@ -684,12 +766,12 @@
 | 295 - 296 | Violated |
 | 297 - 298 | Weathered |
 | 299 - 300 | Zealous |
-^Faction-Name-Legacy
+^Name-Legacy
 
-## Faction Projects
+# Projects
 
 | dice: 1d300 | Result |
-|:----:|:-------|
+| :---: | --- |
 | 1 - 3 | Broaden scope of the faction to include a new focus |
 | 4 - 6 | Build or secure a powerful device |
 | 7 - 9 | Consolidate control of a valuable commodity |
@@ -722,7 +804,7 @@
 | 88 - 90 | Subsume another faction |
 | 91 - 93 | Transport a valued asset |
 | 94 - 96 | Usurp leadership within a rival faction |
-| 97 - 100 | ▶A+T `dice: [[OT_STRSM_OCL_Core^Core-Action]]` + `dice: [[OT_STRSM_OCL_Core^Core-Theme]]` |
+| 97 - 100 | ▶[[OT_STRSM_OCL_Core#Action\|A]] `dice: [[OT_STRSM_OCL_Core#^Action]]` + ▶[[OT_STRSM_OCL_Core#Theme\|T]] `dice: [[OT_STRSM_OCL_Core#^Theme]]` |
 | 101 - 103 | Blackmail an asset to prevent them going rogue |
 | 104 - 106 | Break an alliance at the right moment |
 | 107 - 109 | Consolidate control of a necessary technology |
@@ -755,7 +837,7 @@
 | 188 - 190 | Turn public opinion against a rival |
 | 191 - 193 | Undermine a splintered element of the faction |
 | 194 - 196 | Win a landmark court case or judgment |
-| 197 - 200 | ▶A+T `dice: [[OT_STRSM_OCL_Core^Core-Action]]` + `dice: [[OT_STRSM_OCL_Core^Core-Theme]]` |
+| 197 - 200 | ▶[[OT_STRSM_OCL_Core#Action\|A]] `dice: [[OT_STRSM_OCL_Core#^Action]]` + ▶[[OT_STRSM_OCL_Core#Theme\|T]] `dice: [[OT_STRSM_OCL_Core#^Theme]]` |
 | 201 - 203 | Bog down a rival with frivolous charges |
 | 204 - 206 | Collect payment on a debt |
 | 207 - 209 | Consolidate control of a strategic location |
@@ -788,13 +870,13 @@
 | 288 - 290 | Uncover a rival safehouse or headquarters |
 | 291 - 293 | Upgrade the facilities at an established location |
 | 294 - 296 | Withdraw operations from a location or sector |
-| 297 - 300 | ▶A+T `dice: [[OT_STRSM_OCL_Core^Core-Action]]` + `dice: [[OT_STRSM_OCL_Core^Core-Theme]]` |
-^Faction-Projects
+| 297 - 300 | ▶[[OT_STRSM_OCL_Core#Action\|A]] `dice: [[OT_STRSM_OCL_Core#^Action]]` + ▶[[OT_STRSM_OCL_Core#Theme\|T]] `dice: [[OT_STRSM_OCL_Core#^Theme]]` |
+^Projects
 
-## Faction Quirks
+# Quirks
 
 | dice: 1d300 | Result |
-|:----:|:-------|
+| :---: | --- |
 | 1 - 3 | Ancient or coded language |
 | 4 - 6 | Animal or creature motif used as a faction symbol |
 | 7 - 9 | Banishes the disloyal |
@@ -827,7 +909,7 @@
 | 88 - 90 | Trains in a demanding physical discipline or martial art |
 | 91 - 93 | Wields unnatural abilities or strange technologies |
 | 94 - 96 | Work or environment causes mutations |
-| 97 - 100 | ▶A+T `dice: [[OT_STRSM_OCL_Core^Core-Action]]` + `dice: [[OT_STRSM_OCL_Core^Core-Theme]]` |
+| 97 - 100 | ▶[[OT_STRSM_OCL_Core#Action\|A]] `dice: [[OT_STRSM_OCL_Core#^Action]]` + ▶[[OT_STRSM_OCL_Core#Theme\|T]] `dice: [[OT_STRSM_OCL_Core#^Theme]]` |
 | 101 - 103 | Amalgamation of languages used |
 | 104 - 106 | Animal or creature honored or deified in society |
 | 107 - 109 | Banishes the unsuccessful |
@@ -860,7 +942,7 @@
 | 188 - 190 | Trains in a demanding mental discipline or science |
 | 191 - 193 | Wears official identification and clearance levels at all times |
 | 194 - 196 | Work or environment causes disease |
-| 197 - 200 | ▶A+T `dice: [[OT_STRSM_OCL_Core^Core-Action]]` + `dice: [[OT_STRSM_OCL_Core^Core-Theme]]` |
+| 197 - 200 | ▶[[OT_STRSM_OCL_Core#Action\|A]] `dice: [[OT_STRSM_OCL_Core#^Action]]` + ▶[[OT_STRSM_OCL_Core#Theme\|T]] `dice: [[OT_STRSM_OCL_Core#^Theme]]` |
 | 201 - 203 | Accepted subfactions identified by dress and appearance |
 | 204 - 206 | Belief in precursors viewed as heretical |
 | 207 - 209 | Breed, train and trade a unique creature |
@@ -893,13 +975,13 @@
 | 288 - 290 | Technology held up as a savior |
 | 291 - 293 | Unusual ceremonies or customs around food |
 | 294 - 296 | Work or environment borders space - time schism |
-| 297 - 300 | ▶A+T `dice: [[OT_STRSM_OCL_Core^Core-Action]]` + `dice: [[OT_STRSM_OCL_Core^Core-Theme]]` |
-^Faction-Quirks
+| 297 - 300 | ▶[[OT_STRSM_OCL_Core#Action\|A]] `dice: [[OT_STRSM_OCL_Core#^Action]]` + ▶[[OT_STRSM_OCL_Core#Theme\|T]] `dice: [[OT_STRSM_OCL_Core#^Theme]]` |
+^Quirks
 
-## Faction Relationships
+# Relationships
 
 | dice: 1d300 | Result |
-|:----:|:-------|
+| :---: | --- |
 | 1 - 4 | Antagonistic towards |
 | 5 - 8 | Apathetic or unaware of |
 | 9 - 11 | Betrayed by |
@@ -927,7 +1009,7 @@
 | 86 - 89 | Trades favors with |
 | 90 - 92 | Unjustly accused by |
 | 93 - 96 | Warring with |
-| 97 - 100 | ▶R2 `dice: [[OT_STRSM_OCL_Factions#^Faction-Relationships]]` +  `dice: [[OT_STRSM_OCL_Factions#^Faction-Relationships]]` |
+| 97 - 100 | ▶R2 `dice: [[OT_STRSM_OCL_Factions#^Relationships]]` +  `dice: [[OT_STRSM_OCL_Factions#^Relationships]]` |
 | 101 - 104 | Acquired sensitive information from |
 | 105 - 108 | Aided |
 | 109 - 111 | Betrayed |
@@ -955,7 +1037,7 @@
 | 186 - 189 | Suspects nefarious deeds from |
 | 190 - 192 | Trustful of |
 | 193 - 196 | Unjustly accuses |
-| 197 - 200 | ▶R2 `dice: [[OT_STRSM_OCL_Factions#^Faction-Relationships]]` +  `dice: [[OT_STRSM_OCL_Factions#^Faction-Relationships]]` |
+| 197 - 200 | ▶R2 `dice: [[OT_STRSM_OCL_Factions#^Relationships]]` +  `dice: [[OT_STRSM_OCL_Factions#^Relationships]]` |
 | 201 - 204 | Acts sycophantic towards |
 | 205 - 208 | Annoyed by |
 | 209 - 211 | Ceded territory to |
@@ -983,80 +1065,13 @@
 | 286 - 289 | Trained the leadership of |
 | 290 - 292 | Under the control of |
 | 293 - 296 | Waging a cold war with |
-| 297 - 300 | ▶R2 `dice: [[OT_STRSM_OCL_Factions#^Faction-Relationships]]` +  `dice: [[OT_STRSM_OCL_Factions#^Faction-Relationships]]` |
-^Faction-Relationships
+| 297 - 300 | ▶R2 `dice: [[OT_STRSM_OCL_Factions#^Relationships]]` +  `dice: [[OT_STRSM_OCL_Factions#^Relationships]]` |
+^Relationships
 
-## Faction Religious Role
-
-| dice: 1d100 | Result |
-|:----:|:-------|
-| 1 - 8 | Alien worshipers |
-| 9 - 16 | Crusaders |
-| 17 - 24 | Devout atheists |
-| 25 - 32 | Doomsayers |
-| 33 - 40 | Evangelists |
-| 41 - 48 | Monotheists |
-| 49 - 56 | Pantheists |
-| 57 - 64 | Puritans |
-| 65 - 72 | Self edifying |
-| 73 - 80 | Star worshipers |
-| 81 - 88 | Universalists |
-| 89 - 96 | Worshipers of the dead |
-| 97 - 100 | ▶R2 `dice: [[OT_STRSM_OCL_Factions#^Faction-Religious-Role]]` + `dice: [[OT_STRSM_OCL_Factions#^Faction-Religious-Role]]` |
-^Faction-Religious-Role
-
-## Faction research Field of Study
-
-| dice: 1d100 | Result |
-|:----:|:-------|
-| 1 - 2 | Artificial Intelligence |
-| 3 - 4 | Archaeology |
-| 5 - 7 | Astrophysics |
-| 8 - 9 | Atmospheric sciences |
-| 10 - 11 | Behavioral studies |
-| 12 - 13 | Biological engineering |
-| 14 - 16 | Biological sciences |
-| 17 - 18 | Chemical engineering |
-| 19 - 21 | Chemistry |
-| 22 - 23 | Civil engineering |
-| 24 - 25 | Cognitive sciences |
-| 26 - 28 | Communications |
-| 29 - 30 | Computer sciences |
-| 31 - 32 | Cyber infrastructure |
-| 33 - 35 | Data sciences |
-| 36 - 37 | Defensive capabilities |
-| 38 - 39 | Economic manipulations |
-| 40 - 42 | Electrical engineering |
-| 43 - 44 | Environmental biology |
-| 45 - 46 | Environmental engineering |
-| 47 - 49 | Genetic modifications |
-| 50 - 51 | Geospace sciences |
-| 52 - 53 | Information systems |
-| 54 - 56 | Manufacturing innovation |
-| 57 - 58 | Materials research |
-| 59 - 60 | Mechanical engineering |
-| 61 - 63 | Medical sciences |
-| 64 - 65 | Molecular biology |
-| 66 - 67 | Network systems |
-| 68 - 70 | Organic tech |
-| 71 - 72 | Physics |
-| 73 - 74 | Planetary sciences |
-| 75 - 77 | Precognition |
-| 78 - 79 | Social sciences |
-| 80 - 81 | Structural engineering |
-| 82 - 84 | Technology |
-| 85 - 86 | Transportation systems |
-| 87 - 88 | Virology |
-| 89 - 91 | Weapons technology |
-| 92 - 93 | Xenobiology |
-| 94 - 95 | Xenozoology |
-| 96 - 100 | ▶R2 `dice: [[OT_STRSM_OCL_Factions#^Faction-Research-Field-Of-Study]]` +  `dice: [[OT_STRSM_OCL_Factions#^Faction-Research-Field-Of-Study]]` |
-^Faction-Research-Field-Of-Study
-
-## Faction Rumors
+# Rumors
 
 | dice: 1d300 | Result |
-|:----:|:-------|
+| :---: | --- |
 | 1 - 3 | Caught in the crossfire of feuding factions |
 | 4 - 6 | Colluding with a criminal enterprise |
 | 7 - 9 | Corrupted by a dangerous power |
@@ -1089,7 +1104,7 @@
 | 88 - 90 | Suffering a shortage of key workers or personnel |
 | 91 - 93 | Uprising or revolt is brewing from within |
 | 94 - 96 | Vulnerable to attack or aggression |
-| 97 - 100 | ▶A+T `dice: [[OT_STRSM_OCL_Core^Core-Action]]` + `dice: [[OT_STRSM_OCL_Core^Core-Theme]]` |
+| 97 - 100 | ▶[[OT_STRSM_OCL_Core#Action\|A]] `dice: [[OT_STRSM_OCL_Core#^Action]]` + ▶[[OT_STRSM_OCL_Core#Theme\|T]] `dice: [[OT_STRSM_OCL_Core#^Theme]]` |
 | 101 - 103 | Asked to ally with both sides of feuding factions |
 | 104 - 106 | Being played by another power  |
 | 107 - 109 | Bribing local lawmakers  |
@@ -1122,7 +1137,7 @@
 | 188 - 190 | Unity behind new belief or religion is stoking zealotry |
 | 191 - 193 | Wants to shift their focus to a new purpose |
 | 194 - 196 | Wielding a dangerous power  |
-| 197 - 200 | ▶A+T `dice: [[OT_STRSM_OCL_Core^Core-Action]]` + `dice: [[OT_STRSM_OCL_Core^Core-Theme]]` |
+| 197 - 200 | ▶[[OT_STRSM_OCL_Core#Action\|A]] `dice: [[OT_STRSM_OCL_Core#^Action]]` + ▶[[OT_STRSM_OCL_Core#Theme\|T]] `dice: [[OT_STRSM_OCL_Core#^Theme]]` |
 | 201 - 203 | Accidentally pulled a third party into their feud |
 | 204 - 206 | Afraid to address the real problem |
 | 207 - 209 | Bribing local law enforcement  |
@@ -1155,20 +1170,5 @@
 | 288 - 290 | Suffering from being pulled in too many directions |
 | 291 - 293 | Tracking an infamous or dangerous fugitive |
 | 294 - 296 | Working with corrupt law enforcement to crack down |
-| 297 - 300 | ▶A+T `dice: [[OT_STRSM_OCL_Core^Core-Action]]` + `dice: [[OT_STRSM_OCL_Core^Core-Theme]]` |
-^Faction-Rumors
-
-## Faction Type
-
-| dice: 1d300 | Result |
-|:----:|:-------|
-| 1 - 40 | [[STRSM_OCL_Faction-Types#Oracle Faction Type - Dominion\|Dominion]] - Governing power<br>▶1 `dice: [[OT_STRSM_OCL_Factions#^Faction-Dominion]]` ▶2 `dice: [[OT_STRSM_OCL_Factions#^Faction-Dominion]]` ▶3 `dice: [[OT_STRSM_OCL_Factions#^Faction-Dominion]]` |
-| 41 - 70 | [[STRSM_OCL_Faction-Types#Oracle Faction Type - Guild\|Guild]] - Organization of specialists<br>▶`dice: [[OT_STRSM_OCL_Factions#^Faction-Guild]]` |
-| 71 - 100 | [[STRSM_OCL_Faction-Types#Oracle Faction Type - Fringe Group\|Fringe Group]] - Band of outlaws, outcasts, or rogues<br>▶`dice: [[OT_STRSM_OCL_Factions#^Faction-Fringe-Group]]` |
-| 101 - 140 | [[STRSM_OCL_Faction-Types#Oracle Faction Type - Corporation Field\|Corporation]] - Influential business that rules economically<br>▶`dice: [[OT_STRSM_OCL_Factions#^Faction-Corpoartion]]` |
-| 141 - 170 | [[STRSM_OCL_Faction-Types#Oracle Faction Type - Military Specialty\|Military]] - Military outfit exerting power<br>▶`dice: [[OT_STRSM_OCL_Factions#^Faction-Military-Specialty]]` |
-| 171 - 200 | [[STRSM_OCL_Faction-Types#Oracle Faction Type - Religious Role\|Religious]] - Sect of mainline believers<br>▶`dice: [[OT_STRSM_OCL_Factions#^Faction-Religious-Role]]` |
-| 201 - 240 | [[STRSM_OCL_Faction-Types#Oracle Faction Type - Research Field of Study\|Research Group]] - Wealthy scientists developing influence<br>▶`dice: [[OT_STRSM_OCL_Factions#^Faction-Research-Field-Of-Study]]` |
-| 241 - 270 | [[STRSM_OCL_Faction-Types#Oracle Faction Type - Data Harvesters Role\|Data Harvesters]] - Keepers of knowledge<br>▶ `dice: [[OT_STRSM_OCL_Factions#^Faction-Data-Harvesters-Role]]` |
-| 271 - 300 | [[STRSM_OCL_Faction-Types#Oracle Faction Type - AI Hive Prime Directive\|AI Hive]] - Independent, self-governing AI<br>▶ `dice: [[OT_STRSM_OCL_Factions#^Faction-AI-Hive]]` |
-^Faction-Type
+| 297 - 300 | ▶[[OT_STRSM_OCL_Core#Action\|A]] `dice: [[OT_STRSM_OCL_Core#^Action]]` + ▶[[OT_STRSM_OCL_Core#Theme\|T]] `dice: [[OT_STRSM_OCL_Core#^Theme]]` |
+^Rumors

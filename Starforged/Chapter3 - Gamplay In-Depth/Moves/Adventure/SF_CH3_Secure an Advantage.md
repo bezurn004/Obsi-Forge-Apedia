@@ -31,9 +31,9 @@ RollStat:
 - Shadow
 - Wits
 ReferencedMoves: 
-  - [[SF_CH3_Gain Ground]]
-  - [[SF_CH3_Heal#]]
-  - [[SF_CH3_Face Danger]]
+  - "[[SF_CH3_Gain Ground]]"
+  - "[[SF_CH3_Heal]]"
+  - "[[SF_CH3_Face Danger]]"
 ---
 # [[_Starforged|Starforged]] - [[_SF_CH3_Gameplay In Depth|Moves]] - [[_SF_CH3_Adventure Moves|Adventure]] | [[_SF_CH3_Scene Moves|Scene Challenge]]: Secure an Advantage
 ## Secure an Advantage: Move Card

@@ -22,8 +22,8 @@ OracleDescriptor: "Use the **First Look** and **Initial Disposition** to get the
 Use the **First Look** and **Initial Disposition** oracles to get the first impression of an NPC when they first meet your character.
 
 ## Oracle: Character First Look
-> [!mechanics]- | Roll > `dice: [[SF_CH5_Character-Approach#^table-OclCharacterFirstLook]]` | Guidance
-> The first characteristic you notice about this person. ^guidance-OclCharacterFirstLook
+> [!mechanics]- | Roll > <br>▶1 `dice: [[OT_ISSF_Characters#^First-Look]]`<br>▶2 `dice: [[OT_ISSF_Characters#^First-Look]]` | Guidance
+> The first characteristic you notice about this person. ^guidance-First-Look
 
 | dice: 1d100 | Result @1-2 |
 |:---:|:--- |
@@ -66,11 +66,11 @@ Use the **First Look** and **Initial Disposition** oracles to get the first impr
 | 93 - 95 | Wiry |
 | 96 - 97 | Wounded |
 | 98 - 100 | Youthful |
-^table-OclCharacterFirstLook
+^table-First-Look
 
 ## Oracle: Character Initial Disposition
-> [!mechanics]- | Roll > `dice: [[SF_CH5_Character-Approach#^table-OclCharacterInitialDisposition]]` | Guidance
->  Their attitude towards you, at least at first. I’m sure they’ll love you once they really get to know you. ^table-OclCharacterInitialDisposition
+> [!mechanics]- | Roll > `dice: [[OT_ISSF_Characters#^Disposition]]` | Guidance
+>  Their attitude towards you, at least at first. I’m sure they’ll love you once they really get to know you. ^guidance-Initial-Disposition
 
 | dice: 1d100 | Result |
 |:---:|:--- |

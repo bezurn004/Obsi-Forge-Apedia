@@ -6,7 +6,7 @@ PageType: Community
 PageCategory: Index
 PageOrder: 0
 ---
-# [[_INDEX|Index]]: Community Content
+# [[_INDEX|OFA]]: Community Content
 Work is progressing to import community content from published material and content posted on discord. In general, only content with appropriate licensing or approved by the owners for distribution is included.
 
 ## Content 

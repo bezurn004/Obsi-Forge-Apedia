@@ -24,7 +24,7 @@ OracleDescriptor: "When encountering a character, focus on what you learn or per
 
 ## Oracle: Character First Look
 > [!mechanics]- | Roll > [skull] `dice: [[SI_CH3_The Cursed Die#^table-Cursed]]`<br>▶1 `dice: [[OT_ISSI_Characters#^First-Look]]`<br>▶2 `dice: [[OT_ISSI_Characters#^First-Look]]` | Guidance
-> Text ^guidance-OclCharacterFirstLook
+> Text ^guidance-First-Look
 
 | dice: 1d100 | Result @1-2 [skull] _[[SI_CH3_Character_Approach#Oracle Cursed Character First Look\|below]]_ |
 | :---: | --- |
@@ -68,11 +68,11 @@ OracleDescriptor: "When encountering a character, focus on what you learn or per
 | 92 - 94 | Well-armed |
 | 95 - 97 | Wounded |
 | 98 - 100 | Youthful |
-^table-OclCharacterFirstLook
+^table-First-Look
 
 ## Oracle: Cursed Character First Look
 > [!mechanics]- | Roll > `dice: [[OT_ISSI_Characters#^Cursed-First-Look]]` | Guidance
-> Text ^guidance-OclCursedCharacterFirstLook
+> Text ^guidance-Cursed-Character-First-Look
 
 | dice: 1d100 | Result |
 | :---: | --- |
@@ -88,11 +88,11 @@ OracleDescriptor: "When encountering a character, focus on what you learn or per
 | 81 - 85 | Sinister |
 | 86 - 95 | Sorcerous |
 | 96 - 100 | Transforming |
-^table-OclCursedCharacterFirstLook
+^table-Cursed-Character-First-Look
 
 ## Oracle: Character Disposition
 > [!mechanics]- | Roll > `dice: [[OT_ISSI_Characters#^Disposition]]` | Guidance
-> Text ^guidance-OclCharacterDisposition
+> Text ^guidance-Disposition
 
 | dice: 1d100 | Result |
 | :---: | --- |
@@ -108,12 +108,12 @@ OracleDescriptor: "When encountering a character, focus on what you learn or per
 | 81 - 85 | Unfriendly |
 | 86 - 95 | Threatening |
 | 96 - 100 | Hostile |
-^table-OclCharacterDisposition
+^table-Disposition
 
 ## Tags
 
 | Contents Page | Tags | Next Page |
 | :--- | :---: | ---: |
-| **[[_SI_CH3_Character Oracles\|Character (SI Oracles)]]** | #SunderedIsles/Oracles/Characters | **[[SI_CH3_Chracter_Roles\|Character Roles (SI Oracles)]]** |
+| **[[_SI_CH3_Character Oracles\|Character (SI Oracles)]]** | #SunderedIsles/Oracles/Characters | **[[SI_CH3_Character_Roles\|Character Roles (SI Oracles)]]** |
 
 <font size=-2>Copyright ©2024 Shawn Tomkin. The text of this work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license. For license details, visit ironswornrpg.com. Updated June 2024 MUH051V200-PDF</font>

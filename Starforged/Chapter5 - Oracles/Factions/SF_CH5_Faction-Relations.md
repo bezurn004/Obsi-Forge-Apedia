@@ -23,11 +23,11 @@ OracleDescriptor: "The overall influence of a Faction throughout the Forge. How 
 The overall influence of a Faction throughout the Forge. Also, how a Faction relates to another in their Relationships and what Rumors have been heard through your adventures through the Forge.
 
 ## Oracle: Faction Influence
-> [!mechanics]- | Roll > `dice: [[SF_CH5_Faction-Relations#^table-OclFactionInfluence]]` | Guidance
-> How well known and how often you may encounter this Faction through your adventures in the Forge. ^guidance-OclFactionInfluence
+> [!mechanics]- | Roll > `dice: [[OT_ISSF_Factions#^Influence]]` | Guidance
+> How well known and how often you may encounter this Faction through your adventures in the Forge. ^guidance-Influence
 
 | dice: 1d100 | Result |
-|:---:|:--- |
+| :---: | --- |
 | 1 - 10 | Forsaken - Banished or forgotten |
 | 11 - 30 | Isolated - Limited influence in a remote location |
 | 31 - 50 | Localized - Marginal influence in a single sector |
@@ -35,16 +35,16 @@ The overall influence of a Faction throughout the Forge. Also, how a Faction rel
 | 71 - 85 | Notable - Dispersed influence across a few sectors |
 | 86 - 95 | Dominant - Far-reaching influence across many sectors |
 | 96 - 100 | Inescapable - Pervasive influence across inhabited space |
-^table-OclFactionInfluence
+^table-Influence
 
 *340 CHAPTER 5: ORACLES*
 
 ## Oracle: Faction Relationship
-> [!mechanics]- | Roll > `dice: [[SF_CH5_Faction-Relations#^table-OclFactionRelationship]]` | Guidance
-> Don’t overload your campaign with factions. Instead, focus on your interactions and entanglements with members of a few interesting factions. Then, when you have a question about the relationship of one faction to another, use this table. The result is the commonly understood connection between those factions. Further investigations or events may reveal a deeper or alternate truth. ^guidance-OclFactionRelationship
+> [!mechanics]- | Roll > `dice: [[OT_ISSF_Factions#^Relationship]]` | Guidance
+> Don’t overload your campaign with factions. Instead, focus on your interactions and entanglements with members of a few interesting factions. Then, when you have a question about the relationship of one faction to another, use this table. The result is the commonly understood connection between those factions. Further investigations or events may reveal a deeper or alternate truth. ^guidance-Relationship
 
 | dice: 1d100 | Result |
-|:---:|:--- |
+| :---: | --- |
 | 1 - 4 | Antagonistic towards |
 | 5 - 8 | Apathetic or unaware of |
 | 9 - 11 | Betrayed by |
@@ -73,16 +73,16 @@ The overall influence of a Faction throughout the Forge. Also, how a Faction rel
 | 90 - 92 | Unjustly accused by |
 | 93 - 96 | Warring with |
 | 97 - 100 | Roll twice |
-^table-OclFactionRelationship
+^table-Relationship
 
 *343 FACTIONS*
 
 ## Oracle: Faction Rumors
-> [!mechanics]- | Roll > `dice: [[SF_CH5_Faction-Relations#^table-OclFactionRumors]]` | Guidance
-> Use this table when you are in a position to investigate a faction by uncovering secrets or fishing for gossip. ^guidance-OclFactionRumors
+> [!mechanics]- | Roll > `dice: [[OT_ISSF_Factions#^Rumors]]` | Guidance
+> Use this table when you are in a position to investigate a faction by uncovering secrets or fishing for gossip. ^guidance-Rumors
 
 | dice: 1d100 | Result |
-|:---:|:--- |
+| :---: | --- |
 | 1 - 3 | Caught in the crossfire of feuding factions |
 | 4 - 6 | Colluding with a criminal enterprise |
 | 7 - 9 | Corrupted by a dangerous power |
@@ -115,8 +115,8 @@ The overall influence of a Faction throughout the Forge. Also, how a Faction rel
 | 88 - 90 | Suffering a shortage of key workers or personnel |
 | 91 - 93 | Uprising or revolt is brewing from within |
 | 94 - 96 | Vulnerable to attack or aggression |
-| 97 - 100 | ▶[[SF_CH5_Core_Action-Theme#Oracle Action\|Action]] + [[SF_CH5_Core_Action-Theme#Oracle Theme\|Theme]] |
-^table-OclFactionRumors
+| 97 - 100 | ▶[[SF_CH5_Core_Action-Theme#Oracle Action\|Action]] + ▶[[SF_CH5_Core_Action-Theme#Oracle Theme\|Theme]] |
+^table-Rumors
 
 *347 FACTIONS*
 

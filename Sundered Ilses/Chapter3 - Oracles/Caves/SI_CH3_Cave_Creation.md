@@ -25,16 +25,17 @@ Text
 
 ## Oracle: Cave Type
 > [!mechanics]- | Roll > `dice: [[OT_ISSI_Caves#^Type]]` | Guidance
-> When learning about a distant cave, use the table below to reveal its location. If you come upon a cave in your travels, pick a location as appropriate to your surroundings. ^guidance-OclCaveType
+> When learning about a distant cave, use the table below to reveal its location. If you come upon a cave in your travels, pick a location as appropriate to your surroundings. ^guidance-Type
 
 | Roll | Result | Description |
 | :--- :| --- | --- |
 | 1 - 60 | **▶[[SI_CH3_Sea Cave Details#Oracle Sea Cave Feature\|SEA CAVE]]** (_pg 208_) | Caves of watery passages; carved by the tides |
 | 61 - 100 | **▶[[SI_CH3_Inland Cave Details#Oracle Inland Cave Feature\|INLAND CAVE]]** (_pg 210_) | Caves of echoing stone; plunging deep into the earth |
+^table-Type
 
 ## Oracle: Cave Scale
 > [!mechanics]- | Roll > <br>Sea Cave: `dice: [[OT_ISSI_Caves#^Scale-Sea]]`<br>Inland Cave:  `dice: [[OT_ISSI_Caves#^Scale-Inland]]` | Guidance
-> Text ^guidance-OclCaveScale
+> Text ^guidance-Scale
 
 | Sea Cave | Inland Cave | Rank | Details |
 | :---: | :---: | --- | --- |
@@ -43,12 +44,13 @@ Text
 | 71 - 85 | 51 - 75 | Formidable | Extensive cave system |
 | 86 - 95 | 76 - 90 | Extreme | Vast cave system |
 | 96 - 100 | 91 - 100 | Epic | Fathomless cave system |
+^table-Scale
 
 *204 ORACLES*
 
 ## Oracle: Cave Threshold
 > [!mechanics]- | Roll > [skull] `dice: [[SI_CH3_The Cursed Die#^table-Cursed]]`<br>▶1 `dice: [[OT_ISSI_Caves#^Threshold]]`<br>▶2 `dice: [[OT_ISSI_Caves#^Threshold]]` | Guidance
-> Text ^guidance-OclCaveThreshold
+> Text ^guidance-Threshold
 
 | dice: 1d100 | Result @1-2 [skull] _[[#Oracle Cursed Cave Threshold\|below]]_ |
 | :---: | --- |
@@ -68,11 +70,11 @@ Text
 | 82 - 88 | Vertical shaft |
 | 89 - 94 | Well-used path |
 | 95 - 100 | ▶[[SI_CH3_Core_Descriptor Focus#DESCRIPTOR\|Descriptor]] + ▶[[SI_CH3_Core_Descriptor Focus#FOCUS\|Focus]]; _pg 118-119_ |
-^table-OclCaveThreshold
+^table-Threshold
 
 ## Oracle: Cursed Cave Threshold
 > [!mechanics]- | Roll > `dice: [[OT_ISSI_Caves#^Cursed-Threshold]]` | Guidance
-> Text ^guidance-OclCursedCaveThreshold
+> Text ^guidance-Cursed-Threshold
 
 | dice: 1d100 | Result |
 | :---: | --- |
@@ -90,7 +92,7 @@ Text
 | 80 - 86 | Surrounded by blighted terrain |
 | 87 - 93 | Unnerving sense of being watched |
 | 94 - 100 | Unnerving stillness or quiet |
-^table-OclCursedCaveThreshold
+^table-Cursed-Threshold
 
 *205 CAVE ORACLES*
 

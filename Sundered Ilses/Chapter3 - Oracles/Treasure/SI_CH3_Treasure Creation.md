@@ -30,7 +30,7 @@ For tips on managing treasure and wealth in your campaign, see [page 28].
 ## Oracle: Treasure Location
 > [!mechanics]- | Roll > `dice: [[OT_ISSI_Treasure#^Location]]` | Guidance
 > If you’re not sure of a treasure’s location—such as when chasing down a rumored
-treasure or gathering details on a treasure-related quest—check this table. ^guidance-OclTreasureLocation
+treasure or gathering details on a treasure-related quest—check this table. ^guidance-Location
 
 | dice: 1d100 | Result [skull] _[[#Oracle Cursed Treasure Location\|below]]_ |
 | :---: | --- |
@@ -40,11 +40,11 @@ treasure or gathering details on a treasure-related quest—check this table. ^g
 | 71 - 85 | Sheltered in a ▶[[_SI_CH3_Cave Oracles\|Cave]]; _pg 204_ |
 | 86 - 95 | Secured in a ▶[[_SI_CH3_Settlement Oracles\|Settlement]]; _164_ |
 | 96 - 100 | Preserved in a ▶[[_SI_CH3_Ruin Oracles\|Ruin]]; _212_ |
-^table-OclTreasureLocation
+^table-Location
 
 ## Oracle: Cursed Treasure Location
 > [!mechanics]- | Roll > `dice: [[OT_ISSI_Treasure#^Cursed-Location]]` | Guidance
-> Text ^guidance-OclTreasureLocation
+> Text ^guidance-Cursed-Location
 
 | dice: 1d100 | Result |
 | :---: | --- |
@@ -58,13 +58,13 @@ treasure or gathering details on a treasure-related quest—check this table. ^g
 | 66 - 80 | Safeguarded in a monstrous beast's lair |
 | 81 - 90 | Sealed in the bowels of a raging volcano |
 | 91 - 100 | Sunk to the depths of an abyssal trench |
-^table-OclTreasureLocation
+^table-Cursed-Location
 
 *220 ORACLES*
 
 ## Oracle: Treasure Repository
 > [!mechanics]- | Roll > `dice: [[OT_ISSI_Treasure#^Repository]]` | Guidance
-> Choose the scale of the treasure’s repository—small, medium, large, or vast—as appropriate to situation and location. See the examples in the table below. If unsure, roll for the answer. The result helps set the potential _Value_ of the treasure. ^guidance-OclTreasureRepository
+> Choose the scale of the treasure’s repository—small, medium, large, or vast—as appropriate to situation and location. See the examples in the table below. If unsure, roll for the answer. The result helps set the potential _Value_ of the treasure. ^guidance-Repository
 
 | Roll | Size | Examples |
 | :---: | --- | --- |
@@ -72,11 +72,11 @@ treasure or gathering details on a treasure-related quest—check this table. ^g
 | 26 - 70 | Medium | Chest; crate; ship cabin; cave alcove |
 | 71 - 95 | Large | Cargo hold; strongroom; cave chamber |
 | 96 - 100 | Vast | Storehouse; great hall; cavern vault | 
-^table-OclTreasureRepository
+^table-Repository
 
 ## Oracle: Treasure Value
 > [!mechanics]- | Guidance
-> A trove or hoard contains a vast array of riches. Collecting and transporting a trove requires great effort, while the logistics of gathering a hoard is an inconceivable task. ^guidance-OclTreasureValue
+> A trove or hoard contains a vast array of riches. Collecting and transporting a trove requires great effort, while the logistics of gathering a hoard is an inconceivable task. ^guidance-Value-All
 
 | ------------- Repository ------------- |
 | --- |
@@ -89,44 +89,44 @@ treasure or gathering details on a treasure-related quest—check this table. ^g
 | 81 - 100 | 61 - 100 | 31 - 98 | 11 - 93 | Stash | Roll the action die and reveal that many ▶Precious Items; [pg 223] |
 | -- | -- | 99 - 100 | 94 - 98 | Trove | Bountiful riches |
 | -- | -- | -- | 99 - 100 | Hoard | Immeasurable riches |
-^table-OclTreasureValue
+^table-Value-All
 
 *221 TREASURE ORACLES*
 
 ### Oracle: Treasure Value - Small
 > [!mechanics]- | Roll > `dice: [[OT_ISSI_Treasure#^Value-Small]]` | Guidance
-> Text ^guidance-OclTreasureValue-Small
+> Text ^guidance-Value-Small
 
 | dice: 1d100 | Result | Details |
 | :---: | --- | --- |
 | 1  - 80 | Trifle | One ▶Precious Item; [pg 223] |
 | 81 - 100 | Stash | Roll the action die and reveal that many ▶Precious Items; [pg 223] |
-^table-OclTreasureValue-Small
+^table-Value-Small
 
 ### Oracle: Treasure Value - Medium
 > [!mechanics]- | Roll > `dice: [[OT_ISSI_Treasure#^Value-Medium]]` | Guidance
-> Text ^guidance-OclTreasureValue-Medium
+> Text ^guidance-Value-Medium
 
 | dice: 1d100 | Result | Details |
 | :---: | --- | --- |
 | 1 - 60 | Trifle | One ▶Precious Item; [pg 223] |
 | 61 - 100 | Stash | Roll the action die and reveal that many ▶Precious Items; [pg 223] |
-^table-OclTreasureValue-Medium
+^table-Value-Medium
 
 ### Oracle: Treasure Value - Large
 > [!mechanics]- | Roll > `dice: [[OT_ISSI_Treasure#^Value-Large]]` | Guidance
-> Text ^guidance-OclTreasureValue-Large
+> Text ^guidance-Value-Large
 
 | dice: 1d100 | Result | Details |
 |:---:| --- | --- |
 | 1 - 30 | Trifle | One ▶Precious Item; [pg 223] |
 | 31 - 98 | Stash | Roll the action die and reveal that many ▶Precious Items; [pg 223] |
 | 99 - 100 | Trove | Bountiful riches |
-^table-OclTreasureValue-Large
+^table-Value-Large
 
 ### Oracle: Treasure Value - Vast
 > [!mechanics]- | Roll > `dice: [[OT_ISSI_Treasure#^Value-Vast]]` | Guidance
-> Text ^guidance-OclTreasureValue-Vast
+> Text ^guidance-Value-Vast
 
 | dice: 1d100 | Result | Details |
 |:---:| --- | --- |
@@ -134,7 +134,7 @@ treasure or gathering details on a treasure-related quest—check this table. ^g
 | 11 - 93 | Stash | Roll the action die and reveal that many ▶Precious Items; [pg 223] |
 | 94 - 98 | Trove | Bountiful riches |
 | 99 - 100 | Hoard | Immeasurable riches |
-^table-OclTreasureValue-Vast
+^table-Value-Vast
 
 ## Tags
 

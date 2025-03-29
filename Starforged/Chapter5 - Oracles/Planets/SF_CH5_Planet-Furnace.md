@@ -26,11 +26,11 @@ OracleDescriptor: "Volcanic ruptures dot the surface of this planet allowing lav
 Volcanic ruptures dot the surface of this planet allowing lava, ash and gas to escape from magma chambers deep within the core. The sheer volume of fiery lava casts an eerie red glow onto anything in orbit. Steam swirls through the Atmosphere creating massive weather systems.
 
 ## Oracle: Furnace Atmosphere
-> [!mechanics]- | Roll > `dice: [[SF_CH5_Planet-Furnace#^Atmosphere]]` | Guidance
+> [!mechanics]- | Roll > `dice: [[OT_ISSF_Planets#^Furnace-Atmosphere]]` | Guidance
 > The baseline for planet habitability, see [[_SF_CH5_Planets#Planet Atmospheres|Planet Atmosphere]] for the effects of each atmosphere for human life. ^guidance-Atmosphere
 
 | dice: 1d100 | Result |
-|:---:|:--- |
+| :---: | --- |
 | 1 - 10 | None / thin |
 | 11 - 50 | Toxic |
 | 51 - 65 | Corrosive |
@@ -40,48 +40,48 @@ Volcanic ruptures dot the surface of this planet allowing lava, ash and gas to e
 
 ## Oracle: Furnace Settlements
 ### Oracle: Settlements - Terminus
-> [!mechanics]- | Roll > `dice: [[SF_CH5_Planet-Furnace#^table-SettlementTerminus]]` | Guidance
+> [!mechanics]- | Roll > `dice: [[OT_ISSF_Planets#^Furnace-Settlement-Terminus]]` | Guidance
 > Choose or roll on possible settlements located on this planet. ^guidance-Settlement-Terminus
 
 | dice: 1d100 | Result |
-|:---:|:--- |
+| :---: | --- |
 | 1 - 60 | None |
 | 61 - 75 | Orbital settlement |
 | 76 - 87 | Planetside settlement |
 | 88 - 96 | Multiple settlements |
 | 97 - 100 | Settlements in conflict |
-^table-SettlementTerminus
+^table-Settlement-Terminus
 
 ### Oracle: Settlements - Outlands
-> [!mechanics]- | Roll > `dice: [[SF_CH5_Planet-Furnace#^table-SettlementOutlands]]` | Guidance
+> [!mechanics]- | Roll > `dice: [[OT_ISSF_Planets#^Furnace-Settlement-Outlands]]` | Guidance
 > Choose or roll on possible settlements located on this planet. ^guidance-Settlement-Outlands
 
 | dice: 1d100 | Result |
-|:---:|:--- |
+| :---: | --- |
 | 1 - 85 | None |
 | 86 - 92 | Orbital settlement |
 | 93 - 97 | Planetside settlement |
 | 98 - 99 | Multiple settlements |
 | 100 - 100 | Settlements in conflict |
-^table-SettlementOutlands
+^table-Settlement-Outlands
 
 ### Oracle: Settlements - Expanse
-> [!mechanics]- | Roll > `dice: [[SF_CH5_Planet-Furnace#^table-SettlementExpanse]]` | Guidance
+> [!mechanics]- | Roll > `dice: [[OT_ISSF_Planets#^Furnace-Settlement-Expanse]]` | Guidance
 > Choose or roll on possible settlements located on this planet. ^guidance-Settlement-Expanse
 
 | dice: 1d100 | Result |
-|:---:|:--- |
+| :---: | --- |
 | 1 - 95 | None |
 | 96 - 98 | Orbital settlement |
 | 99 - 100 | Planetside settlement |
-^table-SettlementExpanse
+^table-Settlement-Expanse
 
 ## Oracle: Furnace Observed From Space
-> [!mechanics]- | Roll > `dice: [[SF_CH5_Planet-Furnace#^table-ObservedFromSpace]]` | Guidance
-> When first approaching a planet, envision at a board characteristic of the planet. ^guidance-ObservedFromSpace
+> [!mechanics]- | Roll > <br>▶1 `dice: [[OT_ISSF_Planets#^Furnace-Observed-From-Space]]`<br>▶2 `dice: [[OT_ISSF_Planets#^Furnace-Observed-From-Space]]` | Guidance
+> When first approaching a planet, envision at a board characteristic of the planet. ^guidance-Observed-From-Space
 
 | dice: 1d100 | Result @1-2 |
-|:---:|:--- |
+| :---: | --- |
 | 1 - 11 | Fiery world-spanning chasms |
 | 12 - 22 | Glowing rivers of lava |
 | 23 - 33 | Lightning-wracked ash clouds |
@@ -90,16 +90,16 @@ Volcanic ruptures dot the surface of this planet allowing lava, ash and gas to e
 | 56 - 66 | Once verdant terrain |
 | 67 - 77 | Towering mountain ranges |
 | 78 - 88 | World-spanning fissures |
-| 89 - 98 | ▶[[SF_CH5_Core_Descriptor-Focus#Oracle Descriptor\|Descriptor]] + [[SF_CH5_Core_Descriptor-Focus#Oracle Focus\|Focus]] |
+| 89 - 98 | ▶[[SF_CH5_Core_Descriptor-Focus#Oracle Descriptor\|Descriptor]] + ▶[[SF_CH5_Core_Descriptor-Focus#Oracle Focus\|Focus]] |
 | 99 - 100 | ▶[[SF_CH5_Vault-Exterior#Oracle Precursor Vault Outer First Look\|Precursor Vault (orbital)]] |
-^table-ObservedFromSpace
+^table-Observed-From-Space
 
 ## Oracle: Furnace Planetside Feature
-> [!mechanics]- | Roll > `dice: [[SF_CH5_Planet-Furnace#^table-PlanetsideFeature]]` | Guidance
-> To begin exploration on a planet, generate one or two dominate feature's. If your exploration is prolonged morph these features using the [[SF_CH5_Core_Descriptor-Focus#Oracle Descriptor|Descriptor]] and [[SF_CH5_Core_Descriptor-Focus#Oracle Focus|Focus]] oracles for prompts on variety. ^guidance-PlanetsideFeature
+> [!mechanics]- | Roll > <br>▶1 `dice: [[OT_ISSF_Planets#^Furnace-Feature]]`<br>▶2 `dice: [[OT_ISSF_Planets#^Furnace-Feature]]` | Guidance
+> To begin exploration on a planet, generate one or two dominate feature's. If your exploration is prolonged morph these features using the [[SF_CH5_Core_Descriptor-Focus#Oracle Descriptor|Descriptor]] and [[SF_CH5_Core_Descriptor-Focus#Oracle Focus|Focus]] oracles for prompts on variety. ^guidance-Feature
 
 | dice: 1d100 | Result @1-2 |
-|:---:|:--- |
+| :---: | --- |
 | 1 - 7 | Blinding ash storms |
 | 8 - 14 | Catastrophic earthquakes |
 | 15 - 21 | Colorful geothermal springs |
@@ -113,16 +113,16 @@ Volcanic ruptures dot the surface of this planet allowing lava, ash and gas to e
 | 71 - 77 | Scalding geysers |
 | 78 - 84 | Silica or metal storms |
 | 85 - 91 | Steaming mudflats |
-| 92 - 98 | ▶[[SF_CH5_Core_Descriptor-Focus#Oracle Descriptor\|Descriptor]] + [[SF_CH5_Core_Descriptor-Focus#Oracle Focus\|Focus]] |
+| 92 - 98 | ▶[[SF_CH5_Core_Descriptor-Focus#Oracle Descriptor\|Descriptor]] + ▶[[SF_CH5_Core_Descriptor-Focus#Oracle Focus\|Focus]] |
 | 99 - 100 | ▶[[SF_CH5_Vault-Exterior#Oracle Precursor Vault Outer First Look\|Precursor Vault (planetside)]] |
-^table-PlanetsideFeature
+^table-Feature
 
 ## Oracle: Furnace Life
-> [!mechanics]- | Roll > `dice: [[SF_CH5_Planet-Furnace#^table-Life]]` | Guidance
+> [!mechanics]- | Roll > `dice: [[OT_ISSF_Planets#^Furnace-Life]]` | Guidance
 > The general state of life currently on this planet. There may be a hidden feature given enough exploration that could contradict this result. ^guidance-Life
 
 | dice: 1d100 | Result |
-|:---:|:--- |
+| :---: | --- |
 | 1 - 35 | None |
 | 36 - 60 | Extinct |
 | 61 - 85 | Scarce |
@@ -132,11 +132,11 @@ Volcanic ruptures dot the surface of this planet allowing lava, ash and gas to e
 ^table-Life
 
 ## Oracle: Furnace Sample Names
-> [!mechanics]- | Roll > `dice: [[SF_CH5_Planet-Furnace#^table-Names]]` | Guidance
+> [!mechanics]- | Roll > `dice: [[OT_ISSF_Planets#^Furnace-Names]]` | Guidance
 > Sample names that are suited to this planet type. Feel free to mix and match or create your own. ^guidance-Names
 
 | dice: 1d100 | Result |
-|:---:|:--- |
+| :---: | --- |
 | 1 - 5 | Ash |
 | 6 - 10 | Azula |
 | 11 - 15 | Cinder |

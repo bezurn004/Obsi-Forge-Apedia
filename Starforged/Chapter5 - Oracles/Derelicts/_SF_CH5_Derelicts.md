@@ -42,7 +42,7 @@ If you envision your character with a map or scan of the derelict, or the goal o
 >   
 >   _Choose a **Location** for the derelict. This may already be decided if the derelict is found within the narrative. Then choose which **Type** derelict is discovered based on its location. To complete the initial creation of a derelict site determine the **Condition** it is found in._
 >   
->   ### [[SF_CH5_Derelict_Looks|Derelict Looks Oracle]]
+> ### [[SF_CH5_Derelict_Looks|Derelict Looks Oracle]]
 >   - Derelict Outer - First Look
 >   - Derelict Inner - First Look
 >
@@ -51,15 +51,16 @@ If you envision your character with a map or scan of the derelict, or the goal o
 >  ### [[SF_CH5_Derelict_Zones|Derelict Zones Oracle]]
 > - Derelict Zone - Starship
 > - Derelict Zone - Settlement
-> 	- Zone
-> 		- Access
-> 		- Community
-> 		- Engineering
-> 		- Living
-> 		- Medical
-> 		- Operations
-> 		- Production
-> 		- Research
+> 
+> ### Zone
+> - [[SF_CH5_Derelict-Zone-Access\|Access]]
+> - [[SF_CH5_Derelict-Zone-Community\|Community]]
+> - [[SF_CH5_Derelict-Zone-Engineering\|Engineering]]
+> - [[SF_CH5_Derelict-Zone-Living\|Living]]
+> - [[SF_CH5_Derelict-Zone-Medical\|Medical]]
+> - [[SF_CH5_Derelict-Zone-Operations\|Operations]]
+> - [[SF_CH5_Derelict-Zone-Production\|Production]]
+> - [[SF_CH5_Derelict-Zone-Research\|Research]]
 > 
 > _As you begin your expedition, start with the [[SF_CH5_Derelict-Zone-Access#|Derelict Zone: Access Oracle]] as your entry point. Then as the adventure unfolds, generate new **Areas** of the zones as you explore them, occasionally adding **Features**. When your fortunes are bad, generate a **Peril** and take advantage of the **Opportunities** when they turn up._
 

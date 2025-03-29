@@ -34,7 +34,7 @@ Text
 > 
 > This table also includes monikers, one to each row. Not all characters have monikers, but sailors are often given a nickname by their shipmates, or adopt one of their own. Monikers can be used as a stand-alone name (for example, “Redbeard” or “Stormcrow”) or paired with a given name or family name (“Crimson Jack” or “Hardtack Hobbs”). Roll or select an appropriate moniker as you like. 
 > 
-> If you are revealing a moniker for a character with a dreadful, ill-fated, mechanical, or eldritch aspect, use the _[[#Oracle Cursed Moniker|Cursed Moniker]]_ table on page 197. ^guidance-OclCharacterName
+> If you are revealing a moniker for a character with a dreadful, ill-fated, mechanical, or eldritch aspect, use the _[[#Oracle Cursed Moniker|Cursed Moniker]]_ table on page 197. ^guidance-Name
 
 | Roll | Given Name | Family Name | Given Name | Family Name | Moniker<br>[skull] _[[#Oracle Cursed Moniker\|pg 197]]_ |
 | :---: | --- | --- | --- | --- | --- |
@@ -138,14 +138,15 @@ Text
 | 98 | Kauri | Ngata | Yuna | Han | Weather-eye |
 | 99 | Keelan | Sayer | Zakia | Nazari | Whisper |
 | 100 | Kei | Takara | Zura | Winter | Windward |
+^table-Name
 
 *194 ORACLES*
 *195 CHARACTER ORACLES*
 *196 ORACLES*
 
 ### Oracle: Character Name - Given
-> [!mechanics]- | Roll > `dice: 1d6`<br>1-3: `dice: [[SI_CH3_Character_Names^table-OclCharacterName-Given]]|Given Name 1-3` 4-6: `dice: [[SI_CH3_Character_Names^table-OclCharacterName-Given]]|Given Name 4-6` | Guidance
-> Text ^guidance-OclCharacterName-Given
+> [!mechanics]- | Roll > `dice: 1d6`<br>1-3: `dice: [[SI_CH3_Character_Names^table-Name-Given]]|Given Name 1-3` 4-6: `dice: [[SI_CH3_Character_Names^table-Name-Given]]|Given Name 4-6` | Guidance
+> Text ^guidance-Name-Given
 
 | Roll | Given Name 1-3 | Given Name 4-6 |
 |:---:| --- | --- |
@@ -249,11 +250,11 @@ Text
 | 98 | Kauri | Yuna |
 | 99 | Keelan | Zakia |
 | 100 | Kei | Zura |
-^table-OclCharacterName-Given
+^table-Name-Given
 
 ### Oracle: Character Name - Family
-> [!mechanics]- | Roll > `dice: 1d6`<br>1-3: `dice: [[SI_CH3_Character_Names^table-OclCharacterName-Family]]|Family Name 1-3` 4-6: `dice: [[SI_CH3_Character_Names^table-OclCharacterName-Family]]|Family Name 4-6` | Guidance
-> Text ^guidance-OclCharacterName-Family
+> [!mechanics]- | Roll > `dice: 1d6`<br>1-3: `dice: [[SI_CH3_Character_Names^table-Name-Family]]|Family Name 1-3` 4-6: `dice: [[SI_CH3_Character_Names^table-Name-Family]]|Family Name 4-6` | Guidance
+> Text ^guidance-Name-Family
 
 | Roll | Family Name 1-3 | Family Name 4-6 |
 | :---: | --- | --- |
@@ -357,11 +358,11 @@ Text
 | 98 | Ngata | Han |
 | 99 | Sayer | Nazari |
 | 100 | Takara | Winter |
-^table-OclCharacterName-Family
+^table-Name-Family
 
 ### Oracle: Character Name - Moniker
-> [!mechanics]- | Roll > [skull] `dice: [[SI_CH3_The Cursed Die#^table-Cursed]]` `dice: [[SI_CH3_Character_Names^table-OclCharacterName-Moniker]]` | Guidance
-> Text ^guidance-OclCharacterName-Moniker
+> [!mechanics]- | Roll > [skull] `dice: [[SI_CH3_The Cursed Die#^table-Cursed]]` `dice: [[SI_CH3_Character_Names^table-Name-Moniker]]` | Guidance
+> Text ^guidance-Name-Moniker
 
 | dice: 1d100 | Moniker [skull] _[[#Oracle Cursed Moniker\|pg 197]]_ |
 |:---:| --- |
@@ -465,11 +466,11 @@ Text
 | 98 | Weather-eye |
 | 99 | Whisper |
 | 100 | Windward |
-^table-OclCharacterName-Moniker
+^table-Name-Moniker
 
 ## Oracle: Cursed Moniker
 > [!mechanics]- | Roll > `dice: [[OT_ISSI_Characters#^Name-Cursed-Moniker]]` | Guidance
-> Use these tables to reveal an epitaph for a dreadful, eldritch, ill-fated, or mechanical character. For example, a pirate captain who adopts a much-feared identity would have a _Dreadful Persona_. A wretched, outcast mariner would have an _Ill-Fated Nature_. Use the result alone, combine with a name, or pair results from two _Cursed Moniker_ categories. ^guidance-OclCursedMoniker
+> Use these tables to reveal an epitaph for a dreadful, eldritch, ill-fated, or mechanical character. For example, a pirate captain who adopts a much-feared identity would have a _Dreadful Persona_. A wretched, outcast mariner would have an _Ill-Fated Nature_. Use the result alone, combine with a name, or pair results from two _Cursed Moniker_ categories. ^guidance-Cursed-Moniker
 
 | dice: 1d100 | Result |
 | :---: | --- |
@@ -477,11 +478,11 @@ Text
 | 41 - 60 | ▶[[#Oracle Cursed Moniker - Eldritch Powers\|Eldritch Powers]] |
 | 61 - 90 | ▶[[#Oracle Cursed Moniker - Ill-Fated Nature\|Ill-Fated Nature]] |
 | 91 - 100 | ▶[[#Oracle Cursed Moniker - Mechanical Form\|Mechanical Form]] |
-^table-OclCursedMoniker
+^table-Cursed-Moniker
 
 ### Oracle: Cursed Moniker - Dreadful Persona
 > [!mechanics]- | Roll > `dice: [[OT_ISSI_Characters#^Cursed-Moniker-Dreadful-Persona]]` | Guidance
-> Text ^guidance-OclCursedMoniker-DreadfulPersona
+> Text ^guidance-Cursed-Moniker-Dreadful-Persona
 
 | dice: 1d100 | Result |
 | :---: | --- |
@@ -521,11 +522,11 @@ Text
 | 92 - 94 | Spinebreaker |
 | 95 - 97 | Stoneheart |
 | 98 - 100 | Vulture |
-^table-OclCursedMoniker-DreadfulPersona
+^table-Cursed-Moniker-Dreadful-Persona
 
 ### Oracle: Cursed Moniker - Eldritch Powers
 > [!mechanics]- | Roll > `dice: [[OT_ISSI_Characters#^Cursed-Moniker-Eldritch-Powers]]` | Guidance
-> Text ^guidance-OclCursedMoniker-EldritchPowers
+> Text ^guidance-Cursed-Moniker-Eldritch-Powers
 
 | dice: 1d100 | Result |
 | :---: | --- |
@@ -553,11 +554,11 @@ Text
 | 88 - 91 | Valkyrie |
 | 92 - 96 | Warlock |
 | 97 - 100 | Windcaller |
-^table-OclCursedMoniker-EldritchPowers
+^table-Cursed-Moniker-Eldritch-Powers
 
 ### Oracle: Cursed Moniker - Ill-Fated Nature
 > [!mechanics]- | Roll > `dice: [[OT_ISSI_Characters#^Cursed-Moniker-Ill-Fated-Nature]]` | Guidance
-> Text ^guidance-OclCursedMoniker-Ill-FatedNature
+> Text ^guidance-Cursed-Moniker-Ill-Fated-Nature
 
 | dice: 1d100 | Result |
 | :---: | --- |
@@ -581,11 +582,11 @@ Text
 | 86 - 90 | Scourge |
 | 91 - 95 | Twice-drowned |
 | 96 - 100 | Wither |
-^table-OclCursedMoniker-Ill-FatedNature
+^table-Cursed-Moniker-Ill-Fated-Nature
 
 ### Oracle: Cursed Moniker - Mechanical Form
 > [!mechanics]- | Roll > `dice: [[OT_ISSI_Characters#^Cursed-Moniker-Mechanical-Form]]` | Guidance
-> Text ^guidance-OclCursedMoniker-MechanicalForm
+> Text ^guidance-Cursed-Moniker-Mechanical-Form
 
 | dice: 1d100 | Result |
 | :---: | --- |
@@ -605,7 +606,7 @@ Text
 | 83 - 88 | Rust |
 | 89 - 94 | Spark |
 | 95 - 100 | Tinker |
-^table-OclCursedMoniker-MechanicalForm
+^table-Cursed-Moniker-Mechanical-Form
 
 *197 CHARACTER ORACLES*
 

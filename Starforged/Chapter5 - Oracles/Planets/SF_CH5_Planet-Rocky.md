@@ -26,11 +26,11 @@ OracleDescriptor: "All rocky planets have a metallic core, but the type of rock 
 All rocky planets have a metallic core, but the type of rock that dominates on their surface can be silicon-based or carbon-based. Either type of surface can be hostile to life and treacherous to traverse. These planets may be a source of minerals, but the environment is unforgiving.
 
 ## Oracle: Rocky Atmosphere
-> [!mechanics]- | Roll > `dice: [[SF_CH5_Planet-Rocky#^table-Atmosphere]]` | Guidance
+> [!mechanics]- | Roll > `dice: [[OT_ISSF_Planets#^Rocky-Atmosphere]]` | Guidance
 > The baseline for planet habitability, see [[_SF_CH5_Planets#Planet Atmospheres|Planet Atmosphere]] for the effects of each atmosphere for human life.^guidance-Atmosphere
 
 | dice: 1d100 | Result |
-|:---:|:--- |
+| :---: | --- |
 | 1 - 65 | None / thin |
 | 66 - 85 | Toxic |
 | 86 - 90 | Corrosive |
@@ -39,11 +39,11 @@ All rocky planets have a metallic core, but the type of rock that dominates on t
 
 ## Oracle: Rocky Settlements
 ### Oracle: Settlements - Terminus
-> [!mechanics]- | Roll > `dice: [[SF_CH5_Planet-Rocky#^table-Settlement-Terminus]]` | Guidance
+> [!mechanics]- | Roll > `dice: [[OT_ISSF_Planets#^Rocky-Settlement-Terminus]]` | Guidance
 > Choose or roll on possible settlements located on this planet ^guidance-Settlement-Terminus
 
 | dice: 1d100 | Result |
-|:---:|:--- |
+| :---: | --- |
 | 1 - 50 | None |
 | 51 - 70 | Orbital settlement |
 | 71 - 85 | Planetside settlement |
@@ -52,11 +52,11 @@ All rocky planets have a metallic core, but the type of rock that dominates on t
 ^table-Settlement-Terminus
 
 ### Oracle: Settlements - Outlands
-> [!mechanics]- | Roll > `dice: [[SF_CH5_Planet-Rocky#^table-Settlement-Outlands]]` | Guidance
+> [!mechanics]- | Roll > `dice: [[OT_ISSF_Planets#^Rocky-Settlement-Outlands]]` | Guidance
 > Choose or roll on possible settlements located on this planet. ^guidance-Settlement-Outlands
 
 | dice: 1d100 | Result |
-|:---:|:--- |
+| :---: | --- |
 | 1 - 75 | None |
 | 76 - 87 | Orbital settlement |
 | 88 - 95 | Planetside settlement |
@@ -65,22 +65,22 @@ All rocky planets have a metallic core, but the type of rock that dominates on t
 ^table-Settlement-Outlands
 
 ### Oracle: Settlements - Expanse
-> [!mechanics]- | Roll > `dice: [[SF_CH5_Planet-Rocky#^table-Settlement-Expanse]]` | Guidance
-> Choose or roll on possible settlements located on this planet. ^guidance-Settlement-tExpanse
+> [!mechanics]- | Roll > `dice: [[OT_ISSF_Planets#^Rocky-Settlement-Expanse]]` | Guidance
+> Choose or roll on possible settlements located on this planet. ^guidance-Settlementt-Expanse
 
 | dice: 1d100 | Result |
-|:---:|:--- |
+| :---: | --- |
 | 1 - 90 | None |
 | 91 - 96 | Orbital settlement |
 | 97 - 100 | Planetside settlement |
 ^table-Settlement-Expanse
 
 ## Oracle: Rocky Observed From Space
-> [!mechanics]- | Roll > `dice: [[SF_CH5_Planet-Rocky#^table-ObservedFromSpace]]` | Guidance
-> When first approaching a planet, envision at a board characteristic of the planet. ^guidance-ObservedFromSpace
+> [!mechanics]- | Roll > <br>▶1 `dice: [[OT_ISSF_Planets#^Rocky-Observed-From-Space]]`<br>▶2 `dice: [[OT_ISSF_Planets#^Rocky-Observed-From-Space]]` | Guidance
+> When first approaching a planet, envision at a board characteristic of the planet. ^guidance-Observed-From-Space
 
 | dice: 1d100 | Result @1-2 |
-|:---:|:--- |
+| :---: | --- |
 | 1 - 11 | Barren plains |
 | 12 - 22 | Constant asteroid strikes |
 | 23 - 33 | Dense ring system |
@@ -89,16 +89,16 @@ All rocky planets have a metallic core, but the type of rock that dominates on t
 | 56 - 66 | Misshapen form (low gravity) |
 | 67 - 77 | Perpetual night |
 | 78 - 88 | Towering plateaus |
-| 89 - 98 | ▶[[SF_CH5_Core_Descriptor-Focus#Oracle Descriptor\|Descriptor]] + [[SF_CH5_Core_Descriptor-Focus#Oracle Focus\|Focus]] |
+| 89 - 98 | ▶[[SF_CH5_Core_Descriptor-Focus#Oracle Descriptor\|Descriptor]] + ▶[[SF_CH5_Core_Descriptor-Focus#Oracle Focus\|Focus]] |
 | 99 - 100 | ▶[[SF_CH5_Vault-Exterior#Oracle Precursor Vault Outer First Look\|Precursor Vault (orbital)]] |
-^table-ObservedFromSpace
+^table-Observed-From-Space
 
 ## Oracle: Rocky Planetside Feature
-> [!mechanics]- | Roll > `dice: [[SF_CH5_Planet-Rocky#^table-PlanetsideFeature]]` | Guidance
-> To begin exploration on a planet, generate one or two dominate feature's. If your exploration is prolonged morph these features using the [[SF_CH5_Core_Descriptor-Focus#Oracle Descriptor|Descriptor]] and [[SF_CH5_Core_Descriptor-Focus#Oracle Focus|Focus]] oracles for prompts on variety. ^guidance-PlanetsideFeature
+> [!mechanics]- | Roll > <br>▶1 `dice: [[OT_ISSF_Planets#^Rocky-Feature]]`<br>▶2 `dice: [[OT_ISSF_Planets#^Rocky-Feature]]` | Guidance
+> To begin exploration on a planet, generate one or two dominate feature's. If your exploration is prolonged morph these features using the [[SF_CH5_Core_Descriptor-Focus#Oracle Descriptor|Descriptor]] and [[SF_CH5_Core_Descriptor-Focus#Oracle Focus|Focus]] oracles for prompts on variety. ^guidance-Feature
 
 | dice: 1d100 | Result @1-2 |
-|:---:|:--- |
+| :---: | --- |
 | 1 - 7 | Crystalline formations |
 | 8 - 14 | Crystalline caves |
 | 15 - 21 | Exposed mineral deposits |
@@ -112,16 +112,16 @@ All rocky planets have a metallic core, but the type of rock that dominates on t
 | 71 - 77 | Subsurface magma flows |
 | 78 - 84 | Swirling low-lying gases |
 | 85 - 91 | Towering rocky spires |
-| 92 - 98 | ▶[[SF_CH5_Core_Descriptor-Focus#Oracle Descriptor\|Descriptor]] + [[SF_CH5_Core_Descriptor-Focus#Oracle Focus\|Focus]] |
+| 92 - 98 | ▶[[SF_CH5_Core_Descriptor-Focus#Oracle Descriptor\|Descriptor]] + ▶[[SF_CH5_Core_Descriptor-Focus#Oracle Focus\|Focus]] |
 | 99 - 100 | ▶[[SF_CH5_Vault-Exterior#Oracle Precursor Vault Outer First Look\|Precursor Vault (planetside)]] |
-^table-PlanetsideFeature
+^table-Feature
 
 ## Oracle: Rocky Life
-> [!mechanics]- | Roll > `dice: [[SF_CH5_Planet-Rocky#^table-Life]]` | Guidance
+> [!mechanics]- | Roll > `dice: [[OT_ISSF_Planets#^Rocky-Life]]` | Guidance
 > The general state of life currently on this planet. There may be a hidden feature given enough exploration that could contradict this result. ^guidance-Life
 
 | dice: 1d100 | Result |
-|:---:|:--- |
+| :---: | --- |
 | 1 - 65 | None |
 | 66 - 80 | Extinct |
 | 81 - 90 | Scarce |
@@ -131,11 +131,11 @@ All rocky planets have a metallic core, but the type of rock that dominates on t
 ^table-Life
 
 ## Oracle: Rocky Sample Names
-> [!mechanics]- | Roll > `dice: [[SF_CH5_Planet-Rocky#^table-Names]]` | Guidance
+> [!mechanics]- | Roll > `dice: [[OT_ISSF_Planets#^Rocky-Names]]` | Guidance
 > Sample names that are suited to this planet type. Feel free to mix and match or create your own. ^guidance-Names
 
 | dice: 1d100 | Result |
-| :----: | :------- |
+| :----: | --- |
 | 1 - 5 | Aphelion |
 | 6 - 10 | Artemis |
 | 11 - 15 | Capella |

@@ -25,8 +25,8 @@ OracleDescriptor: "Roll these when you need to know something that is not physic
 ## Oracle: Action
 This oracle can be used to replace the one provided on [[_SF_CH5_Core#Action and Theme|Action/Theme Oracles]].
 
-> [!mechanics]- | Roll > %%GetDice%% | Guidance
-> When you [[SF_CH3_Ask the Oracle|Ask the Oracle]] about a goal, situation, or event, roll for an Action and Theme. Together, these provide an interpretative verb/ noun prompt. Other oracles include prompts to check for an Action and Theme (shown as “Action + Theme”). That’s your cue to roll on these tables and interpret the result as appropriate to the situation. ^guidance-STRSM-OCL-OclCoreAction
+> [!mechanics]- | Roll > `dice: [[OT_STRSM_OCL_Core^Action]]` | Guidance
+> When you [[SF_CH3_Ask the Oracle|Ask the Oracle]] about a goal, situation, or event, roll for an Action and Theme. Together, these provide an interpretative verb/ noun prompt. Other oracles include prompts to check for an Action and Theme (shown as “Action + Theme”). That’s your cue to roll on these tables and interpret the result as appropriate to the situation. ^guidance-Action
 
 | 1d100 | 1-2 | 3-4 | 5-6 |
 | :---: | --- | --- | --- |
@@ -130,12 +130,12 @@ This oracle can be used to replace the one provided on [[_SF_CH5_Core#Action and
 | 98 | Uphold | Vanquish | Trim |
 | 99 | Weaken | Warp | Vow |
 | 100 | Withdraw | Winnow | Wield |
-^table-STRSM-OCL-OclCoreAction
+^table-Action
 
 ## Oracle: Theme
 This oracle can be used to replace the one provided on [[_SF_CH5_Core#Action and Theme|Action/Theme Oracles]].
 
-> [!mechanics]- | Roll > %%GetDice%% | Guidance
+> [!mechanics]- | Roll > `dice: [[OT_STRSM_OCL_Core^Theme]]` | Guidance
 > When you [[SF_CH3_Ask the Oracle|Ask the Oracle]] about a goal, situation, or event, roll for an Action and Theme. Together, these provide an interpretative verb/ noun prompt. Other oracles include prompts to check for an Action and Theme (shown as “Action + Theme”). That’s your cue to roll on these tables and interpret the result as appropriate to the situation. ^guidance-OCL-OclCoreAction
 
 | 1d100 | 1-2 | 3-4 | 5-6 |
@@ -240,11 +240,11 @@ This oracle can be used to replace the one provided on [[_SF_CH5_Core#Action and
 | 98 | Wealth | Victory | Vision |
 | 99 | Weapon | Vulnerability | Windfall |
 | 100 | World | Wisdom | Wrath |
-^table-STRSM-OCL-OclCoreAction
+^table-Action
 
 ## Tags
-| Previous Page | Tags | Next Page | 
+| Section Page | Tags | Next Page | 
 | :--- | :---: | ---: |
-| **[[_STRSM_OCL_Core Oracles\|Core Oreacles]]** | #Starsmith/Oracles/Core - #Pedia/Oracles/Core | **[[STRSM_OCL_Core Descriptor-Focus\|Descriptor/Focus Oracles]]** |
+| **[[_STRSM_OCL_Core Oracles\|Core (STRSM Oracles)]]** | #Starsmith/Oracles/Core | **[[STRSM_OCL_Core Descriptor-Focus\|Descriptor/Focus (STRSM Oracles)]]** |
 
 <font size=-2>Starsmith Oracles is created by Eric Bright and licensed for use under the Creative Commons Attribution 4.0 International License (CC-BY).</font>

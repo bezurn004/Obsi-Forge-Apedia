@@ -30,59 +30,59 @@ Begin creating a derelict with the oracles in this order.
 Once complete, continue to the [[SF_CH5_Derelict_Looks#Oracle Derelict First Look - Outer|Derelict First Look - Outer Oracle]] to create the site.
 
 ## Oracle: Derelict Location
-> [!mechanics]- | Roll > `dice: [[SF_CH5_Derelict_Create#^table-OclDerelictLocation]]` | Guidance
-> When you do not know where a derelict might be located, choose or roll for an option here to begin the creation process. Continue to the type by location for the next step. ^guidance-OclDerelictLocation
+> [!mechanics]- | Roll > `dice: [[OT_ISSF_Derelicts#^Location]]` | Guidance
+> When you do not know where a derelict might be located, choose or roll for an option here to begin the creation process. Continue to the type by location for the next step. ^guidance-Location
 
 | dice: 1d100 | Result |
-|:---:|:--- |
+| :---: | --- |
 | 1 - 40 | Planetside |
 | 41 - 60 | Orbital |
 | 61 - 100 | Deep Space |
-^table-OclDerelictLocation
+^table-Location
 
 ## Oracle: Derelict Type - Planetside
-> [!mechanics]- | Roll > `dice: [[SF_CH5_Derelict_Create#^table-OclDerelictType-Planetside]]` | Guidance
-> Choose or pick for the type of derelict site based on the location previously chosen. ^guidance-OclDerelictType-Planetside
+> [!mechanics]- | Roll > `dice: [[OT_ISSF_Derelicts#^Type-Planetside]]` | Guidance
+> Choose or pick for the type of derelict site based on the location previously chosen. ^guidance-Type-Planetside
 
 | dice: 1d100 | Result |
-|:---:|:--- |
+| :---: | --- |
 | 1 - 25 | Starship |
 | 26 - 100 | Settlement |
-^table-OclDerelictType-Planetside
+^table-Type-Planetside
 
 ## Oracle: Derelict Type - Orbital
-> [!mechanics]- | Roll > `dice: [[SF_CH5_Derelict_Create#^table-OclDerelictType-Orbital]]` | Guidance
-> Choose or pick for the type of derelict site based on the location previously chosen. ^guidance-OclDerelictType-Planetside
+> [!mechanics]- | Roll > `dice: [[OT_ISSF_Derelicts#^Type-Orbital]]` | Guidance
+> Choose or pick for the type of derelict site based on the location previously chosen. ^guidance-Type-Orbital
 
 | dice: 1d100 | Result |
-|:---:|:--- |
+| :---: | --- |
 | 1 - 40 | Starship |
 | 41 - 100 | Settlement |
-^table-OclDerelictType-Orbital
+^table-Type-Orbital
 
 ## Oracle: Derelict Type - Deep Space
-> [!mechanics]- | Roll > `dice: [[SF_CH5_Derelict_Create#^table-OclDerelictType-DeepSpace]]` | Guidance
-> Choose or pick for the type of derelict site based on the location previously chosen. ^guidance-OclDerelictType-DeepSpace
+> [!mechanics]- | Roll > `dice: [[OT_ISSF_Derelicts#^Type-Deep-Space]]` | Guidance
+> Choose or pick for the type of derelict site based on the location previously chosen. ^guidance-Type-Deep-Space
 
 | dice: 1d100 | Result |
-|:---:|:--- |
+| :---: | --- |
 | 1 - 75 | Starship |
 | 78 - 100 | Settlement |
-^table-OclDerelictType-DeepSpace
+^table-Type-Deep-Space
 
 ## Oracle: Derelict Condition
-> [!mechanics]- | Roll > `dice: [[SF_CH5_Derelict_Create#^table-OclDerelictCondition]]` | Guidance
-> How well composed is the derelict after some unknown disaster caused it to become abandoned? ^guidance-OclDerelictCondition
+> [!mechanics]- | Roll > `dice: [[OT_ISSF_Derelicts#^Condition]]` | Guidance
+> How well composed is the derelict after some unknown disaster caused it to become abandoned? ^guidance-Condition
 
 | dice: 1d100 | Result |
-|:---:|:--- |
+| :---: | --- |
 | 1 - 10 | Functional |
 | 11 - 30 | Limited power |
 | 31 - 60 | Cold and dark |
 | 61 - 90 | Damaged or breached |
 | 91 - 98 | Heavily damaged |
 | 99 - 100 | Impending destruction |
-^table-OclDerelictCondition
+^table-Condition
 
 *348 CHAPTER 5: ORACLES*
 

@@ -20,11 +20,11 @@ OracleDescriptor: "Create an item to be used along with your story, best pairing
 Create an item to be used along with your story, best pairing the item to the Story Clue oracle for its purpose.
 
 ## Oracle: Item of Narrative Significance
-> [!mechanics]- | Roll > %%GetDice%% | Guidance
-> The **ITEM OF SIGNIFICANCE** tables are meant to go with and complement the [[STRSM_OCL_Story Clue|Story Clue (Starsmith Oracles)]] in that you can get an item around which your clue is centered. Alternatively, you can roll an item first and only roll the clue it represents later when you have narrative positioning to do so. ^guidance-STRSM-OCL-OclItemofNarrativeSignificance
+> [!mechanics]- | Roll > `dice: [[OT_STRSM_OCL_Misc#^Item-Of-Narrative-Significance]]` | Guidance
+> The **ITEM OF SIGNIFICANCE** tables are meant to go with and complement the [[STRSM_OCL_Story Clue|Story Clue (Starsmith Oracles)]] in that you can get an item around which your clue is centered. Alternatively, you can roll an item first and only roll the clue it represents later when you have narrative positioning to do so. ^guidance-Item-of-Narrative-Significance
 
 | 1d100 | 1-2 | 3-4 | 5-6 |
-| :---: | :--- | :--- | :--- |
+| :---: | --- | --- | --- |
 | 1 | 3D printer with erased logs | A set of iron manacles | Adhesive fluids |
 | 2 | Ammo cases with an etched sigil | A strange manifesto | Air tanks |
 | 3 | Arcane runes scrawled in blood | Analysis of fishing routes to maintain ecosystem | Antique comms device |
@@ -125,11 +125,11 @@ Create an item to be used along with your story, best pairing the item to the St
 | 98 | Vial of alchemical supplies | Weapon cleaning supplies | VR game running itself |
 | 99 | Well-used forge hammer | Woodcut depicting a horrid scene | VR headset |
 | 100 | Woodcarving chisel | Writings of celestial movements | Water filter or purification pills |
-^table-STRSM-OCL-OclItemofNarrativeSignificance
+^table-Item-of-Narrative-Significance
 
 ## Tags
 | Previous Page | Tags | Next Page | 
 | :--- | :---: | ---: |
-| **[[STRSM_OCL_Story Clue\|Story Clue Oracle]]** | #Starsmith/Oracles - #Pedia/Oracles | **[[STRSM_OCL_Anomaly Effect\|Anomaly Effect Oracle]]** |
+| **[[STRSM_OCL_Story Clue\|Story Clue (STRSM Oracles)]]** | #Starsmith/Oracles | **[[STRSM_OCL_Anomaly Effect\|Anomaly Effect (STRSM Oracles)]]** |
 
 <font size=-2>Starsmith Oracles is created by Eric Bright and licensed for use under the Creative Commons Attribution 4.0 International License (CC-BY).</font>

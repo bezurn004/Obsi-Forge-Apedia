@@ -22,20 +22,57 @@ OracleDescriptor: "Introduce a feature at a waypoint as you explore outer space 
 # [[_Starforged|Starforged]] - [[_SF_CH5_Index|Oracle]] - [[_SF_CH5_Space-Encounters|Space Encounters]]: Sightings
 Introduce a feature at a waypoint as you explore outer space through the Forge.
 
+## Oracle: Space Sighting
+> [!mechanics]- Guidance
+> Use the Space Sightings oracle to introduce a location or encounter on a spaceborne expedition. For example, roll on this table when you [[SF_CH3_Ask the Oracle|Ask the Oracle (move)]] to envision the primary feature of a waypoint as you [[SF_CH3_Undertake an Expedition|Undertake an Expedition (move)]].
+> > [!oracle]- Terminus
+> > `dice: [[OT_ISSF_Space#^Sighting-Terminus]]`
+> 
+> > [!oracle]- Outlands
+> > `dice: [[OT_ISSF_Space#^Sighting-Outlands]]`
+> 
+> > [!oracle]- Expanse
+> > `dice: [[OT_ISSF_Space#^Sighting-Expanse]]`^guidance-All-Space-Sighting
+
+| Terminus | Outlands | Expanse | Result |
+| :---: | :---: | :---: | --- |
+| 1 - 15 | 1 - 15 | 1 - 15 | ▶[[SF_CH5_Stellar-Object#Oracle Stellar Object\|Stellar Object]] |
+| 16 - 35 | 16 - 35 | 16 - 35 | ▶[[_SF_CH5_Planets#Oracle Planetary Class\|Planet]] |
+| 36 - 40 | 36 - 38 | 36 - 37 | ▶[[SF_CH5_Settle-Creation\|Settlement]] |
+| 41 - 47 | 39 - 43 | 38 - 39 | ▶[[SF_CH5_Starship-Creation\|Starship]] |
+| 48 - 51 | 44 - 46 | 40 - 41 | ▶[[SF_CH5_Derelict_Create\|Derelict]] |
+| 52 - 53 | 47 - 49 | 42 - 45 | ▶[[SF_CH5_Vault-Exterior\|Precursor Vault]] |
+| 54 - 55 | 50 - 52 | 46 - 49 | ▶[[SF_CH5_Creature-Basic Form\|Creature]] |
+| 56 - 60 | 53 - 58 | 50 - 56 | ▶[[SF_CH5_Core_Descriptor-Focus#Oracle Descriptor\|Descriptor]] + ▶[[SF_CH5_Core_Descriptor-Focus#Oracle Focus\|Focus]] |
+| 61 - 65 | 59 - 63 | 57 - 61 | Debris field: Mineral asteroids |
+| 66 - 68 | 64 - 66 | 62 - 64 | Debris field: Frozen asteroids |
+| 69 - 70 | 67 - 68 | 65 - 66 | Debris field: Crystalline asteroids |
+| 71 - 72 | 69 - 70 | 67 - 68 | Debris field: Creature boneyard |
+| 73 - 74 | 71 - 72 | 69 - 70 | Debris field: Metallic wreckage |
+| 75 - 76 | 73 - 74 | 71 - 72 | Large rogue asteroid |
+| 77 - 78 | 75 - 76 | 73 - 74 | Comet with a tail of ionized gas |
+| 79 - 81 | 77 - 80 | 75 - 79 | Fiery energy storm |
+| 82 - 83 | 81 - 82 | 80 - 81 | Chaotic meteoroid storm |
+| 84 - 85 | 83 - 85 | 82 - 85 | Turbulent gravitational wave |
+| 86 - 93 | 86 - 93 | 86 - 93 | Dense nebula cloud |
+| 94 - 98 | 94 - 98 | 94 - 98 | Roll twice |
+| 99 - 100 | 99 - 100 | 99 - 100 | Roll three times |
+^table-All
+
 ### Oracle: Space Sighting - Terminus
-> [!mechanics]- | Roll > `dice: [[SF_CH5_Space-Sightings#^table-OclSpaceSighting-Terminus]]` | Guidance
-> Use the Space Sightings oracle to introduce a location or encounter on a spaceborne expedition. For example, roll on this table when you [[SF_CH3_Ask the Oracle|Ask the Oracle (move)]] to envision the primary feature of a waypoint as you [[SF_CH3_Undertake an Expedition|Undertake an Expedition (move)]]. ^guidance-OclSpaceSighting-Terminus
+> [!mechanics]- | Roll > `dice: [[OT_ISSF_Space#^Sighting-Terminus]]` | Guidance
+> Use the Space Sightings oracle to introduce a location or encounter on a spaceborne expedition. For example, roll on this table when you [[SF_CH3_Ask the Oracle|Ask the Oracle (move)]] to envision the primary feature of a waypoint as you [[SF_CH3_Undertake an Expedition|Undertake an Expedition (move)]]. ^guidance-Terminus
 
 | dice: 1d100 | Result |
-|:---:|:--- |
+| :---: | --- |
 | 1 - 15 | ▶[[SF_CH5_Stellar-Object#Oracle Stellar Object\|Stellar Object]] |
-| 16 - 35 | ▶[[_SF_CH5_Planets#Planetary Class - Rollabel\|Planet]] |
-| 36 - 40 | ▶[[SF_CH5_Settle-Creation#Oracle Settlement Location\|Settlement]] |
-| 41 - 47 | ▶[[SF_CH5_Starship-Creation#Oracle Starship Type\|Starship]] |
-| 48 - 51 | ▶[[SF_CH5_Derelict_Looks#Oracle Derelict First Look Outer\|Derelict Outer First Look]] |
-| 52 - 53 | ▶[[SF_CH5_Vault-Exterior#Oracle Precursor Vault Outer First Look\|Precursor Vault Outer First Look]] |
-| 54 - 55 | ▶[[SF_CH5_Creature-Approach#Oracle Creature First Look\|Creature First Look]] |
-| 56 - 60 | ▶[[SF_CH5_Core_Descriptor-Focus#Oracle Descriptor\|Descriptor]] + [[SF_CH5_Core_Descriptor-Focus#Oracle Focus\|Focus]] |
+| 16 - 35 | ▶[[_SF_CH5_Planets#Oracle Planetary Class\|Planet]] |
+| 36 - 40 | ▶[[SF_CH5_Settle-Creation\|Settlement]] |
+| 41 - 47 | ▶[[SF_CH5_Starship-Creation\|Starship]] |
+| 48 - 51 | ▶[[SF_CH5_Derelict_Create\|Derelict]] |
+| 52 - 53 | ▶[[SF_CH5_Vault-Exterior\|Precursor Vault]] |
+| 54 - 55 | ▶[[SF_CH5_Creature-Basic Form\|Creature]] 
+| 56 - 60 | ▶[[SF_CH5_Core_Descriptor-Focus#Oracle Descriptor\|Descriptor]] + ▶[[SF_CH5_Core_Descriptor-Focus#Oracle Focus\|Focus]] |
 | 61 - 65 | Debris field: Mineral asteroids |
 | 66 - 68 | Debris field: Frozen asteroids |
 | 69 - 70 | Debris field: Crystalline asteroids |
@@ -49,22 +86,22 @@ Introduce a feature at a waypoint as you explore outer space through the Forge.
 | 86 - 93 | Dense nebula cloud |
 | 94 - 98 | Roll twice |
 | 99 - 100 | Roll three times |
-^table-OclSpaceSighting-Terminus
+^table-Terminus
 
 ### Oracle: Space Sighting - Outlands
-> [!mechanics]- | Roll > `dice: [[SF_CH5_Space-Sightings#^table-OclSpaceSighting-Outlands]]` | Guidance
-> Use the Space Sightings oracle to introduce a location or encounter on a spaceborne expedition. For example, roll on this table when you [[SF_CH3_Ask the Oracle|Ask the Oracle (move)]] to envision the primary feature of a waypoint as you [[SF_CH3_Undertake an Expedition|Undertake an Expedition (move)]]. ^guidance-OclSpaceSighting-Outlands
+> [!mechanics]- | Roll > `dice: [[OT_ISSF_Space#^Sighting-Outlands]]` | Guidance
+> Use the Space Sightings oracle to introduce a location or encounter on a spaceborne expedition. For example, roll on this table when you [[SF_CH3_Ask the Oracle|Ask the Oracle (move)]] to envision the primary feature of a waypoint as you [[SF_CH3_Undertake an Expedition|Undertake an Expedition (move)]]. ^guidance-Outlands
 
 | dice: 1d100 | Result |
-|:---:|:--- |
+| :---: | --- |
 | 1 - 15 | ▶[[SF_CH5_Stellar-Object#Oracle Stellar Object\|Stellar Object]] |
-| 16 - 35 | ▶[[_SF_CH5_Planets#Planetary Class - Rollabel\|Planet]] |
-| 36 - 38 | ▶[[SF_CH5_Settle-Creation#Oracle Settlement Location\|Settlement]] |
-| 39 - 43 | ▶[[SF_CH5_Starship-Creation#Oracle Starship Type\|Starship]] |
-| 44 - 46 | ▶[[SF_CH5_Derelict_Looks#Oracle Derelict First Look Outer\|Derelict Outer First Look]] |
-| 47 - 49 | ▶[[SF_CH5_Vault-Exterior#Oracle Precursor Vault Outer First Look\|Precursor Vault Outer First Look]] |
-| 50 - 52 | ▶[[SF_CH5_Creature-Approach#Oracle Creature First Look\|Creature First Look]] |
-| 53 - 58 | ▶[[SF_CH5_Core_Descriptor-Focus#Oracle Descriptor\|Descriptor]] + [[SF_CH5_Core_Descriptor-Focus#Oracle Focus\|Focus]] |
+| 16 - 35 | ▶[[_SF_CH5_Planets#Oracle Planetary Class\|Planet]] |
+| 36 - 38 | ▶[[SF_CH5_Settle-Creation\|Settlement]] |
+| 39 - 43 | ▶[[SF_CH5_Starship-Creation\|Starship]] |
+| 44 - 46 | ▶[[SF_CH5_Derelict_Create\|Derelict]] |
+| 47 - 49 | ▶[[SF_CH5_Vault-Exterior\|Precursor Vault]] |
+| 50 - 52 | ▶[[SF_CH5_Creature-Basic Form\|Creature]] |
+| 53 - 58 | ▶[[SF_CH5_Core_Descriptor-Focus#Oracle Descriptor\|Descriptor]] + ▶[[SF_CH5_Core_Descriptor-Focus#Oracle Focus\|Focus]] |
 | 59 - 63 | Debris field: Mineral asteroids |
 | 64 - 66 | Debris field: Frozen asteroids |
 | 67 - 68 | Debris field: Crystalline asteroids |
@@ -78,22 +115,22 @@ Introduce a feature at a waypoint as you explore outer space through the Forge.
 | 86 - 93 | Dense nebula cloud |
 | 94 - 98 | Roll twice |
 | 99 - 100 | Roll three times |
-^table-OclSpaceSighting-Outlands
+^table-Outlands
 
 ### Oracle: Space Sighting - Expanse
-> [!mechanics]- | Roll > `dice: [[SF_CH5_Space-Sightings#^table-OclSpaceSighting-Expanse]]` | Guidance
-> Use the Space Sightings oracle to introduce a location or encounter on a spaceborne expedition. For example, roll on this table when you [[SF_CH3_Ask the Oracle|Ask the Oracle (move)]] to envision the primary feature of a waypoint as you [[SF_CH3_Undertake an Expedition|Undertake an Expedition (move)]]. ^guidance-OclSpaceSighting-Expanse
+> [!mechanics]- | Roll > `dice: [[OT_ISSF_Space#^Sighting-Expanse]]` | Guidance
+> Use the Space Sightings oracle to introduce a location or encounter on a spaceborne expedition. For example, roll on this table when you [[SF_CH3_Ask the Oracle|Ask the Oracle (move)]] to envision the primary feature of a waypoint as you [[SF_CH3_Undertake an Expedition|Undertake an Expedition (move)]]. ^guidance-Expanse
 
 | dice: 1d100 | Result |
-|:---:|:--- |
+| :---: | --- |
 | 1 - 15 | ▶[[SF_CH5_Stellar-Object#Oracle Stellar Object\|Stellar Object]] |
-| 16 - 35 | ▶[[_SF_CH5_Planets#Planetary Class - Rollabel\|Planet]] |
-| 36 - 37 | ▶[[SF_CH5_Settle-Creation#Oracle Settlement Location\|Settlement]] |
-| 38 - 39 | ▶[[SF_CH5_Starship-Creation#Oracle Starship Type\|Starship]] |
-| 40 - 41 | ▶[[SF_CH5_Derelict_Looks#Oracle Derelict First Look Outer\|Derelict Outer First Look]] |
-| 42 - 45 | ▶[[SF_CH5_Vault-Exterior#Oracle Precursor Vault Outer First Look\|Precursor Vault Outer First Look]] |
-| 46 - 49 | ▶[[SF_CH5_Creature-Approach#Oracle Creature First Look\|Creature First Look]] |
-| 50 - 56 | ▶[[SF_CH5_Core_Descriptor-Focus#Oracle Descriptor\|Descriptor]] + [[SF_CH5_Core_Descriptor-Focus#Oracle Focus\|Focus]] |
+| 16 - 35 | ▶[[_SF_CH5_Planets#Oracle Planetary Class\|Planet]] |
+| 36 - 37 | ▶[[SF_CH5_Settle-Creation\|Settlement]] |
+| 38 - 39 | ▶[[SF_CH5_Starship-Creation\|Starship]] |
+| 40 - 41 | ▶[[SF_CH5_Derelict_Create\|Derelict]] |
+| 42 - 45 | ▶[[SF_CH5_Vault-Exterior\|Precursor Vault]] |
+| 46 - 49 | ▶[[SF_CH5_Creature-Basic Form\|Creature]] |
+| 50 - 56 | ▶[[SF_CH5_Core_Descriptor-Focus#Oracle Descriptor\|Descriptor]] + ▶[[SF_CH5_Core_Descriptor-Focus#Oracle Focus\|Focus]] |
 | 57 - 61 | Debris field: Mineral asteroids |
 | 62 - 64 | Debris field: Frozen asteroids |
 | 65 - 66 | Debris field: Crystalline asteroids |
@@ -106,7 +143,7 @@ Introduce a feature at a waypoint as you explore outer space through the Forge.
 | 86 - 93 | Dense nebula cloud |
 | 94 - 98 | Roll twice |
 | 99 - 100 | Roll three times |
-^table-OclSpaceSighting-Expanse
+^table-Expanse
 
 *300 CHAPTER 5: ORACLES*
 

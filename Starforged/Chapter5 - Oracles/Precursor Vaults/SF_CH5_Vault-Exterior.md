@@ -26,49 +26,49 @@ OracleDescriptor: "The vault exterior oracles are used when first discerning a p
 The vault exterior oracles are used when first discerning a precursor vault during your adventures.
 
 ## Oracle: Precursor Vault Location
-> [!mechanics]- | Roll > `dice: [[SF_CH5_Vault-Exterior#^table-OclVaultLocation]]` | Guidance
-> To create a Precursor Vault, choose or roll on the location where it is found. ^guidance-OclVaultLocation
+> [!mechanics]- | Roll > `dice: [[OT_ISSF_Vaults#^Location]]` | Guidance
+> To create a Precursor Vault, choose or roll on the location where it is found. ^guidance-Location
 
 | dice: 1d100 | Result |
-|:---:|:--- |
+| :---: | --- |
 | 1 - 40 | Planetside |
 | 41 - 60 | Orbital |
 | 61 - 100 | Deep space |
-^table-OclVaultLocation
+^table-Location
 
 ## Oracle: Precursor Vault Scale
-> [!mechanics]- | Roll > `dice: [[SF_CH5_Vault-Exterior#^table-ISSF-Core1-0-OclPrecursorVaultScale]]` | Guidance
-> To create a Precursor Vault, choose or roll on the scale. This scale will likely provide guidance on the rank if you choose to [[SF_CH3_Undertake an Expedition|Undertake an Expedition (move)]] ^guidance-OclVaultScale
+> [!mechanics]- | Roll > `dice: [[OT_ISSF_Vaults#^Scale]]` | Guidance
+> To create a Precursor Vault, choose or roll on the scale. This scale will likely provide guidance on the rank if you choose to [[SF_CH3_Undertake an Expedition|Undertake an Expedition (move)]] ^guidance-Scale
 
 | dice: 1d100 | Result |
-|:---:|:--- |
+| :---: | --- |
 | 1 - 30 | Minor, confined site |
 | 31 - 65 | Typical site of limited scope |
-| 66 - 90 | Large, el[](SF_CH3_Undertake%20an%20Expedition.md) |
+| 66 - 90 | Large, elaborate site |
 | 100 | World-spanning site or megastructure |
-^table-ISSF-Core1-0-OclPrecursorVaultScale
+^table-Scale
 
 ## Oracle: Precursor Vault Form
-> [!mechanics]- | Roll > `dice: [[SF_CH5_Vault-Exterior#^table-OclPrecursorVaultForm]]` | Guidance
-> To create a Precursor Vault, choose or roll on the form, which is a general guide on its structure. ^guidance-OclVaultForm
+> [!mechanics]- | Roll > `dice: [[OT_ISSF_Vaults#^Form]]` | Guidance
+> To create a Precursor Vault, choose or roll on the form, which is a general guide on its structure. ^guidance-Form
 
 | dice: 1d100 | Result |
-|:---:|:--- |
+| :---: | --- |
 | 1 - 35 | Structure |
 | 36 - 60 | Vessel |
 | 61 - 80 | Monument |
 | 81 - 95 | Machine |
 | 96 - 100 | Incomprehensible |
-^table-OclPrecursorVaultForm
+^table-Form
 
 *360 CHAPTER 5: ORACLES*
 
 ## Oracle: Precursor Vault Shape
-> [!mechanics]- | Roll > `dice: [[SF_CH5_Vault-Exterior#^table-OclPrecursorVaultShape]]` | Guidance
-> To create a Precursor Vault, choose or roll on its shape as seen from the exterior. ^guidance-OclVaultShape
+> [!mechanics]- | Roll > `dice: [[OT_ISSF_Vaults#^Shape]]` | Guidance
+> To create a Precursor Vault, choose or roll on its shape as seen from the exterior. ^guidance-Shape
 
 | dice: 1d100 | Result |
-|:---:|:--- |
+| :---: | --- |
 | 1 - 15 | Practical or functional |
 | 16 - 20 | Geometric (complex shape) |
 | 21 - 25 | Geometric (cube) |
@@ -85,14 +85,14 @@ The vault exterior oracles are used when first discerning a precursor vault duri
 | 77 - 79 | Amorphous |
 | 80 - 85 | Transforming |
 | 86 - 100 | Roll twice |
-^table-OclPrecursorVaultShape
+^table-Shape
 
 ## Oracle: Precursor Vault Material
-> [!mechanics]- | Roll > `dice: [[SF_CH5_Vault-Exterior#^table-OclPrecursorVaultMaterial]]` | Guidance
-> To create a Precursor Vault, choose or roll on the predominant material composition as seen from the exterior. ^guidance-OclVaultMaterial
+> [!mechanics]- | Roll > `dice: [[OT_ISSF_Vaults#^Material]]` | Guidance
+> To create a Precursor Vault, choose or roll on the predominant material composition as seen from the exterior. ^guidance-Material
 
 | dice: 1d100 | Result |
-|:---:|:--- |
+| :---: | --- |
 | 1 - 30 | Metallic (industrial) |
 | 31 - 60 | Metallic (smooth) |
 | 61 - 70 | Rocky or stone-like |
@@ -103,14 +103,14 @@ The vault exterior oracles are used when first discerning a precursor vault duri
 | 87 - 88 | Energy |
 | 89 - 90 | Liquid |
 | 91 - 100 | Roll twice |
-^table-OclPrecursorVaultMaterial
+^table-Material
 
 ## Oracle: Precursor Vault Outer First Look
-> [!mechanics]- | Roll > `dice: [[SF_CH5_Vault-Exterior#^table-OclPrecursorVaultOuterFirstLook]]` | Guidance
-> To create a Precursor Vault, choose or roll on an aspect observed from the exterior. ^guidance-OclVaultOuterFirstLook
+> [!mechanics]- | Roll > <br>▶1 `dice: [[OT_ISSF_Vaults#^Outer-First-Look]]`<br>▶2 `dice: [[OT_ISSF_Vaults#^Outer-First-Look]]` | Guidance
+> To create a Precursor Vault, choose or roll on an aspect observed from the exterior. ^guidance-Outer-First-Look
 
 | dice: 1d100 | Result @1-2 |
-|:---:|:--- |
+| :---: | --- |
 | 1 - 3 | Corrupting its environment |
 | 4 - 7 | Automated defenses |
 | 8 - 10 | Breached exterior |
@@ -140,8 +140,8 @@ The vault exterior oracles are used when first discerning a precursor vault duri
 | 86 - 89 | Sound or signal |
 | 90 - 92 | Strong gravity well |
 | 93 - 95 | Surrounded by destruction |
-| 96 - 100 | ▶[[SF_CH5_Core_Descriptor-Focus#Oracle Descriptor\|Descriptor]] + [[SF_CH5_Core_Descriptor-Focus#Oracle Focus\|Focus]] |
-^table-OclPrecursorVaultOuterFirstLook
+| 96 - 100 | ▶[[SF_CH5_Core_Descriptor-Focus#Oracle Descriptor\|Descriptor]] + ▶[[SF_CH5_Core_Descriptor-Focus#Oracle Focus\|Focus]] |
+^table-First-Look
 
 *361 PRECURSOR VAULTS*
 

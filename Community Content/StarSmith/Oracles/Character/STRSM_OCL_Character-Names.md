@@ -12,7 +12,7 @@ aliases:
   - "Character Callsign (Starsmith Oracles)"
 PageType: Oracle
 PageCategory: Character
-PageOrder: 32
+PageOrder: 34
 
 ## Oracle
 Oracle: Character
@@ -29,8 +29,8 @@ Spacers are often known only by their callsigns, with their “dirtside names”
 ## Oracle: Character Given Name
 This oracle can be used to replace the one provided on [[SF_CH5_Character-Names#Oracle Character Given Name|Character Given Name Oracle]].
 
-> [!mechanics]- | Roll > %%GetDice%% | Guidance
-> Given and Family names are presented as an intended pair, so you may roll once for both if you choose. Given and family names can often be reversed, or used independently as standalone names. These “dirtside names” are usually reserved for family and close friends. ^guidance-STRSM-OCL-OclCharacterGivenName
+> [!mechanics]- | Roll > `dice: [[OT_STRSM_OCL_Characters^Name-Given]]` | Guidance
+> Given and Family names are presented as an intended pair, so you may roll once for both if you choose. Given and family names can often be reversed, or used independently as standalone names. These “dirtside names” are usually reserved for family and close friends. ^guidance-Given-Name
 
 | 1d100 | 1-2 | 3-4 | 5-6 |
 | :---: | --- | --- | --- |
@@ -134,13 +134,13 @@ This oracle can be used to replace the one provided on [[SF_CH5_Character-Names#
 | 98 | Zari | Zaeden | Zaid |
 | 99 | Zev | Zand | Zarina |
 | 100 | Zoya | Zavir | Zolmon |
-^table-STRSM-OCL-OclCharacterGivenName
+^table-Given-Name
 
 ## Oracle: Character Family Name
 This oracle can be used to replace the one provided on [[SF_CH5_Character-Names#Oracle Character Family Name|Character Family Name Oracle]].
 
-> [!mechanics]- | Roll > %%GetDice%% | Guidance
-> Given and Family names are presented as an intended pair, so you may roll once for both if you choose. Given and family names can often be reversed, or used independently as standalone names. These “dirtside names” are usually reserved for family and close friends. ^guidance-OclCharacterFamilyName
+> [!mechanics]- | Roll > `dice: [[OT_STRSM_OCL_Characters^Name-Family]]` | Guidance
+> Given and Family names are presented as an intended pair, so you may roll once for both if you choose. Given and family names can often be reversed, or used independently as standalone names. These “dirtside names” are usually reserved for family and close friends. ^guidance-Family-Name
 
 | 1d100 | 1-2 | 3-4 | 5-6 |
 | :---: | --- | --- | --- |
@@ -244,13 +244,13 @@ This oracle can be used to replace the one provided on [[SF_CH5_Character-Names#
 | 98 | Darwin | Williz | Woodward |
 | 99 | Pearson | Yorksher | Yuz |
 | 100 | Volkov | Zamora | Zimmers |
-^table-STRSM-OCL-OclCharacterFamilyName
+^table-Family-Name
 
 ## Oracle: Character Callsign
 This oracle can be used to replace the one provided on [[SF_CH5_Character-Names#Oracle Character Call Sign|Character Call Sign Oracle]].
 
-> [!mechanics]- | Roll > %%GetDice%% | Guidance
->  If you’d like to give a character a **Callsign**, which are the monikers used by spacers, you may roll separately or take the one provided for the selected name. Spacers are often known only by their callsigns. ^guidance-OclCharacterCallsign
+> [!mechanics]- | Roll > `dice: [[OT_STRSM_OCL_Characters^Name-Callsign]]` | Guidance
+>  If you’d like to give a character a **Callsign**, which are the monikers used by spacers, you may roll separately or take the one provided for the selected name. Spacers are often known only by their callsigns. ^guidance-Callsign
 
 | 1d100 | 1-2 | 3-4 | 5-6 |
 | :---: | --- | --- | --- |
@@ -354,11 +354,11 @@ This oracle can be used to replace the one provided on [[SF_CH5_Character-Names#
 | 98 | Wraith | Winger | Witch |
 | 99 | Wrongway | Wolf | Wolverine |
 | 100 | Zephyr | Wyvern | Zion |
-^table-STRSM-OCL-OclCharacterCallsign
+^table-Callsign
 
 ## Tags
-| Previous Page | Tags | Next Page | 
+| Section Page | Tags | Next Page | 
 | :--- | :---: | ---: |
-| **[[_STRSM_OCL_Character Oracles\|Character Oracles]]** | #Starsmith/Oracles/Characters - #Pedia/Oracles/Characters | **[[STRSM_OCL_Character-Approach\|Character Approach Oracles]]** |
+| **[[STRSM_OCL_Character-Drives\|Character Drive (STRM Oracles)]]** | #Starsmith/Oracles/Characters | **[[STRSM_OCL_Character-Knowledge\|Character Knowledge (STRM Oracles)]]** |
 
 <font size=-2>Starsmith Oracles is created by Eric Bright and licensed for use under the Creative Commons Attribution 4.0 International License (CC-BY).</font>

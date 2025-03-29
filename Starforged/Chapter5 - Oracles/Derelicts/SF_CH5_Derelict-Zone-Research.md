@@ -24,11 +24,11 @@ OracleDescriptor: "_Half finished experiments and papers litter the shelves, unt
 _Half finished experiments and papers litter the shelves, untold knowledge possibly held._
 
 ## Oracle: Derelict Zone Research - Area
-> [!mechanics]- | Roll > `dice: [[SF_CH5_Derelict-Zone-Research#^table-OclDerelictZone-Research-Area]]` | Guidance
-> ![[GSRY_Definitions#^gsry-OclSite-Area]] ^guidance-OclSite-Area
+> [!mechanics]- | Roll > `dice: [[OT_ISSF_Derelicts#^Zone-Research-Area]]` | Guidance
+> ![[GSRY_Definitions#^gsry-OclSite-Area]] ^guidance-Area
 
 | dice: 1d100 | Result |
-|:---:|:--- |
+| :---: | --- |
 | 1 - 8 | Clean room |
 | 9 - 16 | Cold storage |
 | 17 - 24 | Creature or animal pens |
@@ -41,14 +41,14 @@ _Half finished experiments and papers litter the shelves, untold knowledge possi
 | 73 - 80 | Secure vault |
 | 81 - 85 | New zone |
 | 86 - 100 | New zone via ⏵[[SF_CH5_Derelict-Zone-Access\|Access]] |
-^table-OclDerelictZone-Research-Area
+^table-Area
 
 ## Oracle: Derelict Zone Research - Feature
-> [!mechanics]- | Roll > `dice: [[SF_CH5_Derelict-Zone-Research#^table-OclDerelictZone-Research-Feature]]` | Guidance
-> ![[GSRY_Definitions#^gsry-OclSite-Feature]] ^guidance-OclSite-Feature
+> [!mechanics]- | Roll > `dice: [[OT_ISSF_Derelicts#^Zone-Research-Feature]]` | Guidance
+> ![[GSRY_Definitions#^gsry-OclSite-Feature]] ^guidance-Feature
 
 | dice: 1d100 | Result |
-|:---:|:--- |
+| :---: | --- |
 | 1 - 8 | Aquarium or tank |
 | 9 - 16 | Biological specimens |
 | 17 - 24 | Bones or fossils |
@@ -61,14 +61,14 @@ _Half finished experiments and papers litter the shelves, untold knowledge possi
 | 73 - 80 | Recorded research log |
 | 81 - 88 | Spilled chemicals |
 | 89 - 100 | ⏵[[SF_CH5_Core_Descriptor-Focus#Oracle Descriptor\|Descriptor]] + [[SF_CH5_Core_Descriptor-Focus#Oracle Focus\|Focus]] |
-^table-OclDerelictZone-Research-Feature
+^table-Feature
 
 ## Oracle: Derelict Zone Research - Peril
-> [!mechanics]- | Roll > `dice: [[SF_CH5_Derelict-Zone-Research#^table-OclDerelictZone-Research-Peril]]` | Guidance
-> ![[GSRY_Definitions#^gsry-OclSite-Peril]] ^guidance-OclSite-Peril
+> [!mechanics]- | Roll > `dice: [[OT_ISSF_Derelicts#^Zone-Research-Peril]]` | Guidance
+> ![[GSRY_Definitions#^gsry-OclSite-Peril]] ^guidance-Peril
 
 | dice: 1d100 | Result |
-|:---:|:--- |
+| :---: | --- |
 | 1 - 10 | Automated containment protocols are activated |
 | 11 - 20 | Biological infestation |
 | 21 - 30 | Dangerous specimen |
@@ -80,20 +80,20 @@ _Half finished experiments and papers litter the shelves, untold knowledge possi
 | 81 - 90 | Unstable technology |
 | 91 - 98 | ⏵[[SF_CH5_Core_Action-Theme#Oracle Action\|Action]] + [[SF_CH5_Core_Action-Theme#Oracle Theme\|Theme]] |
 | 99 - 100 | Roll twice |
-^table-OclDerelictZone-Research-Peril
+^table-Peril
 
 ## Oracle: Derelict Zone Research - Opportunity
-> [!mechanics]- | Roll > `dice: [[SF_CH5_Derelict-Zone-Research#^table-OclDerelictZone-Research-Opportunity]]` | Guidance
-> ![[GSRY_Definitions#^gsry-OclSite-Opportunity]] ^guidance-OclSite-Opportunity
+> [!mechanics]- | Roll > `dice: [[OT_ISSF_Derelicts#^Zone-Research-Opportunity]]` | Guidance
+> ![[GSRY_Definitions#^gsry-OclSite-Opportunity]] ^guidance-Opportunity
 
 | dice: 1d100 | Result |
-|:---:|:--- |
+| :---: | --- |
 | 1 - 20 | Helpful research data |
 | 21 - 40 | Records of a notable discovery |
 | 41 - 60 | Specialized research tools |
 | 61 - 80 | Unique prototype |
 | 81 - 100 | Useful navigational data |
-^table-OclDerelictZone-Research-Opportunity
+^table-Opportunity
 
 *359 DERELICTS*
 

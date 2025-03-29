@@ -24,11 +24,11 @@ OracleDescriptor: "When entering the precursor vault as part of an expedition us
 When entering the precursor vault as part of an expedition use these Oracles to flesh out the narrative if you need inspiration.
 
 ## Oracle: Precursor Vault Interior - First Look
-> [!mechanics]- | Roll > `dice: [[SF_CH5_Vault-Interior#^table-OclVaultInterior-FirstLook]]` | Guidance
-> Use this oracle to reveal what you see or encounter when first entering the site. These aspects, combined with the exterior features, will help you envision the nature and condition of the vault and provide context for the rest of your exploration. ^guidance-OclVaultInterior-FirstLook
+> [!mechanics]- | Roll > <br>▶1 `dice: [[OT_ISSF_Vaults#^Inner-First-Look]]`<br>▶2 `dice: [[OT_ISSF_Vaults#^Inner-First-Look]]` | Guidance
+> Use this oracle to reveal what you see or encounter when first entering the site. These aspects, combined with the exterior features, will help you envision the nature and condition of the vault and provide context for the rest of your exploration. ^guidance-First-Look
 
 | dice: 1d100 | Result @1-2 |
-| :---: | :--- |
+| :---: | --- |
 | 1 - 3 | Abnormal gravity |
 | 4 - 6 | Automated defenses |
 | 7 - 9 | Biological infestation |
@@ -60,17 +60,17 @@ When entering the precursor vault as part of an expedition use these Oracles to 
 | 85 - 87 | Toxic residue |
 | 88 - 90 | Well-preserved |
 | 91 - 93 | Wet or humid |
-| 94 - 100 | ▶[[SF_CH5_Core_Descriptor-Focus#Oracle Descriptor\|Descriptor]] + [[SF_CH5_Core_Descriptor-Focus#Oracle Focus\|Focus]] |
-^table-OclVaultInterior-FirstLook
+| 94 - 100 | ▶[[SF_CH5_Core_Descriptor-Focus#Oracle Descriptor\|Descriptor]] + ▶[[SF_CH5_Core_Descriptor-Focus#Oracle Focus\|Focus]] |
+^table-First-Look
 
 *366 CHAPTER 5: ORACLES*
 
 ## Oracle: Precursor Vault Interior - Feature
-> [!mechanics]- | Roll > `dice: [[SF_CH5_Vault-Interior#^table-OclVaultInterior-Feature]]` | Guidance
+> [!mechanics]- | Roll > `dice: [[OT_ISSF_Vaults#^Interior-Feature]]` | Guidance
 > ![[GSRY_Definitions#^gsry-OclSite-Feature]] ^guidance-OclSite-Feature
 
 | dice: 1d100 | Result |
-| :---: | :--- |
+| :---: | --- |
 | 1 - 3 | Ascending or descending path |
 | 4 - 6 | Biological growths |
 | 7 - 8 | Blood trail |
@@ -104,16 +104,16 @@ When entering the precursor vault as part of an expedition use these Oracles to 
 | 80 - 82 | Vaulted chamber |
 | 83 - 85 | Vertical shaft |
 | 86 - 90 | Transition into the ▶[[SF_CH5_Vault-Sanctum#Oracle Precursor Vault Sanctum Feature\|Sanctum Feature]] |
-| 91 - 95 | ▶[[SF_CH5_Core_Descriptor-Focus#Oracle Descriptor\|Descriptor]] + [[SF_CH5_Core_Descriptor-Focus#Oracle Focus\|Focus]] |
+| 91 - 95 | ▶[[SF_CH5_Core_Descriptor-Focus#Oracle Descriptor\|Descriptor]] + ▶[[SF_CH5_Core_Descriptor-Focus#Oracle Focus\|Focus]] |
 | 96 - 100 | Roll twice  |
-^table-OclVaultInterior-Feature
+^table-Feature
 
 ## Oracle: Precursor Vault Interior - Peril
-> [!mechanics]- | Roll > `dice: [[SF_CH5_Vault-Interior#^table-OclVaultInterior-Peril]]` | Guidance
+> [!mechanics]- | Roll > `dice: [[OT_ISSF_Vaults#^Interior-Peril]]` | Guidance
 > ![[GSRY_Definitions#^gsry-OclSite-Peril]] ^guidance-OclSite-Peril
 
 | dice: 1d100 | Result |
-| :---: | :--- |
+| :---: | --- |
 | 1 - 5 | Broken path |
 | 6 - 10 | Change in atmosphere or environment |
 | 11 - 15 | Corrosive environment |
@@ -133,16 +133,16 @@ When entering the precursor vault as part of an expedition use these Oracles to 
 | 81 - 85 | Tempting location or object holds hidden dangers |
 | 86 - 90 | Toxic atmosphere |
 | 91 - 95 | Unnerving sound or sensation |
-| 96 - 99 | ▶[[SF_CH5_Core_Action-Theme#Oracle Action\|Action]] + [[SF_CH5_Core_Action-Theme#Oracle Theme\|Theme]] |
+| 96 - 99 | ▶[[SF_CH5_Core_Action-Theme#Oracle Action\|Action]] + ▶[[SF_CH5_Core_Action-Theme#Oracle Theme\|Theme]] |
 | 100 | Roll twice |
-^table-OclVaultInterior-Peril
+^table-Peril
 
 ## Oracle: Precursor Vault Interior - Opportunity
-> [!mechanics]- | Roll > `dice: [[SF_CH5_Vault-Interior#^table-OclVaultInterior-Opportunity]]` | Guidance
+> [!mechanics]- | Roll > `dice: [[OT_ISSF_Vaults#^Interior-Opportunity]]` | Guidance
 > ![[GSRY_Definitions#^gsry-OclSite-Opportunity]] ^guidance-OclSite-Opportunity
 
 | dice: 1d100 | Result |
-| :---: | :--- |
+| :---: | --- |
 | 1 - 10 | Clue points the way to your destination or target |
 | 11 - 20 | Clue to a lifeform’s nature or vulnerabilities |
 | 21 - 30 | Helpful gear left by another explorer |
@@ -153,7 +153,7 @@ When entering the precursor vault as part of an expedition use these Oracles to 
 | 71 - 80 | Salvageable resource |
 | 81 - 90 | Secure area offers a moment of peace |
 | 91 - 100 | Shortcut or less perilous path speeds your way |
-^table-OclVaultInterior-Opportunity
+^table-Opportunity
 
 *367 PRECURSOR VAULTS*
 

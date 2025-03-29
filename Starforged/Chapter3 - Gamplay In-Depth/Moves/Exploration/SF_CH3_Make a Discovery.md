@@ -41,7 +41,7 @@ You may make this move only when you [[SF_CH3_Explore a Waypoint|Explore a Waypo
 Once you’ve established the nature of the discovery and interacted with it in the fiction, you and your allies may mark two ticks on your ==discoveries legacy track==.
 
 ### Make a Discovery Table
-| dice: 1d100 | `dice: [[SF_CH3_Make a Discovery#^table-make-a-discovery]]` |
+| dice: 1d100 | `dice: [[OT_ISSF_Moves#^Make-a-Discovery]]` |
 | :---: | --- |
 | 1 - 4 | Advanced technology waiting to be harnessed or salvaged |
 | 5 - 8 | Ancient archive or message |

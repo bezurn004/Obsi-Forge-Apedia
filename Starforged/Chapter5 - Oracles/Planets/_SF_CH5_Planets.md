@@ -18,41 +18,24 @@ OracleFocus: "Planet Class"
 OracleDescriptor: "This oracle provides a simple method of generating a planetary class. If this is enough information, stop there and envision the world as appropriate to its type."
 ---
 # [[_Starforged|Starforged]] - [[_SF_CH5_Index|Oracle]]: Planets
-## Oracle: Planetary Class
-> [!mechanics]- | Roll > `dice: [[_SF_CH5_Planets#^table-OclPlanetaryClass]]` ▶Descriptor: `dice: [[SF_CH5_Core_Descriptor-Focus#^table-OclDescriptior]]` | Guidance
-> This oracle provides a simple method of generating a planetary class. If this is enough information, stop there and envision the world as appropriate to its type. For a bit more detail, make a roll on the [[SF_CH5_Core_Descriptor-Focus#Oracle Descriptor|Descriptor/Focus Oracle]] and envision how that aspect defines the nature of the planet or a specific planetside location. ^guidance-OclPlanetaryClass
 
-| 1d100 | Result | Description |
-| :---: |:--- |:--- |
-| 1 - 15 | [[SF_CH5_Planet-Desert\|Desert World]] | A pitiless planet of searing heat, blowing sand, and sunbaked rock. |
-| 16 - 30 | [[SF_CH5_Planet-Furnace\|Furnace World]] | A planet with relentless volcanic activity, wreathed in fire and ash. |
-| 31 - 35 | [[SF_CH5_Planet-Grave\|Grave World]] | A once-thriving world, now a grim monument to a fallen civilization. |
-| 36 - 50 | [[SF_CH5_Planet-Ice\|Ice World]] | A rugged, frozen world—locked in an unending winter. |
-| 51 - 65 | [[SF_CH5_Planet-Jovian\|Jovian World]] | A massive planet with vast layers of dense gases surrounding a rocky core. |
-| 66 - 70 | [[SF_CH5_Planet-Jungle\|Jungle World]] | A humid, rain-soaked planet that keeps its secrets under a thick canopy of vegetation. |
-| 71 - 75 | [[SF_CH5_Planet-Ocean\|Ocean World]] | A planet completely or almost entirely covered by a boundless ocean. |
-| 76 - 90 | [[SF_CH5_Planet-Rocky\|Rocky World]] | A rugged planet scarred by eons of destructive asteroid impacts. |
-| 91 - 92 | [[SF_CH5_Planet-Shattered\|Shattered World]] | A planet sundered by cataclysmic destruction. |
-| 93 - 98 | [[SF_CH5_Planet-Tainted\|Tained Worled]] | A foul planet wracked by a poisonous climate and virulent growths. |
-| 99 - 100 | [[SF_CH5_Planet-Vital\|Vital World]] | This diverse, life-bearing planet might provide some small measure of hope. |
+> ## Contents
+> ### Planetary Class
+>> [!mechanics]- | Roll > `dice: [[OT_ISSF_Planets#^Planet-Type-Short]]` ▶[[SF_CH5_Core_Descriptor-Focus#Oracle Descriptor\|Descriptor]]: `dice: [[OT_ISSF_Core#^Descriptor]]` | Guidance
+>> This oracle provides a simple method of generating a planetary class. If this is enough information, stop there and envision the world as appropriate to its type. For a bit more detail, make a roll on the [[SF_CH5_Core_Descriptor-Focus#Oracle Descriptor|Descriptor/Focus Oracle]] and envision how that aspect defines the nature of the planet or a specific planetside location. ^guidance-OclPlanetaryClass
+>
+>![[#^table-Planetary-Class]]
+>
+> ### [[SF_CH5_Planetside_Fortune|Planetary Fortunes]]
+> - Peril - Lifeless
+> - Peril - Lifebearing
+> - Opportunity - Lifeless
+> - Opportunity - Lifebearing
+
+
+
 
 *306 CHAPTER 5: ORACLES*
-
-### Planetary Class - Rollabel
-| dice: 1d100 | Result |
-|:---:|:--- |
-| 1 - 15 | [[SF_CH5_Planet-Desert\|Desert World]] |
-| 16 - 30 | [[SF_CH5_Planet-Furnace\|Furnace World]] |
-| 31 - 35 | [[SF_CH5_Planet-Grave\|Grave World]] |
-| 36 - 50 | [[SF_CH5_Planet-Ice\|Ice World]] |
-| 51 - 65 | [[SF_CH5_Planet-Jovian\|Jovian World]] |
-| 66 - 70 | [[SF_CH5_Planet-Jungle\|Jungle World]] |
-| 71 - 75 | [[SF_CH5_Planet-Ocean\|Ocean World]] |
-| 76 - 90 | [[SF_CH5_Planet-Rocky\|Rocky World]] |
-| 91 - 92 | [[SF_CH5_Planet-Shattered\|Shattered World]] |
-| 93 - 98 | [[SF_CH5_Planet-Tainted\|Tained Worled]] |
-| 99 - 100 | [[SF_CH5_Planet-Vital\|Vital World]] |
-^table-OclPlanetaryClass
 
 ## Summary: Exploring Planets
 The chart on the previous page provides a simple method of generating a planetary class. If this is enough information, stop there and envision the world as appropriate to its type. For a bit more detail, make a roll on the [[SF_CH5_Core_Descriptor-Focus#Oracle Descriptor|Descriptor]] oracle (page 298) and envision how that aspect defines the nature of the planet or a specific planetside location.
@@ -77,6 +60,23 @@ The atmosphere table for each planet type includes a range of results to help yo
 Planets are big. These oracles help set the stage, but won’t provide the moment-to-moment details of a surface expedition. Instead, use the established nature of a planet as a springboard for envisioning terrain and encounters. Save the **Planetside Feature** table for key aspects. Roll on the **[[_SF_CH5_Core#Oracle: Descriptor|Descriptor]]** and **[[_SF_CH5_Core#Oracle: Focus|Focus]]** oracles for additional variety. Use the **[[SF_CH5_Planetside_Fortune#Oracle Planet Peril - Lifeless|Planet Peril]]** and **[[SF_CH5_Planetside_Fortune#Oracle Planet Opportunity - Lifeless|Planet Opportunity]]** oracles to help envision the nature of an unexpected event.
 
 *307 PLANETS*
+
+## Planetary Class
+
+| dice: 1d100 | Result | Description |
+| :---: | --- | --- |
+| 1 - 15 | [[SF_CH5_Planet-Desert\|Desert World]] | A pitiless planet of searing heat, blowing sand, and sunbaked rock. |
+| 16 - 30 | [[SF_CH5_Planet-Furnace\|Furnace World]] | A planet with relentless volcanic activity, wreathed in fire and ash. |
+| 31 - 35 | [[SF_CH5_Planet-Grave\|Grave World]] | A once-thriving world, now a grim monument to a fallen civilization. |
+| 36 - 50 | [[SF_CH5_Planet-Ice\|Ice World]] | A rugged, frozen world—locked in an unending winter. |
+| 51 - 65 | [[SF_CH5_Planet-Jovian\|Jovian World]] | A massive planet with vast layers of dense gases surrounding a rocky core. |
+| 66 - 70 | [[SF_CH5_Planet-Jungle\|Jungle World]] | A humid, rain-soaked planet that keeps its secrets under a thick canopy of vegetation. |
+| 71 - 75 | [[SF_CH5_Planet-Ocean\|Ocean World]] | A planet completely or almost entirely covered by a boundless ocean. |
+| 76 - 90 | [[SF_CH5_Planet-Rocky\|Rocky World]] | A rugged planet scarred by eons of destructive asteroid impacts. |
+| 91 - 92 | [[SF_CH5_Planet-Shattered\|Shattered World]] | A planet sundered by cataclysmic destruction. |
+| 93 - 98 | [[SF_CH5_Planet-Tainted\|Tained Worled]] | A foul planet wracked by a poisonous climate and virulent growths. |
+| 99 - 100 | [[SF_CH5_Planet-Vital\|Vital World]] | This diverse, life-bearing planet might provide some small measure of hope. |
+^table-Planetary-Class
 
 ## Oracle: Planet Names (All)
 > [!mechanics]- | Roll > `dice: 1d100` | Guidance

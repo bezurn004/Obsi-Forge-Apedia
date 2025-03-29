@@ -22,11 +22,11 @@ OracleDescriptor: "When creating or learning about a new sector, generate a name
 When creating or learning about a new sector, generate a name with the prefix and suffix oracles.
 
 ## Oracle: Sector Name Prefix
-> [!mechanics]- | Roll > `dice: [[SF_CH5_Sector-Name#^table-OclSectorName-Prefix]]` | Guidance
-> To generate a name for a sector or region of space, roll once for the prefix (the first word), and once for the suffix (the second word). Or just roll once, and choose a suitable prefix and suffix from anywhere in that row. ^guidance-OclSectorName-Prefix
+> [!mechanics]- | Roll > `dice: [[OT_ISSF_Space#^Sector-Name-Prefix]]` | Guidance
+> To generate a name for a sector or region of space, roll once for the prefix (the first word), and once for the suffix (the second word). Or just roll once, and choose a suitable prefix and suffix from anywhere in that row. ^guidance-Prefix
 
 | dice: 1d100 | Result |
-| :----: |:-------|
+| :---: | --- |
 | 1 - 2 | Accursed |
 | 3 - 4 | Ashen |
 | 5 - 6 | Asteria |
@@ -77,14 +77,14 @@ When creating or learning about a new sector, generate a name with the prefix an
 | 95 - 96 | Vanguard |
 | 97 - 98 | Veiled |
 | 99 - 100 | Wasted |
-^table-OclSectorName-Prefix
+^table-Prefix
 
 ## Oracle: Sector Name Suffix
-> [!mechanics]- | Roll > `dice: [[SF_CH5_Sector-Name#^table-OclSectorName-Suffix]]` | Guidance
-> To generate a name for a sector or region of space, roll once for the prefix (the first word), and once for the suffix (the second word). Or just roll once, and choose a suitable prefix and suffix from anywhere in that row. ^guidance-OclSectorName-Suffix
+> [!mechanics]- | Roll > `dice: [[OT_ISSF_Space#^Sector-Name-Suffix]]` | Guidance
+> To generate a name for a sector or region of space, roll once for the prefix (the first word), and once for the suffix (the second word). Or just roll once, and choose a suitable prefix and suffix from anywhere in that row. ^guidance-Suffix
 
 | dice: 1d100 | Result |
-| :----: |:-------|
+| :---: | --- |
 | 1 - 2 | Abyss |
 | 3 - 4 | Anvil |
 | 5 - 6 | Arch |
@@ -135,11 +135,11 @@ When creating or learning about a new sector, generate a name with the prefix an
 | 95 - 96 | Void |
 | 97 - 98 | Web |
 | 99 - 100 | Zenith |
-^table-OclSectorName-Suffix
+^table-Suffix
 
 ## Oracle: Sector Name Prefix and Suffix
 > [!mechanics]- Roll > `dice: 1d50` | Guidance
-> To generate a name for a sector or region of space, roll once for the prefix (the first word), and once for the suffix (the second word). Or just roll once, and choose a suitable prefix and suffix from anywhere in that row. ^guidance-OclSectorName-Combined
+> To generate a name for a sector or region of space, roll once for the prefix (the first word), and once for the suffix (the second word). Or just roll once, and choose a suitable prefix and suffix from anywhere in that row. ^guidance-Combined
 
 | Row | 1d50 | Prefix | Suffix |
 | :---: | :---: | :--- | ---: |
@@ -168,7 +168,7 @@ When creating or learning about a new sector, generate a name with the prefix an
 | 23 | 45-46 | Hidden, Vanguard  | Juncture, Void |
 | 24 | 47-48 | Hollow, Veiled | Limits, Web |
 | 25 | 49-50 | Igneous, Wasted| Locus, Zenith |
-^table-OclSectorName-Combined
+^table-Combined-Names
 
 *302 CHAPTER 5: ORACLES*
 

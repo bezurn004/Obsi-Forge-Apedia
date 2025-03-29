@@ -24,11 +24,11 @@ OracleDescriptor: "_Dormant beds and healing supplies that lie empty and wasted.
 _Dormant beds and healing supplies that lie empty and wasted._
 
 ## Oracle: Derelict Zone Medical - Area
-> [!mechanics]- | Roll > `dice: [[SF_CH5_Derelict-Zone-Medical#^table-OclDerelictZone-Medical-Area]]` | Guidance
-> ![[GSRY_Definitions#^gsry-OclSite-Area]] ^guidance-OclSite-Area
+> [!mechanics]- | Roll > `dice: [[OT_ISSF_Derelicts#^Zone-Medical-Area]]` | Guidance
+> ![[GSRY_Definitions#^gsry-OclSite-Area]] ^guidance-Area
 
 | dice: 1d100 | Result |
-| :---: | :--- |
+| :---: | --- |
 | 1 - 8 | Crematorium |
 | 9 - 16 | Emergency or triage |
 | 17 - 24 | Isolation or containment |
@@ -41,14 +41,14 @@ _Dormant beds and healing supplies that lie empty and wasted._
 | 73 - 80 | Ward or clinic |
 | 81 - 85 | New zone |
 | 86 - 100 | New zone via ⏵[[SF_CH5_Derelict-Zone-Access\|Access]] |
-^table-OclDerelictZone-Medical-Area
+^table-Area
 
 ## Oracle: Derelict Zone Medical - Feature
-> [!mechanics]- | Roll > `dice: [[SF_CH5_Derelict-Zone-Medical#^table-OclDerelictZone-Medical-Feature]]` | Guidance
-> ![[GSRY_Definitions#^gsry-OclSite-Feature]] ^guidance-OclSite-Feature
+> [!mechanics]- | Roll > `dice: [[OT_ISSF_Derelicts#^Zone-Medical-Feature]]` | Guidance
+> ![[GSRY_Definitions#^gsry-OclSite-Feature]] ^guidance-Feature
 
 | dice: 1d100 | Result |
-| :---: | :--- |
+| :---: | --- |
 | 1 - 8 | Autopsied corpse |
 | 9 - 16 | Biological specimens |
 | 17 - 24 | Blood spatter or pools |
@@ -61,14 +61,14 @@ _Dormant beds and healing supplies that lie empty and wasted._
 | 73 - 80 | Medical records or scans |
 | 81 - 88 | Stacks of body bags |
 | 89 - 100 | ⏵[[SF_CH5_Core_Descriptor-Focus#Oracle Descriptor\|Descriptor]] + [[SF_CH5_Core_Descriptor-Focus#Oracle Focus\|Focus]] |
-^table-OclDerelictZone-Medical-Feature
+^table-Feature
 
 ## Oracle: Derelict Zone Medical - Peril
-> [!mechanics]- | Roll > `dice: [[SF_CH5_Derelict-Zone-Medical#^table-OclDerelictZone-Medical-Peril]]` | Guidance
-> ![[GSRY_Definitions#^gsry-OclSite-Peril]] ^guidance-OclSite-Peril
+> [!mechanics]- | Roll > `dice: [[OT_ISSF_Derelicts#^Zone-Medical-Peril]]` | Guidance
+> ![[GSRY_Definitions#^gsry-OclSite-Peril]] ^guidance-Peril
 
 | dice: 1d100 | Result |
-| :---: | :--- |
+| :---: | --- |
 | 1 - 10 | Disgusting sight / smell |
 | 11 - 20 | Disturbing evidence of medical misconduct |
 | 21 - 30 | Erratic medical bots |
@@ -80,20 +80,20 @@ _Dormant beds and healing supplies that lie empty and wasted._
 | 81 - 90 | Signs of broken quarantine |
 | 91 - 98 | ⏵[[SF_CH5_Core_Action-Theme#Oracle Action\|Action]] + [[SF_CH5_Core_Action-Theme#Oracle Theme\|Theme]] |
 | 99 - 100 | Roll twice |
-^table-OclDerelictZone-Medical-Peril
+^table-Peril
 
 ## Oracle: Derelict Zone Medical - Opportunity
-> [!mechanics]- | Roll > `dice: [[SF_CH5_Derelict-Zone-Medical#^table-OclDerelictZone-Medical-Opportunity]]` | Guidance
-> ![[GSRY_Definitions#^gsry-OclSite-Opportunity]] ^guidance-OclSite-Opportunity
+> [!mechanics]- | Roll > `dice: [[OT_ISSF_Derelicts#^Zone-Medical-Opportunity]]` | Guidance
+> ![[GSRY_Definitions#^gsry-OclSite-Opportunity]] ^guidance-Opportunity
 
 | dice: 1d100 | Result |
-| :---: | :--- |
+| :---: | --- |
 | 1 - 10 | Cache of medicine |
 | 21 - 40 | Clues to a medical mystery |
 | 41 - 60 | Helpful medical bot |
 | 61 - 80 | Unusual or rare specimen |
 | 81 - 100 | Useful medical equipment |
-^table-OclDerelictZone-Medical-Opportunity
+^table-Opportunity
 
 *356 CHAPTER 5: ORACLES*
 

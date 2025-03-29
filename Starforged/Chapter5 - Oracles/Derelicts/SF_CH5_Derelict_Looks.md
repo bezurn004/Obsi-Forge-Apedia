@@ -22,11 +22,11 @@ OracleDescriptor: "Derelicts are the forsaken relics of human endeavors. Use the
 Derelicts are the forsaken relics of human endeavors. Use these First Look tables for your initial survey of the derelict. To reveal more about the look and original function or nature of the site, roll on appropriate tables in the [[_SF_CH5_Starships|Starship]]  or [[_SF_CH5_Settlements|Settlement]] oracles. If you explore the depths of a derelict, you may use the [[SF_CH5_Derelict_Zones|Derelict Zones Oracle]] on the following pages to help envision what you find.
 
 ## Oracle: Derelict First Look - Outer
-> [!mechanics]- | Roll > `dice: [[SF_CH5_Derelict_Looks#^table-OclDerelictFirstLookOuter]]` | Guidance
-> What you notice from an outside inspection or scan. ^guidance-OclDerelictFirstLookOuter
+> [!mechanics]- | Roll > `dice: [[OT_ISSF_Derelicts#^First-Look-Outer]]` | Guidance
+> What you notice from an outside inspection or scan. ^guidance-First-Look-Outer
 
 | dice: 1d100 | Result |
-|:---:|:--- |
+| :---: | --- |
 | 1 - 15 | Blocked access |
 | 16 - 30 | Corpses |
 | 31 - 45 | Hazardous readings |
@@ -37,14 +37,14 @@ Derelicts are the forsaken relics of human endeavors. Use these First Look table
 | 81 - 85 | Signs that others are here |
 | 86 - 95 | Stripped exterior |
 | 96 - 100 | Time or reality distortion |
-^table-OclDerelictFirstLookOuter
+^table-First-Look-Outer
 
 ## Oracle: Derelict First Look - Inner
-> [!mechanics]- | Roll > `dice: [[SF_CH5_Derelict_Looks#^table-OclDerelictFirstLookInner]]` | Guidance
-> If you go inside the derelict, this is the first thing you notice. ^guidance-OclDerelictFirstLookInner
+> [!mechanics]- | Roll > <br>▶1 `dice: [[OT_ISSF_Derelicts#^First-Look-Inner]]`<br>▶2 `dice: [[OT_ISSF_Derelicts#^First-Look-Inner]]` | Guidance
+> If you go inside the derelict, this is the first thing you notice. ^guidance-First-Look-Inner
 
 | dice: 1d100 | Result @1-2 |
-|:---:|:--- |
+| :---: | --- |
 | 1 - 3 | Abnormal gravity |
 | 4 - 6 | Active bots |
 | 7 - 9 | Archaic equipment |
@@ -76,8 +76,8 @@ Derelicts are the forsaken relics of human endeavors. Use these First Look table
 | 85 - 87 | Thick haze or smoke |
 | 88 - 90 | Unstable energy surges |
 | 91 - 93 | Watchful AI |
-| 94 - 100 | ▶[[SF_CH5_Core_Descriptor-Focus#Oracle Descriptor\|Descriptor]] + [[SF_CH5_Core_Descriptor-Focus#Oracle Focus\|Focus]] |
-^table-OclDerelictFirstLookInner
+| 94 - 100 | ▶[[SF_CH5_Core_Descriptor-Focus#Oracle Descriptor\|Descriptor]] + ▶[[SF_CH5_Core_Descriptor-Focus#Oracle Focus\|Focus]] |
+^table-First-Look-Inner
 
 *349 DERELICTS*
 

@@ -21,11 +21,11 @@ OracleDescriptor: "After creating an settlement give it a Name. Optionally use t
  After creating an settlement give it a **Name**. Optionally use the **Name Tag** to provide the location a history and purpose.
 
 ## Oracle: Settlement Name
-> [!mechanics]- | Roll > `dice: [[SF_CH5_Settle-Name#^table-OclSettlementNames]]` | Guidance
-> Choose a name appropriate to the nature of the settlement, or roll for a random result. Optionally pair this name with the [[SF_CH5_Settle-Name#Oracle Settlement Name Tag|Name Tag Oracle]]. ^guidance-OclSettlementNames
+> [!mechanics]- | Roll > `dice: [[OT_ISSF_Settlements#^Name]]` | Guidance
+> Choose a name appropriate to the nature of the settlement, or roll for a random result. Optionally pair this name with the [[SF_CH5_Settle-Name#Oracle Settlement Name Tag|Name Tag Oracle]]. ^guidance-Names
 
 | dice: 1d100 | Result |
-|:---:|:--- |
+| :---: | --- |
 | 1 | Aegis |
 | 2 | Altair |
 | 3 | Altura |
@@ -122,25 +122,25 @@ OracleDescriptor: "After creating an settlement give it a Name. Optionally use t
 | 98 | Wellspring |
 | 99 | Weyland |
 | 100 | Wreck |
-^table-OclSettlementNames
+^table-Names
 
 ## Oracle: Settlement Name Tag
-> [!mechanics]- | Roll > `dice: [[SF_CH5_Settle-Name#^table-OclSettlementNameTag]]` | Guidance
-> If you choose, add a tag prefix or suffix to a settlement to give the location a history and purpose. ^guidance-OclSettlementNameTag
+> [!mechanics]- | Roll > `dice: [[OT_ISSF_Settlements#^Name-Tag]]` | Guidance
+> If you choose, add a tag prefix or suffix to a settlement to give the location a history and purpose. ^guidance-Name-Tag
 
 | dice: 1d100 | Result |
-|:---:|:--- |
-| 1-10 | Base |
-| 11-20 | Citadel |
-| 21-30 | Depot |
-| 31-40 | Fortress |
-| 41-50 | Hold |
-| 51-60 | Landing |
-| 61-70 | Outpost |
-| 71-80 | Port |
-| 81-90 | Station |
-| 91-100 | Terminal |
-^table-OclSettlementNameTag
+| :---: | --- |
+| 1 - 10 | Base |
+| 11 - 20 | Citadel |
+| 21 - 30 | Depot |
+| 31 - 40 | Fortress |
+| 41 - 50 | Hold |
+| 51 - 60 | Landing |
+| 61 - 70 | Outpost |
+| 71 - 80 | Port |
+| 81 - 90 | Station |
+| 91 - 100 | Terminal |
+^table-Name-Tag
 
 *325 SETTLEMENTS*
 

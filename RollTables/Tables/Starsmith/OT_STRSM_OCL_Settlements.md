@@ -1,144 +1,7 @@
-# Settlements
-
-## Settlement Authority
+# Location
 
 | dice: 1d300 | Result |
-|:----:|:-------|
-| 1 - 15 | None / lawless |
-| 16 - 30 | Ineffectual |
-| 31 - 45 | Tolerant |
-| 46 - 55 | Fair |
-| 56 - 70 | Unyielding |
-| 71 - 85 | Corrupt |
-| 86 - 100 | Oppressive |
-| 101 - 115 | Tribal |
-| 116 - 130 | Theocratic |
-| 131 - 145 | Feudalistic |
-| 146 - 155 | Democratic |
-| 156 - 170 | Authoritarian |
-| 171 - 185 | Oligarchic |
-| 186 - 200 | Tyrannical |
-| 201 - 215 | Cult-like |
-| 216 - 230 | Legalistic |
-| 231 - 245 | Collective good first |
-| 246 - 255 | Charitable |
-| 256 - 270 | Single-minded |
-| 271 - 285 | Prejudiced |
-| 286 - 300 | Takes advantage |
-^Settlement-Authority
-
-## Settlement First-Look
-
-| dice: 1d300 | Result |
-|:----:|:-------|
-| 1 - 4 | Beautiful architecture |
-| 5 - 8 | Built from natural materials |
-| 9 - 14 | Built from scrap metal |
-| 15 - 20 | Built within repurposed ship |
-| 21 - 25 | Built within terrain or asteroid |
-| 26 - 29 | Elevated or multi-level construction |
-| 30 - 34 | Hidden or subsurface location |
-| 35 - 37 | High-tech construction |
-| 38 - 43 | Industrial architecture |
-| 44 - 48 | Intimidating defenses |
-| 49 - 51 | Moving or transforming |
-| 52 - 56 | Obvious social stratification |
-| 57 - 61 | Precarious location |
-| 62 - 65 | Prominent emblems or signage |
-| 66 - 71 | Rustic architecture |
-| 72 - 76 | Significant structural damage |
-| 77 - 80 | Sprawling or dispersed structures |
-| 81 - 83 | Temporary or seasonal location |
-| 84 - 87 | Toxic or polluted habitat |
-| 88 - 90 | Within or near ▶[[STRSM_OCL_Vault-Creation#Oracle Precursor Vault Outer First Look\|Precursor Vault]] `dice: [[OT_STRSM_OCL_Vaults#^Vault-Outer-First-Look]]` |
-| 91 - 100 | ▶D+F `dice: [[OT_STRSM_OCL_Core^Core-Descriptor]]` + `dice: [[OT_STRSM_OCL_Core^Core-Focus]]` |
-| 101 - 104 | Mix of cultural architecture |
-| 105 - 108 | Built within a dome |
-| 109 - 114 | Built upon previous settlement |
-| 115 - 120 | Built with freshly fabricated materials |
-| 121 - 125 | Takes advantage of natural terrain defenses |
-| 126 - 129 | Large greenhouse or arboretum |
-| 130 - 134 | Shielding or camouflage system |
-| 135 - 137 | Construction cobbled together |
-| 138 - 143 | Utilitarian architecture |
-| 144 - 148 | Ineffective defenses |
-| 149 - 151 | Independent modules |
-| 152 - 156 | Strong presence of authority |
-| 157 - 161 | Location of natural beauty |
-| 162 - 165 | Lack of emblems or signage |
-| 166 - 171 | Geometric architecture |
-| 172 - 176 | Significant repairs underway |
-| 177 - 180 | Structures tightly packed |
-| 181 - 183 | Permanent structures in progress |
-| 184 - 187 | Vibrant or verdant habitat |
-| 188 - 190 | Within or near ▶[[STRSM_OCL_Vault-Creation#Oracle Precursor Vault Outer First Look\|Precursor Vault]] `dice: [[OT_STRSM_OCL_Vaults#^Vault-Outer-First-Look]]` |
-| 191 - 200 | ▶D+F `dice: [[OT_STRSM_OCL_Core^Core-Descriptor]]` + `dice: [[OT_STRSM_OCL_Core^Core-Focus]]` |
-| 201 - 204 | Rounded or curved architecture |
-| 205 - 208 | Built side by side with ancient structures |
-| 209 - 214 | Transit tubes connecting areas |
-| 215 - 220 | Industrial vehicles or tools |
-| 221 - 225 | Settlement itself is a working ship |
-| 226 - 229 | Spaceport or docking area |
-| 230 - 234 | Sensor or detection grid |
-| 235 - 237 | Prominent power plant |
-| 238 - 243 | Neon lights and attention grabbing signs |
-| 244 - 248 | Damaged defenses |
-| 249 - 251 | Heavy vehicle traffic |
-| 252 - 256 | Large, shared spaces |
-| 257 - 261 | Location with unusual atmospheric conditions |
-| 262 - 265 | Emphasis on the arts |
-| 266 - 271 | Brutalist architecture |
-| 272 - 276 | Aqueduct or water purification plant |
-| 277 - 280 | Structures stacked vertically |
-| 281 - 283 | Structures being dismantled |
-| 284 - 287 | Stertile or pristine habitat |
-| 288 - 290 | Within or near ▶[[STRSM_OCL_Vault-Creation#Oracle Precursor Vault Outer First Look\|Precursor Vault]] `dice: [[OT_STRSM_OCL_Vaults#^Vault-Outer-First-Look]]` |
-| 291 - 300 | ▶D+F `dice: [[OT_STRSM_OCL_Core^Core-Descriptor]]` + `dice: [[OT_STRSM_OCL_Core^Core-Focus]]` |
-^Settlement-First-Look
-
-## Settlement Initial Contact
-
-| dice: 1d300 | Result |
-|:----:|:-------|
-| 1 - 20 | Welcoming |
-| 21 - 30 | Neutral / automated |
-| 31 - 50 | Wary |
-| 51 - 60 | Uncooperative |
-| 61 - 70 | Hostile |
-| 71 - 83 | Asking for help |
-| 84 - 86 | In battle |
-| 87 - 89 | Captured |
-| 90 - 92 | Unresponsive |
-| 93 - 95 | Destroyed |
-| 96 - 100 | ▶[[STRSM_OCL_Derelict-Looks#Oracle Derelict Outer First Look\|Derelict]] `dice: [[OT_STRSM_OCL_Derelicts#^Derelict-Outer-First-Look]]` |
-| 101 - 120 | Helpful |
-| 121 - 130 | All business |
-| 131 - 150 | Tolerant |
-| 151 - 160 | Defensive |
-| 161 - 170 | Easily offended |
-| 171 - 183 | Asking for bribe |
-| 184 - 186 | Environmental crisis |
-| 187 - 189 | Quarantined |
-| 190 - 192 | Looped distress call |
-| 193 - 195 | Completely shielded |
-| 196 - 200 | ▶[[STRSM_OCL_Derelict-Looks#Oracle Derelict Outer First Look\|Derelict]] `dice: [[OT_STRSM_OCL_Derelicts#^Derelict-Outer-First-Look]]` |
-| 201 - 220 | Informative |
-| 221 - 230 | Apathetic |
-| 231 - 250 | Settlement first |
-| 251 - 260 | Stubborn contrarian |
-| 261 - 270 | Arrogant jerk |
-| 271 - 283 | Bureaucratic protocols |
-| 284 - 286 | Social upheaval |
-| 287 - 289 | Cultural observance |
-| 290 - 292 | Communications down |
-| 293 - 295 | Attacks on sight |
-| 296 - 300 | ▶[[STRSM_OCL_Derelict-Looks#Oracle Derelict Outer First Look\|Derelict]] `dice: [[OT_STRSM_OCL_Derelicts#^Derelict-Outer-First-Look]]` |
-^Settlement-Initial-Contact
-
-## Settlement Location
-
-| dice: 1d300 | Result |
-|:----:|:-------|
+| :---: | --- |
 | 1-40 | Planetside |
 | 41-75 | Orbital |
 | 76-100 | Deepspace |
@@ -148,12 +11,12 @@
 | 201-240 | Asteroid |
 | 241-275 | Planetary ring |
 | 276-300 | Exoplanet |
-^Settlement-Location
+^Location
 
-## Settlement Name
+# Name
 
 | dice: 1d300 | Result |
-|:----:|:-------|
+| :---: | --- |
 | 1 - 1 | Aegis |
 | 2 - 2 | Altair |
 | 3 - 3 | Altura |
@@ -454,12 +317,148 @@
 | 298 - 298 | Visage |
 | 299 - 299 | Vor |
 | 300 - 300 | Zisa |
-^Settlement-Name
+^Name
 
-## Settlement Projects
+# First-Look
+#oraclegeneratobject 
 
 | dice: 1d300 | Result |
-|:----:|:-------|
+| :---: | --- |
+| 1 - 4 | Beautiful architecture |
+| 5 - 8 | Built from natural materials |
+| 9 - 14 | Built from scrap metal |
+| 15 - 20 | Built within repurposed ship |
+| 21 - 25 | Built within terrain or asteroid |
+| 26 - 29 | Elevated or multi-level construction |
+| 30 - 34 | Hidden or subsurface location |
+| 35 - 37 | High-tech construction |
+| 38 - 43 | Industrial architecture |
+| 44 - 48 | Intimidating defenses |
+| 49 - 51 | Moving or transforming |
+| 52 - 56 | Obvious social stratification |
+| 57 - 61 | Precarious location |
+| 62 - 65 | Prominent emblems or signage |
+| 66 - 71 | Rustic architecture |
+| 72 - 76 | Significant structural damage |
+| 77 - 80 | Sprawling or dispersed structures |
+| 81 - 83 | Temporary or seasonal location |
+| 84 - 87 | Toxic or polluted habitat |
+| 88 - 90 | Within or near ▶[[STRSM_OCL_Vault-Creation\|Precursor Vault]] Create New |
+| 91 - 100 | ▶[[OT_STRSM_OCL_Core#Descriptor\|D]] `dice: [[OT_STRSM_OCL_Core#^Descriptor]]` + ▶[[OT_STRSM_OCL_Core#Focus\|F]] `dice: [[OT_STRSM_OCL_Core#^Focus]]` |
+| 101 - 104 | Mix of cultural architecture |
+| 105 - 108 | Built within a dome |
+| 109 - 114 | Built upon previous settlement |
+| 115 - 120 | Built with freshly fabricated materials |
+| 121 - 125 | Takes advantage of natural terrain defenses |
+| 126 - 129 | Large greenhouse or arboretum |
+| 130 - 134 | Shielding or camouflage system |
+| 135 - 137 | Construction cobbled together |
+| 138 - 143 | Utilitarian architecture |
+| 144 - 148 | Ineffective defenses |
+| 149 - 151 | Independent modules |
+| 152 - 156 | Strong presence of authority |
+| 157 - 161 | Location of natural beauty |
+| 162 - 165 | Lack of emblems or signage |
+| 166 - 171 | Geometric architecture |
+| 172 - 176 | Significant repairs underway |
+| 177 - 180 | Structures tightly packed |
+| 181 - 183 | Permanent structures in progress |
+| 184 - 187 | Vibrant or verdant habitat |
+| 188 - 190 | Within or near ▶[[STRSM_OCL_Vault-Creation\|Precursor Vault]] Create New |
+| 191 - 200 | ▶[[OT_STRSM_OCL_Core#Descriptor\|D]] `dice: [[OT_STRSM_OCL_Core#^Descriptor]]` + ▶[[OT_STRSM_OCL_Core#Focus\|F]] `dice: [[OT_STRSM_OCL_Core#^Focus]]` |
+| 201 - 204 | Rounded or curved architecture |
+| 205 - 208 | Built side by side with ancient structures |
+| 209 - 214 | Transit tubes connecting areas |
+| 215 - 220 | Industrial vehicles or tools |
+| 221 - 225 | Settlement itself is a working ship |
+| 226 - 229 | Spaceport or docking area |
+| 230 - 234 | Sensor or detection grid |
+| 235 - 237 | Prominent power plant |
+| 238 - 243 | Neon lights and attention grabbing signs |
+| 244 - 248 | Damaged defenses |
+| 249 - 251 | Heavy vehicle traffic |
+| 252 - 256 | Large, shared spaces |
+| 257 - 261 | Location with unusual atmospheric conditions |
+| 262 - 265 | Emphasis on the arts |
+| 266 - 271 | Brutalist architecture |
+| 272 - 276 | Aqueduct or water purification plant |
+| 277 - 280 | Structures stacked vertically |
+| 281 - 283 | Structures being dismantled |
+| 284 - 287 | Stertile or pristine habitat |
+| 288 - 290 | Within or near ▶[[STRSM_OCL_Vault-Creation\|Precursor Vault]] Create New |
+| 291 - 300 | ▶[[OT_STRSM_OCL_Core#Descriptor\|D]] `dice: [[OT_STRSM_OCL_Core#^Descriptor]]` + ▶[[OT_STRSM_OCL_Core#Focus\|F]] `dice: [[OT_STRSM_OCL_Core#^Focus]]` |
+^First-Look
+
+# Initial Contact
+
+| dice: 1d300 | Result |
+| :---: | --- |
+| 1 - 20 | Welcoming |
+| 21 - 30 | Neutral / automated |
+| 31 - 50 | Wary |
+| 51 - 60 | Uncooperative |
+| 61 - 70 | Hostile |
+| 71 - 83 | Asking for help |
+| 84 - 86 | In battle |
+| 87 - 89 | Captured |
+| 90 - 92 | Unresponsive |
+| 93 - 95 | Destroyed |
+| 96 - 100 | ▶[[SF_CH5_Derelict_Create\|Derelict]] Create New<br>▶[[STRSM_OCL_Derelict-Looks#Oracle Derelict Outer First Look\|Outer First Look]] `dice: [[OT_STRSM_OCL_Derelicts#^Outer-First-Look]]` |
+| 101 - 120 | Helpful |
+| 121 - 130 | All business |
+| 131 - 150 | Tolerant |
+| 151 - 160 | Defensive |
+| 161 - 170 | Easily offended |
+| 171 - 183 | Asking for bribe |
+| 184 - 186 | Environmental crisis |
+| 187 - 189 | Quarantined |
+| 190 - 192 | Looped distress call |
+| 193 - 195 | Completely shielded |
+| 196 - 200 | ▶[[SF_CH5_Derelict_Create\|Derelict]] Create New<br>▶[[STRSM_OCL_Derelict-Looks#Oracle Derelict Outer First Look\|Outer First Look]] `dice: [[OT_STRSM_OCL_Derelicts#^Outer-First-Look]]` |
+| 201 - 220 | Informative |
+| 221 - 230 | Apathetic |
+| 231 - 250 | Settlement first |
+| 251 - 260 | Stubborn contrarian |
+| 261 - 270 | Arrogant jerk |
+| 271 - 283 | Bureaucratic protocols |
+| 284 - 286 | Social upheaval |
+| 287 - 289 | Cultural observance |
+| 290 - 292 | Communications down |
+| 293 - 295 | Attacks on sight |
+| 296 - 300 | ▶[[SF_CH5_Derelict_Create\|Derelict]] Create New<br>▶[[STRSM_OCL_Derelict-Looks#Oracle Derelict Outer First Look\|Outer First Look]] `dice: [[OT_STRSM_OCL_Derelicts#^Outer-First-Look]]` |
+^Initial-Contact
+
+# Authority
+
+| dice: 1d300 | Result |
+| :---: | --- |
+| 1 - 15 | None / lawless |
+| 16 - 30 | Ineffectual |
+| 31 - 45 | Tolerant |
+| 46 - 55 | Fair |
+| 56 - 70 | Unyielding |
+| 71 - 85 | Corrupt |
+| 86 - 100 | Oppressive |
+| 101 - 115 | Tribal |
+| 116 - 130 | Theocratic |
+| 131 - 145 | Feudalistic |
+| 146 - 155 | Democratic |
+| 156 - 170 | Authoritarian |
+| 171 - 185 | Oligarchic |
+| 186 - 200 | Tyrannical |
+| 201 - 215 | Cult-like |
+| 216 - 230 | Legalistic |
+| 231 - 245 | Collective good first |
+| 246 - 255 | Charitable |
+| 256 - 270 | Single-minded |
+| 271 - 285 | Prejudiced |
+| 286 - 300 | Takes advantage |
+^Authority
+
+# Projects
+
+| dice: 1d300 | Result |
+| :---: | --- |
 | 1 - 5 | Agriculture |
 | 6 - 7 | Archaeology |
 | 8 - 9 | Automation |
@@ -492,7 +491,7 @@
 | 87 - 88 | Terraforming |
 | 89 - 92 | Trade |
 | 93 - 95 | Warfare |
-| 96 - 100 | ▶A+T `dice: [[OT_STRSM_OCL_Core^Core-Action]]` + `dice: [[OT_STRSM_OCL_Core^Core-Theme]]` |
+| 96 - 100 | ▶[[OT_STRSM_OCL_Core#Action\|A]] `dice: [[OT_STRSM_OCL_Core#^Action]]` + ▶[[OT_STRSM_OCL_Core#Theme\|T]] `dice: [[OT_STRSM_OCL_Core#^Core-Theme]]` |
 | 101 - 105 | Air supply |
 | 106 - 107 | Cultural arts |
 | 108 - 109 | Coding |
@@ -525,7 +524,7 @@
 | 187 - 188 | Atmosphere building |
 | 189 - 192 | Peace treaty |
 | 193 - 195 | Security |
-| 196 - 200 | ▶A+T `dice: [[OT_STRSM_OCL_Core^Core-Action]]` + `dice: [[OT_STRSM_OCL_Core^Core-Theme]]` |
+| 196 - 200 | ▶[[OT_STRSM_OCL_Core#Action\|A]] `dice: [[OT_STRSM_OCL_Core#^Action]]` + ▶[[OT_STRSM_OCL_Core#Theme\|T]] `dice: [[OT_STRSM_OCL_Core#^Core-Theme]]` |
 | 201 - 205 | Water supply |
 | 206 - 207 | Beautification |
 | 208 - 209 | Job creation |
@@ -558,13 +557,13 @@
 | 287 - 288 | Warmongering |
 | 289 - 292 | Connecting settlements |
 | 293 - 295 | Alliance building |
-| 296 - 300 | ▶A+T `dice: [[OT_STRSM_OCL_Core^Core-Action]]` + `dice: [[OT_STRSM_OCL_Core^Core-Theme]]` |
-^Settlement-Projects
+| 296 - 300 | ▶[[OT_STRSM_OCL_Core#Action\|A]] `dice: [[OT_STRSM_OCL_Core#^Action]]` + ▶[[OT_STRSM_OCL_Core#Theme\|T]] `dice: [[OT_STRSM_OCL_Core#^Core-Theme]]` |
+^Projects
 
-## Settlement Trouble
+# Trouble
 
 | dice: 1d300 | Result |
-|:----:|:-------|
+| :---: | --- |
 | 1 - 3 | Battle for leadership |
 | 4 - 6 | Betrayal from within |
 | 7 - 8 | Caught in the crossfire |
@@ -598,7 +597,7 @@
 | 84 - 86 | Toxic waste or pollution |
 | 87 - 88 | Volatile energy source |
 | 89 - 90 | Vulnerable lifeforms |
-| 91 - 100 | ▶A+T `dice: [[OT_STRSM_OCL_Core^Core-Action]]` + `dice: [[OT_STRSM_OCL_Core^Core-Theme]]` |
+| 91 - 100 | ▶[[OT_STRSM_OCL_Core#Action\|A]] `dice: [[OT_STRSM_OCL_Core#^Action]]` + ▶[[OT_STRSM_OCL_Core#Theme\|T]] `dice: [[OT_STRSM_OCL_Core#^Core-Theme]]` |
 | 101 - 103 | Personal rivalry |
 | 104 - 106 | Haunted by past wrong |
 | 107 - 108 | Production halted |
@@ -632,7 +631,7 @@
 | 184 - 186 | Radiation surge |
 | 187 - 188 | Unstable technology |
 | 189 - 190 | Vulnerable supply line |
-| 191 - 200 | ▶A+T `dice: [[OT_STRSM_OCL_Core^Core-Action]]` + `dice: [[OT_STRSM_OCL_Core^Core-Theme]]` |
+| 191 - 200 | ▶[[OT_STRSM_OCL_Core#Action\|A]] `dice: [[OT_STRSM_OCL_Core#^Action]]` + ▶[[OT_STRSM_OCL_Core#Theme\|T]] `dice: [[OT_STRSM_OCL_Core#^Core-Theme]]` |
 | 201 - 203 | Rival settlement |
 | 204 - 206 | There’s a score to settle |
 | 207 - 208 | Mine collapse |
@@ -666,5 +665,5 @@
 | 284 - 286 | Shift in gravity |
 | 287 - 288 | Inconsistent energy supply |
 | 289 - 290 | Vulnerable people group |
-| 291 - 300 | ▶A+T `dice: [[OT_STRSM_OCL_Core^Core-Action]]` + `dice: [[OT_STRSM_OCL_Core^Core-Theme]]` |
-^Settlement-Trouble
+| 291 - 300 | ▶[[OT_STRSM_OCL_Core#Action\|A]] `dice: [[OT_STRSM_OCL_Core#^Action]]` + ▶[[OT_STRSM_OCL_Core#Theme\|T]] `dice: [[OT_STRSM_OCL_Core#^Core-Theme]]` |
+^Trouble

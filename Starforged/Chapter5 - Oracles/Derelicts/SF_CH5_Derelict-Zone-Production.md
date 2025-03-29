@@ -24,11 +24,11 @@ OracleDescriptor: "_Crates strewn about while still workshops lie unutilized._"
 _Crates strewn about while still workshops lie unutilized._
 
 ## Oracle: Derelict Zone Production - Area
-> [!mechanics]- | Roll > `dice: [[SF_CH5_Derelict-Zone-Production#^table-OclDerelictZone-Production-Area]]` | Guidance
-> ![[GSRY_Definitions#^gsry-OclSite-Area]] ^guidance-OclSite-Area
+> [!mechanics]- | Roll > `dice: [[OT_ISSF_Derelicts#^Zone-Production-Area]]` | Guidance
+> ![[GSRY_Definitions#^gsry-OclSite-Area]] ^guidance-Area
 
 | dice: 1d100 | Result |
-|:---:|:--- |
+| :---: | --- |
 | 1 - 8 | Airlock or staging area |
 | 9 - 16 | Assembly or processing |
 | 17 - 24 | Cargo bay |
@@ -41,14 +41,14 @@ _Crates strewn about while still workshops lie unutilized._
 | 73 - 80 | Scrapyard |
 | 81 - 85 | New zone |
 | 86 - 100 | New zone via ⏵[[SF_CH5_Derelict-Zone-Access\|Access]] |
-^table-OclDerelictZone-Production-Area
+^table-Area
 
 ## Oracle: Derelict Zone Production - Feature
-> [!mechanics]- | Roll > `dice: [[SF_CH5_Derelict-Zone-Production#^table-OclDerelictZone-Production-Feature]]` | Guidance
-> ![[GSRY_Definitions#^gsry-OclSite-Feature]] ^guidance-OclSite-Feature
+> [!mechanics]- | Roll > `dice: [[OT_ISSF_Derelicts#^Zone-Production-Feature]]` | Guidance
+> ![[GSRY_Definitions#^gsry-OclSite-Feature]] ^guidance-Feature
 
 | dice: 1d100 | Result |
-|:---:|:--- |
+| :---: | --- |
 | 1 - 8 | Cargo lifts |
 | 9 - 16 | Control panels |
 | 17 - 24 | Disassembled machinery |
@@ -61,14 +61,14 @@ _Crates strewn about while still workshops lie unutilized._
 | 73 - 80 | Vats of chemicals or gas |
 | 81 - 88 | Written manifest |
 | 89 - 100 | ⏵[[SF_CH5_Core_Descriptor-Focus#Oracle Descriptor\|Descriptor]] + [[SF_CH5_Core_Descriptor-Focus#Oracle Focus\|Focus]] |
-^table-OclDerelictZone-Production-Feature
+^table-Feature
 
 ## Oracle: Derelict Zone Production - Peril
-> [!mechanics]- | Roll > `dice: [[SF_CH5_Derelict-Zone-Production#^table-OclDerelictZone-Production-Peril]]` | Guidance
-> ![[GSRY_Definitions#^gsry-OclSite-Peril]] ^guidance-OclSite-Peril
+> [!mechanics]- | Roll > `dice: [[OT_ISSF_Derelicts#^Zone-Production-Peril]]` | Guidance
+> ![[GSRY_Definitions#^gsry-OclSite-Peril]] ^guidance-Peril
 
 | dice: 1d100 | Result |
-|:---:|:--- |
+| :---: | --- |
 | 1 - 10 | Claustrophobic spaces |
 | 11 - 20 | Dangerous machinery |
 | 21 - 30 | Disturbing evidence of exploited labor |
@@ -80,20 +80,20 @@ _Crates strewn about while still workshops lie unutilized._
 | 81 - 90 | Signs of an unearthed or manufactured threat |
 | 91 - 98 | ⏵[[SF_CH5_Core_Action-Theme#Oracle Action\|Action]] + [[SF_CH5_Core_Action-Theme#Oracle Theme\|Theme]] |
 | 99 - 100 | Roll twice |
-^table-OclDerelictZone-Production-Peril
+^table-Peril
 
 ## Oracle: Derelict Zone Production - Opportunity
-> [!mechanics]- | Roll > `dice: [[SF_CH5_Derelict-Zone-Production#^table-OclDerelictZone-Production-Opportunity]]` | Guidance
-![[GSRY_Definitions#^gsry-OclSite-Opportunity]] ^guidance-OclSite-Opportunity
+> [!mechanics]- | Roll > `dice: [[OT_ISSF_Derelicts#^Zone-Production-Opportunity]]` | Guidance
+![[GSRY_Definitions#^gsry-OclSite-Opportunity]] ^guidance-Opportunity
 
 | dice: 1d100 | Result |
-|:---:|:--- |
+| :---: | --- |
 | 1 - 20 | Helpful vehicle or transport |
 | 21 - 40 | Rare or valuable resource |
 | 41 - 60 | Salvageable materials |
 | 61 - 80 | Useful equipment |
 | 81 - 100 | Valuable cargo |
-^table-OclDerelictZone-Production-Opportunity
+^table-Opportunity
 
 *358 CHAPTER 5: ORACLES*
 

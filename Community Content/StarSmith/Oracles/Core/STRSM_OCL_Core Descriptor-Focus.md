@@ -25,10 +25,10 @@ OracleDescriptor: "Roll these when you need to know something that is physical i
 ## Oracle: Descriptor
 This oracle can be used to replace the one provided on [[_SF_CH5_Core#Oracle Descriptor|Core Descriptor Oracle]].
 
-> [!mechanics]- | Roll > %%GetDice%% | Guidance
-> When you [[SF_CH3_Ask the Oracle|Ask the Oracle]] to help define the nature of a location, discovery, or encounter, roll for a Descriptor and a Focus for an adjective/noun prompt. Other oracles will include prompts to check for a Descriptor and Focus (shown as “Descriptor + Focus”). That’s your cue to roll on these tables and interpret the result as appropriate to the situation. ^guidance-STRSM-OCL-OclCoreDescriptor
+> [!mechanics]- | Roll > `dice: [[OT_STRSM_OCL_Core#^Descriptor]]` | Guidance
+> When you [[SF_CH3_Ask the Oracle|Ask the Oracle]] to help define the nature of a location, discovery, or encounter, roll for a Descriptor and a Focus for an adjective/noun prompt. Other oracles will include prompts to check for a Descriptor and Focus (shown as “Descriptor + Focus”). That’s your cue to roll on these tables and interpret the result as appropriate to the situation. ^guidance-Descriptor
 
- | 1d100 | 1-2 | 3-4 | 5-6 |
+| 1d100 | 1-2 | 3-4 | 5-6 |
 | :---: | --- | --- | --- |
 | 1 | Abandoned | Armored | Abrasive |
 | 2 | Abundant | Artificial | Accidental |
@@ -130,13 +130,13 @@ This oracle can be used to replace the one provided on [[_SF_CH5_Core#Oracle Des
 | 98 | Untamed | Wasted | Wealthy |
 | 99 | Valuable | Weak | Wild |
 | 100 | Violent |  | Worn |
-^table-STRSM-OCL-OclCoreDescriptor
+^table-Descriptor
 
 ## Oracle: Focus
 This oracle can be used to replace the one provided on [[_SF_CH5_Core#Oracle Focus|Core Focus Oracle]].
 
-> [!mechanics]- | Roll > %%GetDice%% | Guidance
-> When you [[SF_CH3_Ask the Oracle|Ask the Oracle]] to help define the nature of a location, discovery, or encounter, roll for a Descriptor and a Focus for an adjective/noun prompt. Other oracles will include prompts to check for a Descriptor and Focus (shown as “Descriptor + Focus”). That’s your cue to roll on these tables and interpret the result as appropriate to the situation. ^guidance-STRSM-OCL-OclCoreFocus
+> [!mechanics]- | Roll > `dice: [[OT_STRSM_OCL_Core#^Focus]]` | Guidance
+> When you [[SF_CH3_Ask the Oracle|Ask the Oracle]] to help define the nature of a location, discovery, or encounter, roll for a Descriptor and a Focus for an adjective/noun prompt. Other oracles will include prompts to check for a Descriptor and Focus (shown as “Descriptor + Focus”). That’s your cue to roll on these tables and interpret the result as appropriate to the situation. ^guidance-Focus
 
 | 1d100 | 1-2 | 3-4 | 5-6 |
 | :---: | --- | --- | --- |
@@ -240,11 +240,11 @@ This oracle can be used to replace the one provided on [[_SF_CH5_Core#Oracle Foc
 | 98 | Weapon | Vector | Xenobot |
 | 99 | World | Water | Zero-Gravity |
 | 100 | Wreckage | Wormhole | Zone |
-^table-STRSM-OCL-OclCoreFocus
+^table-Focus
 
 ## Tags
-| Previous Page | Tags | Next Page | 
+| Previous Page | Tags | Next Section | 
 | :--- | :---: | ---: |
-| **[[STRSM_OCL_Core Action-Theme\|Action/Theme Oracles]]** | #Starsmith/Oracles/Core - #Pedia/Oracles/Core | **[[_STRSM_OCL_Space Encounter Oracles\|Space Encounter Oracles]]** |
+| **[[STRSM_OCL_Core Action-Theme\|Action/Theme (STRSM Oracles)]]** | #Starsmith/Oracles/Core | **[[_STRSM_OCL_Space Encounter Oracles\|Space Encounter (STRSM Oracles)]]** |
 
 <font size=-2>Starsmith Oracles is created by Eric Bright and licensed for use under the Creative Commons Attribution 4.0 International License (CC-BY).</font>

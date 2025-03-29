@@ -22,11 +22,11 @@ OracleDescriptor: "As you spend more time learning about a settlement add Projec
  As you spend more time learning about a settlement add Projects and Troubles see what is on the populace's concerns.
 
 ## Oracle: Settlement Projects
-> [!mechanics]- | Roll > `dice: [[SF_CH5_Settle-Concerns#^table-OclSettlementProjects]]` | Guidance
-> Check the Settlement Projects oracle when it’s appropriate for your character to know or uncover these details. Projects are the main industry, function, or focus of a settlement. They do not necessarily represent every activity at the site, particularly at a large settlement, but are the most visible or noteworthy aspects. ^guidance-OclSettlementProjects
+> [!mechanics]- | Roll > <br>▶1 `dice: [[OT_ISSF_Settlements#^Projects]]`<br>▶2 `dice: [[OT_ISSF_Settlements#^Projects]]` | Guidance
+> Check the Settlement Projects oracle when it’s appropriate for your character to know or uncover these details. Projects are the main industry, function, or focus of a settlement. They do not necessarily represent every activity at the site, particularly at a large settlement, but are the most visible or noteworthy aspects. ^guidance-Projects
 
 | dice: 1d100 | Result @1-2 |
-|:---:|:--- |
+| :---: | --- |
 | 1 - 5 | Agriculture |
 | 6 - 7 | Archaeology |
 | 8 - 9 | Automation |
@@ -59,15 +59,15 @@ OracleDescriptor: "As you spend more time learning about a settlement add Projec
 | 87 - 88 | Terraforming |
 | 89 - 92 | Trade |
 | 93 - 95 | Warfare |
-| 96 - 100 | ▶[[SF_CH5_Core_Action-Theme#Oracle Action\|Action]] + [[SF_CH5_Core_Action-Theme#Oracle Theme\|Theme]] |
-^table-OclSettlementProjects
+| 96 - 100 | ▶[[SF_CH5_Core_Action-Theme#Oracle Action\|Action]] + ▶[[SF_CH5_Core_Action-Theme#Oracle Theme\|Theme]] |
+^table-Projects
 
 ## Oracle: Settlement Trouble
-> [!mechanics]- | Roll > `dice: [[SF_CH5_Settle-Concerns#^table-OclSettlementTrouble]]` | Guidance
-> Check the Settlement Trouble oracle provides a broad description of the site’s most dramatic current issue. ^guidance-OclSettlementTrouble
+> [!mechanics]- | Roll > <br>▶1 `dice: [[OT_ISSF_Settlements#^Trouble]]`<br>▶2 `dice: [[OT_ISSF_Settlements#^Trouble]]` | Guidance
+> Check the Settlement Trouble oracle provides a broad description of the site’s most dramatic current issue. ^guidance-Trouble
 
 | dice: 1d100 | Result @1-2 |
-|:---:|:--- |
+| :---: | --- |
 | 1 - 3 | Battle for leadership |
 | 4 - 6 | Betrayal from within |
 | 7 - 8 | Caught in the crossfire |
@@ -101,8 +101,8 @@ OracleDescriptor: "As you spend more time learning about a settlement add Projec
 | 84 - 86 | Toxic waste or pollution |
 | 87 - 88 | Volatile energy source |
 | 89 - 90 | Vulnerable lifeforms |
-| 91 - 100 | ▶[[SF_CH5_Core_Action-Theme#Oracle Action\|Action]] + [[SF_CH5_Core_Action-Theme#Oracle Theme\|Theme]] |
-^table-OclSettlementTrouble
+| 91 - 100 | ▶[[SF_CH5_Core_Action-Theme#Oracle Action\|Action]] + ▶[[SF_CH5_Core_Action-Theme#Oracle Theme\|Theme]] |
+^table-Trouble
 
 *324 CHAPTER 5: ORACLES*
 

@@ -1,9 +1,7 @@
-# Misc
-
-## Anomaly Effect
+# Anomaly Effect
 
 | dice: 1d300 | Result |
-|:----:|:-------|
+| :---: | --- |
 | 1 - 3 | Alters or focuses gravity |
 | 4 - 6 | Alters or reshapes nonliving matter |
 | 7 - 9 | Alters surrounding air or atmosphere |
@@ -105,10 +103,10 @@
 | 297 - 300 | ▶R2 `dice: [[OT_STRSM_OCL_Misc#^Anomaly-Effect]]` + `dice: [[OT_STRSM_OCL_Misc#^Anomaly-Effect]]` |
 ^Anomaly-Effect
 
-## Combat Action
+# Combat Action
 
 | dice: 1d300 | Result |
-|:----:|:-------|
+| :---: | --- |
 | 1 - 3 | Block a path or cut off an objective |
 | 4 - 6 | Cause reckless damage |
 | 7 - 9 | Change weapons or tactics |
@@ -210,10 +208,10 @@
 | 297 - 300 | ▶R2 `dice: [[OT_STRSM_OCL_Misc#^Combat-Action]]` + `dice: [[OT_STRSM_OCL_Misc#^Combat-Action]]` |
 ^Combat-Action
 
-## Item of Narrative Significance
+# Item of Narrative Significance
 
 | dice: 1d300 | Result |
-|:----:|:-------|
+| :---: | --- |
 | 1 - 1 | 3D printer with erased logs |
 | 2 - 2 | Ammo cases with an etched sigil |
 | 3 - 3 | Arcane runes scrawled in blood |
@@ -516,10 +514,10 @@
 | 300 - 300 | Water filter or purification pills |
 ^Item-Of-Narrative-Significance
 
-## Story Clue
+# Story Clue
 
 | dice: 1d300 | Result |
-|:----:|:-------|
+| :---: | --- |
 | 1 - 3 | Affirms a previously understood fact or clue |
 | 4 - 6 | Connects to a known rumor or scandal |
 | 7 - 9 | Connects to a previously unrelated mystery or quest |
@@ -550,7 +548,7 @@
 | 82 - 84 | Suggests a history of similar incidents |
 | 85 - 87 | Suggests a looming event or deadline |
 | 88 - 90 | Suggests an impostor or forgery |
-| 91 - 100 | ▶D+F `dice: [[OT_STRSM_OCL_Core^Core-Descriptor]]` + `dice: [[OT_STRSM_OCL_Core^Core-Focus]]` |
+| 91 - 100 | ▶[[OT_STRSM_OCL_Core#Descriptor\|D]] `dice: [[OT_STRSM_OCL_Core#^Descriptor]]` + ▶[[OT_STRSM_OCL_Core#Focus\|F]] `dice: [[OT_STRSM_OCL_Core#^Focus]]` |
 | 101 - 103 | Brings to light a prior altercation involving a connected leader |
 | 104 - 106 | Brings to light a prior altercation involving a recently missing item |
 | 107 - 109 | Brings to light a prior altercation involving a site or artifact of power |
@@ -581,7 +579,7 @@
 | 182 - 184 | Uncovers a damaging secret involving a primary suspect |
 | 185 - 187 | Uncovers a damaging secret involving a secondary threat |
 | 188 - 190 | Uncovers a damaging secret involving a tool used nefariously |
-| 191 - 200 | ▶D+F `dice: [[OT_STRSM_OCL_Core^Core-Descriptor]]` + `dice: [[OT_STRSM_OCL_Core^Core-Focus]]` |
+| 191 - 200 | ▶[[OT_STRSM_OCL_Core#Descriptor\|D]] `dice: [[OT_STRSM_OCL_Core#^Descriptor]]` + ▶[[OT_STRSM_OCL_Core#Focus\|F]] `dice: [[OT_STRSM_OCL_Core#^Focus]]` |
 | 201 - 203 | Brings to light a prior altercation involving a primary suspect |
 | 204 - 206 | Brings to light a prior altercation involving a secondary threat |
 | 207 - 209 | Brings to light a prior altercation involving a tool used nefariously |
@@ -612,13 +610,13 @@
 | 282 - 284 | Uncovers a damaging secret involving a primary victim or their friend/family |
 | 285 - 287 | Uncovers a damaging secret involving a site or artifact of power |
 | 288 - 290 | Uncovers a new rumor or scandal |
-| 291 - 300 | ▶D+F `dice: [[OT_STRSM_OCL_Core^Core-Descriptor]]` + `dice: [[OT_STRSM_OCL_Core^Core-Focus]]` |
+| 291 - 300 | ▶[[OT_STRSM_OCL_Core#Descriptor\|D]] `dice: [[OT_STRSM_OCL_Core#^Descriptor]]` + ▶[[OT_STRSM_OCL_Core#Focus\|F]] `dice: [[OT_STRSM_OCL_Core#^Focus]]` |
 ^Story-Clue
 
 ## Story Complication
 
 | dice: 1d300 | Result |
-|:----:|:-------|
+| :---: | --- |
 | 1 - 4 | Crucial equipment or device fails |
 | 5 - 7 | Crucial equipment or device is sabotaged |
 | 8 - 10 | Debt or promise comes due |

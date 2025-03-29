@@ -33,20 +33,20 @@ This oracle can be used to replace the one provided on [[SF_CH3_Ask the Oracle#A
 > - A “no” answer is unchanged.
 > - A “yes” answer becomes “yes but” which adds a logical narrative qualifier to the result.
 > 
-> A match on the percentile dice supersede the action die roll. ^guidance-STRSM-OCL-OclMoveAskTheOracle
+> A match on the percentile dice supersede the action die roll. ^guidance-Ask-The-Oracle
 
-| Chance | is yes if you roll...|
-| --- | --- |
-| Small | 10 or less |
-| Unlikely | 25 or less |
-| 50/50 | 50 or less |
-| Likely | 75 or less |
-| Almost Certain | 90 or less |
-^table-STRSM-OCL-OclMoveAskTheOracle
+| Chance | is yes | 1 = Yes |
+| --- | --- | --- |
+| Small | 10 or less | `dice: {1d100<11}` |
+| Unlikely | 25 or less | `dice: {1d100<26}` |
+| 50/50 | 50 or less | `dice: {1d100<51}` |
+| Likely | 75 or less | `dice: {1d100<76}` |
+| Almost Certain | 90 or less | `dice: {1d100<91}` |
+^table-Ask-The-Oracle
 
 ## Tags
-| Previous Page | Tags | Next Page | 
+| Previous Section | Tags | Next Page | 
 | :--- | :---: | ---: |
-| **[[_STRSM_OCL_Moves Oracles\|Move Oracles]]** | #Starsmith/Oracles/Moves - #Pedia/Oracles/Moves | **[[STRSM_OCL_Confront Chaos\|Confront Chaos Oracle]]** |
+| **[[_STRSM_OCL_Moves Oracles\|Move (STRSM Oracles)]]** | #Starsmith/Oracles/Moves | **[[STRSM_OCL_Confront Chaos\|Confront Chaos (STRSM Oracles)]]** |
 
 <font size=-2>Starsmith Oracles is created by Eric Bright and licensed for use under the Creative Commons Attribution 4.0 International License (CC-BY).</font>

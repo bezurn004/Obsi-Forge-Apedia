@@ -16,9 +16,9 @@ Choose or envision how humanity has fared life settling into the Forge...
 
 | dice: 1d100 | Truth |
 | :---: | :--- |
-| 1-33 | [[SF_CH2_TR_Communities#Scattered and Few\|Scattered and Few]] |
-| 34-67 | [[SF_CH2_TR_Communities#Founder Clans\|Founder Clans]] |
-| 68-100 | [[SF_CH2_TR_Communities#Bountiful Balefires\|Bountiful Balefires]] |
+| 1 - 33 | [[SF_CH2_TR_Communities#Scattered and Few\|Scattered and Few]] |
+| 34 - 67 | [[SF_CH2_TR_Communities#Founder Clans\|Founder Clans]] |
+| 68 - 100 | [[SF_CH2_TR_Communities#Bountiful Balefires\|Bountiful Balefires]] |
 ^table-choose-truths
 
 > [!oracle]- Roll
