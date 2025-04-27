@@ -11,7 +11,7 @@
 >
 > > | [[SF_CH5_Core_Action-Theme#Oracle Action\|Action]] | [[SF_CH5_Core_Action-Theme#Oracle Theme\|Theme]] | [[SF_CH5_Core_Descriptor-Focus#Oracle Descriptor\|Descriptor]] | [[SF_CH5_Core_Descriptor-Focus#Oracle Focus\|Focus]] |
 > > | --- | --- | --- | --- |
-> > | `dice: [[OT_ISSF_Core#^Action]]` | `dice: [[OT_ISSF_Core#^Theme]]` | `dice: [[OT_ISSF_Core#^Descritpor]]` | `dice: [[OT_ISSF_Core#^Focus]]` |
+> > | `dice: [[OT_ISSF_Core#^Action]]` | `dice: [[OT_ISSF_Core#^Theme]]` | `dice: [[OT_ISSF_Core#^Descriptor]]` | `dice: [[OT_ISSF_Core#^Focus]]` |
 > 
 > ### [[SF_CH3_Ask the Oracle|Ask the Oracle (move)]]
 > 

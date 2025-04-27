@@ -9,7 +9,6 @@ The oracle roll sheets are a concise way to generate oracle and table results fr
 
 ![[OR_ISSI_Core#^Pages-Menu]]
 
-## Starsmith - Oracles
+## [[OR_STRSM_OCL_Core|Starsmith Oracles]]
 
-| Individuals | Groups | Sites | Explore | Campaign |
-| --- | --- | --- | --- | --- |
+![[OR_STRSM_OCL_Core#^Pages-Menu]]

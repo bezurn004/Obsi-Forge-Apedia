@@ -81,3 +81,19 @@
 >>>>> [!danger]- **Cursed Name**
 >>>>> [[SI_CH3_Ship Boarding#Oracle Cursed Ship Name|Cursed Name]]
 >>>>> `dice: [[OT_ISSI_Ships#^Cursed-Name]]`
+>>
+>>> [!summary]- **Ship History**
+>>>> [[SI_CH2_Take Command#^table-Ship-History\|Ship History]]
+>>>> `dice: [[OT_ISSI_Campaign#^Ship-History]]`
+>>>> 
+>>>>> [!danger]- **Cursed History**
+>>>>> [[SI_CH2_Take Command#^table-Cursed-Ship-History\|Cursed History]]
+>>>>> `dice: [[OT_ISSI_Campaign#^Cursed-Ship-History]]`
+>>
+>>> [!example]- **Crew Characteristics**
+>>>> [[SI_CH2_Take Command#^table-Crew-Characteristics\|Crew Characteristics]]
+>>>> `dice: [[OT_ISSI_Campaign#^Ship-Crew-Characteristics]]`
+>>>> 
+>>>>> [!danger]- **Cursed Characteristics**
+>>>>> [[SI_CH2_Take Command#^table-Cursed-Crew-Characteristics|Cursed Characteristics]]
+>>>>> `dice: [[OT_ISSI_Campaign#^Cursed-Ship-Crew-Characteristics]]`

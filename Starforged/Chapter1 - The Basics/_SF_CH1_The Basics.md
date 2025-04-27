@@ -37,6 +37,6 @@ PageOrder: 0
 
 | Source Index | Tags | Next Chapter |
 | :--- | :---: | ---: |
-| **[[_Starforged\|Starforged]]** | #SunderedIsles/Gaemplay | **[[_SF_CH2_Contents\|Chapter 2 - Launching Your Campaign]]** |
+| **[[_Starforged\|Starforged]]** | #Starforged/Gaemplay | **[[_SF_CH2_Contents\|Chapter 2 - Launching Your Campaign]]** |
 
 <font size=-2>This work is based on Ironsworn: Starforged (found at [www.ironswornrpg.com](http://www.ironswornrpg.com)), created by Shawn Tomkin, and licensed for our use under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license  (creativecommons.org/licenses/by-nc-sa/4.0/).</font>

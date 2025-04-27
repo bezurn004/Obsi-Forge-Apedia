@@ -88,6 +88,6 @@ SORT PageOrder asc
 ## Tags
 | Content Index | Tags | Next Section | 
 | :--- | :---: | ---: |
-| **[[Community-Content\|Community Content]]** | #Starsmith/Oracles/ - #Pedia/Oracles/ | **[[_STRSM_OCL_Campaign Oracles\|Campaign (STRSM Oracles)]]** |
+| **[[Community-Content\|Community Content]]** | #Starsmith/Oracles/ | **[[_STRSM_OCL_Campaign Oracles\|Campaign (STRSM Oracles)]]** |
 
 <font size=-2>Starsmith Oracles is created by Eric Bright and licensed for use under the Creative Commons Attribution 4.0 International License (CC-BY).</font>

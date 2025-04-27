@@ -45,5 +45,5 @@
 >> 
 >>> | | |
 >>> | --- | --- |
->>> | [[SI_CH3_Shipwreck_Fortunes#Oracle Shipwreck Peril\|Peril]] | `dice [[OT_ISSI_Shipwrecks#^Peril]]` |
+>>> | [[SI_CH3_Shipwreck_Fortunes#Oracle Shipwreck Peril\|Peril]] | `dice: [[OT_ISSI_Shipwrecks#^Peril]]` |
 >>> | [[SI_CH3_Shipwreck_Fortunes#Oracle Shipwreck Opportunity\|Opportunity]] | `dice: [[OT_ISSI_Shipwrecks#^Opportunity]]` |

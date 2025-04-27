@@ -68,6 +68,7 @@ If you have a command, envision how you claimed or earned the vessel. For inspir
 | 86–90 | Stolen from under the nose of a powerful faction |
 | 91–95 | Taken while fleeing an attack or disaster |
 | 96–100 | Won in a high-stakes bet |
+^table-Ship-History
 
 > ### [skull] CURSED SHIP
 
@@ -86,6 +87,7 @@ If you have a command, envision how you claimed or earned the vessel. For inspir
 | 71–80 | Improbably found as a derelict well inland; moved and refloated with much effort |
 | 81–90 | Raised from the sunken depths as a boon from the sea itself |
 | 91–100 | Taken in spite of its cursed reputation, when no one else would sail it |
+^table-Cursed-Ship-History
 
 *97 TAKE COMMAND*
 
@@ -126,6 +128,7 @@ Envision the makeup of the ship’s crew, using the table below for inspiration.
 | 83 - 86 | Turncoat imperials, sworn against former compatriots |
 | 87 - 90 | Unprincipled mercenaries, earning blood money |
 | 91 - 100 | Roll twice; these groups are at odds |
+^table-Crew-Characteristics
 
 For now, focus on the crew as a whole. Later, you can personalize key individual crewmembers. See [[SI_CH1_Command and Crews#LEADING THE CREW|page 22]]page 22 for more on envisioning and managing a crew].
 
@@ -152,6 +155,7 @@ For now, focus on the crew as a whole. Later, you can personalize key individual
 | 76 - 85 | Tattooed with elaborate mystical wards |
 | 86 - 95 | Tormented by unforgiving spirits |
 | 96 - 100 | True nature revealed under moonlight |
+^table-Cursed-Crew-Characteristics
 
 *98 GETTING UNDERWAY*
 

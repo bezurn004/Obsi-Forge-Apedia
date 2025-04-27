@@ -50,6 +50,7 @@ This table uses an optional cursed die, as indicated by the skull icon: [skull].
 | 90–93 | Trying to forget a disastrous love affair |
 | 94–96 | Undone by a personal vice |
 | 97–100 | Wronged a powerful figure or faction that now seeks retribution |
+^table-backstory
 
 Note: The @1–2 symbol means you should roll or choose once or twice, as you like.
 
@@ -78,6 +79,7 @@ Note: The @1–2 symbol means you should roll or choose once or twice, as you li
 | 81–87 | Survived an attack at sea by a cursed ship |
 | 88–94 | Survived an attack at sea by a monstrous sea beast |
 | 95–100 | Targeted or hunted by a dreadful being |
+^table-Cursed-Backstory
 
 ## Tags
 

@@ -70,7 +70,7 @@ An arid land devoid of most life stretches around the globe. If there is any veg
 
 ![[SF_CH5_Planet-Desert#Oracle Desert Life]]
 
-## Oracle: Desert Sample Names
+Grave## Oracle: Desert Sample Names
 > [!mechanics]- | Roll > `dice: [[OT_STRSM_OCL_Planets^Desert-Name]]` | Guidance
 > Sample names that are suited to this planet type. Feel free to mix and match or create your own. ^guidance-Names
 

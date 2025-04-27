@@ -37,6 +37,6 @@ Since you don’t need to worry about “building” NPCs under mechanical const
 ## Tags
 | Chapter Index | Tags | Next Chapter |
 |:--- |:---:| ---:|
-| **[[_SF_CH4_Foes-Encounters\|Foes and Encounters (SF)]]** | #Pedia/Gameplay/NPCs | **[[SF_CH4_Joining Forces with NPCs\|Joining Forces with NPCs (SF Foes)]]** |
+| **[[_SF_CH4_Foes-Encounters\|Foes and Encounters (SF)]]** | #Starforged/Gameplay/NPCs | **[[SF_CH4_Joining Forces with NPCs\|Joining Forces with NPCs (SF Foes)]]** |
 
 <font size=-2>This work is based on Ironsworn: Starforged (found at [www.ironswornrpg.com](http://www.ironswornrpg.com)), created by Shawn Tomkin, and licensed for our use under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license  (creativecommons.org/licenses/by-nc-sa/4.0/).</font>

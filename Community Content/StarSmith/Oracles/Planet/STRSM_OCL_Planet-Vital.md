@@ -32,7 +32,7 @@ Against all odds, life finds a way. Even in the emptiness of space, tiny pockets
 ![[SF_CH5_Planet-Vital#Oracle Vital Biomes {Diversity}]]
 
 ## Oracle: Vital Quick flora
-> [!mechanics]- | Roll > <br>Characteristic: `dice: [[STRSM_OCL_Planet-Vital^QuickFlora-Characteristic]]`<br>First Look: `dice: [[STRSM_OCL_Planet-Vital#^QuickFlora-First-Look]]`<br>Type: `dice: [[STRSM_OCL_Planet-Vital^QuickFlora-Type]]` | Guidance
+> [!mechanics]- | Roll > <br>Characteristic: `dice: [[STRSM_OCL_Planet-Vital#^Quick-Flora-Characteristic]]`<br>First Look: `dice: [[STRSM_OCL_Planet-Vital#^Quick-Flora-First-Look]]`<br>Type: `dice: [[STRSM_OCL_Planet-Vital^Quick-Flora-Type]]` | Guidance
 > Since this is a vital world, you’ll likely want to generate some lifeforms. For the fauna (animals), you should use the [[_STRSM_OCL_Creature Oracles|original STARFORGED creature oracles]], but I thought it would be nice to have a quick flora (plant) oracle as well. To use this oracle, roll percentile dice and your action die (D6) together treating the tens digit of the percentile as separate from the ones digit. ^guidance-Quick-Flora
 
 ### Oracle: Quick Fauna - Characteristic

@@ -15,7 +15,7 @@ PageOrder: 0
 A few additional oracles exist that don’t quite fit in other categories. These include:
 
 > ## Contents
-> ## [[STRSM_OCL_Story Complication|Story Complication]]
+> ### [[STRSM_OCL_Story Complication|Story Complication]]
 > - When something goes wrong but you’re not sure what, roll here.
 >
 > ### [[STRSM_OCL_Story Clue|Story Clue]]
@@ -35,6 +35,6 @@ A few additional oracles exist that don’t quite fit in other categories. These
 ## Tags
 | Previous Section | Tags | Next Section | 
 | :--- | :---: | ---: |
-| **[[_STRSM_OCL_LocationTheme Oracles\|Location Theme (STRSM Oracles)]]** | #Starsmith/Oracles - #Pedia/Oracles | **[[_STRSM_OCL_Moves Oracles\|Move (STRSM Oracles)]]** |
+| **[[_STRSM_OCL_LocationTheme Oracles\|Location Theme (STRSM Oracles)]]** | #Starsmith/Oracles | **[[_STRSM_OCL_Moves Oracles\|Move (STRSM Oracles)]]** |
 
 <font size=-2>Starsmith Oracles is created by Eric Bright and licensed for use under the Creative Commons Attribution 4.0 International License (CC-BY).</font>

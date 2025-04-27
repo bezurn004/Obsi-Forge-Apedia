@@ -2,38 +2,42 @@
 
 
 ## Planned Works
-- [ ] Nail down templates prior to new content additions
+- [ ] Nail down templates
 - [ ] Add community content
 	- [ ] Starsmith Mecha
 	- [ ] Starsmith Cultures
 - [ ] Full Chapter contents
 	- [ ] Complete SI linking
 	- [ ] Begin import of SF source
-
-### V0.4.3
 - [ ] Oracle results that create an object will trigger a template creation wizard (using Buttons I hope)
 
+### V0.4.3
+- [x] Added Forge Horizons community content (full page)
+- [x] Added Space Sightings Expanded content (full page)
+- [x] Added Ancient Wonders content (full page per chapter)
+
+### V0.4.2.1
+- [x] Remove tags and normalize non-conforming pages to match tagging standards.
+	- [x] Pedia tag retained on Assets index pages, as these pages are universal for all content
+- [x] Completed roll sheets for Sundered Ilses and Starsmith Oracles
+	- [x] For campaign oracles, also add the relevant subjects to the main oracle rollers. (e.g. Oracles from Character creation would be included on both "Creation" and "Character" rollers. On Character, it would be in the "details" section at the bottom)
+- [x] Various formatting and fixes to Oracles and Roll table pages
+
+## Completed Changes
 ### V0.4.2
 - [x] Oracle tables / rollers revamp
-	- [x] Change for full 1 - 100 results to use look up rollers where possible
+	- [x] Change for full 1 - 100 results to use look up rollers
 	- [x] Build tables for Starsmith Oracles
 	- [x] Build tables for any non-oracle overlooked content
 	- [x] Add oracle rollers to Oracle pages within the "Guidance" call out
 	- [x] Add oracle rollers to Moves and Source material tables
 - [x] Starsmith Oracles
-	- [x] Revise structure of tables to match SF / SI style
+    - [x] Revise structure of tables to match SF / SI style
 	- [x] Shorten length of block callouts for abbreviated linking
 	- [x] Match H1 headings with SF/SI breadcrumb structure
-	- [x] Move multiple results to the "Result" column header on the tables
 	- [x] Section contents page alignment to SF/SI structure
-	- [x] Tags Previous / Next links note source in paranthesis, remove "Pedia" tags
+	- [x] Tags Previous / Next links note source in parenthesis, remove "Pedia" tags
 	- [x] Pad "-" in tables with spaces
-
-### V0.4.1.5
-- [x] Starforged
-	- [x] Refactor Oracle Tables, condense to ranged dice results instead of static 100 row tables.
-	- [x] Refactor Oracle and other tables to add rollers to listed tables, linked to Oracle Tables
-- [x] Starsmith
 	- [x] Refactor Oracle and other table to add roller to listed tables, linked to Oracle Tables
 	- [x] In table / guidance block identifiers remove "Ocl" and any other identifier already in file name
 - [x] Sundered Isles
@@ -43,11 +47,9 @@
 	- [x] Starforged = Source > Transition to OT
 	- [x] Starsmith = Source > Transition to OT
 	- [x] Sundered Isles = Oracle Tables
-- [ ] Oracle Roll Sheets
+- [x] Oracle Roll Sheets
 	- [x] Clean up Starforged dice and table links
-	- [ ] Add Sundered Isles Categories (need to add campaign / non-oracle tables)
 
-## Completed Changes
 ### V0.4.1.4
 - [x] Sundered Isles
 	- [x] Added Oracle Table pages for automated oracle rolls using dice roller

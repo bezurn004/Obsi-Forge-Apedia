@@ -80,6 +80,7 @@ Keep in mind that you can start with the sketchiest idea for your character and 
 | 95–96 | [5] | Tinker | [[AST_Augmented\|AUGMENTED]], [[AST_Gearhead\|GEARHEAD]] |
 | 97–98 |  | Vanguard | [[AST_Bannersworn\|BANNERSWORN]], [[AST_Scattershot\|SCATTERSHOT]] |
 | 99–100 | [5] | War Machine | [[AST_Construct\|CONSTRUCT]], [[AST_Mercenary\|MERCENARY]] |
+^table-Persona
 
 > For a complete list of recommended _Sundered Isles_ and _Starforged_ assets, see [[SI_CH1_Your Characcter#Asset Guide|pages 14-15]]. The table _above_ features path assets from this curated deck.
 

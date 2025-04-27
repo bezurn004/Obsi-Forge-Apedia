@@ -1720,7 +1720,7 @@
 | 296 - 300 | Zoticus |
 ^Vital-Name
 
-# Plants
+# Quick Flora
 
 ## Characteristic
 
@@ -1736,7 +1736,7 @@
 | 71 - 80 | Sharp thorns |
 | 81 - 90 | Sticky sap |
 | 91 - 100 | Thick bark |
-^Plant-Characteristic
+^Quick-Flora-Characteristic
 
 ## First Look
 
@@ -1748,7 +1748,7 @@
 | 4 | Narrow leaves |
 | 5 | Twisted shoots/branches |
 | 6 | Vibrant colors |
-^Plant-First-Look
+^Quick-Flora-First-Look
 
 ## Type
 
@@ -1764,7 +1764,7 @@
 | 71 - 80 | Vine, climbing |
 | 81 - 90 | Vine, creeping |
 | 91 - 100 | Weed |
-^Plant-Type
+^Quick-Flora-Type
 
 # Lifebearing Opportunity
 

@@ -30,7 +30,7 @@ The vault creation oracles are used when first discerning a precursor vault duri
 ## Oracle: Precursor Vault Form
 This oracle can be used to replace the one provided on [[SF_CH5_Vault-Exterior#Oracle Precursor Vault Form|Precursor Vault Form Oracle]].
 
-> [!mechanics]- | Roll > `dice: [[OT_STRSM_OCL_Vaults^Vault-Form]]` | Guidance
+> [!mechanics]- | Roll > `dice: [[OT_STRSM_OCL_Vaults^Form]]` | Guidance
 > To create a Precursor Vault, choose or roll on the form, which is a general guide on its structure. ^guidance-Form
 
 | 1d100 | 1-2 | 3-4 | 5-6 |
@@ -45,7 +45,7 @@ This oracle can be used to replace the one provided on [[SF_CH5_Vault-Exterior#O
 ## Oracle: Precursor Vault Shape
 This oracle can be used to replace the one provided on [[SF_CH5_Vault-Exterior#Oracle Precursor Vault Shape|Precursor Vault Shape Oracle]].
 
-> [!mechanics]- | Roll > `dice: [[OT_STRSM_OCL_Vaults#^Form]]` | Guidance
+> [!mechanics]- | Roll > `dice: [[OT_STRSM_OCL_Vaults#^Shape]]` | Guidance
 > To create a Precursor Vault, choose or roll on its shape as seen from the exterior. ^guidance-Shape
 
 | 1d100 | 1-2 | 3-4 | 5-6 |

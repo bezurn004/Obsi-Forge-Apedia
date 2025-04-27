@@ -62,6 +62,6 @@ All NPCs include a quest starter that can serve as inspiration for a trouble in 
 ## Tags
 | Previous Page | Tags | Next Page |
 |:--- |:---:| ---:|
-| **[[SF_CH4_Joining Forces with NPCs\|Joining Forces with NPCs (SF Foes)]]** | #Pedia/Gameplay/NPCs | **[[SF_CH4_Sample NPCs\|Sample NPCs (SF Foes)]]** |
+| **[[SF_CH4_Joining Forces with NPCs\|Joining Forces with NPCs (SF Foes)]]** | #Starforged/Gameplay/NPCs | **[[SF_CH4_Sample NPCs\|Sample NPCs (SF Foes)]]** |
 
 <font size=-2>This work is based on Ironsworn: Starforged (found at [www.ironswornrpg.com](http://www.ironswornrpg.com)), created by Shawn Tomkin, and licensed for our use under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license  (creativecommons.org/licenses/by-nc-sa/4.0/).</font>

@@ -28,6 +28,6 @@ PageOrder: 0
 ## Tags
 | Previous Chapter | Tags | Next Chapter | 
 | :--- | :---: | ---: |
-| **[[_SF_CH1_The Basics\|Chapter 1 - The Basics]]** | #Pedia/Campaign | **[[_SF_CH3_Gameplay In Depth\|Chapter 3 - Gameplay In Depth (SF)]]** |
+| **[[_SF_CH1_The Basics\|Chapter 1 - The Basics]]** | #Starforged/Campaign | **[[_SF_CH3_Gameplay In Depth\|Chapter 3 - Gameplay In Depth (SF)]]** |
 
 <font size=-2>This work is based on Ironsworn: Starforged (found at [www.ironswornrpg.com](http://www.ironswornrpg.com)), created by Shawn Tomkin, and licensed for our use under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license  (creativecommons.org/licenses/by-nc-sa/4.0/).</font>

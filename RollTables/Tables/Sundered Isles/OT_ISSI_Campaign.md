@@ -256,9 +256,9 @@
 | 99 - 100 | **War Machine** [tech] &#9 [[AST_Construct\|CONSTRUCT]], [[AST_Mercenary\|MERCENARY]] |
 ^Character-Persona
 
-# Ship History
+# Ship
 
-## SHIP HISTORY
+## History
 
 | dice: 1d100 | [skull] _[[OT_ISSI_Campaign#^Cursed-Ship-History\|below]]_ |
 | :---: | --- |
@@ -284,7 +284,7 @@
 | 96 - 100 | Won in a high-stakes bet |
 ^Ship-History
 
-# Cursed Ship History
+## Cursed History
 
 | dice: 1d100 | Result |
 | :---: | --- |
@@ -300,7 +300,7 @@
 | 91 - 100 | Taken in spite of its cursed reputation, when no one else would sail it |
 ^Cursed-Ship-History
 
-# Ship Crew Characteristics
+## Crew Characteristics
 
 | dice: 1d100  | Result [skull] _[[OT_ISSI_Campaign#^Cursed-Ship-Crew-Characteristics\|below]]_ |
 | :---: | --- |
@@ -325,7 +325,7 @@
 | 91 - 100 | ▶R2 (these groups are at odds)<br>`dice: [[OT_ISSI_Campaign#^Ship-Crew-Characteristics]]`<br>`dice: [[OT_ISSI_Campaign#^Ship-Crew-Characteristics]]` |
 ^Ship-Crew-Characteristics
 
-# Cursed Ship Crew Characteristics
+## Cursed Crew Characteristics
 
 | dice: 1d100  | Result  |
 | :---: | --- |

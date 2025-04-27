@@ -53,6 +53,7 @@ Next, add one to three other locations to your starting area. This can include s
 | 92 - 94 | Whale graveyard | Who seeks to harvest these bones? |
 | 95 - 97 | Whaling grounds | Who or what is hunting these creatures to near-extinction? |
 | 98 - 100 | Wide, navigable river | What important location lies upriver? |
+^table-Landmarks
 
 *104 GETTING UNDERWAY*
 ### [skull] CURSED LOCATION DETAILS
@@ -82,6 +83,7 @@ Next, add one to three other locations to your starting area. This can include s
 | 86 - 90 | Sorcerous nexus | Who has gathered to reap the chaotic energy of this place? |
 | 91 - 95 | Titanic machinery | Who seeks to reactivate this ancient machine? |
 | 96 - 100 | Unending cyclonic storm | What is said to lie at this storm's center? |
+^table-Cursed-Landmarks
 
 > [!info] Map
 > [island1] kairos

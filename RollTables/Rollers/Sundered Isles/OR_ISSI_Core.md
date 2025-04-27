@@ -2,9 +2,9 @@
 
 | Individuals | Groups | Sites | Explore | Campaign |
 | --- | --- | --- | --- | --- |
-| **[[OR_ISSI_Characters\|Characters]]** | **[[OR_ISSI_Ships\|Ships]]** | **[[OR_ISSI_Shipwrecks\|Shipwrecks]]** | **[[OR_ISSI_Seafaring\|Seafaring]]** |  |
-| **[[OR_ISSI_Weather\|Weather]]** | **[[OR_ISSI_Settlements\|Settlements]]** | **[[OR_ISSI_Caves\|Caves]]** | **[[OR_ISSI_Islands\|Islands]]** |  |
-| **[[OR_ISSI_Treaure\|Treasure]]** | **[[OR_ISSI_Factions\|Factions]]** | **[[OR_ISSI_Ruins\|Ruins]]** | **[[OR_ISSI_Overland\|Overland]]** |  |
+| **[[OR_ISSI_Characters\|Characters]]** | **[[OR_ISSI_Factions\|Factions]]** | **[[OR_ISSI_Caves\|Caves]]** | **[[OR_ISSI_Islands\|Islands]]** | **[[OR_ISSI_Creation\|Creation]]** |
+| **[[OR_ISSI_Treaure\|Treasure]]** | **[[OR_ISSI_Settlements\|Settlements]]** | **[[OR_ISSI_Ruins\|Ruins]]** | **[[OR_ISSI_Overland\|Overland]]** |  |
+| **[[OR_ISSI_Weather\|Weather]]** | **[[OR_ISSI_Ships\|Ships]]** | **[[OR_ISSI_Shipwrecks\|Shipwrecks]]** | **[[OR_ISSI_Seafaring\|Seafaring]]** |  |
 | **[[OR_ISSI_Misc\|Misc]]** |  |  |  |  |
 ^Pages-Menu
 

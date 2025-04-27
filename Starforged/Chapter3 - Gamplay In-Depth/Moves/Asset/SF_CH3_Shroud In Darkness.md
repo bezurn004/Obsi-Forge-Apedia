@@ -60,6 +60,6 @@ SORT PageCategory asc, file.name asc
 ## Tags
 | Previous Page | Tags | Chapter Page |
 |:--- |:---:| ---:|
-| **[[SF_CH3_Ready Grappler\|Ready Grappler (SF Moves)]]** | #Starforged/Moves/Asset | **[[_SF_CH3_Gameplay In Depth\|Gameplay In Depth]]** |
+| **[[SF_CH3_Ready Grappler\|Ready Grappler (SF Moves)]]** | #Starforged/Moves/Asset | **[[SF_CH3_Clocks\|Clocks (SF In Depth)]]** |
 
 <font size=-2>This work is based on Ironsworn: Starforged (found at [www.ironswornrpg.com](http://www.ironswornrpg.com)), created by Shawn Tomkin, and licensed for our use under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license  (creativecommons.org/licenses/by-nc-sa/4.0/).</font>

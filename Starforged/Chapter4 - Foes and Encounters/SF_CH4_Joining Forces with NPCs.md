@@ -29,6 +29,6 @@ As with any NPC, you can [[SF_CH3_Ask the Oracle|Ask the Oracle]] to see how a h
 ## Tags
 | Previous Page | Tags | Next Page |
 |:--- |:---:| ---:|
-| **[[SF_CH4_Forging NPCs\|Forging NPCs (SF Foes)]]** | #Pedia/Gameplay/NPCs | **[[SF_CH4_NPC Components\|Components of NPCs (SF Foes)]]** |
+| **[[SF_CH4_Forging NPCs\|Forging NPCs (SF Foes)]]** | #Starforged/Gameplay/NPCs | **[[SF_CH4_NPC Components\|Components of NPCs (SF Foes)]]** |
 
 <font size=-2>This work is based on Ironsworn: Starforged (found at [www.ironswornrpg.com](http://www.ironswornrpg.com)), created by Shawn Tomkin, and licensed for our use under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license  (creativecommons.org/licenses/by-nc-sa/4.0/).</font>

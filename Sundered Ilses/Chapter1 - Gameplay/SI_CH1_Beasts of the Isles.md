@@ -61,6 +61,7 @@ Or [[SI_CH4_Swear an Iron Vow#INSERT Move Card|Swear an Iron Vow (SI Moves)]] an
 | 86–90 | Vortex Forge | Epic | From a distance, this titanic entity might be mistaken for a great whale, but it is a crewless metal construct that wanders the seas on an inscrutable mission. Its rotating maw generates powerful whirlpools to draw in prey, sending ship and sailor alike into an ever-burning furnace deep within its mechanical gullet. |
 | 91–95 | Herald | Epic | These colossal tortoise-like beings are the longest-lived creatures of the isles—perhaps as ancient as the world itself. Islanders interpret wondrous and grim portents from the sighting of a herald, but these creatures often go unseen; their craggy shell is easily mistaken for a small, rocky island. |
 | 96–100 | Abomination | Various Ranks | Generate this beast using the _Starforged_ [[_SF_CH5_Creatures\|Creatures Oracle]] (page 336 of the _Starforged_ rulebook), giving it a water form. |
+^table-Sea
 
 *58 ADVENTURES AMONG THE ISLES*
 *59 BEASTS OF THE ISLES*
@@ -87,6 +88,7 @@ Or [[SI_CH4_Swear an Iron Vow#INSERT Move Card|Swear an Iron Vow (SI Moves)]] an
 | 86–90 | Gangle | Formidable | This large, cave-dwelling insect contorts its long limbs with uncanny flexibility—the joints cracking like breaking bones—to navigate the smallest crevices. These limbs, equipped with delicate sensory organs, enable the creature to perceive the subtlest vibrations and detect prey or threats from afar. After unfolding itself from its hiding place, the gangle attacks with a spray of burning saliva. |
 | 91–95 | Deep Dragon | Epic | These ancient dragons lair in volcanic chambers, hibernating for centuries amid superheated steam and gases. They are flightless, with only vestigial wings, but their titanic scale and molten breath mark them as the greatest of dragon-kind. The rare emergence of a deep dragon from its burrow is a catastrophic reckoning for the surface world. |
 | 96–100 | Abomination | Various Ranks | Generate this beast using the _Starforged [[_SF_CH5_Creatures\|Creatures Oracle]] (page 336 of the _Starforged_ rulebook), giving it a land form. |
+^table-Land
 
 *60 ADVENTURES AMONG THE ISLES*
 *61 BEASTS OF THE ISLES*
@@ -106,6 +108,7 @@ Or [[SI_CH4_Swear an Iron Vow#INSERT Move Card|Swear an Iron Vow (SI Moves)]] an
 | 76–85 | Keelback Crab | Extreme | The keelback crab uses a scavenged ship as a protective shell for its soft exoskeleton. Reports of ghost ships can often be attributed to keelbacks, scuttling along coastal waters with wrecks on their backs. As it grows, a keelback must commandeer vessels of increasing size. |
 | 86–95 | Jade Crab | Extreme | The jade crab is the largest and most aggressive of the crustaceans, able to snap a longboat or even a small ship in two with its vice-like pincers. At rest, their shell is slate gray, easily mistaken for rocks or reefs. On the hunt, they shimmer with an iridescent blue-green. Fiercely territorial, these creatures often claim a waterway, cove, or sea cave as their lair. |
 | 96–100 | Abomination | Various Ranks | Generate this beast using the _Starforged_ [[_SF_CH5_Creatures\|Creatures Oracle]] (page 336 of the _Starforged_ rulebook), giving it a land or water form. |
+^table-Shore-River
 
 *62 ADVENTURES AMONG THE ISLES*
 
@@ -124,6 +127,7 @@ Or [[SI_CH4_Swear an Iron Vow#INSERT Move Card|Swear an Iron Vow (SI Moves)]] an
 | 76–85 | Bloodmite | Dangerous | Bloodmites are hound-sized, flying insects. They primarily cling to the hide of titanic beasts, feeding through a blade-tipped proboscis, but are not averse to preying upon smaller targets. |
 | 86–95 | Thanatoi | Dangerous | These moth-like creatures are unsettlingly large but harmless. They are often seen on nights when Wraith is full—they shimmer with a strange, ethereal glow, as if reflecting the light of the moon. Many islanders believe they escort souls into the world beyond. Look too long into their alluring glow, they say, and you suffer a glimpse of your own death. |
 | 96–100 | Abomination | Various Ranks | Generate this beast using the _Starforged_ [[_SF_CH5_Creatures\|Creatures Oracle]] (page 336 of the _Starforged_ rulebook), giving it an air form. |
+^table-Sky
 
 *63 BEASTS OF THE ISLES*
 

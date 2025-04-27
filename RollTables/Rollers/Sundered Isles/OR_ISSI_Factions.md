@@ -74,5 +74,17 @@
 >>>> | --- | --- |
 >>>> | [[SI_CH3_Faction Name and Themes#Faction Name Themes\|Theme: Aspect]] | `dice: [[OT_ISSI_Factions#^Name-Themes]]\|Aspect` |
 >>>> | [[SI_CH3_Faction Name and Themes#Faction Name Themes\|Theme: Persona]] | `dice: [[OT_ISSI_Factions#^Name-Themes]]\|Persona` |
+>
+>> [!example]- **Sample Factions**
+>> 
+>>> | | |
+>>> | --- | --- |
+>>> | [[SI_CH1_Factions of the Isles#^table-Societies\|Societies]] | `dice: [[OT_ISSI_Campaign#^Faction-Societies]]` |
+>>> | [[SI_CH1_Factions of the Isles#^table-Organizations\|Organizations]] | `dice: [[OT_ISSI_Campaign#^Faction-Organizations]]` |
+>>> | [[SI_CH1_Factions of the Isles#^table-Empires\|Empires]] | `dice: [[OT_ISSI_Campaign#^Faction-Empires]]` |
+>>> | [[SI_CH1_Factions of the Isles#^table-The-Cursed\|The Cursed]] | `dice: [[OT_ISSI_Campaign#^Faction-The-Cursed]]` |
+>>
+>>> [[OT_ISSI_Campaign#Faction Relationship Short|Relationship (short)]]
+>>> `dice: [[OT_ISSI_Campaign#^Faction-Relationship-Short]]` 
 
  

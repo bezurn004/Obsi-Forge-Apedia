@@ -12,15 +12,15 @@
 > | --- | --- | --- |
 > | **[[SF_CH2_TR_Cataclysm#The Sun Plague\|The Sun Plague]]** | **[[SF_CH2_TR_Cataclysm#Alien Invaders\|Alien Invaders]]** | **[[SF_CH2_TR_Cataclysm#Unending War\|Unending War]]** |
 > 
-> > [!example]- *Cataclysm Detail*
-> > 
-> > |  |  |
-> > | --- | --- |
-> > | Sun Plague | `dice: [[OT_ISSF_Truths#^Cataclysm-Sun-Plague]]` |
-> > | Alien Invaders | `dice: [[OT_ISSF_Truths#^Cataclysm-Alien-Invaders-Form]]` |
-> > | Unending War | `dice: [[OT_ISSF_Truths#^Cataclysm-Unending-War]]` |
+>> [!example]- *Cataclysm Detail*
+>> 
+>> |  |  |
+>> | --- | --- |
+>> | Sun Plague | `dice: [[OT_ISSF_Truths#^Cataclysm-Sun-Plague]]` |
+>> | Alien Invaders | `dice: [[OT_ISSF_Truths#^Cataclysm-Alien-Invaders-Form]]` |
+>> | Unending War | `dice: [[OT_ISSF_Truths#^Cataclysm-Unending-War]]` |
 
-^GR-Truth-Cataclysm-Callout
+^Cataclysm-Callout
 
 > [!warning]- **Exodus**
 > 
@@ -30,7 +30,7 @@
 > | --- | --- | --- |
 > | **[[SF_CH2_TR_Exodus#Generation Ships\|Generation Ships]]** | **[[SF_CH2_TR_Exodus#Warp Speed\|Warp Speed]]** | **[[SF_CH2_TR_Exodus#Stargates\|Stargates]]** |
 
-^GR-Truth-Exodus-Callout
+^Exodus-Callout
 
 > [!done]- **Communities**
 > 
@@ -40,7 +40,7 @@
 > | --- | --- | --- |
 > | **[[SF_CH2_TR_Communities#Scattered and Few\|Scattered and Few]]** | **[[SF_CH2_TR_Communities#Founder Clans\|Founder Clans]]** | **[[SF_CH2_TR_Communities#Bountiful Balefires\|Bountiful Balefires]]** |
 
-^GR-Truth-Communities-Callout
+^Communities-Callout
 
 > [!progress]- **Iron**
 > 
@@ -50,7 +50,7 @@
 > | --- | --- | --- |
 > | **[[SF_CH2_TR_Iron#Exodus Iron\|Exodus Iron]]** | **[[SF_CH2_TR_Iron#Black Iron\|Black Iron]]** | **[[SF_CH2_TR_Iron#Sworn Blades\|Sworn Blades]]** |
 
-^GR-Truth-Iron-Callout
+^Iron-Callout
 
 > [!summary]- **Laws**
 > 
@@ -60,7 +60,7 @@
 > | --- | --- | --- |
 > | **[[SF_CH2_TR_Laws#Lawless Forge\|Lawless Forge]]** | **[[SF_CH2_TR_Laws#Bounty Authority\|Bounty Authority]]** | **[[SF_CH2_TR_Laws#The Covenant\|The Covenant]]** |
 
-^GR-Truth-Laws-Callout
+^Laws-Callout
 
 > [!tip]- **Religion**
 > 
@@ -70,7 +70,7 @@
 > | --- | --- | --- |
 > | **[[SF_CH2_TR_Religion#Agnostic Creed\|Agnostic Creed]]** | **[[SF_CH2_TR_Religion#Polytheistic Ideology\|Polytheistic Ideology]]** | **[[SF_CH2_TR_Religion#The Triumvirate\|The Triumvirate]]** |
 
-^GR-Truth-Religion-Callout
+^Religion-Callout
 
 > [!example]- **Magic**
 > 
@@ -80,11 +80,11 @@
 > | --- | --- | --- |
 > | **[[SF_CH2_TR_Magic#Techno-Force\|Techno-Force]]** | **[[SF_CH2_TR_Magic#The Paragons\|The Paragons]]** | **[[SF_CH2_TR_Magic#Forge of Mystics\|Forge of Mystics]]** |
 > 
-> > [!faq]- **Paragons Details**
-> > 
-> > Detail: `dice: [[OT_ISSF_Truths#^Magic-Paragons]]`
+>> [!faq]- **Paragons Details**
+>> 
+>> Detail: `dice: [[OT_ISSF_Truths#^Magic-Paragons]]`
 
-^GR-Truth-Magic-Callout
+^Magic-Callout
 
 > [!note]- **Communication and Data**
 > 
@@ -94,7 +94,7 @@
 > | --- | --- | --- |
 > | **[[SF_CH2_TR_Communication and Data#Dark Data Age\|Dark Data Age]]** | **[[SF_CH2_TR_Communication and Data#Data Couriers\|Data Couriers]]** | **[[SF_CH2_TR_Communication and Data#Data Weave\|Data Weave]]** |
 
-^GR-Truth-CommsAndData-Callout
+^CommsAndData-Callout
 
 > [!bug]- **Medicine**
 > 
@@ -104,7 +104,7 @@
 > | --- | --- | --- |
 > | **[[SF_CH2_TR_Medicine#Dull Scalpel\|Dull Scalpel]]** | **[[SF_CH2_TR_Medicine#Rare Riggers\|Rare Riggers]]** | **[[SF_CH2_TR_Medicine#Helpful Healers\|Helpful Healers]]** |
 
-^GR-Truth-Medicine-Callout
+^Medicine-Callout
 
 > [!faq]- **Artificial Intelligence**
 > 
@@ -114,11 +114,11 @@
 > | --- | --- | --- |
 > | **[[SF_CH2_TR_Artificial Intelligence#The Adepts\|The Adepts]]** | **[[SF_CH2_TR_Artificial Intelligence#Scarce Intelligence\|Scarce Intelligence]]** | **[[SF_CH2_TR_Artificial Intelligence#Mass Intelligence\|Mass Intelligence]]** |
 > 
-> > [!example]- **The Adepts Detail**
-> > 
-> > Detail: `dice: [[OT_ISSF_Truths#^Artificial-Intelligence-the-Adepts]]`
+>> [!example]- **The Adepts Detail**
+>> 
+>> Detail: `dice: [[OT_ISSF_Truths#^Artificial-Intelligence-the-Adepts]]`
 
-^GR-Truth-ArtificialIntelligence-Callout
+^ArtificialIntelligence-Callout
 
 > [!fail]- **War**
 > 
@@ -128,7 +128,7 @@
 > | --- | --- | --- |
 > | **[[SF_CH2_TR_War#Scavenged Arms\|Scavenged Arms]]** | **[[SF_CH2_TR_War#Guns For Hire\|Guns for Hire]]** | **[[SF_CH2_TR_War#Shock And War\|Shock and War]]** |
 
-^GR-Truth-War-Callout
+^War-Callout
 
 > [!success]- **Lifeforms**
 > 
@@ -138,7 +138,7 @@
 > | --- | --- | --- |
 > | **[[SF_CH2_TR_Lifeforms#Adaptable Abundance\|Adaptable Abundance]]** | **[[SF_CH2_TR_Lifeforms#Fierce Forgespawn\|Fierce Forgespawn]]** | **[[SF_CH2_TR_Lifeforms#Enigmatic Essentia\|Enigmatic Essentia]]** |
 
-^GR-Truth-Lifeforms-Callout
+^Lifeforms-Callout
 
 > [!mechanics]- **Precursors**
 > 
@@ -148,7 +148,7 @@
 > | --- | --- | --- |
 > | **[[SF_CH2_TR_Precursors#Probing Grubs\|Probing Grubs]]** | **[[SF_CH2_TR_Precursors#Chaotic Acendancy\|Chaotic Asendancy]]** | **[[SF_CH2_TR_Precursors#Vigilant Remnants\|Vigilant Remnants]]** |
 
-^GR-Truth-Precursors-Callout
+^Precursors-Callout
 
 > [!challenge-miss]- **Horrors**
 > 
@@ -158,4 +158,4 @@
 > | --- | --- | --- |
 > | **[[SF_CH2_TR_Horrors#Vengeful Spectre\|Vengeful Spectre]]** | **[[SF_CH2_TR_Horrors#Ominous Lumines\|Ominous Lumines]]** | **[[SF_CH2_TR_Horrors#Righteous Soulbinders\|Righteous Soulbinders]]** |
 
-^GR-Truth-Horrors-Callout
+^Horrors-Callout

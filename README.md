@@ -46,9 +46,10 @@ The Obsi-Forge-Apedia (OFA) is a project to enhance the source material from the
 The goal of this work is to digitize the game's documentation into markdown and expand on the below goals:
 
   - Add meta-data and dynamic queries to generate tables for game play rules and resources.
-  - Use info boxes to break down key aspects of game play that can be collapsed and imported using linked block references.
-  - Answer linger questions that are ambiguous from the game's source rules
+  - Use info boxes to break down key aspects of gameplay that can be collapsed and imported using linked block references.
+  - Answer lingering questions that are ambiguous from the game's source rules
   - Create templates that can be used for new campaign creation and gameplay functionality
+  - Aid as a pedia for source material and community content to bereferenced during playing the game from a single source.
  
 The overall mission is to provide an alternative, easier to use, reference material for Ironsworn Starforged.
 
@@ -82,7 +83,7 @@ The focus  on phase 2 is to evaluate the key terminologies used in the source ma
 	 - [x] Character Creation sections
 	 - [x] Moves sections
 	 - [ ] Assets sections
-	 - [ ] Oracles sections
+	 - [x] Oracles sections
  - [x] Create data-view queries in various sections to enrich content
 
 ### Phase 3

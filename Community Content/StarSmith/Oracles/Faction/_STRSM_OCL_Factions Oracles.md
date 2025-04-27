@@ -15,8 +15,17 @@ PageOrder: 0
 A faction is an organization that wields power or influence over a specific sector or sectors of space within a subset of focused arenas of knowledge.
 
 > ## Contents
-> ## [[STRSM_OCL_Faction-Types|Types]]
+> ### [[STRSM_OCL_Faction-Types|Types]]
 > - **Type** - The Type tells you the general type of organization it is. After you know their type, you then roll on the corresponding oracles.
+> 	- Dominion
+> 	- Guild
+> 	- Fringe Group
+> 	- Corporation
+> 	- Military Specialty
+> 	- Religious Role
+> 	- Research Field of Study
+> 	- Data Harvesters
+> 	- AI Hive
 >
 > ### [[STRSM_OCL_Faction-Names|Names]]
 > - **Name** - First roll on the Name Template table to find the pattern that the name takes and then roll the corresponding pieces to form the full name.

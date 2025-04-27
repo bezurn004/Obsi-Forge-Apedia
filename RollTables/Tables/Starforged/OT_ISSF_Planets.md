@@ -18,7 +18,7 @@
 
 # Type - Long
 
-| 1d100 | Result |
+| dice: 1d100 | Result |
 | :---: | --- |
 | 1 - 15 | ▶[[OT_ISSF_Planets#Desert\|Desert World]]<br>A pitiless planet of searing heat, blowing sand, and sunbaked rock. |
 | 16 - 30 | ▶[[OT_ISSF_Planets#Furnace\|Furnace World]]<br>A planet with relentless volcanic activity, wreathed in fire and ash. |

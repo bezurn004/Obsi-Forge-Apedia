@@ -68,8 +68,10 @@
 >>>> [[SI_CH3_Character_Drive#Oracle Cursed Character Goals|Cursed Goal]]
 >>>> `dice: [[OT_ISSI_Characters#^Cursed-Goals]]`
 >
->> [!cite]- **Names**
+>> [!cite]- **Details**
 >> 
+>>> **Names**
+>>>  
 >>> | [[SI_CH3_Character_Names#Oracle Character Name - Given\|Given]] | [[SI_CH3_Character_Names#Oracle Character Name - Family\|Family]] | [[SI_CH3_Character_Names#Oracle Character Name - Moniker\|Monikerr]] |
 >>> | --- | --- | --- |
 >>> | `dice: [[OT_ISSI_Characters#^Name-Given]]` | `dice: [[OT_ISSI_Characters#^Name-Family]]` | `dice: [[OT_ISSI_Characters#^Name-Moniker]]` |
@@ -82,3 +84,13 @@
 >>>> | [[SI_CH3_Character_Names#Oracle Cursed Moniker - Eldritch Powers\|Eldritch Powers]] | `dice: [[OT_ISSI_Characters#^Cursed-Moniker-Eldritch-Powers]]` |
 >>>> | [[SI_CH3_Character_Names#Oracle Cursed Moniker - Ill-Fated Nature\|Ill-Fated Nature]] | `dice: [[OT_ISSI_Characters#^Cursed-Moniker-Ill-Fated-Nature]]` |
 >>>> | [[SI_CH3_Character_Names#Oracle Cursed Moniker - Mechanical Form\|Mechanical Form]] | `dice: [[OT_ISSI_Characters#^Cursed-Moniker-Mechanical-Form]]` |
+>>
+>>> [[SI_CH2_Character Backstory#^table-backstory|Backstory]]
+>>> `dice: [[OT_ISSI_Campaign#^Character-Backstory]]`
+>>>
+>>>> [!danger]- **Cursed Backstory**
+>>>> [[SI_CH2_Character Backstory#^table-Cursed-Backstory|Cursed Backstory]]
+>>>> `dice: [[OT_ISSI_Campaign#^Cursed-Character-Backstory]]`
+>>
+>>> [[SI_CH2_Characteristics and Persona#^table-Persona\|Persona]]
+>>> `dice: [[OT_ISSI_Campaign#^Character-Persona]]`

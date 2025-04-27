@@ -475,6 +475,6 @@ These templates can be filled out with any content desired for your play through
 ## Tags
 | Previous Section | Tags | Topic Index | 
 | :--- | :---: | ---: |
-| **[[_STRSM_OCL_Moves Oracles\|Move Oracles]]** | #Starsmith/Oracles/Templates - #Pedia/Oracles/Templates | **[[_STRSM Oracles Index\|Starsmith Oracles Index]]** |
+| **[[_STRSM_OCL_Moves Oracles\|Move Oracles]]** | #Starsmith/Oracles/Templates | **[[_STRSM Oracles Index\|Starsmith Oracles Index]]** |
 
 <font size =-2>Starsmith Oracles is created by Eric Bright and licensed for use under the Creative Commons Attribution 4.0 International License (CC-BY).</font>

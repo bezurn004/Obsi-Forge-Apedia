@@ -129,6 +129,7 @@ Start simple, and leave plenty of space. You can return to the diagram to add de
 | 71–80 | Talan | Scrappy seafolk who range far among the islands. They maintain a floating trade settlement open to any who visit with shuttered gunports. |
 | 81–90 | Thalassa | Recent refugees of a cataclysmic war. They are desperate to gain allies against the enemy they believe will follow them to the isles. |
 | 91–100 | Uktanu | Reclusive people who trace their lineage to the first inhabitants of the isles. They are sworn to protect the sacred sites and relics of their ancient forebears. |
+^table-Societies
 
 *52 ADVENTURES AMONG THE ISLES*
 
@@ -150,6 +151,7 @@ Start simple, and leave plenty of space. You can return to the diagram to add de
 | 71–80 | Saltblood | Mariners bound to an age-old seafaring fellowship. They recognize fellow saltbloods and communicate using complex hand signals. |
 | 81–90 | Tide Runners | Smugglers who ferry their ill-gotten goods from island to island. They rely on speed, stealth, and the cover of foul weather or moonless nights. |
 | 91–100 | Wayfarers | Peddlers who range across the isles and beyond. They transport rare and unusual cargo aboard their vibrantly painted ships. |
+^table-Organizations
 
 *53 FACTIONS OF THE ISLES*
 
@@ -171,6 +173,7 @@ Start simple, and leave plenty of space. You can return to the diagram to add de
 | 71–80 | Norish Empire | War-mongering clans newly united under a powerful warlord. Their warships are fitted with imposing rams and heavy boarding ramps. |
 | 81–90 | Skulde Alliance | Ambitious empire that wields a powerful military. At the vanguard of their fleets are the dragon-riders of the Crimson Guard, who house their steeds and launch their attacks from colossal carrier ships. |
 | 91–100 | Sovereign States | Industrialist power formed from the remnants of warring nations. They are governed by an oligarchical council whose members scheme and backstab to advance their own interests. |
+^table-Empires
 
 > ### THE CURSED
 > People transformed or bound by dreadful curses
@@ -190,6 +193,7 @@ Start simple, and leave plenty of space. You can return to the diagram to add de
 | 71–80 | Gilded Fleet | Pirates who seized a forbidden treasure. They are cursed with a ceaseless, insatiable hunger to hoard riches from all corners of the isles. |
 | 81–90 | Nightships | Dread ships of the vampire clans, shrouded in an eternal gloom. Their undead crews leave wrecks and blood-drained corpses in their wake.
 | 91–100 | tidebound | Devout cultists who were granted eternal life in exchange for unending service to their patron sea god. They must not tarry on land or at anchor, lest death catches up with them to take its toll. |
+^table-The-Cursed
 
 *55 FACTIONS OF THE ISLES*
 
