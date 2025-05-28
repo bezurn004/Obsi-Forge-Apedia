@@ -54,7 +54,7 @@ ConditionNum:
 ConditionLabels:
 ---
 # [[_Assets Index|Assets]] - [[_Path Assets|Path]]: Voidborn
-> [!mechanics]- [[
+> [!mechanics]- [[AST_Voidborn|Voidborn (asset)]]
 > **Character Aspect: ** You are most suited to life in the limitless void.** ^Header
 ___
 > [!note] Ability 1

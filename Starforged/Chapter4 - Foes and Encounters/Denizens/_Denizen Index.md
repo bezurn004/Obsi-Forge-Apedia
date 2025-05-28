@@ -9,7 +9,7 @@ aliases:
 PageType: Denizen
 PageCategory: Index
 ---
-# [[_INDEX|Index]] - [[_SF_CH4_Foes-Encounters|Foes and Encounters]]: Denizens Summary
+# [[_OFA-INDEX|Index]] - [[_SF_CH4_Foes-Encounters|Foes and Encounters]]: Denizens Summary
 This section includes a variety of NPCs to help inspire some of the foes, forces, and creatures you may encounter in your adventures. Use what fits your version of the Forge, keeping in mind the choices you made when you defined the truths of the setting. If your campaign is gritty and grounded, ignore any fantastical NPCs. If you want to boost the strange aspects of the Forge, you can emphasize the supernatural or monstrous.
 
 For full details on NPCs and their mechanics, see Chapter 4 - **[[_SF_CH4_Foes-Encounters|Foes and Encounters]]**

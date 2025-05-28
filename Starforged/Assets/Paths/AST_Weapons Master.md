@@ -54,7 +54,7 @@ ConditionNum:
 ConditionLabels:
 ---
 # [[_Assets Index|Assets]] - [[_Path Assets|Path]]: Weapon Master
-> [!mechanics]- [[
+> [!mechanics]- [[AST_Weapons Master|Weapon Master (asset)]]
 > **Character Aspect: ** You are a walking armory, with a weapon for every occasion.** ^Header
 ___
 > [!note] Ability 1

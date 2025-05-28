@@ -7,7 +7,7 @@ SourceLink:
 ##  Page
 aliases: 
   - "Chapter 2 - Getting Underway (SI)"
-  - "Campaign Creation"
+  - "Campaign Creation (SI)"
 PageType: "Getting Underway"
 PageCategory: Index
 PageOrder: 0

@@ -1,4 +1,4 @@
-# [[_INDEX|Index]] - Oracle Roll Sheets
+# [[_OFA-INDEX|Index]] - Oracle Roll Sheets
 The oracle roll sheets are a concise way to generate oracle and table results from the source material.
 
 ## [[OR_ISSF_Core|Starforged]]

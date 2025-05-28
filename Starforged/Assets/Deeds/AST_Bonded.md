@@ -81,6 +81,6 @@ ___
 ## Tags
 | Previous Asset | Tags | Next Asset |
 | :--- | :---: | ---: |
-| **[[AST_Voidglider\|VOIDGLIDER]]** | #Starforged/Assets/Deed - #AssetDeck/Starforged - #AssetDeck/SI-SFCrossover - #AssetDeck/SI-SFCrossover | **[[AST_Homesteader\|HOMESTEADER]]** |
+| **[[AST_Voidglider\|VOIDGLIDER]]** | #Starforged/Assets/Deed - #AssetDeck/Starforged - #AssetDeck/SI-SFCrossover | **[[AST_Homesteader\|HOMESTEADER]]** |
 
 <font size=-2>This work is based on Ironsworn: Starforged (found at [www.ironswornrpg.com](http://www.ironswornrpg.com)), created by Shawn Tomkin, and licensed for our use under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license  (creativecommons.org/licenses/by-nc-sa/4.0/).</font>

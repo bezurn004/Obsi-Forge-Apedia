@@ -53,7 +53,7 @@ TrackMax: 4
 ConditionNum: 1
 ConditionLabels: Battered
 ---
-# [[_STRSM Assets Index|Starsmith Assets]] - [[_STRSM_Module Assets|Modules]]: AssetName
+# [[_STRSM Assets Index|Starsmith Assets]] - [[_STRSM_Module Assets|Modules]]: Aquatic HOV
 Land, air, and space are not the only mediums worthy of exploration. Oceans, whether of water or other liquids, often must be traversed to find the precious resources necessary for survival in the vastness of the Forge. Moreover, some ocean worlds are only viable for habitation in underwater cities because the surface waters are so stormy. This, in turn, necessitates travel from water to space without the benefit of a land launch. Cue the aquatic HOV.
 
 Aquatic HOVs (human occupied vehicles) that are prepped for use with a command-level starship are capable of being launched from orbit directly into the deep waters of an ocean. This is admittedly a little bit of a rough ride on the occupants, but injury occurrences are well within the acceptable norms. This arrangement allows a starship to be dispatched to a water world and then to directly assess the quality of the ocean immediately. No need to wait for a temporary base to be built on the surface or underwater.

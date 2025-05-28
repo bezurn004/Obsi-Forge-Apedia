@@ -50,13 +50,13 @@ TABLE without ID
 	TrackLabels + " / " + TrackMax As "Track Name / Max",
 	SourceMaterial As "Source",
 	Aspect As "Companion [[HBC_Aspect|Aspect]]"
-WHERE contains(PageType, "Asset") & contains(PageCategory, "Companion") & !contains(PageType, "Index") & !contains(SourceMaterial, "Starforged") & !contains(SourceMaterial, "Sundered Isles")
+WHERE contains(PageType, "Asset") & contains(PageCategory, "Companion") & contains(file.name, "AST") & !contains(PageType, "Index") & !contains(SourceMaterial, "Starforged") & !contains(SourceMaterial, "Sundered Isles")
 SORT PageOrder asc
 ```
 
 ## Tags
 | Chapter Index | Tags | Next Section |
 |:--- |:---:| ---:|
-| **[[_Assets Index\|Assets]]** | #Pedia/Assets/Companion | **[[_Deed Assets\|Deed Assets]]** |
+| **[[_Assets Index\|Assets]]** | #Assets/Companion | **[[_Deed Assets\|Deed Assets]]** |
 
 <font size=-2>This work is based on Ironsworn: Starforged (found at [www.ironswornrpg.com](http://www.ironswornrpg.com)), created by Shawn Tomkin, and licensed for our use under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license  (creativecommons.org/licenses/by-nc-sa/4.0/).</font>

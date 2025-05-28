@@ -11,7 +11,7 @@ PageType: Index
 PageCategory: Index
 PageOrder: 0
 ---
-# [[_INDEX|OFA]]: Ironsworn: Starforged
+# [[_OFA-INDEX|OFA]]: Ironsworn: Starforged
 ## CONTENTS
 
 > [!todo] [[_SF_CH1_The Basics|Chapter 1 - The Basics]] [Pages 17-73]
@@ -47,6 +47,6 @@ Safety tools are recommended. Starforged includes integrated [[_SF_CH3_Session M
 
 | Pedia Index | Tags | Next Chapter |
 | :--- | :---: | ---: |
-| **[[_INDEX\|OFA]]** | #Starforged | **[[_SF_CH1_The Basics\|Chapter 1 - The Basics]]** |
+| **[[_OFA-INDEX\|OFA]]** | #Starforged | **[[_SF_CH1_The Basics\|Chapter 1 - The Basics]]** |
 
 <font size=-2>This work is based on Ironsworn: Starforged (found at [www.ironswornrpg.com](http://www.ironswornrpg.com)), created by Shawn Tomkin, and licensed for our use under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license  (creativecommons.org/licenses/by-nc-sa/4.0/).</font>

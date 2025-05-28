@@ -16,7 +16,7 @@ MoveName: "Continue a Legacy"
 InlineCmd: CAL
 Trigger: "When you retire from your life as Ironsworn, or succumb to death or desolation, you may create a new character in your established setting"
 RollType: Progress
-RollStat: [Quests, Bonds, Discovery]
+ProgressTrack: [Quests, Bonds, Discovery]
 ReferencedMoves: 
   - [[SF_CH3_Swear an Iron Vow]]
   - [[SF_CH3_Make a Connection]]

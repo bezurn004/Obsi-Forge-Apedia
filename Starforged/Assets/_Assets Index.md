@@ -12,7 +12,7 @@ PageCategory: Index
 PageOrder: 0
 ---
 
-# [[_INDEX|OFA]]: Assets
+# [[_OFA-INDEX|OFA]]: Assets
 > [!note] **A Note about assets and progress moves**
 > Some assets include abilities which might be applied to a variety of moves. This is usually phrased as “when you make a move to [blank].” However, most asset abilities apply only to action rolls. Unless an asset specifically defines a benefit for a progress move, you may not leverage an asset ability when making a progress roll.
 
@@ -32,6 +32,9 @@ PageOrder: 0
 
 > **[[_Vehicle Assets|Vehicle Assets]]**
 > _Provide transportation, saftey, and abilities while undertaking explorations in the Forge._
+
+> **[[_Item Assets|Item Assets]]**
+> _Special Items that can be acquired and used in the Forge_
 
 ## Asset Decks
 _In the Sundered Isles guidebook, the concept of Asset decks are introduced as a way to distinguish the various abilities that would be available in a given setting.  See (cite reference] of the Sundered Isles guidebook for full details on how to use Asset decks_
@@ -76,13 +79,13 @@ TABLE without ID
 	PageCategory As "Asset Category",
 	SourceMaterial As "Source",
 	GameplayRole As "[[HBC_Gameplay Role|Gameplay Role]]"
-WHERE contains(PageType, "Asset") & !contains(PageType, "Index") & !contains(file.path, "Template") & !contains(SourceMaterial, "Starforged") & !contains(SourceMaterial, "Sundered Isles")
+WHERE contains(PageType, "Asset") & !contains(PageType, "Index") & contains(file.name, "AST") & !contains(file.path, "Template") & !contains(SourceMaterial, "Starforged") & !contains(SourceMaterial, "Sundered Isles")
 SORT PageOrder asc
 ```
 
 ## Tags
 | Previous Chapter | Tags | Next Chapter |
 |:--- |:---:| ---:|
-| **[[_SF_CH4_Foes-Encounters\|Foes and Encounters]]** | #Pedia/Assets | **[[GSRY_Definitions]]** |
+| **[[_SF_CH4_Foes-Encounters\|Foes and Encounters]]** | #Assets | **[[GSRY_Definitions]]** |
 
 <font size=-2>This work is based on Ironsworn: Starforged (found at [www.ironswornrpg.com](http://www.ironswornrpg.com)), created by Shawn Tomkin, and licensed for our use under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license  (creativecommons.org/licenses/by-nc-sa/4.0/).</font>

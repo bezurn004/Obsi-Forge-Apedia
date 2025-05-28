@@ -129,6 +129,7 @@ Action and Theme can answer questions such as:
 | 98 | Uphold | Wealth |
 | 99 | Weaken | Weapon |
 | 100 | Withdraw | World |
+^table-Action-Theme
 
 ### Oracle: Action
 > [!mechanics]- | Roll > `dice: [[OT_ISSF_Core#^Action]]` | Guidance

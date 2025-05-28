@@ -6,7 +6,7 @@ PageType: Community
 PageCategory: Index
 PageOrder: 0
 ---
-# [[_INDEX|OFA]]: Community Content
+# [[_OFA-INDEX|OFA]]: Community Content
 Work is progressing to import community content from published material and content posted on discord. In general, only content with appropriate licensing or approved by the owners for distribution is included.
 
 ## Content 
@@ -15,6 +15,15 @@ Work is progressing to import community content from published material and cont
 
 > **[[_STRSM Oracles Index|Starsmith Oracles]]** [author: Eric Bright]
 > Many of the original Oracles from _Starforged_ have been expanded into arrays, greatly increasing the variety in results when making use of oracles to generate content.
+
+> **[[_FRGHZ|Forge Horizons]]** [author: Michael Elliott]
+> Alternate episodic rules for solo play and one-shots, as well as 24+ addition oracles for machines, supernatural horrors, precursors, and city-planets.
+
+> **[[_SPCST_EX|Space Sightings Expanded]]** [author: Samuel Rondón]
+> This supplement builds upon the natural wonders you might discover while voyaging through space, though they won’t be without their potential danger.
+
+> **[[_Ancient Wonders|Acient Wonders]]** [author:  - Markos Marafelias, Samuel Rondón Acevedo, Nando Gallarday]
+> Throughout the supplement, you will be presented with a plethora of random tables to enhance your experience in the science fiction game of your preference.
 
 
 ## Obsidian Channel (Starforged Discord)

@@ -123,5 +123,4 @@ Your [[AST_Flagship|FLAGSHIP]] modules can also reflect the talents and strength
 | :--- | :---: | ---: |
 | **[[SI_CH1_Your Ship\|Your Ship (SI Gameplay)]]** | #SunderedIsles/Gameplay| **[[SI_CH1_Supply at Sea\|Supply at Sea (SI Gameplay)]]** |
 
-
 <font size=-2>Copyright ©2024 Shawn Tomkin. The text of this work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license. For license details, visit ironswornrpg.com. Updated June 2024 MUH051V200-PDF</font>

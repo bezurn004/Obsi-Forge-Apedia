@@ -11,22 +11,22 @@ PageType: Index
 PageCategory: Index
 PageOrder: 0
 ---
-# [[_INDEX|OFA]]: Sundered Isles
+# [[_OFA-INDEX|OFA]]: Sundered Isles
 ## CONTENTS
 > **==Section 1 / page 4==**
-> ### [[_SI_CH1_Contents|Chapter 1 - Adventures Among the Isles]]<br>Whole Chapter [[1 - Adevntures Among the Isles]]
+> ### [[_SI_CH1_Contents|Chapter 1 - Adventures Among the Isles]]<br>Whole Chapter [[SI_CH1_Full|Full Chapter 1]]
 > This section includes setting info and gameplay options. Before starting play, explore this content as you like. Then, refer here when you have questions or want more detail.
 
 > **==Section 2 / page 64==**
-> ### [[_SI_CH2_Contents|Chapter 2 - Getting Underway]]<br>Whole Chapter [[2 - Getting Underway]]
+> ### [[_SI_CH2_Contents|Chapter 2 - Getting Underway]]<br>Whole Chapter [[SI_CH2_Full|Full Chapter 2]]
 > Start here when you’re ready to play. By working through these exercises, you forge a world, create a character, and set your campaign in motion.
 
 > **==Section 3 / page 110==**
-> ### [[_SI_Ch3_Contents|Chapter 3 - Oracles]]<br>Whole Chapter [[3 - Oracles]]
+> ### [[_SI_Ch3_Contents|Chapter 3 - Oracles]]<br>Whole Chapter [[SI_CH3_Full|Full Chapter 3]]
 > Sundered Isles moves include minor changes to align with the nautical setting. There’s no need to read this section beforehand; it is referenced during play.
 
 > **==Section 4 / page 234==**
-> ### [[_SI_CH4_Contents|Chapter 4 - Moves Reference]]<br>Whole Chapter [[4 - Moves]]
+> ### [[_SI_CH4_Contents|Chapter 4 - Moves Reference]]<br>Whole Chapter [[SI_CH4_Full|Full Chapter 4]]
 > 
 > Here you will find a vast array of oracle tables to reveal the mysteries of the Sundered Isles. Use them to answer questions and uncover new aspects of the world.
 
@@ -70,7 +70,7 @@ The Sundered Isles Playkit includes character sheets, worksheets, and reference 
 
 | Pedia Index | Tags | Next Chapter |
 | :--- | :---: | ---: |
-| **[[_INDEX\|OFA Index]]** | #SunderedIsles| **[[_SI_CH1_Contents\|Chapter 1 - Adventures Among the Isles]]** |
+| **[[_OFA-INDEX\|OFA Index]]** | #SunderedIsles| **[[_SI_CH1_Contents\|Chapter 1 - Adventures Among the Isles]]** |
 
 
 <font size=-2>Copyright ©2024 Shawn Tomkin. The text of this work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license. For license details, visit ironswornrpg.com. Updated June 2024 MUH051V200-PDF</font>

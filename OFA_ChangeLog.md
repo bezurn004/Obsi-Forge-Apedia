@@ -1,7 +1,10 @@
 # OFA - Change Log
+Number of Current Files
+`$=dv.pages().length`
 
+## Planned Changes
 
-## Planned Works
+### The Distant Buckets
 - [ ] Nail down templates
 - [ ] Add community content
 	- [ ] Starsmith Mecha
@@ -10,8 +13,56 @@
 	- [ ] Complete SI linking
 	- [ ] Begin import of SF source
 - [ ] Oracle results that create an object will trigger a template creation wizard (using Buttons I hope)
+- [ ] Add move category to meta data for SF (maybe SI?)
+
+### V0.4.3.4
+- [ ] Oracle Rollers
+	- [ ] Forge Horizons
+	- [ ] Space Encounters Expanded
+	- [ ] Ancient Wonders
+
+### V0.4.3.3
+- [ ] Create Oracle Tables from content
+	- [ ] Forge Horizons
+	- [ ] Space Encounters Expanded
+	- [ ] Ancient Wonders
+- [ ] Add guidance and in-line rollers to paginated oracles
+	- [ ] Forge Horizons
+	- [ ] Space Encounters Expanded
+	- [ ] Ancient Wonders
+
+### V0.4.3.2
+- [ ] Full Chapter Content Linking
+	- [ ] Forge Horizons
+	- [ ] Space Encounters Expanded
+	- [ ] Ancient Wonders
+- [ ] Paginated Text and Oracles tables linked to references (e.g. Descriptor +  Focus). Page references removed
+	- [ ] Forge Horizons
+	- [ ] Space Encounters Expanded
+	- [ ] Ancient Wonders
+
+## Current Release
+
+### V0.4.3.1
+Number of files : 1029
+Committed files : 574
+- [x] Initial pagination of Community Content
+	- [x] Forge Horizons
+	- [x] Space Encounters Expanded
+	- [x] Ancient Wonders
+- [x] Metadata consistency applied to paginated content
+	- [x] Forge Horizons
+	- [x] Space Encounters Expanded
+	- [x] Ancient Wonders
+- [x] Various typo and formatting changes
+- [x] Removed 'Pedia' tag from asset files
+- [x] Add next chapter links to all Full Chapter content
+- [x] Added Ancient Wonder token images
+
+## Completed Changes
 
 ### V0.4.3
+Number of files : 846
 - [x] Added Forge Horizons community content (full page)
 - [x] Added Space Sightings Expanded content (full page)
 - [x] Added Ancient Wonders content (full page per chapter)
@@ -23,7 +74,6 @@
 	- [x] For campaign oracles, also add the relevant subjects to the main oracle rollers. (e.g. Oracles from Character creation would be included on both "Creation" and "Character" rollers. On Character, it would be in the "details" section at the bottom)
 - [x] Various formatting and fixes to Oracles and Roll table pages
 
-## Completed Changes
 ### V0.4.2
 - [x] Oracle tables / rollers revamp
 	- [x] Change for full 1 - 100 results to use look up rollers
