@@ -21,7 +21,103 @@
 	- [ ] Revise structure of tables to match SF / SI style
 	- [ ] Shorten length of block callouts for abbreviated linking
 
+<<<<<<< Updated upstream
 ## V0.4.1.1-3
+=======
+### V0.4.3.3
+- [ ] Create Oracle Tables from content
+	- [ ] Forge Horizons
+	- [ ] Space Encounters Expanded
+	- [ ] Ancient Wonders
+- [ ] Add guidance and in-line rollers to paginated oracles
+	- [ ] Forge Horizons
+	- [ ] Space Encounters Expanded
+	- [ ] Ancient Wonders
+
+## Current Release
+
+### V0.4.3.2
+- [ ] Full Chapter Content Linking
+	- [x] Forge Horizons
+	- [x] Space Encounters Expanded
+	- [ ] Ancient Wonders (paused at chapter 3)
+- [ ] Paginated Text and Oracles tables linked to references (e.g. Descriptor +  Focus). Page references removed
+	- [x] Forge Horizons
+	- [x] Space Encounters Expanded
+	- [ ] Ancient Wonders (paused at chapter 3)
+- [ ] Ironsworn Loadstar
+	- [ ] Phase 1 of full chapter imports
+		- [x] Chapter 1 - Moves
+		- [ ] Chapter 2 - Gameplay
+		- [ ] Chapter 3 - Oracles
+
+## Completed Changes
+
+### V0.4.3.1
+Number of files : 1029
+Committed files : 574
+- [x] Initial pagination of Community Content
+	- [x] Forge Horizons
+	- [x] Space Encounters Expanded
+	- [x] Ancient Wonders
+- [x] Metadata consistency applied to paginated content
+	- [x] Forge Horizons
+	- [x] Space Encounters Expanded
+	- [x] Ancient Wonders
+- [x] Various typo and formatting changes
+- [x] Removed 'Pedia' tag from asset files
+- [x] Add next chapter links to all Full Chapter content
+- [x] Added Ancient Wonder token images
+
+### V0.4.3
+Number of files : 846
+- [x] Added Forge Horizons community content (full page)
+- [x] Added Space Sightings Expanded content (full page)
+- [x] Added Ancient Wonders content (full page per chapter)
+
+### V0.4.2.1
+- [x] Remove tags and normalize non-conforming pages to match tagging standards.
+	- [x] Pedia tag retained on Assets index pages, as these pages are universal for all content
+- [x] Completed roll sheets for Sundered Ilses and Starsmith Oracles
+	- [x] For campaign oracles, also add the relevant subjects to the main oracle rollers. (e.g. Oracles from Character creation would be included on both "Creation" and "Character" rollers. On Character, it would be in the "details" section at the bottom)
+- [x] Various formatting and fixes to Oracles and Roll table pages
+
+### V0.4.2
+- [x] Oracle tables / rollers revamp
+	- [x] Change for full 1 - 100 results to use look up rollers
+	- [x] Build tables for Starsmith Oracles
+	- [x] Build tables for any non-oracle overlooked content
+	- [x] Add oracle rollers to Oracle pages within the "Guidance" call out
+	- [x] Add oracle rollers to Moves and Source material tables
+- [x] Starsmith Oracles
+    - [x] Revise structure of tables to match SF / SI style
+	- [x] Shorten length of block callouts for abbreviated linking
+	- [x] Match H1 headings with SF/SI breadcrumb structure
+	- [x] Section contents page alignment to SF/SI structure
+	- [x] Tags Previous / Next links note source in parenthesis, remove "Pedia" tags
+	- [x] Pad "-" in tables with spaces
+	- [x] Refactor Oracle and other table to add roller to listed tables, linked to Oracle Tables
+	- [x] In table / guidance block identifiers remove "Ocl" and any other identifier already in file name
+- [x] Sundered Isles
+	- [x] Oracle pages: add arrows to both >Action + >Theme, etc.
+	- [x] In table / guidance block identifiers remove "Ocl" and any other identifier already in file name
+- [x] In all OT sections, decide if table links should go to Source material pages or to OT tables
+	- [x] Starforged = Source > Transition to OT
+	- [x] Starsmith = Source > Transition to OT
+	- [x] Sundered Isles = Oracle Tables
+- [x] Oracle Roll Sheets
+	- [x] Clean up Starforged dice and table links
+
+### V0.4.1.4
+- [x] Sundered Isles
+	- [x] Added Oracle Table pages for automated oracle rolls using dice roller
+	- [x] Refactored Oracles pages to use new Oracle Tables
+	- [x] Added rollers to Campaign / Character creation, added corresponding OT Campaign page
+	- [x] First pass at refining Starsmith Oracle content
+	- [x] Typos and formatting changes as inconsistencies found.
+
+### V0.4.1.1-3
+>>>>>>> Stashed changes
 - [x] Restructure to Index page for new Sundered Isles content
 	- [x] Added cover pictures of the two main source books
 - [x] Re-work on Starforged material to match style of Sundered Isles material

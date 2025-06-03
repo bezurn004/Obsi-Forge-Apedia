@@ -24,7 +24,7 @@ Create campaign's here
 
 # Resources
 ## [[_Rollers_Index|Oracle Roll Sheets]]
-Utilize the to generate results from Obsidian Starforged play through.
+Utilize these to generate results from Oracles throughout the source materials.e
 
 ## Templates
 View and modify templates here for use in playing the game.
