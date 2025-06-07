@@ -21,7 +21,7 @@ Oracle: Machine
 OracleFocus: Creation
 OracleDescriptor: "Start to build a machine character for your story"
 ---
-# [[_FRGHZ\|Forge Horizons]] - [[_FRGHZ_CH2_Oracles|Oracles]]: Machine Creation
+# [[_Forge Horizons|Forge Horizons]] - [[_FRGHZ_CH2_Oracles|Oracles]]: Machine Creation
 
 ## Oracle: Environment
 If you know where this machine is, you can skip this step, otherwiseroll for where the machine is found, or is designed to operate in.
@@ -47,7 +47,7 @@ If you know where this machine is, you can skip this step, otherwiseroll for whe
 | 51 - 70 | Medium (person-sized) |
 | 71 - 90 | Large (vehicle-sized) |
 | 91 - 95 | Huge (starship-sized) |
-| 96 - 100 | Ultra scale (roll below) |
+| 96 - 100 | ▶[[#Oracle Ultra Scale\|Ultra scale]] (roll below) |
 ^table-Scale
 
 ## Oracle: Ultra Scale

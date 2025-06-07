@@ -11,7 +11,7 @@ PageType: Oracle
 PageCategory: Index
 PageOrder: 6
 ---
-# [[_FRGHZ\|Forge Horizons]]: Oracles
+# [[_Forge Horizons|Forge Horizons]]: Oracles
 
 
 > ## CONTENTS
@@ -52,6 +52,6 @@ PageOrder: 6
 ## Tags
 | Previous Section | Tags | Topic Index | 
 | :--- | :---: | ---: |
-| **[[_FRGHZ_CH1_Episodes\|Episodes (Forge Horizons)]]** | #ForgeHorizons/Oracles | **[[_FRGHZ\|Forge Horizons]]** |
+| **[[_FRGHZ_CH1_Episodes\|Episodes (Forge Horizons)]]** | #ForgeHorizons/Oracles | **[[_Forge Horizons\|Forge Horizons]]** |
 
 <font size=-2>Forge Horizons is created by Michael Elliott and licensed for use under the Creative Commons Attribution 4.0 International License (CC-BY). Work is permitted by author for use in this collection of materials.</font>

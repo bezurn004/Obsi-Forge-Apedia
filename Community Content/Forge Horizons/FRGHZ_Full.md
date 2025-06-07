@@ -1,4 +1,4 @@
-> ## [[_FRGHZ|FORGE HORIZONS]]
+> ## [[_Forge Horizons|FORGE HORIZONS]]
 > ### A STARFORGED FAN SUPPLEMENT
 
 Alternate episodic rules for solo play and one-shots, as well as 24+ addition oracles for machines, supernatural horrors, precursors, and city-planets.
@@ -61,8 +61,7 @@ Forge Horizons is a series of oracles and optional rules for the Ironsworn Starf
 
 **Episodic adventures** are alternative rules for starting the game. They get your character into the action quickly and allow you to discover regions of the Forge and it’s truths through play. Instead of doing all the world-building up front, you take your character and put them in the middle of an adventure already in progress. Each session is broken down into bite-sized moments where you’ll generate a random location, inhabitants, and an action scene that will propel the story forward. This will give your Starforged game a more episodic feel, with larger threats and themes evolving from play over time. You can also use this system to set up a situation for a one-shot with guided or co-operative play.
 
-**Ecumenopolis planets and oracles** let you generate planets covered by settlements, city infrastructure, and millions of inhabitants. This planet type is for versions of the Forge that are
-more populous if you want your game to more closely resemble stories like Star Wars, Firefly, or Foundation.
+**Ecumenopolis planets and oracles** let you generate planets covered by settlements, city infrastructure, and millions of inhabitants. This planet type is for versions of the Forge that are more populous if you want your game to more closely resemble stories like Star Wars, Firefly, or Foundation.
 
 **Oracles for machines, supernatural horrors, and precursors** let you add further challenges and exciting developments to your Starforged game. Machine oracles let you add random automatons, bot companions, or even nanomachine swarms. Oracles for supernatural threats give you details for all the horrors that may exist in the dark shadows of the Forge. Finally, precursor tables help you imagine the remains of these ancient aliens, and may even lead you
 to some of the last living precursors in the Forge.
@@ -76,9 +75,9 @@ When playing using the episodic adventures rules, skip creating truths, a starti
 
 | | |
 | --- | --- |
-| ![[hexagon_white_num_1.svg\|30]] | LOCATION<br>Generate a region and specific place in the Forge |
-| ![[hexagon_white_num_2.svg\|30]] | CHARACTERS<br>Generate inhabitants and non-player characters
-| ![[hexagon_white_num_3.svg\|30]] | DRAMA<br>Generate actions that propel and start the episode |
+| ![[hexagon_white_num_1.svg\|30]] | [[#Location\|LOCATION]]<br>Generate a region and specific place in the Forge |
+| ![[hexagon_white_num_2.svg\|30]] | [[#Characters\|CHARACTERS]]<br>Generate inhabitants and non-player characters
+| ![[hexagon_white_num_3.svg\|30]] | [[#Drama\|DRAMA]]<br>Generate actions that propel and start the episode |
 
 You’ll need some oracles from Starforged to define some of these details, so make sure you have those on hand as well. Any time an oracle in Starforged is referenced you will see it underlined like this.
 
@@ -97,14 +96,14 @@ Then roll for a primary location based on your region. This is where the majorit
 
 | Terminus | Outlands | Expanse | Void | Result |
 | :---: | :---: | :---: | :---: | --- |
-| 1-20 | 1-15 | 1-10 | 1-5 | Settlement |
-| 21-40 | 16-35 | 11-15 | 6-10 | Planet |
-| 41-55 | 36-50 | 16-25 | 11-20 | Location |
-| 56-70 | 51-70 | 26-40 | 21-30 | Starship |
-| 71-80 | 71-75 | 41-60 | 31-45 | Stellar object |
-| 81-90 | 76-85 | 61-80 | 46-65 | Derelict |
-| 91-95 | 86-95 | 81-95 | 66-85 | Precursor vault |
-| 96-100 | 96-100 | 96-100 | 86-100 | Descriptor + Focus |
+| 1-20 | 1-15 | 1-10 | 1-5 | ▶[[SF_CH5_Settle-Creation\|Settlement]] |
+| 21-40 | 16-35 | 11-15 | 6-10 | ▶[[_SF_CH5_Planets#Planetary Class\|Planet]] |
+| 41-55 | 36-50 | 16-25 | 11-20 | ▶[[_SF_CH5_LocationThemes#Oracle Location Theme Type\|Location]] |
+| 56-70 | 51-70 | 26-40 | 21-30 | ▶[[SF_CH5_Starship-Creation\|Starship]] |
+| 71-80 | 71-75 | 41-60 | 31-45 | ▶[[SF_CH5_Stellar-Object#Oracle Stellar Object\|Stellar Object]] |
+| 81-90 | 76-85 | 61-80 | 46-65 | ▶[[SF_CH5_Derelict_Create\|Derelict]] |
+| 91-95 | 86-95 | 81-95 | 66-85 | ▶[[SF_CH5_Vault-Exterior\|Precursor Vault]] |
+| 96-100 | 96-100 | 96-100 | 86-100 | ▶[[SF_CH5_Core_Descriptor-Focus#Oracle Descriptor\|Descriptor]] + ▶[[SF_CH5_Core_Descriptor-Focus#Oracle Focus\|Focus]] |
 
 *Page 6 - [[#^TOC|TOC]]*
 
@@ -113,14 +112,15 @@ Roll 1-2 times for characters based on your location using the oracle below. Thi
 
 | Terminus | Outlands | Expanse | Void | Result |
 | :---: | :---: | :---: | :---: | --- |
-| 1-20 | 1-15 | 1-10 | 1-5 | Faction |
-| 21-40 | 16-35 | 11-15 | 6-10 | Person |
-| 41-55 | 36-50 | 16-25 | 11-20 | Starship |
-| 56-70 | 51-70 | 26-40 | 21-30 | Creature |
-| 71-80 | 71-75 | 41-60 | 31-45 | Machine (p. 15) |
+| 1-20 | 1-15 | 1-10 | 1-5 | ▶[[SF_CH5_Faction-Types\|Faction]] |
+| 21-40 | 16-35 | 11-15 | 6-10 | ▶[[SF_CH5_Character-Approach\|Person]] |
+| 41-55 | 36-50 | 16-25 | 11-20 | ▶[[SF_CH5_Starship-Creation\|Starship]] |
+| 56-70 | 51-70 | 26-40 | 21-30 | ▶[[SF_CH5_Creature-Environment-Scale\|Creature]] |
+| 71-80 | 71-75 | 41-60 | 31-45 | ▶[[#MACHINE ORACLES\|Machine]] (p. 15) |
 | 81-90 | 76-85 | 61-80 | 46-65 | You are alone |
-| 91-95 | 86-95 | 81-95 | 66-85 | Supernatural (p. 20) |
-| 96-100 | 96-100 | 96-100 | 86-100 | Precursor (p. 24) |
+| 56-70 | 51-70 | 26-40 | 21-30 | ▶[[SF_CH5_Creature-Environment-Scale\|Creature]] |
+| 91-95 | 86-95 | 81-95 | 66-85 | ▶[[#SUPERNATURAL ORACLES\|Supernatural]] (p. 20) |
+| 96-100 | 96-100 | 96-100 | 86-100 | ▶[[#PRECURSOR ORACLES\|Precursor]] (p. 24) |
 
 *Page 7 - [[#^TOC|TOC]]*
 
@@ -142,29 +142,29 @@ A location and characters might be enough for you to know what is happening this
 | 41-44 | Exploding | 89-92 | Stabbing |
 | 45-48 | Falling | 93-100 | Stealing |
 
-If you’re still unsure about what is happening this episode, roll on the Action + Theme table in Starforged to help you determine what your character is trying to accomplish. Lastly, Swear an Iron Vow to represent your character’s goal this episode. Episodic adventures work best with troublesome or dangerous vows. Save your epic and extreme vows for when your character finds something worthy for a background vow that will take an entire campaign to accomplish.
+If you’re still unsure about what is happening this episode, roll on the Action + Theme table in Starforged to help you determine what your character is trying to accomplish. Lastly, [[SF_CH3_Swear an Iron Vow|Swear an Iron Vow]] to represent your character’s goal this episode. Episodic adventures work best with troublesome or dangerous vows. Save your epic and extreme vows for when your character finds something worthy for a background vow that will take an entire campaign to accomplish.
 
 *Page 8 - [[#^TOC|TOC]]*
 
 ## Examples
 > ### STARTING A CAMPAIGN
-> Michelle sits down to play Ironsworn Starforged. She doesn’t wantto define all her truths and parts of the setting before hand, she justwants to get into the action and play. She uses the episodicadventures procedure to do this after she makes her character.
+> Michelle sits down to play Ironsworn Starforged. She doesn’t want to define all her truths and parts of the setting before hand, she justwants to get into the action and play. She uses the episodicadventures procedure to do this after she makes her character.
 >
-> First she gets Outlands (32) for a region and then a Location (42) fora specific place. She finds the Location oracle in the Starforged rulebook and rolls 81, the location is a ruined place. Oh, interesting! Next she rolls for characters and gets Supernatural (90). She makes a note to find that oracle in this supplement to detail that entity when she needs to.
+> First she gets [[#Location|Outlands]] (32) for a region and then a Location (42) for a specific place. She finds the [[_SF_CH5_LocationThemes#Oracle Location Theme Type|Location]] oracle in the Starforged rulebook and rolls 81, the location is a ruined place. Oh, interesting! Next she rolls for [[#Characters|characters]] and gets Supernatural (90). She makes a note to find [[#SUPERNATURAL ORACLES|that oracle]]  in this supplement to detail that entity when she needs to.
 >
-> Finally Michelle rolls for drama and gets Hunting (66). Maybe her character is hunting this supernatural horror? But why? She decidesto roll on the Action + Theme oracle in Starforged and gets a 13 and99, “Betray Passage.” Oh, her character is hunting this undead horror because in life it knew a secret passage through the Forge!What is this passage? Where does it lead? Michelle gets ready tomake the Swear an Iron Vow move to answer these questions.
+> Finally Michelle rolls for [[#Drama|drama]] and gets Hunting (66). Maybe her character is hunting this supernatural horror? But why? She decides to roll on the [[SF_CH5_Core_Action-Theme#Oracle Action|Action]] + [[SF_CH5_Core_Action-Theme#Oracle Theme|Theme]] oracle in Starforged and gets a 13 and99, “Betray Passage.” Oh, her character is hunting this undead horror because in life it knew a secret passage through the Forge! What is this passage? Where does it lead? Michelle gets ready to make the [[SF_CH3_Swear an Iron Vow|Swear an Iron Vow]] move to answer these questions.
 
 > ### MIDDLE OF A CAMPAIGN
-> Sara is playing a daring thief who has already had her fair share orheists and close calls in the Forge. She has a spare hour and wantsto see what her character might be up to, so she grabs her dice.
+> Sara is playing a daring thief who has already had her fair share or heists and close calls in the Forge. She has a spare hour and wants to see what her character might be up to, so she grabs her dice.
 >
-> First she gets a location. A result of 03 and 16 puts her character inTerminus in a settlement. She consults the Starforged oracles forsettlements and rolls a 99. It’s a settlement of tens of thousands, soit’s pretty big. She then rolls for two characters and gets a 50 and 47. Both starships, oh! Sara knows what’s happening her characterstole a ship and is being pursued by another! She’s ready to go!
+> First she gets a [[#Location|location]]. A result of 03 and 16 puts her character in Terminus in a settlement. She consults the Starforged oracles for [[SF_CH5_Settle-Creation|settlements]] and rolls a 99. It’s a settlement of tens of thousands, so it’s pretty big. She then rolls for two [[#Characters|characters]] and gets a 50 and 47. Both starships, oh! Sara knows what’s happening her character stole a ship and is being pursued by another! She’s ready to go!
 
 *Page 9 - [[#^TOC|TOC]]*
 
 # ECUMENOPOLIS
-A planet completely covered in artificial structures, industrialization,and multi-level settlements. When playing Starforged and rolling for a planet, if you get doubles, make that planet an ecumenopolis.
+A planet completely covered in artificial structures, industrialization, and multi-level settlements. When playing Starforged and rolling for a planet, if you get doubles, make that planet an ecumenopolis.
 
-Sample Names: Atlas, Beacon, Colossus, Darja, Eclipse, Firmament,Fundament, Imperialis, Kantor, Koschei, Marrow, Monarch, NewTerra, Prime, Spires, Tabula, The Throne, Titan, Trantor, Vaddan
+Sample Names: Atlas, Beacon, Colossus, Darja, Eclipse, Firmament, Fundament, Imperialis, Kantor, Koschei, Marrow, Monarch, NewTerra, Prime, Spires, Tabula, The Throne, Titan, Trantor, Vaddan
 
 ## ATMOSPHERE
 
@@ -200,7 +200,7 @@ Sample Names: Atlas, Beacon, Colossus, Darja, Eclipse, Firmament,Fundament, Impe
 | 11-20 | Cloud-breaching structures | 61-70 | Planetary shield |
 | 21-30 | Clouds of Pollution | 71-80|  Populated moon |
 | 31-40 | Dense satellite field | 81-90 | Space elevators |
-| 41-50 | Dry lake beds | 91-100 | Descriptor + Focus |
+| 41-50 | Dry lake beds | 91-100 | ▶[[SF_CH5_Core_Descriptor-Focus#Oracle Descriptor\|Descriptor]] + ▶[[SF_CH5_Core_Descriptor-Focus#Oracle Focus\|Focus]] |
 
 ## PLANETSIDE FEATURE
 (Roll 1-2 times)
@@ -213,14 +213,14 @@ Sample Names: Atlas, Beacon, Colossus, Darja, Eclipse, Firmament,Fundament, Impe
 | 22-28 | Flooded cities | 71-77 | Sea walls |
 | 29-35 | Sky trains | 78-84 | Sprawling slums |
 | 36-42 | Megacorporations | 85-91 | Street gangs |
-| 43-49 | Mountainous junkyards | 91-100 | Descriptor + Focus |
+| 43-49 | Mountainous junkyards | 91-100 | ▶[[SF_CH5_Core_Descriptor-Focus#Oracle Descriptor\|Descriptor]] + ▶[[SF_CH5_Core_Descriptor-Focus#Oracle Focus\|Focus]] |
 
 *Page 11 - [[#^TOC|TOC]]*
 
 ## Random City Complications
 When you’re on an ecumenopolis planet and roll doubles on the challenge dice, or if you need a new obstacle or challenge for your adventures on that same sort of planet, roll once on the table below.
 
-This oracle can also be used in place of the Pay the Price table when you’re on an ecumenopolis planet.
+This oracle can also be used in place of the [[SF_CH3_Pay the Price|Pay the Price]] table when you’re on an ecumenopolis planet.
 
 |  |  |  |  |
 | :---: | --- | :---: | --- |
@@ -240,7 +240,7 @@ This oracle can also be used in place of the Pay the Price table when you’re o
 *Page 12 - [[#^TOC|TOC]]*
 
 ## City Names
-When you are on an ecumenopolis planet and need a name for aperson, business, or part of the city, roll on these tables for a prefix(first part) and suffix (second part) to make a name.
+When you are on an ecumenopolis planet and need a name for a erson, business, or part of the city, roll on these tables for a prefix (first part) and suffix (second part) to make a name.
 
 ## City Names Prefix
 
@@ -324,7 +324,7 @@ If you know where this machine is, you can skip this step, otherwiseroll for whe
 | 1-10 | Nano (microscopic) | 51-70 | Medium (person-sized) |
 | 11-20 | Minuscule (battery-sized) | 71-90 | Large (vehicle-sized) |
 | 21-35 | Tiny (cell phone-sized) | 91-95 | Huge (starship-sized) |
-| 36-50 | Small (car engine-sized) | 96-100 | Ultra scale (roll below) |
+| 36-50 | Small (car engine-sized) | 96-100 | ▶[[#ULTRA SCALE\|Ultra scale]] (roll below) |
 
 ## ULTRA SCALE
 
@@ -473,7 +473,7 @@ Supernatural horrors are found in the shadows of the Forge, in ruins, voids, and
 | 41-45 | Phases through matter | 91-95 | Time travel |
 | 46-50 | Possession | 96-100 | Weather control |
 
-*Page 20*
+*Page 20 - [[#^TOC|TOC]]*
 
 ## SUPERNATURAL ALTERATIONS
 (Roll 1-2 times)
@@ -563,13 +563,13 @@ Those few specimens that remain from their ancient civilizations that stretched 
 
 ## PRECURSOR LOCATION
 
-If you don’t already have a location for the precursor, roll once onthe table below, and then consult the related oracle in Starforged.
+If you don’t already have a location for the precursor, roll once on the table below, and then consult the related oracle in Starforged.
 
 |  |  |  |  |
 | :---: | --- | :---: | --- |
-| 1-16 | Buried under a Settlement | 49-64 | Locked in a Precursor Vault |
-| 17-32 | Hidden in a Location | 65-80 | On a Grave World |
-| 33-48 | Inside a Derelict | 81-100 | Orbiting a Stellar Object |
+| 1-16 | Buried under a ▶[[SF_CH5_Settle-Creation\|Settlement]] | 49-64 | Locked in a ▶[[SF_CH5_Vault-Exterior\|Precursor Vault]] |
+| 17-32 | Hidden in a ▶[[_SF_CH5_LocationThemes#Oracle Location Theme Type\|Location]] | 65-80 | On a ▶[[SF_CH5_Planet-Grave\|Grave World]] |
+| 33-48 | Inside a ▶[[SF_CH5_Derelict_Create\|Derelict]] | 81-100 | Orbiting a ▶[[SF_CH5_Stellar-Object#Oracle Stellar Object\|Stellar Object]] |
 
 ## PRECURSOR STATE
 This defines the condition of the precursor you encounter.
@@ -679,4 +679,4 @@ These possessions and incredible devices are found with the precursor, either he
 
 *Page 27 - [[#^TOC|TOC]]*
 
-# [[_FRGHZ|FORGE HORIZONS]]
+# [[_Forge Horizons|FORGE HORIZONS]]

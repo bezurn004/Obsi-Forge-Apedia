@@ -18,7 +18,7 @@ Oracle: "Precursor Beings"
 OracleFocus: Details
 OracleDescriptor: "Flesh out the details of the Precursor Being for the story"
 ---
-# [[_FRGHZ\|Forge Horizons]] - [[_FRGHZ_CH2_Oracles|Oracles]]: Precursor Details
+# [[_Forge Horizons|Forge Horizons]] - [[_FRGHZ_CH2_Oracles|Oracles]]: Precursor Details
 
 ## Oracle: Precursor Aspects
 (Roll 1-2 times)
@@ -88,6 +88,6 @@ These possessions and incredible devices are found with the precursor, either he
 ## Tags
 | Previous Page | Tags | Topic Index |
 | :--- | :---: | ---: |
-| **[[FRGHZ_CH2_Precursor-Beings\|Precursor - Beings (Forge Horizons)]]** | #ForgeHorizons/Oracles | **[[_FRGHZ\|Forge Horizons]]** |
+| **[[FRGHZ_CH2_Precursor-Beings\|Precursor - Beings (Forge Horizons)]]** | #ForgeHorizons/Oracles | **[[_Forge Horizons\|Forge Horizons]]** |
 
 <font size=-2>Forge Horizons is created by Michael Elliott and licensed for use under the Creative Commons Attribution 4.0 International License (CC-BY). Work is permitted by author for use in this collection of materials.</font>

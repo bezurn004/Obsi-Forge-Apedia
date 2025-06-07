@@ -22,7 +22,8 @@ Oracle: Ecumenopolis
 OracleFocus: Creation
 OracleDescriptor: "Begin to build a planet-sprawling city in your story"
 ---
-# [[_FRGHZ\|Forge Horizons]] - [[_FRGHZ_CH2_Oracles|Oracles]]: Ecumenopolis Creation
+# [[_Forge Horizons|Forge Horizons]] - [[_FRGHZ_CH2_Oracles|Oracles]]: Ecumenopolis Creation
+A planet completely covered in artificial structures, industrialization, and multi-level settlements. When playing Starforged and rolling for a planet, if you get doubles, make that planet an ecumenopolis.
 
 ## Oracle: Atmosphere
 
@@ -71,7 +72,7 @@ OracleDescriptor: "Begin to build a planet-sprawling city in your story"
 | 61 - 70 | Planetary shield |
 | 71 - 80|  Populated moon |
 | 81 - 90 | Space elevators |
-| 91 - 100 | Descriptor + Focus |
+| 91 - 100 | ▶[[SF_CH5_Core_Descriptor-Focus#Oracle Descriptor\|Descriptor]] + ▶[[SF_CH5_Core_Descriptor-Focus#Oracle Focus\|Focus]] |
 ^table-Observed-From-Space
 
 ## Oracle: Planetside Feature
@@ -91,7 +92,7 @@ OracleDescriptor: "Begin to build a planet-sprawling city in your story"
 | 71 - 77 | Sea walls |
 | 78 - 84 | Sprawling slums |
 | 85 - 91 | Street gangs |
-| 91 - 100 | Descriptor + Focus |
+| 91 - 100 | ▶[[SF_CH5_Core_Descriptor-Focus#Oracle Descriptor\|Descriptor]] + ▶[[SF_CH5_Core_Descriptor-Focus#Oracle Focus\|Focus]] |
 ^table-Planetside-Feature
 
 *Page 11*

@@ -19,7 +19,7 @@ Oracle: "Precursor Beings"
 OracleFocus: Creation
 OracleDescriptor: "Create a Precursor Being to introduce into the story"
 ---
-# [[_FRGHZ\|Forge Horizons]] - [[_FRGHZ_CH2_Oracles|Oracles]]: Precursor Beings
+# [[_Forge Horizons|Forge Horizons]] - [[_FRGHZ_CH2_Oracles|Oracles]]: Precursor Beings
 
 ## Oracle: Precursor Location
 
@@ -27,12 +27,12 @@ If you don’t already have a location for the precursor, roll once on the table
 
 | dice: 1d100 | Result |
 | :---: | --- |
-| 1 - 16 | Buried under a Settlement |
-| 17 - 32 | Hidden in a Location |
-| 33 - 48 | Inside a Derelict |
-| 49 - 64 | Locked in a Precursor Vault |
-| 65 - 80 | On a Grave World |
-| 81 - 100 | Orbiting a Stellar Object |
+| 1 - 16 | Buried under a ▶[[SF_CH5_Settle-Creation\|Settlement]] |
+| 17 - 32 | Hidden in a ▶[[_SF_CH5_LocationThemes#Oracle Location Theme Type\|Location]] |
+| 33 - 48 | Inside a ▶[[SF_CH5_Derelict_Create\|Derelict]] |
+| 49 - 64 | Locked in a ▶[[SF_CH5_Vault-Exterior\|Precursor Vault]] |
+| 65 - 80 | On a ▶[[SF_CH5_Planet-Grave\|Grave World]] |
+| 81 - 100 | Orbiting a ▶[[SF_CH5_Stellar-Object#Oracle Stellar Object\|Stellar Object]] |
 ^table-Location
 
 ## Oracle: Precursor State

@@ -16,7 +16,7 @@ Work is progressing to import community content from published material and cont
 > **[[_STRSM Oracles Index|Starsmith Oracles]]** [author: Eric Bright]
 > Many of the original Oracles from _Starforged_ have been expanded into arrays, greatly increasing the variety in results when making use of oracles to generate content.
 
-> **[[_FRGHZ|Forge Horizons]]** [author: Michael Elliott]
+> **[[_Forge Horizons|Forge Horizons]]** [author: Michael Elliott]
 > Alternate episodic rules for solo play and one-shots, as well as 24+ addition oracles for machines, supernatural horrors, precursors, and city-planets.
 
 > **[[_SPCST_EX|Space Sightings Expanded]]** [author: Samuel Rondón]

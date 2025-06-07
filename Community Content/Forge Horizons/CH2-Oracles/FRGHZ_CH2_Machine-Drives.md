@@ -18,7 +18,7 @@ Oracle: Machine/Mech
 OracleFocus: Drive
 OracleDescriptor: "Add the motivations for the machine character in your story"
 ---
-# [[_FRGHZ\|Forge Horizons]] - [[_FRGHZ_CH2_Oracles|Oracles]]: Machine Drives
+# [[_Forge Horizons|Forge Horizons]] - [[_FRGHZ_CH2_Oracles|Oracles]]: Machine Drives
 
 ## Oracle: Revealed Machine Aspect
 

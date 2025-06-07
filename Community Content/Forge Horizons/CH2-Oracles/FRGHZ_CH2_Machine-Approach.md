@@ -18,7 +18,7 @@ Oracle: Machine/Mech
 OracleFocus: Approach
 OracleDescriptor: "Add features to the Machine / Mech character in your story"
 ---
-# [[_FRGHZ\|Forge Horizons]] - [[_FRGHZ_CH2_Oracles|Oracles]]: Machine Approach
+# [[_Forge Horizons|Forge Horizons]] - [[_FRGHZ_CH2_Oracles|Oracles]]: Machine Approach
 
 ## Oracle: Machine Function
 Roll 1-2 times for the machine’s function to get a specific idea of it’s use, behaviors, and design.

@@ -19,7 +19,7 @@ Oracle: Supernatural
 OracleFocus: Creation
 OracleDescriptor: "Create a supernatural entity for the story"
 ---
-# [[_FRGHZ\|Forge Horizons]] - [[_FRGHZ_CH2_Oracles|Oracles]]: Supernatural Creation
+# [[_Forge Horizons|Forge Horizons]] - [[_FRGHZ_CH2_Oracles|Oracles]]: Supernatural Creation
 
 ## Oracle: Scale
 

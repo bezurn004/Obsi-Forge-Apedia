@@ -16,7 +16,7 @@ Oracle: Episodes
 OracleFocus: Story
 OracleDescriptor: "Paint the tone for the start of your episodic adventure"
 ---
-# [[_FRGHZ\|Forge Horizons]] - [[_FRGHZ_CH1_Episodes\|Episode]]: Drama
+# [[_Forge Horizons|Forge Horizons]] - [[_FRGHZ_CH1_Episodes\|Episode]]: Drama
 
 ## Oracle: Drama
 A location and characters might be enough for you to know what is happening this episode, especially if you’ve spent some time playing Starforged already. If that’s the case, **[[SF_CH3_Swear an Iron Vow|Swear an Iron Vow]]** and start your episode. But if you need inspiration or a prompt for what is happening when we cut to the action, use the table below for an action or condition. Combine this with your location and characters to imagine why this is all happening and what your character is doing.

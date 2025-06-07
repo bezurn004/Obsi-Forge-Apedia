@@ -18,7 +18,7 @@ Oracle: Supernatural
 OracleFocus: Drives
 OracleDescriptor: "Add motivations to the supernatural character being generated"
 ---
-# [[_FRGHZ\|Forge Horizons]] - [[_FRGHZ_CH2_Oracles|Oracles]]: Supernatural Drives
+# [[_Forge Horizons|Forge Horizons]] - [[_FRGHZ_CH2_Oracles|Oracles]]: Supernatural Drives
 
 ## Oracle: Revealed Supernatural Aspect
 

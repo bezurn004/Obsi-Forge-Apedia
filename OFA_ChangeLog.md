@@ -31,18 +31,19 @@ Number of Current Files
 	- [ ] Space Encounters Expanded
 	- [ ] Ancient Wonders
 
+## Current Release
+
 ### V0.4.3.2
 - [ ] Full Chapter Content Linking
-	- [ ] Forge Horizons
+	- [x] Forge Horizons
 	- [ ] Space Encounters Expanded
 	- [ ] Ancient Wonders
 - [ ] Paginated Text and Oracles tables linked to references (e.g. Descriptor +  Focus). Page references removed
-	- [ ] Forge Horizons
+	- [x] Forge Horizons
 	- [ ] Space Encounters Expanded
 	- [ ] Ancient Wonders
 
-## Current Release
-
+## Completed Changes
 ### V0.4.3.1
 Number of files : 1029
 Committed files : 574
@@ -58,8 +59,6 @@ Committed files : 574
 - [x] Removed 'Pedia' tag from asset files
 - [x] Add next chapter links to all Full Chapter content
 - [x] Added Ancient Wonder token images
-
-## Completed Changes
 
 ### V0.4.3
 Number of files : 846
