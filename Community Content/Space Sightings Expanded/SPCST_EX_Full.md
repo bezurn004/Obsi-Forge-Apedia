@@ -28,7 +28,7 @@ Copyright ©2023 Ludic Pen
 This work is based on *Ironsworn: Starforged*, created by Shawn Tomkin, and licensed for our use under the Creative Commons Attribution 4.0 International License.
 Made for the Starforged 2023 Jam, hosted by Kerys and Margot Hutton
 
-> # [[_SPCST_EX|Space Sightings Expanded - Contents]]
+> # [[_Space Sightings Expanded|Space Sightings Expanded - Contents]]
 > 
 > |  |  |
 > | --- | --- |
@@ -45,19 +45,20 @@ Made for the Starforged 2023 Jam, hosted by Kerys and Margot Hutton
 > |  |  |
 > | QUEST FRONT | [[#QUEST FRONT\|Page 26]] |
 > | - THE SUPPLICANT GOD | [[#THE SUPPLICANT GOD\|Page 28]] |
+^TOC
 
 # INTRODUCTION
 *Space Sightings Expanded* extends the results of the oracle present in *Ironsworn: Starforged*, the science fiction tabletop role-playing game by Shawn Tomkin. Even though the use of said game is encouraged, it is not needed to make use of this material.
 
 This supplement builds upon the natural wonders you might discover while voyaging through space, though they won’t be without their potential danger. Each oracle of this supplement intends to provide you with additional information to help flesh out any scenario and take on perilous quests in your travels amongst the stars.
 
-**If you are playing with *Ironsworn: Starforged***, you will notice that the results from the Space Sightings table (rulebook, pg 300; *Starforged Reference Guide*, pg 32), from ‘Debris field: Mineral’ to ‘Dense nebula cloud’, have been expanded to have their own associated oracles for a more detailed experience when encountering them.
+**If you are playing with *Ironsworn: Starforged***, you will notice that the results from the [[SF_CH5_Space-Sightings#Oracle Space Sighting|Space Sightings]] table (rulebook, pg 300; *Starforged Reference Guide*, pg 32), from ‘Debris field: Mineral’ to ‘Dense nebula cloud’, have been expanded to have their own associated oracles for a more detailed experience when encountering them.
 
-**If you are playing with an alternative system**, you will need to make use of any generator for stellar objects, planets, settlements, factions, and other concepts referred to within this supplement. The Descriptor and Focus oracles are unique to *Ironsworn: Starforged* and presented in the next pages spread.
+**If you are playing with an alternative system**, you will need to make use of any generator for stellar objects, planets, settlements, factions, and other concepts referred to within this supplement. The [[#DESCRIPTOR|Descriptor]] and [[#FOCUS|Focus]] oracles are unique to *Ironsworn: Starforged* and presented in the next pages spread.
 
-The approach taken in *Space Sightings Expanded* is to appeal to realism without sacrificing the fun of fictional implausibility. Some esoteric possibilities have been added for good measure. As indicated by *Ironsworn: Starforged*, you are not required to use the Space Sightings oracle on every waypoint of your journeys, but “only when you are inspired to inject uncertainty, danger, strangeness, or narrative potential into your story”. The goal is to experience compelling missions based on natural astral objects and make you live adventures worthy of sworn vows.
+The approach taken in *Space Sightings Expanded* is to appeal to realism without sacrificing the fun of fictional implausibility. Some esoteric possibilities have been added for good measure. As indicated by *Ironsworn: Starforged*, you are not required to use the [[#SPACE SIGHTINGS|Space Sightings]] oracle on every waypoint of your journeys, but “only when you are inspired to inject uncertainty, danger, strangeness, or narrative potential into your story”. The goal is to experience compelling missions based on natural astral objects and make you live adventures worthy of sworn vows.
 
-The following is the Space Sightings oracle from *Ironsworn: Starforged*.
+The following is the [[SF_CH5_Space-Sightings#Oracle Space Sighting|Space Sightings]] oracle from *Ironsworn: Starforged*.
 - The first page numbers, from ‘Debris field: Mineral’ to ‘Dense Nebula Cloud’, correspond to *Space Sightings Expanded*, the material in your hands.
 - The second page numbers, from ‘Stellar Object’ to ‘Descriptor + Focus’, correspond to the *Starforged Reference Guide*.
 - The third page numbers, from ‘Stellar Object’ to ‘Descriptor + Focus’, correspond to the *Ironsworn: Starforged* rulebook.
@@ -66,40 +67,40 @@ The following is the Space Sightings oracle from *Ironsworn: Starforged*.
 
 | Terminus | Outlands | Expanse | Result |
 | :---: | :---: | :---: | --- |
-| 1–15 | 1–15 | 1–15 | >Stellar Object; pg 34 / pg 303 |
-| 16–35 | 16–35 | 16–35 | >Planet; pg 38 / pg 306 |
-| 36–40 | 36–38 | 36–37 | >Settlement; pg 54 / pg 322 |
-| 41–47 | 39–43 | 38–39 | >Starship; pg 58 / pg 326 |
-| 48–51 | 44–46 | 40–41 | >Derelict; pg 80 / pg 348 |
-| 52–53 | 47–49 | 42–45 | >Precursor Vault; pg 92 / pg 360 |
-| 54–55 | 50–52 | 46–49 | >Creature; pg 68 / pg 336 |
-| 56–60 | 53–58 | 50–56 | >Descriptor + Focus; pg 8-9 / pg 30-31 / pg 298-299 |
-| 61–65 | 59–63 | 57–61 | >Debris field: Mineral asteroids; pg 12 |
-| 66–68 | 64–66 | 62–64 | >Debris field: Frozen asteroids; pg 12 |
-| 69–70 | 67–68 | 65–66 | >Debris field: Crystalline asteroids; pg 12 |
-| 71–72 | 69–70 | 67–68 | >Debris field: Creature boneyard; pg 12 |
-| 73–74 | 71–72 | 69–70 | >Debris field: Metallica wreckage; pg 12 |
-| 75–76 | 73–74 | 71–72 | >Large rogue asteroid; pg 14 |
-| 77–78 | 75–76 | 73–74 | >Comet with a tail of ionized gas; pg 16 |
-| 79–81 | 77–80 | 75–79 | >Fiery energy storm; pg 18 |
-| 82–83 | 81–82 | 80–81 | >Chaotic meteoroid storm; pg 20 |
-| 84–85 | 83–85 | 82–85 | >Turbulent gravitational wave; pg 22 |
-| 86–93 | 86–93 | 86–93 | >Dense nebula cloud; pg 24 |
+| 1–15 | 1–15 | 1–15 | ▶[[SF_CH5_Stellar-Object#Oracle Stellar Object\|Stellar Object]]; pg 34 / pg 303 |
+| 16–35 | 16–35 | 16–35 | ▶[[_SF_CH5_Planets#Planetary Class\|Planet]]; pg 38 / pg 306 |
+| 36–40 | 36–38 | 36–37 | ▶[[SF_CH5_Settle-Creation\|Settlement]]; pg 54 / pg 322 |
+| 41–47 | 39–43 | 38–39 | ▶[[SF_CH5_Starship-Creation\|Starship]]; pg 58 / pg 326 |
+| 48–51 | 44–46 | 40–41 | ▶[[SF_CH5_Derelict_Create\|Derelict]]; pg 80 / pg 348 |
+| 52–53 | 47–49 | 42–45 | ▶[[SF_CH5_Vault-Exterior\|Precursor Vault]]; pg 92 / pg 360 |
+| 54–55 | 50–52 | 46–49 | ▶[[SF_CH5_Creature-Environment-Scale\|Creature]]; pg 68 / pg 336 |
+| 56–60 | 53–58 | 50–56 | ▶[[#DESCRIPTOR\|Descriptor]] + ▶[[#FOCUS\|Focus]]; pg 8-9 / pg 30-31 / pg 298-299 |
+| 61–65 | 59–63 | 57–61 | ▶[[#MINERAL ASTEROIDS\|Debris field: Mineral asteroids]]; pg 12 |
+| 66–68 | 64–66 | 62–64 | ▶[[#FROZEN ASTEROIDS\|Debris field: Frozen asteroids]]; pg 12 |
+| 69–70 | 67–68 | 65–66 | ▶[[#CRYSTALLINE ASTEROIDS\|Debris field: Crystalline asteroids]]; pg 12 |
+| 71–72 | 69–70 | 67–68 | ▶[[#CREATURE BONEYARD\|Debris field: Creature boneyard]]; pg 12 |
+| 73–74 | 71–72 | 69–70 | ▶[[#METALLIC WRECKAGE\|Debris field: Metallica wreckage]]; pg 12 |
+| 75–76 | 73–74 | 71–72 | ▶[[#LARGE ROGUE ASTEROID\|Large rogue asteroid]]; pg 14 |
+| 77–78 | 75–76 | 73–74 | ▶[[#COMET WITH A TAIL OF IONIZED GASOF IONIZED GAS\|Comet with a tail of ionized gas]]; pg 16 |
+| 79–81 | 77–80 | 75–79 | ▶[[#FIERY ENERGY STORM\|Fiery energy storm]]; pg 18 |
+| 82–83 | 81–82 | 80–81 | ▶[[#CHAOTIC METEROID STORM\|Chaotic meteoroid storm]]; pg 20 |
+| 84–85 | 83–85 | 82–85 | ▶[[#TURBULENT GRAVITATIONAL WAVE\|Turbulent gravitational wave]]; pg 22 |
+| 86–93 | 86–93 | 86–93 | ▶[[#DENSE NEBULA CLOUD\|Dense nebula cloud]]; pg 24 |
 | 94–98 | 94–98 | 94–98 | Roll twice |
 | 99–100 | 99–100 | 99–100 | Roll three times |
 
-*6*
+*Page 6 - [[#^TOC]]*
 
 The following are important information concerning some aspects of how this supplement may interact with your narrative, as well as term clarifications for some concepts.
 
 ## ABOUT THE USE OF SPACE SIGHTINGS
 In order to give them narrative weight, it is encouraged to make many of these wonderous sightings permanent by marking them on your maps, notes, or within your narrative. The space sightings worth considering for permanence include sample names or have at least a confirmed settlement.
 
-> The Space Sightings table on the previous page is your nexus for envisioning the vistas and encounters of your spaceborne journeys. This is particularly useful for revealing what is in range when you reach an anchorage on an interstellar expedition. You can also use it to identify the destination or focus of a spaceborne quest.
+> The [[#SPACE SIGHTINGS|Space Sightings]] table on the previous page is your nexus for envisioning the vistas and encounters of your spaceborne journeys. This is particularly useful for revealing what is in range when you reach an anchorage on an interstellar expedition. You can also use it to identify the destination or focus of a spaceborne quest.
 > 
 > Since space is incomprehensibly vast and empty, don’t feel obligated to use the Space Sightings oracle for every waypoint on an interstellar journey. Instead, you may assume there is nothing of note and move on. Roll for a sighting only when you are inspired to inject uncertainty, danger, strangeness, or narrative potential into your story. Some of these results will be mundane, but others will lead to new wonders or hazards.
 > 
-> ==*Ironsworn: Starforged, page 301*==
+> ==*[[_SF_CH5_Space-Encounters|Ironsworn: Starforged, page 301]]*==
 
 ## ATMOSPHERE
 In *Space Sightings: Expanded* atmosphere is generally meant to indicate the presence of gases or fine dust particles, either free floating in space or in significant quantities, whether by happenstance, or as the by-product of some other process (this could also infer a more standard type of atmosphere should the object be large enough).
@@ -130,7 +131,7 @@ When you seek to resolve questions, discover details, reveal locations, determin
 | Likely | 75 or less |
 | Almost Certain | 90 or less |
 
-On a match, envision an extreme result or twist.On a match, envision an extreme result or twist.
+On a match, envision an extreme result or twist. On a match, envision an extreme result or twist.
 
 ## SECTOR
 An explorable area of space. In these, any number of space-based bodies or phenomena may be located, varying from stars and planets to all of the objects included, or referred to, within this supplement.
@@ -138,12 +139,12 @@ An explorable area of space. In these, any number of space-based bodies or pheno
 ## SETTLEMENT
 Buildings that house communities. *Space Sightings: Expanded* refers to settlements as either being ‘grounded’ or ‘orbital’.
 - A grounded settlement refers to one that exists upon a solid surface and is generally fixed in place.
-- An orbital settlement refers to one that is either in orbit of an object or in deep space nearby. When your roll result is an orbital settlement, **Ask the Oracle** (50/50) if it is in active orbit around a specific object; if it is not, the settlement is considered as being deep space.
+- An orbital settlement refers to one that is either in orbit of an object or in deep space nearby. When your roll result is an orbital settlement, **[[#ASK THE ORACLE|Ask the Oracle]]** (50/50) if it is in active orbit around a specific object; if it is not, the settlement is considered as being deep space.
 
 ## TENSION CLOCK
-An *Ironsworn: Starforged* mechanic (pg 238) that consists in setting a clock of 4, 6, 8 or 10 segments to represent a looming threat or escalating danger. The clock advances by 1 segment each time the player must pay a narrative cost or if there is some form of narrative complication. It can advance by 2 segments should the narrative or complication be especially dire.
+An *[[SF_CH3_Clocks_Tension|Ironsworn: Starforged]]* mechanic (pg 238) that consists in setting a clock of 4, 6, 8 or 10 segments to represent a looming threat or escalating danger. The clock advances by 1 segment each time the player must pay a narrative cost or if there is some form of narrative complication. It can advance by 2 segments should the narrative or complication be especially dire.
 
-*7*
+*Page 7 - [[#^TOC]]*
 
 ## DESCRIPTOR
 
@@ -175,7 +176,7 @@ An *Ironsworn: Starforged* mechanic (pg 238) that consists in setting a clock of
 | 24 | Corrupted | 49 | Grim | 74 | Perilous | 99 | Valuable |
 | 25 | Created | 50 | Guarded | 75 | Pillaged | 100 | Violent |
 
-*8*
+*Page 8 - [[#^TOC]]*
 
 ## FOCUS
 
@@ -207,11 +208,11 @@ An *Ironsworn: Starforged* mechanic (pg 238) that consists in setting a clock of
 | 24 | Dimension | 49 | Mechanism | 74 | Settlement | 99 | World |
 | 25 | Ecosystem | 50 | Message | 75 | Shelter | 100 | Wreckage |
 
-*9* 
+*Page 9 - [[#^TOC]]* 
 #missingArt _picture of two doors_
 # ORACLES: SPACE SIGHTINGS
-*10*
-*11*
+*Page 10*
+*Page 11*
 
 **SPACE SIGHTING**
 ## DEBRIS FIELDS
@@ -229,8 +230,8 @@ Sample Names: Forlorn Hope-12-MA-EO-D, Dream Catcher-02-FA-WI-C, Boundless Tide-
 | 67–81 | Non–Ferrous metal ores |
 | 82–91 | Precious metal ores |
 | 92–96 | Exotic ores |
-| 97–99 | >Descriptor + Focus; pg 8-9 |
-| 100 | >Precursor Vault (grounded); pg 92 |
+| 97–99 | ▶[[#DESCRIPTOR\|Descriptor]] + ▶[[#FOCUS\|Focus]]; pg 8-9 |
+| 100 | ▶[[SF_CH5_Vault-Exterior\|Precursor Vault]] (grounded); pg 92 |
 
 ### FROZEN ASTEROIDS
 
@@ -241,8 +242,8 @@ Sample Names: Forlorn Hope-12-MA-EO-D, Dream Catcher-02-FA-WI-C, Boundless Tide-
 | 67–81 | Solidified–Gas asteroids |
 | 82–91 | Mixed–Ice asteroids |
 | 92–96 | Exotic–Ice asteroids |
-| 97–99 | >Descriptor + Focus; pg 8-9 |
-| 100 | >Precursor Vault (grounded); pg 92 |
+| 97–99 | ▶[[#DESCRIPTOR\|Descriptor]] + ▶[[#FOCUS\|Focus]]; pg 8-9 |
+| 100 | ▶[[SF_CH5_Vault-Exterior\|Precursor Vault]] (grounded); pg 92 |
 
 ### CRYSTALLINE ASTEROIDS
 
@@ -253,8 +254,8 @@ Sample Names: Forlorn Hope-12-MA-EO-D, Dream Catcher-02-FA-WI-C, Boundless Tide-
 | 67–81 | Semi–Precious asteroids |
 | 82–91 | Precious asteroids |
 | 92–96 | Exotic crystalline asteroids |
-| 97–99 | >Descriptor + Focus; pg 8-9 |
-| 100 | >Precursor Vault (grounded); pg 92 |
+| 97–99 | ▶[[#DESCRIPTOR\|Descriptor]] + ▶[[#FOCUS\|Focus]]; pg 8-9 |
+| 100 | ▶[[SF_CH5_Vault-Exterior\|Precursor Vault]] (grounded); pg 92 |
 
 ### METALLIC WRECKAGE
 
@@ -263,10 +264,10 @@ Sample Names: Forlorn Hope-12-MA-EO-D, Dream Catcher-02-FA-WI-C, Boundless Tide-
 | 1–41 | Metallic Detritus |
 | 42–66 | Metallic Debris |
 | 67–76 | Destroyed settlement |
-| 77–91 | >Starship (wreck); pg 58 |
-| 92–96 | >Descriptor + Focus; pg 8-9 |
-| 97–99 | >Derelict; pg 80 |
-| 100 | >Precursor Vault (orbital); pg 92 |
+| 77–91 | ▶[[SF_CH5_Starship-Creation\|Starship]] (wreck); pg 58 |
+| 92–96 | ▶[[#DESCRIPTOR\|Descriptor]] + ▶[[#FOCUS\|Focus]]; pg 8-9 |
+| 97–99 | ▶[[SF_CH5_Derelict_Create\|Derelict]]; pg 80 |
+| 100 | ▶[[SF_CH5_Vault-Exterior\|Precursor Vault]] (orbital); pg 92 |
 
 ### CREATURE BONEYARD
 
@@ -277,10 +278,10 @@ Sample Names: Forlorn Hope-12-MA-EO-D, Dream Catcher-02-FA-WI-C, Boundless Tide-
 | 67–76 | Partially consumed carcass(es) |
 | 77–91 | Scavenged or processed carcass(es) |
 | 92–96 | Fresh carcass(es) |
-| 97–99 | >Descriptor + Focuss; pg 8-9 |
-| 100 | >Precursor Vault (orbital); pg 92 |
+| 97–99 | ▶[[#DESCRIPTOR\|Descriptor]] + ▶[[#FOCUS\|Focus]]s; pg 8-9 |
+| 100 | ▶[[SF_CH5_Vault-Exterior\|Precursor Vault]] (orbital); pg 92 |
 
-Roll on the >Creature Scale table (pg 68). Then, determine the numbers of remains or carcasses.
+Roll on the [[SF_CH5_Creature-Environment-Scale#Oracle Creature Scale|Creature Scale]] table (pg 68). Then, determine the numbers of remains or carcasses.
 
 ### DEBRIS FIELD DENSITY
 
@@ -292,11 +293,11 @@ Roll on the >Creature Scale table (pg 68). Then, determine the numbers of remain
 | 71–93 | Dense |
 | 94–100 | Bountiful |
 
-_**Oracle Quest:** A ==**>Faction**== has made contact and advise they have recieved reports of a ==**>Creature**== (medium size) that entered their ==**>Settlement**== located at ==**>Mineral Asteroids**==. The creature massacred the population. The faction believe that there are survivors and need assistance rescuing them. How do you intend to do so? What creature could be capable of such carnage?_
+_**Oracle Quest:** A ==**▶[[SF_CH5_Faction-Types|Faction]]**== has made contact and advise they have %% #typo wrong spelling%% recieved reports of a ==**▶[[SF_CH5_Creature-Environment-Scale\|Creature]]**== (medium size) that entered their ==**▶[[SF_CH5_Settle-Creation\|Settlement]]**== located at ==**▶[[#MINERAL ASTEROIDS|Mineral Asteroids]]**==. The creature massacred the population. The faction believe that there are survivors and need assistance rescuing them. How do you intend to do so? What creature could be capable of such carnage?_
 
-_**Oracle Quest:** While sojourning at ==**>Settlement**== in a ==**>Crystalline Asteroids**== field, a fight erupts between two ==**>Guilds**== over ones mistreatment of the others workers and the ‘illegal’ seizure of their equipment. How would you look into the matter more? What will you do if the allegations are true?_
+_**Oracle Quest:** While sojourning at ==**▶[[SF_CH5_Settle-Creation\|Settlement]]**== in a ==**▶[[#CRYSTALLINE ASTEROIDS|Crystalline Asteroids]]**== field, a fight erupts between two ==**▶[[SF_CH5_Faction-Types#Oracle Faction Guild|Guilds]]**== over ones mistreatment of the others workers and the ‘illegal’ seizure of their equipment. How would you look into the matter more? What will you do if the allegations are true?_
 
-*12*
+*Page 12 - [[#^TOC]]*
 
 ## LIFE
 
@@ -329,7 +330,7 @@ When you Resupply (or make an action to extract materials) at a debris field for
 
 If you take resources from a debris field claimed by another and get caught, envision the consequences.
 
-*13*
+*Page 13 - [[#^TOC]]*
 
 **SPACE SIGHTING**
 ## LARGE ROGUE ASTEROID
@@ -349,8 +350,8 @@ Sample Names: Achoront, Bhavandamota, Carum, Civates, Erinor, Floverk, Fortus, G
 | 56–66 | Impact trajectory |
 | 67–77 | Exotic composition |
 | 78–88 | Artificial origin |
-| 89–98 | >Descriptor + Focus; pg 8-9 |
-| 99–100 | >Precursor Vault (orbital); pg 92 |
+| 89–98 | ▶[[#DESCRIPTOR\|Descriptor]] + ▶[[#FOCUS\|Focus]]; pg 8-9 |
+| 99–100 | ▶[[SF_CH5_Vault-Exterior\|Precursor Vault]] (orbital); pg 92 |
 
 ### OBSERVED FROM NEARBY
 
@@ -369,8 +370,8 @@ Sample Names: Achoront, Bhavandamota, Carum, Civates, Erinor, Floverk, Fortus, G
 | 71–77 | Sensory interference |
 | 78–84 | Artificial landscapes |
 | 85–91 | Emenating signal |
-| 92–98 | >Descriptor + Focus; pg 8-9 |
-| 99–100 | >Precursor Vault (grounded); pg 92 |
+| 92–98 | ▶[[#DESCRIPTOR\|Descriptor]] + ▶[[#FOCUS\|Focus]]; pg 8-9 |
+| 99–100 | ▶[[SF_CH5_Vault-Exterior\|Precursor Vault]] (grounded); pg 92 |
 
 ### ASTEROID SIZE
 
@@ -409,28 +410,28 @@ Sample Names: Achoront, Bhavandamota, Carum, Civates, Erinor, Floverk, Fortus, G
 | -- | -- | -- | Multiple settlements |
 | -- | -- | -- | Settlements in conflict |
 
-_**Oracle Quest:** A ==**>Large Rogue Asteroid**== has had its trajectory altered through kinetic rockets to travel into a contested sector. It broadcasts a signal warning away trespassers while declaring its ownership by a local ==**>Faction**==. However, unusual interference distorts the message as well as your ships sensors when trying to take readings. Why is the sector contested? What motivation could there be to move such a large object?_
+_**Oracle Quest:** A ==**▶[[#LARGE ROGUE ASTEROID|Large Rogue Asteroid]]**== has had its trajectory altered through kinetic rockets to travel into a contested sector. It broadcasts a signal warning away trespassers while declaring its ownership by a local ==**▶[[SF_CH5_Faction-Types|Faction]]**==. However, unusual interference distorts the message as well as your ships sensors when trying to take readings. Why is the sector contested? What motivation could there be to move such a large object?_
 
-_**Oracle Quest:** What had been considered a comet due to its trail of flickering radiant lights has been discovered to be a ==**>Large Rogue Asteroid**==. The object is passing through a sector and reports indicate that the population of a nearby ==**>Settlement**== has vanished almost entirely. Those unaffected communities nearby claim the asteroid is to blame, that the lights themselves were the harbingers of the disappearences. How could the asteroid and the lights be responsible? Where have the missing population gone?_
+_**Oracle Quest:** What had been considered a comet due to its trail of flickering radiant lights has been discovered to be a ==**▶[[#LARGE ROGUE ASTEROID|Large Rogue Asteroid]]**==. The object is passing through a sector and reports indicate that the population of a nearby ==**▶[[SF_CH5_Settle-Creation\|Settlement]]**== has vanished almost entirely. Those unaffected communities nearby claim the asteroid is to blame, that the lights themselves were the harbingers of the %% #type misspelling %% disappearences. How could the asteroid and the lights be responsible? Where have the missing population gone?_
 
-*14*
+*Page 14 - [[#^TOC]]*
 
-When you discover a rogue asteroid with an impact trajectory, if it successfully impacts a planet, you may roll on the Asteroid Impact Outcomes table to convert the planets type.
+When you discover a rogue asteroid with an impact trajectory, if it successfully impacts a planet, you may roll on the [[#ASTEROID IMPACT OUTCOMES|Asteroid Impact Outcomes]] table to convert the planets type.
 
 ### ASTEROID IMPACT OUTCOMES
 
 | Huge<br>(Chicxulub-sized) | Massive<br>(city-sized) | Titanic<br>(continent-sized) | Colossal<br>(dwarf planet-sized) | Vast<br>(moon-sized) | Result |
 | :---: | :---: | :---: | :---: | :---: | --- |
-| 1–45 | 1–35 | 1–10 | -- | -- | Ice World |
-| 46-100 | 36-100 | 11–60 | 1–15 | -- | Grave World |
-| -- | -- | 61–100 | 16–65 | 1–20 | Furnace World |
-| -- | -- | -- | 66–100 | 21–100 | Shattered World |
+| 1–45 | 1–35 | 1–10 | -- | -- | ▶[[SF_CH5_Planet-Ice\|Ice World]] |
+| 46-100 | 36-100 | 11–60 | 1–15 | -- | ▶[[SF_CH5_Planet-Grave\|Grave World]] |
+| -- | -- | 61–100 | 16–65 | 1–20 | ▶[[SF_CH5_Planet-Furnace\|Furnace World]] |
+| -- | -- | -- | 66–100 | 21–100 | ▶[[SF_CH5_Planet-Shattered\|Shattered World]] |
 
 If your roll corresponds with (or is above on the oracle) the planets current type, either reroll until a suitable result is rolled or convert your planet type to the one below.
 
 Then, envision how the impact affects any life and settlements on that planet.
 
-*15*
+*Page 15 - [[#^TOC]]*
 
 **SPACE SIGHTING**
 ## COMET WITH A TAIL OF IONIZED GASOF IONIZED GAS
@@ -450,8 +451,8 @@ Sample Names: Archers Comet, Comet Bai-Stark, Comet Jen-Kade, Comet Okiro-Farin,
 | 56–66 | Iridescent appearance |
 | 67–77 | Otherwordly colouration |
 | 78–88 | Prophetic omen |
-| 89–98 | >Descriptor + Focus; pg 8-9 |
-| 99–100 | >Precursor Vault (orbital); pg 92 |
+| 89–98 | ▶[[#DESCRIPTOR\|Descriptor]] + ▶[[#FOCUS\|Focus]]; pg 8-9 |
+| 99–100 | ▶[[SF_CH5_Vault-Exterior\|Precursor Vault]] (orbital); pg 92 |
 
 ### OBSERVED FROM NEARBY
 
@@ -469,9 +470,9 @@ Sample Names: Archers Comet, Comet Bai-Stark, Comet Jen-Kade, Comet Okiro-Farin,
 | 64–70 | Kaleidoscopic visual distortions |
 | 71–77 | Fractal terrain |
 | 78–84 | Exotic particle interactions |
-| 85–91 | >Comet Debris Field |
-| 92–98 | >Descriptor + Focus; pg 8-9 |
-| 99–100 | >Precursor Vault (grounded); pg 92 |
+| 85–91 | [[#COMET DEBRIS FIELD\|▶Comet Debris Field]] |
+| 92–98 | ▶[[#DESCRIPTOR\|Descriptor]] + ▶[[#FOCUS\|Focus]]; pg 8-9 |
+| 99–100 | [[SF_CH5_Vault-Exterior\|▶Precursor Vault]] (grounded); pg 92 |
 
 ### ATMOSPHERE
 
@@ -507,17 +508,17 @@ Sample Names: Archers Comet, Comet Bai-Stark, Comet Jen-Kade, Comet Okiro-Farin,
 | 56–80 | Mineral meteoroids |
 | 81–92 | Frozen meteoroids |
 | 93–98 | Exotic meteoroids |
-| 99–100 | >Metallica Wreackage; pg 12 |
+| 99–100 | ▶[[#METALLIC WRECKAGE\|Metallica Wreackage]]; pg 12 |
 
-_**Oracle Quest:** You overhear a conversation between two men. They found a sealed entrance that seemed to lead inside of the recently sighted ==**>Comet With a Tail of Ionized Gas**==. Both are convinced that ==**>Descriptor**== + ==**Focus**== is likely just on the other side. What obstacles will you face to reach this objective? Why is this important to you?_
+_**Oracle Quest:** You overhear a conversation between two men. They found a sealed entrance that seemed to lead inside of the recently sighted ==**▶[[#COMET WITH A TAIL OF IONIZED GASOF IONIZED GAS|Comet With a Tail of Ionized Gas]]**==. Both are convinced that ==**▶[[#DESCRIPTOR|Descriptor]]**== + ==**▶[[#FOCUS|Focus]]**== is likely just on the other side. What obstacles will you face to reach this objective? Why is this important to you?_
 
-_**Oracle Quest:** ==**>Character Name**== lets you know that in order to complete your mission to ==**>Action**== + ==**Theme**== you must travel to ==**>Comet With a Tail of Ionized Gas**==. What do you think his motives are behind giving you this information? What part does the comet play in completing your mission?_
+_**Oracle Quest:** ==**▶[[SF_CH5_Character-Names|Character Name]]**== lets you know that in order to complete your mission to ==**▶[[SF_CH5_Core_Action-Theme#Oracle Action|Action]]**== + ==**▶[[SF_CH5_Core_Action-Theme#Oracle Theme|Theme]]**== you must travel to ==**>Comet With a Tail of Ionized Gas**==. What do you think his motives are behind giving you this information? What part does the comet play in completing your mission?_
 
-*16*
+*Page 16 - [[#^TOC]]*
 
-Throughout history many have seen passing comets as heralds of things to come, positive or negative. The galaxy’s current residents are no different in this respect. When you discover a comet with a tail of ionized gas in a sector with a settlement, consider each faction and determine how likely it is that superstitious members interpret the celestial body as an omen. Then, **Ask the Oracle** if the comet’s appearance drives them to chage their individual or collective destinies.
+Throughout history many have seen passing comets as heralds of things to come, positive or negative. The galaxy’s current residents are no different in this respect. When you discover a comet with a tail of ionized gas in a sector with a settlement, consider each faction and determine how likely it is that superstitious members interpret the celestial body as an omen. Then, **[[#ASK THE ORACLE|Ask the Oracle]]** if the comet’s appearance drives them to %% #typo misspelling %%chage their individual or collective destinies.
 
-*17*
+*Page 17 - [[#^TOC]]*
 
 **SPACE SIGHTING**
 ### FIERY ENERGY STORM
@@ -537,8 +538,8 @@ Sample Names: 0946/FES, FES-0597, Gateway to New Beginnings, Glowing Heart, Home
 | 56–66 | Storm-wide pulsating glow |
 | 67–77 | Bright flashes of light |
 | 78–88 | Cascading electrical arcs |
-| 89–98 | >Descriptor + Focus; pg 8-9 |
-| 99–100 | >Precursor Vault (orbital); pg 92 |
+| 89–98 | ▶[[#DESCRIPTOR\|Descriptor]] + ▶[[#FOCUS\|Focus]]; pg 8-9 |
+| 99–100 | ▶[[SF_CH5_Vault-Exterior\|Precursor Vault]] (orbital); pg 92 |
 
 ### OBSERVED FROM NEARBY
 
@@ -556,9 +557,9 @@ Sample Names: 0946/FES, FES-0597, Gateway to New Beginnings, Glowing Heart, Home
 | 64–70 | Time dialation effects |
 | 71–77 | Whispered voices |
 | 78–84 | Otherworldly manifestations |
-| 85–91 | >Fiery Energy Storm Debris Fields |
-| 92–98 | >Descriptor + Focus; pg 8-9 |
-| 99–100 | >Precursor Vault (orbital); pg 92 |
+| 85–91 | ▶[[#FIERY ENERGY STORM DEBRIS FIELD\|Fiery Energy Storm Debris Fields]] |
+| 92–98 | ▶[[#DESCRIPTOR\|Descriptor]] + ▶[[#FOCUS\|Focus]]; pg 8-9 |
+| 99–100 | ▶[[SF_CH5_Vault-Exterior\|Precursor Vault]] (orbital); pg 92 |
 
 ### ATMOSPHERE
 
@@ -593,22 +594,22 @@ If you determine there’s a settlement, mark the fiery enery storms as having a
 |  |  |
 | :---: | --- |
 | 1–20 | Jettisoned cargo |
-| 21–63 | >Crystalline Asteroids; pg 12 |
-| 64–88 | >Creature Boneyard; pg 12 |
-| 89–98 | >Metallic Wreckage; pg 12 |
-| 99–100 | >Descriptor + Focus; pg 8-9 |
+| 21–63 | ▶[[#CRYSTALLINE ASTEROIDS\|Crystalline Asteroids]]; pg 12 |
+| 64–88 | ▶[[#CREATURE BONEYARD\|Creature Boneyard]]; pg 12 |
+| 89–98 | ▶[[#METALLIC WRECKAGE\|Metallic Wreckage]]; pg 12 |
+| 99–100 | ▶[[#DESCRIPTOR\|Descriptor]] + ▶[[#FOCUS\|Focus]]; pg 8-9 |
 
-_**Oracle Quest:** You have been asked by ==**>Faction**== to travel through a nearby wormhole, located deep within a ==**>Fiery Energy Storm**==, leading into the newly discovered ==**>Sector Name**== and bring back something of value or interest. What will you be hoping to find and bring back? What dangers will you face in this area of space?_
+_**Oracle Quest:** You have been asked by ==**▶[[SF_CH5_Faction-Types|Faction]]**== to travel through a nearby wormhole, located deep within a ==**>Fiery Energy Storm**==, leading into the newly discovered ==**▶[[SF_CH5_Sector-Name#Oracle Sector Name Prefix and Suffix|Sector Name]]**== and bring back something of value or interest. What will you be hoping to find and bring back? What dangers will you face in this area of space?_
 
-_**Oracle Quest:** You have recieved a request for aid from ==**>Faction**== who are currently stranded within a ==**>Fiery Energy Storm**==. They need you to travel to ==**>Planet**== and retrieve their stockpile of materials so they can complete emergency repairs. How did they become stranded? What did they reach out to you and not to their faction?_
+_**Oracle Quest:** You have recieved a request for aid from ==**▶[[SF_CH5_Faction-Types|Faction]]**== who are currently stranded within a ==**▶[[#FIERY ENERGY STORM|Fiery Energy Storm]]**==. They need you to travel to ==**▶[[_SF_CH5_Planets#Planetary Class\|Planet]]**== and retrieve their stockpile of materials so they can complete emergency repairs. How did they become stranded? What did they reach out to you and not to their faction?_
 
-*18*
+*Page 18 - [[#^TOC]]*
 
-When you discover a fiery energy storm, **Ask the Oracle** (unlikely) if it is stable, permanent, yet still potentially a dangerous obstacle. Then, envision the consequences of this revelation.
+When you discover a fiery energy storm, **[[#ASK THE ORACLE|Ask the Oracle]]** (unlikely) if it is stable, permanent, yet still potentially a dangerous obstacle. Then, envision the consequences of this revelation.
 
-When exploring a previously unexplored stable fiery energy storm, **Ask the Oracle** (50/50) if it contains a wormhole at its heart. When you enter the wormhole, randomly determine an exit point in another sector. Then, mark a stable fiery energy storm containing a wormhole at that location with the same Observed from Afar and Observed from Nearby results.
+When exploring a previously unexplored stable fiery energy storm, **[[#ASK THE ORACLE|Ask the Oracle]]** (50/50) if it contains a wormhole at its heart. When you enter the wormhole, randomly determine an exit point in another sector. Then, mark a stable fiery energy storm containing a wormhole at that location with the same Observed from Afar and Observed from Nearby results.
 
-*19*
+*Page 19 - [[#^TOC]]*
 
 **SPACE SIGHTING**
 ## CHAOTIC METEROID STORM
@@ -626,8 +627,8 @@ A large group of meteoroids tumbling through space, decimating anything unfortun
 | 56–66 | Multi-spectral light show |
 | 67–77 | Rhythmic pulsating glow |
 | 78–88 | Sudden appearance |
-| 89–98 | >Descriptor + Focus; pg 8-9 |
-| 99–100 | >Precursor Vault (wreck); pg 92 |
+| 89–98 | ▶[[#DESCRIPTOR\|Descriptor]] + ▶[[#FOCUS\|Focus]]; pg 8-9 |
+| 99–100 | ▶[[SF_CH5_Vault-Exterior\|Precursor Vault]] (wreck); pg 92 |
 
 ### OBSERVED FROM NEARBY
 
@@ -646,29 +647,29 @@ A large group of meteoroids tumbling through space, decimating anything unfortun
 | 71–77 | Artifical construction |
 | 78–84 | Unnatural aura |
 | 85–91 | Phantom screams |
-| 92–98 | >Descriptor + Focus; pg 8-9 |
-| 99–100 | >Precursor Vault (wreck); pg 92 |
+| 92–98 | ▶[[#DESCRIPTOR\|Descriptor]] + ▶[[#FOCUS\|Focus]]; pg 8-9 |
+| 99–100 | ▶[[SF_CH5_Vault-Exterior\|Precursor Vault]] (wreck); pg 92 |
 
-_**Oracle Quest:** You have been challenged to participate in a race by another starship pilot through the high intensity ==**>Chaotic Meteoroid Storm**== surrounding and within a ==**>Shattered World**==. What lead to you being challenged to this race? how difficult and dangerous is the course of the race?_
+_**Oracle Quest:** You have been challenged to participate in a race by another starship pilot through the high intensity ==**▶[[#CHAOTIC METEROID STORM|Chaotic Meteoroid Storm]]**== surrounding and within a ==**▶[[SF_CH5_Planet-Shattered|Shattered World]]**==. What lead to you being challenged to this race? how difficult and dangerous is the course of the race?_
 
-_**Oracle Quest:** A distress signal coming from a nearby ==**>Planet**== pleads for help as their ==**>Settlement**== is experiencing an intense and seemingly endless ==**>Chaotic Meteoroid Storm**== with many injured, buried in rubble or wreckage, lost to  pace, and dead. What level of devastation do you expect to find? How are going to aid the settlement?_
+_**Oracle Quest:** A distress signal coming from a nearby ==**▶[[_SF_CH5_Planets#Planetary Class|Planet]]**== pleads for help as their ==**▶[[SF_CH5_Settle-Creation\|Settlement]]**== is experiencing an intense and seemingly endless ==**▶[[#CHAOTIC METEROID STORM|Chaotic Meteoroid Storm]]**== with many injured, buried in rubble or wreckage, lost to  pace, and dead. What level of devastation do you expect to find? How are going to aid the settlement?_
 
-*20*
+*Page 20 - [[#^TOC]]*
 
 **If using a sector map**
 
-Meteoroid storms can in some instances be anticipated or expected by the galaxy’s residents, especially by those who have made their homes near shattered worlds or sites of massive space battles. In a sector with a shattered world, **Ask the Oracle** (50/50) if the number of micrometeoroids released by the destroyed planet pose a risk to the sector. If the answer is yes, mark a series of two concentric rings: the first two hexes from the shattered world, the second two hexes from the first ring.
+Meteoroid storms can in some instances be anticipated or expected by the galaxy’s residents, especially by those who have made their homes near shattered worlds or sites of massive space battles. In a sector with a shattered world, **[[#ASK THE ORACLE|Ask the Oracle]]** (50/50) if the number of micrometeoroids released by the destroyed planet pose a risk to the sector. If the answer is yes, mark a series of two concentric rings: the first two hexes from the shattered world, the second two hexes from the first ring.
 
-#missingArt _sector map, two hex maps, smaller one inside, with label pointing to the center of the inner hex map **Shattered World**_
+#missingArt _sector map, two hex maps, smaller one inside, with label pointing to the center of the inner hex map **[[SF_CH5_Planet-Shattered|Shattered World]]**_
 
-Then, consider how planets, settlements, ships, passages, or other objects, experience the chaotic meteroid storm.
+Then, consider how planets, settlements, ships, passages, or other objects, experience the chaotic %% #type misspelling %%meteroid storm.
 - First ring: High intensity and frequency.
 - Second ring: Moderate intensity and frequency.
 - Sector (outside second ring): Low intensity and frequency.
 
-In the aftermath of, or during a massive space battle in orbit of a planet, **Ask the Oracle** (likely) if the debris, wrecks, and stray munitions are caught in its gravity well and plummet towards the surface. If the answer is yes, envision a chaotic meteoroid storm of metallic debris and recently used munitions. Then, envision how the planet’s residents face this issue.
+In the aftermath of, or during a massive space battle in orbit of a planet, **[[#ASK THE ORACLE|Ask the Oracle]]** (likely) if the debris, wrecks, and stray munitions are caught in its gravity well and plummet towards the surface. If the answer is yes, envision a chaotic meteoroid storm of metallic debris and recently used munitions. Then, envision how the planet’s residents face this issue.
 
-*21*
+*Page 21 - [[#^TOC]]*
 
 **SPACE SIGHTING**
 ## TURBULENT GRAVITATIONAL WAVE
@@ -690,8 +691,8 @@ A ripple in the fabric of spacetime, that can cause anything from minor interfer
 | 1–11 | Expansive void | 56–66 | Temporal fracturing |
 | 12–22 | Tumultuous wake | 67–77 | Astral coloration |
 | 23–33 | Violent cosmic winds | 78–88 | Empyrean resonations |
-| 34–44 | Captured phenomena | 89–98 | >Descriptor + Focus; pg 8-9 |
-| 45–55 | Physical barrier | 99–100 | >Precursor Vault; pg 92 |
+| 34–44 | Captured phenomena | 89–98 | ▶[[#DESCRIPTOR\|Descriptor]] + ▶[[#FOCUS\|Focus]]; pg 8-9 |
+| 45–55 | Physical barrier | 99–100 | ▶[[SF_CH5_Vault-Exterior\|Precursor Vault]]; pg 92 |
 
 ### FEINNMANN BURST SCALE
 
@@ -718,13 +719,13 @@ If your Affected Area result is between two descriptors, envision a middle-groun
 
 Once this information has been collated the scale of the waves cause can be extrapolated, as the size of the cause can never equal nor exceed the size of the affected area, and is usually orders of magnitude smaller. Envision, or discover through exploration, the cause or source of the turbulent gravitational wave.
 
-*22*
+*Page 22 - [[#^TOC]]*
 
-_**Oracle Quest:** A local news broadcast advises that the ==**>Precursor Vault**== on ==**>Planet**== has begun to continuosly emit an unusual ==**>Turbulent Gravitational Wave**== (1-Feinmann, planet-sized) after contact had been lost with a team of researchers who had been assigned to the site. (Set a tension clock with 8 segments. Each 2 segments filled increases the wave Intensity by 1). What could have happened in the vault? What will you do if you are unable to help in time?_
+_**Oracle Quest:** A local news broadcast advises that the ==**▶[[SF_CH5_Vault-Exterior\|Precursor Vault]]**== on ==**▶[[_SF_CH5_Planets#Planetary Class|Planet]]**== has begun to %% #type misspelling %%continuosly emit an unusual ==**▶[[#TURBULENT GRAVITATIONAL WAVE|Turbulent Gravitational Wave]]**== (1-Feinmann, planet-sized) after contact had been lost with a team of researchers who had been assigned to the site. (Set a tension clock with 8 segments. Each 2 segments filled increases the wave Intensity by 1). What could have happened in the vault? What will you do if you are unable to help in time?_
 
-_**Oracle Quest:** ==**>Character Name**== has demanded that you travel to ==**>Settlement (Orbital)**== and steal the ==**>Descriptor**== + ==**Focus**==, as it has recenty been impacted by a ==**>Turbulent Gravitation Wave**== (2-Feinmann) that has affected all on-board electronics as well as its security system. Why do you need to steal this object? What security will you encounter?_
+_**Oracle Quest:** ==**▶[[SF_CH5_Character-Names|Character Name]]**== has demanded that you travel to ==**▶[[SF_CH5_Settle-Creation|Settlement (Orbital)]]**== and steal the ==**▶[[#DESCRIPTOR|Descriptor]]**== + ==**▶[[#FOCUS|Focus]]**==, as it has recenty been impacted by a ==**▶[[#TURBULENT GRAVITATIONAL WAVE|Turbulent Gravitation Wave]]**== (2-Feinmann) that has affected all on-board electronics as well as its security system. Why do you need to steal this object? What security will you encounter?_
 
-*23*
+*Page 23 - [[#^TOC]]*
 
 **SPACE SIGHTING**
 ## DENSE NEBULA CLOUD
@@ -744,8 +745,8 @@ Sample Names: The Broken Vow, the Bulbfish Nebula, The Chrysalis Nebula, the Dar
 | 56–66 | Sensor distortion |
 | 67–77 | Stellar nursery |
 | 78–88 | Supernova remains |
-| 89–98 | >Descriptor + Focus; pg 8-9 |
-| 99–100 | >Precursor Vault; pg 92 |
+| 89–98 | ▶[[#DESCRIPTOR\|Descriptor]] + ▶[[#FOCUS\|Focus]]; pg 8-9 |
+| 99–100 | ▶[[SF_CH5_Vault-Exterior\|Precursor Vault]]; pg 92 |
 
 ### OBSERVED FROM NEARBY
 
@@ -763,9 +764,9 @@ Sample Names: The Broken Vow, the Bulbfish Nebula, The Chrysalis Nebula, the Dar
 | 64–70 | Gravitic abnormalities |
 | 71–77 | Temporal fluctuations |
 | 78–84 | Spectral visages |
-| 85–91 | >Dense Nebula Cloud Debris Fields |
-| 92–98 | >Descriptor + Focus; pg 8-9 |
-| 99–100 | >Precursor Vault; pg 92 |
+| 85–91 | ▶[[#DENSE NEBULA CLOUD DEBRIS FIELD\|Dense Nebula Cloud Debris Fields]] |
+| 92–98 | ▶[[#DESCRIPTOR\|Descriptor]] + ▶[[#FOCUS\|Focus]]; pg 8-9 |
+| 99–100 | ▶[[SF_CH5_Vault-Exterior\|Precursor Vault]]; pg 92 |
 
 ### ATMOSPHERE
 
@@ -801,43 +802,41 @@ Sample Names: The Broken Vow, the Bulbfish Nebula, The Chrysalis Nebula, the Dar
 | 11–15 | Minefield |
 | 16–18 | Organic matter |
 | 19–20 | Micrometeoroid field |
-| 21–50 | >Mineral asteroids; pg 12 |
-| 51–74 | >Frozen asteroids ; pg 12 |
-| 75–89 | >Crystalline asteroids ; pg 12 |
-| 90–96 | >Metallic wreckage ; pg 12 |
-| 97–99 | >Creature boneyard ; pg 12 |
-| 100 | >Descriptor + Focus; pg 8-9 |
+| 21–50 | ▶[[#MINERAL ASTEROIDS\|Mineral asteroids]]; pg 12 |
+| 51–74 | ▶[[#FROZEN ASTEROIDS\|Frozen asteroids]] ; pg 12 |
+| 75–89 | ▶[[#CRYSTALLINE ASTEROIDS\|Crystalline asteroids]] ; pg 12 |
+| 90–96 | ▶[[#METALLIC WRECKAGE\|Metallic wreckage]] ; pg 12 |
+| 97–99 | ▶[[#CREATURE BONEYARD\|Creature boneyard]] ; pg 12 |
+| 100 | ▶[[#DESCRIPTOR\|Descriptor]] + ▶[[#FOCUS\|Focus]]; pg 8-9 |
 
-_**Oracle Quest:** A distress signal coming from a ==**>Starship**== on the edge of a ==**>Dense Nebula Cloud**== asks for help in quickly retrieving some large crystalline eggs from within the nebula, but warn the nests protector will be back at any moment. What could the scavengers want with the eggs? What kind of creature could be guarding them?_
+_**Oracle Quest:** A distress signal coming from a ==**▶[[SF_CH5_Starship-Creation\|Starship]]**== on the edge of a ==**▶[[#DENSE NEBULA CLOUD|Dense Nebula Cloud]]**== asks for help in quickly retrieving some large crystalline eggs from within the nebula, but warn the nests protector will be back at any moment. What could the scavengers want with the eggs? What kind of creature could be guarding them?_
 
-_**Oracle Quest:** You have been tasked by ==**>Faction**== with discreetly carrying an unknown cargo through a nearby ==**>Dense Nebula Cloud**== and delivering it to their representative on ==**>Planet**==. What could the cargo be? How will you ensure that you remain discreet?_
+_**Oracle Quest:** You have been tasked by ==**▶[[SF_CH5_Faction-Types|Faction]]**== with discreetly carrying an unknown cargo through a nearby ==**▶[[#DENSE NEBULA CLOUD|Dense Nebula Cloud]]**== and delivering it to their representative on ==**▶[[_SF_CH5_Planets#Planetary Class|Planet]]**==. What could the cargo be? How will you ensure that you remain discreet?_
 
-*24*
+*Page 24 - [[#^TOC]]*
 
-When you travel to an unvisited sector, **Ask the Oracle** (small chance) if it is entirely within a dense nebula cloud. If the answer is ‘yes’, roll on the Observed from Afar table and maintain the results for the entire sector. If any other nebulae are discovered within that sector, maintain the previous Observed from Afar results and roll the other oracles.
+When you travel to an unvisited sector, **[[#ASK THE ORACLE|Ask the Oracle]]** (small chance) if it is entirely within a dense nebula cloud. If the answer is ‘yes’, roll on the Observed from Afar table and maintain the results for the entire sector. If any other nebulae are discovered within that sector, maintain the previous Observed from Afar results and roll the other oracles.
 
 **If using a sector map**
 
-When you discover a dense nebula cloud, **Ask the Oracle** (50/50) if it encompasses everything withing that hex.
+When you discover a dense nebula cloud, **[[#ASK THE ORACLE|Ask the Oracle]]** (50/50) if it encompasses everything withing that hex.
 
-When you travel to an unexplored hex adjacent to an already discovered hex encompassing nebula, **Ask the Oracle** (unlikely) if it extends into the new sector as well. Roll on the tables and maintain the previous Observed from Afar and Atmosphere results.
+When you travel to an unexplored hex adjacent to an already discovered hex encompassing nebula, **[[#ASK THE ORACLE|Ask the Oracle]]** (unlikely) if it extends into the new sector as well. Roll on the tables and maintain the previous Observed from Afar and Atmosphere results.
 
-*25*
+*Page 25 - [[#^TOC]]*
 
 # QUEST FRONT
 
-*26*
-*27*
+*Page 26*
+*Page 27*
 
  **QUEST FRONT**
 ## THE SUPPLICANT GOD
 The discovery of a nebula has awakened hope in a galaxy lost to war. You have been hired to enter this astral body and get hold of that which might stop mankind from extinguishing itself.
 
-The distress call mirrored the grief of the galaxy’s peoples. A nebula in the form of a great hand of a pleading god appeared on the screens of dozens of settlements. It instantly became one of the grandest wonders we had witnessed
-in this corner of the universe. Many interpreted it as a divine sign, encouragement to get out of our desperate situation.
+The distress call mirrored the grief of the galaxy’s peoples. A nebula in the form of a great hand of a pleading god appeared on the screens of dozens of settlements. It instantly became one of the grandest wonders we had witnessed in this corner of the universe. Many interpreted it as a divine sign, encouragement to get out of our desperate situation.
 
-The wars between the different factions over disputed resources, ideological differences and old resentments reminded us that the worst of humanity had not left us when we’d left our home galaxy. We dragged along that shadow that
-we carry within us, the one which our species never managed to control. Thus, we’d been more concerned with destroying ourselves than with re-emerging from the status of a lost civilization. This desolation caused believers to see signs in the stars and hear voices in the stellar winds in a pitiful effort to find some intervention to pull us out of our present doom.
+The wars between the different factions over disputed resources, ideological differences and old resentments reminded us that the worst of humanity had not left us when we’d left our home galaxy. We dragged along that shadow that we carry within us, the one which our species never managed to control. Thus, we’d been more concerned with destroying ourselves than with re-emerging from the status of a lost civilization. This desolation caused believers to see signs in the stars and hear voices in the stellar winds in a pitiful effort to find some intervention to pull us out of our present doom.
 
 The image of the Supplicant God Nebula, as it came to be known, was transmitted to various settlements of a solar system shortly before it was razed to the ground by the warlike acts of the numerous factions. However, rumors of such a find fanned the spark of the faith-loving, especially in the collectives devoted to astral mysticism.
 
@@ -853,7 +852,7 @@ Finally, once the coordinates of the nebula have been collected, you will have t
 
 You have sworn an iron vow to enter the Nebula of the Supplicant God and bring back the precursors. Skeptics claim that all the clues provided by the expeditionary patrons are unconnected, and that even if the whereabouts of the nebula were to be found, there is no hard evidence to indicate that within this astral object there is any way to bring back the precursors. What sustains the claims of the religious factions is faith; faith sustained by pareidolia and despondency. However, faith is the only thing that sustains people in these apocalyptic times, and hope in some external intervention may not be a bad thing. Any change will be for the good, if the precursors aligh with our interest.
 
-*28*
+*Page 28 - [[#^TOC]]*
 
 ### VOW
 Discover and obtain the secrets of the Nebula of the Supplicant God in order to stop mankind from extinguishing itself
@@ -868,18 +867,17 @@ Each main sector is ravaged for each marked clock segment
 The inhabited galaxy is desolated by the human wars
 
 ### SITES
-- **Achoront:** A ==**>Large Rogue Asteroid**== of titanic size located in a recondite space far from inhabited solar systems. It was at these coordinates that we received a distress call from the ship that was abducted by the Shattered Flames. The ship in question was the one corresponding with researchers of the Coalition of Golden Heralds, who were taking a course to another settlement to take data for their studies.
+- **Achoront:** A ==**▶[[#LARGE ROGUE ASTEROID|Large Rogue Asteroid]]**== of titanic size located in a recondite space far from inhabited solar systems. It was at these coordinates that we received a distress call from the ship that was abducted by the [[#SHATTERED FLAMES|Shattered Flames]]. The ship in question was the one corresponding with researchers of the [[#COALLITION OF GOLDEN HERALDS|Coalition of Golden Heralds]], who were taking a course to another settlement to take data for their studies.
   
   Upon arrival at the asteroid, you must make a tour to determine where the fortified settlement (formidable rank) is located. Once there, you must perform the rescue expedition. The target in question is Eris Malek, the linguist of the kidnapped research squad.
   
-  It is believed that the criminal faction has some settlements on this asteroid, although we know from corrected data that their size is not limited to this sector of the known galaxy and that they are a nomadic faction. What is the purpose of this settlement? Why would Shattered Flames kidnap a squad of Coalition of Golden Heralds researchers?
+  It is believed that the criminal faction has some settlements on this asteroid, although we know from corrected data that their size is not limited to this sector of the known galaxy and that they are a nomadic faction. What is the purpose of this settlement? Why would [[#SHATTERED FLAMES|Shattered Flames]] kidnap a squad of [[#COALLITION OF GOLDEN HERALDS|Coalition of Golden Heralds]] researchers?
 - **Supplicant God Nebula:** A hand-shaped nebula that has started a movement of hope throughout the galaxy and guards the ultimate goal of your mission. What secrets does this nebula hold? What discovery is there to be found that would change the current course of humanity?
 - 
 ### CHARACTERS
-- Eris “Cypher” Malek: One of the best trained linguists of the Coalition of Golden Heralds. He has survived a couple of expeditions inside one of the precursor vaults and has studied enough of the language of this ancient alien species
-that he is best equipped to decipher the data containing the coordinates of the Supplicant God Nebula.
+- Eris “Cypher” Malek: One of the best trained linguists of the [[#COALLITION OF GOLDEN HERALDS|Coalition of Golden Heralds]]. He has survived a couple of expeditions inside one of the precursor vaults and has studied enough of the language of this ancient alien species that he is best equipped to decipher the data containing the coordinates of the Supplicant God Nebula.
 
-- Magnus Gray: The most prominent chief elder of the Coalition of Golden Heralds and the patron of your mission. He is said to come from one of the religious factions that worshipped the precursors as deities and sought to bring them back. In the past, such a movement was considered pure insanity, and if given enough power, dangerous, since contact with such an alien species would mean engaging a potential enemy impossible to counteract. However, in these desperate times, any intervention could be better than the certain and agonizing death we are currently facing.
+- Magnus Gray: The most prominent chief elder of the [[#COALLITION OF GOLDEN HERALDS|Coalition of Golden Heralds]] and the patron of your mission. He is said to come from one of the religious factions that worshipped the precursors as deities and sought to bring them back. In the past, such a movement was considered pure insanity, and if given enough power, dangerous, since contact with such an alien species would mean engaging a potential enemy impossible to counteract. However, in these desperate times, any intervention could be better than the certain and agonizing death we are currently facing.
 - 
 Some of those close to Magnus say that he is trying to find a frozen precursor; information that is gleaned from some data recovered from the vaults. According to these secret files, freezing an important figure and isolating them in some stellar body was a safety plan in case the precursor species was threatened by extinction.
 
@@ -897,7 +895,7 @@ If the finding inside the nebula are the precursors.
 - What form and appearance do the precursors take? What creatures do we expect to encounter if they come back?
 - In the event that relations with the precursors become hostile, how would we respond to counter them? What artifact, device, mechanism, or measure would we use to defeat them, or, at least, not to be annihilated by them?
 
-*29*
+*Page 29 - [[#^TOC]]*
 
 ## FACTION
 ### KAMARAKON DYNASTY
@@ -911,7 +909,7 @@ For years their efforts have been concentrated on developing transhumanist techn
 
 They are convinced that they will bring about the next evolutionary step in the human species, and nothing seems to stop them—neither the exploitation of naturalassets in inhabited places, nor labor exploitation.
 
-Several factions have allied to fight them, either for the purpose of stopping their human and natural environment abuses or for ideological reasons. Some claim that the Kamarakon Dynasty’s agenda is to reach the potential of the precursors, but their detractors claim that in the dynasty’s attempts to get there, they may meet the same fate as the forsaken alien species: extinction.
+Several factions have allied to fight them, either for the purpose of stopping their human and natural environment abuses or for ideological reasons. Some claim that the [[#KAMARAKON DYNASTY|Kamarakon Dynasty’s]] agenda is to reach the potential of the precursors, but their detractors claim that in the dynasty’s attempts to get there, they may meet the same fate as the forsaken alien species: extinction.
 
 - Faction type: Dominion
 - Dominion: Construction, industry, and science
@@ -928,11 +926,11 @@ Several factions have allied to fight them, either for the purpose of stopping t
 	- Developing revolutionary technology
 	- New belief or religion is creating a schism among members
 - Relationships:
-	- Warring with the Sacred Accord
-	- Apathetic of the Shattered Flames
-	- Antagonistic towards the Coallition of Golden Heralds
+	- Warring with the [[#SACRED ACCORD|Sacred Accord]]
+	- Apathetic of the [[#SHATTERED FLAMES|Shattered Flames]]
+	- Antagonistic towards the [[#COALLITION OF GOLDEN HERALDS|Coallition of Golden Heralds]]
 
-*30*
+*Page 30 - [[#^TOC]]*
 
 ## FACTION
 ### SACRED ACCORD
@@ -942,9 +940,9 @@ When the Cataclysm occurred, the humanistic organizations decided to gather forc
 
 The Sacred Accord—both as an ideology and a foundation—was born from the principle that humanity must be responsible for its interaction with the universe and for its existence as a sensitive species. This implies moderation with limited resources while still striving for the best quality of life possible.
 
-Their income relies mainly on providing human resources and services to the highest social classes, which makes their utopian ideals inaccessible for most of humanity—an irony for which they are constantly reproached. However, given their active participation in the Great War, they are forced to produce weaponry to oppose the Kamarakon Dynasty. For this, they make use of specialized weapons that rely on biochemistry and experimental energy.
+Their income relies mainly on providing human resources and services to the highest social classes, which makes their utopian ideals inaccessible for most of humanity—an irony for which they are constantly reproached. However, given their active participation in the Great War, they are forced to produce weaponry to oppose the [[#KAMARAKON DYNASTY|Kamarakon Dynasty]]. For this, they make use of specialized weapons that rely on biochemistry and experimental energy.
 
-Their ideology results in them being conservative and what many consider to be old-fashioned by today’s standards. Their conflict with the Kamarakon Dynasty is due to what the Sacred Accord considers a violation of divine human nature. The transformation of humanity into something less organic or natural is seen by this foundation as a sacrilege to what makes us unique as a species in the known universe.
+Their ideology results in them being conservative and what many consider to be old-fashioned by today’s standards. Their conflict with the [[#KAMARAKON DYNASTY|Kamarakon Dynasty]] is due to what the Sacred Accord considers a violation of divine human nature. The transformation of humanity into something less organic or natural is seen by this foundation as a sacrilege to what makes us unique as a species in the known universe.
 
 - Faction type: Dominion
 - Dominion: Agriculture, artistry, and environmentalism
@@ -961,11 +959,11 @@ Their ideology results in them being conservative and what many consider to be o
 	- Preparing a major offensive or operation
 	- Holds a powerful artifact
 - Relationships:
-	- Warring with the Kamarakon Dynasty
-	- Holds contempt for the Shattered Flames
-	- Distrustful of the Coallition of Golden Heralds
+	- Warring with the [[#KAMARAKON DYNASTY|Kamarakon Dynasty]]
+	- Holds contempt for the [[#SHATTERED FLAMES|Shattered Flames]]
+	- Distrustful of the [[#COALLITION OF GOLDEN HERALDS|Coallition of Golden Heralds]]
 
-*31*
+*Page 31 - [[#^TOC]]*
 
 ## FACTION
 ### COALLITION OF GOLDEN HERALDS
@@ -993,10 +991,10 @@ It is the leader of the Coalition of Golden Heralds who hires you to carry out t
 	- Caught in the crossfire of feuding factions
 	- Knows the location of a fabled treasure or lost technology
 - Relationships:
-- Holds contempt for the Kamarakon Dynasty and Sacred Accord
-- Antagonistic towards the Shattered Flames
+- Holds contempt for the [[#KAMARAKON DYNASTY|Kamarakon Dynasty]] and [[#SACRED ACCORD|Sacred Accord]]
+- Antagonistic towards the [[#SHATTERED FLAMES|Shattered Flames]]
 
-*32*
+*Page 32 - [[#^TOC]]*
 
 ## FACTION
 ### SHATTERED FLAMES
@@ -1022,6 +1020,8 @@ We know that Shattered Flames is nothing more than the pure expression of extrem
 	- Leaders are puppets of another power or faction
 	- Operations are a false front for their true purpose
 - Relationships:
-	- Apathetic towards the Kamarakon Dynasty, Sacred Accord, and Coallition of Golden Heralds
+	- Apathetic towards the [[#KAMARAKON DYNASTY|Kamarakon Dynasty]], [[#SACRED ACCORD|Sacred Accord]], and [[#COALLITION OF GOLDEN HERALDS|Coallition of Golden Heralds]]
 
-*33*
+*Page 33 - [[#^TOC]]*
+
+# [[_Space Sightings Expanded]]

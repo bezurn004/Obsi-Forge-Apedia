@@ -19,7 +19,7 @@ Work is progressing to import community content from published material and cont
 > **[[_Forge Horizons|Forge Horizons]]** [author: Michael Elliott]
 > Alternate episodic rules for solo play and one-shots, as well as 24+ addition oracles for machines, supernatural horrors, precursors, and city-planets.
 
-> **[[_SPCST_EX|Space Sightings Expanded]]** [author: Samuel Rondón]
+> **[[_Space Sightings Expanded|Space Sightings Expanded]]** [author: Samuel Rondón]
 > This supplement builds upon the natural wonders you might discover while voyaging through space, though they won’t be without their potential danger.
 
 > **[[_Ancient Wonders|Acient Wonders]]** [author:  - Markos Marafelias, Samuel Rondón Acevedo, Nando Gallarday]

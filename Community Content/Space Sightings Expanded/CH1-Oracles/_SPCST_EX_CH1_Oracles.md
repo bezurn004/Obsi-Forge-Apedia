@@ -11,7 +11,7 @@ PageType: Oracle
 PageCategory: Index
 PageOrder: 3
 ---
-# [[_SPCST_EX|Space Sightings Expanded]]: Oracles
+# [[_Space Sightings Expanded|Space Sightings Expanded]]: Oracles
 
 > ## CONTENTS
 > ### Core
@@ -26,7 +26,7 @@ PageOrder: 3
 > |  |  |
 > | --- | :---: |
 > | DEBRIS FIELDS | [[SPCST_EX_CH1_Debris-Field\|Page 12]] |
-> | LARGE ROUGE ASTEROID | [[SPCST_EX_CH1_Rouge-Asteroid\|Page 14]] |
+> | LARGE ROUGE ASTEROID | [[SPCST_EX_CH1_Rogue-Asteroid\|Page 14]] |
 > | COMET WITH A TAIL OF IONIZED GAS | [[SPCST_EX_CH1_Comet-Ionized\|Page 16]] |
 > | FIERY ENERGY STORM | [[SPCST_EX_CH1_Fiery-Storm\|Page 18]] |
 > | CHAOTIC METEROID STORM | [[SPCST_EX_CH1_Meteoroid-Storm\|Page 20]] |

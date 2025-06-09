@@ -18,7 +18,7 @@ Oracle: Core
 OracleFocus: "Descriptor/Focus"
 OracleDescriptor: "Core Descriptor and Focus Oracles"
 ---
-# [[_SPCST_EX|Space Sightings Expanded]] - [[_SPCST_EX_CH1_Oracles\|Oracles]]: Descriptor + Focus
+# [[_Space Sightings Expanded|Space Sightings Expanded]] - [[_SPCST_EX_CH1_Oracles\|Oracles]]: Descriptor + Focus
 
 ## Oracle: Descriptor
 

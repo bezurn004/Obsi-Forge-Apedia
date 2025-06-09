@@ -25,22 +25,22 @@ Oracle: Space
 OracleFocus: "Comet with a tail of Ionized Gas"
 OracleDescriptor: "Rocky, icy bodies that orbit a star and release a tail of glowing gas and dust."
 ---
-# [[_SPCST_EX|Space Sightings Expanded]] - [[_SPCST_EX_CH1_Oracles\|Oracles]]: Dense Nebula Cloud
+# [[_Space Sightings Expanded|Space Sightings Expanded]] - [[_SPCST_EX_CH1_Oracles\|Oracles]]: Dense Nebula Cloud
 Sector-spanning structures of gaseous and dust-laden forms that obfuscate possible riches and horrors.
 
-When you travel to an unvisited sector, **Ask the Oracle** (small chance) if it is entirely within a dense nebula cloud. If the answer is ‘yes’, roll on the Observed from Afar table and maintain the results for the entire sector. If any other nebulae are discovered within that sector, maintain the previous Observed from Afar results and roll the other oracles.
+When you travel to an unvisited sector, **[[SF_CH3_Ask the Oracle#Ask The Oracle Move Card\|Ask the Oracle]]** (small chance) if it is entirely within a dense nebula cloud. If the answer is ‘yes’, roll on the Observed from Afar table and maintain the results for the entire sector. If any other nebulae are discovered within that sector, maintain the previous Observed from Afar results and roll the other oracles.
 
 **If using a sector map**
 
-When you discover a dense nebula cloud, **Ask the Oracle** (50/50) if it encompasses everything withing that hex.
+When you discover a dense nebula cloud, **[[SF_CH3_Ask the Oracle#Ask The Oracle Move Card\|Ask the Oracle]]** (50/50) if it encompasses everything withing that hex.
 
-When you travel to an unexplored hex adjacent to an already discovered hex encompassing nebula, **Ask the Oracle** (unlikely) if it extends into the new sector as well. Roll on the tables and maintain the previous Observed from Afar and Atmosphere results.
+When you travel to an unexplored hex adjacent to an already discovered hex encompassing nebula, **[[SF_CH3_Ask the Oracle#Ask The Oracle Move Card\|Ask the Oracle]]** (unlikely) if it extends into the new sector as well. Roll on the tables and maintain the previous Observed from Afar and Atmosphere results.
 
-*25*
+*Page 25*
 
-_**Oracle Quest:** A distress signal coming from a ==**>Starship**== on the edge of a ==**>Dense Nebula Cloud**== asks for help in quickly retrieving some large crystalline eggs from within the nebula, but warn the nests protector will be back at any moment. What could the scavengers want with the eggs? What kind of creature could be guarding them?_
+_**Oracle Quest:** A distress signal coming from a ==**▶[[SF_CH5_Starship-Creation|Starship]]**== on the edge of a ==**▶[[SPCST_EX_CH1_Nebula-Cloud|Dense Nebula Cloud]]**== asks for help in quickly retrieving some large crystalline eggs from within the nebula, but warn the nests protector will be back at any moment. What could the scavengers want with the eggs? What kind of creature could be guarding them?_
 
-_**Oracle Quest:** You have been tasked by ==**>Faction**== with discreetly carrying an unknown cargo through a nearby ==**>Dense Nebula Cloud**== and delivering it to their representative on ==**>Planet**==. What could the cargo be? How will you ensure that you remain discreet?_
+_**Oracle Quest:** You have been tasked by ==**▶[[SF_CH5_Faction-Types|Faction]]**== with discreetly carrying an unknown cargo through a nearby ==**▶[[SPCST_EX_CH1_Nebula-Cloud|Dense Nebula Cloud]]**== and delivering it to their representative on ==**▶[[_SF_CH5_Planets#Planetary Class|Planet]]**==. What could the cargo be? How will you ensure that you remain discreet?_
 
 *24*
 
@@ -81,8 +81,8 @@ _**Oracle Quest:** You have been tasked by ==**>Faction**== with discreetly carr
 | 56 - 66 | Sensor distortion |
 | 67 - 77 | Stellar nursery |
 | 78 - 88 | Supernova remains |
-| 89 - 98 | >Descriptor + Focus; pg 8-9 |
-| 99 - 100 | >Precursor Vault; pg 92 |
+| 89 - 98 | ▶[[SF_CH5_Core_Descriptor-Focus#Oracle Descriptor\|Descriptor]] + ▶[[SF_CH5_Core_Descriptor-Focus#Oracle Focus\|Focus]]; pg 8-9 |
+| 99 - 100 | ▶[[SF_CH5_Vault-Exterior\|Precursor Vault]]; pg 92 |
 
 ## Oracle: Observed From Nearby
 
@@ -100,9 +100,9 @@ _**Oracle Quest:** You have been tasked by ==**>Faction**== with discreetly carr
 | 64 - 70 | Gravitic abnormalities |
 | 71 - 77 | Temporal fluctuations |
 | 78 - 84 | Spectral visages |
-| 85 - 91 | >Dense Nebula Cloud Debris Fields |
-| 92 - 98 | >Descriptor + Focus; pg 8-9 |
-| 99 - 100 | >Precursor Vault; pg 92 |
+| 85 - 91 | ▶[[SPCST_EX_CH1_Nebula-Cloud#Oracle Dense Nebula Cloud Debris Field\|Dense Nebula Cloud Debris Fields]] |
+| 92 - 98 | ▶[[SF_CH5_Core_Descriptor-Focus#Oracle Descriptor\|Descriptor]] + ▶[[SF_CH5_Core_Descriptor-Focus#Oracle Focus\|Focus]]; pg 8-9 |
+| 99 - 100 | ▶[[SF_CH5_Vault-Exterior\|Precursor Vault]]; pg 92 |
 
 ## Oracle: Atmosphere
 
@@ -178,12 +178,12 @@ _**Oracle Quest:** You have been tasked by ==**>Faction**== with discreetly carr
 | 11 - 15 | Minefield |
 | 16 - 18 | Organic matter |
 | 19 - 20 | Micrometeoroid field |
-| 21 - 50 | >Mineral asteroids; pg 12 |
-| 51 - 74 | >Frozen asteroids ; pg 12 |
-| 75 - 89 | >Crystalline asteroids ; pg 12 |
-| 90 - 96 | >Metallic wreckage ; pg 12 |
-| 97 - 99 | >Creature boneyard ; pg 12 |
-| 100 | >Descriptor + Focus; pg 8-9 |
+| 21 - 50 | ▶[[SPCST_EX_CH1_Debris-Field#Oracle Mineral Asteroids\|Mineral asteroids]]; pg 12 |
+| 51 - 74 | ▶[[SPCST_EX_CH1_Debris-Field#Oracle Frozen Asteroids\|Frozen asteroids]] ; pg 12 |
+| 75 - 89 | ▶[[SPCST_EX_CH1_Debris-Field#Oracle Crystalline Asteroids\|Crystalline asteroids]] ; pg 12 |
+| 90 - 96 | ▶[[SPCST_EX_CH1_Debris-Field#Oracle Metallic Wreckage\|Metallic wreckage]] ; pg 12 |
+| 97 - 99 | ▶[[SPCST_EX_CH1_Debris-Field#Oracle Creature Boneyard\|Creature boneyard]] ; pg 12 |
+| 100 | ▶[[SF_CH5_Core_Descriptor-Focus#Oracle Descriptor\|Descriptor]] + ▶[[SF_CH5_Core_Descriptor-Focus#Oracle Focus\|Focus]]; pg 8-9 |
 
 ## Tags
 | Previous Page | Tags | Next Section |

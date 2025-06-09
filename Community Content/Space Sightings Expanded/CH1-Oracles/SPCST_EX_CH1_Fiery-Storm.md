@@ -25,20 +25,18 @@ Oracle: Space
 OracleFocus: "Fiery Energy Storm"
 OracleDescriptor: "The bane of the galaxies inhabitants—wreaking havoc ranging from vanishing ships to blockading entire sectors."
 ---
-# [[_SPCST_EX|Space Sightings Expanded]] - [[_SPCST_EX_CH1_Oracles\|Oracles]]: Fiery Energy Storm
+# [[_Space Sightings Expanded|Space Sightings Expanded]] - [[_SPCST_EX_CH1_Oracles\|Oracles]]: Fiery Energy Storm
 The bane of the galaxies inhabitants—wreaking havoc ranging from vanishing ships to blockading entire sectors.
 
-When you discover a fiery energy storm, **Ask the Oracle** (unlikely) if it is stable, permanent, yet still potentially a dangerous obstacle. Then, envision the consequences of this revelation.
+When you discover a fiery energy storm, **[[SF_CH3_Ask the Oracle#Ask The Oracle Move Card\|Ask the Oracle]]** (unlikely) if it is stable, permanent, yet still potentially a dangerous obstacle. Then, envision the consequences of this revelation.
 
-When exploring a previously unexplored stable fiery energy storm, **Ask the Oracle** (50/50) if it contains a wormhole at its heart. When you enter the wormhole, randomly determine an exit point in another sector. Then, mark a stable fiery energy storm containing a wormhole at that location with the same Observed from Afar and Observed from Nearby results.
+When exploring a previously unexplored stable fiery energy storm, **[[SF_CH3_Ask the Oracle#Ask The Oracle Move Card\|Ask the Oracle]]** (50/50) if it contains a wormhole at its heart. When you enter the wormhole, randomly determine an exit point in another sector. Then, mark a stable fiery energy storm containing a wormhole at that location with the same Observed from Afar and Observed from Nearby results.
 
-*19*
+*Page 19*
 
-_**Oracle Quest:** You have been asked by ==**>Faction**== to travel through a nearby wormhole, located deep within a ==**>Fiery Energy Storm**==, leading into the newly discovered ==**>Sector Name**== and bring back something of value or interest. What will you be hoping to find and bring back? What dangers will you face in this area of space?_
+_**Oracle Quest:** You have been asked by ==**▶[[SF_CH5_Faction-Types\|Faction]]**== to travel through a nearby wormhole, located deep within a ==**▶[[SPCST_EX_CH1_Fiery-Storm|Fiery Energy Storm]]**==, leading into the newly discovered ==**▶[[SF_CH5_Sector-Name#Oracle Sector Name Prefix and Suffix|Sector Name]]**== and bring back something of value or interest. What will you be hoping to find and bring back? What dangers will you face in this area of space?_
 
-_**Oracle Quest:** You have recieved a request for aid from ==**>Faction**== who are currently stranded within a ==**>Fiery Energy Storm**==. They need you to travel to ==**>Planet**== and retrieve their stockpile of materials so they can complete emergency repairs. How did they become stranded? What did they reach out to you and not to their faction?_
-
-Sample Names: 0946/FES, FES-0597, Gateway to New Beginnings, Glowing Heart, Homehole, Ivory Chain, Lodestart Shortcut, Path to Kalidas Anvil, Onyx Plateau, Pandora’s Womb, Pulling Lamp, Route to Fool’s Pyre, Stygian Mask, the Labyrinth, the Lantern, the Phantom, the Spark, the Wall, Trail to Shattered Oasis, Way to Forgotten Shoal
+_**Oracle Quest:** You have recieved a request for aid from ==**▶[[SF_CH5_Faction-Types\|Faction]]**== who are currently stranded within a ==**▶[[SPCST_EX_CH1_Fiery-Storm|Fiery Energy Storm]]**==. They need you to travel to ==**▶[[_SF_CH5_Planets#Planetary Class|Planet]]**== and retrieve their stockpile of materials so they can complete emergency repairs. How did they become stranded? What did they reach out to you and not to their faction?_
 
 ## Oracle: Names
 
@@ -78,8 +76,8 @@ Sample Names: 0946/FES, FES-0597, Gateway to New Beginnings, Glowing Heart, Home
 | 56 - 66 | Storm-wide pulsating glow |
 | 67 - 77 | Bright flashes of light |
 | 78 - 88 | Cascading electrical arcs |
-| 89 - 98 | >Descriptor + Focus; pg 8-9 |
-| 99 - 100 | >Precursor Vault (orbital); pg 92 |
+| 89 - 98 | ▶[[SF_CH5_Core_Descriptor-Focus#Oracle Descriptor\|Descriptor]] + ▶[[SF_CH5_Core_Descriptor-Focus#Oracle Focus\|Focus]]; pg 8-9 |
+| 99 - 100 | ▶[[SF_CH5_Vault-Exterior\|Precursor Vault]] (orbital); pg 92 |
 ^table-Observed-From-Afar
 
 ## Oracle: Observed From Nearby
@@ -98,9 +96,9 @@ Sample Names: 0946/FES, FES-0597, Gateway to New Beginnings, Glowing Heart, Home
 | 64 - 70 | Time dialation effects |
 | 71 - 77 | Whispered voices |
 | 78 - 84 | Otherworldly manifestations |
-| 85 - 91 | >Fiery Energy Storm Debris Fields |
-| 92 - 98 | >Descriptor + Focus; pg 8-9 |
-| 99 - 100 | >Precursor Vault (orbital); pg 92 |
+| 85 - 91 | ▶[[SPCST_EX_CH1_Fiery-Storm#Oracle Fiery Energy Storm Debris Field\|Fiery Energy Storm Debris Fields]] |
+| 92 - 98 | ▶[[SF_CH5_Core_Descriptor-Focus#Oracle Descriptor\|Descriptor]] + ▶[[SF_CH5_Core_Descriptor-Focus#Oracle Focus\|Focus]]; pg 8-9 |
+| 99 - 100 | ▶[[SF_CH5_Vault-Exterior\|Precursor Vault]] (orbital); pg 92 |
 ^table-Observed-From-Nearby
 
 ## Oracle: Atmosphere
@@ -177,13 +175,13 @@ If you determine there’s a settlement, mark the fiery enery storms as having a
 | dice: 1d100 | Result |
 | :---: | --- |
 | 1 - 20 | Jettisoned cargo |
-| 21 - 63 | >Crystalline Asteroids; pg 12 |
-| 64 - 88 | >Creature Boneyard; pg 12 |
-| 89 - 98 | >Metallic Wreckage; pg 12 |
-| 99 - 100 | >Descriptor + Focus; pg 8-9 |
+| 21 - 63 | ▶[[SPCST_EX_CH1_Debris-Field#Oracle Crystalline Asteroids\|Crystalline Asteroids]]; pg 12 |
+| 64 - 88 | ▶[[SPCST_EX_CH1_Debris-Field#Oracle Creature Boneyard\|Creature Boneyard]]; pg 12 |
+| 89 - 98 | ▶[[SPCST_EX_CH1_Debris-Field#Oracle Metallic Wreckage\|Metallic Wreckage]]; pg 12 |
+| 99 - 100 | ▶[[SF_CH5_Core_Descriptor-Focus#Oracle Descriptor\|Descriptor]] + ▶[[SF_CH5_Core_Descriptor-Focus#Oracle Focus\|Focus]]; pg 8-9 |
 ^table-Debris-Field
 
-*18*
+*Page 18*
 
 ## Tags
 | Previous Page | Tags | Next Page |

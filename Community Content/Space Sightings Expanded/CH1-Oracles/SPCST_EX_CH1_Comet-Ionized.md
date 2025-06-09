@@ -25,16 +25,16 @@ Oracle: Space
 OracleFocus: "Comet with a tail of Ionized Gas"
 OracleDescriptor: "Rocky, icy bodies that orbit a star and release a tail of glowing gas and dust."
 ---
-# [[_SPCST_EX|Space Sightings Expanded]] - [[_SPCST_EX_CH1_Oracles\|Oracles]]: Comet with a tail of Ionized Gas
+# [[_Space Sightings Expanded|Space Sightings Expanded]] - [[_SPCST_EX_CH1_Oracles\|Oracles]]: Comet with a tail of Ionized Gas
 Rocky, icy bodies that orbit a star and release a tail of glowing gas and dust.
 
-_**Oracle Quest:** You overhear a conversation between two men. They found a sealed entrance that seemed to lead inside of the recently sighted ==**>Comet With a Tail of Ionized Gas**==. Both are convinced that ==**>Descriptor**== + ==**Focus**== is likely just on the other side. What obstacles will you face to reach this objective? Why is this important to you?_
+_**Oracle Quest:** You overhear a conversation between two men. They found a sealed entrance that seemed to lead inside of the recently sighted ==**▶[[SPCST_EX_CH1_Comet-Ionized|Comet With a Tail of Ionized Gas]]**==. Both are convinced that ==**▶[[SF_CH5_Core_Descriptor-Focus#Oracle Descriptor\|Descriptor]]**== + ==**▶[[SF_CH5_Core_Descriptor-Focus#Oracle Focus\|Focus]]**== is likely just on the other side. What obstacles will you face to reach this objective? Why is this important to you?_
 
-_**Oracle Quest:** ==**>Character Name**== lets you know that in order to complete your mission to ==**>Action**== + ==**Theme**== you must travel to ==**>Comet With a Tail of Ionized Gas**==. What do you think his motives are behind giving you this information? What part does the comet play in completing your mission?_
+_**Oracle Quest:** ==**▶[[SF_CH5_Character-Names|Character Name]]**== lets you know that in order to complete your mission to ==**▶[[SF_CH5_Core_Action-Theme#Oracle Action|Action]]**== + ==**▶[[SF_CH5_Core_Action-Theme#Oracle Theme|Theme]]**== you must travel to ==**▶[[SPCST_EX_CH1_Comet-Ionized|Comet With a Tail of Ionized Gas]]**==. What do you think his motives are behind giving you this information? What part does the comet play in completing your mission?_
 
 *16*
 
-Throughout history many have seen passing comets as heralds of things to come, positive or negative. The galaxy’s current residents are no different in this respect. When you discover a comet with a tail of ionized gas in a sector with a settlement, consider each faction and determine how likely it is that superstitious members interpret the celestial body as an omen. Then, **Ask the Oracle** if the comet’s appearance drives them to chage their individual or collective destinies.
+Throughout history many have seen passing comets as heralds of things to come, positive or negative. The galaxy’s current residents are no different in this respect. When you discover a comet with a tail of ionized gas in a sector with a settlement, consider each faction and determine how likely it is that superstitious members interpret the celestial body as an omen. Then, **[[SF_CH3_Ask the Oracle#Ask The Oracle Move Card\|Ask the Oracle]]** if the comet’s appearance drives them to chage their individual or collective destinies.
 
 ## Oracle: Names
 
@@ -73,8 +73,8 @@ Throughout history many have seen passing comets as heralds of things to come, p
 | 56 - 66 | Iridescent appearance |
 | 67 - 77 | Otherwordly colouration |
 | 78 - 88 | Prophetic omen |
-| 89 - 98 | >Descriptor + Focus; pg 8-9 |
-| 99 - 100 | >Precursor Vault (orbital); pg 92 |
+| 89 - 98 | ▶[[SF_CH5_Core_Descriptor-Focus#Oracle Descriptor\|Descriptor]] + ▶[[SF_CH5_Core_Descriptor-Focus#Oracle Focus\|Focus]]; pg 8-9 |
+| 99 - 100 | ▶[[SF_CH5_Vault-Exterior\|Precursor Vault]] (orbital); pg 92 |
 ^table-Observed-From-Afar
 
 ## Oracle: Observed From Nearby
@@ -93,9 +93,9 @@ Throughout history many have seen passing comets as heralds of things to come, p
 | 64 - 70 | Kaleidoscopic visual distortions |
 | 71 - 77 | Fractal terrain |
 | 78 - 84 | Exotic particle interactions |
-| 85 - 91 | >Comet Debris Field |
-| 92 - 98 | >Descriptor + Focus; pg 8-9 |
-| 99 - 100 | >Precursor Vault (grounded); pg 92 |
+| 85 - 91 | ▶[[SPCST_EX_CH1_Comet-Ionized#Oracle Comet Debris Field\|Comet Debris Field]] |
+| 92 - 98 | ▶[[SF_CH5_Core_Descriptor-Focus#Oracle Descriptor\|Descriptor]] + ▶[[SF_CH5_Core_Descriptor-Focus#Oracle Focus\|Focus]]; pg 8-9 |
+| 99 - 100 | ▶[[SF_CH5_Vault-Exterior\|Precursor Vault]] (grounded); pg 92 |
 ^table-Observed-From-Nearby
 
 ## Oracle: Atmosphere
@@ -174,14 +174,14 @@ Throughout history many have seen passing comets as heralds of things to come, p
 | 56 - 80 | Mineral meteoroids |
 | 81 - 92 | Frozen meteoroids |
 | 93 - 98 | Exotic meteoroids |
-| 99 - 100 | >Metallica Wreackage; pg 12 |
+| 99 - 100 | ▶[[SPCST_EX_CH1_Debris-Field#Oracle Metallic Wreckage\|Metallica Wreckage]]; pg 12 |
 ^table-Comet-Debris-Field
 
-*17*
+*Page 17*
 
 ## Tags
 | Previous Page | Tags | Next Page |
 | :--- | :---: | ---: |
-| **[[SPCST_EX_CH1_Rouge-Asteroid\|Large Rouge Asteroid (Space Sighting Expanded)]]** | #SpaceSightingsExpanded/Oracles | **[[SPCST_EX_CH1_Fiery-Storm\|Fiery Energy Storm (Space Sightings Expanded)]]** |
+| **[[SPCST_EX_CH1_Rogue-Asteroid\|Large Rouge Asteroid (Space Sighting Expanded)]]** | #SpaceSightingsExpanded/Oracles | **[[SPCST_EX_CH1_Fiery-Storm\|Fiery Energy Storm (Space Sightings Expanded)]]** |
 
 <font size=-2>This work is based on *Ironsworn: Starforged*, created by Shawn Tomkin, and licensed for our use under the Creative Commons Attribution 4.0 International License. Made for the Starforged 2023 Jam, hosted by Kerys and Margot Hutton • www.ludicpen.com • @LudicPen on Facebook and Instagram • ludicpen@gmail.com • discord.gg/v5j54wsJC6</font>

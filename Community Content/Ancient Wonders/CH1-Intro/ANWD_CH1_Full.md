@@ -7,8 +7,9 @@
 > | MARVELS OF FOREGONE AGES | [[#MARVELS OF FOREGONE AGES\|Page 9]] |
 > | USING THIS BOOK | [[#USING THIS BOOK\|Page 10]] |
 > | SYSTEM-AGNOSTIC USAGE | [[#SYSTEM-AGNOSTIC USAGE\|Page 11]] |
+^TOC
 
-*6*
+*Page 6*
 
 # THE WONDROUS SIDE OF THE GALAXY
 ***Ancient Wonders*** is a modular expansion for ***Ironsworn: Starforged*** (hereafter referred to as ***Starforged***), the science fiction tabletop roleplaying game by Shawn Tomkin. Even though the use of Starforged is encouraged, the majority of the content in this book is system agnostic.
@@ -23,13 +24,13 @@ Throughout the supplement, you will be presented with a plethora of random table
 * ==Items== as a new type of assets to loot, find, and trade in the galaxy. Made for ***Starforged***.
 * ==Additional moves== for making camp, entering into a hiatus stage, exchanging wealth, and failing forward in your character progression. Made for ***Starforged***.
 
-*8 ANCIENT WONDERSANCIENT WONDERS*
+*8 ANCIENT WONDERSANCIENT WONDERS - [[#^TOC]]*
 
 # MARVELS OF FOREGONE AGES
 ***Ancient Wonders*** is filled with countless marvels from times immemorial that you can find throughout your space adventures. These wonders can be large or small, naturally formed or boldly engineered. Regardless of their shape or origin, the defining characteristic of these findings is their ability to be awe-inspiring, even after an eternity.
 
 ## SOLAR SYSTEMS
-After galaxies and globular clusters, solar systems are the greatest ancient wonders to be found in space. It is on these canvases, produced by millionsto billions of years of universal development, that all remaining marvels, natural and artificial, can be found.
+After galaxies and globular clusters, solar systems are the greatest ancient wonders to be found in space. It is on these canvases, produced by millions to billions of years of universal development, that all remaining marvels, natural and artificial, can be found.
 
 ## PLANETS
 After stellar objects, planets are the largest celestial bodies in a solar system. It is there that life and the infinite possibilities and complexities of the cosmos unfold.
@@ -47,12 +48,12 @@ Constructs are synthetic beings. The ones designed by foregone species are liste
 Bio-mechanics are products of ingenious engineering. They are the result of artificial synthesis: a mixture of biological creature and construct; a living being whose limbs and organs have been replaced by synthetic ones or a synthetic being to which biological elements have been applied.
 
 ## ANOMALIES
-Anomalies are the residual phenomena of the experiments and advanced technologies of the precursor civilizations. We know that these occurrences constitute either a breakdown of the laws of reality or humanity’s severelack of understanding of the true nature of the universe.
+Anomalies are the residual phenomena of the experiments and advanced technologies of the precursor civilizations. We know that these occurrences constitute either a breakdown of the laws of reality or humanity’s severe lack of understanding of the true nature of the universe.
 
 ## SPLINTERS
-Splinters are items from eons ago that have survived the crushing passageof time and have caused anomalies to emerge in the depths of alien sites. The goal of many explorers of ancestral ruins, vaults, or megastructures is to retrieve these priceless objects of power.
+Splinters are items from eons ago that have survived the crushing passage of time and have caused anomalies to emerge in the depths of alien sites. The goal of many explorers of ancestral ruins, vaults, or megastructures is to retrieve these priceless objects of power.
 
-*9 CHAPTER 1: INTRODUCTION*
+*9 CHAPTER 1: INTRODUCTION - [[#^TOC]]*
 
  # USING THIS BOOK
 
@@ -60,40 +61,40 @@ You don’t need to read Ancient Wonders from front to back to implement it into
 
 |  |  |
 | --- | --- |
-| Chapter 1 — | Introduction: You are here. These are the fundamentals of Ancient Wonders.
+| **Chapter 1 —** | **Introduction:** You are here. These are the fundamentals of **Ancient Wonders**.
 |  | Read this chapter to learn how to use this supplement and understand its core concepts. |
-| Chapter 2 — | Solar Systems (page 20): An exercise for generating and tracking solar systems. |
-|  | Work through this exercise to create solar systems for your adventures. If you are playing Starforged, you mayuse this as a replacement for the Build a Starting Sector section in Chapter 2 of the core rulebook. |
-| Chapter 3 — | Planets Expanded (page 28): An extensive dashboard to generate planets. |
-|  | Use this chapter to create worlds for your adventures.If you are playing Starforged, you may use this as are placement for the Planets section in Chapter 5 of the core rulebook. |
-| Chapter 4 — | Alien Megastructures (page 84): A collection of architectural marvels made by long-gone alien civilizations and guidelines for exploring them. |
+| **[[ANWD_CH2_Full\|Chapter 2]] —** | **[[ANWD_CH2_Full\|Solar Systems]] (page 20):** An exercise for generating and tracking solar systems. |
+|  | Work through this exercise to create solar systems for your adventures. If you are playing ***Starforged***, you may use this as a replacement for the **Build a Starting Sector** section in Chapter 2 of the core rulebook. |
+| **[[ANWD_CH3_Full\|Chapter 3]] —** | **[[ANWD_CH3_Full\|Planets Expanded]] (page 28):** An extensive dashboard to generate planets. |
+|  | Use this chapter to create worlds for your adventures. If you are playing ***Starforged***, you may use this as are placement for the **Planets** section in Chapter 5 of the core rulebook. |
+| **[[ANWD_CH4_Full\|Chapter 4]] —** | **[[ANWD_CH4_Full\|Alien Megastructures]] (page 84):** A collection of architectural marvels made by long-gone alien civilizations and guidelines for exploring them. |
 |  | Use this chapter to create landscapes of explorations and adventures to take place in. |
-| Chapter 5 — | Alien Megacities (page 164): A generator of abandoned, ruined settlements of ancient civilizations and guidelines for exploring them. |
+| **[[ANWD_CH5_Full\|Chapter 5]] —** | **[[ANWD_CH5_Full\|Alien Megacities]] (page 164):** A generator of abandoned, ruined settlements of ancient civilizations and guidelines for exploring them. |
 |  | Use this chapter to introduce alien cities in your campaign, either for exploration or inhabitation. |
-| Chapter 6 — | Denizens and Phenomena (page 180): A set of oracles to generate alien encounters. |
+| **[[ANWD_CH6_Full\|Chapter 6]] —** | **[[ANWD_CH6_Full\|Denizens and Phenomena]] (page 180):** A set of oracles to generate alien encounters. |
 |  | Use this chapter to create constructs, bio-mechs, and anomalies to encounter when traversing the galaxy. |
-| Chapter 7 — | Special Companion Assets (page 198): A compendium of special companion assets and rules to use them. |
-|  | Use these cards if you wish to have companions as powerful as allies when playing Starforged. |
-| Chapter 8 — | Items Assets (page 208): Guidelines for playing with upgradeable gear. |
-|  | Use the item assets if you wish to have objects with mechanical impact when playing Starforged. |
-| Chapter 9 — | Additional Moves (page 222): New moves for Starforged. |
-|  | Use this content when you want to add new twists and nuances to your Starforged game. |
+| **[[ANWD_CH7_Full\|Chapter 7]] —** | **[[ANWD_CH7_Full\|Special Companion Assets]] (page 198):** A compendium of special companion assets and rules to use them. |
+|  | Use these cards if you wish to have companions as powerful as allies when playing ***Starforged***. |
+| **[[ANWD_CH8_Full\|Chapter 8]] —** | **[[ANWD_CH8_Full\|Items Assets]] (page 208):** Guidelines for playing with upgradeable gear. |
+|  | Use the item assets if you wish to have objects with mechanical impact when playing ***Starforged***. |
+| **[[ANWD_CH9_Full\|Chapter 9]] —** | **[[ANWD_CH9_Full\|Additional Moves]] (page 222):** New moves for *Starforged*. |
+|  | Use this content when you want to add new twists and nuances to your ***Starforged*** game. |
 
-*10 ANCIENT WONDERS*
+*10 ANCIENT WONDERS  - [[#^TOC]]*
 
 # SYSTEM-AGNOSTIC USAGE
-Many chapters in this book work as system-agnostic materials for any science fiction tabletop roleplaying games, while some of their content use the Starforged system. Here is an overview of the chapters and their dependencies . 
+Many chapters in this book work as system-agnostic materials for any science fiction tabletop roleplaying games, while some of their content use the ***Starforged*** system. Here is an overview of the chapters and their dependencies . 
 
 | Chapter | Dependency | Usage | Starforged needed for... |
 | --- | --- | --- | --- |
-| 2. Solar Systems | System-agnostic | Solar systems generation | Details generation |
-| 3. Planets Expanded | System-agnostic | Worlds, planets and moons generation | Exploration |
-| 4. Alien Megastructures | System-agnostic | Ancient megastructures generation | Exploration |
-| 5. Alien Megacities | System-agnostic | Ancient megacities generation | Exploration |
-| 6. Denizens and Phenomena | System-agnostic | Constructs and anomalies generation | Bio-mech generation and encounters |
-| 7. Special Companion Assets | Starforged | New type of asset for Starforged | Full use |
-| 8. Item Assets | Starforged | New type of asset for Starforged | Full use |
-| 9. Additional Moves | Starforged | New moves for Starforged | Full use |
+| [[ANWD_CH2_Full\|2. Solar Systems]] | System-agnostic | Solar systems generation | Details generation |
+| [[ANWD_CH3_Full\|3. Planets Expanded]] | System-agnostic | Worlds, planets and moons generation | Exploration |
+| [[ANWD_CH4_Full\|4. Alien Megastructures]] | System-agnostic | Ancient megastructures generation | Exploration |
+| [[ANWD_CH5_Full\|5. Alien Megacities]] | System-agnostic | Ancient megacities generation | Exploration |
+| [[ANWD_CH6_Full\|6. Denizens and Phenomena]] | System-agnostic | Constructs and anomalies generation | Bio-mech generation and encounters |
+| [[ANWD_CH7_Full\|7. Special Companion Assets]] | Starforged | New type of asset for *Starforged* | Full use |
+| [[ANWD_CH8_Full\|8. Item Assets]] | Starforged | New type of asset for *Starforged* | Full use |
+| [[ANWD_CH9_Full\|9. Additional Moves]] | Starforged | New moves for *Starforged* | Full use |
 
 ## REFERENCES TO OTHER MATERIALS
 The ***Starforged Reference Guide*** is referred to in this bookas RG. Other supplements referred to in this book are ***Space Sightings Expanded*** (SSE for short) published by Ludic Pen, and ***Sundered Isles*** (SI for short), published by Tomkin Press. They are not necessary to use with this expansion but recommended to further enhance your experience.
@@ -130,12 +131,12 @@ Some tables in this book are marked with a triangle icon: [tri-skull]. These are
 >
 > *After making your oracle roll, look at the value of your cursed die. If it’s a 10, your answer is cursed—you should check the cursed version of that table for your answer. Cursed tables are marked with a large version of the skull icon, and are often on the same page or the next page. If in doubt, a page number next to the small cursed icon will show the way.* 
 >
-> *See page 48 [of ***Sundered Isles***] for details on using the cursed die.*
+> *See page 48%% #typo Wrong page number %% [of ***[[SI_CH3_The Cursed Die|Sundered Isles]]***] for details on using the cursed die.*
 
-*11 CHAPTER 1: INTRODUCTION*
+*11 CHAPTER 1: INTRODUCTION  - [[#^TOC]]*
 
 ## ACTION
-Use this oracle to generate a verb that, if matched with the Theme oracle, provides a prompt that can answer any goal, situation, or event.
+Use this oracle to generate a verb that, if matched with the _Theme_ oracle, provides a prompt that can answer any goal, situation, or event.
 
 |  |  |  |  |  |  |  |  |  |  |
 | :---: | --- | :---: | --- | :---: | --- | :---: | --- | :---: | --- |
@@ -161,7 +162,7 @@ Use this oracle to generate a verb that, if matched with the Theme oracle, provi
 | 20 | Charge | 40 | Escalate | 60 | Learn | 80 | Restore | 100 | Withdraw |
 
 ## THEME
-Use this oracle to generate an abstract noun that, if matched with the Action oracle, provides an interpretative answer to most questions.
+Use this oracle to generate an abstract noun that, if matched with the _Action_ oracle, provides an interpretative answer to most questions.
 
 |  |  |  |  |  |  |  |  |  |  |
 | :---: | --- | :---: | --- | :---: | --- | :---: | --- | :---: | --- |
@@ -186,10 +187,10 @@ Use this oracle to generate an abstract noun that, if matched with the Action or
 | 19 | Death | 39 | Greed | 59 | Passage | 79 | Secret | 99 | Weapon |
 | 20 | Debt | 40 | Hardship | 60 | Peace | 80 | Solution | 100 | World |
 
-*12 ANCIENT WONDERS*
+*12 ANCIENT WONDERS - [[#^TOC]]*
 
 ## DESCRIPTOR
-Use this oracle to generate an adjective that, if matched with the Focus oracle, provides detail of a location, discovery, or encounter.
+Use this oracle to generate an adjective that, if matched with the _Focus_ oracle, provides detail of a location, discovery, or encounter.
 
 |  |  |  |  |  |  |  |  |  |  |
 | :---: | --- | :---: | --- | :---: | --- | :---: | --- | :---: | --- |
@@ -215,7 +216,7 @@ Use this oracle to generate an adjective that, if matched with the Focus oracle,
 | 20 | Confined | 40 | Fiery | 60 | Isolated | 80 | Radiant | 100 | Violent |
 
 ## FOCUS
-Use this oracle to generate an concrete noun that, if matched with the Descriptor oracle, provides what's needed to picture or dress an environment, finding, or encounter.
+Use this oracle to generate %% #typo grammar %%an concrete noun that, if matched with the _Descriptor_ oracle, provides what's needed to picture or dress an environment, finding, or encounter.
 
 |  |  |  |  |  |  |  |  |  |  |
 | :---: | --- | :---: | --- | :---: | --- | :---: | --- | :---: | --- |
@@ -240,6 +241,6 @@ Use this oracle to generate an concrete noun that, if matched with the Descripto
 | 19 | Creature | 39 | Hazard | 59 | Person | 79 | Spacetime | 99 | World |
 | 20 | Crossing | 40 | Hideaway | 60 | Plant | 80 | Starship | 100 | Wreckage |
 
-*13 CHAPTER 1: INTRODUCTION*
+*13 CHAPTER 1: INTRODUCTION - [[#^TOC]]*
 
 # [[ANWD_CH2_Full\|CHAPTER 2]]

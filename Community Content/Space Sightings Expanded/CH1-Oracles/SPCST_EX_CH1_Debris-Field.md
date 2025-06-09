@@ -29,12 +29,12 @@ Oracle: Space
 OracleFocus: "Debris Field"
 OracleDescriptor: "Debris Fields can be composed of many different objects and possibly sustain life and settlements"
 ---
-# [[_SPCST_EX|Space Sightings Expanded]] - [[_SPCST_EX_CH1_Oracles\|Oracles]]: Debris Field
+# [[_Space Sightings Expanded|Space Sightings Expanded]] - [[_SPCST_EX_CH1_Oracles\|Oracles]]: Debris Field
 From the resources vital for humanities prosperity to the leftovers of our failings and natures triumphs.
 
-_**Oracle Quest:** A ==**>Faction**== has made contact and advise they have recieved reports of a ==**>Creature**== (medium size) that entered their ==**>Settlement**== located at ==**>Mineral Asteroids**==. The creature massacred the population. The faction believe that there are survivors and need assistance rescuing them. How do you intend to do so? What creature could be capable of such carnage?_
+_**Oracle Quest:** A ==**▶[[SF_CH5_Faction-Types|Faction]]**== has made contact and advise they have received reports of a ==**▶[[SF_CH5_Creature-Environment-Scale\|Creature]]**== (medium size) that entered their ==**▶[[SF_CH5_Settle-Creation\|Settlement]]**== located at ==**▶[[SPCST_EX_CH1_Debris-Field#Oracle Mineral Asteroids|Mineral Asteroids]]**==. The creature massacred the population. The faction believe that there are survivors and need assistance rescuing them. How do you intend to do so? What creature could be capable of such carnage?_
 
-_**Oracle Quest:** While sojourning at ==**>Settlement**== in a ==**>Crystalline Asteroids**== field, a fight erupts between two ==**>Guilds**== over ones mistreatment of the others workers and the ‘illegal’ seizure of their equipment. How would you look into the matter more? What will you do if the allegations are true?_
+_**Oracle Quest:** While sojourning at ==**▶[[SF_CH5_Settle-Creation\|Settlement]]**== in a ==**▶[[SPCST_EX_CH1_Debris-Field#Oracle Crystalline Asteroids|Crystalline Asteroids]]**== field, a fight erupts between two ==**▶[[SF_CH5_Faction-Types#Oracle Faction Guild|Guilds]]**== over ones mistreatment of the others workers and the ‘illegal’ seizure of their equipment. How would you look into the matter more? What will you do if the allegations are true?_
 
 ## Oracle: Sample Names
 
@@ -61,8 +61,8 @@ _**Oracle Quest:** While sojourning at ==**>Settlement**== in a ==**>Crystalline
 | 67 - 81 | Non - Ferrous metal ores |
 | 82 - 91 | Precious metal ores |
 | 92 - 96 | Exotic ores |
-| 97 - 99 | >Descriptor + Focus; pg 8-9 |
-| 100 | >Precursor Vault (grounded); pg 92 |
+| 97 - 99 | ▶[[SF_CH5_Core_Descriptor-Focus#Oracle Descriptor\|Descriptor]] + ▶[[SF_CH5_Core_Descriptor-Focus#Oracle Focus\|Focus]]; pg 8-9 |
+| 100 | ▶[[SF_CH5_Vault-Exterior\|Precursor Vault]] (grounded); pg 92 |
 ^table-Mineral-Asteroids
 
 ## Oracle: Frozen Asteroids
@@ -74,8 +74,8 @@ _**Oracle Quest:** While sojourning at ==**>Settlement**== in a ==**>Crystalline
 | 67 - 81 | Solidified - Gas asteroids |
 | 82 - 91 | Mixed - Ice asteroids |
 | 92 - 96 | Exotic - Ice asteroids |
-| 97 - 99 | >Descriptor + Focus; pg 8-9 |
-| 100 | >Precursor Vault (grounded); pg 92 |
+| 97 - 99 | ▶[[SF_CH5_Core_Descriptor-Focus#Oracle Descriptor\|Descriptor]] + ▶[[SF_CH5_Core_Descriptor-Focus#Oracle Focus\|Focus]]; pg 8-9 |
+| 100 | ▶[[SF_CH5_Vault-Exterior\|Precursor Vault]] (grounded); pg 92 |
 ^table-Frozen-Asteroids
 
 ## Oracle: Crystalline Asteroids
@@ -87,8 +87,8 @@ _**Oracle Quest:** While sojourning at ==**>Settlement**== in a ==**>Crystalline
 | 67 - 81 | Semi - Precious asteroids |
 | 82 - 91 | Precious asteroids |
 | 92 - 96 | Exotic crystalline asteroids |
-| 97 - 99 | >Descriptor + Focus; pg 8-9 |
-| 100 | >Precursor Vault (grounded); pg 92 |
+| 97 - 99 | ▶[[SF_CH5_Core_Descriptor-Focus#Oracle Descriptor\|Descriptor]] + ▶[[SF_CH5_Core_Descriptor-Focus#Oracle Focus\|Focus]]; pg 8-9 |
+| 100 | ▶[[SF_CH5_Vault-Exterior\|Precursor Vault]] (grounded); pg 92 |
 ^table-Crystalline-Asteroids
 
 ## Oracle: Metallic Wreckage
@@ -98,10 +98,10 @@ _**Oracle Quest:** While sojourning at ==**>Settlement**== in a ==**>Crystalline
 | 1 - 41 | Metallic Detritus |
 | 42 - 66 | Metallic Debris |
 | 67 - 76 | Destroyed settlement |
-| 77 - 91 | >Starship (wreck); pg 58 |
-| 92 - 96 | >Descriptor + Focus; pg 8-9 |
-| 97 - 99 | >Derelict; pg 80 |
-| 100 | >Precursor Vault (orbital); pg 92 |
+| 77 - 91 | ▶[[SF_CH5_Starship-Creation\|Starship]] (wreck); pg 58 |
+| 92 - 96 | ▶[[SF_CH5_Core_Descriptor-Focus#Oracle Descriptor\|Descriptor]] + ▶[[SF_CH5_Core_Descriptor-Focus#Oracle Focus\|Focus]]; pg 8-9 |
+| 97 - 99 | ▶[[SF_CH5_Derelict_Create\|Derelict]]; pg 80 |
+| 100 | ▶[[SF_CH5_Vault-Exterior\|Precursor Vault]] (orbital); pg 92 |
 ^table-Metallic-Wreckage
 
 ## Oracle: Creature Boneyard
@@ -114,8 +114,8 @@ Roll on the >Creature Scale table (pg 68). Then, determine the numbers of remain
 | 67 - 76 | Partially consumed carcass(es) |
 | 77 - 91 | Scavenged or processed carcass(es) |
 | 92 - 96 | Fresh carcass(es) |
-| 97 - 99 | >Descriptor + Focuss; pg 8-9 |
-| 100 | >Precursor Vault (orbital); pg 92 |
+| 97 - 99 | ▶[[SF_CH5_Core_Descriptor-Focus#Oracle Descriptor\|Descriptor]] + ▶[[SF_CH5_Core_Descriptor-Focus#Oracle Focus\|Focus]]; pg 8-9 |
+| 100 | ▶[[SF_CH5_Vault-Exterior\|Precursor Vault]] (orbital); pg 92 |
 ^table-Creature-Bonyard
 
 ## Oracle: Debris Field Density
@@ -129,7 +129,7 @@ Roll on the >Creature Scale table (pg 68). Then, determine the numbers of remain
 | 94 - 100 | Bountiful |
 ^table-Debris-Field-Density
 
-*12*
+*Page 12*
 
 ## Oracle: Life
 
@@ -200,12 +200,12 @@ If you take resources from a debris field claimed by another and get caught, env
 | 96 - 100 | Abundant | 2 |
 ^table-Resource-Presence
 
-*13*
+*Page 13*
 
 
 ## Tags
 | Previous Page | Tags | Next Page |
 | :--- | :---: | ---: |
-| **[[SPCST_EX_CH1_Descriptor-Focus\|Descriptor + Focus (Space Sightings Expanded)]]** | #SpaceSightingsExpanded/Oracles | **[[SPCST_EX_CH1_Rouge-Asteroid\|Large Rouge Asteroid (Space Sighting Expanded)]]** |
+| **[[SPCST_EX_CH1_Descriptor-Focus\|Descriptor + Focus (Space Sightings Expanded)]]** | #SpaceSightingsExpanded/Oracles | **[[SPCST_EX_CH1_Rogue-Asteroid\|Large Rouge Asteroid (Space Sighting Expanded)]]** |
 
 <font size=-2>This work is based on *Ironsworn: Starforged*, created by Shawn Tomkin, and licensed for our use under the Creative Commons Attribution 4.0 International License. Made for the Starforged 2023 Jam, hosted by Kerys and Margot Hutton • www.ludicpen.com • @LudicPen on Facebook and Instagram • ludicpen@gmail.com • discord.gg/v5j54wsJC6</font>

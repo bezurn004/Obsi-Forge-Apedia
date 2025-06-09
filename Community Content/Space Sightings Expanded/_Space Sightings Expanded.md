@@ -22,7 +22,7 @@ PageOrder: 1
 > |  |  |
 > | ORACLE: SPACE SIGHTINGS | [[_SPCST_EX_CH1_Oracles\|Page 10]] |
 > | - DEBRIS FIELDS | [[SPCST_EX_CH1_Debris-Field\|Page 12]] |
-> | - LARGE ROUGE ASTEROID | [[SPCST_EX_CH1_Rouge-Asteroid\|Page 14]] |
+> | - LARGE ROUGE ASTEROID | [[SPCST_EX_CH1_Rogue-Asteroid\|Page 14]] |
 > | - COMET WITH A TAIL OF IONIZED GAS | [[SPCST_EX_CH1_Comet-Ionized\|Page 16]] |
 > | - FIERY ENERGY STORM | [[SPCST_EX_CH1_Fiery-Storm\|Page 18]] |
 > | - CHAOTIC METEROID STORM | [[SPCST_EX_CH1_Meteoroid-Storm\|Page 20]] |

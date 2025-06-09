@@ -30,12 +30,12 @@ Oracle: Space
 OracleFocus: "Large Rogue Asteroid"
 OracleDescriptor: "The remains of a celestial formation –or destruction– that wanders through space."
 ---
-# [[_SPCST_EX|Space Sightings Expanded]] - [[_SPCST_EX_CH1_Oracles\|Oracles]]: Large Rougue Asteroid
+# [[_Space Sightings Expanded|Space Sightings Expanded]] - [[_SPCST_EX_CH1_Oracles\|Oracles]]: Large Rougue Asteroid
 The remains of a celestial formation –or destruction– that wanders through space.
 
-_**Oracle Quest:** A ==**>Large Rogue Asteroid**== has had its trajectory altered through kinetic rockets to travel into a contested sector. It broadcasts a signal warning away trespassers while declaring its ownership by a local ==**>Faction**==. However, unusual interference distorts the message as well as your ships sensors when trying to take readings. Why is the sector contested? What motivation could there be to move such a large object?_
+_**Oracle Quest:** A ==**▶[[SPCST_EX_CH1_Rogue-Asteroid|Large Rogue Asteroid]]**== has had its trajectory altered through kinetic rockets to travel into a contested sector. It broadcasts a signal warning away trespassers while declaring its ownership by a local ==**▶[[SF_CH5_Faction-Types|Faction]]**==. However, unusual interference distorts the message as well as your ships sensors when trying to take readings. Why is the sector contested? What motivation could there be to move such a large object?_
 
-_**Oracle Quest:** What had been considered a comet due to its trail of flickering radiant lights has been discovered to be a ==**>Large Rogue Asteroid**==. The object is passing through a sector and reports indicate that the population of a nearby ==**>Settlement**== has vanished almost entirely. Those unaffected communities nearby claim the asteroid is to blame, that the lights themselves were the harbingers of the disappearences. How could the asteroid and the lights be responsible? Where have the missing population gone?_
+_**Oracle Quest:** What had been considered a comet due to its trail of flickering radiant lights has been discovered to be a ==**▶[[SPCST_EX_CH1_Rogue-Asteroid|Large Rogue Asteroid]]**==. The object is passing through a sector and reports indicate that the population of a nearby ==**▶[[SF_CH5_Settle-Creation\|Settlement]]**== has vanished almost entirely. Those unaffected communities nearby claim the asteroid is to blame, that the lights themselves were the harbingers of the disappearances. How could the asteroid and the lights be responsible? Where have the missing population gone?_
 
 ## Oracle: Sample Names
 
@@ -75,8 +75,8 @@ _**Oracle Quest:** What had been considered a comet due to its trail of flickeri
 | 56 - 66 | Impact trajectory |
 | 67 - 77 | Exotic composition |
 | 78 - 88 | Artificial origin |
-| 89 - 98 | >Descriptor + Focus; pg 8-9 |
-| 99 - 100 | >Precursor Vault (orbital); pg 92 |
+| 89 - 98 | ▶[[SF_CH5_Core_Descriptor-Focus#Oracle Descriptor\|Descriptor]] + ▶[[SF_CH5_Core_Descriptor-Focus#Oracle Focus\|Focus]]; pg 8-9 |
+| 99 - 100 | ▶[[SF_CH5_Vault-Exterior\|Precursor Vault]] (orbital); pg 92 |
 ^table-Observed-From-Afar
 
 ## Oracle: Observed From Nearby
@@ -96,8 +96,8 @@ _**Oracle Quest:** What had been considered a comet due to its trail of flickeri
 | 71 - 77 | Sensory interference |
 | 78 - 84 | Artificial landscapes |
 | 85 - 91 | Emenating signal |
-| 92 - 98 | >Descriptor + Focus; pg 8-9 |
-| 99 - 100 | >Precursor Vault (grounded); pg 92 |
+| 92 - 98 | ▶[[SF_CH5_Core_Descriptor-Focus#Oracle Descriptor\|Descriptor]] + ▶[[SF_CH5_Core_Descriptor-Focus#Oracle Focus\|Focus]]; pg 8-9 |
+| 99 - 100 | ▶[[SF_CH5_Vault-Exterior\|Precursor Vault]] (grounded); pg 92 |
 ^table-Observed-From-Nearby
 
 ## Oracle: Asteroid Size
@@ -146,7 +146,7 @@ _**Oracle Quest:** What had been considered a comet due to its trail of flickeri
 | -- | -- | -- | Settlements in conflict |
 ^table-Settlements-All
 
-*14*
+*Page 14*
 
 ### Oracle: Settlements - Terminus
 
@@ -196,7 +196,7 @@ Then, envision how the impact affects any life and settlements on that planet.
 | -- | -- | -- | 66 - 100 | 21 - 100 | Shattered World |
 ^table-Asteroid-Impact-Outcome-All
 
-*15*
+*Page 15*
 
 ### Oracle: Asteroid Impact Outcomes - Huge
 

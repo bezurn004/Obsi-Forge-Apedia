@@ -24,14 +24,14 @@ Oracle: Space
 OracleFocus: "Turbolent Gravitational Wave"
 OracleDescriptor: "A ripple in the fabric of spacetime, that can cause anything from minor interference to apocalyptic events."
 ---
-# [[_SPCST_EX|Space Sightings Expanded]] - [[_SPCST_EX_CH1_Oracles\|Oracles]]: Turbulent Gravitational Wave
+# [[_Space Sightings Expanded|Space Sightings Expanded]] - [[_SPCST_EX_CH1_Oracles\|Oracles]]: Turbulent Gravitational Wave
 A ripple in the fabric of spacetime, that can cause anything from minor interference to apocalyptic events.
 
-_**Oracle Quest:** A local news broadcast advises that the ==**>Precursor Vault**== on ==**>Planet**== has begun to continuosly emit an unusual ==**>Turbulent Gravitational Wave**== (1-Feinmann, planet-sized) after contact had been lost with a team of researchers who had been assigned to the site. (Set a tension clock with 8 segments. Each 2 segments filled increases the wave Intensity by 1). What could have happened in the vault? What will you do if you are unable to help in time?_
+_**Oracle Quest:** A local news broadcast advises that the ==**▶[[SF_CH5_Vault-Exterior|Precursor Vault]]**== on ==**▶[[_SF_CH5_Planets#Planetary Class\|Planet]]**== has begun to continuosly emit an unusual ==**▶[[SPCST_EX_CH1_Gravitational-Wave|Turbulent Gravitational Wave]]**== (1-Feinmann, planet-sized) after contact had been lost with a team of researchers who had been assigned to the site. (Set a tension clock with 8 segments. Each 2 segments filled increases the wave Intensity by 1). What could have happened in the vault? What will you do if you are unable to help in time?_
 
-_**Oracle Quest:** ==**>Character Name**== has demanded that you travel to ==**>Settlement (Orbital)**== and steal the ==**>Descriptor**== + ==**Focus**==, as it has recenty been impacted by a ==**>Turbulent Gravitation Wave**== (2-Feinmann) that has affected all on-board electronics as well as its security system. Why do you need to steal this object? What security will you encounter?_
+_**Oracle Quest:** ==**▶[[SF_CH5_Character-Names|Character Name]]**== has demanded that you travel to ==**▶[[SF_CH5_Settle-Creation\|Settlement]] (Orbital)**== and steal the ==**▶[[SF_CH5_Core_Descriptor-Focus#Oracle Descriptor|Descriptor]]**== + ==**▶[[SF_CH5_Core_Descriptor-Focus#Oracle Focus|Focus]]**==, as it has recently been impacted by a ==**▶[[SPCST_EX_CH1_Gravitational-Wave|Turbulent Gravitational Wave]]**== (2-Feinmann) that has affected all on-board electronics as well as its security system. Why do you need to steal this object? What security will you encounter?_
 
-*23*
+*Page 23*
 
 ## Oracle: Shape
 
@@ -55,8 +55,8 @@ _**Oracle Quest:** ==**>Character Name**== has demanded that you travel to ==**>
 | 56 - 66 | Temporal fracturing |
 | 67 - 77 | Astral coloration |
 | 78 - 88 | Empyrean resonations |
-| 89 - 98 | >Descriptor + Focus; pg 8-9 |
-| 99 - 100 | >Precursor Vault; pg 92 |
+| 89 - 98 | ▶[[SF_CH5_Core_Descriptor-Focus#Oracle Descriptor\|Descriptor]] + ▶[[SF_CH5_Core_Descriptor-Focus#Oracle Focus\|Focus]]; pg 8-9 |
+| 99 - 100 | ▶[[SF_CH5_Vault-Exterior\|Precursor Vault]]; pg 92 |
 ^table-Observations
 
 ## Oracle: Feinnmann Burst Scale

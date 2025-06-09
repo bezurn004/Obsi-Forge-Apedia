@@ -11,7 +11,7 @@ PageType: "Quest Front"
 PageCategory: Faction
 PageOrder: 16
 ---
-# [[_SPCST_EX|Space Sightings Expanded]] - [[_SPCST_EX_CH2_Quest-Front|Quest Front]]: Faction - Coalition of Golden Heralds
+# [[_Space Sightings Expanded|Space Sightings Expanded]] - [[_SPCST_EX_CH2_Quest-Front|Quest Front]]: Faction - Coalition of Golden Heralds
 *Invoking the New Dawn*
 
 Religious collectives have existed for as long as mankind has been conscious. Since the development of technologies that allowed space travel, and with the discovery of ancient alien artifacts that facilitated colonisation beyond the reaches of our star, the religions of our species have lost influence over the years. However, they never ceased to exist. Their perspective of the cosmos evolved with each scientific breakthrough. Every discovery, every new finding, every advance in human progress has been reinterpreted to reinforce numerous belief systems.
@@ -36,10 +36,10 @@ It is the leader of the Coalition of Golden Heralds who hires you to carry out t
 	- Caught in the crossfire of feuding factions
 	- Knows the location of a fabled treasure or lost technology
 - Relationships:
-- Holds contempt for the Kamarakon Dynasty and Sacred Accord
-- Antagonistic towards the Shattered Flames
+- Holds contempt for the [[SPCST_EX_CH2_Kamarakon-Dynasty|Kamarakon Dynasty]] and [[SPCST_EX_CH2_Sacred-Accord|Sacred Accord]]
+- Antagonistic towards the [[SPCST_EX_CH2_Shattered-Flames|Shattered Flames]]
 
-*32*
+*Page 32*
 
 ## Tags
 | Previous Page | Tags | Next Page |

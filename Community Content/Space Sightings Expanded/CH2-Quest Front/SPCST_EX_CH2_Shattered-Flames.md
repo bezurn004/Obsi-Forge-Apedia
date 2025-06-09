@@ -11,7 +11,7 @@ PageType: "Quest Front"
 PageCategory: Faction
 PageOrder: 17
 ---
-# [[_SPCST_EX|Space Sightings Expanded]] - [[_SPCST_EX_CH2_Quest-Front|Quest Front]]: Faction - Shattered Flames
+# [[_Space Sightings Expanded|Space Sightings Expanded]] - [[_SPCST_EX_CH2_Quest-Front|Quest Front]]: Faction - Shattered Flames
 *Reborn from the ashes*
 Not all factions have decided to participate in the Great War— at least not directly. Some, like parasites in a large ecosystem, feed on it and grow from the remains it leaves behind. There are many of them, as numerous as the sectors in conflict, but as is human nature, the lust for power leads some to step on the toes of others, thus carrying out their own wars for power, like scavengers fighting for misery.
 
@@ -34,14 +34,14 @@ We know that Shattered Flames is nothing more than the pure expression of extrem
 	- Leaders are puppets of another power or faction
 	- Operations are a false front for their true purpose
 - Relationships:
-	- Apathetic towards the Kamarakon Dynasty, Sacred Accord, and Coallition of Golden Heralds
+	- Apathetic towards the [[SPCST_EX_CH2_Kamarakon-Dynasty|Kamarakon Dynasty]], [[SPCST_EX_CH2_Sacred-Accord|Sacred Accord]], and [[SPCST_EX_CH2_Coallition-of-Golden-Heralds|Coalition of Golden Heralds]]
 
-*33*
+*Page 33*
 
 
 ## Tags
 | Previous Page | Tags | Content Index |
 | :--- | :---: | ---: |
-| **[[SPCST_EX_CH2_Coallition-of-Golden-Heralds\|Faction - Coallition of Golden Heralds (Space Sightings Expanded)]]** | #SpaceSightingsExpanded/QuestFront | **[[_SPCST_EX\|Space Sightings Expanded]]** |
+| **[[SPCST_EX_CH2_Coallition-of-Golden-Heralds\|Faction - Coallition of Golden Heralds (Space Sightings Expanded)]]** | #SpaceSightingsExpanded/QuestFront | **[[_Space Sightings Expanded\|Space Sightings Expanded]]** |
 
 <font size=-2>This work is based on *Ironsworn: Starforged*, created by Shawn Tomkin, and licensed for our use under the Creative Commons Attribution 4.0 International License. Made for the Starforged 2023 Jam, hosted by Kerys and Margot Hutton • www.ludicpen.com • @LudicPen on Facebook and Instagram • ludicpen@gmail.com • discord.gg/v5j54wsJC6</font>

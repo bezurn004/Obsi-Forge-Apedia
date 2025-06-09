@@ -11,7 +11,7 @@ PageType: Introduction
 PageCategory: Intro
 PageOrder: 2
 ---
-# [[_SPCST_EX|Space Sightings Expanded]]: Introduction
+# [[_Space Sightings Expanded|Space Sightings Expanded]]: Introduction
 *Space Sightings Expanded* extends the results of the oracle present in *Ironsworn: Starforged*, the science fiction tabletop role-playing game by Shawn Tomkin. Even though the use of said game is encouraged, it is not needed to make use of this material.
 
 This supplement builds upon the natural wonders you might discover while voyaging through space, though they won’t be without their potential danger. Each oracle of this supplement intends to provide you with additional information to help flesh out any scenario and take on perilous quests in your travels amongst the stars.
@@ -31,7 +31,7 @@ In order to give them narrative weight, it is encouraged to make many of these w
 > 
 > Since space is incomprehensibly vast and empty, don’t feel obligated to use the Space Sightings oracle for every waypoint on an interstellar journey. Instead, you may assume there is nothing of note and move on. Roll for a sighting only when you are inspired to inject uncertainty, danger, strangeness, or narrative potential into your story. Some of these results will be mundane, but others will lead to new wonders or hazards.
 > 
-> ==*Ironsworn: Starforged, page 301*==
+> ==*[[_SF_CH5_Space-Encounters|Ironsworn: Starforged, page 301]]*==
 
 ## ATMOSPHERE
 In *Space Sightings: Expanded* atmosphere is generally meant to indicate the presence of gases or fine dust particles, either free floating in space or in significant quantities, whether by happenstance, or as the by-product of some other process (this could also infer a more standard type of atmosphere should the object be large enough).
@@ -63,7 +63,7 @@ When you seek to resolve questions, discover details, reveal locations, determin
 | Almost Certain | 90 or less |
 ^table-Ask-The-Oracle
 
-On a match, envision an extreme result or twist.On a match, envision an extreme result or twist.
+On a match, envision an extreme result or twist. On a match, envision an extreme result or twist.
 
 ## SECTOR
 An explorable area of space. In these, any number of space-based bodies or phenomena may be located, varying from stars and planets to all of the objects included, or referred to, within this supplement.
@@ -71,16 +71,16 @@ An explorable area of space. In these, any number of space-based bodies or pheno
 ## SETTLEMENT
 Buildings that house communities. *Space Sightings: Expanded* refers to settlements as either being ‘grounded’ or ‘orbital’.
 - A grounded settlement refers to one that exists upon a solid surface and is generally fixed in place.
-- An orbital settlement refers to one that is either in orbit of an object or in deep space nearby. When your roll result is an orbital settlement, **Ask the Oracle** (50/50) if it is in active orbit around a specific object; if it is not, the settlement is considered as being deep space.
+- An orbital settlement refers to one that is either in orbit of an object or in deep space nearby. When your roll result is an orbital settlement, **[[SF_CH3_Ask the Oracle#Ask The Oracle Move Card|Ask the Oracle]]** (50/50) if it is in active orbit around a specific object; if it is not, the settlement is considered as being deep space.
 
 ## TENSION CLOCK
 An *Ironsworn: Starforged* mechanic (pg 238) that consists in setting a clock of 4, 6, 8 or 10 segments to represent a looming threat or escalating danger. The clock advances by 1 segment each time the player must pay a narrative cost or if there is some form of narrative complication. It can advance by 2 segments should the narrative or complication be especially dire.
 
-*7*
+*Page 7*
 
 ## Tags
 | Content Index | Tags | Next Section | 
 | :--- | :---: | ---: |
-| **[[_SPCST_EX\|Space Sightings Expanded]]** | #SpaceSightingsExpanded | **[[_SPCST_EX_CH1_Oracles\|Oracles (Space Sighting Expanded)]]** |
+| **[[_Space Sightings Expanded\|Space Sightings Expanded]]** | #SpaceSightingsExpanded | **[[_SPCST_EX_CH1_Oracles\|Oracles (Space Sighting Expanded)]]** |
 
 <font size=-2>This work is based on *Ironsworn: Starforged*, created by Shawn Tomkin, and licensed for our use under the Creative Commons Attribution 4.0 International License. Made for the Starforged 2023 Jam, hosted by Kerys and Margot Hutton • www.ludicpen.com • @LudicPen on Facebook and Instagram • ludicpen@gmail.com • discord.gg/v5j54wsJC6</font>

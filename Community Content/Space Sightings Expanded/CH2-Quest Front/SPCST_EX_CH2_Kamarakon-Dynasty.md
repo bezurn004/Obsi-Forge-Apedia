@@ -11,7 +11,7 @@ PageType: "Quest Front"
 PageCategory: Faction
 PageOrder: 14
 ---
-# [[_SPCST_EX|Space Sightings Expanded]] - [[_SPCST_EX_CH2_Quest-Front|Quest Front]]: Faction - Kamarakon Dynasty
+# [[_Space Sightings Expanded|Space Sightings Expanded]] - [[_SPCST_EX_CH2_Quest-Front|Quest Front]]: Faction - Kamarakon Dynasty
 *On the verge of evolution and onwards*
 
 Originally a hull manufacturing and metal rolling company, this industrious corporation began as a hard-working family business back in our homeland. Over the generations, the leaders have passed on the keys to the business to their children right up to the present day, forming the strongest remaining human dynasty.
@@ -20,7 +20,7 @@ They believe in infinite growth, but do not rush to get there. Much like one of 
 
 For years their efforts have been concentrated on developing transhumanist technology; and for this, they have sought out resources. Their jealousy, combined with their ambition, makes them an extremely warlike and hostile faction.
 
-They are convinced that they will bring about the next evolutionary step in the human species, and nothing seems to stop them—neither the exploitation of naturalassets in inhabited places, nor labor exploitation.
+They are convinced that they will bring about the next evolutionary step in the human species, and nothing seems to stop them—neither the exploitation of natural assets in inhabited places, nor labor exploitation.
 
 Several factions have allied to fight them, either for the purpose of stopping their human and natural environment abuses or for ideological reasons. Some claim that the Kamarakon Dynasty’s agenda is to reach the potential of the precursors, but their detractors claim that in the dynasty’s attempts to get there, they may meet the same fate as the forsaken alien species: extinction.
 
@@ -39,11 +39,11 @@ Several factions have allied to fight them, either for the purpose of stopping t
 	- Developing revolutionary technology
 	- New belief or religion is creating a schism among members
 - Relationships:
-	- Warring with the Sacred Accord
-	- Apathetic of the Shattered Flames
-	- Antagonistic towards the Coallition of Golden Heralds
+	- Warring with the [[SPCST_EX_CH2_Sacred-Accord|Sacred Accord]]
+	- Apathetic of the [[SPCST_EX_CH2_Shattered-Flames|Shattered Flames]]
+	- Antagonistic towards the [[SPCST_EX_CH2_Coallition-of-Golden-Heralds|Coalition of Golden Heralds]]
 
-*30*
+*Page 30*
 
 
 ## Tags

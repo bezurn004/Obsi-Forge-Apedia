@@ -11,16 +11,16 @@ PageType: "Quest Front"
 PageCategory: Faction
 PageOrder: 15
 ---
-# [[_SPCST_EX|Space Sightings Expanded]] - [[_SPCST_EX_CH2_Quest-Front|Quest Front]]: Faction - Sacred Accord
+# [[_Space Sightings Expanded|Space Sightings Expanded]] - [[_SPCST_EX_CH2_Quest-Front|Quest Front]]: Faction - Sacred Accord
 *Infinite care in a finite galaxy*
 
 When the Cataclysm occurred, the humanistic organizations decided to gather forces to safeguard what they deemed the most valuable: humanity’s spiritual well-being.
 
 The Sacred Accord—both as an ideology and a foundation—was born from the principle that humanity must be responsible for its interaction with the universe and for its existence as a sensitive species. This implies moderation with limited resources while still striving for the best quality of life possible.
 
-Their income relies mainly on providing human resources and services to the highest social classes, which makes their utopian ideals inaccessible for most of humanity—an irony for which they are constantly reproached. However, given their active participation in the Great War, they are forced to produce weaponry to oppose the Kamarakon Dynasty. For this, they make use of specialized weapons that rely on biochemistry and experimental energy.
+Their income relies mainly on providing human resources and services to the highest social classes, which makes their utopian ideals inaccessible for most of humanity—an irony for which they are constantly reproached. However, given their active participation in the Great War, they are forced to produce weaponry to oppose the [[SPCST_EX_CH2_Kamarakon-Dynasty|Kamarakon Dynasty]]. For this, they make use of specialized weapons that rely on biochemistry and experimental energy.
 
-Their ideology results in them being conservative and what many consider to be old-fashioned by today’s standards. Their conflict with the Kamarakon Dynasty is due to what the Sacred Accord considers a violation of divine human nature. The transformation of humanity into something less organic or natural is seen by this foundation as a sacrilege to what makes us unique as a species in the known universe.
+Their ideology results in them being conservative and what many consider to be old-fashioned by today’s standards. Their conflict with the [[SPCST_EX_CH2_Kamarakon-Dynasty|Kamarakon Dynasty]] is due to what the Sacred Accord considers a violation of divine human nature. The transformation of humanity into something less organic or natural is seen by this foundation as a sacrilege to what makes us unique as a species in the known universe.
 
 - Faction type: Dominion
 - Dominion: Agriculture, artistry, and environmentalism
@@ -37,11 +37,11 @@ Their ideology results in them being conservative and what many consider to be o
 	- Preparing a major offensive or operation
 	- Holds a powerful artifact
 - Relationships:
-	- Warring with the Kamarakon Dynasty
-	- Holds contempt for the Shattered Flames
-	- Distrustful of the Coallition of Golden Heralds
+	- Warring with the [[SPCST_EX_CH2_Kamarakon-Dynasty|Kamarakon Dynasty]]
+	- Holds contempt for the [[SPCST_EX_CH2_Shattered-Flames|Shattered Flames]]
+	- Distrustful of the [[SPCST_EX_CH2_Coallition-of-Golden-Heralds|Coalition of Golden Heralds]]
 
-*31*
+*Page 31*
 
 ## Tags
 | Previous Page | Tags | Next Page |
