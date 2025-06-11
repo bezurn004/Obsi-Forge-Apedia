@@ -19,29 +19,27 @@ Number of Current Files
 - [ ] Oracle Rollers
 	- [ ] Forge Horizons
 	- [ ] Space Encounters Expanded
-	- [ ] Ancient Wonders
 
 ### V0.4.3.3
 - [ ] Create Oracle Tables from content
 	- [ ] Forge Horizons
 	- [ ] Space Encounters Expanded
-	- [ ] Ancient Wonders
 - [ ] Add guidance and in-line rollers to paginated oracles
 	- [ ] Forge Horizons
 	- [ ] Space Encounters Expanded
-	- [ ] Ancient Wonders
 
 ## Current Release
 
 ### V0.4.3.2
-- [ ] Full Chapter Content Linking
+- [x] Full Chapter Content Linking
 	- [x] Forge Horizons
-	- [ ] Space Encounters Expanded
-	- [ ] Ancient Wonders
+	- [x] Space Encounters Expanded
 - [ ] Paginated Text and Oracles tables linked to references (e.g. Descriptor +  Focus). Page references removed
 	- [x] Forge Horizons
-	- [ ] Space Encounters Expanded
-	- [ ] Ancient Wonders
+	- [x] Space Encounters Expanded
+- [x] Ancient Wonders content is removed due to copyright concerns by the publisher. A trimmed down version of the content will be released in a later revision
+- [x] Space Sightings content in Chapther 2 (Quest Front) is removed due to copyright concerns by the publisher.
+
 
 ## Completed Changes
 ### V0.4.3.1

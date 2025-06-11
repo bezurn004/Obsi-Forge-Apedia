@@ -70,7 +70,7 @@ Choose one of the settlements in your starting sector, whichever is most interes
 - [[SF_CH5_Settle_Approach#Oracle: Settlement First Look|Settlement First Look]] roll 1-2 times 
 - [[SF_CH5_Settle-Concerns|Settlement Trouble]]
 
-> Some results may refer you to another oracle, as indicated by an arrow symbol (▶). For example, if you roll ▶Action + Theme on the Settlement Trouble table, you’ll roll again on the [[SF_CH5_Core_Action-Theme|Action/Theme Oracle]] to generate an abstract creative prompt.
+> Some results may refer you to another oracle, as indicated by an arrow symbol (▶). For example, if you roll ▶Action + ▶Theme on the Settlement Trouble table, you’ll roll again on the [[SF_CH5_Core_Action-Theme|Action/Theme Oracle]] to generate an abstract creative prompt.
 
 If the settlement is planetside or in orbit, you can also expand your understanding of that planet. Go to the appropriate planet type [[_SF_CH5_Planets|Planet Oracles]], and roll on the following tables: 
 - **Atmosphere**

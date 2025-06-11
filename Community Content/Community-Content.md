@@ -22,10 +22,6 @@ Work is progressing to import community content from published material and cont
 > **[[_Space Sightings Expanded|Space Sightings Expanded]]** [author: Samuel Rondón]
 > This supplement builds upon the natural wonders you might discover while voyaging through space, though they won’t be without their potential danger.
 
-> **[[_Ancient Wonders|Acient Wonders]]** [author:  - Markos Marafelias, Samuel Rondón Acevedo, Nando Gallarday]
-> Throughout the supplement, you will be presented with a plethora of random tables to enhance your experience in the science fiction game of your preference.
-
-
 ## Obsidian Channel (Starforged Discord)
 Below are links to various resources pulled from discord.
 ### Vaults

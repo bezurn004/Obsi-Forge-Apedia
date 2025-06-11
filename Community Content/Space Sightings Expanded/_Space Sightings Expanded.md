@@ -28,9 +28,6 @@ PageOrder: 1
 > | - CHAOTIC METEROID STORM | [[SPCST_EX_CH1_Meteoroid-Storm\|Page 20]] |
 > | - TURBULENT GRAVITATIONAL WAVE | [[SPCST_EX_CH1_Gravitational-Wave\|Page 22]] |
 > | - DENSE NEBULA CLOUD | [[SPCST_EX_CH1_Nebula-Cloud\|Page 24]] |
-> |  |  |
-> | QUEST FRONT | [[_SPCST_EX_CH2_Quest-Front\|Page 26]] |
-> | - THE SUPPLICANT GOD | [[SPCST_EX_CH2_Supplicant-God\|Page 28]] |
 
 # CREDITS
 ## LAYOUT AND WRITING
