@@ -6,7 +6,7 @@ SourceLink:
 
 ## Page
 aliases:
-  - "Forge Horizons Index"
+  - "Forge Horizons - Contents"
 PageType: Index
 PageCategory: Index
 PageOrder: 1
@@ -15,7 +15,7 @@ PageOrder: 1
 
 > ## FORGE HORIZONS
 > ### A STARFORGED FAN SUPPLEMENT
-> ## [[FRGHZ_Full|Whole Page Content]]
+> ## [[FRGHZ_Full|Whole Source Content]]
 
 Alternate episodic rules for solo play and one-shots, as well as 24+ addition oracles for machines, supernatural horrors, precursors, and city-planets.
 
@@ -86,7 +86,7 @@ to some of the last living precursors in the Forge.
 *Page 4*
 
 ## Tags
-| Content Index | Tags | Next Section | 
+| Content Index | Tags | Next Chapter | 
 | :--- | :---: | ---: |
 | **[[Community-Content\|Community Content]]** | #ForgeHorizons | **[[_FRGHZ_CH1_Episodes\|Episodic Content (Forge Horizons)]]** |
 

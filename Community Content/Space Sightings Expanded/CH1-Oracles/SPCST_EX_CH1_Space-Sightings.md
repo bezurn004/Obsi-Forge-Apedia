@@ -26,6 +26,17 @@ The following is the Space Sightings oracle from *Ironsworn: Starforged*.
 - The third page numbers, from ‘Stellar Object’ to ‘Descriptor + Focus’, correspond to the *Ironsworn: Starforged* rulebook.
 
 ## Oracle: Space Sightings - All
+> [!mechanics]- Guidance
+> Introduce a feature at a waypoint as you explore outer space through the Forge.
+> > [!oracle]- Terminus
+> > `dice: [[OT_SPCST_EX_Space#^Space-Sighting-Terminus]]`
+>
+> > [!oracle]- Outlands
+> > `dice: [[OT_SPCST_EX_Space#^Space-Sighting-Outlands]]`
+>
+> > [!oracle]- Expanse
+> > `dice: [[OT_SPCST_EX_Space#^Space-Sighting-Expanse]]` ^guidance-Space-Sightings-All
+
 
 | Terminus | Outlands | Expanse | Result |
 | :---: | :---: | :---: | --- |
@@ -53,8 +64,10 @@ The following is the Space Sightings oracle from *Ironsworn: Starforged*.
 ^table-Space-Sighting-All
 
 ## Oracle: Space Sightings -Terminus
+> [!mechanics]- | Roll > `dice: [[OT_SPCST_EX_Space#^Space-Sighting-Terminus]]` | Guidance
+> Introduce a feature at a waypoint as you explore outer space through the Forge. ^guidance-Space-Sightings-Terminus
 
-| Terminus | Result |
+| dice: 1d100 | Result |
 | :---: | --- |
 | 1 - 15 | ▶[[SF_CH5_Stellar-Object#Oracle Stellar Object\|Stellar Object]]; pg 34 / pg 303 |
 | 16 - 35 | ▶[[_SF_CH5_Planets#Planetary Class\|Planet]]; pg 38 / pg 306 |
@@ -80,8 +93,10 @@ The following is the Space Sightings oracle from *Ironsworn: Starforged*.
 ^table-Space-Sighting-Terminus
 
 ## Oracle: Space Sightings - Outlands
+> [!mechanics]- | Roll > `dice: [[OT_SPCST_EX_Space#^Space-Sighting-Outlands]]` | Guidance
+> Introduce a feature at a waypoint as you explore outer space through the Forge. ^guidance-Space-Sightings-Outlands
 
-| Outlands | Result |
+| dice: 1d100 | Result |
 | :---: | --- |
 | 1 - 15 | ▶[[SF_CH5_Stellar-Object#Oracle Stellar Object\|Stellar Object]]; pg 34 / pg 303 |
 | 16 - 35 | ▶[[_SF_CH5_Planets#Planetary Class\|Planet]]; pg 38 / pg 306 |
@@ -107,8 +122,10 @@ The following is the Space Sightings oracle from *Ironsworn: Starforged*.
 ^table-Space-Sighting-Outlands
 
 ## Oracle: Space Sightings - Expanse
+> [!mechanics]- | Roll > `dice: [[OT_SPCST_EX_Space#^Space-Sighting-Expanse]]` | Guidance
+> Introduce a feature at a waypoint as you explore outer space through the Forge. ^guidance-Space-Sightings-Expanse
 
-| Expanse | Result |
+| dice: 1d100 | Result |
 | :---: | --- |
 | 1 - 15 | ▶[[SF_CH5_Stellar-Object#Oracle Stellar Object\|Stellar Object]]; pg 34 / pg 303 |
 | 16 - 35 | ▶[[_SF_CH5_Planets#Planetary Class\|Planet]]; pg 38 / pg 306 |

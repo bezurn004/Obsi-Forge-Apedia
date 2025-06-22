@@ -1,3 +1,15 @@
+---
+## Source
+SourceMaterial: "Ironsworn: Sundered Isles"
+SourceAuthor: "Shawn Tompkin"
+
+## Page
+aliases:
+  - "Chapter 1: Adventure Among the Isles - Full (Sundered Isles)"
+PageType: "Adventure Among the Isles"
+PageCategory: Full
+PageOrder: 0
+---
 # [[_Sundered Isles|Sundered Isles]]
 > ## SECTION 1
 > # ADVENTURES AMONG THE ISLES
@@ -1202,4 +1214,9 @@ Or [[SI_CH4_Full#SWEAR AN IRON VOW|Swear an Iron Vow]] and use that quest to tra
 
 *63 BEASTS OF THE ISLES*
 
-[[SI_CH2_Full|Next Chapter - Getting Underway]]
+## Tags
+| Content Index | Tags | Next Section |
+|:--- |:---:| ---:|
+| **[[_Sundered Isles\|Sundered Isles]]** | #SunderedIsles/Gameplay | **[[SI_CH2_Full\|Chapter 2: Getting Underway - Full (Sundered Isles)]]** |
+
+<font size=-2>Copyright ©2024 Shawn Tomkin. The text of this work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license. For license details, visit ironswornrpg.com. Updated June 2024 MUH051V200-PDF</font>

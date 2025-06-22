@@ -24,7 +24,8 @@ OracleDescriptor: "Start to build a machine character for your story"
 # [[_Forge Horizons|Forge Horizons]] - [[_FRGHZ_CH2_Oracles|Oracles]]: Machine Creation
 
 ## Oracle: Environment
-If you know where this machine is, you can skip this step, otherwiseroll for where the machine is found, or is designed to operate in.
+> [!mechanics]- | Roll > `dice: [[OT_FRGHZ_Machines#^Environment]]` | Guidance
+> If you know where this machine is, you can skip this step, otherwiseroll for where the machine is found, or is designed to operate in. ^guidance-Environment
 
 | dice: 1d100 | Result |
 | :---: | --- |
@@ -37,6 +38,8 @@ If you know where this machine is, you can skip this step, otherwiseroll for whe
 ^table-Environment
 
 ## Oracle: Scale
+> [!mechanics]- | Roll > `dice: [[OT_FRGHZ_Machines#^Scale]]` | Guidance
+> TEXT ^guidance-Scale
 
 | dice: 1d100 | Result |
 | :---: | --- |
@@ -51,6 +54,8 @@ If you know where this machine is, you can skip this step, otherwiseroll for whe
 ^table-Scale
 
 ## Oracle: Ultra Scale
+> [!mechanics]- | Roll > `dice: [[OT_FRGHZ_Machines#^Ultra-Scale]]` | Guidance
+> TEXT ^guidance-Ultra-Scale
 
 | dice: 1d100 | Result |
 | :---: | --- |
@@ -62,6 +67,8 @@ If you know where this machine is, you can skip this step, otherwiseroll for whe
 *Page 15*
 
 ## Oracle: Basic Machine Form
+> [!mechanics]- | Roll > `dice: [[OT_FRGHZ_Machines#^Form]]` | Guidance
+> TEXT ^guidance-Form
 
 | dice: 1d100 | Result |
 | :---: | --- |
@@ -76,6 +83,8 @@ If you know where this machine is, you can skip this step, otherwiseroll for whe
 ^table-Form
 
 ## Oracle: Machine Propulsion
+> [!mechanics]- | Roll > `dice: [[OT_FRGHZ_Machines#^Propulsion]]` | Guidance
+> TEXT ^guidance-Propulsion
 
 | dice: 1d100 | Result |
 | :---: | --- |

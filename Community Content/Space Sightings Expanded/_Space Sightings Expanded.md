@@ -11,10 +11,11 @@ PageType: Index
 PageCategory: Contents
 PageOrder: 1
 ---
-# [[Community-Content|Community Content]] - Space Sightings Expanded
+# [[Community-Content|Community Content]]
 
-> # CONTENTS
-> ## [[SPCST_EX_Full|Whole Page Content]]
+> # Space Sightings Expanded
+> ### CONTENTS
+> #### [[SPCST_EX_Full|Whole Source Content]]
 > 
 > |  |  |
 > | --- | --- |
@@ -47,8 +48,7 @@ MrHaystacks
 Ben Williams
 
 ## PLEDGERS
-A MG, Adam, Andrew Medeiros, Blackweevil, Brandon Fraley, Brandon Mathis, Bruce, Caroline Owens, Celia Fournier, Charlotte Heilling, Christopher Smith, Damon Wilson, David Ross, Euan Urquhart, Giftquake, Grady Jaynes, gtds10hx,
-Head Cleric of Crom, Ignacio Miranda, J.t. Stevens, Jay Reiser, John Berry, Joshua Sank, Keith Stetson, Kelly Wardle, Maxime Dhoury, Mike Minutillo, Nicolas Taylor, NQJ, RJ, Rodrigo Duarte, Sebasten Cote, Shasjas, Solanaar, TheThingFromOuterSpace, Thomas Spofford, Travis M. Erickson, Travis Porter, Will Cotton, Yovaman Man
+A MG, Adam, Andrew Medeiros, Blackweevil, Brandon Fraley, Brandon Mathis, Bruce, Caroline Owens, Celia Fournier, Charlotte Heilling, Christopher Smith, Damon Wilson, David Ross, Euan Urquhart, Giftquake, Grady Jaynes, gtds10hx, Head Cleric of Crom, Ignacio Miranda, J.t. Stevens, Jay Reiser, John Berry, Joshua Sank, Keith Stetson, Kelly Wardle, Maxime Dhoury, Mike Minutillo, Nicolas Taylor, NQJ, RJ, Rodrigo Duarte, Sebasten Cote, Shasjas, Solanaar, TheThingFromOuterSpace, Thomas Spofford, Travis M. Erickson, Travis Porter, Will Cotton, Yovaman Man
 
 www.ludicpen.com
 @LudicPen on Facebook and Instagram
@@ -57,7 +57,7 @@ ludicpen@gmail.com • discord.gg/v5j54wsJC6
 Copyright ©2023 Ludic Pen
 
 This work is based on *Ironsworn: Starforged*, created by Shawn Tomkin, and licensed for our use under the Creative Commons Attribution 4.0 International License.
-Made for the Starforged 2023 Jam, hosted by Kerys and Margot Hutton
+Made for the *Starforged* 2023 Jam, hosted by Kerys and Margot Hutton
 
 ## Tags
 | Content Index | Tags | Next Page | 

@@ -34,6 +34,8 @@ _**Oracle Quest:** ==**▶[[SF_CH5_Character-Names|Character Name]]**== has dema
 *Page 23*
 
 ## Oracle: Shape
+> [!mechanics]- | Roll > `dice: [[OT_SPCST_EX_Gravitational-Wave#^Shape]]` | Guidance
+> TEXT ^guidance-Shape
 
 | dice: 1d100 | Result |
 | :---: | --- |
@@ -44,6 +46,8 @@ _**Oracle Quest:** ==**▶[[SF_CH5_Character-Names|Character Name]]**== has dema
 ^table-Shape
 
 ## Oracle: Observations
+> [!mechanics]- | Roll > <br>▶1 `dice: [[OT_SPCST_EX_Gravitational-Wave#^Observations]]` <br>▶2 `dice: [[OT_SPCST_EX_Gravitational-Wave#^Observations]]` | Guidance
+> TEXT ^guidance-Observations
 
 | dice: 1d100 | Result @1-2 |
 | :---: | --- | :---: | --- |
@@ -85,7 +89,9 @@ Once this information has been collated the scale of the waves cause can be extr
 | Person-sized | -- | -- | 100 | 91 - 100 | 61 - 100 |
 ^table-Feinnmann-Burst-Scale-All
 
-### Oracle: Burst Scale
+### Oracle: Burst Scale Severity
+> [!mechanics]- | Roll > `dice: [[OT_SPCST_EX_Gravitational-Wave#^Feinnmann-Burst-Scale-All]]` | Guidance
+> TEXT ^guidance-Feinnmann-Burst-Scale-Severity
 
 | dice: 1d100 | Result |
 | :---: | --- |
@@ -94,8 +100,11 @@ Once this information has been collated the scale of the waves cause can be extr
 | 38 - 83 | 3 - Damaging |
 | 84 - 98 | 4 - Catastrophic |
 | 99 - 100 | 5 - Apocalyptic |
+^table-Feinnmann-Burst-Scale-Severity
 
 #### Oracle: Burst Intensity - Negligible
+> [!mechanics]- | Roll > `dice: [[OT_SPCST_EX_Gravitational-Wave#^Feinnmann-Burst-Scale-Negligible]]` | Guidance
+> TEXT ^guidance-Feinnmann-Burst-Scale-Negligible
 
 | dice: 1d100 | Result |
 | :---: | --- |
@@ -108,9 +117,11 @@ Once this information has been collated the scale of the waves cause can be extr
 | 100 | Continent-sized |
 | -- | Continent-minor |
 | -- | Person-sized |
-^table-Feinnmann-Burst-Scale-SCOPE
+^table-Feinnmann-Burst-Scale-Negligible
 
 #### Oracle: Burst Intensity - Disruptive
+> [!mechanics]- | Roll > `dice: [[OT_SPCST_EX_Gravitational-Wave#^Feinnmann-Burst-Scale-Disruptive]]` | Guidance
+> TEXT ^guidance-Feinnmann-Burst-Scale-Disruptive
 
 | dice: 1d100 | Result |
 | :---: | --- |
@@ -126,6 +137,8 @@ Once this information has been collated the scale of the waves cause can be extr
 ^table-Feinnmann-Burst-Scale-Disruptive
 
 #### Oracle: Burst Intensity - Damaging
+> [!mechanics]- | Roll > `dice: [[OT_SPCST_EX_Gravitational-Wave#^Feinnmann-Burst-Scale-Damaging]]` | Guidance
+> TEXT ^guidance-Feinnmann-Burst-Scale-Damaging
 
 | dice: 1d100 | Result |
 | :---: | --- |
@@ -141,6 +154,8 @@ Once this information has been collated the scale of the waves cause can be extr
 ^table-Feinnmann-Burst-Scale-Damaging
 
 #### Oracle: Burst Intensity - Catastrophic
+> [!mechanics]- | Roll > `dice: [[OT_SPCST_EX_Gravitational-Wave#^Feinnmann-Burst-Scale-Catastrophic]]` | Guidance
+> TEXT ^guidance-Feinnmann-Burst-Scale-Catastrophic
 
 | dice: 1d100 | Result |
 | :---: | --- |
@@ -156,6 +171,8 @@ Once this information has been collated the scale of the waves cause can be extr
 ^table-Feinnmann-Burst-Scale-Catastrophic
 
 #### Oracle: Burst Intensity - Apocalyptic
+> [!mechanics]- | Roll > `dice: [[OT_SPCST_EX_Gravitational-Wave#^Feinnmann-Burst-Scale-Apocalyptic]]` | Guidance
+> TEXT ^guidance-einnmann-Burst-Scale-Apocalyptic
 
 | dice: 1d100 | Result |
 | :---: | --- |
@@ -170,7 +187,7 @@ Once this information has been collated the scale of the waves cause can be extr
 | 61 - 100 | Person-sized |
 ^table-Feinnmann-Burst-Scale-Apocalyptic
 
-*22*
+*Page 22*
 
 ## Tags
 | Previous Page | Tags | Next Page |

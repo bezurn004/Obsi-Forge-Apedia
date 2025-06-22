@@ -21,6 +21,8 @@ OracleDescriptor: "Core Descriptor and Focus Oracles"
 # [[_Space Sightings Expanded|Space Sightings Expanded]] - [[_SPCST_EX_CH1_Oracles\|Oracles]]: Descriptor + Focus
 
 ## Oracle: Descriptor
+> [!mechanics]- | Roll > `dice: [[SPCST_EX_CH1_Descriptor-Focus#^table-Focus]]` | Guidance
+> TEXT ^guidance-Descriptor
 
 | dice: 1d100 | Result |
 | :---: | --- |
@@ -126,9 +128,11 @@ OracleDescriptor: "Core Descriptor and Focus Oracles"
 | 100 | Violent |
 ^table-Descriptor
 
-*8*
+*Page 8*
 
 ## Oracle: Focus
+> [!mechanics]- | Roll > `dice: [[SF_CH5_Core_Descriptor-Focus#^table-OclFocus]]` | Guidance
+> TEXT ^guidance-Focus
 
 | dice: 1d100 | Result |
 | :---: | --- |
@@ -234,7 +238,7 @@ OracleDescriptor: "Core Descriptor and Focus Oracles"
 | 100 | Wreckage |
 ^table-Focus
 
-*9* 
+*Page 9* 
 
 ## Tags
 | Previous Page | Tags | Next Page |

@@ -21,6 +21,8 @@ OracleDescriptor: "Add the motivations for the machine character in your story"
 # [[_Forge Horizons|Forge Horizons]] - [[_FRGHZ_CH2_Oracles|Oracles]]: Machine Drives
 
 ## Oracle: Revealed Machine Aspect
+> [!mechanics]- | Roll > `dice: [[OT_FRGHZ_Machines#^Revealed-Aspect]]` | Guidance
+> TEXT ^guidance-Revealed-Aspect
 
 | dice: 1d100 | Result |
 | :---: | --- |
@@ -53,7 +55,7 @@ OracleDescriptor: "Add the motivations for the machine character in your story"
 | 53 - 54 | Low power |
 | 55 - 56 | Magnetic parts |
 | 57 - 58 | Malfunctioning |
-| 59 - 60 | Multi - dimensional |
+| 59 - 60 | Multi-dimensional |
 | 61 - 62 | Networked |
 | 63 - 64 | Noisy |
 | 65 - 66 | Nuclear power source |
@@ -66,7 +68,7 @@ OracleDescriptor: "Add the motivations for the machine character in your story"
 | 79 - 80 | Repurposed |
 | 81 - 82 | Resistant to damage |
 | 83 - 84 | Secondary propulsion |
-| 85 - 86 | Self - destructs |
+| 85 - 86 | Self-destructs |
 | 87 - 88 | Sentient |
 | 89 - 90 | Shielded |
 | 91 - 92 | Slow |
@@ -79,6 +81,8 @@ OracleDescriptor: "Add the motivations for the machine character in your story"
 *Page 18*
 
 ## Oracle: Encountered Machine Behaviour
+> [!mechanics]- | Roll > `dice: [[OT_FRGHZ_Machines#^Encountered-Behaviour]]` | Guidance
+> TEXT ^guidance-Encountered-Behaviour
 
 | dice: 1d100 | Result |
 | :---: | --- |
@@ -91,7 +95,7 @@ OracleDescriptor: "Add the motivations for the machine character in your story"
 | 61 - 70 | Rebooting |
 | 71 - 80 | Recharging |
 | 81 - 90 | Repeating one action |
-| 91 - 100 | Self - repair |
+| 91 - 100 | Self-repair |
 ^table-Encountered-Behaviour
 
 *Page 19*

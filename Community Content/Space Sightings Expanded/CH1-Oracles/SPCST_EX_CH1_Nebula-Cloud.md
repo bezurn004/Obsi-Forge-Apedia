@@ -42,9 +42,11 @@ _**Oracle Quest:** A distress signal coming from a ==**▶[[SF_CH5_Starship-Crea
 
 _**Oracle Quest:** You have been tasked by ==**▶[[SF_CH5_Faction-Types|Faction]]**== with discreetly carrying an unknown cargo through a nearby ==**▶[[SPCST_EX_CH1_Nebula-Cloud|Dense Nebula Cloud]]**== and delivering it to their representative on ==**▶[[_SF_CH5_Planets#Planetary Class|Planet]]**==. What could the cargo be? How will you ensure that you remain discreet?_
 
-*24*
+*Page 24*
 
 ## Oracle: Names
+> [!mechanics]- | Roll > `dice: [[OT_SPCST_EX_Dense-Nubla-Cloud#^Names]]` | Guidance
+> TEXT ^guidance-Names
 
 | dice: 1d100 | Result |
 | :---: | --- |
@@ -68,8 +70,11 @@ _**Oracle Quest:** You have been tasked by ==**▶[[SF_CH5_Faction-Types|Faction
 | 86 - 90 | the Outlands Guardian |
 | 91 - 95 | the Shattered Spear |
 | 96 - 100 | the Warrior’s Helm |
+^table-Names
 
 ## Oracle: Observed From Afar
+> [!mechanics]- | Roll > <br>▶1 `dice: [[OT_SPCST_EX_Dense-Nubla-Cloud#^Observed-From-Afar]]` <br>▶2 `dice: [[OT_SPCST_EX_Dense-Nubla-Cloud#^Observed-From-Afar]]` | Guidance
+> TEXT ^guidance-Observed-From-Afar
 
 | dice: 1d100 | Result @1-2 |
 | :---: | --- |
@@ -83,8 +88,11 @@ _**Oracle Quest:** You have been tasked by ==**▶[[SF_CH5_Faction-Types|Faction
 | 78 - 88 | Supernova remains |
 | 89 - 98 | ▶[[SF_CH5_Core_Descriptor-Focus#Oracle Descriptor\|Descriptor]] + ▶[[SF_CH5_Core_Descriptor-Focus#Oracle Focus\|Focus]]; pg 8-9 |
 | 99 - 100 | ▶[[SF_CH5_Vault-Exterior\|Precursor Vault]]; pg 92 |
+^table-Observed-From-Afar
 
 ## Oracle: Observed From Nearby
+> [!mechanics]- | Roll > <br>▶1 `dice: [[OT_SPCST_EX_Dense-Nubla-Cloud#^Observed-From-Nearby]]` <br>▶2 `dice: [[OT_SPCST_EX_Dense-Nubla-Cloud#^Observed-From-Nearby]]` | Guidance
+> TEXT ^guidance-Observed-From-Nearby
 
 | dice: 1d100 | Result @1-2 |
 | :---: | --- |
@@ -103,8 +111,11 @@ _**Oracle Quest:** You have been tasked by ==**▶[[SF_CH5_Faction-Types|Faction
 | 85 - 91 | ▶[[SPCST_EX_CH1_Nebula-Cloud#Oracle Dense Nebula Cloud Debris Field\|Dense Nebula Cloud Debris Fields]] |
 | 92 - 98 | ▶[[SF_CH5_Core_Descriptor-Focus#Oracle Descriptor\|Descriptor]] + ▶[[SF_CH5_Core_Descriptor-Focus#Oracle Focus\|Focus]]; pg 8-9 |
 | 99 - 100 | ▶[[SF_CH5_Vault-Exterior\|Precursor Vault]]; pg 92 |
+^table-Observed-From-Nearby
 
 ## Oracle: Atmosphere
+> [!mechanics]- | Roll > `dice: [[OT_SPCST_EX_Dense-Nubla-Cloud#^Atmosphere]]` | Guidance
+> TEXT ^guidance-Atmosphere
 
 | dice: 1d100 | Result |
 | :---: | --- |
@@ -114,8 +125,11 @@ _**Oracle Quest:** You have been tasked by ==**▶[[SF_CH5_Faction-Types|Faction
 | 100 | Marginal |
 | -- | Breathable |
 | -- | Ideal |
+^table-Atmosphere
 
 ## Oracle: Life
+> [!mechanics]- | Roll > `dice: [[OT_SPCST_EX_Dense-Nubla-Cloud#^Life]]` | Guidance
+> TEXT ^guidance-Life
 
 | dice: 1d100 | Result |
 | :---: | --- |
@@ -125,8 +139,19 @@ _**Oracle Quest:** You have been tasked by ==**▶[[SF_CH5_Faction-Types|Faction
 | 95 - 99 | Diverse |
 | 100 | Bountiful |
 | -- | Overrun |
+^table-Life
 
 ## Oracle: Settlements
+> [!mechanics]- Guidance
+> TEXT
+> > [!oracle]- Terminus
+> > `dice: [[OT_SPCST_EX_Dense-Nubla-Cloud#^Settlements-Terminus]]`
+>
+> > [!oracle]- Outlands
+> > `dice: [[OT_SPCST_EX_Dense-Nubla-Cloud#^Settlements-Outlands]]`
+>
+> > [!oracle]- Expanse
+> > `dice: [[OT_SPCST_EX_Dense-Nubla-Cloud#^Settlements-Expanse]]` ^guidance-Settlements-All
 
 | Terminus | Outlands | Expanse | Result |
 | :---: | :---: | :---: | --- |
@@ -138,8 +163,10 @@ _**Oracle Quest:** You have been tasked by ==**▶[[SF_CH5_Faction-Types|Faction
 ^table-Settlements-All
 
 ### Oracle: Settlements - Terminus
+> [!mechanics]- | Roll > `dice: [[OT_SPCST_EX_Dense-Nubla-Cloud#^Settlements-Terminus]]` | Guidance
+> TEXT ^guidance-Settlements-Terminus
 
-| Terminus | Result |
+| dice: 1d100 | Result |
 | :---: | --- |
 | 1 - 47 | None |
 | 48 - 77 | Orbital settlement |
@@ -149,8 +176,10 @@ _**Oracle Quest:** You have been tasked by ==**▶[[SF_CH5_Faction-Types|Faction
 ^table-Settlements-Terminus
 
 ### Oracle: Settlements - Outlands
+> [!mechanics]- | Roll > `dice: [[OT_SPCST_EX_Dense-Nubla-Cloud#^Settlements-Outlands]]` | Guidance
+> TEXT ^guidance-Settlements-Outlands
 
-| Outlands | Result |
+| dice: 1d100 | Result |
 | :---: | --- |
 | 1 - 70 | None |
 | 71 - 90 | Orbital settlement |
@@ -160,8 +189,10 @@ _**Oracle Quest:** You have been tasked by ==**▶[[SF_CH5_Faction-Types|Faction
 ^table-Settlements-Outlands
 
 ### Oracle: Settlements - Expanse
+> [!mechanics]- | Roll > `dice: [[OT_SPCST_EX_Dense-Nubla-Cloud#^Settlements-Expanse]]` | Guidance
+> TEXT ^guidance-Settlements-Expanse
 
-| Expanse | Result |
+| dice: 1d100 | Result |
 | :---: | --- |
 | 1 - 85 | None |
 | 86 - 95 | Orbital settlement |
@@ -171,6 +202,8 @@ _**Oracle Quest:** You have been tasked by ==**▶[[SF_CH5_Faction-Types|Faction
 ^table-Settlements-Expanse
 
 ## Oracle: Dense Nebula Cloud Debris Field
+> [!mechanics]- | Roll > `dice: [[OT_SPCST_EX_Dense-Nubla-Cloud#^Debris-Field]]` | Guidance
+> TEXT ^guidance-Debris-Field
 
 | dice: 1d100 | Result |
 | :---: | --- |
@@ -184,10 +217,11 @@ _**Oracle Quest:** You have been tasked by ==**▶[[SF_CH5_Faction-Types|Faction
 | 90 - 96 | ▶[[SPCST_EX_CH1_Debris-Field#Oracle Metallic Wreckage\|Metallic wreckage]] ; pg 12 |
 | 97 - 99 | ▶[[SPCST_EX_CH1_Debris-Field#Oracle Creature Boneyard\|Creature boneyard]] ; pg 12 |
 | 100 | ▶[[SF_CH5_Core_Descriptor-Focus#Oracle Descriptor\|Descriptor]] + ▶[[SF_CH5_Core_Descriptor-Focus#Oracle Focus\|Focus]]; pg 8-9 |
+^table-Debris-Field
 
 ## Tags
-| Previous Page | Tags | Next Section |
+| Previous Page | Tags | Content Index |
 | :--- | :---: | ---: |
-| **[[SPCST_EX_CH1_Gravitational-Wave\|Turbulent Gravitational Wave (Space Sightings Expanded)]]** | #SpaceSightingsExpanded/Oracles | **[[_SPCST_EX_CH2_Quest-Front\|Quest Front (Space Sightings Expanded)]]** |
+| **[[SPCST_EX_CH1_Gravitational-Wave\|Turbulent Gravitational Wave (Space Sightings Expanded)]]** | #SpaceSightingsExpanded/Oracles | **[[_Space Sightings Expanded\|Space Sightings Expanded - Contents]]** |
 
 <font size=-2>This work is based on *Ironsworn: Starforged*, created by Shawn Tomkin, and licensed for our use under the Creative Commons Attribution 4.0 International License. Made for the Starforged 2023 Jam, hosted by Kerys and Margot Hutton • www.ludicpen.com • @LudicPen on Facebook and Instagram • ludicpen@gmail.com • discord.gg/v5j54wsJC6</font>

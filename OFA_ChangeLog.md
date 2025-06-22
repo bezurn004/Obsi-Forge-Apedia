@@ -4,44 +4,65 @@ Number of Current Files
 
 ## Planned Changes
 
-### The Distant Buckets
+### The Distant Backlog
 - [ ] Nail down templates
-- [ ] Add community content
-	- [ ] Starsmith Mecha
-	- [ ] Starsmith Cultures
 - [ ] Full Chapter contents
-	- [ ] Complete SI linking
-	- [ ] Begin import of SF source
+	- [ ] Starsmith Oracles
+	- [ ] Starsmith Assets
 - [ ] Oracle results that create an object will trigger a template creation wizard (using Buttons I hope)
 - [ ] Add move category to meta data for SF (maybe SI?)
+
+### V0.4.4
+- [ ] Ancient Wonder approved content for publication
+	- [ ] Moves
+	- [ ] Oracles
+	- [ ] Assets
+	- [ ] Any Playkit Material
 
 ### V0.4.3.4
 - [ ] Oracle Rollers
 	- [ ] Forge Horizons
 	- [ ] Space Encounters Expanded
-
-### V0.4.3.3
-- [ ] Create Oracle Tables from content
-	- [ ] Forge Horizons
-	- [ ] Space Encounters Expanded
-- [ ] Add guidance and in-line rollers to paginated oracles
-	- [ ] Forge Horizons
-	- [ ] Space Encounters Expanded
+	- [ ] Starsmith Cultures
+- [ ] Full Chapter contents
+	- [ ] SI Standardization and Linking
+	- [ ] SF Import and Linking
 
 ## Current Release
+### V0.4.3.3
+Number of Files: 924
+Committed Files: 121
+- [x] Import Starsmith Cultures
+	- [x] Full Chapter
+	- [x] Paginated
+- [x] Import Starsmith Mecha
+	- [x] Full Chapter
+	- [x] Paginated
+- [x] Create Oracle Tables from content
+	- [x] Forge Horizons
+	- [x] Space Encounters Expanded
+	- [x] Starsmith Cultures
+- [x] Add guidance and in-line rollers to paginated oracles
+	- [x] Forge Horizons
+	- [x] Space Encounters Expanded
+	- [x] Starsmith Cultures
+- [x] Added meta-data and tag footer to full chapter pages
+- [x] Community Content main menu layout revision
+- [x] Various typo and formatting adjustments
 
+## Completed Changes
 ### V0.4.3.2
+Number of files : 865
+Committed Files : 223
 - [x] Full Chapter Content Linking
 	- [x] Forge Horizons
 	- [x] Space Encounters Expanded
-- [ ] Paginated Text and Oracles tables linked to references (e.g. Descriptor +  Focus). Page references removed
+- [x] Paginated Text and Oracles tables linked to references (e.g. Descriptor +  Focus). Page references removed
 	- [x] Forge Horizons
 	- [x] Space Encounters Expanded
 - [x] Ancient Wonders content is removed due to copyright concerns by the publisher. A trimmed down version of the content will be released in a later revision
 - [x] Space Sightings content in Chapther 2 (Quest Front) is removed due to copyright concerns by the publisher.
 
-
-## Completed Changes
 ### V0.4.3.1
 Number of files : 1029
 Committed files : 574

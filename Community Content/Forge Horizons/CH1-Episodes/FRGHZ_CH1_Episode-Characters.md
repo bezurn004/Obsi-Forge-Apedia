@@ -23,7 +23,19 @@ OracleDescriptor: "Shape the character for the start of your episodic adventure"
 # [[_Forge Horizons|Forge Horizons]] - [[_FRGHZ_CH1_Episodes\|Episode]]: Characters
 
 ## Oracle: Supporting Character
-Roll 1-2 times for characters based on your location using the oracle below. This will provide you with inhabitants like factions or creatures who could be allies, foes, or serve as other complications during your episode. Detail them using the relevant oracles in Starforged. The oracles for machines, supernatural horrors, and precursors are found in this supplement. When you want to detail them you can find them on the page numbers next to their entry.
+> [!mechanics]- Guidance
+> Roll 1-2 times for characters based on your location using the oracle below. This will provide you with inhabitants like factions or creatures who could be allies, foes, or serve as other complications during your episode. Detail them using the relevant oracles in Starforged. The oracles for machines, supernatural horrors, and precursors are found in this supplement. When you want to detail them you can find them on the page numbers next to their entry.
+> > [!oracle]- Terminus
+> > `dice: [[OT_FRGHZ_Episodes#^Characters-Terminus]]`
+>
+> > [!oracle]- Outlands
+> > `dice: [[OT_FRGHZ_Episodes#^Characters-Outlands]]`
+>
+> > [!oracle]- Expanse
+> > `dice: [[OT_FRGHZ_Episodes#^Characters-Expanse]]`
+>
+> > [!oracle]- Expanse
+> > `dice: [[OT_FRGHZ_Episodes#^Characters-Void]]` ^guidance-INSERT
 
 | Terminus | Outlands | Expanse | Void | Result |
 | :---: | :---: | :---: | :---: | --- |
@@ -40,6 +52,8 @@ Roll 1-2 times for characters based on your location using the oracle below. Thi
 *Page 7*
 
 ### Oracle: Supporting Character - Terminus
+> [!mechanics]- | Roll > `dice: [[OT_FRGHZ_Episodes#^Characters-Terminus]]` | Guidance
+> TEXT ^guidance-INSERT
 
 | dice 1d:100 | Result |
 | :---: | --- |
@@ -54,6 +68,8 @@ Roll 1-2 times for characters based on your location using the oracle below. Thi
 ^table-Episode-Characters-Terminus
 
 ### Oracle: Supporting Character - Outlands
+> [!mechanics]- | Roll > `dice: [[OT_FRGHZ_Episodes#^Characters-Outlands]]` | Guidance
+> TEXT ^guidance-INSERT
 
 | dice 1d:100 | Result |
 | :---: | --- |
@@ -68,6 +84,8 @@ Roll 1-2 times for characters based on your location using the oracle below. Thi
 ^table-Episode-Characters-Outlands
 
 ### Oracle: Supporting Character - Expanse
+> [!mechanics]- | Roll > `dice: [[OT_FRGHZ_Episodes#^Characters-Expanse]]` | Guidance
+> TEXT ^guidance-INSERT
 
 | dice 1d:100 | Result |
 | :---: | --- |
@@ -82,6 +100,8 @@ Roll 1-2 times for characters based on your location using the oracle below. Thi
 ^table-Episode-Characters-Expanse
 
 ### Oracle: Supporting Character - Void
+> [!mechanics]- | Roll > `dice: [[OT_FRGHZ_Episodes#^Characters-Void]]` | Guidance
+> TEXT ^guidance-INSERT
 
 | dice 1d:100 | Result |
 | :---: | --- |

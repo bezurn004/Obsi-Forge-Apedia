@@ -1,3 +1,15 @@
+---
+## Source
+SourceMaterial: "Ironsworn: Sundered Isles"
+SourceAuthor: "Shawn Tompkin"
+
+## Page
+aliases:
+  - "Chapter 2: Getting Underway - Full (Sundered Isles)"
+PageType: "Getting Underway "
+PageCategory: Full
+PageOrder: 0
+---
 # [[_Sundered Isles|Sundered Isles]]
 > ## SECTION 2
 > # GETTING UNDERWAY
@@ -1323,4 +1335,9 @@ Fair weather and following seas, Ironsworn!
 
 *109 SET THE SCENE*
 
-[[SI_CH3_Full|Next Chapter - Oracles]]
+## Tags
+| Previous Section | Tags | Next Section |
+|:--- |:---:| ---:|
+| **[[SI_CH1_Full\|Chapter 1: Adventure Among the Isles - Full (Sundered Isles)]]** | #SunderedIsles/Campaign/Full | **[[SI_CH3_Full\|Chapter 3: Oracles - Full (Sundered Isles)]]** |
+
+<font size=-2>Copyright ©2024 Shawn Tomkin. The text of this work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license. For license details, visit ironswornrpg.com. Updated June 2024 MUH051V200-PDF</font>

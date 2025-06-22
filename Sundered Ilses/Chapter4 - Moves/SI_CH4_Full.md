@@ -1,3 +1,15 @@
+---
+## Source
+SourceMaterial: "Ironsworn: Sundered Isles"
+SourceAuthor: "Shawn Tompkin"
+
+## Page
+aliases:
+  - "Chapter 4: Moves Reference - Full (Sundered Isles)"
+PageType: "Moves Reference"
+PageCategory: Full
+PageOrder: 0
+---
 # [[_Sundered Isles|Sundered Isles]]
 > ## SECTION 4
 > # MOVES REFERENCE
@@ -956,3 +968,10 @@ Add this number to the indicated meter. For example, “take +2 momentum” tell
 This is the move trigger. When you do this thing, or encounter this situation, make the move.
 
 *255 QUICK REFERENCE*
+
+## Tags
+| Previous Section | Tags | Content Index |
+|:--- |:---:| ---:|
+| **[[SI_CH3_Full\|Chapter 3: Oracles - Full (Sundered Isles)]]** | #SunderedIsles/Moves/Full | **[[_Sundered Isles\|Sundered Isles - Contents]]** |
+
+<font size=-2>Copyright ©2024 Shawn Tomkin. The text of this work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license. For license details, visit ironswornrpg.com. Updated June 2024 MUH051V200-PDF</font>

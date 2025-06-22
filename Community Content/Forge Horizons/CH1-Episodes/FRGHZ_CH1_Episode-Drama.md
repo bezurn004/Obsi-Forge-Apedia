@@ -23,6 +23,10 @@ A location and characters might be enough for you to know what is happening this
 
 If you’re still unsure about what is happening this episode, roll on the **[[SF_CH5_Core_Action-Theme#Oracle Action|Action]]** + **[[SF_CH5_Core_Action-Theme#Oracle Theme|Theme]]** table in Starforged to help you determine what your character is trying to accomplish. Lastly, **[[SF_CH3_Swear an Iron Vow|Swear an Iron Vow]]** to represent your character’s goal this episode. Episodic adventures work best with troublesome or dangerous vows. Save your epic and extreme vows for when your character finds something worthy for a background vow that will take an entire campaign to accomplish.
 
+> [!mechanics]- | Roll > `dice: [[OT_FRGHZ_Episodes#^Drama]]` | Guidance
+> A location and characters might be enough for you to know what is happening this episode, especially if you’ve spent some time playing Starforged already. If that’s the case, **[[SF_CH3_Swear an Iron Vow|Swear an Iron Vow]]** and start your episode. But if you need inspiration or a prompt for what is happening when we cut to the action, use the table below for an action or condition. Combine this with your location and characters to imagine why this is all happening and what your character is doing.
+ ^guidance-Drama
+
 | dice: 1d100 | Result |
 | :---: | --- |
 | 1 - 4 | Arguing |

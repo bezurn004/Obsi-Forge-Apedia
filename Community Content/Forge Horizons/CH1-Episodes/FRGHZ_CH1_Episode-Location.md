@@ -24,10 +24,11 @@ OracleDescriptor: "Determine the location for the start of your episodic adventu
 # [[_Forge Horizons|Forge Horizons]] - [[_FRGHZ_CH1_Episodes\|Episode]]: Location
 
 ## Oracle: Region
-When you sit down to play, roll for a region using the table below. It is assumed that the regions appear largely as they are presented in Starforged: there are more people in Terminus than the Void, etc.
+> [!mechanics]- | Roll > `dice: [[OT_FRGHZ_Episodes#^Region]]` | Guidance
+> When you sit down to play, roll for a region using the table below. It is assumed that the regions appear largely as they are presented in Starforged: there are more people in Terminus than the Void, etc. ^guidance-INSERT
 
 | dice: 1d100 | Result |
-|:---:| --- |
+| :---: | --- |
 | 1 - 30 | Terminus |
 | 31 - 70 | Outlands |
 | 71 - 90 | Expanse |
@@ -35,8 +36,19 @@ When you sit down to play, roll for a region using the table below. It is assume
 ^table-Region
 
 ## Oracle: Primary Location
-
-Then roll for a primary location based on your region. This is where the majority of your episode will take place. Detail the location using the relevant oracles found in Starforged.
+> [!mechanics]- Guidance
+> Then roll for a primary location based on your region. This is where the majority of your episode will take place. Detail the location using the relevant oracles found in Starforged.
+> > [!oracle]- Terminus
+> > `dice: [[OT_FRGHZ_Episodes#^Location-Terminus]]`
+>
+> > [!oracle]- Outlands
+> > `dice: [[OT_FRGHZ_Episodes#^Location-Outlands]]`
+>
+> > [!oracle]- Expanse
+> > `dice: [[OT_FRGHZ_Episodes#^Location-Expanse]]`
+>
+> > [!oracle]- Void
+> > `dice: [[OT_FRGHZ_Episodes#^Location-Void]]` ^guidance-INSERT
 
 | Terminus | Outlands | Expanse | Void | Result |
 | :---: | :---: | :---: | :---: | --- |
@@ -53,6 +65,8 @@ Then roll for a primary location based on your region. This is where the majorit
 *Page 6*
 
 ### Oracle: Primary Location - Terminus
+> [!mechanics]- | Roll > `dice: [[OT_FRGHZ_Episodes#^Location-Terminus]]` | Guidance
+> TEXT ^guidance-INSERT
 
 | dice: 1d100 | Result |
 | :---: | --- |
@@ -67,6 +81,8 @@ Then roll for a primary location based on your region. This is where the majorit
 ^table-Prime-Location-Terminus
 
 ### Oracle: Primary Location - Outlands
+> [!mechanics]- | Roll > `dice: [[OT_FRGHZ_Episodes#^Location-Outlands]]` | Guidance
+> TEXT ^guidance-INSERT
 
 | dice: 1d100 | Result |
 | :---: | --- |
@@ -81,6 +97,8 @@ Then roll for a primary location based on your region. This is where the majorit
 ^table-Prime-Location-Outlands
 
 ### Oracle: Primary Location - Expanse
+> [!mechanics]- | Roll > `dice: [[OT_FRGHZ_Episodes#^Location-Expanse]]` | Guidance
+> TEXT ^guidance-INSERT
 
 | dice: 1d100 | Result |
 | :---: | --- |
@@ -95,6 +113,8 @@ Then roll for a primary location based on your region. This is where the majorit
 ^table-Prime-Location-Expanse
 
 ### Oracle: Primary Location - Void
+> [!mechanics]- | Roll > `dice: [[OT_FRGHZ_Episodes#^Location-Void]]` | Guidance
+> TEXT ^guidance-INSERT
 
 | dice: 1d100 | Result |
 | :---: | --- |

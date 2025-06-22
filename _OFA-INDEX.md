@@ -2,7 +2,7 @@
 Alias: ["Index","OFA","ofa"]
 ---
 
-# Obsi-Forge-apedia
+# Obsi-Forge-Apedia
 The Obsi-Forge-Apedia (OFA) is an Obsidian markdown version of the reference material from the _Ironsworn: Starforged_ Table Top Role Playing Game. The purpose of this work is to provide the community the ability to reference _Starforged_ source material in Obsidian while playing through the game.
 
 Click on the title of each section below to explore this fabulous game.

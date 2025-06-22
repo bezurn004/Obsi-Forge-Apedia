@@ -41,6 +41,8 @@ _**Oracle Quest:** You have been challenged to participate in a race by another 
 _**Oracle Quest:** A distress signal coming from a nearby ==**▶[[_SF_CH5_Planets#Planetary Class|Planet]]**== pleads for help as their ==**▶[[SF_CH5_Settle-Creation\|Settlement]]**== is experiencing an intense and seemingly endless ==**▶[[SPCST_EX_CH1_Meteoroid-Storm|Chaotic Meteoroid Storm]]**== with many injured, buried in rubble or wreckage, lost to  pace, and dead. What level of devastation do you expect to find? How are going to aid the settlement?_
 
 ## Oracle: Observed From Afar
+> [!mechanics]- | Roll > <br>▶1 `dice: [[OT_SPCST_EX_Chaotic-Meteoroid-Storm#^Observed-From-Afar]]` <br>▶2 `dice: [[OT_SPCST_EX_Chaotic-Meteoroid-Storm#^Observed-From-Afar]]` | Guidance
+> TEXT ^guidance-Observed-From-Afar
 
 | dice: 1d100 | Result @1-2 |
 | :---: | --- |
@@ -57,6 +59,8 @@ _**Oracle Quest:** A distress signal coming from a nearby ==**▶[[_SF_CH5_Plane
 ^table-Observed-From-Afar
 
 ## Oracle: Observed From Nearby
+> [!mechanics]- | Roll > <br>▶1 `dice: [[OT_SPCST_EX_Chaotic-Meteoroid-Storm#^Observed-From-Nearby]]` <br>▶2 `dice: [[OT_SPCST_EX_Chaotic-Meteoroid-Storm#^Observed-From-Nearby]]` | Guidance
+> TEXT ^guidance-Observed-From-Nearby
 
 | dice: 1d100 | Result @1-2 |
 | :---: | --- |

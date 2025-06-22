@@ -21,7 +21,9 @@ OracleDescriptor: "Add features to the Machine / Mech character in your story"
 # [[_Forge Horizons|Forge Horizons]] - [[_FRGHZ_CH2_Oracles|Oracles]]: Machine Approach
 
 ## Oracle: Machine Function
-Roll 1-2 times for the machine’s function to get a specific idea of it’s use, behaviors, and design.
+> [!mechanics]- | Roll > <br>▶1 `dice: [[OT_FRGHZ_Machines#^Function]]` <br>▶2 `dice: [[OT_FRGHZ_Machines#^Function]]` | Guidance
+> Roll 1-2 times for the machine’s function to get a specific idea of it’s use, behaviors, and design. ^guidance-INSERT
+
 
 | dice: 1d100 | Result @1-2 |
 | :---: | --- |
@@ -46,7 +48,8 @@ Roll 1-2 times for the machine’s function to get a specific idea of it’s use
 *Page 16*
 
 ## Oracle: Machine First Look 
-(Roll 1-2 times)
+> [!mechanics]- | Roll > <br>▶1 `dice: [[OT_FRGHZ_Machines#^First-Look]]` <br>▶2 `dice: [[OT_FRGHZ_Machines#^First-Look]]` | Guidance
+> TEXT ^guidance-INSERT
 
 | dice: 1d100 | Result @1-2 |
 | :---: | --- |

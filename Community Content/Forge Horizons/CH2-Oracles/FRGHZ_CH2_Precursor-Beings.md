@@ -22,8 +22,8 @@ OracleDescriptor: "Create a Precursor Being to introduce into the story"
 # [[_Forge Horizons|Forge Horizons]] - [[_FRGHZ_CH2_Oracles|Oracles]]: Precursor Beings
 
 ## Oracle: Precursor Location
-
-If you don’t already have a location for the precursor, roll once on the table below, and then consult the related oracle in Starforged.
+> [!mechanics]- | Roll > `dice: [[OT_FRGHZ_Precursor#^Location]]` | Guidance
+> If you don’t already have a location for the precursor, roll once on the table below, and then consult the related oracle in Starforged. ^guidance-Location
 
 | dice: 1d100 | Result |
 | :---: | --- |
@@ -36,7 +36,9 @@ If you don’t already have a location for the precursor, roll once on the table
 ^table-Location
 
 ## Oracle: Precursor State
-This defines the condition of the precursor you encounter.
+> [!mechanics]- | Roll > `dice: [[OT_FRGHZ_Precursor#^State]]` | Guidance
+> This defines the condition of the precursor you encounter. ^guidance-State
+
 
 | dice: 1d100 | Result |
 | :---: | --- |
@@ -53,7 +55,8 @@ This defines the condition of the precursor you encounter.
 *Page 24*
 
 ## Oracle: Precursor Form
-Assume a humanoid form augmented with 2-3 rolls on this table. You can give them a different form using the Creature oracles found in Starforged.
+> [!mechanics]- | Roll > <br>▶1 `dice: [[OT_FRGHZ_Precursor#^Being-Form]]` <br>▶2 `dice: [[OT_FRGHZ_Precursor#^Being-Form]]` <br>▶3 `dice: [[OT_FRGHZ_Precursor#^Being-Form]]` | Guidance
+> Assume a humanoid form augmented with 2-3 rolls on this table. You can give them a different form using the [[_SF_CH5_Creatures|Creature oracles]] found in Starforged. ^guidance-Being-Form
 
 | dice: 1d100 | Result @2-3 |
 | :---: | --- |
@@ -70,7 +73,7 @@ Assume a humanoid form augmented with 2-3 rolls on this table. You can give them
 | 41 - 44 | Grey skin |
 | 45 - 48 | Large central eye |
 | 49 - 52 | Massive skull |
-| 53 - 56 | Multi - jointed limbs |
+| 53 - 56 | Multi-jointed limbs |
 | 57 - 60 | Multiple tails |
 | 61 - 64 | No face |
 | 65 - 68 | Rocky parts |

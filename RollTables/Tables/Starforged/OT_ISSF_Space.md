@@ -4,7 +4,7 @@
 
 | dice: 1d100 | Result |
 | :---: | --- |
-| 1 - 15 | ▶[[OT_ISSF_Space#Stellar Object\|Stellar Object]] |
+| 1 - 15 | ▶[[OT_ISSF_Space#Stellar Object\|Stellar Object]] `dice: [[OT_ISSF_Space#^Stellar-Object]]` |
 | 16 - 35 | ▶[[OT_ISSF_Planets#Type - Short\|Planet]] Create New |
 | 36 - 40 | ▶[[SF_CH5_Settle-Creation\|Settlement]] Create New |
 | 41 - 47 | ▶[[OT_ISSF_Starships#Type\|Starship]] Create New |

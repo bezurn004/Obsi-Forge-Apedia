@@ -21,6 +21,8 @@ OracleDescriptor: "Add motivations to the supernatural character being generated
 # [[_Forge Horizons|Forge Horizons]] - [[_FRGHZ_CH2_Oracles|Oracles]]: Supernatural Drives
 
 ## Oracle: Revealed Supernatural Aspect
+> [!mechanics]- | Roll > `dice: [[OT_FRGHZ_Supernatural#^Revealed-Aspect]]` | Guidance
+> TEXT ^guidance-Revealed-Aspect
 
 | dice: 1d100 | Result |
 | :---: | --- |
@@ -78,6 +80,8 @@ OracleDescriptor: "Add motivations to the supernatural character being generated
 *Page 22*
 
 ## Oracle: Encountered Supernatural Behaviour
+> [!mechanics]- | Roll > `dice: [[OT_FRGHZ_Supernatural#^Encountered-Behaviour]]` | Guidance
+> TEXT ^guidance-Encountered-Behaviour
 
 | dice: 1d100 | Result |
 | :---: | --- |

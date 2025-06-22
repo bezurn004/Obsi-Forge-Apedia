@@ -1,3 +1,15 @@
+---
+## Source
+SourceMaterial: "Ironsworn: Sundered Isles"
+SourceAuthor: "Shawn Tompkin"
+
+## Page
+aliases:
+  - "Chapter 3: Oracles - Full (Sundered Isles)"
+PageType: Oracles
+PageCategory: Full
+PageOrder: 0
+---
 # [[_Sundered Isles|Sundered Isles]]
 > ## SECTION 3
 > # ORACLES
@@ -6505,4 +6517,9 @@ You can also roll on this table to reveal damage on a ship other than your own, 
 
 *233 MISCELLANEOUS ORACLES*
 
-[[SI_CH4_Full|Next Chapter - Moves]]
+## Tags
+| Previous Section | Tags | Next Section |
+|:--- |:---:| ---:|
+| **[[SI_CH2_Full\|Chapter 2: Getting Underway - Full (Sundered Isles)]]** | #SunderedIsles/Oracles/Full | **[[SI_CH4_Full\|Chapter 4: Moves Reference - Full (Sundered Isles)]]** |
+
+<font size=-2>Copyright ©2024 Shawn Tomkin. The text of this work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license. For license details, visit ironswornrpg.com. Updated June 2024 MUH051V200-PDF</font>

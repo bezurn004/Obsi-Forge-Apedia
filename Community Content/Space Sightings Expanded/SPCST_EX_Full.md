@@ -1,3 +1,33 @@
+---
+## Source
+SourceMaterial: "Space Sightings Expanded"
+SourceAuthor: "Samuel Rondón"
+SourceLink: 
+
+## Page
+aliases:
+  - "Chapter 1: Oracles - Full (Space Sightings Expanded)"
+PageType: Oracles
+PageCategory: Full
+PageOrder: 1
+---
+
+> # [[_Space Sightings Expanded|SPACE SIGHTINGS EXPANDED]]
+> ## CONETNTS
+> 
+> |  |  |
+> | --- | --- |
+> | INTRODUCTION | [[#INTRODUCTION\|Page 6]] |
+> |  |  |
+> | ORACLE: SPACE SIGHTINGS | [[#ORACLES SPACE SIGHTINGS\|Page 10]] |
+> | - DEBRIS FIELDS | [[#DEBRIS FIELDS\|Page 12]] |
+> | - LARGE ROUGE ASTEROID | [[#LARGE ROGUE ASTEROID\|Page 14]] |
+> | - COMET WITH A TAIL OF IONIZED GAS | [[#COMET WITH A TAIL OF IONIZED GASOF IONIZED GAS\|Page 16]] |
+> | - FIERY ENERGY STORM | [[#FIERY ENERGY STORM\|Page 18]] |
+> | - CHAOTIC METEROID STORM | [[#CHAOTIC METEROID STORM\|Page 20]] |
+> | - TURBULENT GRAVITATIONAL WAVE | [[#TURBULENT GRAVITATIONAL WAVE\|Page 22]] |
+> | - DENSE NEBULA CLOUD | [[#DENSE NEBULA CLOUD\|Page 24]] |
+^TOC
 
 # LAYOUT AND WRITING
 Samuel Rondón (quest front)
@@ -16,8 +46,7 @@ MrHaystacks
 Ben Williams
 
 # PLEDGERS
-A MG, Adam, Andrew Medeiros, Blackweevil, Brandon Fraley, Brandon Mathis, Bruce, Caroline Owens, Celia Fournier, Charlotte Heilling, Christopher Smith, Damon Wilson, David Ross, Euan Urquhart, Giftquake, Grady Jaynes, gtds10hx,
-Head Cleric of Crom, Ignacio Miranda, J.t. Stevens, Jay Reiser, John Berry, Joshua Sank, Keith Stetson, Kelly Wardle, Maxime Dhoury, Mike Minutillo, Nicolas Taylor, NQJ, RJ, Rodrigo Duarte, Sebasten Cote, Shasjas, Solanaar, TheThingFromOuterSpace, Thomas Spofford, Travis M. Erickson, Travis Porter, Will Cotton, Yovaman Man
+A MG, Adam, Andrew Medeiros, Blackweevil, Brandon Fraley, Brandon Mathis, Bruce, Caroline Owens, Celia Fournier, Charlotte Heilling, Christopher Smith, Damon Wilson, David Ross, Euan Urquhart, Giftquake, Grady Jaynes, gtds10hx, Head Cleric of Crom, Ignacio Miranda, J.t. Stevens, Jay Reiser, John Berry, Joshua Sank, Keith Stetson, Kelly Wardle, Maxime Dhoury, Mike Minutillo, Nicolas Taylor, NQJ, RJ, Rodrigo Duarte, Sebasten Cote, Shasjas, Solanaar, TheThingFromOuterSpace, Thomas Spofford, Travis M. Erickson, Travis Porter, Will Cotton, Yovaman Man
 
 www.ludicpen.com
 @LudicPen on Facebook and Instagram
@@ -27,22 +56,6 @@ Copyright ©2023 Ludic Pen
 
 This work is based on *Ironsworn: Starforged*, created by Shawn Tomkin, and licensed for our use under the Creative Commons Attribution 4.0 International License.
 Made for the Starforged 2023 Jam, hosted by Kerys and Margot Hutton
-
-> # [[_Space Sightings Expanded|Space Sightings Expanded - Contents]]
-> 
-> |  |  |
-> | --- | --- |
-> | INTRODUCTION | [[#INTRODUCTION\|Page 6]] |
-> |  |  |
-> | ORACLE: SPACE SIGHTINGS | [[#ORACLES SPACE SIGHTINGS\|Page 10]] |
-> | - DEBRIS FIELDS | [[#DEBRIS FIELDS\|Page 12]] |
-> | - LARGE ROUGE ASTEROID | [[#LARGE ROGUE ASTEROID\|Page 14]] |
-> | - COMET WITH A TAIL OF IONIZED GAS | [[#COMET WITH A TAIL OF IONIZED GASOF IONIZED GAS\|Page 16]] |
-> | - FIERY ENERGY STORM | [[#FIERY ENERGY STORM\|Page 18]] |
-> | - CHAOTIC METEROID STORM | [[#CHAOTIC METEROID STORM\|Page 20]] |
-> | - TURBULENT GRAVITATIONAL WAVE | [[#TURBULENT GRAVITATIONAL WAVE\|Page 22]] |
-> | - DENSE NEBULA CLOUD | [[#DENSE NEBULA CLOUD\|Page 24]] |
-^TOC
 
 # INTRODUCTION
 *Space Sightings Expanded* extends the results of the oracle present in *Ironsworn: Starforged*, the science fiction tabletop role-playing game by Shawn Tomkin. Even though the use of said game is encouraged, it is not needed to make use of this material.
@@ -86,7 +99,7 @@ The following is the [[SF_CH5_Space-Sightings#Oracle Space Sighting|Space Sighti
 | 94–98 | 94–98 | 94–98 | Roll twice |
 | 99–100 | 99–100 | 99–100 | Roll three times |
 
-*Page 6 - [[#^TOC]]*
+*Page 6 - [[#^TOC|TOC]]*
 
 The following are important information concerning some aspects of how this supplement may interact with your narrative, as well as term clarifications for some concepts.
 
@@ -141,7 +154,7 @@ Buildings that house communities. *Space Sightings: Expanded* refers to settleme
 ## TENSION CLOCK
 An *[[SF_CH3_Clocks_Tension|Ironsworn: Starforged]]* mechanic (pg 238) that consists in setting a clock of 4, 6, 8 or 10 segments to represent a looming threat or escalating danger. The clock advances by 1 segment each time the player must pay a narrative cost or if there is some form of narrative complication. It can advance by 2 segments should the narrative or complication be especially dire.
 
-*Page 7 - [[#^TOC]]*
+*Page 7 - [[#^TOC|TOC]]*
 
 ## DESCRIPTOR
 
@@ -173,7 +186,7 @@ An *[[SF_CH3_Clocks_Tension|Ironsworn: Starforged]]* mechanic (pg 238) that cons
 | 24 | Corrupted | 49 | Grim | 74 | Perilous | 99 | Valuable |
 | 25 | Created | 50 | Guarded | 75 | Pillaged | 100 | Violent |
 
-*Page 8 - [[#^TOC]]*
+*Page 8 - [[#^TOC|TOC]]*
 
 ## FOCUS
 
@@ -205,7 +218,7 @@ An *[[SF_CH3_Clocks_Tension|Ironsworn: Starforged]]* mechanic (pg 238) that cons
 | 24 | Dimension | 49 | Mechanism | 74 | Settlement | 99 | World |
 | 25 | Ecosystem | 50 | Message | 75 | Shelter | 100 | Wreckage |
 
-*Page 9 - [[#^TOC]]* 
+*Page 9 - [[#^TOC|TOC]]* 
 #missingArt _picture of two doors_
 # ORACLES: SPACE SIGHTINGS
 *Page 10*
@@ -294,7 +307,7 @@ _**Oracle Quest:** A ==**▶[[SF_CH5_Faction-Types|Faction]]**== has made contac
 
 _**Oracle Quest:** While sojourning at ==**▶[[SF_CH5_Settle-Creation\|Settlement]]**== in a ==**▶[[#CRYSTALLINE ASTEROIDS|Crystalline Asteroids]]**== field, a fight erupts between two ==**▶[[SF_CH5_Faction-Types#Oracle Faction Guild|Guilds]]**== over ones mistreatment of the others workers and the ‘illegal’ seizure of their equipment. How would you look into the matter more? What will you do if the allegations are true?_
 
-*Page 12 - [[#^TOC]]*
+*Page 12 - [[#^TOC|TOC]]*
 
 ## LIFE
 
@@ -327,7 +340,7 @@ When you Resupply (or make an action to extract materials) at a debris field for
 
 If you take resources from a debris field claimed by another and get caught, envision the consequences.
 
-*Page 13 - [[#^TOC]]*
+*Page 13 - [[#^TOC|TOC]]*
 
 **SPACE SIGHTING**
 ## LARGE ROGUE ASTEROID
@@ -411,7 +424,7 @@ _**Oracle Quest:** A ==**▶[[#LARGE ROGUE ASTEROID|Large Rogue Asteroid]]**== h
 
 _**Oracle Quest:** What had been considered a comet due to its trail of flickering radiant lights has been discovered to be a ==**▶[[#LARGE ROGUE ASTEROID|Large Rogue Asteroid]]**==. The object is passing through a sector and reports indicate that the population of a nearby ==**▶[[SF_CH5_Settle-Creation\|Settlement]]**== has vanished almost entirely. Those unaffected communities nearby claim the asteroid is to blame, that the lights themselves were the harbingers of the %% #type misspelling %% disappearences. How could the asteroid and the lights be responsible? Where have the missing population gone?_
 
-*Page 14 - [[#^TOC]]*
+*Page 14 - [[#^TOC|TOC]]*
 
 When you discover a rogue asteroid with an impact trajectory, if it successfully impacts a planet, you may roll on the [[#ASTEROID IMPACT OUTCOMES|Asteroid Impact Outcomes]] table to convert the planets type.
 
@@ -428,7 +441,7 @@ If your roll corresponds with (or is above on the oracle) the planets current ty
 
 Then, envision how the impact affects any life and settlements on that planet.
 
-*Page 15 - [[#^TOC]]*
+*Page 15 - [[#^TOC|TOC]]*
 
 **SPACE SIGHTING**
 ## COMET WITH A TAIL OF IONIZED GASOF IONIZED GAS
@@ -511,11 +524,11 @@ _**Oracle Quest:** You overhear a conversation between two men. They found a sea
 
 _**Oracle Quest:** ==**▶[[SF_CH5_Character-Names|Character Name]]**== lets you know that in order to complete your mission to ==**▶[[SF_CH5_Core_Action-Theme#Oracle Action|Action]]**== + ==**▶[[SF_CH5_Core_Action-Theme#Oracle Theme|Theme]]**== you must travel to ==**>Comet With a Tail of Ionized Gas**==. What do you think his motives are behind giving you this information? What part does the comet play in completing your mission?_
 
-*Page 16 - [[#^TOC]]*
+*Page 16 - [[#^TOC|TOC]]*
 
 Throughout history many have seen passing comets as heralds of things to come, positive or negative. The galaxy’s current residents are no different in this respect. When you discover a comet with a tail of ionized gas in a sector with a settlement, consider each faction and determine how likely it is that superstitious members interpret the celestial body as an omen. Then, **[[#ASK THE ORACLE|Ask the Oracle]]** if the comet’s appearance drives them to %% #typo misspelling %%chage their individual or collective destinies.
 
-*Page 17 - [[#^TOC]]*
+*Page 17 - [[#^TOC|TOC]]*
 
 **SPACE SIGHTING**
 ### FIERY ENERGY STORM
@@ -600,13 +613,13 @@ _**Oracle Quest:** You have been asked by ==**▶[[SF_CH5_Faction-Types|Faction]
 
 _**Oracle Quest:** You have recieved a request for aid from ==**▶[[SF_CH5_Faction-Types|Faction]]**== who are currently stranded within a ==**▶[[#FIERY ENERGY STORM|Fiery Energy Storm]]**==. They need you to travel to ==**▶[[_SF_CH5_Planets#Planetary Class\|Planet]]**== and retrieve their stockpile of materials so they can complete emergency repairs. How did they become stranded? What did they reach out to you and not to their faction?_
 
-*Page 18 - [[#^TOC]]*
+*Page 18 - [[#^TOC|TOC]]*
 
 When you discover a fiery energy storm, **[[#ASK THE ORACLE|Ask the Oracle]]** (unlikely) if it is stable, permanent, yet still potentially a dangerous obstacle. Then, envision the consequences of this revelation.
 
 When exploring a previously unexplored stable fiery energy storm, **[[#ASK THE ORACLE|Ask the Oracle]]** (50/50) if it contains a wormhole at its heart. When you enter the wormhole, randomly determine an exit point in another sector. Then, mark a stable fiery energy storm containing a wormhole at that location with the same Observed from Afar and Observed from Nearby results.
 
-*Page 19 - [[#^TOC]]*
+*Page 19 - [[#^TOC|TOC]]*
 
 **SPACE SIGHTING**
 ## CHAOTIC METEROID STORM
@@ -651,7 +664,7 @@ _**Oracle Quest:** You have been challenged to participate in a race by another 
 
 _**Oracle Quest:** A distress signal coming from a nearby ==**▶[[_SF_CH5_Planets#Planetary Class|Planet]]**== pleads for help as their ==**▶[[SF_CH5_Settle-Creation\|Settlement]]**== is experiencing an intense and seemingly endless ==**▶[[#CHAOTIC METEROID STORM|Chaotic Meteoroid Storm]]**== with many injured, buried in rubble or wreckage, lost to  pace, and dead. What level of devastation do you expect to find? How are going to aid the settlement?_
 
-*Page 20 - [[#^TOC]]*
+*Page 20 - [[#^TOC|TOC]]*
 
 **If using a sector map**
 
@@ -666,7 +679,7 @@ Then, consider how planets, settlements, ships, passages, or other objects, expe
 
 In the aftermath of, or during a massive space battle in orbit of a planet, **[[#ASK THE ORACLE|Ask the Oracle]]** (likely) if the debris, wrecks, and stray munitions are caught in its gravity well and plummet towards the surface. If the answer is yes, envision a chaotic meteoroid storm of metallic debris and recently used munitions. Then, envision how the planet’s residents face this issue.
 
-*Page 21 - [[#^TOC]]*
+*Page 21 - [[#^TOC|TOC]]*
 
 **SPACE SIGHTING**
 ## TURBULENT GRAVITATIONAL WAVE
@@ -716,13 +729,13 @@ If your Affected Area result is between two descriptors, envision a middle-groun
 
 Once this information has been collated the scale of the waves cause can be extrapolated, as the size of the cause can never equal nor exceed the size of the affected area, and is usually orders of magnitude smaller. Envision, or discover through exploration, the cause or source of the turbulent gravitational wave.
 
-*Page 22 - [[#^TOC]]*
+*Page 22 - [[#^TOC|TOC]]*
 
 _**Oracle Quest:** A local news broadcast advises that the ==**▶[[SF_CH5_Vault-Exterior\|Precursor Vault]]**== on ==**▶[[_SF_CH5_Planets#Planetary Class|Planet]]**== has begun to %% #type misspelling %%continuosly emit an unusual ==**▶[[#TURBULENT GRAVITATIONAL WAVE|Turbulent Gravitational Wave]]**== (1-Feinmann, planet-sized) after contact had been lost with a team of researchers who had been assigned to the site. (Set a tension clock with 8 segments. Each 2 segments filled increases the wave Intensity by 1). What could have happened in the vault? What will you do if you are unable to help in time?_
 
 _**Oracle Quest:** ==**▶[[SF_CH5_Character-Names|Character Name]]**== has demanded that you travel to ==**▶[[SF_CH5_Settle-Creation|Settlement (Orbital)]]**== and steal the ==**▶[[#DESCRIPTOR|Descriptor]]**== + ==**▶[[#FOCUS|Focus]]**==, as it has recenty been impacted by a ==**▶[[#TURBULENT GRAVITATIONAL WAVE|Turbulent Gravitation Wave]]**== (2-Feinmann) that has affected all on-board electronics as well as its security system. Why do you need to steal this object? What security will you encounter?_
 
-*Page 23 - [[#^TOC]]*
+*Page 23 - [[#^TOC|TOC]]*
 
 **SPACE SIGHTING**
 ## DENSE NEBULA CLOUD
@@ -810,7 +823,7 @@ _**Oracle Quest:** A distress signal coming from a ==**▶[[SF_CH5_Starship-Crea
 
 _**Oracle Quest:** You have been tasked by ==**▶[[SF_CH5_Faction-Types|Faction]]**== with discreetly carrying an unknown cargo through a nearby ==**▶[[#DENSE NEBULA CLOUD|Dense Nebula Cloud]]**== and delivering it to their representative on ==**▶[[_SF_CH5_Planets#Planetary Class|Planet]]**==. What could the cargo be? How will you ensure that you remain discreet?_
 
-*Page 24 - [[#^TOC]]*
+*Page 24 - [[#^TOC|TOC]]*
 
 When you travel to an unvisited sector, **[[#ASK THE ORACLE|Ask the Oracle]]** (small chance) if it is entirely within a dense nebula cloud. If the answer is ‘yes’, roll on the Observed from Afar table and maintain the results for the entire sector. If any other nebulae are discovered within that sector, maintain the previous Observed from Afar results and roll the other oracles.
 
@@ -820,6 +833,13 @@ When you discover a dense nebula cloud, **[[#ASK THE ORACLE|Ask the Oracle]]** (
 
 When you travel to an unexplored hex adjacent to an already discovered hex encompassing nebula, **[[#ASK THE ORACLE|Ask the Oracle]]** (unlikely) if it extends into the new sector as well. Roll on the tables and maintain the previous Observed from Afar and Atmosphere results.
 
-*Page 25 - [[#^TOC]]*
+*Page 25 - [[#^TOC|TOC]]*
 
 QUEST FRONT CONTENT REMOVED DUE TO COPYRIGHT CONCERNS
+
+## Tags
+| Content Index | Tags |
+|:--- |:---:|
+| **[[_Space Sightings Expanded\|Space Sightings Expanded - Contents]]** | #SpaceSightingsExpanded/Oracles/Full |
+
+<font size=-2>This work is based on *Ironsworn: Starforged*, created by Shawn Tomkin, and licensed for our use under the Creative Commons Attribution 4.0 International License. Made for the Starforged 2023 Jam, hosted by Kerys and Margot Hutton • www.ludicpen.com • @LudicPen on Facebook and Instagram • ludicpen@gmail.com • discord.gg/v5j54wsJC6</font>

@@ -37,6 +37,8 @@ _**Oracle Quest:** A ==**▶[[SF_CH5_Faction-Types|Faction]]**== has made contac
 _**Oracle Quest:** While sojourning at ==**▶[[SF_CH5_Settle-Creation\|Settlement]]**== in a ==**▶[[SPCST_EX_CH1_Debris-Field#Oracle Crystalline Asteroids|Crystalline Asteroids]]**== field, a fight erupts between two ==**▶[[SF_CH5_Faction-Types#Oracle Faction Guild|Guilds]]**== over ones mistreatment of the others workers and the ‘illegal’ seizure of their equipment. How would you look into the matter more? What will you do if the allegations are true?_
 
 ## Oracle: Sample Names
+> [!mechanics]- | Roll > `dice: [[OT_SPCST_EX_Space#^Sample-Names]]`  | Guidance
+> Sample names to give a meaningful debris field as part of a Space Sighting. ^guidance-Sample-Names
 
 | dice: 1d100 | Result |
 | :---: | --- |
@@ -51,14 +53,17 @@ _**Oracle Quest:** While sojourning at ==**▶[[SF_CH5_Settle-Creation\|Settleme
 | 73 - 81 | Crimson Rift-01-CB-DC-D |
 | 82 - 90 | Iron Anvil-14-MA-MT-SC |
 | 91 - 100 | Essus Sanctum-03-FA-MI-D |
+^table-Sample-Names
 
 ## Oracle: Mineral Asteroids
+> [!mechanics]- | Roll > `dice: [[OT_SPCST_EX_Space#^Mineral-Asteroids]]` | Guidance
+> TEXT ^guidance-Mineral-Asteroids
 
 | dice: 1d100 | Result |
 | :---: | --- |
 | 1 - 41 | Mineral and ore traces |
 | 42 - 66 | Ferrous metal ores |
-| 67 - 81 | Non - Ferrous metal ores |
+| 67 - 81 | Non-Ferrous metal ores |
 | 82 - 91 | Precious metal ores |
 | 92 - 96 | Exotic ores |
 | 97 - 99 | ▶[[SF_CH5_Core_Descriptor-Focus#Oracle Descriptor\|Descriptor]] + ▶[[SF_CH5_Core_Descriptor-Focus#Oracle Focus\|Focus]]; pg 8-9 |
@@ -66,25 +71,29 @@ _**Oracle Quest:** While sojourning at ==**▶[[SF_CH5_Settle-Creation\|Settleme
 ^table-Mineral-Asteroids
 
 ## Oracle: Frozen Asteroids
+> [!mechanics]- | Roll > `dice: [[OT_SPCST_EX_Space#^Frozen-Asteroids]]` | Guidance
+> TEXT ^guidance-Frozen-Asteroids
 
 | dice: 1d100 | Result |
 | :---: | --- |
 | 1 - 41 | Frozen water and gas traces |
-| 42 - 66 | Water - Ice asteroids |
-| 67 - 81 | Solidified - Gas asteroids |
-| 82 - 91 | Mixed - Ice asteroids |
-| 92 - 96 | Exotic - Ice asteroids |
+| 42 - 66 | Water-Ice asteroids |
+| 67 - 81 | Solidified-Gas asteroids |
+| 82 - 91 | Mixed-Ice asteroids |
+| 92 - 96 | Exotic-Ice asteroids |
 | 97 - 99 | ▶[[SF_CH5_Core_Descriptor-Focus#Oracle Descriptor\|Descriptor]] + ▶[[SF_CH5_Core_Descriptor-Focus#Oracle Focus\|Focus]]; pg 8-9 |
 | 100 | ▶[[SF_CH5_Vault-Exterior\|Precursor Vault]] (grounded); pg 92 |
 ^table-Frozen-Asteroids
 
 ## Oracle: Crystalline Asteroids
+> [!mechanics]- | Roll > `dice: [[OT_SPCST_EX_Space#^Crystalline-Asteroids]]` | Guidance
+> TEXT ^guidance-Crystalline-Asteroids
 
 | dice: 1d100 | Result |
 | :---: | --- |
 | 1 - 41 | Mixed crystal traces |
-| 42 - 66 | Non - precious asteroids |
-| 67 - 81 | Semi - Precious asteroids |
+| 42 - 66 | Non-precious asteroids |
+| 67 - 81 | Semi-Precious asteroids |
 | 82 - 91 | Precious asteroids |
 | 92 - 96 | Exotic crystalline asteroids |
 | 97 - 99 | ▶[[SF_CH5_Core_Descriptor-Focus#Oracle Descriptor\|Descriptor]] + ▶[[SF_CH5_Core_Descriptor-Focus#Oracle Focus\|Focus]]; pg 8-9 |
@@ -92,6 +101,8 @@ _**Oracle Quest:** While sojourning at ==**▶[[SF_CH5_Settle-Creation\|Settleme
 ^table-Crystalline-Asteroids
 
 ## Oracle: Metallic Wreckage
+> [!mechanics]- | Roll > `dice: [[OT_SPCST_EX_Space#^Metallic-Wreckage]]` | Guidance
+> TEXT ^guidance-Metallic-Wreckage
 
 | dice: 1d100 | Result |
 | :---: | --- |
@@ -105,7 +116,8 @@ _**Oracle Quest:** While sojourning at ==**▶[[SF_CH5_Settle-Creation\|Settleme
 ^table-Metallic-Wreckage
 
 ## Oracle: Creature Boneyard
-Roll on the >Creature Scale table (pg 68). Then, determine the numbers of remains or carcasses.
+> [!mechanics]- | Roll > `dice: [[OT_SPCST_EX_Space#^Creature-Bonyard]]` | Guidance
+> Roll on the ▶[[SF_CH5_Creature-Environment-Scale#Oracle Creature Scale|Creature Scale]] table (pg 68). Then, determine the numbers of remains or carcasses. ^guidance-Creature-Boneyard
 
 | dice: 1d100 | Result |
 | :---: | --- |
@@ -119,6 +131,8 @@ Roll on the >Creature Scale table (pg 68). Then, determine the numbers of remain
 ^table-Creature-Bonyard
 
 ## Oracle: Debris Field Density
+> [!mechanics]- | Roll > `dice: [[OT_SPCST_EX_Space#^Debris-Field-Density]]` | Guidance
+> TEXT ^guidance-Debris-Field-Density
 
 | dice: 1d100 | Result |
 | :---: | --- |
@@ -132,6 +146,8 @@ Roll on the >Creature Scale table (pg 68). Then, determine the numbers of remain
 *Page 12*
 
 ## Oracle: Life
+> [!mechanics]- | Roll > `dice: [[OT_SPCST_EX_Space#^Life]]` | Guidance
+> TEXT ^guidance-Life
 
 | dice: 1d100 | Result |
 | :---: | --- |
@@ -144,6 +160,16 @@ Roll on the >Creature Scale table (pg 68). Then, determine the numbers of remain
 ^table-Life
 
 ## Oracle: Settlements
+> [!mechanics]- Guidance
+> TEXT
+> > [!oracle]- Terminus
+> > `dice: [[OT_SPCST_EX_Space#^Settlements-Terminus]]`
+>
+> > [!oracle]- Outlands
+> > `dice: [[OT_SPCST_EX_Space#^Settlements-Outlands]]`
+>
+> > [!oracle]- Expanse
+> > `dice: [[OT_SPCST_EX_Space#^Settlements-Expanse]]` ^guidance-INSERT
 
 | Terminus | Outlands | Expanse | Result |
 | :---: | :---: | :---: | --- |
@@ -155,6 +181,8 @@ Roll on the >Creature Scale table (pg 68). Then, determine the numbers of remain
 ^table-Settlements-All
 
 ### Oracle: Settlements - Terminus
+> [!mechanics]- | Roll > `dice: [[OT_SPCST_EX_Space#^Settlements-Terminus]]` | Guidance
+> TEXT ^guidance-Settlements-Terminus
 
 | dice: 1d100 | Result |
 | :---: | --- |
@@ -166,6 +194,8 @@ Roll on the >Creature Scale table (pg 68). Then, determine the numbers of remain
 ^table-Settlements-Terminus
 
 ### Oracle: Settlements - Outlands
+> [!mechanics]- | Roll > `dice: [[OT_SPCST_EX_Space#^Settlements-Outlands]]` | Guidance
+> TEXT ^guidance-Settlements-Outlands
 
 | dice: 1d100 | Result |
 | :---: | --- |
@@ -177,6 +207,8 @@ Roll on the >Creature Scale table (pg 68). Then, determine the numbers of remain
 ^table-Settlements-Outlands
 
 ### Oracle: Settlements - Expanse
+> [!mechanics]- | Roll > `dice: [[OT_SPCST_EX_Space#^Settlements-Expanse]]` | Guidance
+> TEXT ^guidance-Settlements-Expanse
 
 | dice: 1d100 | Result |
 | :---: | --- |
@@ -188,8 +220,11 @@ Roll on the >Creature Scale table (pg 68). Then, determine the numbers of remain
 ^table-Settlements-Expanse
 
 ## Oracle: Resource Presence
-When you Resupply (or make an action to extract materials) at a debris field for its related resources, roll on the table below to determine its pressence and mark it. Then, preset one of your challenge die to the value specified.
-If you take resources from a debris field claimed by another and get caught, envision the consequences.
+> [!mechanics]- | Roll > `dice: [[OT_SPCST_EX_Space#^Resource-Presence]]` | Guidance
+> When you [[SF_CH3_Resupply|Resupply]] (or make an action to extract materials) at a debris field for its related resources, roll on the table below to determine its presence and mark it. Then, preset one of your challenge die to the value specified.'
+> If you take resources from a debris field claimed by another and get caught, envision the consequences. ^guidance-INSERT
+
+
 
 | Roll | Resource Presence | Challenge Die Preset |
 | :---: | --- | --- |

@@ -26,6 +26,8 @@ OracleDescriptor: "Begin to build a planet-sprawling city in your story"
 A planet completely covered in artificial structures, industrialization, and multi-level settlements. When playing Starforged and rolling for a planet, if you get doubles, make that planet an ecumenopolis.
 
 ## Oracle: Atmosphere
+> [!mechanics]- | Roll > `dice: [[OT_FRGHZ_Ecumenopolis#^Atmosphere]]` | Guidance
+> TEXT ^guidance-Atmosphere
 
 | dice: 1d100 | Result |
 | :---: | --- |
@@ -36,6 +38,8 @@ A planet completely covered in artificial structures, industrialization, and mul
 ^table-Atmosphere
 
 ## Oracle: Population
+> [!mechanics]- | Roll > `dice: [[OT_FRGHZ_Ecumenopolis#^Population]]` | Guidance
+> TEXT ^guidance-Population
 
 | dice: 1d100 | Result |
 | :---: | --- |
@@ -46,6 +50,8 @@ A planet completely covered in artificial structures, industrialization, and mul
 ^table-Population
 
 ## Oracle: Other Lifeforms
+> [!mechanics]- | Roll > `dice: [[OT_FRGHZ_Ecumenopolis#^Life]]` | Guidance
+> TEXT ^guidance-Life
 
 | dice: 1d100 | Result |
 | :---: | --- |
@@ -60,6 +66,8 @@ A planet completely covered in artificial structures, industrialization, and mul
 *Page 10*
 
 ## Oracle: Observed From Space
+> [!mechanics]- | Roll > <br>▶1 `dice: [[OT_FRGHZ_Ecumenopolis#^Observed-From-Space]]` <br>▶2 `dice: [[OT_FRGHZ_Ecumenopolis#^Observed-From-Space]]` | Guidance
+> TEXT ^guidance-Observed-From-Space
 
 | dice: 1d100 | Result @1-2 |
 | :---: | --- |
@@ -76,6 +84,8 @@ A planet completely covered in artificial structures, industrialization, and mul
 ^table-Observed-From-Space
 
 ## Oracle: Planetside Feature
+> [!mechanics]- | Roll > <br>▶1 `dice: [[OT_FRGHZ_Ecumenopolis#^Planetside-Feature]]` <br>▶2 `dice: [[OT_FRGHZ_Ecumenopolis#^Planetside-Feature]]` | Guidance
+> TEXT ^guidance-Planetside-Feature
 
 | dice: 1d100 | Result @1-2 |
 | :---: | --- |
@@ -98,9 +108,11 @@ A planet completely covered in artificial structures, industrialization, and mul
 *Page 11*
 
 ## Oracle: Sample Names
+> [!mechanics]- | Roll > `dice: [[OT_FRGHZ_Ecumenopolis#^Names]]` | Guidance
+> TEXT ^guidance-INSERT
 
 | dice: 1d100 | Result |
-|:---:| --- |
+| :---: | --- |
 | 1 - 5 | Atlas |
 | 6 - 10 | Beacon | 
 | 11 - 15 | Colossus |

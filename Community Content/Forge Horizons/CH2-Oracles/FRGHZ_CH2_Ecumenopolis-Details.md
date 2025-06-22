@@ -22,9 +22,10 @@ OracleDescriptor: "Introduce a trouble and name for the planet-sprawling city in
 # [[_Forge Horizons|Forge Horizons]] - [[_FRGHZ_CH2_Oracles|Oracles]]: Ecumenopolis Details
 
 ## Oracle: Random City Complications
-When you’re on an ecumenopolis planet and roll doubles on the challenge dice, or if you need a new obstacle or challenge for your adventures on that same sort of planet, roll once on the table below.
-
-This oracle can also be used in place of the [[SF_CH3_Pay the Price|Pay the Price]] table when you’re on an ecumenopolis planet.
+> [!mechanics]- | Roll > `dice: [[OT_FRGHZ_Ecumenopolis#^Names]]` | Guidance
+> When you’re on an ecumenopolis planet and roll doubles on the challenge dice, or if you need a new obstacle or challenge for your adventures on that same sort of planet, roll once on the table below.
+> 
+> This oracle can also be used in place of the [[SF_CH3_Pay the Price#Pay The Price Move Card|Pay the Price]] table when you’re on an ecumenopolis planet. ^guidance-City-Complication
 
 | dice: 1d100 | Result |
 | :---: | --- |
@@ -57,9 +58,13 @@ This oracle can also be used in place of the [[SF_CH3_Pay the Price|Pay the Pric
 *Page 12*
 
 ## City Names
-When you are on an ecumenopolis planet and need a name for aperson, business, or part of the city, roll on these tables for a prefix(first part) and suffix (second part) to make a name.
+When you are on an ecumenopolis planet and need a name for aperson, business, or part of the city, roll on these tables for a prefix(first part) and suffix (second part) to make a name
 
+> [!oracle]- Oracle
+> Prefix + Suffix: `dice: [[OT_FRGHZ_Ecumenopolis#^City-Name-Prefix]]` + `dice: [[OT_FRGHZ_Ecumenopolis#^City-Name-Suffix]]`
 ### Oracle: City Names Prefix
+> [!mechanics]- | Roll > `dice: [[OT_FRGHZ_Ecumenopolis#^City-Name-Prefix]]` | Guidance
+> When you are on an ecumenopolis planet and need a name for aperson, business, or part of the city, roll on these tables for a prefix(first part) and suffix (second part) to make a name. ^guidance-City-Name-Prefix
 
 | dice: 1d100 | Result |
 | :---: | --- | :---: | --- |
@@ -116,6 +121,8 @@ When you are on an ecumenopolis planet and need a name for aperson, business, or
 *Page 13*
 
 ### Oracle: City Names Suffix
+> [!mechanics]- | Roll > `dice: [[OT_FRGHZ_Ecumenopolis#^City-Name-Suffix]]` | Guidance
+> When you are on an ecumenopolis planet and need a name for aperson, business, or part of the city, roll on these tables for a prefix(first part) and suffix (second part) to make a name ^guidance-City-Name-Suffix
 
 | dice: 1d100 | Result |
 | :---: | --- |

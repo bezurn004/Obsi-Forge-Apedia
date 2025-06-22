@@ -22,6 +22,8 @@ OracleDescriptor: "Create a supernatural entity for the story"
 # [[_Forge Horizons|Forge Horizons]] - [[_FRGHZ_CH2_Oracles|Oracles]]: Supernatural Creation
 
 ## Oracle: Scale
+> [!mechanics]- | Roll > `dice: [[OT_FRGHZ_Supernatural#^Scale]]` | Guidance
+> TEXT ^guidance-Scale
 
 | dice: 1d100 | Result |
 | :---: | --- |
@@ -32,7 +34,8 @@ OracleDescriptor: "Create a supernatural entity for the story"
 ^table-Scale
 
 ## Oracle: Supernatural Powers
-(Roll 2-3 times)
+> [!mechanics]- | Roll > <br>▶1 `dice: [[OT_FRGHZ_Supernatural#^Powers]]` <br>▶2 `dice: [[OT_FRGHZ_Supernatural#^Powers]]` <br>▶3 `dice: [[OT_FRGHZ_Supernatural#^Powers]]` | Guidance
+> TEXT ^guidance-Powers
 
 | dice: 1d100 | Result @2-3 |
 | :---: | --- |
@@ -61,7 +64,8 @@ OracleDescriptor: "Create a supernatural entity for the story"
 *Page 20*
 
 ## Oracle: Supernatural Alterations
-(Roll 1-2 times)
+> [!mechanics]- | Roll > <br>▶1 `dice: [[OT_FRGHZ_Supernatural#^Alterations]]` <br>▶2 `dice: [[OT_FRGHZ_Supernatural#^Alterations]]` | Guidance
+> TEXT ^guidance-Alterations
 
 | dice: 1d100 | Result @1-2 |
 | :---: | --- |

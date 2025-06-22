@@ -39,6 +39,8 @@ _**Oracle Quest:** You have been asked by ==**▶[[SF_CH5_Faction-Types\|Faction
 _**Oracle Quest:** You have recieved a request for aid from ==**▶[[SF_CH5_Faction-Types\|Faction]]**== who are currently stranded within a ==**▶[[SPCST_EX_CH1_Fiery-Storm|Fiery Energy Storm]]**==. They need you to travel to ==**▶[[_SF_CH5_Planets#Planetary Class|Planet]]**== and retrieve their stockpile of materials so they can complete emergency repairs. How did they become stranded? What did they reach out to you and not to their faction?_
 
 ## Oracle: Names
+> [!mechanics]- | Roll > `dice: [[OT_SPCST_EX_Fiery-Energy-Storm#^Name]]` | Guidance
+> TEXT ^guidance-INSERT
 
 | dice: 1d100 | Result |
 | :---: | --- |
@@ -65,6 +67,8 @@ _**Oracle Quest:** You have recieved a request for aid from ==**▶[[SF_CH5_Fact
 ^table-Name
 
 ## Oracle: Observed From Afar
+> [!mechanics]- | Roll > <br>▶1 `dice: [[OT_SPCST_EX_Fiery-Energy-Storm#^Observed-From-Afar]]` <br>▶2 `dice: [[OT_SPCST_EX_Fiery-Energy-Storm#^Observed-From-Afar]]` | Guidance
+> TEXT ^guidance-INSERT
 
 | dice: 1d100 | Result @1-2 |
 | :---: | --- |
@@ -81,6 +85,8 @@ _**Oracle Quest:** You have recieved a request for aid from ==**▶[[SF_CH5_Fact
 ^table-Observed-From-Afar
 
 ## Oracle: Observed From Nearby
+> [!mechanics]- | Roll > <br>▶1 `dice: [[OT_SPCST_EX_Fiery-Energy-Storm#^Observed-From-Nearby]]` <br>▶2 `dice: [[OT_SPCST_EX_Fiery-Energy-Storm#^Observed-From-Nearby]]` | Guidance
+> TEXT ^guidance-INSERT
 
 | dice: 1d100 | Result @1-2 |
 | :---: | --- |
@@ -102,6 +108,8 @@ _**Oracle Quest:** You have recieved a request for aid from ==**▶[[SF_CH5_Fact
 ^table-Observed-From-Nearby
 
 ## Oracle: Atmosphere
+> [!mechanics]- | Roll > `dice: [[OT_SPCST_EX_Fiery-Energy-Storm#^Atmosphere]]` | Guidance
+> TEXT ^guidance-Atmosphere
 
 | dice: 1d100 | Result |
 | :---: | --- |
@@ -114,6 +122,8 @@ _**Oracle Quest:** You have recieved a request for aid from ==**▶[[SF_CH5_Fact
 ^table-Atmosphere
 
 ## Oracle: Life
+> [!mechanics]- | Roll > `dice: [[OT_SPCST_EX_Fiery-Energy-Storm#^Life]]` | Guidance
+> TEXT ^guidance-Life
 
 | dice: 1d100 | Result |
 | :---: | --- |
@@ -126,7 +136,16 @@ _**Oracle Quest:** You have recieved a request for aid from ==**▶[[SF_CH5_Fact
 ^table-Life
 
 ## Oracle: Settlements
-If you determine there’s a settlement, mark the fiery enery storms as having a wormhole at its heart.
+> [!mechanics]- Guidance
+> If you determine there’s a settlement, mark the fiery energy storms as having a wormhole at its heart.
+> > [!oracle]- Terminus
+> > `dice: [[OT_SPCST_EX_Fiery-Energy-Storm#^Settlement-Terminus]]`
+>
+> > [!oracle]- Outlands
+> > `dice: [[OT_SPCST_EX_Fiery-Energy-Storm#^Settlement-Outlands]]`
+>
+> > [!oracle]- Expanse
+> > `dice: [[OT_SPCST_EX_Fiery-Energy-Storm#^Settlement-Expanse]]` ^guidance-Settlement-All
 
 | Terminus | Outlands | Expanse | Result |
 | :---: | :---: | :---: | --- |
@@ -138,6 +157,8 @@ If you determine there’s a settlement, mark the fiery enery storms as having a
 ^table-Settlement-All
 
 ### Oracle: Settlements - Terminus
+> [!mechanics]- | Roll > `dice: [[OT_SPCST_EX_Fiery-Energy-Storm#^Settlement-Terminus]]` | Guidance
+> TEXT ^guidance-Settlement-Terminus
 
 | Terminus | Result |
 | :---: | --- |
@@ -149,6 +170,8 @@ If you determine there’s a settlement, mark the fiery enery storms as having a
 ^table-Settlement-Terminus
 
 ### Oracle: Settlements - Outlands
+> [!mechanics]- | Roll > `dice: [[OT_SPCST_EX_Fiery-Energy-Storm#^Settlement-Outlands]]` | Guidance
+> TEXT ^guidance-Settlement-Outlands
 
 | Outlands | Result |
 | :---: | --- |
@@ -160,6 +183,8 @@ If you determine there’s a settlement, mark the fiery enery storms as having a
 ^table-Settlement-Outlands
 
 ### Oracle: Settlements - Expanse
+> [!mechanics]- | Roll > `dice: [[OT_SPCST_EX_Fiery-Energy-Storm#^Settlement-Expanse]]` | Guidance
+> TEXT ^guidance-Settlement-Expanse
 
 | Expanse | Result |
 | :---: | --- |
@@ -171,6 +196,8 @@ If you determine there’s a settlement, mark the fiery enery storms as having a
 ^table-Settlement-Expanse
 
 ## Oracle: Fiery Energy Storm Debris Field
+> [!mechanics]- | Roll > `dice: [[OT_SPCST_EX_Fiery-Energy-Storm#^Debris-Field]]` | Guidance
+> TEXT ^guidance-Debris-Field
 
 | dice: 1d100 | Result |
 | :---: | --- |

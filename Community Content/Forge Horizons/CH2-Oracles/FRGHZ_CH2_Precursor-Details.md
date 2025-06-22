@@ -21,8 +21,8 @@ OracleDescriptor: "Flesh out the details of the Precursor Being for the story"
 # [[_Forge Horizons|Forge Horizons]] - [[_FRGHZ_CH2_Oracles|Oracles]]: Precursor Details
 
 ## Oracle: Precursor Aspects
-(Roll 1-2 times)
-These are general behaviours of the precursor, communicated through remains, circumstances of their death, or how they act.
+> [!mechanics]- | Roll > <br>▶1 `dice: [[OT_FRGHZ_Precursor#^Aspects]]` <br>▶2 `dice: [[OT_FRGHZ_Precursor#^Aspects]]` | Guidance
+> These are general behaviours of the precursor, communicated through remains, circumstances of their death, or how they act. ^guidance-Aspects
 
 | dice: 1d100 | Result @1-2 |
 | :---: | --- |
@@ -56,8 +56,8 @@ These are general behaviours of the precursor, communicated through remains, cir
 *Page 26*
 
 ## Oracle: Precursor Artifacts
-(Roll 1-2 times)
-These possessions and incredible devices are found with the precursor, either held in hand or found close by their body.
+> [!mechanics]- | Roll > <br>▶1 `dice: [[OT_FRGHZ_Precursor#^Artifacts]]` <br>▶2 `dice: [[OT_FRGHZ_Precursor#^Artifacts]]` | Guidance
+> These possessions and incredible devices are found with the precursor, either held in hand or found close by their body. ^guidance-Artifacts
 
 | dice: 1d100 | Result @1-2 |
 | :---: | --- |
@@ -86,7 +86,7 @@ These possessions and incredible devices are found with the precursor, either he
 *Page 27*
 
 ## Tags
-| Previous Page | Tags | Topic Index |
+| Previous Page | Tags | Content Index |
 | :--- | :---: | ---: |
 | **[[FRGHZ_CH2_Precursor-Beings\|Precursor - Beings (Forge Horizons)]]** | #ForgeHorizons/Oracles | **[[_Forge Horizons\|Forge Horizons]]** |
 

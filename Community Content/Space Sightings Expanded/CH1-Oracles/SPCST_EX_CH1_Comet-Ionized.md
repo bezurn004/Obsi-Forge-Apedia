@@ -32,11 +32,13 @@ _**Oracle Quest:** You overhear a conversation between two men. They found a sea
 
 _**Oracle Quest:** ==**▶[[SF_CH5_Character-Names|Character Name]]**== lets you know that in order to complete your mission to ==**▶[[SF_CH5_Core_Action-Theme#Oracle Action|Action]]**== + ==**▶[[SF_CH5_Core_Action-Theme#Oracle Theme|Theme]]**== you must travel to ==**▶[[SPCST_EX_CH1_Comet-Ionized|Comet With a Tail of Ionized Gas]]**==. What do you think his motives are behind giving you this information? What part does the comet play in completing your mission?_
 
-*16*
+*Page 16*
 
 Throughout history many have seen passing comets as heralds of things to come, positive or negative. The galaxy’s current residents are no different in this respect. When you discover a comet with a tail of ionized gas in a sector with a settlement, consider each faction and determine how likely it is that superstitious members interpret the celestial body as an omen. Then, **[[SF_CH3_Ask the Oracle#Ask The Oracle Move Card\|Ask the Oracle]]** if the comet’s appearance drives them to chage their individual or collective destinies.
 
 ## Oracle: Names
+> [!mechanics]- | Roll > `dice: [[OT_SPCST_EX_Comet-Ionized-Gas#^Names]]` | Guidance
+> TEXT ^guidance-Names
 
 | dice: 1d100 | Result |
 | :---: | --- |
@@ -62,6 +64,8 @@ Throughout history many have seen passing comets as heralds of things to come, p
 ^table-Names
 
 ## Oracle: Observed From Afar
+> [!mechanics]- | Roll > <br>▶1 `dice: [[OT_SPCST_EX_Comet-Ionized-Gas#^Observed-From-Afar]]` <br>▶2 `dice: [[OT_SPCST_EX_Comet-Ionized-Gas#^Observed-From-Afar]]` | Guidance
+> TEXT ^guidance-Observed-From-Afar
 
 | dice: 1d100 | Result @1-2 |
 | :---: | --- |
@@ -78,6 +82,8 @@ Throughout history many have seen passing comets as heralds of things to come, p
 ^table-Observed-From-Afar
 
 ## Oracle: Observed From Nearby
+> [!mechanics]- | Roll > <br>▶1 `dice: [[OT_SPCST_EX_Comet-Ionized-Gas#^Observed-From-Nearby]]` <br>▶2 `dice: [[OT_SPCST_EX_Comet-Ionized-Gas#^Observed-From-Nearby]]` | Guidance
+> TEXT ^guidance-Observed-From-Nearby
 
 | dice: 1d100 | Result @1-2 |
 | :---: | --- |
@@ -99,6 +105,8 @@ Throughout history many have seen passing comets as heralds of things to come, p
 ^table-Observed-From-Nearby
 
 ## Oracle: Atmosphere
+> [!mechanics]- | Roll > `dice: [[OT_SPCST_EX_Comet-Ionized-Gas#^Atmosphere]]` | Guidance
+> TEXT ^guidance-Atmosphere
 
 | dice: 1d100 | Result |
 | :---: | --- |
@@ -111,6 +119,8 @@ Throughout history many have seen passing comets as heralds of things to come, p
 ^table-Atmosphere
 
 ## Oracle: Life
+> [!mechanics]- | Roll > `dice: [[OT_SPCST_EX_Comet-Ionized-Gas#^Life]]` | Guidance
+> TEXT ^guidance-Life
 
 | dice: 1d100 | Result |
 | :---: | --- |
@@ -123,6 +133,16 @@ Throughout history many have seen passing comets as heralds of things to come, p
 ^table-Life
 
 ## Oracle: Settlements
+> [!mechanics]- Guidance
+> TEXT
+> > [!oracle]- Terminus
+> > `dice: [[OT_SPCST_EX_Comet-Ionized-Gas#^Settlements-Terminus]]`
+>
+> > [!oracle]- Outlands
+> > `dice: [[OT_SPCST_EX_Comet-Ionized-Gas#^Settlements-Outlands]]`
+>
+> > [!oracle]- Expanse
+> > `dice: [[OT_SPCST_EX_Comet-Ionized-Gas#^Settlements-Expanse]]` ^guidance-Settlements-All
 
 | Terminus | Outlands | Expanse | Result |
 | :---: | :---: | :---: | --- |
@@ -134,6 +154,8 @@ Throughout history many have seen passing comets as heralds of things to come, p
 ^table-Settlements-All
 
 ### Oracle: Settlements - Terminus
+> [!mechanics]- | Roll > `dice: [[OT_SPCST_EX_Comet-Ionized-Gas#^Settlements-Terminus]]` | Guidance
+> TEXT ^guidance-Settlements-Terminus
 
 | dice: 1d100 | Result |
 | :---: | --- |
@@ -145,6 +167,8 @@ Throughout history many have seen passing comets as heralds of things to come, p
 ^table-Settlements-Terminus
 
 ### Oracle: Settlements - Outlands
+> [!mechanics]- | Roll > `dice: [[OT_SPCST_EX_Comet-Ionized-Gas#^Settlements-Outlands]]` | Guidance
+> TEXT ^guidance-Settlements-Outlands
 
 | dice: 1d100 | Result |
 | :---: | --- |
@@ -156,6 +180,8 @@ Throughout history many have seen passing comets as heralds of things to come, p
 ^table-Settlements-Outlands
 
 ### Oracle: Settlements - Expanse
+> [!mechanics]- | Roll > `dice: [[OT_SPCST_EX_Comet-Ionized-Gas#^Settlements-Expanse]]` | Guidance
+> TEXT ^guidance-Settlements-Expanse
 
 | dice: 1d100 | Result |
 | :---: | --- |
@@ -167,6 +193,8 @@ Throughout history many have seen passing comets as heralds of things to come, p
 ^table-Settlements-Expanse
 
 ## Oracle: Comet Debris Field
+> [!mechanics]- | Roll > `dice: [[OT_SPCST_EX_Comet-Ionized-Gas#^Comet-Debris-Field]]` | Guidance
+> TEXT ^guidance-Comet-Debris-Field
 
 | dice: 1d100 | Result |
 | :---: | --- |

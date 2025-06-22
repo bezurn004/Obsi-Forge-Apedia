@@ -38,6 +38,8 @@ _**Oracle Quest:** A ==**▶[[SPCST_EX_CH1_Rogue-Asteroid|Large Rogue Asteroid]]
 _**Oracle Quest:** What had been considered a comet due to its trail of flickering radiant lights has been discovered to be a ==**▶[[SPCST_EX_CH1_Rogue-Asteroid|Large Rogue Asteroid]]**==. The object is passing through a sector and reports indicate that the population of a nearby ==**▶[[SF_CH5_Settle-Creation\|Settlement]]**== has vanished almost entirely. Those unaffected communities nearby claim the asteroid is to blame, that the lights themselves were the harbingers of the disappearances. How could the asteroid and the lights be responsible? Where have the missing population gone?_
 
 ## Oracle: Sample Names
+> [!mechanics]- | Roll > `dice: [[OT_SPCST_EX_Rogue-Asteroid#^Names]]` | Guidance
+> TEXT ^guidance-Names
 
 | dice: 1d100 | Result |
 | :---: | --- |
@@ -64,6 +66,8 @@ _**Oracle Quest:** What had been considered a comet due to its trail of flickeri
 ^table-Names
 
 ## Oracle: Observed From Afar
+> [!mechanics]- | Roll > <br>▶1 `dice: [[OT_SPCST_EX_Rogue-Asteroid#^Observed-From-Afar]]` <br>▶2 `dice: [[OT_SPCST_EX_Rogue-Asteroid#^Observed-From-Afar]]` | Guidance
+> TEXT ^guidance-Observed-From-Afar
 
 | dice: 1d100 | Result @1-2 |
 | :---: | --- |
@@ -80,6 +84,8 @@ _**Oracle Quest:** What had been considered a comet due to its trail of flickeri
 ^table-Observed-From-Afar
 
 ## Oracle: Observed From Nearby
+> [!mechanics]- | Roll > <br>▶1 `dice: [[OT_SPCST_EX_Rogue-Asteroid#^Observed-From-Nearby]]` <br>▶2 `dice: [[OT_SPCST_EX_Rogue-Asteroid#^Observed-From-Nearby]]` | Guidance
+> TEXT ^guidance-Observed-From-Nearby
 
 | dice: 1d100 | Result @1-2 |
 | :---: | --- |
@@ -101,6 +107,8 @@ _**Oracle Quest:** What had been considered a comet due to its trail of flickeri
 ^table-Observed-From-Nearby
 
 ## Oracle: Asteroid Size
+> [!mechanics]- | Roll > `dice: [[OT_SPCST_EX_Rogue-Asteroid#^Asteroid-Size]]` | Guidance
+> TEXT ^guidance-Asteroid-Size
 
 | dice: 1d100 | Result |
 | :---: | --- |
@@ -112,6 +120,8 @@ _**Oracle Quest:** What had been considered a comet due to its trail of flickeri
 ^table-Asteroid-Size
 
 ## Oracle: Atmosphere
+> [!mechanics]- | Roll > `dice: [[OT_SPCST_EX_Rogue-Asteroid#^Atmosphere]]` | Guidance
+> TEXT ^guidance-Atmosphere
 
 | dice: 1d100 | Result |
 | :---: | --- |
@@ -124,6 +134,8 @@ _**Oracle Quest:** What had been considered a comet due to its trail of flickeri
 ^table-Atmosphere
 
 ## Oracle: Life
+> [!mechanics]- | Roll > `dice: [[OT_SPCST_EX_Rogue-Asteroid#^Life]]` | Guidance
+> TEXT ^guidance-Life
 
 | dice: 1d100 | Result |
 | :---: | --- | :---: | --- |
@@ -136,9 +148,19 @@ _**Oracle Quest:** What had been considered a comet due to its trail of flickeri
 ^table-Life
 
 ## Oracle: Settlements - All
+> [!mechanics]- Guidance
+> TEXT
+> > [!oracle]- Terminus
+> > `dice: [[OT_SPCST_EX_Rogue-Asteroid#^Settlements-Terminus]]`
+>
+> > [!oracle]- Outlands
+> > `dice: [[OT_SPCST_EX_Rogue-Asteroid#^Settlements-Outlands]]`
+>
+> > [!oracle]- Expanse
+> > `dice: [[OT_SPCST_EX_Rogue-Asteroid#^Settlements-Expanse]]` ^guidance-Settlements-All
 
-| Terminus | Outlands | Expanse | Result |
-| :---: | :---: | :---: | --- |
+| dice: 1d100 | Result |
+| :---: | --- |- |
 | 1 - 92 | 1 - 98 | 1 - 100 | None |
 | 93 - 97 | 99 - 100 | -- | Orbital settlement |
 | 98 - 100 | -- | -- | Grounded settlement |
@@ -149,6 +171,8 @@ _**Oracle Quest:** What had been considered a comet due to its trail of flickeri
 *Page 14*
 
 ### Oracle: Settlements - Terminus
+> [!mechanics]- | Roll > `dice: [[OT_SPCST_EX_Rogue-Asteroid#^Settlements-Terminus]]` | Guidance
+> TEXT ^guidance-Settlements-Terminus
 
 | dice: 1d100 | Result |
 | :---: | --- |
@@ -160,6 +184,8 @@ _**Oracle Quest:** What had been considered a comet due to its trail of flickeri
 ^table-Settlements-Terminus
 
 ### Oracle: Settlements - Outlands
+> [!mechanics]- | Roll > `dice: [[OT_SPCST_EX_Rogue-Asteroid#^Settlements-Outlands]]` | Guidance
+> TEXT ^guidance-Settlements-Outlands
 
 | dice: 1d100 | Result |
 | :---: | --- |
@@ -171,6 +197,8 @@ _**Oracle Quest:** What had been considered a comet due to its trail of flickeri
 ^table-Settlements-Outlands
 
 ## Oracle: Settlements - Expanse
+> [!mechanics]- | Roll > `dice: [[OT_SPCST_EX_Rogue-Asteroid#^Settlements-Expanse]]` | Guidance
+> TEXT ^guidance-Settlements-Expanse
 
 | dice: 1d100 | Result |
 | :---: | --- |
@@ -190,60 +218,70 @@ Then, envision how the impact affects any life and settlements on that planet.
 
 | Huge<br>(Chicxulub-sized) | Massive<br>(city-sized) | Titanic<br>(continent-sized) | Colossal<br>(dwarf planet-sized) | Vast<br>(moon-sized) | Result |
 | :---: | :---: | :---: | :---: | :---: | --- |
-| 1 - 45 | 1 - 35 | 1 - 10 | -- | -- | Ice World |
-| 46 - 100 | 36 - 100 | 11 - 60 | 1 - 15 | -- | Grave World |
-| -- | -- | 61 - 100 | 16 - 65 | 1 - 20 | Furnace World |
-| -- | -- | -- | 66 - 100 | 21 - 100 | Shattered World |
+| 1 - 45 | 1 - 35 | 1 - 10 | -- | -- | ▶[[SF_CH5_Planet-Ice\|Ice World]] |
+| 46 - 100 | 36 - 100 | 11 - 60 | 1 - 15 | -- | ▶[[SF_CH5_Planet-Grave\|Grave World]] |
+| -- | -- | 61 - 100 | 16 - 65 | 1 - 20 | ▶[[SF_CH5_Planet-Furnace\|Furnace World]] |
+| -- | -- | -- | 66 - 100 | 21 - 100 | ▶[[SF_CH5_Planet-Shattered\|Shattered World]] |
 ^table-Asteroid-Impact-Outcome-All
 
 *Page 15*
 
 ### Oracle: Asteroid Impact Outcomes - Huge
+> [!mechanics]- | Roll > `dice: [[OT_SPCST_EX_Rogue-Asteroid#^Asteroid-Impact-Outcome-Huge]]` | Guidance
+> TEXT ^guidance-Impact-Outcome-Huge
 
 | dice: 1d100 | Result |
 | :---: | --- |
-| 1 - 45 | Ice World |
-| 46 - 100 | Grave World |
-| -- | Furnace World |
-| -- | Shattered World |
+| 1 - 45 | ▶[[SF_CH5_Planet-Ice\|Ice World]] |
+| 46 - 100 | ▶[[SF_CH5_Planet-Grave\|Grave World]] |
+| -- | ▶[[SF_CH5_Planet-Furnace\|Furnace World]] |
+| -- | ▶[[SF_CH5_Planet-Shattered\|Shattered World]] |
 ^table-Asteroid-Impact-Outcome-Huge
 
 ### Oracle: Asteroid Impact Outcomes - Massive
+> [!mechanics]- | Roll > `dice: [[OT_SPCST_EX_Rogue-Asteroid#^Asteroid-Impact-Outcome-Massive]]` | Guidance
+> TEXT ^guidance-Impact-Outcome-Massive
 
 | dice: 1d100 | Result |
 | :---: | --- |
-| 1 - 35 | Ice World |
-| 36 - 100 | Grave World |
-| -- | Furnace World |
-| -- | Shattered World |
+| 1 - 35 | ▶[[SF_CH5_Planet-Ice\|Ice World]] |
+| 36 - 100 | ▶[[SF_CH5_Planet-Grave\|Grave World]] |
+| -- | ▶[[SF_CH5_Planet-Furnace\|Furnace World]] |
+| -- | ▶[[SF_CH5_Planet-Shattered\|Shattered World]] |
 ^table-Asteroid-Impact-Outcome-Massive
 
 ### Oracle: Asteroid Impact Outcomes - Titanic
+> [!mechanics]- | Roll > `dice: [[OT_SPCST_EX_Rogue-Asteroid#^Asteroid-Impact-Outcome-Titanic]]` | Guidance
+> TEXT ^guidance-Impact-Outcome-Titanic
 
-| Titanic<br>(continent-sized) | Result |
-|:---:| --- |
-| 1 - 10 | Ice World |
-| 11 - 60 | Grave World |
-| 61 - 100 | Furnace World |
-| -- | Shattered World |
+| dice: 1d100 | Result |
+| :---: | --- |
+| 1 - 10 | ▶[[SF_CH5_Planet-Ice\|Ice World]] |
+| 11 - 60 | ▶[[SF_CH5_Planet-Grave\|Grave World]] |
+| 61 - 100 | ▶[[SF_CH5_Planet-Furnace\|Furnace World]] |
+| -- | ▶[[SF_CH5_Planet-Shattered\|Shattered World]] |
 ^table-Asteroid-Impact-Outcome-Titanic
 
 ### Oracle: Asteroid Impact Outcomes - Colossal
+> [!mechanics]- | Roll > `dice: [[OT_SPCST_EX_Rogue-Asteroid#^Asteroid-Impact-Outcome-Colossal]]` | Guidance
+> TEXT ^guidance-Impact-Outcome-Colossal
 
 | dice: 1d100 | Result |
 | :---: | --- |
-| -- | Ice World |
-| 1 - 15 | Grave World |
-| 16 - 65 | Furnace World |
-| 66 - 100 | Shattered World |
+| -- | ▶[[SF_CH5_Planet-Ice\|Ice World]] |
+| 1 - 15 | ▶[[SF_CH5_Planet-Grave\|Grave World]] |
+| 16 - 65 | ▶[[SF_CH5_Planet-Furnace\|Furnace World]] |
+| 66 - 100 | ▶[[SF_CH5_Planet-Shattered\|Shattered World]] |
 ^table-Asteroid-Impact-Outcome-Colossal
 
 ### Oracle: Asteroid Impact Outcomes - Vast
+> [!mechanics]- | Roll > `dice: [[OT_SPCST_EX_Rogue-Asteroid#^Asteroid-Impact-Outcome-Vast]]` | Guidance
+> TEXT ^guidance-Impact-Outcome-Vast
 
 | dice: 1d100 | Result |
 | :---: | --- |
-| 1 - 20 | Furnace World |
-| 21 - 100 | Shattered World |
+| 1 - 20 | ▶[[SF_CH5_Planet-Furnace\|Furnace World]] |
+| 21 - 100 | ▶[[SF_CH5_Planet-Shattered\|Shattered World]] |
 ^table-Asteroid-Impact-Outcome-Vast
 
 ## Tags

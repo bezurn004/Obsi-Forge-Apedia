@@ -55,7 +55,11 @@ ReferencedMoves:
 > Take +1 Momentum
 > 
 > >[!cite]- Narrative prompt
-> >They offer a counter-proposal or introduce a complicating factor. Look to the fiction to understand their response. What would they want? What would satisfy their concerns or motivate them to comply? If you’re not sure, [[SF_CH3_Ask the Oracle|Ask the Oracle]].
+> >They offer a counter-proposal or introduce a complicating factor. Look to the fiction to understand their response.
+> > - What would they want?
+> > - What would satisfy their concerns or motivate them to comply?
+> > - If you’re not sure, [[SF_CH3_Ask the Oracle|Ask the Oracle]].
+> > 
 > >Then, if you accept their offer, you gain their (perhaps grudging) support. 
 > >If not, you need to find another path. ^weak-hit
 

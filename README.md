@@ -1,15 +1,15 @@
 # Readme
-The Obsi-Forge-Apedia (OFA) is a project to enhance the source material from the Ironsworn Starforged Table Top Role-Playing Game. This vault can be used independently for Starforged campaigns as a reference guide. It was initially created as a supplement to the Forged in Obsidian.
+The Obsi-Forge-Apedia (OFA) is a project to enhance the source material from the *Ironsworn Starforged* Table Top Role-Playing Game. This vault can be used independently for *Starforged* campaigns as a reference guide. It was initially created as a supplement to the Forged in Obsidian and has since been expanded to be a compendium for all material released for *Starforged*
 
 ## Highlights of This Work
-- Full source material from Ironsworn Starforged digestibable in Obsidian mark down format.
+- Full source material from *Ironsworn Starforged* digestible in Obsidian mark down format.
 - Data view queries and dolphin diagrams to enhance functionality of source material.
 - Oracle roll tables for use during play sessions
 - Slight elaborations and editorial additions with the aim of making the source material more easily understood.
 
 ## Dependencies
 * Obsidian (https://obsidian.md)
-  This repository is created within Obsidian and the files are stored in mark-down, with some HTML tags as well.
+  This repository is created within Obsidian and the files are stored in mark-down, with some HTML tags when needed.
 - (optional) Forge In Obsidian (https://github.com/ericbright2002/Forged_in_Obsidian)
   
 ### Plugins used for this vault
@@ -25,12 +25,12 @@ The Obsi-Forge-Apedia (OFA) is a project to enhance the source material from the
 
 ### Stand alone
 1. Download the Obsidian app to your device - https://obsidian.md/download
-3. Download this repository as a zip file (or by other means)
-4. Extract the vault to your desired location on your device.
-5. Open Obsidian 
-6. Open vault from folder location, pointing to where the zip was extracted.
+2. Download this repository as a zip file (or clone it by other means through git interfaces)
+3. Extract the vault to your desired location on your device.
+4. Open Obsidian 
+5. Open vault from folder location, pointing to where the zip was extracted.
 
-*There will be references to Forged In Obsidian in-line scripts that will not be applicable to a standalone usage*
+*There will be references to Forged In Obsidian in-line scripts that will not be applicable to a standalone usage, primarily related to Starforged moves*
 
 ### Import into Forged In Obsidian
 1. Download the Obsidian app to your device - https://obsidian.md/download
@@ -59,14 +59,14 @@ These are tasks that are core to completing the conversion of the source materia
 
 #### Phase 1:
 The focus on phase 1 is to import data.  During this process layout refactors and grammatical refinements will take place.
-- [ ] Import and refine source data from...
+- [x] Import and refine source data from...
 	- [x] Rules sections
 	- [x] Campaign Creation sections
 	- [x] Character Creation sections
 	- [x] Moves sections
 	- [x] Assets sections
 	- [x] Oracles sections
-	- [ ] Optional Rules and Extra Content
+	- [x] Community Content for Starforged
 - [x] Ambiguous Clarification
 	- [x] Resolve ambiguous Rules
 	- [x] Resolve ambiguous Campaign Creation

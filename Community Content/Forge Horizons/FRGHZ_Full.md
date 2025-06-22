@@ -1,3 +1,16 @@
+---
+## Source
+SourceMaterial: "Forge Horizons"
+SourceAuthor: "Michael Elliott"
+SourceLink: 
+
+## Page
+aliases:
+  - "Forge Horizons - Full"
+PageType: "Forge Horizons"
+PageCategory: Full
+PageOrder: 0
+---
 > ## [[_Forge Horizons|FORGE HORIZONS]]
 > ### A STARFORGED FAN SUPPLEMENT
 
@@ -679,4 +692,9 @@ These possessions and incredible devices are found with the precursor, either he
 
 *Page 27 - [[#^TOC|TOC]]*
 
-# [[_Forge Horizons|FORGE HORIZONS]]
+## Tags
+| Content Index | Tags |
+|:--- |:---:|
+| **[[_Forge Horizons\|Forge Horizons - Contents]]** | #ForgeHorizons/Full |
+
+<font size=-2>Forge Horizons is created by Michael Elliott and licensed for use under the Creative Commons Attribution 4.0 International License (CC-BY). Work is permitted by author for use in this collection of materials.</font>
