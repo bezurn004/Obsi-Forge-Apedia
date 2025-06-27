@@ -19,16 +19,17 @@ Number of Current Files
 	- [ ] Assets
 	- [ ] Any Playkit Material
 
+## Current Release
 ### V0.4.3.4
-- [ ] Oracle Rollers
-	- [ ] Forge Horizons
-	- [ ] Space Encounters Expanded
-	- [ ] Starsmith Cultures
+- [x] Oracle Rollers
+	- [x] Forge Horizons
+	- [x] Space Encounters Expanded
+	- [x] Starsmith Cultures
 - [ ] Full Chapter contents
 	- [ ] SI Standardization and Linking
 	- [ ] SF Import and Linking
 
-## Current Release
+## Completed Changes
 ### V0.4.3.3
 Number of Files: 924
 Committed Files: 121
@@ -50,7 +51,6 @@ Committed Files: 121
 - [x] Community Content main menu layout revision
 - [x] Various typo and formatting adjustments
 
-## Completed Changes
 ### V0.4.3.2
 Number of files : 865
 Committed Files : 223

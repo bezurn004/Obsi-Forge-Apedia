@@ -32,7 +32,7 @@ _Starforged_ offers three ways to play:
 ## Using this Rulebook
 You don’t need to read this book cover-to-cover to learn how to play _Starforged_. Here’s a summary for each chapter, and some advice on what to read and when. 
 
-<contents of the book moved to index of this work>
+%% contents of the book moved to index of this work %%
 
 > [!faq] About Key Terms
 > Throughout this book, key terms will be ==highlighted== when they are first introduced. If a key term is reintroduced in another important context, it will be ==highlighted== again. See the [[GSRY_Definitions]] for a collection of key terms.

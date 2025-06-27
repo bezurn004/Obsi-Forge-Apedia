@@ -37,7 +37,7 @@
 | 99 - 100 | ▶[[SPCST_EX_CH1_Gravitational-Wave#Oracle Burst Intensity - Apocalyptic\|Burst Scale: 5-Apocalyptic]] `dice: [[OT_SPCST_EX_Gravitational-Wave#^Feinnmann-Burst-Scale-Apocalyptic]]` |
 ^Feinnmann-Burst-Scale-All
 
-## Burst Scale Severity
+## Burst Scale Intensity
 
 | dice: 1d100 | Result |
 | :---: | --- |
@@ -46,7 +46,7 @@
 | 38 - 83 | 3 - Damaging |
 | 84 - 98 | 4 - Catastrophic |
 | 99 - 100 | 5 - Apocalyptic |
-^Feinnmann-Burst-Scale-Severity
+^Feinnmann-Burst-Scale-Intensity
 
 ##  Burst Intensity - Negligible
 

@@ -65,7 +65,6 @@
 
 | dice: 1d100 | Result |
 | :---: | --- |
-| -- | None / thin |
 | 1 - 72 | Toxic |
 | 73 - 99 | Corrosive |
 | 100 | Marginal |
@@ -115,6 +114,8 @@
 ^Settlements-Expanse
 
 # Dense Nebula Cloud Debris Field
+
+^cbd154
 
 | dice: 1d100 | Result |
 | :---: | --- |

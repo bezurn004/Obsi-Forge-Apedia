@@ -213,8 +213,8 @@ Think about how the alien’s biology affects practical concerns in your game. C
 > [!mechanics]- | Roll > `dice: [[OT_STRSM_CUL_Xenobiology#^Strange-Alien-Quality]]` | Guidance
 > TEXT ^guidance-Strange-Alien-Quality
 
-| dice: 1d10  |   |   |   |
-| :---: | --- | :---: | --- |
+| dice: 1d10  | Result |
+| :---: | --- |
 | 1 | Communication method |
 | 2 | Clothing, armor or adornment |
 | 3 | Environmental living conditions |

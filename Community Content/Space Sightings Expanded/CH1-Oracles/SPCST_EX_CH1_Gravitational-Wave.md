@@ -89,9 +89,9 @@ Once this information has been collated the scale of the waves cause can be extr
 | Person-sized | -- | -- | 100 | 91 - 100 | 61 - 100 |
 ^table-Feinnmann-Burst-Scale-All
 
-### Oracle: Burst Scale Severity
+### Oracle: Burst Scale Intensity
 > [!mechanics]- | Roll > `dice: [[OT_SPCST_EX_Gravitational-Wave#^Feinnmann-Burst-Scale-All]]` | Guidance
-> TEXT ^guidance-Feinnmann-Burst-Scale-Severity
+> TEXT ^guidance-Feinnmann-Burst-Scale-Intensity
 
 | dice: 1d100 | Result |
 | :---: | --- |
@@ -100,7 +100,7 @@ Once this information has been collated the scale of the waves cause can be extr
 | 38 - 83 | 3 - Damaging |
 | 84 - 98 | 4 - Catastrophic |
 | 99 - 100 | 5 - Apocalyptic |
-^table-Feinnmann-Burst-Scale-Severity
+^table-Feinnmann-Burst-Scale-Intensity
 
 #### Oracle: Burst Intensity - Negligible
 > [!mechanics]- | Roll > `dice: [[OT_SPCST_EX_Gravitational-Wave#^Feinnmann-Burst-Scale-Negligible]]` | Guidance

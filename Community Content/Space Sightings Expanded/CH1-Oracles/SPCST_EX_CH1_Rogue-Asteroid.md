@@ -196,7 +196,7 @@ _**Oracle Quest:** What had been considered a comet due to its trail of flickeri
 | -- | Settlements in conflict |
 ^table-Settlements-Outlands
 
-## Oracle: Settlements - Expanse
+### Oracle: Settlements - Expanse
 > [!mechanics]- | Roll > `dice: [[OT_SPCST_EX_Rogue-Asteroid#^Settlements-Expanse]]` | Guidance
 > TEXT ^guidance-Settlements-Expanse
 
@@ -228,7 +228,9 @@ Then, envision how the impact affects any life and settlements on that planet.
 
 ### Oracle: Asteroid Impact Outcomes - Huge
 > [!mechanics]- | Roll > `dice: [[OT_SPCST_EX_Rogue-Asteroid#^Asteroid-Impact-Outcome-Huge]]` | Guidance
-> TEXT ^guidance-Impact-Outcome-Huge
+> When you discover a rogue asteroid with an impact trajectory, if it successfully impacts a planet, you may roll on the Asteroid Impact Outcomes table to convert the planets type.
+> If your roll corresponds with (or is above on the oracle) the planets current type, either reroll until a suitable result is rolled or convert your planet type to the one below.
+> Then, envision how the impact affects any life and settlements on that planet. ^guidance-Impact-Outcome-Huge
 
 | dice: 1d100 | Result |
 | :---: | --- |
@@ -240,7 +242,9 @@ Then, envision how the impact affects any life and settlements on that planet.
 
 ### Oracle: Asteroid Impact Outcomes - Massive
 > [!mechanics]- | Roll > `dice: [[OT_SPCST_EX_Rogue-Asteroid#^Asteroid-Impact-Outcome-Massive]]` | Guidance
-> TEXT ^guidance-Impact-Outcome-Massive
+> When you discover a rogue asteroid with an impact trajectory, if it successfully impacts a planet, you may roll on the Asteroid Impact Outcomes table to convert the planets type.
+> If your roll corresponds with (or is above on the oracle) the planets current type, either reroll until a suitable result is rolled or convert your planet type to the one below.
+> Then, envision how the impact affects any life and settlements on that planet ^guidance-Impact-Outcome-Massive
 
 | dice: 1d100 | Result |
 | :---: | --- |
@@ -252,7 +256,9 @@ Then, envision how the impact affects any life and settlements on that planet.
 
 ### Oracle: Asteroid Impact Outcomes - Titanic
 > [!mechanics]- | Roll > `dice: [[OT_SPCST_EX_Rogue-Asteroid#^Asteroid-Impact-Outcome-Titanic]]` | Guidance
-> TEXT ^guidance-Impact-Outcome-Titanic
+> When you discover a rogue asteroid with an impact trajectory, if it successfully impacts a planet, you may roll on the Asteroid Impact Outcomes table to convert the planets type.
+> If your roll corresponds with (or is above on the oracle) the planets current type, either reroll until a suitable result is rolled or convert your planet type to the one below.
+> Then, envision how the impact affects any life and settlements on that planet ^guidance-Impact-Outcome-Titanic
 
 | dice: 1d100 | Result |
 | :---: | --- |
@@ -264,7 +270,9 @@ Then, envision how the impact affects any life and settlements on that planet.
 
 ### Oracle: Asteroid Impact Outcomes - Colossal
 > [!mechanics]- | Roll > `dice: [[OT_SPCST_EX_Rogue-Asteroid#^Asteroid-Impact-Outcome-Colossal]]` | Guidance
-> TEXT ^guidance-Impact-Outcome-Colossal
+> When you discover a rogue asteroid with an impact trajectory, if it successfully impacts a planet, you may roll on the Asteroid Impact Outcomes table to convert the planets type.
+> If your roll corresponds with (or is above on the oracle) the planets current type, either reroll until a suitable result is rolled or convert your planet type to the one below.
+> Then, envision how the impact affects any life and settlements on that planet ^guidance-Impact-Outcome-Colossal
 
 | dice: 1d100 | Result |
 | :---: | --- |
@@ -276,7 +284,9 @@ Then, envision how the impact affects any life and settlements on that planet.
 
 ### Oracle: Asteroid Impact Outcomes - Vast
 > [!mechanics]- | Roll > `dice: [[OT_SPCST_EX_Rogue-Asteroid#^Asteroid-Impact-Outcome-Vast]]` | Guidance
-> TEXT ^guidance-Impact-Outcome-Vast
+> When you discover a rogue asteroid with an impact trajectory, if it successfully impacts a planet, you may roll on the Asteroid Impact Outcomes table to convert the planets type.
+> If your roll corresponds with (or is above on the oracle) the planets current type, either reroll until a suitable result is rolled or convert your planet type to the one below.
+> Then, envision how the impact affects any life and settlements on that planet ^guidance-Impact-Outcome-Vast
 
 | dice: 1d100 | Result |
 | :---: | --- |

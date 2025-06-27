@@ -70,7 +70,7 @@
 
 ## Supporting Character - Terminus
 
-| dice 1d:100 | Result |
+| dice: 1d100 | Result |
 | :---: | --- |
 | 1 - 20 | ▶[[SF_CH5_Faction-Types\|Faction]] Create New |
 | 21 - 40 | ▶[[SF_CH5_Character-Approach\|Person]] Create New |
