@@ -3,14 +3,15 @@
 > 
 > |  |  |
 > | --- | :---: |
-> | GAMEPLAY CODEX SECTION | Page 2 |
-> | THE SETTING | Page 28 |
-> | IRONLAND ENCOUNTERS | Page 30 |
-> | CAMPAIGN SETUP | Page 32 |
-> | CHARACTER PRELUDES | Page 34 |
-> | RULES SUMMARY | Page 40 |
-> | MOVE AND ASSET GLOSSARY | Page 44 |
-> | THE FLOW OF PLAY | Page 47 |
+> | GAMEPLAY CODEX SECTION | Page 26 |
+> | THE SETTING | [[#THE SETTING\|Page 28]] |
+> | IRONLAND ENCOUNTERS | [[#IRONLAND ENCOUNTERS\| Page 30]] |
+> | CAMPAIGN SETUP | [[#CAMPAIGN SETUP\|Page 32]] |
+> | CHARACTER PRELUDES | [[#CHARACTER PRELUDES\|Page 34]] |
+> | RULES SUMMARY | [[#RULES SUMMARY\|Page 40]] |
+> | MOVE AND ASSET GLOSSARY | [[#MOVE AND ASSET GLOSSARY\|Page 44]] |
+> | THE FLOW OF PLAY | [[#THE FLOW OF PLAY\|Page 47]] |
+^TOC
 
 *Page 26*
 
@@ -39,7 +40,7 @@ This is the perilous setting for your *Ironsworn* adventures.
 8. **The Veiled Mountains:** These towering, mist-shrouded peaks mark the northern bounds of the settled lands. A few hardy Ironlanders dwell here in seasonal mining camps; they head south before the long, brutal winter takes hold.
 9. **The Shattered Wastes:** This icebound region is uninhabited by Ironlanders. Only a few foolish folk have successfully explored the passages into the Wastes over the Veils. No one knows the bounds of this land or what lies beyond.
 
-*28 GAMEPLAY CODEX THE SETTING*
+*28 GAMEPLAY CODEX THE SETTING* - [[#^TOC|TOC]]
 
 ## IRONLAND ENCOUNTERS
 
@@ -107,7 +108,8 @@ Use this table as a quick reference for the characters, creatures, and entities 
 | 96–97 | Wyvern | Beast | Extreme | Ironsworn 156 |
 | 98–100 | Zealot | Ironlander | Troublesome | Delve 111 |
 
-*30 GAMEPLAY CODEX IRONLAND ENCOUNTERS*
+*30 GAMEPLAY CODEX IRONLAND ENCOUNTERS* - [[#^TOC|TOC]]
+
 GAMEPLAY CODEX IRONLAND ENCOUNTERS
 
 ### FOE RANKS
@@ -168,7 +170,7 @@ Some assets can only be obtained after you fulfill narrative or mechanical requi
 > 
 > - [ ] When you Sojourn within a community with which you share a bond, add +2 (instead of +1).
 
-*32 GAMEPLAY CODEX CAMPAIGN SETUP*
+*32 GAMEPLAY CODEX CAMPAIGN SETUP* - [[#^TOC|TOC]]
 
 #missingArt _character sheet, line pointing to stats_
 Set your **stats** by arranging these values in any order: 3, 2, 2, 1, 1.
@@ -199,7 +201,7 @@ If using the optional **failure** moves, every failed action adds one or more ti
 > **PERILOUS** ( DEFAULT) | 3,2,2,1,1
 > **GRIM** | 3,2,1,1,0
 
-*33 GAMEPLAY CODEX CAMPAIGN SETUP*
+*33 GAMEPLAY CODEX CAMPAIGN SETUP* - [[#^TOC|TOC]]
 
 GAMEPLAY CODEX CHARACTER PRELUDES
 
@@ -289,11 +291,11 @@ As with most oracles, you’re also free to pick an event instead of rolling. Or
 | 99 | VISAGE (RITUAL)<br>They burned your home. Killed your kin. Now, when you wear a painted mask of blood and ash, you wield the power of your grief and anger against your foes. |
 | 100 | WARD (RITUAL)<br>A powerful mystic saved you from a night of horrors with a handful of salt and urgent, whispered chants. To this day, you remember those words. |
 
-*34 GAMEPLAY CODEX CHARACTER PRELUDES*
-*35 GAMEPLAY CODEX CHARACTER PRELUDES*
-*36 GAMEPLAY CODEX CHARACTER PRELUDES*
-*37 GAMEPLAY CODEX CHARACTER PRELUDES*
-*38 GAMEPLAY CODEX CHARACTER PRELUDES*
+*34 GAMEPLAY CODEX CHARACTER PRELUDES* - [[#^TOC|TOC]]
+*35 GAMEPLAY CODEX CHARACTER PRELUDES* - [[#^TOC|TOC]]
+*36 GAMEPLAY CODEX CHARACTER PRELUDES* - [[#^TOC|TOC]]
+*37 GAMEPLAY CODEX CHARACTER PRELUDES* - [[#^TOC|TOC]]
+*38 GAMEPLAY CODEX CHARACTER PRELUDES* - [[#^TOC|TOC]]
 *39 Page*
 
 ## RULES SUMMARY 
@@ -337,7 +339,7 @@ You can also let the intensity of your success or failure frame how you interpre
 > Not sure what a match means for the current situation? You can Ask the Oracle. If the oracle isn’t helpful, and you’re
 still stuck for an idea, don’t sweat it. Just move on.
 
-*40 GAMEPLAY CODEX RULES SUMMARY*
+*40 GAMEPLAY CODEX RULES SUMMARY* - [[#^TOC|TOC]]
 
 ### MOMENTUM
 Your **momentum** value ranges from a -6 to +10. It is tracked on the left edge of your character sheet. You gain and lose momentum as an outcome or option when
@@ -369,7 +371,7 @@ ACTION DIE 4x
 #### MAX MOMENTUM
 Your **max momentum** starts at +10, and is reduced by 1 for every marked debility.
 
-*41 GAMEPLAY CODEX RULES SUMMARY*
+*41 GAMEPLAY CODEX RULES SUMMARY* - [[#^TOC|TOC]]
 
 ### PROGRESS TRACKS
 A **progress track** is used to measure your pace and determine the outcome of a goal or challenge. It is drawn as a row of ten boxes which you mark as you make headway toward your objective.
@@ -398,7 +400,7 @@ As with an action roll, if your progress score beats the challenge dice, it’s 
 
 > Momentum is ignored when you make a progress move. You cannot burn momentum on a progress roll, and you do not suffer from negative momentum.
 
-*42 GAMEPLAY CODEX RULES SUMMARY*
+*42 GAMEPLAY CODEX RULES SUMMARY* - [[#^TOC|TOC]]
 
 ### ORACLES
 When you have questions or seek inspiration, *Ask the Oracle* for guidance. The *Ask the Oracle* move includes a yes/no table for simple questions, and an array of oracle tables are included in #typo Section 3 (page 13) of this guide.
@@ -440,7 +442,7 @@ determine the outcome.
 
 If you roll a 1 on your action die when using a companion ability, any negative outcome of the move should involve your companion.
 
-*43 GAMEPLAY CODEX RULES SUMMARY*
+*43 GAMEPLAY CODEX RULES SUMMARY* - [[#^TOC|TOC]]
 
 ## MOVE AND ASSET GLOSSARY
 
@@ -493,7 +495,7 @@ When you inflict your harm, mark progress against your foe. Each point of harm y
 
 If you are armed with a deadly weapon (such as a sword, axe, spear, or bow), you inflict 2 harm. If you are unarmed or using an improvised or simple weapon (such as a shield, stick, club, staff, or rock), you inflict 1 harm.
 
-*44 GAMEPLAY CODEX MOVE AND ASSET GLOSSARY*
+*44 GAMEPLAY CODEX MOVE AND ASSET GLOSSARY* - [[#^TOC|TOC]]
 
 ### “INFLICT +X HARM”
 Some assets increase your harm in particular circumstances, or a move might give you an option to increase your harm. For example, “inflict +1 Harm” tells you to add 1 harm to your
@@ -527,7 +529,7 @@ Act on these instructions if your action score beats (is greater than) one chall
 ### “ON A STRONG HIT / IF YOU SCORE A STRONG HIT”
 Act on these instructions if your action score beats (is greater than) both challenge dice.
 
-*45 GAMEPLAY CODEX MOVE AND ASSET GLOSSARY*
+*45 GAMEPLAY CODEX MOVE AND ASSET GLOSSARY* - [[#^TOC|TOC]]
 
 ### “PAY THE PRICE”
 This move resolves the outcome of a costly outcome. You can make the most obvious or interesting outcome happen, roll on the Pay the Price table to see what happens, or Ask the *Oracle*.
@@ -573,7 +575,10 @@ This is a move trigger. When you do this thing, or encounter this situation, mak
 
 Only you, the character, makes moves. You or the GM don’t use moves for non-player characters or creatures. If you’re just checking to see if something happens or how someone acts, you can *Ask the Oracle*.
 
-*46 GAMEPLAY CODEX THE FLOW OF PLAY*
+*46 GAMEPLAY CODEX THE FLOW OF PLAY* - [[#^TOC|TOC]]
+
+
+## THE FLOW OF PLAY
 
 #missingArt _flowchart of the flow of play_
 START
@@ -596,4 +601,4 @@ What happens next?
 
 What do you do next?
 
-*Page 47*
+*Page 47* - [[#^TOC|TOC]]

@@ -13,10 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_INDEX.md",
+                "file": "Sundered Ilses/Chapter1 - Gameplay/SI_CH1_Beasts of the Isles.md",
                 "mode": "preview",
                 "source": true
-              }
+              },
+              "icon": "lucide-file",
+              "title": "SI_CH1_Beasts of the Isles"
             }
           }
         ]
@@ -38,8 +40,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -54,7 +59,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,7 +69,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -85,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_INDEX.md",
+                "file": "Ironsworn/Lodestar/Chapter2 - Gameplay/IS_LDS_CH2_Full.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +102,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for IS_LDS_CH2_Full"
             }
           },
           {
@@ -102,10 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_INDEX.md",
+                "file": "Ironsworn/Lodestar/Chapter2 - Gameplay/IS_LDS_CH2_Full.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from IS_LDS_CH2_Full"
             }
           },
           {
@@ -115,8 +128,12 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
-              }
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -125,8 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_INDEX.md"
-              }
+                "file": "Ironsworn/Lodestar/Chapter2 - Gameplay/IS_LDS_CH2_Full.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of IS_LDS_CH2_Full"
             }
           },
           {
@@ -134,7 +156,19 @@
             "type": "leaf",
             "state": {
               "type": "DICE_ROLLER_VIEW",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "f8c434c5844eae5b",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "dices",
+              "title": "Dice Tray"
             }
           }
         ]
@@ -153,12 +187,18 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "templater-obsidian:Templater": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "webpage-html-export:Export Vault to HTML": false
     }
   },
   "active": "66c88b03578b94a9",
   "lastOpenFiles": [
-    "README.md",
-    "_INDEX.md"
+    "Sundered Ilses/Chapter1 - Gameplay/1 - Adevntures Among the Isles.md",
+    "Sundered Ilses/Chapter1 - Gameplay/_SI_CH1_Contents.md",
+    "Ironsworn/Lodestar/Chapter3 - Oracles/IS_LDS_CH3_Full.md",
+    "Ironsworn/Lodestar/Chapter2 - Gameplay/IS_LDS_CH2_Full.md",
+    "Ironsworn/Lodestar/Chapter1 - Moves/IS_LDS_CH1_Full.md",
+    "_INDEX.md",
+    "README.md"
   ]
 }
