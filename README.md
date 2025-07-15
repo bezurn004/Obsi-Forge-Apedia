@@ -1,8 +1,8 @@
 # Readme
-The Obsi-Forge-Apedia (OFA) is a project to enhance the source material from the Ironsworn Starforged Table Top Role-Playing Game. This vault can be used independently for Starforged campaigns as a reference guide. It was initially created as a supplement to the Forged in Obsidian.
+The Obsi-Forge-Apedia (OFA) is a project to enhance the source material from the Ironsworn Classic and Ironsworn Starforged Table Top Role-Playing Game. This vault can be used independently for any Ironsworn campaigns as a reference guide. It was initially created as a supplement to the Forged in Obsidian.
 
 ## Highlights of This Work
-- Full source material from Ironsworn Starforged digestibable in Obsidian mark down format.
+- Full source material from Ironsworn Starforged digestibable and Enhanced Lodestar in Obsidian mark down format.
 - Data view queries and dolphin diagrams to enhance functionality of source material.
 - Oracle roll tables for use during play sessions
 - Slight elaborations and editorial additions with the aim of making the source material more easily understood.
