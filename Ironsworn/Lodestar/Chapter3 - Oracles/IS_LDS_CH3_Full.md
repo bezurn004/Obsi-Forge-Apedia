@@ -3,17 +3,18 @@
 > 
 > |  |  |
 > | --- | :---: |
-> | CORE ORACLES | Page 50 |
-> | LOCATION ORACLES | Page 54 |
-> | SETTLEMENT ORACLES | Page 64 |
-> | CHARACTER ORACLES | Page 70 |
-> | DELVE SITE ORACLES | Page 76 |
-> | MONSTROSITY ORACLES | Page 86 |
-> | THREAT ORACLES | Page 88 |
-> | STORY ORACLES | Page 92 |
-> | COMBAT ORACLES | Page 94 |
-> | MAGIC ORACLES | Page 96 |
-> | SCALE ORACLES | Page 98 |
+> | CORE ORACLES | [[#CORE ACTION\|Page 50]] |
+> | LOCATION ORACLES | [[#LOCATION OVERLAND LANDMARK\|Page 54]] |
+> | SETTLEMENT ORACLES | [[#SETTLEMENT TYPE\|Page 64]] |
+> | CHARACTER ORACLES | [[#CHARACTER FIRST LOOK\|Page 70]] |
+> | DELVE SITE ORACLES | [[#DELVE SITE: THEME\|Page 76]] |
+> | MONSTROSITY ORACLES |[[#MONSTROSITY: SIZE\|Page 86]] |
+> | THREAT ORACLES | [[#THREAT CATEGORY\|Page 88]] |
+> | STORY ORACLES | [[#STORY: REGION\|Page 92]] |
+> | COMBAT ORACLES | [[#COMBAT: BATTLEGROUND\|Page 94]] |
+> | MAGIC ORACLES | [[#MAGIC: RITUAL BACKLASH\|Page 96]] |
+> | SCALE ORACLES | [[#SCALE: MAGNITUDE\|Page 98]] |
+^TOC
 
 *Page 48*
 
@@ -58,7 +59,7 @@
 > - Journey waypoint: Descriptor + Focus
 > - Quest: Action + Descriptor + Focus
  
-*50 ORACLE OMNIBUS CORE ORACLES*
+*50 ORACLE OMNIBUS CORE ORACLES* - [[#^TOC|TOC]]
 
 # CORE: THEME
 
@@ -99,7 +100,7 @@
 > | 21–40 | Descriptor + Focus | 71–85 | Action + Descriptor + Focus |
 > | 41–55 | Action + Focus | 86–100 | Action + Descriptor + Theme |
 
-*51 ORACLE OMNIBUS CORE ORACLES*
+*51 ORACLE OMNIBUS CORE ORACLES* - [[#^TOC|TOC]]
 
 # CORE: DESCRIPTOR
 
@@ -133,7 +134,7 @@
 
 Inspired by *Ironsworn: Starforged*, the Descriptor and Focus oracles replace (and expand) the Aspect and Focus oracles originally included in *Ironsworn: Delve*. They are useful for revealing location-based details and discoveries.
 
-*52 ORACLE OMNIBUS CORE ORACLES*
+*52 ORACLE OMNIBUS CORE ORACLES* - [[#^TOC|TOC]]
 
 ## CORE: FOCUS
 
@@ -167,7 +168,7 @@ Inspired by *Ironsworn: Starforged*, the Descriptor and Focus oracles replace (a
 | 25 | Debris | 50 | Growth | 75 | Craftwork | 100 | Corpse |
 
 
-*53 ORACLE OMNIBUS CORE ORACLES*
+*53 ORACLE OMNIBUS CORE ORACLES* - [[#^TOC|TOC]]
 
 ## LOCATION: OVERLAND LANDMARK
 
@@ -204,7 +205,7 @@ Inspired by *Ironsworn: Starforged*, the Descriptor and Focus oracles replace (a
 > 
 > **To give a journey across a perilous landscape additional focus**, you can use the Delve moves and theme/domain tables. See pages 74–75 of the Ironsworn: Delve rulebook for details. The Delve themes and domains are also included in this guide on pages 77–81.
 
-*54 ORACLE OMNIBUS LOCATION ORACLES*
+*54 ORACLE OMNIBUS LOCATION ORACLES* - [[#^TOC|TOC]]
 
 ## LOCATION: OVERLAND WAYPOINT
 Use this oracle to help envision a location, discovery, or event when you *Undertake a Journey* and reach a waypoint.
@@ -314,9 +315,9 @@ _Check page 56 for the 31–65 results, and page 57 for 66–100. For Coastal Wa
 | 99 | The plants here are strangely at odds with their environment |
 | 100 | Blood-spattered ground or a bloody trail mark a violent end |
 
-*55 ORACLE OMNIBUS LOCATION ORACLES*
+*55 ORACLE OMNIBUS LOCATION ORACLES* - [[#^TOC|TOC]]
 *56 ORACLE OMNIBUS LOCATION ORACLES*
-*57 ORACLE OMNIBUS LOCATION ORACLES*
+*57 ORACLE OMNIBUS LOCATION ORACLES* 
 
 ## LOCATION: OVERLAND PERIL
 
@@ -359,7 +360,7 @@ _Check page 56 for the 31–65 results, and page 57 for 66–100. For Coastal Wa
 | 97–98 | Unstable terrain causes a rockfall or landslide |
 | 99–100 | Your presence triggers a spell or supernatural anomaly |
 
-*58 ORACLE OMNIBUS LOCATION ORACLES*
+*58 ORACLE OMNIBUS LOCATION ORACLES* - [[#^TOC|TOC]]
 
 ## LOCATION: OVERLAND OPPORTUNITY
 
@@ -402,7 +403,7 @@ _Check page 56 for the 31–65 results, and page 57 for 66–100. For Coastal Wa
 | 97–98 | You experience a moment of fellowship or inner peace |
 | 99–100 | You find an object or resource of great value |
 
-*59 ORACLE OMNIBUS LOCATION ORACLES
+*59 ORACLE OMNIBUS LOCATION ORACLES* - [[#^TOC|TOC]]
 
 ## LOCATION: COASTAL WATERS LANDMARK*
 
@@ -484,8 +485,8 @@ _Check page 56 for the 31–65 results, and page 57 for 66–100. For Coastal Wa
 
 For _Overland Landmarks_ and _Waypoints_, see pages 54–57.
 
-*60 ORACLE OMNIBUS LOCATION ORACLES*
-*61 ORACLE OMNIBUS LOCATION ORACLES*
+*60 ORACLE OMNIBUS LOCATION ORACLES* - [[#^TOC|TOC]]
+*61 ORACLE OMNIBUS LOCATION ORACLES* 
 
 ## LOCATION: COASTAL WATERS PERIL
 
@@ -528,7 +529,7 @@ For _Overland Landmarks_ and _Waypoints_, see pages 54–57.
 | 97–98 | A companion or fellow traveler causes a delay |
 | 99–100 | Your presence triggers a spell or supernatural anomaly |
 
-*62 ORACLE OMNIBUS LOCATION ORACLES*
+*62 ORACLE OMNIBUS LOCATION ORACLES* - [[#^TOC|TOC]]
 
 ## LOCATION: COASTAL WATERS OPPORTUNITY
 
@@ -565,7 +566,7 @@ For _Overland Landmarks_ and _Waypoints_, see pages 54–57.
 | 97–98 | You experience a helpful dream or vision |
 | 99–100 | You spot an object or resource of great value |
 
-*63 ORACLE OMNIBUS LOCATION ORACLES*
+*63 ORACLE OMNIBUS LOCATION ORACLES* - [[#^TOC|TOC]]
 
 ## SETTLEMENT: TYPE
 When using this oracle to reveal the scale and purpose of a settlement, choose whether the community is located in settled lands, boundary lands, or remote lands. If unsure, set the location based on the region:
@@ -601,7 +602,7 @@ When using this oracle to reveal the scale and purpose of a settlement, choose w
 | 16–25 | Demanding | 71–80 | Welcoming |
 | 26–35 | Unwelcoming | 81–90 | Friend
 
-*64 ORACLE OMNIBUS SETTLEMENT ORACLES*
+*64 ORACLE OMNIBUS SETTLEMENT ORACLES* - [[#^TOC|TOC]]
 
 ## SETTLEMENT: FIRST LOOK
 
@@ -644,7 +645,7 @@ When using this oracle to reveal the scale and purpose of a settlement, choose w
 | 63 | Large monolith or tower | 99 | Eerie chanting or keening |
 | 64 | Large statue or effigy | 100 | Spectral manifestations |
 
-*65 ORACLE OMNIBUS SETTLEMENT ORACLES*
+*65 ORACLE OMNIBUS SETTLEMENT ORACLES* - [[#^TOC|TOC]]
 
 ## SETTLEMENT: PROJECTS
 
@@ -690,7 +691,7 @@ When using this oracle to reveal the scale and purpose of a settlement, choose w
 | 26–29 | Mysticism | 59–62 | Foraging | 97–98 | Preservation |
 | 30–31 | History | 63–66 | Trade | 99–100 | Education |
 
-*66 ORACLE OMNIBUS SETTLEMENT ORACLES*
+*66 ORACLE OMNIBUS SETTLEMENT ORACLES* - [[#^TOC|TOC]]
 
 ## SETTLEMENT: CULTURAL TOUCHSTONES
 These touchstones represent common beliefs or practices of a community—not universal truths. Individuals can contradict these assumptions, or you might find groups of people in a single community with opposing touchstones.
@@ -728,7 +729,7 @@ These touchstones represent common beliefs or practices of a community—not uni
 > 
 > Projects are the main industry, function, or current focus of a settlement. They do not necessarily represent every activity at the site, but are the most visible or noteworthy aspects. Meanwhile, the Troubles oracle provides a broad description of the site’s most dramatic current issues, and the Cultural Touchstones oracle reveals aspects of the community that you might learn while spending time there.
 
-*67 ORACLE OMNIBUS SETTLEMENT ORACLES*
+*67 ORACLE OMNIBUS SETTLEMENT ORACLES* - [[#^TOC|TOC]]
 
 ## SETTLEMENT: NAME
 Use this oracle for a thematic name for an Ironlander settlement. Roll once for the category, and again to pick from the examples. Or roll only for the category and come up with a name that fits the theme
@@ -770,7 +771,7 @@ Use this oracle for a thematic name for an Ironlander settlement. Roll once for 
 | 41–50 | Historical item (Blackhelm) | 91–100 | Negative term (Forsaken) |
 
 
-*68 ORACLE OMNIBUS SETTLEMENT ORACLES*
+*68 ORACLE OMNIBUS SETTLEMENT ORACLES* - [[#^TOC|TOC]]
 
 ## SETTLEMENT: QUICK NAME GENERATOR
 Use this oracle as a simple alternative for generating a settlement name. Roll once for
@@ -810,7 +811,7 @@ the prefix and once for the suffix, taking your pick of choices in that row.
 | 95–97 | Gold- | -glen | Skarn- | -moor |
 | 98–100 | Mourn- | -mist | Shade- | -crag |
 
-*69 ORACLE OMNIBUS SETTLEMENT ORACLES*
+*69 ORACLE OMNIBUS SETTLEMENT ORACLES* - [[#^TOC|TOC]]
 
 ## CHARACTER: FIRST LOOK
 
@@ -856,7 +857,7 @@ the prefix and once for the suffix, taking your pick of choices in that row.
 | 31–32 | Attractive | 65–66 | Scarred | 99–100 | Uncanny |
 | 33–34 | Youthful | 67–68 | Slight |  |  |
 
-*70 ORACLE OMNIBUS CHARACTER ORACLES*
+*70 ORACLE OMNIBUS CHARACTER ORACLES* - [[#^TOC|TOC]]
 
 ## CHARACTER: DISPOSITION
 
@@ -941,7 +942,7 @@ the prefix and once for the suffix, taking your pick of choices in that row.
 > 
 > Over time, if you interact with a character and gain a deeper understanding of their nature and background, check for additional aspects using tables such as the Revealed Details oracle. You may ignore, reroll, or adjust contradictions. Or envision how those contradictions add interesting complexity to the character.
 
-*72 ORACLE OMNIBUS CHARACTER ORACLES*
+*72 ORACLE OMNIBUS CHARACTER ORACLES* - [[#^TOC|TOC]]
 
 ## CHARACTER: NAME (IRONLANDER SET 1)
 Ironlander names are often gender neutral, but selecting a name may influence how
@@ -979,7 +980,7 @@ In addition, cultures in the Ironlands do not generally use surnames, but you ca
 
 See the next page for more Ironlander names.
 
-*73 ORACLE OMNIBUS CHARACTER ORACLES*
+*73 ORACLE OMNIBUS CHARACTER ORACLES* - [[#^TOC|TOC]]
 
 ## CHARACTER: NAME (IRONLANDER SET 2)
 
@@ -1011,7 +1012,7 @@ See the next page for more Ironlander names.
 | 24 | Kimura | 49 | Menna | 74 | Kori | 99 | Bevan |
 | 25 | Rhian | 50 | Tahir | 75 | Setara | 100 | Chandra |
 
-*74 ORACLE OMNIBUS CHARACTER ORACLES*
+*74 ORACLE OMNIBUS CHARACTER ORACLES* - [[#^TOC|TOC]]
 
 ## CHARACTER: NAME (FIRSTBORN)
 
@@ -1043,7 +1044,7 @@ See the next page for more Ironlander names.
 | 93–96 | Nessana | Ditani | Qudan | Aleko | Leech |
 | 97–100 | Uralar | Faraza | Denua | Vojan | Herk |
 
-*75 ORACLE OMNIBUS CHARACTER ORACLES*
+*75 ORACLE OMNIBUS CHARACTER ORACLES* - [[#^TOC|TOC]]
 
 ## DELVE SITE: THEME
 
@@ -1093,7 +1094,7 @@ The _Reveal a Danger_ table (page 21) is duplicated here for ease of reference.
 | 92–94 | You lose your way or are delayed |
 | 95–100 | Roll twice; if they are the same result, make it worse |
 
-*76 ORACLE OMNIBUS DELVE SITE ORACLES*
+*76 ORACLE OMNIBUS DELVE SITE ORACLES* - [[#^TOC|TOC]]
 
 ## ANCIENT
 **Theme Features** #missingArt _icon of a swoard half within rock_
@@ -1207,7 +1208,7 @@ The _Reveal a Danger_ table (page 21) is duplicated here for ease of reference.
 | 27–28 | Protective ward or barrier |
 | 29–30 | Prophecies reveal a dark fate |
 
-*77 ORACLE OMNIBUS DELVE SITE ORACLES*
+*77 ORACLE OMNIBUS DELVE SITE ORACLES* - [[#^TOC|TOC]]
 
 ## HAUNTED
 **Theme Features** #misingArt _icon of a scall with the jaw missing_
@@ -1321,7 +1322,7 @@ The _Reveal a Danger_ table (page 21) is duplicated here for ease of reference.
 | 27–28 | Evidence of a victim’s fate |
 | 29–30 | Ill-fated victim in danger |
 
-*78 ORACLE OMNIBUS DELVE SITE ORACLES*
+*78 ORACLE OMNIBUS DELVE SITE ORACLES* - [[#^TOC|TOC]]
 
 ## BARROW 
 **Domain Features** #missingArt _icon of mine shaft entrance in a large opening of a cavernous room_
@@ -1550,7 +1551,7 @@ The _Reveal a Danger_ table (page 21) is duplicated here for ease of reference.
 | 40–42 | Rushing current |
 | 43–45 | Claustrophobic squeeze |
 
-*80 ORACLE OMNIBUS DELVE SITE ORACLES*
+*80 ORACLE OMNIBUS DELVE SITE ORACLES* - [[#^TOC|TOC]]
 
 ## SHADOWFEN
 **Domain Features** #missingArt _icon of large plant or bush with reeds poking above in the center_
@@ -1664,7 +1665,7 @@ The _Reveal a Danger_ table (page 21) is duplicated here for ease of reference.
 | 40–42 | Artifact with a hidden danger |
 | 43–45 | Denizen lurks in darkness |
 
-*81 ORACLE OMNIBUS DELVE SITE ORACLES*
+*81 ORACLE OMNIBUS DELVE SITE ORACLES* - [[#^TOC|TOC]]
 
 ## DELVE SITE: NAME (TEMPLATE)
 To generate a name for a delve site, first roll on the Template table. Then, fill in the blanks using the tables in this section.
@@ -1712,7 +1713,7 @@ Then, envision the nature and history of the site using its name as inspiration.
 > 
 > See the Ironsworn: Delve rulebook for details on introducing and exploring sites.
 
-*82 ORACLE OMNIBUS DELVE SITE ORACLES*
+*82 ORACLE OMNIBUS DELVE SITE ORACLES* - [[#^TOC|TOC]]
 
 ## DELVE SITE: NAME (DETAIL)
 
@@ -1758,7 +1759,7 @@ Then, envision the nature and history of the site using its name as inspiration.
 | 31–32 | Sidura | 65–66 | Katarra | 99–100 | Erisia |
 | 33–34 | Svala | 67–68 | Dain |  |  |
 
-*83 ORACLE OMNIBUS DELVE SITE ORACLES*
+*83 ORACLE OMNIBUS DELVE SITE ORACLES* - [[#^TOC|TOC]]
 
 ## DELVE SITE: NAME (PLACE)
 
@@ -1805,7 +1806,7 @@ Then, envision the nature and history of the site using its name as inspiration.
 | 81–90 | Temple | 81–90 | Trough | 81–90 | Slough |
 | 91–100 | Tower | 91–100 | Waters | 91–100 | Wetlands |
 
-*84 ORACLE OMNIBUS DELVE SITE ORACLES*
+*84 ORACLE OMNIBUS DELVE SITE ORACLES* - [[#^TOC|TOC]]
 
 ## DELVE SITE: NAME (PLACE)
 
@@ -1851,7 +1852,7 @@ Use these oracles to envision the nature or function of a trap in a site. Roll o
 | 29–32 | Fear | 65–68 | Terrain |  |  |
 | 33–36 | Alarm | 69–72 | Poison |  |  |
 
-*85 ORACLE OMNIBUS DELVE SITE ORACLES*
+*85 ORACLE OMNIBUS DELVE SITE ORACLES* - [[#^TOC|TOC]]
 
 ## MONSTROSITY: SIZE
 
@@ -1892,7 +1893,7 @@ Use these oracles to envision the nature or function of a trap in a site. Roll o
 | 41–45 | Multi-segmented body | 79–81 | Exoskeleton / shell |  |  |
 | 46–50 | Wings | 82–84 | Bony protuberances |  |  |
 
-*86 ORACLE OMNIBUS MONSTROSITY ORACLES*
+*86 ORACLE OMNIBUS MONSTROSITY ORACLES* - [[#^TOC|TOC]]
 
 ## MONSTROSITY: ABILITIES
 
@@ -1926,7 +1927,7 @@ Use these oracles to envision the nature or function of a trap in a site. Roll o
 > 
 > To learn more about your creation’s nature, use the Character oracles. Check the Activity and Disposition oracles (pages 70–71) to reveal how the encounter begins. Roll on the Goal oracle (page 71) to give the monstrosity a purpose.
 
-*87 ORACLE OMNIBUS MONSTROSITY ORACLES*
+*87 ORACLE OMNIBUS MONSTROSITY ORACLES* - [[#^TOC|TOC]]
 
 ## THREAT: CATEGORY
 Use this oracle to randomly select a broad type of threat for your campaign. If you are prompted (or choose) to roll twice, take both results and decide how these two threats act together or represent a more complex situation. For example, choosing both a Malignant Plague and a Zealous Cult might signify an evil sect that has unleashed a sickness upon the Ironlands in service to a dark god.
@@ -1959,7 +1960,7 @@ The Advance a Threat table (page 24) is duplicated here for ease of reference.
 > 
 > See pages 151–161 of the Ironsworn: Delve rulebook for details on managing threats.
 
-*88 ORACLE OMNIBUS THREAT ORACLES*
+*88 ORACLE OMNIBUS THREAT ORACLES* - [[#^TOC|TOC]]
 
 ## THREAT: BURGEONING CONFLICT
 
@@ -2006,7 +2007,7 @@ The Advance a Threat table (page 24) is duplicated here for ease of reference.
 | 81–90 | Force refugees into hostile lands |
 | 91–100 | Disrupt natural ecosystems |
 
-*89 ORACLE OMNIBUS THREAT ORACLES*
+*89 ORACLE OMNIBUS THREAT ORACLES* - [[#^TOC|TOC]]
 
 ## THREAT: MALIGNANT PLAGUE
 
@@ -2053,8 +2054,6 @@ The Advance a Threat table (page 24) is duplicated here for ease of reference.
 | 81–90 | Cut off supplies or reinforcements |
 | 91–100 | Employ a new weapon |
 
-*90 ORACLE OMNIBUS THREAT ORACLES*
-
 ## THREAT: SCHEMING LEADER
 
 |   |   |
@@ -2100,7 +2099,7 @@ The Advance a Threat table (page 24) is duplicated here for ease of reference.
 | 81–90 | Reveal a dire prophecy |
 | 91–100 | Reveal its true nature or goal |
 
-*91 ORACLE OMNIBUS THREAT ORACLES*
+*91 ORACLE OMNIBUS THREAT ORACLES* - [[#^TOC|TOC]]
 
 ## STORY: REGION
 Use this oracle to decide the location of a story element.
@@ -2141,7 +2140,7 @@ moment in your story.
 | 91–95 | Unexpected powers or abilities are revealed |
 | 96–100 | Roll twice; if they are the same result, make it worse |
 
-*92 ORACLE OMNIBUS STORY ORACLES*
+*92 ORACLE OMNIBUS STORY ORACLES* - [[#^TOC|TOC]]
 
 ## STORY: CLUE
 When you investigate a mystery, you might uncover clues in the form of messages, rumors, eyewitness reports, supernatural revelations, or physical evidence. You can use this oracle to help reveal what this evidence connects to or implicates.
@@ -2183,7 +2182,7 @@ When you investigate a mystery, you might uncover clues in the form of messages,
 | 95–97 | Suggests a looming event or deadline |
 | 98–100 | Suggests an imposter or deception |
 
-*93 ORACLE OMNIBUS STORY ORACLES*
+*93 ORACLE OMNIBUS STORY ORACLES* - [[#^TOC|TOC]]
 
 ## COMBAT: BATTLEGROUND
 Use this oracle to help envision the characteristics and complications of a combat or battle scene. Weave these elements into the actions of your character and their foes.
@@ -2223,7 +2222,7 @@ Use this oracle to reveal the actions of a foe, enemy force, or other NPC in a c
 | 14–17 | Provoke a reckless response | 40–45 | Reinforce defenses | 90–99 | Attack with power |
 | 18–21 | Intimidate or frighten | 46–52 | Ready an action | 100 | Take an unexpected action |
 
-*94 ORACLE OMNIBUS COMBAT ORACLES*
+*94 ORACLE OMNIBUS COMBAT ORACLES* - [[#^TOC|TOC]]
 
 ## COMBAT: EVENT METHOD
 
@@ -2277,7 +2276,7 @@ Use this oracle to reveal the actions of a foe, enemy force, or other NPC in a c
 | 31–32 | Harm | 65–66 | Supply | 99–100 | Power |
 | 33–34 | Finesse | 67–68 | Terrain |  |  |
 
-*95 ORACLE OMNIBUS COMBAT ORACLES*
+*95 ORACLE OMNIBUS COMBAT ORACLES* - [[#^TOC|TOC]]
 
 ## MAGIC: RITUAL BACKLASH
 Those who deal in magic may find themselves at the mercy of chaos. This oracle can supplement, or replace, the Pay the Price table when resolving the outcome of a failed ritual. Use this oracle in dramatic moments, or to introduce an unexpected outcome triggered by a match.
@@ -2310,7 +2309,7 @@ Those who deal in magic may find themselves at the mercy of chaos. This oracle c
 | 93–96 | You are wracked with sudden sickness |
 | 97–100 | Roll twice; if they are the same result, make it worse |
 
-*96 ORACLE OMNIBUS MAGIC ORACLES*
+*96 ORACLE OMNIBUS MAGIC ORACLES* - [[#^TOC|TOC]]
 
 ## MAGIC: MYSTIC EFFECT
 Encounters with magic forces may put you at the mercy of chaos. Use this oracle to help envision the strange and dangerous effects of ancient artifacts, mystic sites, powerful rituals, and other supernatural anomalies. 
@@ -2343,7 +2342,7 @@ Results on this table may have campaign-shaking implications, so use it in rare 
 | 43–44 | Incite an obsession | 89–90 | Grant a lasting boon—at a cost |
 | 45–46 | Manifest inner fears | 91–100 | Roll twice |
 
-*97 ORACLE OMNIBUS MAGIC ORACLES*
+*97 ORACLE OMNIBUS MAGIC ORACLES* - [[#^TOC|TOC]]
 
 ## SCALE: MAGNITUDE
 
@@ -2448,7 +2447,7 @@ Use these oracles to help answer a question related to the scale, extent, or cap
 | 66–85 | Threatening |
 | 86–100 | Hostile |
 
-*98 ORACLE OMNIBUS SCALE ORACLES*
+*98 ORACLE OMNIBUS SCALE ORACLES* - [[#^TOC|TOC]]
 
 ## SCALE: RANK
 Use this oracle to randomly set the challenge rank of a quest, journey, or foe.
@@ -2479,7 +2478,7 @@ Use this oracle to randomly set the challenge rank of a quest, journey, or foe.
 > - Expand your toolkit of Delve themes using the Location Theme oracles. Reimagine any technological details for the fantasy setting.
 > - Use oracle arrays and campaign elements to manage the details and reoccurring aspects of your story.
 
-*99 ORACLE OMNIBUS SCALE ORACLES*
+*99 ORACLE OMNIBUS SCALE ORACLES* - [[#^TOC|TOC]]
 
 # Check Your Gear
 Escape the digital realm! Get the complete Ironsworn kit in print, including hardcover or softcover rulebooks, the Lodestar reference guide, character asset cards, and Delve site cards.
